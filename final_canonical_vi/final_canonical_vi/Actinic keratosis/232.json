@@ -1,1 +1,23 @@
-{"TRICH_XUAT_JSON":{"Danh_muc_benh":"Actinic keratosis","Loai_ton_thuong":["Mảng"],"Mau_sac":["Đỏ","Trắng"],"Hinh_dang":["Bầu dục"],"Phan_bo":["Má","Khu trú"],"Dac_diem":["Tróc vảy","Ranh giới mờ"]}}
+{
+    "TRICH_XUAT_JSON": {
+        "Danh_muc_benh": "Actinic keratosis",
+        "Loai_ton_thuong": [
+            "Mảng"
+        ],
+        "Mau_sac": [
+            "Đỏ",
+            "Trắng"
+        ],
+        "Hinh_dang": [
+            "Bầu dục"
+        ],
+        "Phan_bo": [
+            "Má",
+            "Khu trú"
+        ],
+        "Dac_diem": [
+            "Tróc vảy",
+            "Ranh giới mờ"
+        ]
+    }
+}
