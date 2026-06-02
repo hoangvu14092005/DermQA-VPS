@@ -1,0 +1,62 @@
+{
+  "input_root": "/mnt/d/Dermnet-QA/final_canonical_vi/final_canonical_vi",
+  "output_root": "/mnt/d/Dermnet-QA/final_canonical_vi/vqa_dermnet_B_vi",
+  "disease_folder_count": 9,
+  "total_question_records": 2303,
+  "files": [
+    {
+      "disease_folder": "Bacterial folliculitis",
+      "source_json_count": 2,
+      "question_record_count": 14,
+      "output_file": "/mnt/d/Dermnet-QA/final_canonical_vi/vqa_dermnet_B_vi/Bacterial_folliculitis__vqa_vi.json"
+    },
+    {
+      "disease_folder": "Basal cell carcinoma",
+      "source_json_count": 161,
+      "question_record_count": 1127,
+      "output_file": "/mnt/d/Dermnet-QA/final_canonical_vi/vqa_dermnet_B_vi/Basal_cell_carcinoma__vqa_vi.json"
+    },
+    {
+      "disease_folder": "Bazin_s hydroa vacciniforme",
+      "source_json_count": 6,
+      "question_record_count": 42,
+      "output_file": "/mnt/d/Dermnet-QA/final_canonical_vi/vqa_dermnet_B_vi/Bazin_s_hydroa_vacciniforme__vqa_vi.json"
+    },
+    {
+      "disease_folder": "Benign familial pemphigus",
+      "source_json_count": 9,
+      "question_record_count": 63,
+      "output_file": "/mnt/d/Dermnet-QA/final_canonical_vi/vqa_dermnet_B_vi/Benign_familial_pemphigus__vqa_vi.json"
+    },
+    {
+      "disease_folder": "Benign hereditary telangiectasia",
+      "source_json_count": 9,
+      "question_record_count": 63,
+      "output_file": "/mnt/d/Dermnet-QA/final_canonical_vi/vqa_dermnet_B_vi/Benign_hereditary_telangiectasia__vqa_vi.json"
+    },
+    {
+      "disease_folder": "Birt-Hogg-Dubé syndrome",
+      "source_json_count": 14,
+      "question_record_count": 98,
+      "output_file": "/mnt/d/Dermnet-QA/final_canonical_vi/vqa_dermnet_B_vi/Birt-Hogg-Dube_syndrome__vqa_vi.json"
+    },
+    {
+      "disease_folder": "Blue nevus",
+      "source_json_count": 37,
+      "question_record_count": 259,
+      "output_file": "/mnt/d/Dermnet-QA/final_canonical_vi/vqa_dermnet_B_vi/Blue_nevus__vqa_vi.json"
+    },
+    {
+      "disease_folder": "Boil",
+      "source_json_count": 7,
+      "question_record_count": 49,
+      "output_file": "/mnt/d/Dermnet-QA/final_canonical_vi/vqa_dermnet_B_vi/Boil__vqa_vi.json"
+    },
+    {
+      "disease_folder": "Bullous pemphigoid",
+      "source_json_count": 84,
+      "question_record_count": 588,
+      "output_file": "/mnt/d/Dermnet-QA/final_canonical_vi/vqa_dermnet_B_vi/Bullous_pemphigoid__vqa_vi.json"
+    }
+  ]
+}

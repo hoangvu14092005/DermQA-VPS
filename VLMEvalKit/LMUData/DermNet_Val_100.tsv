@@ -1,0 +1,101 @@
+﻿index	image_path	question	answer	category	type
+0	D:\VuLapTrinh2\DermNet_Dataset\dermnet-output\images\Acanthoma fissuratum\acanthoma-fissuratum-01.jpg	"Trong ảnh được cung cấp, loại tổn thương thực thể nào xuất hiện trong ảnh?
+A. Nốt hồng ban
+B. U mụn
+C. Vết loét
+D. Mày đay"	AB	Lesion_Recognition	Multi_choice
+1	D:\VuLapTrinh2\DermNet_Dataset\dermnet-output\images\Acanthoma fissuratum\acanthoma-fissuratum-01.jpg	Trong hình ảnh này, màu sắc của tổn thương là gì?	Đỏ hồng và Đỏ nâu	Attribute_Color	Short_answer
+2	D:\VuLapTrinh2\DermNet_Dataset\dermnet-output\images\Acanthoma fissuratum\acanthoma-fissuratum-01.jpg	Trong hình ảnh này, mô tả hình thái/ranh giới phù hợp cho tổn thương là ____.	Bán cầu, Tròn và Ranh giới rõ	Attribute_Shape	Fill_in_blank
+3	D:\VuLapTrinh2\DermNet_Dataset\dermnet-output\images\Acanthoma fissuratum\acanthoma-fissuratum-01.jpg	"Quan sát bức ảnh, đặc điểm lâm sàng nào phù hợp với tổn thương?
+A. Đóng mài
+B. Mụn nhỏ trung tâm
+C. Viềng hồng ban xung quanh
+D. Bề mặt bóng mịn"	BCD	Attribute_Characteristics	Multi_choice
+4	D:\VuLapTrinh2\DermNet_Dataset\dermnet-output\images\Acanthoma fissuratum\acanthoma-fissuratum-01.jpg	Trong ảnh được cung cấp, vị trí giải phẫu và/hoặc phân bố được ghi nhận là ____.	Vành tai và Khu trú	Anatomical_Distribution	Fill_in_blank
+5	D:\VuLapTrinh2\DermNet_Dataset\dermnet-output\images\Acanthoma fissuratum\acanthoma-fissuratum-01.jpg	Dựa vào hình ảnh trên, chẩn đoán bệnh da liễu phù hợp là gì?	u gai do nứt kẽ	Diagnosis	Short_answer
+6	D:\VuLapTrinh2\DermNet_Dataset\dermnet-output\images\Acanthoma fissuratum\acanthoma-fissuratum-01.jpg	Quan sát bức ảnh, các dấu hiệu quan sát được có ủng hộ chẩn đoán u gai do nứt kẽ không?	Có	Lesion_Reasoning	Judgement
+7	D:\VuLapTrinh2\DermNet_Dataset\dermnet-output\images\Acanthoma fissuratum\acanthoma-fissuratum-02.jpg	Trong hình ảnh này, tổn thương thực thể chính có phải là Mảng không?	Không	Lesion_Recognition	Judgement
+8	D:\VuLapTrinh2\DermNet_Dataset\dermnet-output\images\Acanthoma fissuratum\acanthoma-fissuratum-02.jpg	Trong hình ảnh này, tổn thương có màu Hồng nhạt, Trắng ngà và Vàng nhạt không?	Có	Attribute_Color	Judgement
+9	D:\VuLapTrinh2\DermNet_Dataset\dermnet-output\images\Acanthoma fissuratum\acanthoma-fissuratum-02.jpg	Quan sát bức ảnh, Đặc điểm hình dạng/ranh giới phù hợp là ____.	Bán cầu, Ranh giới rõ, Trung tâm open	Attribute_Shape	Fill_in_blank
+10	D:\VuLapTrinh2\DermNet_Dataset\dermnet-output\images\Acanthoma fissuratum\acanthoma-fissuratum-02.jpg	"Dựa vào hình ảnh trên, đặc điểm lâm sàng nào phù hợp với tổn thương?
+A. Giãn mạch
+B. Dễ chảy máu
+C. Da teo
+D. Vảy mỏng"	BCD	Attribute_Characteristics	Multi_choice
+11	D:\VuLapTrinh2\DermNet_Dataset\dermnet-output\images\Acanthoma fissuratum\acanthoma-fissuratum-02.jpg	Trong ảnh được cung cấp, vị trí/phân bố của tổn thương có phải là Mặt và Khu trú không?	Có	Anatomical_Distribution	Judgement
+12	D:\VuLapTrinh2\DermNet_Dataset\dermnet-output\images\Acanthoma fissuratum\acanthoma-fissuratum-02.jpg	Trong ảnh được cung cấp, chẩn đoán phù hợp có phải là Sừng da không?	Không	Diagnosis	Judgement
+13	D:\VuLapTrinh2\DermNet_Dataset\dermnet-output\images\Acanthoma fissuratum\acanthoma-fissuratum-02.jpg	Quan sát bức ảnh, các dấu hiệu quan sát được có ủng hộ chẩn đoán u gai do nứt kẽ không?	Không	Lesion_Reasoning	Judgement
+14	D:\VuLapTrinh2\DermNet_Dataset\dermnet-output\images\Acanthosis palmaris\acanthosis.jpg	"Dựa vào hình ảnh trên, loại tổn thương thực thể nào xuất hiện trong ảnh?
+A. Sẩn teo nhỏ
+B. Tăng sắc tố lan tỏa
+C. Dày sừng quang hóa
+D. Sẩn"	ABC	Lesion_Recognition	Multi_choice
+15	D:\VuLapTrinh2\DermNet_Dataset\dermnet-output\images\Acanthosis palmaris\acanthosis.jpg	Trong hình ảnh này, tổn thương có màu Tím không?	Không	Attribute_Color	Judgement
+16	D:\VuLapTrinh2\DermNet_Dataset\dermnet-output\images\Acanthosis palmaris\acanthosis.jpg	Quan sát bức ảnh, mô tả hình thái/ranh giới phù hợp cho tổn thương là ____.	Bất quy tắc, Rải rác và Ranh giới không rõ	Attribute_Shape	Fill_in_blank
+17	D:\VuLapTrinh2\DermNet_Dataset\dermnet-output\images\Acanthosis palmaris\acanthosis.jpg	Trong hình ảnh này, Đặc điểm lâm sàng chi tiết phù hợp là ____.	Da khô, Nhiều nếp nhăn, Tăng cường hóa mạch máu, Móng ngắn cắt gọn	Attribute_Characteristics	Fill_in_blank
+18	D:\VuLapTrinh2\DermNet_Dataset\dermnet-output\images\Acanthosis palmaris\acanthosis.jpg	Trong ảnh được cung cấp, vị trí/phân bố của tổn thương có phải là Mu bàn tay, Rải rác và Đối xứng hai bên không?	Có	Anatomical_Distribution	Judgement
+19	D:\VuLapTrinh2\DermNet_Dataset\dermnet-output\images\Acanthosis palmaris\acanthosis.jpg	Quan sát bức ảnh, chẩn đoán bệnh da liễu phù hợp là gì?	dày gai lòng bàn tay	Diagnosis	Short_answer
+20	D:\VuLapTrinh2\DermNet_Dataset\dermnet-output\images\Acanthosis palmaris\acanthosis.jpg	Quan sát bức ảnh, vì sao các đặc điểm tổn thương gợi ý chẩn đoán dày gai lòng bàn tay?	Sẩn teo nhỏ, Dày sừng quang hóa và Tăng sắc tố lan tỏa màu Tăng sắc tố nâu, Da tự nhiên và Nhợt nhạt, hình dạng/ranh giới Bất quy tắc, Rải rác và Ranh giới không rõ phù hợp với chẩn đoán dày gai lòng bàn tay.	Lesion_Reasoning	Short_answer
+21	D:\VuLapTrinh2\DermNet_Dataset\dermnet-output\images\Acanthosis palmaris\tripe-palms.jpg	Trong hình ảnh này, loại tổn thương thực thể chính là gì?	Dày sừng gan bàn tay và Mảng dày sừng	Lesion_Recognition	Short_answer
+22	D:\VuLapTrinh2\DermNet_Dataset\dermnet-output\images\Acanthosis palmaris\tripe-palms.jpg	Trong hình ảnh này, tổn thương có màu Nâu không?	Không	Attribute_Color	Judgement
+23	D:\VuLapTrinh2\DermNet_Dataset\dermnet-output\images\Acanthosis palmaris\tripe-palms.jpg	Trong ảnh được cung cấp, hình dạng hoặc ranh giới của tổn thương được mô tả như thế nào?	Khu trú, Bất quy tắc và Ranh giới không rõ	Attribute_Shape	Short_answer
+24	D:\VuLapTrinh2\DermNet_Dataset\dermnet-output\images\Acanthosis palmaris\tripe-palms.jpg	Quan sát bức ảnh, đặc điểm lâm sàng chi tiết của tổn thương là gì?	Nhiều nốt sần nhỏ, Nếp nhăn sâu, Da khô và Vảy mịn	Attribute_Characteristics	Short_answer
+25	D:\VuLapTrinh2\DermNet_Dataset\dermnet-output\images\Acanthosis palmaris\tripe-palms.jpg	Trong ảnh được cung cấp, vị trí/phân bố của tổn thương có phải là Thân mình không?	Không	Anatomical_Distribution	Judgement
+26	D:\VuLapTrinh2\DermNet_Dataset\dermnet-output\images\Acanthosis palmaris\tripe-palms.jpg	Trong ảnh được cung cấp, chẩn đoán phù hợp có phải là Bệnh vôi hóa mạch máu da không?	Không	Diagnosis	Judgement
+27	D:\VuLapTrinh2\DermNet_Dataset\dermnet-output\images\Acanthosis palmaris\tripe-palms.jpg	Dựa vào hình ảnh trên, vì sao các đặc điểm tổn thương gợi ý chẩn đoán dày gai lòng bàn tay?	Dày sừng gan bàn tay và Mảng dày sừng màu Nâu vàng và Xám nâu, hình dạng/ranh giới Khu trú, Bất quy tắc và Ranh giới không rõ phù hợp với chẩn đoán dày gai lòng bàn tay.	Lesion_Reasoning	Short_answer
+28	D:\VuLapTrinh2\DermNet_Dataset\dermnet-output\images\Acne vulgaris\141.jpg	Dựa vào hình ảnh trên, tổn thương thực thể chính có phải là Sẩn hồng ban, Mụn mủ nhỏ và Nốt sẩn viêm không?	Có	Lesion_Recognition	Judgement
+29	D:\VuLapTrinh2\DermNet_Dataset\dermnet-output\images\Acne vulgaris\141.jpg	Quan sát bức ảnh, tổn thương có màu Đỏ và Đỏ nâu không?	Có	Attribute_Color	Judgement
+30	D:\VuLapTrinh2\DermNet_Dataset\dermnet-output\images\Acne vulgaris\141.jpg	Trong hình ảnh này, hình dạng hoặc ranh giới tổn thương có đặc điểm Ranh giới rõ không?	Không	Attribute_Shape	Judgement
+31	D:\VuLapTrinh2\DermNet_Dataset\dermnet-output\images\Acne vulgaris\141.jpg	Quan sát bức ảnh, đặc điểm lâm sàng bổ sung của tổn thương là ____.	Viêm nang lông, Vảy nhẹ và Tổn thương đang lành	Attribute_Characteristics	Fill_in_blank
+32	D:\VuLapTrinh2\DermNet_Dataset\dermnet-output\images\Acne vulgaris\141.jpg	Trong ảnh được cung cấp, hãy cho biết vị trí giải phẫu và kiểu phân bố của tổn thương.	Lưng trên, Vai và Rải rác không đều	Anatomical_Distribution	Short_answer
+33	D:\VuLapTrinh2\DermNet_Dataset\dermnet-output\images\Acne vulgaris\141.jpg	Quan sát bức ảnh, chẩn đoán bệnh da liễu phù hợp là gì?	mụn trứng cá thông thường	Diagnosis	Short_answer
+34	D:\VuLapTrinh2\DermNet_Dataset\dermnet-output\images\Acne vulgaris\141.jpg	Trong hình ảnh này, sự kết hợp giữa loại tổn thương, màu sắc và hình dạng giúp gợi ý chẩn đoán ____.	mụn trứng cá thông thường	Lesion_Reasoning	Fill_in_blank
+35	D:\VuLapTrinh2\DermNet_Dataset\dermnet-output\images\Acne vulgaris\142.jpg	Trong hình ảnh này, loại tổn thương thực thể chính là gì?	Sẩn hồng ban và Sẩn sợi	Lesion_Recognition	Short_answer
+36	D:\VuLapTrinh2\DermNet_Dataset\dermnet-output\images\Acne vulgaris\142.jpg	Dựa vào hình ảnh trên, màu sắc nổi bật của tổn thương được ghi nhận là ____.	Đỏ hồng và Hồng nhạt	Attribute_Color	Fill_in_blank
+37	D:\VuLapTrinh2\DermNet_Dataset\dermnet-output\images\Acne vulgaris\142.jpg	Quan sát bức ảnh, mô tả hình thái/ranh giới phù hợp cho tổn thương là ____.	Nhỏ tròn và Ranh giới không rõ	Attribute_Shape	Fill_in_blank
+38	D:\VuLapTrinh2\DermNet_Dataset\dermnet-output\images\Acne vulgaris\142.jpg	Quan sát bức ảnh, đặc điểm lâm sàng chi tiết của tổn thương là gì?	Tổn thương đồng nhất và Phân bố rải rác	Attribute_Characteristics	Short_answer
+39	D:\VuLapTrinh2\DermNet_Dataset\dermnet-output\images\Acne vulgaris\142.jpg	Trong hình ảnh này, vị trí/phân bố của tổn thương có phải là Lưng trên, Vai, Lan tỏa và Đối xứng không?	Có	Anatomical_Distribution	Judgement
+40	D:\VuLapTrinh2\DermNet_Dataset\dermnet-output\images\Acne vulgaris\142.jpg	"Trong ảnh được cung cấp, chẩn đoán nào phù hợp nhất?
+A. Sừng da
+B. Áp xe da
+C. mụn trứng cá thông thường
+D. Bệnh vôi hóa mạch máu da"	C	Diagnosis	Multi_choice
+41	D:\VuLapTrinh2\DermNet_Dataset\dermnet-output\images\Acne vulgaris\142.jpg	Quan sát bức ảnh, các dấu hiệu quan sát được có ủng hộ chẩn đoán mụn trứng cá thông thường không?	Có	Lesion_Reasoning	Judgement
+42	D:\VuLapTrinh2\DermNet_Dataset\dermnet-output\images\Acne vulgaris\143.jpg	Trong ảnh được cung cấp, tổn thương thực thể chính có phải là Vết loét không?	Không	Lesion_Recognition	Judgement
+43	D:\VuLapTrinh2\DermNet_Dataset\dermnet-output\images\Acne vulgaris\143.jpg	"Trong ảnh được cung cấp, màu sắc nào được ghi nhận ở tổn thương?
+A. Đỏ hồng
+B. Đỏ
+C. Tím
+D. Nâu"	AB	Attribute_Color	Multi_choice
+44	D:\VuLapTrinh2\DermNet_Dataset\dermnet-output\images\Acne vulgaris\143.jpg	Trong ảnh được cung cấp, hình dạng hoặc ranh giới tổn thương có đặc điểm Tròn, Nổi cao và Ranh giới tương đối rõ không?	Có	Attribute_Shape	Judgement
+45	D:\VuLapTrinh2\DermNet_Dataset\dermnet-output\images\Acne vulgaris\143.jpg	Trong ảnh được cung cấp, đặc điểm lâm sàng bổ sung của tổn thương là ____.	Viêm nang lông và Tập trung quanh nang lông	Attribute_Characteristics	Fill_in_blank
+46	D:\VuLapTrinh2\DermNet_Dataset\dermnet-output\images\Acne vulgaris\143.jpg	"Dựa vào hình ảnh trên, phương án nào mô tả đúng vị trí giải phẫu và phân bố của tổn thương?
+A. Bàn chân + phân bố khu trú
+B. Lưng trên + phân bố Vai, Hai bên và Phân bố rải rác
+C. Bàn chân + phân bố một bên
+D. Bàn chân + phân bố đối xứng"	B	Anatomical_Distribution	Multi_choice
+47	D:\VuLapTrinh2\DermNet_Dataset\dermnet-output\images\Acne vulgaris\143.jpg	Trong ảnh được cung cấp, chẩn đoán phù hợp nhất với hình ảnh là ____.	mụn trứng cá thông thường	Diagnosis	Fill_in_blank
+48	D:\VuLapTrinh2\DermNet_Dataset\dermnet-output\images\Acne vulgaris\143.jpg	Dựa vào hình ảnh trên, các dấu hiệu quan sát được có ủng hộ chẩn đoán mụn trứng cá thông thường không?	Không	Lesion_Reasoning	Judgement
+49	D:\VuLapTrinh2\DermNet_Dataset\dermnet-output\images\Acne vulgaris\144.jpg	"Trong ảnh được cung cấp, loại tổn thương thực thể nào xuất hiện trong ảnh?
+A. Sẩn hồng ban
+B. Sẩn
+C. Sẩn cục
+D. Mụn mủ nhỏ"	ACD	Lesion_Recognition	Multi_choice
+50	D:\VuLapTrinh2\DermNet_Dataset\dermnet-output\images\Acne vulgaris\144.jpg	Trong ảnh được cung cấp, màu sắc của tổn thương là gì?	Đỏ tươi và Đỏ tía	Attribute_Color	Short_answer
+51	D:\VuLapTrinh2\DermNet_Dataset\dermnet-output\images\Acne vulgaris\144.jpg	Quan sát bức ảnh, hình dạng hoặc ranh giới tổn thương có đặc điểm Tròn, Nổi cao và Bờ rõ không?	Có	Attribute_Shape	Judgement
+52	D:\VuLapTrinh2\DermNet_Dataset\dermnet-output\images\Acne vulgaris\144.jpg	Quan sát bức ảnh, đặc điểm lâm sàng bổ sung của tổn thương là ____.	Vảy tiết và Mủ đầu trắng	Attribute_Characteristics	Fill_in_blank
+53	D:\VuLapTrinh2\DermNet_Dataset\dermnet-output\images\Acne vulgaris\144.jpg	Trong hình ảnh này, vị trí giải phẫu và/hoặc phân bố được ghi nhận là ____.	Vai, Lưng trên, Đối xứng và Lan tỏa	Anatomical_Distribution	Fill_in_blank
+54	D:\VuLapTrinh2\DermNet_Dataset\dermnet-output\images\Acne vulgaris\144.jpg	Dựa vào hình ảnh trên, chẩn đoán bệnh da liễu phù hợp là gì?	mụn trứng cá thông thường	Diagnosis	Short_answer
+55	D:\VuLapTrinh2\DermNet_Dataset\dermnet-output\images\Acne vulgaris\144.jpg	Trong hình ảnh này, sự kết hợp giữa loại tổn thương, màu sắc và hình dạng giúp gợi ý chẩn đoán ____.	mụn trứng cá thông thường	Lesion_Reasoning	Fill_in_blank
+56	D:\VuLapTrinh2\DermNet_Dataset\dermnet-output\images\Acne vulgaris\146.jpg	Trong hình ảnh này, loại tổn thương thực thể chính là gì?	Sẩn hồng ban và Ban đỏ dát nhỏ	Lesion_Recognition	Short_answer
+57	D:\VuLapTrinh2\DermNet_Dataset\dermnet-output\images\Acne vulgaris\146.jpg	Trong ảnh được cung cấp, màu sắc nổi bật của tổn thương được ghi nhận là ____.	Đỏ tươi và Đỏ tía	Attribute_Color	Fill_in_blank
+58	D:\VuLapTrinh2\DermNet_Dataset\dermnet-output\images\Acne vulgaris\146.jpg	"Trong ảnh được cung cấp, đặc điểm hình dạng/ranh giới nào phù hợp với tổn thương?
+A. Dạng vòng
+B. Bất quy tắc
+C. Ranh giới mờ
+D. Bán cầu nhô"	BD	Attribute_Shape	Multi_choice
+59	D:\VuLapTrinh2\DermNet_Dataset\dermnet-output\images\Acne vulgaris\146.jpg	Dựa vào hình ảnh trên, Đặc điểm lâm sàng chi tiết phù hợp là ____.	Mật độ dày đặc, Kích thước không đều, Viêm nhẹ	Attribute_Characteristics	Fill_in_blank
+60	D:\VuLapTrinh2\DermNet_Dataset\dermnet-output\images\Acne vulgaris\146.jpg	Trong ảnh được cung cấp, vị trí giải phẫu và/hoặc phân bố được ghi nhận là ____.	Lưng trên, Gai vai và Tản scattering	Anatomical_Distribution	Fill_in_blank
+61	D:\VuLapTrinh2\DermNet_Dataset\dermnet-output\images\Acne vulgaris\146.jpg	Trong hình ảnh này, chẩn đoán bệnh da liễu phù hợp là gì?	mụn trứng cá thông thường	Diagnosis	Short_answer
+62	D:\VuLapTrinh2\DermNet_Dataset\dermnet-output\images\Acne vulgaris\146.jpg	Trong ảnh được cung cấp, các dấu hiệu quan sát được có ủng hộ chẩn đoán mụn trứng cá thông thường không?	Không	Lesion_Reasoning	Judgement
+63	D:\VuLapTrinh2\DermNet_Dataset\dermnet-output\images\Acne vulgaris\148.jpg	Dựa vào hình ảnh trên, loại tổn thương thực thể chính quan sát được là ____.	Sẩn dạng sùi và Mảng hồng ban	Lesion_Recognition	Fill_in_blank

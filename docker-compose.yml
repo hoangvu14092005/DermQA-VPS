@@ -1,0 +1,27 @@
+services:
+  vlmeval:
+    build:
+      context: .
+      dockerfile: docker/Dockerfile
+    image: dermnet-vlmeval:latest
+    environment:
+      # Đổi model / dataset tại đây nếu muốn
+      MODEL: "Qwen2.5-VL-3B-Instruct-AWQ"
+      DATA: "DermNet_Test DermNet_Val_4k"
+      HF_TOKEN: "${HF_TOKEN:-}"
+    volumes:
+      # TSV (đã convert sang path container)
+      - ./docker/LMUData:/app/data/LMUData
+      # Ảnh DermNet
+      - ./dermnet-output/dermnet-output/images:/app/data/images
+      # HF model cache (giữ giữa các lần chạy, tránh tải lại)
+      - ./docker/hf_cache:/app/data/hf_cache
+      # Kết quả eval
+      - ./docker/outputs:/app/outputs
+    deploy:
+      resources:
+        reservations:
+          devices:
+            - driver: nvidia
+              count: all
+              capabilities: [gpu]

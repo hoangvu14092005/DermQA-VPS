@@ -1,0 +1,140 @@
+{
+  "input_root": "/mnt/d/Dermnet-QA/final_canonical_vi/final_canonical_vi",
+  "output_root": "/mnt/d/Dermnet-QA/final_canonical_vi/vqa_dermnet_C_vi",
+  "disease_folder_count": 22,
+  "total_question_records": 2625,
+  "files": [
+    {
+      "disease_folder": "Calcinosis cutis",
+      "source_json_count": 22,
+      "question_record_count": 154,
+      "output_file": "/mnt/d/Dermnet-QA/final_canonical_vi/vqa_dermnet_C_vi/Calcinosis_cutis__vqa_vi.json"
+    },
+    {
+      "disease_folder": "Calciphylaxis",
+      "source_json_count": 15,
+      "question_record_count": 105,
+      "output_file": "/mnt/d/Dermnet-QA/final_canonical_vi/vqa_dermnet_C_vi/Calciphylaxis__vqa_vi.json"
+    },
+    {
+      "disease_folder": "Capillary vascular malformation",
+      "source_json_count": 14,
+      "question_record_count": 98,
+      "output_file": "/mnt/d/Dermnet-QA/final_canonical_vi/vqa_dermnet_C_vi/Capillary_vascular_malformation__vqa_vi.json"
+    },
+    {
+      "disease_folder": "Carotenoderma",
+      "source_json_count": 2,
+      "question_record_count": 14,
+      "output_file": "/mnt/d/Dermnet-QA/final_canonical_vi/vqa_dermnet_C_vi/Carotenoderma__vqa_vi.json"
+    },
+    {
+      "disease_folder": "Cellulitis",
+      "source_json_count": 21,
+      "question_record_count": 147,
+      "output_file": "/mnt/d/Dermnet-QA/final_canonical_vi/vqa_dermnet_C_vi/Cellulitis__vqa_vi.json"
+    },
+    {
+      "disease_folder": "Cherry angioma",
+      "source_json_count": 21,
+      "question_record_count": 147,
+      "output_file": "/mnt/d/Dermnet-QA/final_canonical_vi/vqa_dermnet_C_vi/Cherry_angioma__vqa_vi.json"
+    },
+    {
+      "disease_folder": "Chilblains",
+      "source_json_count": 5,
+      "question_record_count": 35,
+      "output_file": "/mnt/d/Dermnet-QA/final_canonical_vi/vqa_dermnet_C_vi/Chilblains__vqa_vi.json"
+    },
+    {
+      "disease_folder": "Chloracne _ MADISH",
+      "source_json_count": 3,
+      "question_record_count": 21,
+      "output_file": "/mnt/d/Dermnet-QA/final_canonical_vi/vqa_dermnet_C_vi/Chloracne___MADISH__vqa_vi.json"
+    },
+    {
+      "disease_folder": "Cold urticaria",
+      "source_json_count": 10,
+      "question_record_count": 70,
+      "output_file": "/mnt/d/Dermnet-QA/final_canonical_vi/vqa_dermnet_C_vi/Cold_urticaria__vqa_vi.json"
+    },
+    {
+      "disease_folder": "Colloid milium",
+      "source_json_count": 3,
+      "question_record_count": 21,
+      "output_file": "/mnt/d/Dermnet-QA/final_canonical_vi/vqa_dermnet_C_vi/Colloid_milium__vqa_vi.json"
+    },
+    {
+      "disease_folder": "Congenital melanocytic naevus",
+      "source_json_count": 20,
+      "question_record_count": 140,
+      "output_file": "/mnt/d/Dermnet-QA/final_canonical_vi/vqa_dermnet_C_vi/Congenital_melanocytic_naevus__vqa_vi.json"
+    },
+    {
+      "disease_folder": "Cryoglobulinaemia",
+      "source_json_count": 16,
+      "question_record_count": 112,
+      "output_file": "/mnt/d/Dermnet-QA/final_canonical_vi/vqa_dermnet_C_vi/Cryoglobulinaemia__vqa_vi.json"
+    },
+    {
+      "disease_folder": "Cutaneous abscess",
+      "source_json_count": 6,
+      "question_record_count": 42,
+      "output_file": "/mnt/d/Dermnet-QA/final_canonical_vi/vqa_dermnet_C_vi/Cutaneous_abscess__vqa_vi.json"
+    },
+    {
+      "disease_folder": "Cutaneous amyloidosis",
+      "source_json_count": 37,
+      "question_record_count": 259,
+      "output_file": "/mnt/d/Dermnet-QA/final_canonical_vi/vqa_dermnet_C_vi/Cutaneous_amyloidosis__vqa_vi.json"
+    },
+    {
+      "disease_folder": "Cutaneous horn",
+      "source_json_count": 29,
+      "question_record_count": 203,
+      "output_file": "/mnt/d/Dermnet-QA/final_canonical_vi/vqa_dermnet_C_vi/Cutaneous_horn__vqa_vi.json"
+    },
+    {
+      "disease_folder": "Cutaneous larva migrans",
+      "source_json_count": 3,
+      "question_record_count": 21,
+      "output_file": "/mnt/d/Dermnet-QA/final_canonical_vi/vqa_dermnet_C_vi/Cutaneous_larva_migrans__vqa_vi.json"
+    },
+    {
+      "disease_folder": "Cutaneous lupus erythematosus",
+      "source_json_count": 102,
+      "question_record_count": 714,
+      "output_file": "/mnt/d/Dermnet-QA/final_canonical_vi/vqa_dermnet_C_vi/Cutaneous_lupus_erythematosus__vqa_vi.json"
+    },
+    {
+      "disease_folder": "Cutaneous tuberculosis",
+      "source_json_count": 26,
+      "question_record_count": 182,
+      "output_file": "/mnt/d/Dermnet-QA/final_canonical_vi/vqa_dermnet_C_vi/Cutaneous_tuberculosis__vqa_vi.json"
+    },
+    {
+      "disease_folder": "Cutaneous vasculitis",
+      "source_json_count": 7,
+      "question_record_count": 49,
+      "output_file": "/mnt/d/Dermnet-QA/final_canonical_vi/vqa_dermnet_C_vi/Cutaneous_vasculitis__vqa_vi.json"
+    },
+    {
+      "disease_folder": "Cutis marmorata telangiectatica congenita",
+      "source_json_count": 5,
+      "question_record_count": 35,
+      "output_file": "/mnt/d/Dermnet-QA/final_canonical_vi/vqa_dermnet_C_vi/Cutis_marmorata_telangiectatica_congenita__vqa_vi.json"
+    },
+    {
+      "disease_folder": "Cutis verticis gyrata",
+      "source_json_count": 5,
+      "question_record_count": 35,
+      "output_file": "/mnt/d/Dermnet-QA/final_canonical_vi/vqa_dermnet_C_vi/Cutis_verticis_gyrata__vqa_vi.json"
+    },
+    {
+      "disease_folder": "Cytophagic histiocytic panniculitis",
+      "source_json_count": 3,
+      "question_record_count": 21,
+      "output_file": "/mnt/d/Dermnet-QA/final_canonical_vi/vqa_dermnet_C_vi/Cytophagic_histiocytic_panniculitis__vqa_vi.json"
+    }
+  ]
+}

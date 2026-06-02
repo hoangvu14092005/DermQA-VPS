@@ -1,0 +1,38 @@
+# Security keys (QUAN TRỌNG: Không bao giờ commit private key)
+mykey.pem
+*.pem
+*.key
+
+# Dataset images (Dung lượng lớn, không commit lên Git)
+dermnet-output/
+images/
+
+# Dữ liệu cache và output của Docker
+docker/hf_cache/
+docker/outputs/
+docker/LMUData/
+
+# Virtual Environments & Python cache
+.venv/
+venv/
+env/
+VLMEvalKit/.venv/
+**/__pycache__/
+*.pyc
+
+# File cấu hình môi trường cục bộ
+.env
+VLMEvalKit/.env
+
+# Thư mục output của VLMEvalKit khi chạy local
+VLMEvalKit/outputs/
+outputs/
+
+# Thư mục rác tạo nhầm trên Windows
+-Force/
+
+# Hệ điều hành và IDE
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
