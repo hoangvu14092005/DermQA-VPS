@@ -1,0 +1,74 @@
+# Loét Martorell — thông tin bổ sung
+
+Thể loại:
+
+Bệnh hệ thống, vấn đề về mạch máu
+
+SNOMED CT:
+
+238795008
+
+**[Bệnh hệ thống, vấn đề về mạch máu](https://dermnetnz.org/topics/topics?category=Systemic+diseases)**
+
+
+# **Loét Martorell**
+
+Tác giả: Tiến sĩ Delwyn Dyall-Smith FACD, Bác sĩ da liễu, Úc, 2011.
+
+---
+
+## Loét Martorell là gì?
+
+Loét Martorell là một vết loét rất đau ở cẳng chân, phát triển liên quan đến tình trạng huyết áp cao không được kiểm soát tốt. Nó còn được gọi là loét chân do tăng huyết áp Martorell, loét xơ vữa động mạch Martorell và loét chân do thiếu máu cục bộ do tăng huyết áp Martorell (Martorell HYTILU).
+![Loét Martorell](https://dermnetnz.org/assets/Uploads/vascular/s/martorell1.jpg)
+![Loét Martorell](https://dermnetnz.org/assets/Uploads/vascular/w/martorell2.jpg)
+![Loét Martorell](https://dermnetnz.org/assets/Uploads/vascular/w/martorell3.jpg)
+
+---
+
+## Ai bị loét Martorell và tại sao?
+
+Loét Martorell xảy ra ở những bệnh nhân bị huyết áp cao kéo dài và thường không được kiểm soát tốt. Ngoài ra, còn có mối liên quan với [bệnh tiểu đường](https://dermnetnz.org/topics/skin-problems-associated-with-diabetes-mellitus) . Loét Martorell ảnh hưởng đến phụ nữ nhiều hơn nam giới. Hầu hết bệnh nhân ở độ tuổi 50 và 60, với độ tuổi được báo cáo là từ 41-86.
+Người ta tin rằng vết loét là kết quả của sự thu hẹp các mạch máu nhỏ nằm dưới da, dẫn đến tăng sức cản dòng máu, và thiếu máu cung cấp cho da, dẫn đến hoại tử da. Ngoài ra, các mạch máu không thể mở ra để tăng lượng máu cung cấp. Đây là dạng bệnh động mạch ngoại biên nhất .
+
+---
+
+## Đặc điểm lâm sàng của loét Martorell
+
+Loét Martorell thường xảy ra ở mặt ngoài của mặt sau cẳng chân, thường ngay phía trên mắt cá chân. Một vị trí phổ biến khác là trên gân Achilles.
+Một tỷ lệ đáng kể bệnh nhân báo cáo vết loét bắt đầu sau chấn thương da , nhưng phổ biến hơn là nó bắt đầu bằng một vết phồng rộp hoặc mảng đỏ đau đớn chuyển sang màu xanh rồi loét.
+Các đặc điểm của vết loét có thể bao gồm:
+- Đau dữ dội không tương xứng với kích thước và hình dạng của vết loét – thường được mô tả là 'mạnh đến đau đớn'
+- Đơn độc hoặc đối xứng , ảnh hưởng đến cùng một vị trí ở cả hai chân dưới
+- Mép vết loét bị viêm màu đỏ tím
+- Các đợt tăng kích thước đột ngột do vùng da khác bị hoại tử
+- Hình dạng không đều
+- Loét vệ tinh
+- Sâu, lộ gân bên dưới
+- Không đáp ứng với các phương pháp điều trị thông thường cho bệnh loét chân.
+Những vết loét này thường xảy ra khi không có bệnh lý động mạch hoặc tĩnh mạch đáng kể .
+Loét lan rộng có thể dẫn đến hậu quả xấu.
+
+---
+
+## Loét Martorell được chẩn đoán như thế nào?
+
+Loét Martorell nên được xem xét lâm sàng khi bệnh nhân bị huyết áp cao lâu năm có [các vết loét chân](https://dermnetnz.org/topics/leg-ulcer) rất đau ở mặt ngoài cẳng chân hoặc trên gân Achilles. Không có bệnh lý đáng kể nào ảnh hưởng đến động mạch hoặc tĩnh mạch. Bệnh nhân loét Martorell không bị đau khi nghỉ ngơi hoặc đau cách hồi (đau ở cơ bắp chân khi đi bộ). Ngoài ra, họ không bị bệnh thận, do đó loại trừ khả năng [calciphylaxis .](https://dermnetnz.org/topics/calciphylaxis)
+[Sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) hình elip, sâu, hẹp, cắt ngang qua mép vết loét, bao gồm cả da bình thường và vết loét, và kéo dài xuống lớp mỡ dưới da cho thấy thành động mạch dày lên, thường có lắng đọng canxi, trông giống như vôi hóa mạch máu. Không có tình trạng viêm mạch máu. Sinh thiết bằng kim chọc từ vết loét không đủ sâu để phát hiện những thay đổi đặc trưng này và chẩn đoán có thể bị bỏ sót. [](https://dermnetnz.org/topics/skin-biopsy)
+Các xét nghiệm máu như protein C phản ứng và số lượng bạch cầu có thể tăng cao.
+
+---
+
+## Điều trị loét Martorell
+
+Việc điều trị được chia thành hai phần:
+- Kiểm soát huyết áp tốt hơn bằng các loại thuốc giúp mở rộng mạch máu và không gây co thắt mạch máu. Do đó, nên ngừng thuốc chẹn beta không đặc hiệu và sử dụng thuốc chẹn kênh canxi, thuốc chẹn beta 1 đặc hiệu và thuốc ức chế men chuyển nếu có thể. Một loạt ca bệnh lớn đã chỉ ra rằng ngay cả việc giảm huyết áp nhẹ cũng có thể có tác động đáng kể đến cơn đau và quá trình lành vết loét.
+- Chăm sóc loét thường bao gồm phẫu thuật cắt lọc kết hợp với [liệu pháp nén](https://dermnetnz.org/topics/compression-therapy) , kỹ thuật áp suất dưới khí quyển (đóng vết loét bằng chân không) và, đối với các vết loét lớn, [ghép da](https://dermnetnz.org/topics/skin-grafting) . Ghép da giúp cải thiện nhanh chóng tình trạng đau.
+Cần giảm đau sau đó giảm dần khi điều trị loét thích hợp giúp cải thiện cơn đau. Paracetamol và các thuốc kháng viêm không steroid khác thường đủ hiệu quả, nhưng đối với cơn đau dữ dội, có thể cần dùng thuốc giảm đau gây nghiện (thuốc phiện) ban đầu.
+[](https://dermnetnz.org/topics/antibiotics) Có thể cần dùng [thuốc kháng sinh để](https://dermnetnz.org/topics/antibiotics) [điều trị nhiễm trùng vết thương thứ phát](https://dermnetnz.org/topics/wound-infections) do vi khuẩn . [](https://dermnetnz.org/topics/wound-infections)
+Vai trò của phương pháp điều trị chống đông máu (thuốc làm loãng máu) và phẫu thuật cắt dây thần kinh giao cảm (thủ thuật cắt đứt các sợi thần kinh giao cảm) vẫn chưa rõ ràng vào thời điểm này.
+Các biện pháp phòng ngừa để giảm nguy cơ phát triển loét Martorell có thể bao gồm:
+- bỏ [thuốc lá](https://dermnetnz.org/topics/smoking-and-its-effects-on-the-skin)
+- [vớ nén](https://dermnetnz.org/topics/compression-therapy)
+- bảo vệ khỏi chấn thương.
+Đây là một chẩn đoán quan trọng cần cân nhắc nếu đang xem xét [viêm da mủ hoại thư vì các phương pháp điều trị khá khác nhau.](https://dermnetnz.org/topics/pyoderma-gangrenosum) Ức chế miễn dịch có liên quan đến tiên lượng xấu ở loét Martorell.

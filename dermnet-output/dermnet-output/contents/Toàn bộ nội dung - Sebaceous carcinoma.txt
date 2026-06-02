@@ -1,0 +1,107 @@
+# Ung thư tuyến bã nhờn — thông tin bổ sung
+
+Thể loại:
+
+Tổn thương (ung thư)
+
+SNOMED CT:
+
+307599002, 231833004, 403824007
+
+**[Tổn thương (ung thư)](https://dermnetnz.org/topics/topics?category=Lesions+(cancerous))**
+
+
+# **Ung thư tuyến bã nhờn**
+
+Tác giả: Vanessa Ngan, Biên tập viên, 2013. Cập nhật bởi Phó Giáo sư Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand, tháng 1 năm 2018. Bản cập nhật DermNet tháng 7 năm 2021
+
+---
+
+## Ung thư tuyến bã nhờn là gì?
+
+Ung thư biểu mô tuyến bã nhờn là một loại [ung thư da](https://dermnetnz.org/topics/skin-cancer) ác tính hiếm gặp phát sinh từ tuyến bã nhờn. Ung thư biểu mô tuyến bã nhờn đôi khi còn được gọi là ung thư biểu mô tuyến bã nhờn .
+
+---
+
+## Ai có thể mắc ung thư tuyến bã nhờn?
+
+Ung thư tuyến bã quanh mắt ảnh hưởng đến người lớn. Bệnh này thường gặp ở người châu Á hơn người da trắng và phổ biến ở phụ nữ hơn nam giới, đặc biệt là những người trong độ tuổi từ 60 đến 80.
+Ung thư tuyến bã nhờn ngoài nhãn cầu chủ yếu xảy ra ở người lớn tuổi và không phân biệt nam hay nữ.
+Bệnh nhân mắc [hội chứng Muir-Torre](https://dermnetnz.org/topics/lynch-syndrome) (một hội chứng di truyền có nguy cơ mắc bệnh ) có thể được chẩn đoán ở độ tuổi trẻ hơn.
+
+---
+
+## Nguyên nhân nào gây ra ung thư tuyến bã nhờn?
+
+Tuyến bã nhờn là những tuyến nhỏ nối với nang lông trên da. Chúng nằm ở bất kỳ vùng nào có lông trên cơ thể, nhưng tập trung nhiều nhất ở da đầu và mặt. Các tuyến này chịu trách nhiệm sản xuất [bã nhờn](https://dermnetnz.org/topics/sebum) , một chất nhờn giúp giữ ẩm cho tóc và da. [](https://dermnetnz.org/topics/sebum)
+Nguyên nhân chính xác của ung thư biểu mô tuyến bã nhờn vẫn chưa rõ ràng. Những yếu tố sau đây được báo cáo là có thể làm tăng nguy cơ mắc các khối u này :
+- [Hội chứng Muir-Torre hoặc Lynch](https://dermnetnz.org/topics/lynch-syndrome) tiềm ẩn [](https://dermnetnz.org/topics/lynch-syndrome)
+- [Xạ trị](https://dermnetnz.org/topics/radiotherapy-for-malignant-skin-diseases) trước đó vào khu vực này để điều trị nhiều tình trạng lành tính và ác tính , chẳng hạn như u nguyên bào võng mạc
+- Tiền sử sử dụng thuốc lợi tiểu thiazide đường uống
+- Đột biến gen ức chế khối u p53
+- [Ức chế miễn dịch.](https://dermnetnz.org/topics/drug-induced-immunosuppression)
+Đặc điểm lâm sàng của ung thư tuyến bã nhờn là gì?
+
+### Ung thư tuyến bã quanh mắt
+Ung thư tuyến bã nhờn thường phát triển từ các tuyến meibomian của mắt, chủ yếu nằm ở mí mắt trên nhưng cũng có ở [mí mắt](https://dermnetnz.org/topics/eyelid-skin-problems) dưới .
+- Nốt sần nhỏ, ban đỏ hoặc vàng, cứng, nằm sâu, phát triển chậm ở mí mắt trên.
+- Tổn thương xảy ra ở mí mắt trên nhiều hơn ở mí mắt dưới 2-3 lần.
+- Tổn thương này thường bị nhầm lẫn với bệnh chalazion (một chứng viêm lành tính của tuyến meibomian).
+- Khi ung thư phát triển, nó có thể lan vào kết mạc , nơi nó có thể bị nhầm lẫn với viêm giác mạc kết mạc hoặc viêm kết mạc mí mắt.
+- Trong những trường hợp nặng, tổn thương lan rộng có thể dẫn đến tổn thương cả mí mắt trên và dưới, gây rụng lông mi ( [madarosis](https://dermnetnz.org/topics/madarosis) ), loét và méo mó thị lực.
+- Việc không được chẩn đoán hoặc chẩn đoán muộn có thể dẫn đến di căn (lan rộng) đến các hạch bạch huyết và tuyến nước bọt.
+
+### Ung thư tuyến bã nhờn ngoài nhãn cầu
+Ung thư tuyến bã nhờn ngoài nhãn cầu chiếm khoảng 25% ung thư tuyến bã nhờn. Những khối u này chủ yếu xuất hiện quanh đầu và cổ. Các vị trí khác có thể phát hiện khối u này bao gồm bộ phận sinh dục, ống tai, vú, thân mình và khoang miệng.
+Biểu hiện lâm sàng của các tổn thương ngoài nhãn cầu là khối u không đặc hiệu; chúng thường xuất hiện dưới dạng nốt sần màu hồng đến vàng đỏ có nhiều kích thước khác nhau.
+
+### Ung thư tuyến bã nhờn ngoài nhãn cầu
+![Ung thư tuyến bã nhờn](https://dermnetnz.org/assets/Uploads/lesions/sebaceous-ca-1.jpg)
+![Ung thư tuyến bã nhờn](https://dermnetnz.org/assets/Uploads/lesions/sebaceous-ca-2.jpg)
+![Ung thư tuyến bã nhờn](https://dermnetnz.org/assets/Uploads/lesions/sebaceous-ca-3.jpg)
+
+---
+
+## Ung thư tuyến bã nhờn được chẩn đoán như thế nào?
+
+Ung thư tuyến bã có thể được nghi ngờ lâm sàng. [Soi da](https://dermnetnz.org/cme/dermoscopy-course) có thể phát hiện các tiểu thùy màu vàng không đều điển hình và các mạch máu tuyến tính không đều.
+Chẩn đoán xác định dựa trên tiền sử bệnh nhân, [sinh thiết](https://dermnetnz.org/topics/skin-biopsy) phẫu thuật đầy đủ và kiến ​​thức kết hợp của bác sĩ giải phẫu bệnh , bác sĩ nhãn khoa và bác sĩ da liễu. [xem [Bệnh lý ung thư tuyến bã nhờn](https://dermnetnz.org/topics/sebaceous-carcinoma-pathology) ]
+[Các vết nhuộm miễn dịch mô học](https://dermnetnz.org/topics/immunohistochemistry-stains) thường được sử dụng để xác định khả năng mắc hội chứng Muir-Torre.
+
+### Nội soi da ung thư tuyến bã nhờn
+![Quan điểm lâm sàng](https://dermnetnz.org/assets/Uploads/sebaceous-carcinoma-01.jpg)
+![Chế độ xem da liễu](https://dermnetnz.org/assets/Uploads/sebaceous-carcinoma-02.jpg)
+
+---
+
+## Chẩn đoán phân biệt ung thư tuyến bã nhờn là gì?
+
+
+### Các tình trạng/bệnh lý giống ung thư biểu mô tuyến bã quanh mắt
+- Chắp
+- Hordeolum (mụn lẹo)
+- [U hạt sinh mủ / u máu phản ứng](https://dermnetnz.org/topics/pyogenic-granuloma)
+- Viêm hạt do [bệnh sarcoidosis](https://dermnetnz.org/topics/sarcoidosis) , [giang mai](https://dermnetnz.org/topics/syphilis) hoặc [lao](https://dermnetnz.org/topics/cutaneous-tuberculosis)
+
+### Các khối u mí mắt khác
+- [Ung thư biểu mô tế bào đáy](https://dermnetnz.org/topics/basal-cell-carcinoma)
+- [Ung thư biểu mô tế bào vảy](https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma)
+- [Sừng da](https://dermnetnz.org/topics/cutaneous-horn)
+Biến chứng của ung thư tuyến bã nhờn là gì?
+- Chẩn đoán chậm trễ - chẩn đoán ung thư tuyến bã quanh mắt thường bị chậm trễ từ vài tháng đến vài năm ( trung bình 1–3 năm)
+- Bệnh di căn
+- Tái phát - khoảng 30% ung thư tuyến bã nhờn tái phát sau khi cắt bỏ
+
+---
+
+## Ung thư tuyến bã nhờn được điều trị như thế nào?
+
+Phương pháp điều trị phổ biến và hiệu quả nhất là cắt bỏ toàn bộ bằng phẫu thuật cắt lạnh theo phương pháp tiêu chuẩn hoặc [phẫu thuật vi phẫu Mohs .](https://dermnetnz.org/topics/mohs-micrographic-surgery)
+[Liệu pháp xạ trị](https://dermnetnz.org/topics/radiotherapy-for-malignant-skin-diseases) chỉ nên được sử dụng cho những bệnh nhân không thể hoặc không muốn phẫu thuật.
+
+---
+
+## Kết quả của ung thư tuyến bã nhờn là gì?
+
+Ung thư tuyến bã là một khối u ác tính và có khả năng gây nguy hiểm, có thể dẫn đến bệnh tật và tử vong đáng kể. Tỷ lệ tử vong chung là 5–10% do các yếu tố khối u cố hữu hoặc chẩn đoán và điều trị chậm trễ.
+Các yếu tố dẫn đến tiên lượng kém hơn bao gồm chẩn đoán muộn hơn 6 tháng, đường kính khối u lớn hơn 1 cm và ảnh hưởng đến cả mí mắt trên và dưới.

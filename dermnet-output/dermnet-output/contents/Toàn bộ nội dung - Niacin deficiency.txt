@@ -1,0 +1,144 @@
+# Pellagra — thông tin bổ sung
+
+Thể loại:
+
+Bệnh hệ thống
+
+SNOMED CT:
+
+418186002, 418279001, 273943001, 59531002, 403626007, 29834003, 29756008
+
+**[Bệnh hệ thống](https://dermnetnz.org/topics/topics?category=Systemic+diseases)**
+
+
+# **Bệnh Pellagra**
+
+Tác giả: Vanessa Ngan, Biên tập viên, 2003; Cập nhật: Casey P. Schukow, Sinh viên Y khoa, Khoa Y học Nắn xương, Đại học Bang Michigan, Detroit, MI, Hoa Kỳ; Tiến sĩ Martin Keefe, Bác sĩ Da liễu, Christchurch, New Zealand. Biên tập bởi Gus Mitchell. Tháng 6 năm 2021
+
+---
+
+## Bệnh Pellagra là gì?
+
+Pellagra là một bệnh toàn thân do thiếu vitamin B3 (niacin). Bệnh đặc trưng bởi 4 triệu chứng: [viêm da](https://dermnetnz.org/topics/dermatitis) , tiêu chảy, mất trí nhớ và tử vong nếu không được điều trị. Tên gọi "pellagra" bắt nguồn từ tiếng Ý "pelle agra" có nghĩa là da chua hoặc sần sùi.
+
+### Viêm da nhạy cảm với ánh sáng của bệnh Pellagra
+![Bệnh Pellagra](https://dermnetnz.org/assets/Uploads/doctors/systemic/images/pell3.jpg)
+![Bệnh Pellagra](https://dermnetnz.org/assets/Uploads/doctors/systemic/images/pell2.jpg)
+
+---
+
+## Ai bị bệnh Pellagra?
+
+Bệnh Pellagra nguyên phát do chế độ ăn uống thiếu hụt thường gặp ở các nước đang phát triển , nơi ngô là nguồn lương thực chính hoặc sau các thảm họa kéo dài như nạn đói hoặc chiến tranh. Mặc dù ngô rất giàu niacin, nhưng nó ở dạng liên kết và không thể tiếp cận được trừ khi được xử lý bằng dung dịch kiềm , và protein trong ngô lại rất ít tryptophan. Bệnh Pellagra vẫn lưu hành ở Ấn Độ, Trung Quốc và một số nước châu Phi.
+Ở các nước phát triển, nhiều loại thực phẩm, chẳng hạn như bánh mì và ngũ cốc, được bổ sung niacin, khiến bệnh pellagra trở nên hiếm gặp. Tuy nhiên, việc hạn chế ăn uống nghiêm ngặt vẫn có thể dẫn đến bệnh pellagra và các dấu hiệu suy dinh dưỡng khác, chẳng hạn như lạm dụng rượu mãn tính , chán ăn tâm thần hoặc chế độ ăn uống tự áp đặt. Nghiện rượu là nguyên nhân phổ biến nhất gây bệnh pellagra ở các nước phát triển.
+Bệnh pellagra thứ phát phát triển mặc dù có chế độ ăn uống đầy đủ do:
+- Hấp thu kém — [bệnh viêm ruột](https://dermnetnz.org/topics/cutaneous-manifestations-of-inflammatory-bowel-disease) , tiêu chảy mãn tính, [bệnh Whipple](https://dermnetnz.org/topics/whipple-disease) và phẫu thuật đường tiêu hóa bao gồm phẫu thuật cắt dạ dày
+- Do thuốc gây ra Ức chế con đường tryptophan-niacin ví dụ như [azathioprine](https://dermnetnz.org/topics/azathioprine-and-mercaptopurine) , chloramphenicol, 5-fluorouracil, ethionamide, leucine, carbamazepine Cấu trúc tương tự của niacin ví dụ, [isoniazid, 6-mercaptopurine](https://dermnetnz.org/topics/azathioprine-and-mercaptopurine)
+- Ức chế con đường tryptophan-niacin ví dụ như [azathioprine](https://dermnetnz.org/topics/azathioprine-and-mercaptopurine) , chloramphenicol, 5-fluorouracil, ethionamide, leucine, carbamazepine
+- Cấu trúc tương tự của niacin ví dụ, [isoniazid, 6-mercaptopurine](https://dermnetnz.org/topics/azathioprine-and-mercaptopurine)
+- Đánh cắp chuyển hóa — [hội chứng carcinoid](https://dermnetnz.org/topics/carcinoid-syndrome) đánh cắp tryptophan từ con đường niacin để tạo ra serotonin.
+Một dạng bệnh pellagra được phát hiện trong bệnh Hartnup (MIM 234500), một rối loạn di truyền lặn trên nhiễm sắc thể thường của gen SLC6A19 dẫn đến tình trạng hấp thụ tryptophan từ ruột bị suy giảm và thận bài tiết quá mức.
+
+---
+
+## Nguyên nhân nào gây ra bệnh Pellagra?
+
+Bệnh Pellagra là hậu quả của tình trạng thiếu hụt niacin. Một nửa nhu cầu niacin của cơ thể đến từ chế độ ăn uống. Nửa còn lại được tổng hợp trong cơ thể từ axit amin tryptophan. Niacin được tìm thấy trong nhiều sản phẩm động vật (dưới dạng nicotinamide) và thực vật (dưới dạng axit nicotinic). Một chế độ ăn uống đa dạng bao gồm sữa, trứng, thịt đỏ, thịt gia cầm, cá, đậu phộng, các loại đậu và hạt cung cấp đủ niacin và tryptophan.
+Niacin rất cần thiết cho việc duy trì chức năng tế bào. Nó là thành phần của nicotinamide adenine dinucleotide (NAD) và nicotinamide adenine dinucleotide phosphate (NADP) cần thiết cho hơn 100 enzyme tham gia vào quá trình chuyển hóa carbohydrate , chất béo, protein và rượu, cũng như sửa chữa DNA và truyền tín hiệu tế bào. Do đó, các mô có nhu cầu năng lượng cao hoặc tốc độ thay thế tế bào cao như da, ruột và não là những mô bị ảnh hưởng bởi bệnh pellagra.
+
+---
+
+## Các đặc điểm lâm sàng của bệnh Pellagra là gì?
+
+Bệnh Pellagra được biết đến với tên gọi 4D - viêm da , tiêu chảy, mất trí nhớ và cuối cùng là tử vong. Tuy nhiên, không phải tất cả các dấu hiệu đều xuất hiện ở mọi bệnh nhân. Thay đổi về da thường là dấu hiệu đầu tiên , xuất hiện vào mùa xuân và mùa hè.
+
+### Dấu hiệu niêm mạc da của bệnh pellagra
+- Nhạy cảm với ánh sáng Các vùng da hở — mu bàn tay, cẳng tay, mặt và cổ, chân và bàn chân Song phương và đối xứng với cạnh sắc nét được phân định rõ ràng Ban đầu giống như bị cháy nắng – khởi phát cấp tính , đỏ, sưng, đau rát Thỉnh thoảng có mụn nước và/hoặc bọng nước Đỏ dai dẳng , bong tróc , tăng sắc tố Trở nên tăng sắc tố , dày lên, khô và thô ráp Vòng cổ Casal — vòng đeo cổ hoặc vòng cổ có sắc tố tăng cường quanh cổ Găng tay và ủng Pellagrous — các mảng tăng sắc tố và nứt nẻ ở bàn tay và bàn chân
+- Các vùng da hở — mu bàn tay, cẳng tay, mặt và cổ, chân và bàn chân
+- Song phương và đối xứng với cạnh sắc nét được phân định rõ ràng
+- Ban đầu giống như bị cháy nắng – khởi phát cấp tính , đỏ, sưng, đau rát
+- Thỉnh thoảng có mụn nước và/hoặc bọng nước
+- Đỏ dai dẳng , bong tróc , tăng sắc tố
+- Trở nên tăng sắc tố , dày lên, khô và thô ráp
+- Vòng cổ Casal — vòng đeo cổ hoặc vòng cổ có sắc tố tăng cường quanh cổ
+- Găng tay và ủng Pellagrous — các mảng tăng sắc tố và nứt nẻ ở bàn tay và bàn chân
+
+### Dấu hiệu trên da của bệnh pellagra
+![Vòng cổ Casal](https://dermnetnz.org/assets/Uploads/systemic/pellagra2.jpg)
+![Giày Pellagrous](https://dermnetnz.org/assets/Uploads/doctors/dermatitis/images/photo10.jpg)
+![Viêm da Pellagra ở cẳng tay](https://dermnetnz.org/assets/Uploads/systemic/pellagra1.jpg)
+- Tổn thương hậu môn sinh dục và niêm mạc Viêm lưỡi - lưỡi khô, đỏ, sưng; phát triển rãnh, xói mòn , loét ; sau đó lưỡi trở nên teo và nhẵn [Viêm miệng — nướu và](https://dermnetnz.org/topics/stomatitis) niêm mạc miệng mềm, đỏ, dễ vỡ [Viêm môi](https://dermnetnz.org/topics/cheilitis) và [viêm môi góc cạnh](https://dermnetnz.org/topics/angular-cheilitis) Da sinh dục - đỏ, xói mòn, loét Âm đạo - niêm mạc bị viêm Không được báo cáo trong bệnh pellagra do thuốc hoặc bệnh Hartnup
+- Viêm lưỡi - lưỡi khô, đỏ, sưng; phát triển rãnh, xói mòn , loét ; sau đó lưỡi trở nên teo và nhẵn
+- [Viêm miệng — nướu và](https://dermnetnz.org/topics/stomatitis) niêm mạc miệng mềm, đỏ, dễ vỡ
+- [Viêm môi](https://dermnetnz.org/topics/cheilitis) và [viêm môi góc cạnh](https://dermnetnz.org/topics/angular-cheilitis)
+- Da sinh dục - đỏ, xói mòn, loét
+- Âm đạo - niêm mạc bị viêm
+- Không được báo cáo trong bệnh pellagra do thuốc hoặc bệnh Hartnup
+- Da dày lên và tăng sắc tố Khởi phát chậm của tình trạng tăng sừng và tăng sắc tố Các phần xương nhô ra như mắt cá chân, đầu gối, khuỷu tay Không được báo cáo trong bệnh pellagra do thuốc hoặc bệnh Hartnup
+- Khởi phát chậm của tình trạng tăng sừng và tăng sắc tố
+- Các phần xương nhô ra như mắt cá chân, đầu gối, khuỷu tay
+- Không được báo cáo trong bệnh pellagra do thuốc hoặc bệnh Hartnup
+- Thay đổi tuyến bã nhờn [Tăng sản tuyến bã nhờn](https://dermnetnz.org/topics/sebaceous-hyperplasia) với vảy nang lông màu vàng Da đầu, trán, mặt, cổ, cánh mũi Bệnh tiết bã nhờn
+- [Tăng sản tuyến bã nhờn](https://dermnetnz.org/topics/sebaceous-hyperplasia) với vảy nang lông màu vàng
+- Da đầu, trán, mặt, cổ, cánh mũi
+- Bệnh tiết bã nhờn
+
+### Các triệu chứng đường tiêu hóa
+- Các triệu chứng ban đầu — chán ăn, nôn mửa, đau bụng
+- Tiêu chảy — xảy ra ở 50% trường hợp, phân lỏng, nhầy hoặc có máu, kéo dài hơn 4 tuần
+
+### Đặc điểm thần kinh tâm thần
+- Biểu hiện muộn
+- Sự thờ ơ và yếu đuối ban đầu
+- Tiến triển thành đau đầu, lú lẫn, cáu kỉnh, lo lắng, run rẩy, trầm cảm
+- Bệnh mất trí nhớ và bệnh não
+
+### Các đặc điểm lâm sàng khác nhau ở các loại da khác nhau như thế nào?
+Ban đỏ do bệnh Pellagra có thể ít rõ ràng hơn ở những người có làn da cùng màu.
+
+---
+
+## Biến chứng của bệnh Pellagra là gì?
+
+- Suy dinh dưỡng và suy mòn (suy nhược cơ thể)
+- Nhiễm trùng thứ phát ở da phát ban
+- Sự tiến triển của các triệu chứng thần kinh có thể dẫn đến ảo tưởng, ảo giác, rối loạn tâm thần và cuối cùng là hôn mê và tử vong.
+
+---
+
+## Bệnh Pellagra được chẩn đoán như thế nào?
+
+Chẩn đoán bệnh pellagra nên được xem xét dựa trên các triệu chứng lâm sàng trong điều kiện phù hợp. Các xét nghiệm như xét nghiệm máu và [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) không mang tính chẩn đoán nhưng có thể được sử dụng để loại trừ các chẩn đoán khác.
+Phản ứng nhanh khi bổ sung niacin thường xác nhận chẩn đoán.
+Bệnh Hartnup được chẩn đoán dựa trên việc phát hiện axit amin trung tính trong nước tiểu.
+
+---
+
+## Chẩn đoán phân biệt bệnh Pellagra là gì?
+
+Chẩn đoán phân biệt các đặc điểm lâm sàng về niêm mạc da của bệnh pellagra có thể bao gồm:
+- Các nguyên nhân khác gây ra [chứng nhạy cảm với ánh sáng](https://dermnetnz.org/topics/photosensitivity) , ví dụ như [lupus ban đỏ](https://dermnetnz.org/topics/cutaneous-lupus-erythematosus) , [bệnh porphyria](https://dermnetnz.org/topics/acute-hepatic-porphyrias) , [chứng nhạy cảm với ánh sáng do thuốc](https://dermnetnz.org/topics/drug-induced-photosensitivity)
+- Các hội chứng kém hấp thu khác
+- [Sừng hóa hạt nhỏ](https://dermnetnz.org/topics/granular-parakeratosis) .
+
+---
+
+## Phương pháp điều trị bệnh Pellagra là gì?
+
+
+### Các biện pháp chung và phòng ngừa
+- Uống 15-20 mg niacin mỗi ngày có thể ngăn ngừa bệnh pellagra ở mọi lứa tuổi.
+- Thuốc bổ sung niacin được khuyến cáo cho những bệnh nhân dùng thuốc lâu dài có thể gây bệnh pellagra như isoniazid và ethionamide.
+- Thuốc làm mềm da có thể giúp làm giảm các triệu chứng về da.
+- Điều trị các yếu tố gây bệnh.
+
+### Các biện pháp cụ thể
+WHO khuyến cáo dùng ít nhất 300 mg [nicotinamide](https://dermnetnz.org/topics/nicotinamide) , chia liều uống hàng ngày trong 3–4 tuần để điều trị bệnh pellagra. Nicotinamide được khuyến cáo do tình trạng đỏ bừng mặt do niacin gây ra. Có thể cần bổ sung thêm thực phẩm chức năng cho tình trạng suy dinh dưỡng nói chung và chứng suy mòn. Có thể cần bổ sung niacin liên tục.
+Bệnh Hartnup đòi hỏi phải bổ sung niacin và chế độ ăn giàu protein , cũng như [chống nắng](https://dermnetnz.org/topics/sun-protection) suốt đời.
+
+---
+
+## Hậu quả của bệnh Pellagra là gì?
+
+Các triệu chứng và dấu hiệu của bệnh pellagra cải thiện đáng kể trong vòng một tuần sau khi bắt đầu bổ sung niacin. Tiêu chảy và các thay đổi niêm mạc sẽ cải thiện đầu tiên trong vòng vài ngày. Các thay đổi trên da thường hết trong vòng hai tuần. Quá trình phục hồi hoàn toàn trong các trường hợp mãn tính có thể mất nhiều thời gian hơn.
+Bệnh Hartnup có tiên lượng tốt nếu được điều trị và các triệu chứng có xu hướng cải thiện theo tuổi tác.

@@ -1,0 +1,107 @@
+# Nấm da chân — thông tin bổ sung
+
+Thể loại:
+
+Nhiễm trùng
+
+SNOMED CT:
+
+6020002, 25956006, 43581009, 403055000, 75996005, 403054001
+
+**[Nhiễm trùng](https://dermnetnz.org/topics/topics?category=Infections)**
+
+
+# **Nấm da chân**
+
+Trang gốc được tạo năm 2003. Được cập nhật bởi Tiến sĩ Thomas Stewart,Bác sĩ Đa khoa, Sydney, Úc. Tổng Biên tập DermNet: Phó Giáo sư Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand. Biên tập bởi Gus Mitchell. Tháng 4 năm 2018.
+
+---
+
+## Bệnh nấm chân là gì?
+
+Nấm bàn chân là một bệnh nhiễm trùng bàn chân do nấm [dermatophyte](https://dermnetnz.org/topics/mycology-of-dermatophyte-infections) gây ra . Đây là bệnh nhiễm nấm dermatophyte phổ biến nhất và đặc biệt phổ biến ở môi trường đô thị nóng ẩm, nhiệt đới.
+- Bệnh nấm kẽ ngón chân thường gặp nhất (bệnh này còn được gọi là [nấm da chân](https://dermnetnz.org/topics/athletes-foot) , mặc dù một số người dùng thuật ngữ này để chỉ bất kỳ loại nấm da chân nào).
+- Nấm bàn chân có thể đi kèm với [nấm da bẹn](https://dermnetnz.org/topics/tinea-cruris) , [nấm da manuum](https://dermnetnz.org/topics/tinea-manuum) hoặc [nấm da unguium](https://dermnetnz.org/topics/fungal-nail-infections) .
+
+---
+
+## Nguyên nhân nào gây ra bệnh nấm chân?
+
+Ba loại [nấm dermatophyte](https://dermnetnz.org/topics/mycology-of-dermatophyte-infections) phổ biến nhất gây bệnh nấm chân là:
+- Trichophyton (T.) rubrum
+- T. interdigitale , trước đây gọi là T. mentagrophytes var. interdigitale
+- Epidermophyton floccosum
+![Nấm da chân Moccasin](https://dermnetnz.org/assets/Uploads/fungal/s/tinped1.jpg)
+![Nấm da chân](https://dermnetnz.org/assets/Uploads/fungal/tpsev.jpg)
+![Nấm da chân](https://dermnetnz.org/assets/Uploads/fungal/tpto.jpg)
+![Nấm da chân](https://dermnetnz.org/assets/Uploads/fungal/s/tinped4.jpg)
+![Nấm da chân](https://dermnetnz.org/assets/Uploads/fungal/s/tinped2.jpg)
+![Nấm da chân](https://dermnetnz.org/assets/Uploads/fungal/s/tinped3.jpg)
+[Xem thêm hình ảnh về bệnh nấm chân](https://dermnetnz-org.translate.goog/topics/tinea-pedis-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp) ...
+
+---
+
+## Ai bị bệnh nấm chân?
+
+Nấm chân thường xảy ra ở nam giới và thanh thiếu niên/người trưởng thành trẻ tuổi, nhưng cũng có thể ảnh hưởng đến nữ giới, trẻ em và người cao tuổi. Nhiễm trùng thường lây truyền qua tiếp xúc trực tiếp với tác nhân gây bệnh , ví dụ như dùng chung khăn tắm hoặc đi chân trần trong phòng thay đồ công cộng.
+Các yếu tố rủi ro khác bao gồm:
+- Giày kín (ví dụ, giày công nghiệp nặng)
+- Đổ mồ hôi quá nhiều ( [tăng tiết mồ hôi](https://dermnetnz.org/topics/hyperhidrosis) )
+- [Suy giảm miễn dịch tiềm](https://dermnetnz.org/topics/immunodeficiency) ẩn hoặc [bệnh tiểu đường](https://dermnetnz.org/topics/skin-problems-associated-with-diabetes-mellitus)
+- [Corticosteroid toàn thân](https://dermnetnz.org/topics/systemic-steroids) hoặc [thuốc ức chế miễn dịch](https://dermnetnz.org/topics/drug-induced-immunosuppression)
+- Tuần hoàn ngoại vi kém hoặc [phù bạch huyết](https://dermnetnz.org/topics/lymphoedema) .
+
+---
+
+## Các đặc điểm lâm sàng của bệnh nấm chân là gì?
+
+Nấm da chân thường không đối xứng và có thể ở một bên. Bệnh thường biểu hiện theo một trong ba cách sau:
+- Ngứa và/hoặc có vảy giữa các ngón chân, đặc biệt là giữa ngón chân thứ 4 và thứ 5
+- Vảy bao phủ lòng bàn chân và hai bên bàn chân ( loại tăng sừng /moccasin, thường do T. rubrum gây ra)
+- Các mụn nước có kích thước từ nhỏ đến trung bình, thường ảnh hưởng đến mặt trong của bàn chân ( loại mụn nước dạng mụn nước ).
+Nó cũng có thể gây ra tình trạng rỉ dịch và loét giữa các ngón chân (loại loét) hoặc mụn mủ (thường gặp hơn ở bệnh nấm da chân do T. interdigitale so với do T. rubrum ).
+
+---
+
+## Chẩn đoán bệnh nấm da chân được thực hiện như thế nào?
+
+Chẩn đoán nấm bàn chân có thể được thực hiện lâm sàng trong hầu hết các trường hợp, dựa trên các đặc điểm lâm sàng đặc trưng. Các vị trí điển hình khác, chẳng hạn như móng chân, bẹn và lòng bàn tay, nên được kiểm tra xem có nhiễm nấm không, điều này có thể hỗ trợ chẩn đoán nấm bàn chân.
+Chẩn đoán được xác nhận bằng cách cạo da, sau đó gửi đi soi dưới kính hiển vi trong kali hydroxit (khi đó có thể quan sát thấy các sợi nấm phân đoạn) và nuôi cấy ( [nấm học](https://dermnetnz.org/topics/mycology-of-dermatophyte-infections) ). Có thể không cần nuôi cấy nếu quan sát thấy các thành phần nấm điển hình trên kính hiển vi.
+
+---
+
+## Chẩn đoán phân biệt bệnh nấm chân là gì?
+
+Chẩn đoán phân biệt bệnh nấm chân bao gồm:
+- Chàm chân — đặc biệt là [bệnh pompholyx](https://dermnetnz.org/topics/dyshidrotic-eczema) (pedopompholyx), hoặc [viêm da tiếp xúc kích ứng](https://dermnetnz.org/topics/irritant-contact-dermatitis) do độ ẩm dai dẳng giữa các ngón chân dính chặt
+- [Viêm da dị ứng tiếp xúc](https://dermnetnz.org/topics/contact-dermatitis) với một thành phần của giày dép (chẳng hạn như chất [tăng tốc cao su](https://dermnetnz.org/topics/allergy-to-rubber-accelerators) , [keo dán giày](https://dermnetnz.org/topics/allergy-to-para-tertiary-butylphenol-formaldehyde-resin) , [kali dicromat](https://dermnetnz.org/topics/chrome-allergy) dùng làm chất thuộc da hoặc [thuốc nhuộm vải](https://dermnetnz.org/topics/textile-dye-allergy) )
+- [Bệnh vẩy nến](https://dermnetnz.org/topics/psoriasis) ( [bệnh vẩy nến thực vật](https://dermnetnz.org/topics/psoriasis-of-the-palms-and-soles) )
+- [Mụn mủ ở lòng bàn chân](https://dermnetnz.org/topics/palmoplantar-pustulosis)
+- [Viêm sừng gan bàn chân](https://dermnetnz.org/topics/palmoplantar-keratoderma) .
+Các rối loạn viêm này có nhiều khả năng xảy ra đối xứng và ở cả hai bên. [Xét nghiệm nấm học](https://dermnetnz.org/topics/mycology-of-dermatophyte-infections) là âm tính.
+
+---
+
+## Phương pháp điều trị bệnh nấm da chân là gì?
+
+Các biện pháp chung nên được ưu tiên hàng đầu, bao gồm lau khô chân kỹ lưỡng, đặc biệt là kẽ ngón chân, tránh đi giày dép bí bách và sử dụng đồ bảo hộ (dép xăng đan) tại các khu vực công cộng. Tất ngón tay có thể giúp tách các ngón chân, giảm độ ẩm và giúp loại bỏ nhiễm trùng.
+[Liệu pháp kháng nấm tại chỗ](https://dermnetnz.org/topics/topical-antifungal-medication) một hoặc hai lần mỗi ngày thường là đủ. Các thuốc này bao gồm azole, allylamines, butenafine, ciclopirox và tolnaftate. Liệu trình điều trị điển hình là 2 đến 4 tuần, nhưng chế độ liều duy nhất có thể hiệu quả đối với nhiễm trùng nhẹ [1,2].
+Đối với những người không đáp ứng với liệu pháp tại chỗ , có thể cần dùng [thuốc chống nấm đường uống](https://dermnetnz.org/topics/oral-antifungal-medication) trong vài tuần. Các thuốc này bao gồm:
+- [Terbinafine](https://dermnetnz.org/topics/terbinafine)
+- [Itraconazole](https://dermnetnz.org/topics/itraconazole)
+- [Fluconazole](https://dermnetnz.org/topics/fluconazole)
+- [Griseofulvin](https://dermnetnz.org/topics/griseofulvin) (thuốc này có thể kém hơn các thuốc uống khác và có thể không có sẵn ở một số quốc gia) [3,4].
+Bệnh nhân mắc biến thể tăng sừng của bệnh nấm bàn chân có thể được hưởng lợi từ việc bổ sung kem tẩy sừng tại chỗ có chứa [axit salicylic](https://dermnetnz.org/topics/salicylic-acid) hoặc [urê](https://dermnetnz.org/topics/urea) [5]. [](https://dermnetnz.org/topics/salicylic-acid) [](https://dermnetnz.org/topics/urea)
+
+---
+
+## Làm thế nào để ngăn ngừa bệnh nấm chân tái phát?
+
+Để giảm thiểu sự tái phát của bệnh nấm chân:
+- Lau khô chân và ngón chân cẩn thận sau khi tắm
+- Sử dụng bột khử mùi chân một hoặc hai lần mỗi ngày
+- Tránh mang giày dép bí bách trong thời gian dài
+- Giày và ủng khô hoàn toàn
+- Làm sạch sàn phòng tắm và vòi hoa sen bằng sản phẩm có chứa thuốc tẩy
+- Xử lý giày bằng bột chống nấm.
+Nếu việc điều trị bệnh nấm chân không thành công, hãy cân nhắc đến khả năng tái nhiễm, [nhiễm nấm móng](https://dermnetnz.org/topics/fungal-nail-infections) chưa được điều trị đồng thời , tái nhiễm do thành viên gia đình không được điều trị hoặc chẩn đoán thay thế.

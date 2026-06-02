@@ -1,0 +1,47 @@
+# Bệnh nhầy đỏ dạng lưới — thông tin bổ sung
+
+Thể loại:
+
+Phát ban
+
+SNOMED CT:
+
+238946004
+
+**[Phát ban](https://dermnetnz.org/topics/topics?category=Rashes)**
+
+
+# **Bệnh nhầy đỏ dạng lưới**
+
+Tác giả: Tiến sĩ Julie Smith MBChB, Khoa Da liễu, Bệnh viện Grenlane, Auckland, New Zealand, 2005.
+
+---
+
+## Bệnh nhầy đỏ dạng lưới là gì?
+
+Viêm niêm mạc đỏ dạng lưới (REM) là một dạng [viêm niêm mạc](https://dermnetnz.org/topics/cutaneous-mucinoses) da hiếm gặp . Bệnh thường ảnh hưởng đến phụ nữ trung niên. Nó còn được gọi là " viêm niêm mạc đường giữa " hoặc " viêm niêm mạc da dạng mảng bám ". Các sẩn (nốt nhỏ) phát triển ở giữa lưng hoặc ngực và tạo thành hình dạng lưới (do đó có tên là "viêm niêm mạc lưới"). [](https://dermnetnz.org/topics/cutaneous-mucinoses)
+![Bệnh nhầy đỏ dạng lưới](https://dermnetnz.org/assets/Uploads/immune/rem1.jpg)
+![Bệnh nhầy đỏ dạng lưới](https://dermnetnz.org/assets/Uploads/immune/s/rem2.jpg)
+![Bệnh nhầy đỏ dạng lưới](https://dermnetnz.org/assets/Uploads/immune/rem3.jpg)
+
+---
+
+## Nguyên nhân gây ra REM là gì?
+
+Nguyên nhân chưa được biết rõ. Tuy nhiên, việc tiếp xúc với ánh sáng mặt trời có thể góp phần gây ra tình trạng này. Nhìn chung, REM không liên quan đến các bệnh toàn thân khác nhưng nó có thể biểu hiện rất giống với tình trạng tăng tiết nhầy kết hợp với [bệnh lupus ban đỏ hệ thống](https://dermnetnz.org/topics/systemic-lupus-erythematosus) .
+
+---
+
+## Bệnh này được chẩn đoán như thế nào?
+
+Chẩn đoán được thực hiện bằng cách [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) , cho thấy các chất nhầy điển hình nằm giữa các bó collagen ở lớp sâu hơn của da, lớp hạ bì.
+
+---
+
+## Sự đối đãi
+
+REM thường đáp ứng tốt với điều trị:
+- [Tránh nắng và bảo vệ , bao gồm quần áo, mũ phù hợp và](https://dermnetnz.org/topics/sun-protection) [kem chống nắng](https://dermnetnz.org/topics/topical-sunscreen-agents) phổ rộng SPF 50+ [](https://dermnetnz.org/topics/topical-sunscreen-agents)
+- [Viên thuốc chống sốt rét](https://dermnetnz.org/topics/antimalarial) ( [hydroxychloroquine](https://dermnetnz.org/topics/hydroxychloroquine) hoặc [chloroquine](https://dermnetnz.org/topics/chloroquine) ); chúng có tác dụng chống viêm
+- [](https://dermnetnz.org/topics/topical-steroid) [Corticosteroid](https://dermnetnz.org/topics/systemic-steroids) [tại chỗ](https://dermnetnz.org/topics/topical-steroid) và uống [](https://dermnetnz.org/topics/systemic-steroids)
+- [Tia laser](https://dermnetnz.org/topics/lasers-in-dermatology) nhuộm xung cũng được báo cáo là có hiệu quả

@@ -1,0 +1,102 @@
+# Rụng tóc anagen — thông tin bổ sung
+
+Thể loại:
+
+Rối loạn nang lông
+
+SNOMED CT:
+
+86160006, 762391009
+
+**[Rối loạn nang lông](https://dermnetnz.org/topics/topics?category=Follicular+disorder)**
+
+
+# **rụng tóc anagen**
+
+Tác giả: Phó Giáo sư Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand, 2013. Cập nhật bởi Tiến sĩ Fen-Lan Cherry Chang, Cán bộ Nội trú, Bệnh viện Middlemore, Auckland, New Zealand. Tổng Biên tập DermNet: Phó Giáo sư Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand. Tháng 11 năm 2019.
+
+---
+
+## Rụng tóc anagen là gì?
+
+Rụng tóc anagen là tình trạng rụng tóc xảy ra trong giai đoạn anagen hoặc giai đoạn phát triển của chu kỳ tóc.
+Điều này trái ngược với tình trạng rụng tóc telogen hay rụng tóc xảy ra trong giai đoạn telogen hay giai đoạn nghỉ ngơi của chu kỳ tóc.
+Rụng tóc anagen là tình trạng nang tóc bị tổn thương cấp tính do nguyên nhân nội sinh hoặc ngoại sinh , dẫn đến rụng tóc lan tỏa đột ngột ở những sợi tóc bị tổn thương về mặt cấu trúc. Rụng tóc lan tỏa có thể xảy ra trong vài ngày. Rụng tóc không để lại sẹo.
+
+---
+
+## Ai mắc phải chứng rụng tóc anagen?
+
+Rụng tóc anagen thường gặp nhất ở những bệnh nhân ở mọi lứa tuổi, giới tính hoặc chủng tộc đang được hóa trị.
+Những người mắc các bệnh tự miễn như rụng tóc từng mảng và bệnh pemphigus thông thường có thể bị ảnh hưởng.
+
+---
+
+## Nguyên nhân nào gây ra rụng tóc anagen?
+
+Bất kỳ tổn thương nào làm suy yếu quá trình nguyên phân của tế bào sừng nang lông đều có thể gây ra rụng tóc anagen. Sự gián đoạn trong quá trình phân chia tế bào trong ma trận tóc khiến tóc bị thu hẹp ở gốc và dễ bị gãy ngay phía trên vùng sừng hóa. Ma trận hoại tử hình thành các nút bao gồm melanin , keratin và bao chân tóc bên trong, bị đẩy ra ngoài qua lỗ nang lông . Quá trình này được gọi là trichomalacia.
+Nguyên nhân chính gây ra rụng tóc anagen là nhiễm trùng , [thuốc](https://dermnetnz.org/topics/alopecia-from-drugs) , độc tố , bức xạ hoặc [bệnh tự miễn](https://dermnetnz.org/topics/autoimmune-diseases-in-dermatology) .
+Nhiễm trùng có thể làm gián đoạn sự phát triển của tóc tại một vùng nhất định , dẫn đến một hoặc nhiều vùng hói. Tóc rụng có thể dễ dàng được nhổ ra khỏi vùng bị nhiễm trùng, nơi có thể bị sưng, lởm chởm và đóng vảy. Ví dụ bao gồm:
+- [Nhọt](https://dermnetnz.org/topics/boil) và [áp xe](https://dermnetnz.org/topics/cutaneous-abscess)
+- Nhiễm nấm tóc: [bệnh nấm da đầu](https://dermnetnz.org/topics/tinea-capitis) hoặc [bệnh nấm tóc](https://dermnetnz.org/topics/kerion) .
+![Rụng tóc anagen: nhiễm nấm (kerion)](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/w/anagen-effluvium-14.jpg)
+![Rụng tóc anagen: nhiễm nấm (kerion)](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/w/anagen-effluvium-15.jpg)
+![Rụng tóc anagen: nhiễm nấm (kerion)](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/w/anagen-effluvium-16.jpg)
+Các chất độc có thể làm gián đoạn sự phát triển của tóc bao gồm:
+- [Thuốc hóa trị](https://dermnetnz.org/topics/skin-toxicity-of-chemotherapy-drugs) , thường được kê đơn để điều trị ung thư , đặc biệt khi sử dụng nhiều loại thuốc hoặc liều cao. Rụng tóc nghiêm trọng được báo cáo là doxorubicin, nitrosoureas và [cyclophosphamide](https://dermnetnz.org/topics/cyclophosphamide) . Các nguyên nhân khác là [bleomycin](https://dermnetnz.org/topics/bleomycin) , dactinomycin, daunorubicin, [fluorouracil toàn thân](https://dermnetnz.org/topics/5-fluorouracil-cream) và [methotrexate](https://dermnetnz.org/topics/methotrexate) liều cao .
+- Các loại thuốc khác như [colchicine](https://dermnetnz.org/topics/colchicine) và [ciclosporin](https://dermnetnz.org/topics/ciclosporin) (ciclosporin thường gây ra tình trạng mọc tóc nhiều hơn)
+- Các chất độc như [tali](https://dermnetnz.org/topics/thallium-poisoning) , [asen](https://dermnetnz.org/topics/chronic-arsenic-poisoning) , [vàng](https://dermnetnz.org/topics/chrysiasis) và bismuth.
+Rụng tóc xuất hiện trong vòng 2 đến 4 tuần sau khi hóa trị. Tình trạng này ảnh hưởng đến hầu hết các vùng da đầu, nhưng cũng có thể ảnh hưởng đến các vùng khác, chẳng hạn như lông mày, nách và vùng sinh dục .
+![Rụng tóc anagen: rụng lông mày do hóa trị](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/w/anagen-effluvium-04.jpg)
+![Rụng tóc anagen: rụng lông mày trong bệnh rụng tóc từng vùng](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/anagen-effluvium-20.jpg)
+![Rụng tóc anagen: rụng lông mi trong bệnh rụng tóc từng vùng](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/anagen-effluvium-19.jpg)
+Chiếu xạ vào da đầu có thể dẫn đến rụng tóc anagen. Tóc có thể mọc lại không hoàn toàn hoặc không mọc lại.
+![Rụng tóc anagen do chiếu xạ sọ não](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/anagen-effluvium-13.jpg)
+![Rụng tóc anagen do chiếu xạ sọ não](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/anagen-effluvium-17.jpg)
+![Rụng tóc anagen do chiếu xạ sọ não](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/anagen-effluvium-18.jpg)
+Rụng tóc tự miễn bao gồm [rụng tóc từng vùng](https://dermnetnz.org/topics/alopecia-areata) và các biến thể của nó, rụng tóc toàn bộ và rụng tóc toàn thân. Rụng tóc anagen cũng có thể xảy ra trong bệnh mụn nước miễn dịch hiếm gặp , [pemphigus thông thường](https://dermnetnz.org/topics/pemphigus-vulgaris) .
+![Anagen effluvium: bệnh lupus ban đỏ](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/anagen-effluvium-07.jpg)
+![Anagen effluvium: rụng tóc từng vùng](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/anagen-effluvium-08.jpg)
+![Anagen effluvium: rụng tóc từng vùng](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/anagen-effluvium-09.jpg)
+
+---
+
+## Các đặc điểm lâm sàng của rụng tóc anagen là gì?
+
+Rụng tóc anagen biểu hiện bằng tình trạng rụng đột ngột phần lớn hoặc toàn bộ tóc trên da đầu, và thường là toàn bộ tóc trên cơ thể, bao gồm lông mày, lông mi và lông trên cơ thể. Tình trạng này có thể khiến da đầu bị hói một phần hoặc toàn bộ ngay sau chấn thương, với tỷ lệ rụng tóc lên đến 90% trong vài tuần.
+Các đặc điểm khác phụ thuộc vào nguyên nhân gây rụng tóc.
+![rụng tóc anagen](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/anagen-effluvium-01.jpg)
+![rụng tóc anagen](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/w/anagen-effluvium-03.jpg)
+![rụng tóc anagen](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/anagen-effluvium-02.jpg)
+
+---
+
+## Rụng tóc anagen được chẩn đoán như thế nào?
+
+Chẩn đoán rụng tóc anagen thường được thực hiện bằng cách khai thác kỹ lưỡng tiền sử bệnh, đặc biệt là các loại thuốc gần đây, và bằng cách kiểm tra da đầu và tóc rụng trên lâm sàng và bằng [phương pháp soi da liễu](https://dermnetnz.org/topics/dermoscopy) / soi tóc.
+Trong giai đoạn rụng tóc anagen, phần đuôi tóc mọc ra từ da đầu bị thuôn nhọn, hẹp, không đều hoặc bị gãy. Tóc anagen có chân tóc dài được bao phủ bởi lớp vỏ rễ bên trong và bên ngoài và có sắc tố. Ngược lại, tóc telogen có dạng củ tròn hoặc chùy. Các lỗ nang tóc vẫn còn trong cả hai trường hợp.
+![Anagen effluvium: nhổ tóc](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/anagen-effluvium-10.jpg)
+![Anagen effluvium: nhổ tóc](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/anagen-effluvium-11.jpg)
+Phương pháp Trichogram (nhổ tóc bằng lực trong một đơn vị diện tích để xác định tỷ lệ tóc anagen và tóc telogen) sẽ cho thấy tỷ lệ lớn tóc anagen bị thoái hóa .
+[Sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) đầu sẽ cho thấy tỷ lệ anagen-telogen bình thường của bất kỳ sợi tóc nào còn sót lại trong giai đoạn rụng tóc anagen do hóa trị.
+Các xét nghiệm khác có thể được sắp xếp để loại trừ các nguyên nhân khác gây rụng tóc, bao gồm [thiếu sắt](https://dermnetnz.org/topics/iron-deficiency) , [bệnh tuyến giáp](https://dermnetnz.org/topics/skin-problems-associated-with-thyroid-disease) , [bệnh lupus hệ thống](https://dermnetnz.org/topics/cutaneous-lupus-erythematosus) , [](https://dermnetnz.org/topics/cutaneous-lupus-erythematosus) và nhiễm trùng (ví dụ, [bệnh giang mai](https://dermnetnz.org/topics/syphilis) ).
+
+---
+
+## Phương pháp điều trị rụng tóc anagen là gì?
+
+Rụng tóc anagen do hóa trị dự kiến ​​sẽ phục hồi hoàn toàn trong vòng 3–6 tháng sau khi ngừng hóa trị. Tóc gần như luôn mọc lại bình thường, nhưng đôi khi bệnh nhân tóc thẳng lại chuyển sang tóc xoăn khi tóc mọc lại. Màu tóc cũng có thể thay đổi.
+Các phương pháp điều trị được đề xuất cho tình trạng rụng tóc anagen bao gồm:
+- Dung dịch [minoxidil](https://dermnetnz.org/topics/minoxidil-solution) bôi ngoài da
+- Làm mát da đầu trong quá trình hóa trị
+- [Ngụy trang](https://dermnetnz.org/topics/cosmetic-camouflage) cho lông mày.
+![Rụng tóc anagen: tái phát sau hóa trị](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/w/anagen-effluvium-05.jpg)
+![Rụng tóc anagen: tái phát sau hóa trị](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/w/anagen-effluvium-06.jpg)
+![Rụng tóc anagen: tóc mọc lại sau khi hóa trị với tóc xoăn](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/anagen-effluvium-12.jpg)
+
+---
+
+## Hậu quả của rụng tóc anagen là gì?
+
+Rụng tóc anagen có thể hồi phục. Nang tóc hoạt động bình thường trở lại sau khi ngừng bất kỳ tác nhân độc hại nào . Trong hầu hết các trường hợp, tóc sẽ mọc lại hoàn toàn sau 3–6 tháng sau hóa trị. Đôi khi, tóc vẫn mọc lại mặc dù vẫn tiếp tục hóa trị.
+Rụng tóc do rụng tóc từng mảng có thể kéo dài ; khả năng phục hồi không thể đoán trước.

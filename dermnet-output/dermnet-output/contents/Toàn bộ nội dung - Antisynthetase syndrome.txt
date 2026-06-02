@@ -1,0 +1,124 @@
+# Hội chứng antisynthetase - thông tin thêm
+
+Thể loại:
+
+Tự miễn/tự viêm
+
+SNOMED CT:
+
+445187004, 356198000
+
+**[Tự miễn/tự viêm](https://dermnetnz.org/topics/topics?category=Autoimmune/autoinflammatory)**
+
+
+# **Hội chứng antisynthetase**
+
+Tác giả: Tiến sĩ Priyam Sobarun, Nhà đăng ký Da liễu, 2014.
+
+---
+
+## Hội chứng antisynthetase là gì?
+
+Hội chứng antisynthetase là một bệnh viêm cơ hiếm gặp liên quan đến [viêm da cơ](https://dermnetnz.org/topics/adult-onset-dermatomyositis) và viêm đa cơ.
+Dấu hiệu đặc trưng của hội chứng antisynthetase là sự hiện diện của tự kháng thể trong huyết thanh kháng aminoacyl-tRNA synthetase. Đây là những enzyme tế bào tham gia vào quá trình tổng hợp protein . Các kháng thể antisynthetase bao gồm Jo-1, PL-7, PL-12, OJ, EJ, KS, Wa, YRS và Zo. Kháng thể anti-Jo-1 là kháng thể thường được phát hiện nhất trong hội chứng antisynthetase.
+Hội chứng antisynthetase phổ biến ở phụ nữ gấp 2–3 lần so với nam giới.
+
+---
+
+## Nguyên nhân nào gây ra hội chứng antisynthetase?
+
+Nguyên nhân gây ra hội chứng antisynthetase vẫn chưa được biết rõ. Hội chứng này được phân loại là một [bệnh tự miễn](https://dermnetnz.org/topics/autoimmune-diseases-in-dermatology) mãn tính . [](https://dermnetnz.org/topics/autoimmune-diseases-in-dermatology)
+
+---
+
+## Hội chứng antisynthetase biểu hiện như thế nào?
+
+Các đặc điểm lâm sàng chính của hội chứng antisynthetase là:
+- Sốt
+- Viêm cơ ( viêm cơ )
+- Viêm đa khớp (viêm ở nhiều khớp)
+- Bệnh phổi kẽ (viêm phổi không đặc hiệu)
+- Bàn tay của thợ máy
+- [Hiện tượng Raynaud](https://dermnetnz.org/topics/raynaud-phenomenon)
+Hội chứng antisynthetase có thể biểu hiện bằng nhiều triệu chứng lâm sàng khác nhau và có thể thay đổi theo thời gian.
+Sốt
+- Có mặt ở khoảng 20% ​​bệnh nhân
+- Có thể xảy ra khi bắt đầu bệnh
+- Có thể kéo dài hoặc tái phát
+Viêm cơ
+- Có mặt ở >90% bệnh nhân
+- Liên quan đến kháng thể kháng Jo-1
+- Yếu cơ gần gây khó khăn khi đứng dậy khỏi ghế hoặc leo cầu thang
+- Cơ bắp có thể bị đau
+- Sự yếu của các cơ liên quan đến việc nuốt có thể dẫn đến viêm phổi do hít phải .
+- Sự yếu của các cơ hô hấp có thể dẫn đến khó thở
+Viêm khớp
+- 50% bệnh nhân bị đau khớp hoặc viêm khớp
+- Thường gặp nhất là viêm khớp đối xứng ở các khớp nhỏ ở tay và chân
+- Thông thường, không dẫn đến xói mòn xương
+Bệnh phổi
+- Bệnh phổi kẽ phát triển ở hầu hết bệnh nhân mắc hội chứng anti-Jo-1 antisynthetase
+- Thường biểu hiện bằng tình trạng khó thở đột ngột hoặc dần dần khi gắng sức
+- Đôi khi gây ra ho khan khó chữa
+- Có thể dẫn đến tăng huyết áp phổi (tăng áp lực trong động mạch phổi ) ở những bệnh nhân có hoặc không có bệnh phổi kẽ đi kèm .
+Bàn tay của thợ máy
+- Ảnh hưởng đến khoảng 30% bệnh nhân
+- Da dày ở đầu ngón tay và mép ngón tay
+- Giống như bàn tay của một thợ máy
+Hiện tượng Raynaud
+- Xảy ra ở khoảng 40% bệnh nhân
+- Giảm lượng máu cung cấp cho ngón tay hoặc ngón chân theo từng đợt, chuyển sang màu trắng, sau đó chuyển sang màu xanh và cuối cùng là màu đỏ
+- Phản ứng với lạnh hoặc căng thẳng về mặt cảm xúc
+- Một số bệnh nhân có liên quan đến các bất thường mao mạch ở nếp gấp móng tay
+
+### Triệu chứng của hội chứng antisynthetase
+![Tổn thương mao mạch ở nếp gấp móng tay trong hội chứng antisynthetase](https://dermnetnz.org/assets/Uploads/immune/w/antisynthetase-1.jpg)
+![Hội chứng antisynthetase](https://dermnetnz.org/assets/Uploads/antisynthetase-5.jpg)
+![Hội chứng antisynthetase](https://dermnetnz.org/assets/Uploads/antisynthetase-4.jpg)
+![Mao mạch bất thường ở nếp gấp móng tay](https://dermnetnz.org/assets/Uploads/antisynthetase-capillaries-01.jpg)
+![Lưu ý xuất huyết dưới da](https://dermnetnz.org/assets/Uploads/antisynthetase-capillaries-02.jpg)
+
+---
+
+## Liên quan đến bệnh ác tính
+
+Một số nghiên cứu điển hình đã báo cáo nhiều loại bệnh ác tính xuất hiện trong vòng 6–12 tháng sau khi chẩn đoán hội chứng antisynthetase. Do đó, khuyến cáo nên tầm soát phù hợp với độ tuổi, giống như đối với [viêm da cơ](https://dermnetnz.org/topics/adult-onset-dermatomyositis) .
+
+---
+
+## Chẩn đoán hội chứng kháng synthetase được thực hiện như thế nào?
+
+Biểu hiện lâm sàng là manh mối để chẩn đoán hội chứng antisynthetase. Các xét nghiệm chuyên khoa giúp hỗ trợ chẩn đoán. Tùy thuộc vào bối cảnh lâm sàng, có thể bao gồm:
+- Các enzyme cơ như creatinin kinase (CK) và aldolase: những enzyme này thường tăng cao
+- Kháng thể cơ
+- Điện cơ đồ (EMG)
+- Chụp cộng hưởng từ ( MRI ) các cơ bị ảnh hưởng
+- Sinh thiết cơ
+- Xét nghiệm chức năng phổi
+- Chụp cắt lớp vi tính ( CT ) ngực độ phân giải cao
+- Đánh giá khó nuốt và nguy cơ hít phải
+- Sinh thiết phổi
+
+---
+
+## Hội chứng antisynthetase được điều trị như thế nào?
+
+[Glucocorticosteroid](https://dermnetnz.org/topics/systemic-steroids) là trụ cột điều trị hội chứng kháng synthetase và thường phải dùng trong vài tháng hoặc vài năm. Prednisone ban đầu được dùng với liều cao (1 mg/kg/ngày) trong 4–6 tuần để kiểm soát bệnh , sau đó giảm dần trong 9–12 tháng đến liều thấp nhất có hiệu quả để duy trì sự thuyên giảm. Trong những trường hợp nặng hơn, có thể cần dùng methylprednisolone tiêm tĩnh mạch (IV) theo đợt trong 3–5 ngày.
+Việc cải thiện sức mạnh cơ có thể mất vài tuần hoặc vài tháng. Cải thiện triệu chứng là chỉ số phản ứng với điều trị đáng tin cậy hơn so với nồng độ CK huyết thanh.
+Khuyến cáo điều trị dự phòng [loãng xương do steroid](https://dermnetnz.org/topics/prophylaxis-systemic-steroid) và một số bệnh nhiễm nấm như Pneumocystis jirovecii . Cần đánh giá nhu cầu [tiêm chủng](https://dermnetnz.org/topics/immunisation-in-immunosuppressed-dermatology-patients) trước khi bắt đầu điều trị.
+Có thể sử dụng các loại thuốc ức chế miễn dịch khác , chẳng hạn như:
+- [Azathioprine](https://dermnetnz.org/topics/azathioprine-and-mercaptopurine)
+- [Methotrexate](https://dermnetnz.org/topics/methotrexate)
+- [Cyclophosphamide](https://dermnetnz.org/topics/cyclophosphamide)
+- [Tacrolimus](https://dermnetnz.org/topics/tacrolimus)
+- [Ciclosporin](https://dermnetnz.org/topics/ciclosporin)
+- [Mycophenolate](https://dermnetnz.org/topics/mycophenolate-mofetil)
+- [Rituximab](https://dermnetnz.org/topics/rituximab) . [](https://dermnetnz.org/topics/rituximab)
+Vật lý trị liệu và phục hồi chức năng nên được bắt đầu sớm để ngăn ngừa tình trạng mất cơ và cải thiện tình trạng yếu cơ.
+
+---
+
+## Tiên lượng hội chứng antisynthetase
+
+Bệnh nhân mắc hội chứng antisynthetase đáp ứng tốt với [steroid toàn thân](https://dermnetnz.org/topics/systemic-steroids) và/hoặc thuốc ức chế miễn dịch nếu họ chỉ bị ảnh hưởng đến cơ.
+Nếu liên quan đến phổi, mức độ nghiêm trọng và loại tổn thương phổi sẽ quyết định tiên lượng. Tuổi khởi phát cao (>60 tuổi), có bệnh lý ác tính và xét nghiệm kháng thể ANA âm tính sẽ tiên lượng xấu hơn .

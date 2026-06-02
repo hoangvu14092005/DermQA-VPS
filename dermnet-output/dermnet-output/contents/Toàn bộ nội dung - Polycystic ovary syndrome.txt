@@ -1,0 +1,82 @@
+# Hội chứng buồng trứng đa nang — thông tin bổ sung
+
+Thể loại:
+
+Bệnh hệ thống
+
+SNOMED CT:
+
+237055002
+
+**[Bệnh hệ thống](https://dermnetnz.org/topics/topics?category=Systemic+diseases)**
+
+
+# **Hội chứng buồng trứng đa nang**
+
+Tác giả: Vanessa Ngan, Biên tập viên, 2003.
+
+---
+
+## Giới thiệu
+
+Hội chứng buồng trứng đa nang (PCOS) đặc trưng bởi kinh nguyệt không đều/ bất thường , rậm lông (lông mọc nhiều như nam giới ở phụ nữ), béo phì và [hội chứng chuyển hóa](https://dermnetnz.org/topics/metabolic-syndrome) , do bất thường trong chuyển hóa androgen và estrogen , cũng như trong việc kiểm soát sản xuất androgen . Trước đây, người ta cho rằng nguyên nhân chủ yếu là do khiếm khuyết buồng trứng vì nó thường liên quan đến buồng trứng đa nang mở rộng, do đó được gọi là hội chứng buồng trứng đa nang. Tuy nhiên, hiện nay người ta đã biết rằng PCOS có thể xảy ra ở phụ nữ có buồng trứng kích thước bình thường và những thay đổi buồng trứng đa nang có thể được tìm thấy ở phụ nữ có chu kỳ kinh nguyệt bình thường.
+
+---
+
+## Ai mắc phải căn bệnh này và nguyên nhân là gì?
+
+Hội chứng buồng trứng đa nang (PCOS) chỉ xảy ra ở phụ nữ và thường bắt đầu vào khoảng [tuổi dậy thì](https://dermnetnz.org/topics/skin-changes-at-puberty) . Ước tính bệnh ảnh hưởng đến 3-10% phụ nữ. Mặc dù các dấu hiệu và triệu chứng tương tự nhau ở hầu hết bệnh nhân, nhưng các chủng tộc khác nhau có thể bị ảnh hưởng khác nhau. Ví dụ, ở Mỹ, 70% bệnh nhân bị rậm lông so với 10-20% ở Nhật Bản.
+Nguyên nhân chính xác của PCOS vẫn chưa được biết rõ, nhưng người ta cho rằng hội chứng này phát triển khi buồng trứng sản xuất quá nhiều hormone androgen (ví dụ như testosterone ). Điều này là do sản xuất quá mức hormone luteinizing (LH), một hormone do tuyến yên sản xuất. Người mắc PCOS cũng không có khả năng xử lý insulin hiệu quả. Tình trạng này được gọi là kháng insulin ngoại vi . Tình trạng này thường gặp hơn ở những bệnh nhân béo phì. Nồng độ insulin tăng cao cũng ảnh hưởng đến chức năng buồng trứng.
+
+---
+
+## Các dấu hiệu và triệu chứng là gì?
+
+Có nhiều dấu hiệu và triệu chứng liên quan đến PCOS.
+- Không có kinh nguyệt, kinh nguyệt không đều hoặc không thường xuyên
+- Rụng trứng không thường xuyên hoặc không có gây vô sinh
+- Buồng trứng bị u nang hoặc phì đại
+- Béo phì, xảy ra ở 50% bệnh nhân có tỷ lệ eo/hông cao (tức là bụng to nhưng tay chân tương đối gầy)
+- Sự phát triển sớm của lông mu (được định nghĩa là trước 8 tuổi ở bé gái và trước 9 tuổi ở bé trai)
+- Tăng androgen ( nồng độ hormone nam trong huyết thanh tăng cao ) dẫn đến tình trạng lông mọc quá nhiều trên mặt, ngực, bụng, ngón tay cái hoặc ngón chân ( [chứng rậm lông](https://dermnetnz.org/topics/hirsutism) ); rụng tóc [theo kiểu nữ](https://dermnetnz.org/topics/female-pattern-hair-loss) hoặc đôi khi [theo kiểu nam](https://dermnetnz.org/topics/male-pattern-hair-loss) ; và trong trường hợp nghiêm trọng, giọng nói trầm hơn và khối lượng cơ tăng lên
+- [Mụn trứng cá](https://dermnetnz.org/topics/acne-and-other-follicular-disorders) dai dẳng và da nhờn ( [bã nhờn](https://dermnetnz.org/topics/seborrhoea) )
+- [Viêm tuyến mồ hôi mủ](https://dermnetnz.org/topics/hidradenitis-suppurativa) (mụn trứng cá đảo ngược), một tình trạng viêm dẫn đến các khối u giống như nhọt ở nách, bẹn và dưới vú
+- [Bệnh gai đen](https://dermnetnz.org/topics/acanthosis-nigricans) : Các mảng da sẫm màu, mịn như nhung hoặc sần sùi khi chạm vào. Tình trạng này thường xảy ra ở gáy, nách, vùng dưới ngực và các vùng da hở như khuỷu tay, đầu gối và khớp ngón tay.
+- [Các nốt ruồi da](https://dermnetnz.org/topics/skin-tag) ( acrochordons ) ở nách, dưới vú hoặc ở bẹn
+- Bệnh tiểu đường, đặc biệt có thể xảy ra ở những bệnh nhân béo phì
+- Huyết áp cao ( tăng huyết áp )
+- Tăng mỡ máu ( tăng lipid máu ) với tăng triglyceride , cholesterol toàn phần và cholesterol tỷ trọng thấp (LDL) và giảm cholesterol tỷ trọng cao (HDL)
+- Bệnh tim mạch đặc biệt là bệnh động mạch vành
+
+---
+
+## Chẩn đoán được thực hiện như thế nào?
+
+Tiêu chuẩn chẩn đoán PCOS bao gồm hai trong ba tiêu chuẩn sau:
+- Rối loạn kinh nguyệt
+- Tăng tiết androgen lâm sàng hoặc sinh hóa
+- Buồng trứng đa nang trên siêu âm
+Nếu bác sĩ nghi ngờ bạn bị PCOS, bạn có thể được yêu cầu xét nghiệm máu. Các xét nghiệm này có thể bao gồm:
+- Xét nghiệm hormone để đo lượng testosterone tự do, LH và các hormone sinh dục khác
+- Xét nghiệm đường huyết lúc đói hoặc xét nghiệm dung nạp glucose và nồng độ insulin
+- Chất béo trong máu lúc đói ( lipid )
+Siêu âm vùng chậu và/hoặc chụp CT hoặc chụp cộng hưởng từ ( MRI ) có thể hữu ích để phát hiện u buồng trứng hoặc u tuyến thượng thận nếu nồng độ testosterone rất cao.
+![Hội chứng buồng trứng đa nang](https://dermnetnz.org/assets/Uploads/systemic/acne-pcos.jpg)
+![chứng rậm lông](https://dermnetnz.org/assets/Uploads/systemic/hirs-pcos.jpg)
+![Buồng trứng đa nang](https://dermnetnz.org/assets/Uploads/systemic/aga-pcos.jpg)
+
+---
+
+## Phương pháp điều trị PCOS là gì?
+
+Trước đây, việc điều trị PCOS chủ yếu tập trung vào việc điều trị các triệu chứng riêng lẻ của hội chứng buồng trứng đa nang (PCOS), chẳng hạn như rậm lông, mụn trứng cá hoặc vô sinh. Gần đây, với nhận thức rằng tình trạng kháng insulin đóng vai trò quan trọng trong sự phát triển của PCOS, việc điều trị đã chuyển sang điều chỉnh tình trạng kháng insulin, từ đó cải thiện nhiều triệu chứng khác của bệnh.
+- Chế độ ăn uống và tập thể dục: Giảm cân ở bệnh nhân PCOS béo phì dẫn đến giảm tình trạng kháng insulin và giảm nồng độ testosterone. Những cải thiện bên ngoài bao gồm giảm rậm lông và kinh nguyệt trở lại ở một số phụ nữ.
+- Metformin và các thuốc chống tiểu đường thế hệ mới như glitazone làm giảm tình trạng kháng insulin và lượng insulin trong máu. Chúng cũng có thể giúp bình thường hóa quá trình rụng trứng.
+- Bỏ [thuốc lá](https://dermnetnz.org/topics/smoking-and-its-effects-on-the-skin) làm giảm khả năng xảy ra các biến chứng liên quan đến hút thuốc như cục máu đông
+Ngoài các phương pháp điều trị trên, các phương pháp điều trị cụ thể cũng được sử dụng để kiểm soát toàn bộ các triệu chứng.
+- [Thuốc tránh thai đường uống kháng androgen](https://dermnetnz.org/topics/anti-androgen-therapy) (thuốc tránh thai) giúp kiểm soát mụn trứng cá và chứng rậm lông. Chúng cũng cải thiện tình trạng kinh nguyệt không đều. Tuy nhiên, thuốc này có thể không phù hợp với phụ nữ thừa cân hoặc béo phì.
+- [Spironolactone](https://dermnetnz.org/topics/anti-androgen-therapy) , một chất kháng androgen mạnh, có thể làm giảm mụn trứng cá và cả sự phát triển của lông trên cơ thể theo thời gian. Thuốc này ít hiệu quả hơn đối với chứng rụng tóc. Không nên sử dụng cho phụ nữ đang cố gắng thụ thai vì có thể gây dị tật bẩm sinh.
+- [Glucocorticoid](https://dermnetnz.org/topics/systemic-steroids) liều thấp dùng vào ban đêm có thể phù hợp với một số phụ nữ.
+- Thuốc chủ vận giải phóng hormone gonadotropin đang được nghiên cứu để ức chế tuyến yên giải phóng LH và do đó làm giảm tiết hormone buồng trứng.
+- [Isotretinoin](https://dermnetnz.org/topics/isotretinoin) được sử dụng cho các trường hợp mụn trứng cá nghiêm trọng. Không được sử dụng cho phụ nữ đang mang thai hoặc đang cố gắng thụ thai vì có thể gây dị tật bẩm sinh. Hội chứng buồng trứng đa nang (PCOS) có thể dẫn đến mụn trứng cá tái phát sau khi đã điều trị thành công ban đầu bằng isotretinoin.
+- [Các biện pháp tẩy lông](https://dermnetnz.org/topics/hair-removal-techniques) như cạo, [điện phân](https://dermnetnz.org/topics/electrolysis) , hóa chất và kem [tẩy lông](https://dermnetnz.org/topics/waxing) có thể được sử dụng để điều trị chứng rậm lông.

@@ -1,0 +1,128 @@
+# Bệnh sừng hóa ánh sáng — thông tin bổ sung
+
+Thể loại:
+
+Tổn thương (ung thư), Tổn thương (lành tính)
+
+SNOMED CT:
+
+201101007
+
+**[Tổn thương (ung thư), Tổn thương (lành tính)](https://dermnetnz.org/topics/topics?category=Lesions+(cancerous))**
+
+
+# **Bệnh sừng hóa ánh sáng**
+
+Tác giả: Tiến sĩ Ian Coulson, Bác sĩ Da liễu, Vương quốc Anh; Tổng Biên tập DermNet (2024).Những người đóng góp trước đây: Tiến sĩ Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand, (1997); cập nhật thêm vào tháng 12 năm 2015.Được biên tập bởi bộ phận nội dung DermNet.
+
+---
+
+## Bệnh sừng hóa ánh sáng là gì?
+
+Dày sừng quang hóa là một đốm vảy tiền ung thư xuất hiện trên da bị tổn thương do ánh nắng mặt trời, còn được gọi là dày sừng ánh sáng mặt trời. Đây có thể được coi là dạng [ung thư biểu mô tế bào vảy](https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma) ở da giai đoạn đầu ( [ung thư tế bào sừng](https://dermnetnz.org/topics/keratinocyte-cancer) ). [](https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma) [](https://dermnetnz.org/topics/keratinocyte-cancer)
+![Phần gốc màu hồng với phần đỉnh sừng hóa ở sống mũi - vị trí thường gặp của bệnh sừng hóa ánh sáng](https://dermnetnz.org/assets/Uploads/lesions/ak-face/235.jpg)
+![Sừng hóa ánh sáng ở mũi](https://dermnetnz.org/assets/collection/Actinic-keratosis/actinic-keratosis-00002.jpg)
+![Một tổn thương có vảy thô ráp ở mu bàn tay - một vị trí thường gặp của bệnh sừng hóa ánh sáng](https://dermnetnz.org/assets/Uploads/lesions/bcc-limbs/502.jpg)
+
+---
+
+## Ai mắc bệnh sừng hóa ánh sáng?
+
+Sừng hóa ánh sáng ảnh hưởng đến những người thường sống ở vùng nhiệt đới hoặc cận nhiệt đới và có các yếu tố dễ mắc bệnh như:
+- Các dấu hiệu khác của [da lão hóa do ánh sáng](https://dermnetnz.org/topics/ageing-skin)
+- Da trắng nhưng có tiền sử bị [cháy nắng](https://dermnetnz.org/topics/sunburn)
+- Tiền sử dành nhiều giờ ở ngoài trời để làm việc hoặc giải trí
+- Hệ thống miễn dịch bị khiếm khuyết.
+Tuy nhiên, ngay cả ở những vùng khí hậu ôn đới, chúng vẫn có thể phổ biến - ở miền nam Ireland và tây bắc nước Anh, có tới 25% số người từ 60 tuổi trở lên mắc ít nhất một bệnh.
+
+---
+
+## Nguyên nhân nào gây ra bệnh sừng hóa ánh sáng?
+
+Sừng hóa ánh sáng là kết quả của sự phát triển bất thường của tế bào da do tổn thương DNA do tia UVB bước sóng ngắn.
+Chúng có nhiều khả năng xuất hiện nếu chức năng miễn dịch kém, do lão hóa, tiếp xúc với ánh nắng mặt trời gần đây, [bệnh lý nền](https://dermnetnz.org/topics/immunodeficiency) hoặc một số [loại thuốc](https://dermnetnz.org/topics/drug-induced-immunosuppression) .
+
+---
+
+## Đặc điểm lâm sàng của bệnh sừng hóa ánh sáng là gì?
+
+Sừng hóa ánh sáng có thể đơn độc nhưng thường có nhiều sừng hóa. Hình dạng có thể khác nhau.
+- Một sẩn phẳng hoặc dày , hoặc mảng bám
+- Màu trắng hoặc vàng; bề mặt có vảy, mụn cóc hoặc sừng
+- Da có màu đỏ hoặc sắc tố
+- Đau hoặc không có triệu chứng
+Đôi khi chúng được phân loại theo hình dáng bên ngoài:
+Cấp độ 1: Các vết màu hồng hoặc xám nhẹ có vảy nhẹ và sờ vào thấy sạn
+Độ 2: Sừng hóa dày vừa phải và dễ phát hiện
+Độ 3: Keratin dày tăng sừng nặng
+Cấp độ 4: Các vùng hợp lưu có kích thước vài cm với một loạt các cấp độ AK nêu trên
+Sừng hóa ánh sáng rất phổ biến ở những vùng da thường xuyên tiếp xúc với ánh nắng mặt trời, đặc biệt là mu bàn tay và mặt, thường ảnh hưởng đến tai, mũi, má, môi trên, môi dưới, thái dương, trán và da đầu hói. Ở những người bị tổn thương mãn tính do ánh nắng mặt trời nghiêm trọng, chúng cũng có thể xuất hiện ở thân trên, chi trên, chi dưới và mu bàn chân.
+![Thay đổi trên vùng trán với nhiều sừng hóa actinic nông](https://dermnetnz.org/assets/Uploads/lesions/sk6.jpg)
+![Sừng hóa actinic dày hơn ở mu bàn tay](https://dermnetnz.org/assets/Uploads/doctors/lesions/images/sk2.jpg)
+![Sừng hóa actinic tăng sừng ở trán](https://dermnetnz.org/assets/Uploads/lesions/ak-face/282.jpg)
+Nhiều hình ảnh khác về bệnh sừng hóa ánh sáng ...
+- [Sừng hóa ở mũi](https://dermnetnz-org.translate.goog/topics/actinic-keratosis-on-the-nose-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+- [Sừng hóa trên mặt](https://dermnetnz-org.translate.goog/topics/actinic-keratosis-face-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+- [Sừng hóa trên da đầu](https://dermnetnz-org.translate.goog/topics/actinic-keratosis-scalp-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+- [Sừng hóa ở tay](https://dermnetnz-org.translate.goog/topics/actinic-keratosis-affecting-the-hand-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+- [Sừng hóa ở chân](https://dermnetnz-org.translate.goog/topics/actinic-keratosis-leg-and-foot-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+- [Sừng hóa được điều trị bằng imiquimod](https://dermnetnz-org.translate.goog/topics/actinic-keratosis-imiquimod-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+
+---
+
+## Biến chứng của bệnh sừng hóa ánh sáng
+
+Mối lo ngại chính là dày sừng quang hóa chỉ ra nguy cơ phát triển [ung thư biểu mô tế bào vảy](https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma) ở da tăng cao . Rất hiếm khi một dày sừng quang hóa đơn độc tiến triển thành ung thư biểu mô tế bào vảy (SCC), nhưng nguy cơ SCC xảy ra ở một giai đoạn nào đó ở bệnh nhân có hơn 10 dày sừng quang hóa được cho là khoảng 10 đến 15%. Một dày sừng quang hóa mềm, dày lên, loét hoặc lan rộng là dấu hiệu đáng ngờ cho thấy có thể tiến triển thành SCC.
+[Sừng da](https://dermnetnz.org/topics/cutaneous-horn) có thể xuất hiện do bệnh sừng hóa ánh sáng hoặc SCC tiềm ẩn.
+Do bị tổn thương do ánh nắng mặt trời, những người bị sừng hóa ánh sáng cũng có nguy cơ mắc bệnh [viêm môi do ánh sáng](https://dermnetnz.org/topics/actinic-cheilitis) , [ung thư biểu mô tế bào đáy](https://dermnetnz.org/topics/basal-cell-carcinoma) (BCC, phổ biến hơn SCC), [u hắc tố và các dạng](https://dermnetnz.org/topics/melanoma) ung thư da hiếm gặp như [ung thư biểu mô tế bào Merkel](https://dermnetnz.org/topics/merkel-cell-carcinoma) .
+
+---
+
+## Bệnh sừng hóa ánh sáng được chẩn đoán như thế nào?
+
+Bệnh sừng hóa ánh sáng thường dễ chẩn đoán bằng lâm sàng hoặc bằng [phương pháp soi da](https://dermnetnz.org/topics/dermoscopy) (xem [soi da bệnh sừng hóa ánh sáng](https://dermnetnz.org/topics/actinic-keratosis-dermoscopy) ). Đôi khi, cần phải [sinh thiết](https://dermnetnz.org/topics/skin-biopsy) để loại trừ [SCC](https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma) hoặc nếu điều trị không thành công.
+
+---
+
+## Phương pháp điều trị bệnh sừng hóa ánh sáng là gì?
+
+Sừng hóa quang hóa thường được loại bỏ vì chúng gây mất thẩm mỹ hoặc khó chịu, hoặc vì nguy cơ ung thư da có thể phát triển . Vấn đề thứ hai là một chủ đề gây tranh cãi đáng kể, và các nghiên cứu đáng tin cậy nhất (tổng quan Cochrane) không tìm thấy bằng chứng thuyết phục cho thấy điều trị AK có thể ngăn ngừa ung thư biểu mô tế bào vảy xâm lấn .
+Điều trị dày sừng quang hóa đòi hỏi phải loại bỏ các tế bào da bị khiếm khuyết. Lớp biểu bì tái tạo từ các tế bào sừng xung quanh hoặc nang đã thoát khỏi tác hại của ánh nắng mặt trời. Một số AK sẽ tự khỏi nếu sử dụng kem chống nắng thường xuyên và đúng cách.
+Các trường hợp dày sừng quang hóa mềm, dày lên, loét hoặc lan rộng cần được điều trị tích cực. Các trường hợp dày sừng phẳng không triệu chứng có thể không cần điều trị tích cực nhưng cần được theo dõi.
+
+### Điều trị vật lý
+Các phương pháp điều trị vật lý được sử dụng để phá hủy từng mảng sừng hóa riêng lẻ, thường có triệu chứng hoặc có lớp vảy cứng dày trên bề mặt. Các tổn thương có thể tái phát theo thời gian, trong trường hợp đó, chúng có thể được điều trị bằng cùng một phương pháp hoặc một phương pháp khác.
+
+#### Liệu pháp lạnh sử dụng nitơ lỏng
+[](https://dermnetnz.org/topics/cryotherapy) Cần phun [nitơ lỏng](https://dermnetnz.org/topics/cryotherapy) để đạt được độ sâu và thời gian đông lạnh cần thiết. Thời gian này thay đổi tùy theo vị trí, chiều rộng và độ dày của tổn thương. Thời gian lành thương dao động từ 5–10 ngày ở mặt, 3–4 tuần ở tay và 6 tuần hoặc lâu hơn ở chân. Đông lạnh nhẹ đối với chứng dày sừng quang hóa nông thường không để lại dấu vết, nhưng thời gian đông lạnh dài hơn sẽ dẫn đến giảm sắc tố hoặc sẹo.
+
+#### Cạo, nạo và đốt điện
+Có thể cần phải cạo, [nạo](https://dermnetnz.org/topics/curettage-and-cautery) (cạo bằng dụng cụ sắc nhọn) và [đốt điện (đốt) để loại bỏ](https://dermnetnz.org/topics/electrosurgery) [sừng da](https://dermnetnz.org/topics/cutaneous-horn) hoặc dày sừng quang hóa phì đại . Quá trình lành vết thương mất vài tuần hoặc lâu hơn, tùy thuộc vào vị trí cơ thể. Mẫu bệnh phẩm được gửi đi xét nghiệm mô học .
+
+#### Cắt bỏ
+[Việc cắt bỏ](https://dermnetnz.org/topics/excision-of-skin-lesions) đảm bảo lớp sừng hóa ánh sáng đã được loại bỏ hoàn toàn, điều này cần được xác nhận bằng xét nghiệm bệnh lý. Vết mổ được khâu lại. Các mũi khâu sẽ được cắt bỏ sau vài ngày, thời gian tùy thuộc vào kích thước và vị trí của tổn thương. Thủ thuật này để lại sẹo vĩnh viễn.
+
+### Xử lý thực địa
+Kem được sử dụng để điều trị các vùng da bị tổn thương do ánh nắng mặt trời và sừng hóa actinic phẳng, đôi khi sau khi đã thực hiện các liệu pháp vật lý. Điều trị tại chỗ hiệu quả nhất trên da mặt. Việc xử lý trước bằng thuốc tiêu sừng (như kem [urê](https://dermnetnz.org/topics/urea) , thuốc mỡ [axit salicylic](https://dermnetnz.org/topics/salicylic-acid) hoặc [retinoid bôi ngoài da](https://dermnetnz.org/topics/topical-retinoids) ) và làm sạch da kỹ lưỡng sẽ cải thiện tỷ lệ đáp ứng. Kết quả có thể khác nhau và liệu trình điều trị có thể cần lặp lại theo thời gian. Ngoại trừ gel diclofenac , tất cả các liệu pháp tại chỗ đều gây ra các phản ứng viêm tại chỗ như đỏ, phồng rộp và khó chịu trong thời gian khác nhau. [](https://dermnetnz.org/topics/salicylic-acid) [](https://dermnetnz.org/topics/topical-retinoids)
+- [Diclofenac](https://dermnetnz.org/topics/diclofenac-gel-for-actinic-keratoses) thường được sử dụng như một loại thuốc chống viêm . Dạng gel đặc biệt (3%) trong dung dịch kiềm có chứa natri hyaluronate được bôi hai lần mỗi ngày trong 3 tháng. Thuốc được dung nạp khá tốt trong điều trị dày sừng quang hóa, nhưng kém hiệu quả hơn các lựa chọn khác được liệt kê ở đây.
+- Piroxicam - tương tự diclofenac.
+- [5-Fluorouracil](https://dermnetnz.org/topics/5-fluorouracil-cream) là một tác nhân gây độc tế bào . Dạng kem được bôi một hoặc hai lần mỗi ngày trong 2 đến 8 tuần. Hiệu quả của thuốc có thể được tăng cường bằng thuốc mỡ [calcipotriol](https://dermnetnz.org/topics/calcipotriol) . 5-fluorouracil có thể được bào chế dưới dạng kết hợp với [axit salicylic](https://dermnetnz.org/topics/salicylic-acid) .
+- Lột da bằng axit trichloroacetic hoặc dung dịch Jessner.
+- [Kem Imiquimod](https://dermnetnz.org/topics/imiquimod) là thuốc điều chỉnh đáp ứng miễn dịch. Thuốc được bôi 2 hoặc 3 lần mỗi tuần trong 4 đến 16 tuần.
+- [Liệu pháp quang động](https://dermnetnz.org/topics/photodynamic-therapy) (PDT) bao gồm việc bôi chất nhạy sáng (một hóa chất porphyrin như [axit methyl aminolevulinic](https://dermnetnz.org/topics/methyl-aminolevulinate-photodynamic-therapy) ) lên vùng da bị ảnh hưởng trước khi chiếu ánh sáng khả kiến. Việc sử dụng ánh sáng ban ngày làm nguồn sáng rất an toàn và gần như không gây đau đớn. Nguồn sáng nhân tạo dễ dự đoán hơn, thời gian chiếu ngắn hơn nhưng có thể gây đau.
+- [Tirbanibulin](https://dermnetnz.org/topics/tirbanibulin-ointment) là chất ức chế tổng hợp quá trình trùng hợp tubulin và tín hiệu protein kinase. Liệu trình điều trị tại chỗ kéo dài 5 ngày này đã được cấp phép lưu hành tại các quốc gia như Hoa Kỳ, Anh và Đức vào năm 2021.
+- Retinoid đường uống đã được sử dụng cho những người nhận ghép tạng và được chứng minh là có tác dụng làm giảm nguy cơ phát triển SCC ở những người có nhiều AK.
+
+---
+
+## Phòng ngừa bệnh sừng hóa ánh sáng
+
+Sừng hóa quang hóa có thể được ngăn ngừa bằng cách [bảo vệ da khỏi ánh nắng mặt trời nghiêm ngặt. Nếu đã xuất hiện, sừng hóa quang hóa có thể cải thiện bằng cách thoa](https://dermnetnz.org/topics/sun-protection) [kem](https://dermnetnz.org/topics/topical-sunscreen-agents) chống nắng phổ rộng có chỉ số chống nắng rất cao (50+) ít nhất mỗi ngày lên vùng da bị ảnh hưởng, quanh năm.
+Số lượng và mức độ nghiêm trọng của bệnh sừng hóa ánh sáng cũng có thể giảm bằng cách uống [nicotinamide](https://dermnetnz.org/topics/nicotinamide) (vitamin B3) 500 mg hai lần mỗi ngày.
+Tiêm vắc-xin Alpha- [HPV](https://dermnetnz.org/topics/sexually-acquired-human-papillomavirus) có thể làm giảm số lượng AK ở những người có hệ miễn dịch bình thường nhưng có nhiều AK.
+
+---
+
+## Triển vọng của bệnh sừng hóa ánh sáng là gì?
+
+Sừng hóa ánh sáng có thể tái phát nhiều tháng hoặc nhiều năm sau khi điều trị. Có thể lặp lại liệu trình điều trị tương tự hoặc áp dụng phương pháp khác. Bệnh nhân đã được điều trị sừng hóa ánh sáng có nguy cơ tái phát sừng hóa. Họ cũng có nguy cơ mắc [các bệnh ung thư da](https://dermnetnz.org/topics/skin-cancer) khác cao hơn , đặc biệt là [ung thư biểu mô tế bào vảy trong biểu bì ,](https://dermnetnz.org/topics/intraepidermal-squamous-cell-carcinoma) [ung thư biểu mô tế bào vảy](https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma) xâm lấn da , [ung thư biểu mô tế bào đáy](https://dermnetnz.org/topics/basal-cell-carcinoma) và [u hắc](https://dermnetnz.org/topics/melanoma) tố .

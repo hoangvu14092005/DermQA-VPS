@@ -1,0 +1,169 @@
+# Bệnh da liễu trung tính sốt cấp tính (Hội chứng Sweet) — thông tin bổ sung
+
+Thể loại:
+
+Tự miễn/tự viêm
+
+SNOMED CT:
+
+84625002
+
+**[Tự miễn/tự viêm](https://dermnetnz.org/topics/topics?category=Autoimmune/autoinflammatory)**
+
+
+# **Bệnh da liễu trung tính sốt cấp tính (Hội chứng Sweet)**
+
+Tác giả: Tiến sĩ Nageswary Nadarajah, Chuyên viên đăng ký y tế cấp tính, Hull Royal NHS Foundation Trust; Tiến sĩ Faraz Imran, Bác sĩ tư vấn da liễu, Bệnh viện Castlehill, Vương quốc Anh (2025).Những người đóng góp trước đây: Tiến sĩ Amanda Oakley, Bác sĩ da liễu, New Zealand (1998; 2015)Được bình duyệt bởi: Tiến sĩ Sally-Anne Ting,Bệnh viện Sir Charles Gairdner, Úc (2025)Đánh giá bác sĩ da liễu: Tiến sĩ Ian CoulsonĐược biên tập bởi bộ phận nội dung DermNet
+
+---
+
+## Bệnh da liễu trung tính sốt cấp tính là gì?
+
+Bệnh da liễu trung tính sốt cấp tính là một tình trạng da hiếm gặp, đặc trưng bởi các tổn thương da viêm, đau đột ngột kèm theo sốt.
+Bệnh da liễu sốt cấp tính do bạch cầu trung tính cũng có tên gọi riêng là hội chứng Sweet , được đặt theo tên của Tiến sĩ Robert Douglas Sweet đến từ Plymouth, Anh, người đầu tiên mô tả bệnh này vào năm 1964.
+
+---
+
+## Ai mắc bệnh viêm da trung tính sốt cấp tính?
+
+Bệnh da liễu sốt cấp tính tăng bạch cầu trung tính thường xảy ra ở phụ nữ trong độ tuổi từ 30-60. Bệnh cũng có thể xảy ra ở nam giới, trẻ em (hiếm gặp) và người cao tuổi. Cũng không có sự phân biệt chủng tộc rõ ràng.
+Hầu hết những người bị ảnh hưởng đều có các bệnh lý tiềm ẩn kèm theo.
+
+---
+
+## Nguyên nhân nào gây ra bệnh da liễu trung tính sốt cấp tính?
+
+Nguyên nhân chính xác của tình trạng này vẫn chưa được biết rõ, nhưng có thể có những nguyên nhân sau:
+- Nguy cơ di truyền , chẳng hạn như HLA -B54, trong dân số Nhật Bản.
+- Phản ứng quá mẫn với vi khuẩn , vi-rút hoặc khối u , gây viêm ở cơ thể và da.
+- Sự mất cân bằng của một số cytokine ( protein ) trong hệ thống miễn dịch, chẳng hạn như yếu tố kích thích khuẩn lạc bạch cầu hạt (G-CSF), yếu tố kích thích khuẩn lạc bạch cầu hạt - đại thực bào (GM-CSF) và interleukin -1 (IL-1).
+Hội chứng này có thể biểu hiện ở ba dạng lâm sàng:
+- Cổ điển (hoặc vô căn ) – liên quan đến nhiễm trùng , [bệnh viêm ruột](https://dermnetnz.org/topics/cutaneous-manifestations-of-inflammatory-bowel-disease) (IBD) hoặc thai kỳ.
+- Liên quan đến bệnh ác tính – thường gặp [là bệnh bạch cầu tủy cấp tính](https://dermnetnz.org/topics/leukaemia-cutis) (AML).
+- Do thuốc – thường là G-CSF, [tretinoin](https://dermnetnz.org/topics/oral-retinoids) , sulfamethoxazole + trimethoprim, bortezomib và [azathioprine](https://dermnetnz.org/topics/azathioprine-and-mercaptopurine) .
+
+---
+
+## Các đặc điểm lâm sàng của bệnh da liễu trung tính sốt cấp tính là gì?
+
+Bệnh da liễu trung tính sốt cấp tính có thể xảy ra một lần hoặc nhiều lần, đặc trưng bởi một số hoặc tất cả các triệu chứng sau:
+- Sốt cao hoặc vừa
+- Mệt mỏi và khó chịu (cảm thấy không khỏe)
+- Tổn thương da
+- Đau mắt và/hoặc [loét miệng](https://dermnetnz.org/topics/mouth-ulcer)
+- Đau nhức khớp
+- Đau đầu
+- Đôi khi các bộ phận khác của cơ thể cũng bị ảnh hưởng, bao gồm xương, hệ thần kinh, thận, ruột, gan, tim, phổi, cơ và lá lách.
+Tổn thương da có thể ít hoặc nhiều. Chúng đặc trưng bởi tình trạng đau và có thể kéo dài từ vài ngày đến vài tuần. Tổn thương thường ảnh hưởng đến mặt, cổ và chi trên. Ở một số bệnh nhân, chúng chỉ xuất hiện ở những vùng tiếp xúc với ánh nắng mặt trời.
+![Mảng xơ vữa hình khuyên ở cổ do bệnh da liễu trung tính sốt cấp tính - có rìa giả mụn nước](https://dermnetnz.org/assets/collection/Acute-febrile-neutrophilic-dermatosis/acute-febrile-neutrophilic-dermatosis-0006.jpg)
+![Viêm da trung tính sốt cấp tính ở cổ](https://dermnetnz.org/assets/collection/Acute-febrile-neutrophilic-dermatosis/acute-febrile-neutrophilic-dermatosis-0017.jpg)
+![Mảng viêm da trung tính cấp tính, sốt nhẹ ở cổ](https://dermnetnz.org/assets/Uploads/reactions/sweet09.jpg)
+![Tổn thương vòng của bệnh da liễu trung tính sốt cấp tính](https://dermnetnz.org/assets/Uploads/figure-5-blistering.jpg)
+![Tổn thương phù nề ở ngón tay do bệnh da liễu trung tính sốt cấp tính ở mu bàn tay](https://dermnetnz.org/assets/collection/Acute-febrile-neutrophilic-dermatosis/acute-febrile-neutrophilic-dermatosis-0010.jpg)
+Hội chứng Sweet có thể có nhiều biểu hiện khác nhau:
+- Các nốt sần nhỏ (nốt sần) hoặc mụn nước (phồng rộp).
+- Mảng dày hoặc sưng to hơn (mảng phẳng) hoặc nốt sần (khối u).
+- Xuất hiện mụn nước giả (gần như phồng rộp) - các mụn nước giả thường thấy ở các tổn thương hình khuyên ngoại vi
+- Tổn thương hình khuyên (hình nhẫn).
+- Các vết xói mòn và loét giống với [bệnh hoại thư mủ da](https://dermnetnz.org/topics/pyoderma-gangrenosum) không điển hình . [](https://dermnetnz.org/topics/pyoderma-gangrenosum)
+![](https://dermnetnz.org/assets/Uploads/reactions/w/sweet15.jpg)
+![](https://dermnetnz.org/assets/Uploads/reactions/w/sweet16.jpg)
+![](https://dermnetnz.org/assets/Uploads/sweet-lip-1.jpg)
+Ở một số bệnh nhân, bệnh da liễu trung tính sốt cấp tính có thể ảnh hưởng đến mắt và niêm mạc miệng, bao gồm lưỡi và môi, gây ra tình trạng xói mòn hoặc loét.
+
+---
+
+## Các đặc điểm lâm sàng khác nhau ở các loại da khác nhau như thế nào?
+
+Hội chứng Sweet có thể biểu hiện bằng màu da sẫm hoặc tím hơn ở vùng da sẫm màu. [Tăng sắc tố sau viêm](https://dermnetnz.org/topics/postinflammatory-hyperpigmentation) (vùng da sẫm màu hơn sau khi vết thương lành) cũng rõ rệt hơn và kéo dài hơn ở vùng da sẫm màu.
+
+---
+
+## Bệnh da liễu trung tính sốt cấp tính được chẩn đoán như thế nào?
+
+Không có xét nghiệm cụ thể nào cho bệnh da liễu trung tính sốt cấp tính, nhưng có một tiêu chuẩn chẩn đoán được phát triển để giúp xác định bệnh. Để chẩn đoán hội chứng Sweet, cần đáp ứng hai tiêu chuẩn chính kết hợp với hai trong bốn tiêu chuẩn phụ.
+
+### Tiêu chí chính
+- Đột ngột xuất hiện các mảng bám hoặc nốt sần mềm
+- Mô học (phân tích mô): thâm nhiễm bạch cầu trung tính ở lớp hạ bì không có viêm mạch
+
+### Tiêu chuẩn phụ
+- Sốt >38°C
+- Bệnh xảy ra trước hoặc liên quan đến nhiễm trùng , rối loạn viêm , ác tính hoặc mang thai
+- Tăng các dấu hiệu viêm ( CRP / ESR ) và số lượng tế bào bạch cầu (WCC) với ưu thế là bạch cầu trung tính (loại tế bào bạch cầu)
+- Phản ứng tích cực với corticosteroid
+Có thể thực hiện các xét nghiệm sau đây để xác định xem có nguyên nhân tiềm ẩn gây ra hội chứng Sweet hay không, đặc biệt là các bệnh ác tính tiềm ẩn:
+- Sàng lọc tự miễn dịch
+- Xét nghiệm HIV
+- Xét nghiệm chức năng tuyến giáp
+- Yếu tố dạng thấp
+- Nồng độ kháng thể antistreptolysin-O
+- Khám sàng lọc ác tính: khám hạch bạch huyết , khám vú và vùng chậu ở nữ, tinh hoàn ở nam, chụp CT ngực bụng và vùng chậu nếu có chỉ định.
+Điều đáng lưu ý là có một số biến thể lâm sàng và mô bệnh học (thay đổi mô liên quan đến bệnh) của hội chứng Sweet có thể làm thay đổi cách điều trị.
+
+#### Các biến thể lâm sàng
+- Hội chứng Bullous Sweet
+- Hội chứng Sweet giống viêm mô tế bào
+- Hội chứng hoại tử Sweet
+- Viêm da trung tính ở mu bàn tay
+
+#### Các biến thể mô học
+- Hội chứng Sweet do nấm Cryptococcoid
+- Hội chứng Sweet Histiocytoid
+- Hội chứng Sweet dưới da
+
+---
+
+## Chẩn đoán phân biệt bệnh da liễu trung tính sốt cấp tính là gì?
+
+- [Viêm da tiếp xúc dị ứng](https://dermnetnz.org/topics/allergic-contact-dermatitis)
+- [Sự bùng phát của ma túy](https://dermnetnz.org/topics/drug-eruptions)
+- [Viêm mô tế bào](https://dermnetnz.org/topics/cellulitis)
+- [Herpes simplex](https://dermnetnz.org/topics/herpes-simplex)
+- [Viêm mô mỡ dưới da](https://dermnetnz.org/topics/panniculitis)
+- [Viêm da mủ hoại thư](https://dermnetnz.org/topics/pyoderma-gangrenosum)
+- [Ban đỏ nốt](https://dermnetnz.org/topics/erythema-nodosum)
+- [Ban đỏ đa dạng](https://dermnetnz.org/topics/erythema-multiforme)
+- [Bệnh lupus ban đỏ](https://dermnetnz.org/topics/systemic-lupus-erythematosus)
+- [Bệnh Behçet](https://dermnetnz-org.translate.goog/images/behcet-disease-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+
+---
+
+## Phương pháp điều trị bệnh viêm da trung tính sốt cấp tính là gì?
+
+Điều trị bệnh da liễu trung tính sốt cấp tính thường giúp cải thiện nhanh chóng các triệu chứng. Thông thường, [corticosteroid toàn thân](https://dermnetnz.org/topics/systemic-steroids) như prednisolon được kê đơn với liều 30–60 mg mỗi ngày. Sốt, tổn thương da và các triệu chứng khác sẽ hết trong vòng vài ngày. Tuy nhiên, thường cần dùng liều corticosteroid thấp hơn trong vài tuần đến vài tháng để ngăn ngừa tái phát.
+Một số loại thuốc khác có thể được thử khi corticosteroid toàn thân không hiệu quả hoặc chống chỉ định. Những loại thuốc được báo cáo là có hiệu quả bao gồm:
+- [Corticosteroid tại chỗ](https://dermnetnz.org/topics/systemic-steroids)
+- [Corticosteroid tiêm vào tổn thương](https://dermnetnz.org/topics/intralesional-injection)
+- [Colchicin](https://dermnetnz.org/topics/colchicine)
+- [Dung dịch kali iodua](https://dermnetnz.org/topics/potassium-iodide)
+- [Dapsone](https://dermnetnz.org/topics/dapsone)
+- [Thuốc chống viêm không steroid (indomethacin)](https://dermnetnz.org/topics/non-steroidal-anti-inflammatory-drugs-and-their-skin-side-effects)
+- [Ciclosporin](https://dermnetnz.org/topics/ciclosporin)
+- [Anakinra](https://dermnetnz.org/topics/anakinra)
+- [Các tác nhân sinh học](https://dermnetnz.org/topics/biologics-and-novel-small-molecule-treatments-reproduction-and-psoriasis) khác như [infliximab](https://dermnetnz.org/topics/infliximab-for-psoriasis) , [adalimumab](https://dermnetnz.org/topics/adalimumab-for-psoriasis) , [etanercept](https://dermnetnz.org/topics/etanercept-for-psoriasis) và [spesolimab](https://dermnetnz.org/topics/spesolimab)
+- [Minocycline](https://dermnetnz.org/topics/tetracycline)
+- [Mycophenolate](https://dermnetnz.org/topics/mycophenolate-mofetil)
+- [Clofazimine](https://dermnetnz.org/topics/clofazimine)
+- [Thalidomide](https://dermnetnz.org/topics/thalidomide)
+Trong một số trường hợp, bệnh da liễu trung tính sốt cấp tính có thể kháng trị.
+
+---
+
+## Làm thế nào để ngăn ngừa bệnh da liễu trung tính sốt cấp tính?
+
+Kiến thức trước đó và chỉ số nghi ngờ cao ở những bệnh nhân có nguy cơ cao (mắc bệnh liên quan như IBD, AML hoặc dùng thuốc thường gặp) và quản lý sớm có thể giúp ngăn ngừa các triệu chứng hoặc biến chứng liên quan đến hội chứng Sweet.
+
+---
+
+## Hậu quả của bệnh da liễu trung tính sốt cấp tính là gì?
+
+Viêm da tăng bạch cầu trung tính sốt cấp tính thường tự khỏi mà không để lại sẹo, dù có điều trị hay không, mặc dù tổn thương có thể kéo dài hàng tuần đến hàng tháng. Nhìn chung, hội chứng Sweet chỉ xuất hiện một lần, nhưng khoảng 50% bệnh nhân có thể bị tái phát. Điều này thường gặp hơn ở bệnh nhân vô căn hoặc có ung thư tiềm ẩn. Hiếm khi, bệnh có thể kéo dài hàng năm.
+
+---
+
+## Biến chứng của bệnh da liễu trung tính sốt cấp tính là gì?
+
+- [Chốc](https://dermnetnz.org/topics/impetigo) lở thứ phát ( nhiễm trùng do vi khuẩn )
+- [Sẹo](https://dermnetnz.org/topics/keloid-and-hypertrophic-scar)
+- [Teo da](https://dermnetnz.org/topics/atrophie-blanche) (da mỏng đi)

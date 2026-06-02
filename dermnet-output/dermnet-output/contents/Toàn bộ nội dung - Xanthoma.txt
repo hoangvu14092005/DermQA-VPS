@@ -1,0 +1,144 @@
+# U vàng — thông tin bổ sung
+
+Thể loại:
+
+Tổn thương (lành tính)
+
+SNOMED CT:
+
+63103006, 238951005, 238953008, 238954002, 238952003, 69880002, 402472006, 66174008, 254756007, 398036000, 238077000, 403831006, 302870006, 34528009, 63246000
+
+**[Tổn thương (lành tính)](https://dermnetnz.org/topics/topics?category=Lesions+(benign))**
+
+
+# **U vàng**
+
+Tác giả: Vanessa Ngan, Biên tập viên; Tiến sĩ Amy Stanway, Chuyên viên Đăng ký Da liễu, Nottingham, Vương quốc Anh, 2005. Cập nhật bởi Tiến sĩ Helen Gordon, Biên tập viên Y khoa, Auckland, New Zealand. Biên tập bởi Gus Mitchell. Tháng 10 năm 2020.
+
+---
+
+## U vàng là gì?
+
+U vàng (xanthoma) là một tổn thương da do sự tích tụ mỡ trong các đại thực bào ở da. Ít phổ biến hơn, u vàng sẽ xuất hiện ở lớp dưới da .
+
+---
+
+## Ai bị bệnh u vàng?
+
+U vàng thường là dấu hiệu trên da của rối loạn chuyển hóa lipid (rối loạn lipid máu) hoặc xuất hiện trong [bệnh lý mô bào](https://dermnetnz.org/topics/histiocytosis) ; trường hợp thứ nhất là trọng tâm của trang này. U vàng thường ảnh hưởng đến người lớn, mặc dù trẻ em bị tăng cholesterol máu di truyền có thể xuất hiện u vàng. Sự phân bố chủng tộc và giới tính phụ thuộc vào nguyên nhân cơ bản. [](https://dermnetnz.org/topics/histiocytosis)
+
+---
+
+## Nguyên nhân nào gây ra bệnh u vàng?
+
+Rối loạn lipid máu gây ra bệnh u vàng được phân loại thành nguyên phát hoặc thứ phát.
+
+### Rối loạn lipid máu nguyên phát
+Rối loạn lipid máu nguyên phát liên quan đến bệnh u vàng có thể bao gồm:
+- Ví dụ, tăng cholesterol máu, loại gia đình
+- Rối loạn lipid máu kết hợp , ví dụ, tăng lipoprotein máu loại III
+- Tăng triglyceride máu , ví dụ, tăng lipoprotein máu loại I, IV và V
+- Bệnh u vàng ở gân não và bệnh sitosterolemia.
+
+### Rối loạn lipid máu thứ phát
+Rối loạn lipid máu thứ phát liên quan đến u vàng bao gồm:
+- [Béo phì](https://dermnetnz.org/topics/obesity-and-the-skin)
+- [Bệnh tiểu đường](https://dermnetnz.org/topics/skin-problems-associated-with-diabetes-mellitus) và kháng insulin
+- Bệnh gan ứ mật , chẳng hạn như xơ gan mật nguyên phát
+- Hội chứng thận hư
+- Thuốc, chẳng hạn như: Estrogen Tamoxifen [Retinoid đường uống](https://dermnetnz.org/topics/oral-retinoids) [Prednis(ol)one](https://dermnetnz.org/topics/systemic-steroids) [Thuốc Ciclosporin](https://dermnetnz.org/topics/ciclosporin) .
+- Estrogen
+- Tamoxifen
+- [Retinoid đường uống](https://dermnetnz.org/topics/oral-retinoids)
+- [Prednis(ol)one](https://dermnetnz.org/topics/systemic-steroids)
+- [Thuốc Ciclosporin](https://dermnetnz.org/topics/ciclosporin) .
+U vàng lan tỏa có liên quan đến bệnh paraprotein huyết. U vàng rải rác là một dạng hiếm gặp của bệnh mô bào.
+
+---
+
+## Các đặc điểm lâm sàng của bệnh u vàng là gì?
+
+Có nhiều loại u vàng khác nhau và chúng được phân loại theo biểu hiện lâm sàng.
+
+### Xanthelasma
+Xanthelasma (còn được gọi là xanthelasma palpebrarum hoặc xanthelasma palpebrum) là dạng u vàng phổ biến nhất. Đây là một loại u vàng phẳng, thường nằm xung quanh góc mắt trong của mí mắt trên. Mí mắt trên và dưới có thể bị ảnh hưởng đối xứng.
+Xanthelasma:
+- Bắt đầu bằng một cục u nhỏ và dần lớn lên trong vài tháng.
+- Biểu hiện là các mảng , sẩn hoặc mảng mềm , màu vàng hoặc vàng cam .
+- Có liên quan đến chứng tăng cholesterol máu gia đình, chứng tăng lipoprotein máu loại II và xơ gan mật nguyên phát.
+- Thường xảy ra khi nồng độ lipid lưu thông bình thường.
+![Không có caption](https://dermnetnz.org/assets/Uploads/systemic/s/xanthelas1.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/systemic/xanthelas2.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/systemic/xanthelas3.jpg)
+Xem thêm [hình ảnh của xanthelasma](https://dermnetnz-org.translate.goog/topics/xanthelasma-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp) .
+
+### Các loại u vàng phẳng khác
+U vàng phẳng (plane xanthoma, plane xanthoma) là những mảng hoặc dát mềm, màu vàng có thể xuất hiện ở bất kỳ vị trí nào trên cơ thể. Tổn thương ở khoảng kẽ giữa các ngón tay và ngón chân là dấu hiệu đặc trưng của bệnh tăng cholesterol máu gia đình đồng hợp tử . U vàng phẳng cũng có thể liên quan đến tăng lipoprotein máu loại III và cần được phân biệt với bệnh u vàng phẳng lan tỏa.
+
+### U vàng lòng bàn tay
+U vàng lòng bàn tay (xanthoma striata palmaris) biểu hiện bằng vùng da vàng cam ở lòng bàn tay và nếp gấp cổ tay. Đây là dấu hiệu chẩn đoán của bệnh tăng lipoprotein máu loại III.
+
+### U vàng củ
+U vàng củ là những nốt sần cứng, không đau, màu đỏ-vàng , phát triển trên các vùng chịu áp lực như đầu gối, khuỷu tay và gót chân. Chúng có thể kết hợp với nhau tạo thành các khối u lớn nhiều thùy. U vàng củ thường liên quan đến tình trạng tăng lipoprotein máu loại III.
+![Không có caption](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/w/xanth-tub3.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/systemic/s/xanth-tub1.jpg)
+
+### U vàng gân
+U vàng gân (u vàng gân) là những nốt dưới da phát triển chậm, thường bám vào gân Achilles hoặc các gân trên các khớp ngón tay. Chúng nhẵn, chắc khi sờ nắn và di động. Màu da bên trên bình thường. U vàng gân thường liên quan nhất đến tăng cholesterol máu gia đình, nhưng cũng có thể gặp trong bệnh u vàng não gân và bệnh tăng sitosterol máu.
+![Không có caption](https://dermnetnz.org/assets/Uploads/systemic/xanth-tend.jpg)
+
+### U vàng phát ban
+U vàng phát ban thường biểu hiện dưới dạng các sẩn màu vàng kích thước 2–5 mm với viền đỏ trên bề mặt duỗi như mông hoặc vai, nhưng có thể lan rộng, kể cả bên trong miệng. Các sẩn có thể mềm và thường ngứa. Chúng có thể biểu hiện tình trạng köbnerisation. U vàng phát ban là do tăng triglyceride máu (triglyceride > 11,2 mmol/L) bất kể nguyên nhân nào.
+![Không có caption](https://dermnetnz.org/assets/Uploads/systemic/xantherupt3.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/systemic/xantherupt2.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/systemic/s/xantherupt.jpg)
+
+### U vàng dạng mụn cóc
+U vàng dạng mụn cóc là một thực thể hiếm gặp, không liên quan đến rối loạn lipid máu. Bệnh thường ảnh hưởng đến miệng, được tìm thấy dưới dạng một tổn thương đơn độc, không triệu chứng trên nướu và liên quan đến bệnh ghép chống vật chủ mạn tính . Ở bộ phận sinh dục , nó được gọi là u vàng Vegas ( liên quan đến sinh dục dạng mụn cóc) và biểu hiện dưới dạng mảng sùi màu vàng nâu hoặc đỏ . Chất béo tìm thấy trong các đại thực bào dạng bọt được cho là có nguồn gốc từ tế bào sừng , và có thể là phản ứng với kích ứng mãn tính.
+
+---
+
+## Biến chứng của bệnh u vàng là gì?
+
+U vàng thường là dấu hiệu của rối loạn lipid máu, do đó các biến chứng thường là biến chứng của bệnh lý nền, chẳng hạn như viêm tụy hoặc bệnh tim mạch. U vàng dường như là một yếu tố dự báo độc lập của bệnh tim thiếu máu cục bộ , tách biệt với bất kỳ rối loạn lipid máu nào đi kèm.
+
+---
+
+## Bệnh u vàng được chẩn đoán như thế nào?
+
+U vàng thường là chẩn đoán lâm sàng được thực hiện trong bối cảnh rối loạn lipid máu. [Sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) có thể được yêu cầu và cho thấy các đại thực bào chứa đầy lipid đặc trưng ở lớp hạ bì (xem [Bệnh lý u vàng phát ban](https://dermnetnz.org/topics/eruptive-xanthoma-pathology) ).
+Cần phải tiến hành điều tra để xác định tình trạng liên quan và có thể bao gồm:
+- Hồ sơ lipid
+- Xét nghiệm chức năng gan , tuyến giáp và thận
+- Đường huyết lúc đói
+- Điện di protein huyết thanh và nước tiểu để tìm u vàng lan tỏa.
+
+---
+
+## Chẩn đoán phân biệt bệnh u vàng là gì?
+
+U vàng có thể cần được phân biệt với nhiều tổn thương da khác tùy thuộc vào biểu hiện lâm sàng.
+- U vàng củ và gân — xem xét các nốt thấp khớp, u cục do gút
+- U vàng phát ban — cần phân biệt với u vàng rải rác
+- U vàng dạng mụn cóc — có thể giống mụn cóc sinh dục
+- U vàng phẳng — phải phân biệt với bệnh u vàng phẳng phát ban.
+
+---
+
+## Phương pháp điều trị bệnh u vàng là gì?
+
+Một số u vàng tự khỏi khi điều trị thành công tình trạng rối loạn lipid máu tiềm ẩn: u củ, u nổi, u phẳng và u lòng bàn tay. U vàng có thể cải thiện nếu kết hợp với tăng cholesterol máu và tình trạng này có thể được điều trị thành công. Tuy nhiên, việc điều trị các tổn thương có thể cần thiết vì lý do thẩm mỹ và có thể bao gồm axit trichloroacetic tại chỗ (xem mục [Lột da hóa học](https://dermnetnz.org/topics/chemical-peels) ), [đốt điện](https://dermnetnz.org/topics/curettage-and-cautery) , [liệu pháp lạnh](https://dermnetnz.org/topics/cryotherapy) , hóa hơi laser (xem mục [Nd:YAG](https://dermnetnz.org/topics/ndyag-laser-treatment) , [Er:YAG](https://dermnetnz.org/topics/eryag-laser-treatment) , [laser carbon dioxide](https://dermnetnz.org/topics/carbon-dioxide-laser-treatment) ) hoặc [cắt bỏ](https://dermnetnz.org/topics/excision-of-skin-lesions) . U vàng dạng mụn cóc được cắt bỏ bằng phẫu thuật và hiếm khi tái phát.
+
+### Điều trị xanthelasma bằng axit trichloroacetic
+![Trước khi xử lý bằng axit trichloroacetic](https://dermnetnz.org/assets/Uploads/systemic/tca-before.jpg)
+![Trong quá trình xử lý axit trichloroacetic](https://dermnetnz.org/assets/Uploads/systemic/tca-during.jpg)
+![Một tháng sau khi điều trị](https://dermnetnz.org/assets/Uploads/systemic/tca-after.jpg)
+
+### Điều trị bằng laser xanthelasma
+![Xanthelasma: sau khi cắt bỏ bằng tia laser](https://dermnetnz.org/assets/collection-O/Xanthelasma-SOC/xanthelasma-post-treatment-00019.jpg)
+
+---
+
+## Kết quả của bệnh u vàng là gì?
+
+Tầm quan trọng của việc chẩn đoán u vàng là nhận biết nguyên nhân gây bệnh và các biến chứng liên quan. Do đó, tiên lượng phụ thuộc vào việc kiểm soát thành công tình trạng bệnh lý tiềm ẩn.

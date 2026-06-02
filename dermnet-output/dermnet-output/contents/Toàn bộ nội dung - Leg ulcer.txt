@@ -1,0 +1,184 @@
+# Loét chân — thông tin bổ sung
+
+Thể loại:
+
+Tổn thương (lành tính)
+
+SNOMED CT:
+
+95344007, 35222003, 238793001, 201256000, 402863005, 10641391000
+
+**[Tổn thương (lành tính)](https://dermnetnz.org/topics/topics?category=Lesions+(benign))**
+
+
+# **Loét chân**
+
+Tác giả: Vanessa Ngan, Biên tập viên, 2004.
+
+---
+
+## Loét chân là gì?
+
+Loét chân là tình trạng mất toàn bộ lớp da ở chân hoặc bàn chân do bất kỳ nguyên nhân nào. Loét chân xảy ra liên quan đến nhiều quá trình bệnh lý, thường gặp nhất là các bệnh lý động mạch , mạch máu hoặc thần kinh . Loét chân có thể cấp tính hoặc mãn tính.
+- Loét cấp tính đôi khi được định nghĩa là tình trạng sau các giai đoạn chữa lành thông thường; dự kiến ​​sẽ có dấu hiệu chữa lành trong vòng chưa đầy bốn tuần và bao gồm các vết thương do chấn thương và sau phẫu thuật.
+- Loét mãn tính kéo dài hơn 4 tuần và thường có nguồn gốc phức tạp và chưa được hiểu rõ.
+
+---
+
+## Ai bị loét chân?
+
+Loét chân mãn tính ảnh hưởng đến khoảng 1% dân số trung niên và cao tuổi. Tình trạng này thường xảy ra sau một chấn thương nhỏ liên quan đến:
+- [Suy tĩnh mạch](https://dermnetnz.org/topics/venous-insufficiency) (45-80%)
+- [Suy động mạch mãn tính](https://dermnetnz.org/topics/arterial-ulcer) (5-20%)
+- [Bệnh tiểu đường](https://dermnetnz.org/topics/diabetic-foot-ulcer) (15-25%)
+- Tăng huyết áp
+Loét chân mãn tính cũng có thể do [ung thư da](https://dermnetnz.org/topics/skin-cancer) , có thể được chẩn đoán bằng [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) ở rìa tổn thương đáng ngờ. Ngoài ra còn có nhiều nguyên nhân ít phổ biến hơn gây loét, bao gồm các bệnh toàn thân như [xơ cứng bì hệ thống](https://dermnetnz.org/topics/systemic-sclerosis) và [viêm mạch](https://dermnetnz.org/topics/cutaneous-vasculitis) , các bệnh lý về da khác nhau, đặc biệt là [viêm da mủ hoại thư](https://dermnetnz.org/topics/pyoderma-gangrenosum) , và các nguyên nhân khác như [tiêm xylazine](https://dermnetnz.org/topics/xylazine-induced-skin-ulcers) .
+
+---
+
+## Nguyên nhân nào gây ra loét chân?
+
+Loét có thể do chấn thương hoặc áp lực, chẳng hạn như bó bột hoặc đi giày trượt tuyết không vừa. Chúng cũng có thể do [nhiễm trùng vi khuẩn](https://dermnetnz.org/topics/bacterial-skin-infections) , đặc biệt là [chốc lở](https://dermnetnz.org/topics/impetigo) , [chốc lở](https://dermnetnz.org/topics/ecthyma) , [viêm mô tế bào](https://dermnetnz.org/topics/cellulitis) , và ít gặp hơn là [loét nhiệt đới](https://dermnetnz.org/topics/tropical-ulcer) , [lao](https://dermnetnz.org/topics/cutaneous-tuberculosis) hoặc [phong](https://dermnetnz.org/topics/leprosy) .
+
+### Suy tĩnh mạch
+[Suy tĩnh mạch](https://dermnetnz.org/topics/venous-insufficiency) là tình trạng hoạt động không bình thường của các van một chiều trong tĩnh mạch. Tĩnh mạch ở bàn chân và cẳng chân dẫn máu ngược dòng về tim. Hai cơ chế hỗ trợ dòng chảy ngược dòng này: bơm cơ bắp chân đẩy máu về tim khi vận động, và các van một chiều ngăn máu chảy ngược dòng xuống chân. Trào ngược qua các van, tắc nghẽn tĩnh mạch và/hoặc suy giảm hoạt động bơm của bắp chân dẫn đến ứ đọng máu quanh phần dưới của cẳng chân đến ngay dưới mắt cá chân. Áp lực tĩnh mạch tăng cao gây ra các mảng fibrin xung quanh mao mạch , sau đó hoạt động như một rào cản đối với dòng oxy và chất dinh dưỡng đến mô cơ và da. Sự chết của các tế bào mô dẫn đến loét.
+
+### Suy động mạch
+[Suy động mạch](https://dermnetnz.org/topics/arterial-ulcer) là tình trạng lưu thông máu kém đến cẳng chân và bàn chân, thường do xơ vữa động mạch. Trong tình trạng xơ vữa động mạch, các động mạch bị hẹp do lắng đọng chất béo trong thành động mạch, thường do nồng độ cholesterol lưu thông cao và trở nên trầm trọng hơn do [hút thuốc lá](https://dermnetnz.org/topics/smoking-and-its-effects-on-the-skin) và huyết áp cao (tăng huyết áp). Các động mạch không cung cấp oxy và chất dinh dưỡng cho chân và bàn chân, dẫn đến sự phá hủy mô.
+
+### Bệnh tiểu đường
+[Loét do tiểu đường](https://dermnetnz.org/topics/diabetic-foot-ulcer) là do sự kết hợp giữa tắc nghẽn động mạch và tổn thương thần kinh . Mặc dù [loét do tiểu đường](https://dermnetnz.org/topics/diabetic-foot-ulcer) có thể xảy ra ở các bộ phận khác của cơ thể, nhưng thường gặp hơn ở bàn chân. Tổn thương thần kinh hoặc bệnh lý thần kinh cảm giác làm giảm nhận thức về áp lực, nhiệt độ hoặc chấn thương. Việc cọ xát và áp lực lên bàn chân không được chú ý và gây tổn thương da, dẫn đến loét "thần kinh".
+Xem thêm về [chẩn đoán phân biệt loét chân](https://dermnetnz.org/topics/differential-diagnosis-of-leg-ulcer) .
+
+---
+
+## Ai có nguy cơ bị loét chân?
+
+Một số tình trạng bệnh lý có liên quan đến sự phát triển của loét chân ở tĩnh mạch và động mạch.
+[Loét ứ trệ](https://dermnetnz.org/topics/stasis-ulcer)
+- [Tĩnh mạch giãn](https://dermnetnz.org/topics/varicose-veins)
+- Tiền sử sưng chân
+- Tiền sử có cục máu đông trong tĩnh mạch sâu, tức là huyết khối tĩnh mạch sâu (DVT) gây ra hội chứng hậu huyết khối (trong 5% trường hợp)
+- Ngồi hoặc đứng trong thời gian dài
+- Huyết áp cao
+- Mang thai nhiều lần
+- Phẫu thuật trước đó
+- Gãy xương hoặc chấn thương
+- Béo phì
+- Tuổi tác ngày càng tăng và tình trạng bất động
+Loét động mạch
+- Bệnh tiểu đường
+- [Hút thuốc](https://dermnetnz.org/topics/smoking-and-its-effects-on-the-skin)
+- Mỡ máu/cholesterol cao
+- Huyết áp cao
+- Suy thận
+- Béo phì
+- [Viêm khớp dạng thấp](https://dermnetnz.org/topics/rheumatoid-arthritis-and-the-skin)
+- Rối loạn đông máu và tuần hoàn
+- Tiền sử bệnh tim, bệnh mạch máu não hoặc bệnh mạch máu ngoại biên
+Loét [do tiểu đường](https://dermnetnz.org/topics/diabetic-foot-ulcer) dễ xảy ra hơn nếu bệnh tiểu đường không được kiểm soát tốt bằng chế độ ăn uống và/hoặc thuốc men. Loét cũng dễ xảy ra hơn nếu chăm sóc bàn chân kém, đi giày không vừa vặn và tiếp tục [hút thuốc](https://dermnetnz.org/topics/smoking-and-its-effects-on-the-skin) .
+
+---
+
+## Dấu hiệu và triệu chứng của bệnh loét chân là gì?
+
+Các đặc điểm của loét tĩnh mạch và động mạch có đôi chút khác biệt.
+
+### Loét ứ trệ
+Các đặc điểm của loét ứ trệ bao gồm:
+- Nằm dưới đầu gối, thường ở phần bên trong của mắt cá chân
+- Tương đối không đau trừ khi bị nhiễm trùng
+- Liên quan đến tình trạng đau nhức, sưng tấy ở chân dưới, cảm thấy thoải mái hơn khi được nâng cao
+- Xung quanh có vết loang lổ màu đỏ nâu và/hoặc da khô, ngứa và đỏ ( [chàm tĩnh mạch](https://dermnetnz.org/topics/venous-eczema) ).
+- Có thể liên quan đến [chứng giãn tĩnh mạch](https://dermnetnz.org/topics/varicose-veins) do hệ thống tĩnh mạch nông hoạt động kém (50%).
+- Có thể liên quan đến [bệnh xơ cứng bì mỡ](https://dermnetnz.org/topics/lipodermatosclerosis) , trong đó phần dưới của chân bị cứng lại
+- Thường đi kèm với sưng tấy, có thể do viêm tại chỗ. Viêm mãn tính phá hủy các mạch bạch huyết bên dưới , gây [phù bạch huyết](https://dermnetnz.org/topics/lymphoedema) . Điều này làm tăng áp lực ở cẳng chân.
+- Da dày lên, tăng sừng (vảy nến), u nhú (những nốt sần nhỏ trên cẳng chân và bàn chân), nứt nẻ , rỉ dịch.
+![Loét tĩnh mạch](https://dermnetnz.org/assets/Uploads/site-age-specific/ulcer-ven1.jpg)
+![Loét tĩnh mạch](https://dermnetnz.org/assets/Uploads/site-age-specific/ulcer-ven2.jpg)
+![Loét tĩnh mạch](https://dermnetnz.org/assets/Uploads/site-age-specific/s/ulcer-ven5.jpg)
+
+### Loét động mạch
+Các đặc điểm của [loét động mạch](https://dermnetnz.org/topics/arterial-ulcer) bao gồm:
+- Thường xuất hiện ở bàn chân, gót chân hoặc ngón chân.
+- Thường gây đau, đặc biệt là vào ban đêm khi nằm trên giường hoặc khi chân được nghỉ ngơi và nâng cao. Cơn đau sẽ giảm khi hạ chân xuống và đặt bàn chân lên sàn vì trọng lực giúp máu lưu thông đến chân nhiều hơn.
+- Các mép của vết loét trông như thể chúng đã bị "đục thủng".
+- Nó liên quan đến đôi chân trắng lạnh hoặc xanh, sáng bóng.
+- Có thể có những cơn đau như chuột rút ở chân khi đi bộ, được gọi là chứng khập khiễng cách hồi , do các cơ chân không nhận đủ máu giàu oxy để hoạt động bình thường. Nghỉ ngơi sẽ giúp giảm cơn đau này.
+- Đánh giá lâm sàng đo Chỉ số Áp lực Cổ chân Cánh tay (ABPI) bằng cách sử dụng đầu dò Doppler để đo áp lực ở cánh tay và cổ chân. Giá trị bình thường từ 0,92 đến 1,3. Nếu ABPI dưới 0,9, có khả năng mắc bệnh động mạch. Mức dưới 0,5 cho thấy bệnh động mạch nặng.
+
+### Loét tiểu đường
+Loét [do tiểu đường](https://dermnetnz.org/topics/diabetic-foot-ulcer) có đặc điểm tương tự như loét động mạch nhưng thường tập trung ở các điểm chịu áp lực như gót chân, đầu ngón chân, kẽ ngón chân hoặc bất kỳ vị trí nào xương có thể nhô ra và cọ xát vào ga trải giường, tất hoặc giày. Khi chịu áp lực, da sẽ dày lên (vết chai), nhưng chỉ cần một chấn thương nhỏ, vết chai sẽ vỡ ra và loét.
+![Loét tiểu đường](https://dermnetnz.org/assets/Uploads/site-age-specific/ulcer-diab.jpg)
+![Loét thần kinh](https://dermnetnz.org/assets/Uploads/site-age-specific/ulcer-neurop.jpg)
+![Loét thần kinh](https://dermnetnz.org/assets/Uploads/site-age-specific/ulcer-parapl.jpg)
+[Xem thêm hình ảnh về vết loét ở chân](https://dermnetnz-org.translate.goog/topics/leg-ulcer-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp) .
+
+### Loét nhiễm trùng
+Vết loét bị nhiễm trùng thường có lớp vảy màu vàng hoặc mủ xanh/vàng trên bề mặt và có thể có mùi khó chịu. Xung quanh vết loét có thể xuất hiện tình trạng đỏ, nóng và sưng ( [viêm mô tế bào](https://dermnetnz.org/topics/cellulitis) ).
+
+---
+
+## Phương pháp điều trị loét chân là gì?
+
+Nếu có thể, việc điều trị nhằm mục đích đảo ngược các yếu tố gây loét. Vì loét thường là hậu quả của cả bệnh động mạch và tĩnh mạch, nên cần đánh giá cẩn thận trước.
+Loét tĩnh mạch chân, nếu không có bệnh động mạch, thường được điều trị bằng cách tập thể dục, kê cao chân khi nghỉ ngơi và [băng ép](https://dermnetnz.org/topics/compression-therapy) . Không được băng ép nếu có bệnh động mạch đáng kể, vì nó sẽ làm trầm trọng thêm tình trạng thiếu máu cục bộ. Phẫu thuật, [liệu pháp xơ hóa](https://dermnetnz.org/topics/sclerotherapy) dưới hướng dẫn siêu âm hoặc điều trị laser nội [mạch](https://dermnetnz.org/topics/leg-vein-therapies) tĩnh mạch nông và tĩnh mạch xuyên cũng có thể hữu ích, đặc biệt nếu hệ thống tĩnh mạch sâu còn nguyên vẹn. Thiết bị băng ép bắp chân hỗ trợ hồi lưu tĩnh mạch có thể mang lại lợi ích bổ sung. [](https://dermnetnz.org/topics/sclerotherapy) [](https://dermnetnz.org/topics/leg-vein-therapies)
+Bác sĩ phẫu thuật mạch máu cũng nên đánh giá bệnh nhân bị loét động mạch chân vì họ có thể cần phẫu thuật để giải quyết tình trạng hẹp động mạch. Việc tái thông mạch máu đặc biệt quan trọng nếu ABPI dưới 0,5.
+Điều trị các bệnh tiềm ẩn như bệnh tiểu đường và cai thuốc lá cũng rất quan trọng.
+
+### Làm sạch vết thương
+Bất kể nguyên nhân gây loét là gì, việc chăm sóc da và làm sạch vết thương kỹ lưỡng là điều cần thiết. Việc loại bỏ nhiễm trùng bề mặt và mô chết được gọi là cắt lọc. Có thể sử dụng phẫu thuật cắt lọc hoặc cắt lọc y tế bằng băng ướt và khô cùng thuốc mỡ. Liệu [pháp giòi](https://dermnetnz.org/topics/maggot-debridement-therapy) và ấu trùng đôi khi được khuyến nghị. Cắt lọc giúp chuyển vết thương mãn tính thành vết thương cấp tính để nó có thể tiến triển qua các giai đoạn lành thương bình thường. Các dung dịch rửa đặc biệt có chứa chất hoạt động bề mặt và chất kháng khuẩn để loại bỏ màng sinh học và có thể cải thiện quá trình lành thương.
+
+### Điều trị nhiễm trùng mô
+[Không cần dùng kháng sinh](https://dermnetnz.org/topics/antibiotics) trừ khi có nhiễm trùng mô do vi khuẩn . Điều này có thể xảy ra nếu vết loét trở nên đau hơn và/hoặc vùng da xung quanh bị đỏ, nóng hoặc sưng ( [viêm mô tế bào](https://dermnetnz.org/topics/cellulitis) ). Viêm mô tế bào cũng có thể dẫn đến sốt và buồn nôn. Nên điều trị bằng kháng sinh đường uống như flucloxacillin – lựa chọn sẽ phụ thuộc vào tác nhân gây bệnh . Tốt nhất nên tránh dùng kháng sinh bôi ngoài da vì có thể làm tăng tình trạng kháng kháng sinh và dị ứng.
+Các vết loét chân lâu năm thường bị vi khuẩn xâm chiếm trong [màng sinh học](https://dermnetnz.org/topics/bacterial-biofilm) . Màng sinh học này có thể bao gồm vi khuẩn , nấm hoặc các sinh vật khác, bám chặt vào vết thương bên dưới. Màng sinh học có thể góp phần khiến vết loét không lành, nhưng hiện tại, cách tốt nhất để chẩn đoán và kiểm soát màng sinh học vẫn chưa được biết rõ. Các sinh vật này được bảo vệ khỏi tác dụng của kháng sinh thông thường; việc kê đơn kháng sinh không cần thiết thực sự có thể chọn lọc các vi khuẩn kháng thuốc hơn.
+
+### Băng bó vết thương
+Có rất nhiều loại [băng chuyên dụng](https://dermnetnz.org/topics/synthetic-wound-dressings) hỗ trợ các giai đoạn khác nhau của quá trình lành vết thương. Chúng được phân loại thành băng không thấm hút, băng thấm hút, băng làm sạch , băng tự dính và các loại khác. Hãy tham khảo ý kiến ​​chuyên gia về lành vết thương để xác định loại băng phù hợp nhất; điều này sẽ phụ thuộc vào vị trí và loại vết loét, sở thích cá nhân và chi phí.
+Băng gạc thường có tính chất bịt kín vì vết loét lành tốt hơn trong môi trường ẩm. Nếu vết loét sạch và khô, băng gạc bịt kín thường được thay hàng tuần; tránh thay băng thường xuyên vì việc thay băng sẽ loại bỏ cả tế bào khỏe mạnh lẫn mảnh vụn. Vết thương bị nhiễm trùng hoặc rỉ dịch có thể cần thay băng thường xuyên hơn, đôi khi vài giờ một lần. [Băng gạc mật ong](https://dermnetnz.org/topics/honey) có thể hữu ích.
+
+### Quản lý phẫu thuật
+Phẫu thuật có thể được cân nhắc nếu vết loét không lành bằng các biện pháp bảo tồn, đặc biệt nếu vết loét quá lớn hoặc gây đau. Trước tiên, cần đánh giá tình trạng hệ thống tĩnh mạch và động mạch, loại bỏ nhiễm trùng và kiểm soát các bệnh lý nền liên quan như tiểu đường, huyết khối (xu hướng hình thành cục máu đông) hoặc suy dinh dưỡng.
+Các vết loét mãn tính sạch có thể được điều trị bằng nhiều loại [ghép da](https://dermnetnz.org/topics/skin-grafting) khác nhau . Vết thương cần được chuẩn bị cẩn thận. Có thể cần phải cạo bỏ lớp xơ mỡ da xung quanh trước khi ghép da.
+
+### Tăng tốc độ chữa lành vết thương
+Quá trình lành vết thương cần đủ protein , sắt, vitamin C và kẽm. Có thể kê đơn thuốc bổ sung nếu chế độ ăn uống thiếu hụt.
+Đã có những sản phẩm mới hỗ trợ chữa lành vết thương nhưng cần nghiên cứu thêm để xác định hiệu quả. Các sản phẩm này bao gồm:
+- Yếu tố tăng trưởng và cytokine
+- Oxy tăng áp để tăng độ căng của mô
+- Chất thay thế ghép da (da sinh học)
+- Ma trận mô liên kết
+- Biểu bì mở rộng
+- Tế bào gốc biểu bì
+- Thiết bị VAC (đóng bằng chân không)
+- [Liệu pháp cắt lọc giòi](https://dermnetnz.org/topics/maggot-debridement-therapy)
+- Simvastatin
+Ở một số bệnh nhân, vết loét không tự lành và cần phải phẫu thuật. Thủ thuật này thường bao gồm việc lấy da từ nơi khác trên cơ thể bệnh nhân và đặt lên vết loét (ghép da). Mặc dù đã thực hiện thủ thuật này, tình trạng loét tái phát vẫn không phải là hiếm.
+
+### Nén
+[Liệu pháp nén](https://dermnetnz.org/topics/compression-therapy) là một phần quan trọng trong việc điều trị loét tĩnh mạch chân và sưng mạn tính ở cẳng chân. Nén giúp chữa lành 40-70% các trường hợp loét tĩnh mạch mạn tính trong vòng 12 tuần. Liệu pháp nén được thực hiện bằng cách sử dụng vớ hoặc băng quấn từ ngón chân hoặc bàn chân đến vùng dưới đầu gối. Áp lực bên ngoài này tạo ra trên chân giúp chữa lành vết loét bằng cách tăng cường hoạt động bơm của cơ bắp chân và giảm sưng ở chân. Không nên sử dụng liệu pháp nén nếu ABPI dưới 0,8.
+Có nhiều tùy chọn để đạt được hiệu quả nén.
+- Nhiều lớp băng (hệ thống nén băng 3 hoặc 4 lớp)
+- Băng ống định hình
+- Tất nén đàn hồi phân cấp (vớ)
+- Unna boot (băng gạc tẩm oxit kẽm)
+
+---
+
+## Có thể ngăn ngừa loét chân không?
+
+Để ngăn ngừa và thúc đẩy quá trình chữa lành vết loét:
+- Tránh bị thương, đặc biệt là khi đẩy xe đẩy siêu thị. Hãy cân nhắc sử dụng nẹp ống chân bảo vệ.
+- Đi bộ và tập thể dục ít nhất một giờ mỗi ngày để duy trì hoạt động bình thường của cơ bắp chân.
+- Giảm cân nếu bạn thừa cân.
+- Bỏ thuốc lá.
+- Kiểm tra bàn chân và cẳng chân thường xuyên. Tìm kiếm các vết nứt, vết loét hoặc thay đổi màu sắc. Dưỡng ẩm sau khi tắm.
+- Mang giày và tất vừa vặn, thoải mái. Tránh tất có dây buộc hoặc cổ giày quá chật. Kiểm tra bên trong giày xem có sỏi nhỏ hoặc các vết xước không trước khi mang vào.
+- Nếu bạn phải đứng trong hơn vài phút, hãy cố gắng thay đổi tư thế càng nhiều càng tốt.
+- Khi ngồi, hãy cử động các ngón chân, đưa chân lên xuống và đi bộ thường xuyên.
+- Tránh ngồi bắt chéo chân. Đặt chân lên ghế có đệm để giảm sưng.
+- Tránh nhiệt độ quá cao như tắm nước nóng hoặc ngồi gần lò sưởi. Giữ ấm chân lạnh bằng tất và dép.
+- Tham khảo ý kiến ​​bác sĩ nắn xương hoặc bác sĩ chuyên khoa chân để loại bỏ vết chai hoặc da cứng.
+- Nếu được bác sĩ khuyên dùng, hãy mang ít nhất vớ hỗ trợ Cấp độ 2 (vớ nén). Điều này đặc biệt quan trọng đối với hội chứng hậu huyết khối, sưng hoặc khó chịu ở chân, và đối với các chuyến bay đường dài.
+- Tiến hành đánh giá siêu âm mạch máu và tham khảo ý kiến ​​bác sĩ phẫu thuật mạch máu để xác định xem có nên thực hiện điều trị tĩnh mạch hay không.
+- [Chiết xuất hạt dẻ ngựa](https://dermnetnz.org/topics/horse-chestnut-extract) dường như có lợi cho ít nhất một số bệnh nhân mắc bệnh tĩnh mạch.

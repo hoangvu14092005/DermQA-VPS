@@ -1,0 +1,294 @@
+# Viêm tuyến mồ hôi mủ — thông tin bổ sung
+
+Thể loại:
+
+Tự miễn/tự viêm
+
+SNOMED CT:
+
+59393003, 402826001, 402827005, 402828000
+
+**[Tự miễn/tự viêm](https://dermnetnz.org/topics/topics?category=Autoimmune/autoinflammatory)**
+
+
+# **Viêm tuyến mồ hôi mủ**
+
+Tác giả: Tiến sĩ Mehak Chadha, Chuyên gia đăng ký da liễu; Tiến sĩ Laura Savage, Bác sĩ tư vấn da liễu, Trung tâm Da liễu Leeds, West Yorkshire, Vương quốc Anh (2025)Được bình duyệt bởi: Nancy Huang (MBChB), Nhà văn y khoa DermNet, New Zealand (2025)Những người đóng góp trước đây: Vanessa Ngan, Biên tập viên; Tiến sĩ Amanda Oakley, Bác sĩ da liễu, New Zealand (1997); Tiến sĩ Abdulhadi Jfri, Bác sĩ nội trú khoa Da liễu; Tiến sĩ Elizabeth O'Brien, Trợ lý Giáo sư Da liễu, Đại học McGill, Montreal, Canada (2015)Đánh giá bác sĩ da liễu: Tiến sĩ Ian CoulsonĐược biên tập bởi bộ phận nội dung DermNet.
+
+---
+
+## Viêm tuyến mồ hôi mủ là gì?
+
+Viêm tuyến mồ hôi mủ (HS) là một bệnh lý viêm da mãn tính ảnh hưởng đến vùng da có tuyến mồ hôi , thường gặp ở nách , bẹn, quanh hậu môn , mông và các nếp gấp dưới vú. Bệnh đặc trưng bởi các nốt sần và [áp xe](https://dermnetnz.org/topics/cutaneous-abscess) dai dẳng , nằm sâu, gây đau , có thể tiến triển thành đường rò , chảy mủ và sẹo. [](https://dermnetnz.org/topics/cutaneous-abscess)
+Còn được gọi là mụn trứng cá đảo ngược, rối loạn này có thể ảnh hưởng đáng kể đến chất lượng cuộc sống và liên quan đến một số bệnh đi kèm làm thay đổi bệnh, bao gồm [hội chứng chuyển hóa](https://dermnetnz.org/topics/metabolic-syndrome) và rối loạn tâm thần .
+![HS nách nhẹ có sẹo và ban đỏ sau viêm](https://dermnetnz.org/assets/Uploads/hidradenitis-suppurativa-019.jpg)
+![Mụn đầu đen được đánh dấu ở HS nách](https://dermnetnz.org/assets/Uploads/hidradenitis-comedones.jpg)
+![Các nốt sần và hình thành xoang ở HS nách](https://dermnetnz.org/assets/Uploads/hidradenitis-suppurativa-001.jpg)
+![HS ở bẹn lan xuống đùi trên](https://dermnetnz.org/assets/Uploads/doctors/follicular/images/hidrad4.jpg)
+![Một nốt viêm đau cấp tính ở HS nách](https://dermnetnz.org/assets/Uploads/acne/hidradenitis-nodule.jpg)
+![HS nách nặng có sẹo và hình thành xoang](https://dermnetnz.org/assets/Uploads/acne/hidradenitis7.jpg)
+![HS dưới vú](https://dermnetnz.org/assets/Uploads/hs-breast-082.jpg)
+![Viêm HS ở háng với nhiều nốt sần đau](https://dermnetnz.org/assets/Uploads/hs-inflammatory-115.jpg)
+
+---
+
+## Ai bị viêm tuyến mồ hôi mủ?
+
+Tỷ lệ mắc viêm tuyến mồ hôi mủ trên toàn cầu ước tính dao động từ 0,1% đến 4%. Tuy nhiên, việc chẩn đoán thiếu và chẩn đoán sai có thể khiến tỷ lệ mắc bệnh thực tế cao hơn. Việc chẩn đoán muộn cũng rất phổ biến.
+HS thường xuất hiện sau tuổi dậy thì, vào khoảng thập kỷ thứ hai đến thứ ba của cuộc đời. Các nghiên cứu cho thấy không có khuynh hướng chủng tộc , mặc dù một số khảo sát cho thấy nó có thể phổ biến hơn ở người Mỹ gốc Phi.
+Các yếu tố nguy cơ phát triển HS:
+- Giới tính — Tỷ lệ nữ/nam xấp xỉ 3:1 ở các nước phương Tây, mặc dù bệnh quanh hậu môn có xu hướng phổ biến hơn ở nam giới.
+- Tiền sử gia đình — Một phần ba số bệnh nhân báo cáo có người thân cấp độ một bị ảnh hưởng.
+- [Béo phì](https://dermnetnz.org/topics/obesity-and-the-skin) — Có thể liên quan đến tình trạng tăng ma sát ở nếp gấp da và tình trạng viêm toàn thân mãn tính ; béo phì ở trẻ em có liên quan đến nguy cơ mắc HS khởi phát sớm cao hơn.
+- [Hút thuốc lá](https://dermnetnz.org/topics/smoking-and-its-effects-on-the-skin) — Có thể liên quan đến tình trạng vết thương chậm lành và tắc nang lông do nicotine và các thành phần khác.
+- Ứng suất cơ học.
+Các bệnh đi kèm:
+- [Hội chứng chuyển hóa](https://dermnetnz.org/topics/metabolic-syndrome)
+- [Bệnh tiểu đường loại 2](https://dermnetnz.org/topics/skin-problems-associated-with-diabetes-mellitus)
+- Bệnh tim mạch
+- [Hội chứng buồng trứng đa nang (PCOS)](https://dermnetnz.org/topics/polycystic-ovary-syndrome)
+- [Mụn trứng cá](https://dermnetnz.org/topics/acne)
+- Trầm cảm, lo âu và ý định tự tử
+- Các bệnh miễn dịch khác ví dụ như bệnh viêm ruột, [bệnh lý cột sống](https://dermnetnz.org/topics/cutaneous-manifestations-of-inflammatory-bowel-disease) , viêm [màng](https://dermnetnz.org/topics/spondyloarthropathy) bồ đào không nhiễm trùng (có thể liên quan)
+- Phình động mạch chủ bụng ( tần suất tăng nhẹ ).
+
+---
+
+## Nguyên nhân gây viêm tuyến mồ hôi mủ là gì?
+
+Nguyên nhân chính xác của viêm tuyến mồ hôi mủ vẫn chưa được hiểu rõ. Viêm tuyến mồ hôi mủ được mô tả là một [hội chứng tự viêm](https://dermnetnz.org/topics/autoinflammatory-syndromes) , và sự phát triển của nó chịu ảnh hưởng của các yếu tố di truyền , miễn dịch, nội tiết tố, vi khuẩn, cơ học và lối sống. Viêm tuyến mồ hôi mủ không lây nhiễm và không phải do vệ sinh kém.
+Quá trình sinh bệnh sớm của HS được cho là liên quan đến tắc nghẽn và vỡ nang lông, phản ứng miễn dịch bẩm sinh bất thường và chuỗi phản ứng viêm sau đó.
+Sự thâm nhiễm bạch cầu , phù nề và rối loạn vi khuẩn trong các đơn vị nang lông bị vỡ dẫn đến các nốt viêm và [áp xe](https://dermnetnz.org/topics/cutaneous-abscess) . [](https://dermnetnz.org/topics/cutaneous-abscess)
+Viêm dai dẳng dẫn đến xơ hóa lan rộng và các dấu hiệu muộn của HS bao gồm các đường hầm dẫn lưu mủ lót biểu mô sâu trong lớp hạ bì.
+
+---
+
+## Các đặc điểm lâm sàng của bệnh viêm tuyến mồ hôi mủ là gì?
+
+Viêm tuyến mồ hôi mủ được đặc trưng bởi:
+- Mụn đầu đen mở và đóng
+- Các nốt sần và nốt sần cứng gây đau
+- Mụn mủ và nang giả dao động
+- [Áp xe](https://dermnetnz.org/topics/cutaneous-abscess)
+- Dẫn lưu xoang
+- Sẹo phì đại hoặc teo kèm theo biến dạng
+Viêm tuyến mồ hôi mủ thường ảnh hưởng đến các vùng kẽ và có thể ảnh hưởng đến một hoặc nhiều vị trí:
+- Nách
+- Cổ
+- Ngực
+- Nếp gấp dưới vú
+- Nếp gấp dưới bụng
+- Mặt trong đùi trên
+- háng
+- Mons pubis
+- Âm hộ /bìu
+- Đáy chậu
+- Mông
+- Vùng quanh hậu môn.
+
+### Kiểu hình lâm sàng
+
+#### nang lông
+- Loại phụ này có xu hướng khởi phát sớm hơn và đặc trưng bởi các nốt sần và mụn đầu đen.
+- Có tỷ lệ mắc mụn trứng cá sẩn và [mụn trứng](https://dermnetnz.org/topics/acne) cá cục kèm theo cao hơn . [](https://dermnetnz.org/topics/acne)
+- Quá trình bệnh diễn biến ít hung hãn hơn, ít khi thấy xuất hiện áp xe .
+
+#### Viêm
+- Loại phụ này đặc biệt hung hãn và có tỷ lệ áp xe và rò cao hơn , có thể kết hợp thành mảng sẹo .
+- Cảm giác khó chịu và đau đớn xuất hiện thường xuyên hơn.
+
+#### Hỗn hợp
+- [Viêm nang lông](https://dermnetnz.org/topics/folliculitis) và/hoặc mụn đầu đen thường gặp, xen kẽ với áp xe.
+- Cá nhân có xu hướng phát triển u nang biểu bì và có thể xảy ra [tình trạng tăng sắc tố sau viêm](https://dermnetnz.org/topics/postinflammatory-hyperpigmentation) . [](https://dermnetnz.org/topics/postinflammatory-hyperpigmentation)
+- Đường hầm không phải là hiếm, nhưng thường mỏng và không phân nhánh.
+- Sự tiến triển thường nhẹ.
+
+#### Hội chứng
+Viêm tuyến mồ hôi mủ cũng có thể xảy ra trong [các hội chứng tự viêm](https://dermnetnz.org/topics/autoinflammatory-syndromes) hiếm gặp :
+- [Hội chứng tắc nang lông](https://dermnetnz.org/topics/follicular-occlusion-syndrome) : [mụn trứng cá kết tụ](https://dermnetnz.org/topics/nodulocystic-acne) , [viêm mô tế bào bóc tách](https://dermnetnz.org/topics/perifolliculitis-capitis-abscedens-et-suffodiens) , [u nang lông](https://dermnetnz.org/topics/pilonidal-disease)
+- [Hội chứng PASH](https://dermnetnz.org/topics/papa-syndrome) : [viêm da mủ hoại thư](https://dermnetnz.org/topics/pyoderma-gangrenosum) , [mụn trứng cá](https://dermnetnz.org/topics/acne) , viêm tuyến mồ hôi mủ
+- [Hội chứng PAPASH](https://dermnetnz.org/topics/papa-syndrome) : viêm khớp mủ , viêm da mủ hoại thư , mụn trứng cá, viêm tuyến mồ hôi mủ
+- Hội chứng PsAPASH : [viêm khớp vảy nến](https://dermnetnz.org/topics/psoriatic-arthritis) , viêm da mủ hoại thư, mụn trứng cá và viêm tuyến mồ hôi mủ
+- Hội chứng PASS: viêm da mủ hoại thư, mụn trứng cá, viêm tuyến mồ hôi mủ, viêm cột sống dính khớp
+- [Hội chứng SAPHO](https://dermnetnz.org/topics/sapho-syndrome) : viêm màng hoạt dịch, mụn trứng cá, mụn mủ , tăng sản xương, viêm xương.
+
+---
+
+## Mức độ nghiêm trọng của bệnh viêm tuyến mồ hôi mủ được đánh giá như thế nào?
+
+Có một số thang đo mức độ nghiêm trọng để đánh giá tình trạng viêm tuyến mồ hôi mủ về mặt lâm sàng và học thuật.
+
+### Sân khấu Hurley
+Đây là hệ thống tính điểm lâm sàng được công nhận phổ biến nhất:
+- Giai đoạn I — Áp xe đơn lẻ hoặc nhiều ổ áp xe không có đường dẫn xoang và sẹo
+- Giai đoạn II — Áp xe tái phát với các đường dẫn xoang và sẹo
+- Giai đoạn III — Các đường dẫn xoang và áp xe lan tỏa hoặc liên kết với nhau trên toàn bộ khu vực
+Hệ thống phân loại Hurley không phải là một phương pháp đánh giá động. Một khi đã đạt đến một giai đoạn, không thể hạ cấp độ do sẹo không thể phục hồi bằng liệu pháp y tế.
+
+### Điểm số mức độ nghiêm trọng của viêm tuyến mồ hôi mủ quốc tế (IHS4)
+IHS4 là một công cụ tính điểm động có thể đặc biệt hữu ích trong việc theo dõi tiến triển của bệnh và phản ứng với điều trị.
+Số lượng nốt sần x1 Số lượng áp xe x2 Số lượng đường dẫn lưu xoang ( rò /xoang) x4
+Điểm cuối cùng được tính bằng tổng số lượng nốt sần, áp xe và đường dẫn lưu xoang có trọng số.
+Nhẹ: <3 điểm Trung bình: 4-10 điểm Nặng: >11 điểm
+
+### Điểm Sartorius được sửa đổi Revuz
+Điểm số này được tính bằng cách đếm các vùng bị ảnh hưởng, các nốt và các đường xoang. Việc sử dụng phương pháp này đã giảm sút do tính phức tạp và sự ra đời của các biện pháp khác như IHS4.
+Các vùng giải phẫu liên quan: nách , ngực, bẹn / sinh dục , mông , mông 3 điểm cho mỗi khu vực Các loại tổn thương 4 điểm cho mỗi áp xe hoặc lỗ rò dẫn lưu
+              2 điểm cho mỗi nốt sần 1 điểm cho mỗi vết sẹo 0,5 điểm cho các thay đổi khác (viêm nang lông, mụn mủ) Khoảng cách giữa các tổn thương HOẶC kích thước của một tổn thương 8 điểm nếu >10 cm 4 điểm nếu 5-10 cm 2 điểm nếu <5 cm 0 điểm cho bệnh 'không hoạt động' Tất cả các tổn thương có được phân tách rõ ràng bằng da bình thường không? 6 điểm cho câu trả lời không, 0 điểm cho câu trả lời có
+
+### Điểm chất lượng cuộc sống của bệnh viêm tuyến mồ hôi mủ (HiSQOL)
+HiSQOL được sử dụng để đánh giá mức độ đau, số lần bùng phát và ảnh hưởng của nó đến cuộc sống hàng ngày của bệnh viêm tuyến mồ hôi mủ. Đây là một công cụ đáng tin cậy và hợp lệ để đo lường chất lượng cuộc sống liên quan đến sức khỏe đặc thù của HS.
+
+### Đáp ứng lâm sàng viêm Hidradenitis Suppurativa (HiSCR)
+HiSCR được định nghĩa là sự giảm số lượng tổn thương viêm (tức là áp xe, nốt viêm) và không tăng áp xe hoặc lỗ rò dẫn lưu khi so sánh với giá trị ban đầu.
+Nó chủ yếu được sử dụng trong các thử nghiệm lâm sàng như một kết quả phân đôi để đánh giá hiệu quả điều trị bằng [thuốc sinh học](https://dermnetnz.org/topics/biologics) . Tuy nhiên, nó ít được sử dụng trong thực hành lâm sàng.
+Các điểm số được sử dụng phổ biến nhất là: HiSCR50, HiSCR75 và HiSCR90, lần lượt biểu thị mức giảm 50%, 75% và 90% số lượng tổn thương viêm so với giá trị ban đầu.
+
+---
+
+## Biến chứng của bệnh viêm tuyến mồ hôi mủ là gì?
+
+- Sẹo vĩnh viễn
+- Nhiễm trùng thứ phát
+- Bệnh lý tâm lý xã hội và chất lượng cuộc sống giảm sút
+- Đau mãn tính và suy giảm khả năng vận động
+- Tắc nghẽn bạch huyết và [phù bạch huyết](https://dermnetnz.org/topics/lymphoedema)
+- [Ung thư biểu mô tế bào vảy](https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma)
+- Thiếu máu do bệnh mãn tính
+- [Bệnh lắng đọng tinh bột hệ thống](https://dermnetnz.org/topics/systemic-amyloidosis)
+
+---
+
+## Viêm tuyến mồ hôi mủ được chẩn đoán như thế nào?
+
+Viêm tuyến mồ hôi mủ chủ yếu được chẩn đoán lâm sàng dựa trên tiêu chuẩn Dessau sửa đổi. Chẩn đoán đòi hỏi phải đáp ứng cả ba yếu tố:
+- Tổn thương điển hình (nốt sần, áp xe, đường xoang và/hoặc sẹo xơ hóa )
+- Phân bố điển hình (vùng kẽ)
+- Tái phát và mạn tính của tổn thương (≥2 đợt trong vòng 6 tháng)
+Chẩn đoán được hỗ trợ bởi:
+- Tiền sử gia đình bị viêm tuyến mồ hôi mủ
+- Xét nghiệm vi sinh vật âm tính ở vùng da bị ảnh hưởng.
+[Sinh thiết](https://dermnetnz.org/topics/skin-biopsy) thường không cần thiết, nhưng có thể giúp loại trừ các tình trạng khác, ví dụ như nếu có các đặc điểm gợi ý [ung thư biểu mô tế bào vảy](https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma) . Các đặc điểm mô học của HS bao gồm:
+- Tắc nghẽn nang lông
+- Tăng sừng nang lông
+- Tăng sản biểu mô nang lông
+- Tăng sản biểu bì dạng vảy nến
+- Viêm quanh nang lông .
+Chẩn đoán hình ảnh không cần thiết. Tuy nhiên, siêu âm có thể giúp xác định các đặc điểm cận lâm sàng, và MRI hữu ích trong việc đánh giá các biến chứng và mức độ của bệnh lý hậu môn sinh dục .
+
+---
+
+## Chẩn đoán phân biệt viêm tuyến mồ hôi mủ là gì?
+
+- [Nhiễm trùng da do tụ cầu](https://dermnetnz.org/topics/staphylococcal-skin-infection) , bao gồm [áp xe](https://dermnetnz.org/topics/cutaneous-abscess) , [nhọt](https://dermnetnz.org/topics/boil) và [nhọt](https://dermnetnz.org/topics/boil)
+- U nang ví dụ như u nang tuyến Bartholin , [u nang biểu bì](https://dermnetnz.org/topics/epidermoid-cyst)
+- [Bệnh Crohn ngoài da](https://dermnetnz.org/topics/crohn-skin-disease)
+- [Bệnh Crohn hậu môn sinh dục](https://dermnetnz.org/topics/genital-crohn-disease)
+
+---
+
+## Điều trị viêm tuyến mồ hôi mủ là gì?
+
+Việc quản lý tối ưu bệnh viêm tuyến mồ hôi mủ đòi hỏi sự phối hợp của nhiều chuyên khoa bao gồm da liễu , phẫu thuật tổng quát và/hoặc phẫu thuật thẩm mỹ, thực hành chung, quản lý chăm sóc vết thương, chế độ ăn uống, dịch vụ quản lý cân nặng và tâm lý học.
+Việc điều trị phải được điều chỉnh phù hợp với từng cá nhân và tuân theo hướng dẫn quản lý tại địa phương hoặc khu vực, nếu có.
+
+### Các biện pháp chung
+- Giáo dục bệnh nhân bằng cách trấn an rằng tình trạng này không phải là bệnh truyền nhiễm hoặc là kết quả của việc vệ sinh kém
+- Đánh giá tác động đến chất lượng cuộc sống với HiSQOL, cùng với số lượng tổn thương và tần suất bùng phát
+- Ghi lại Giai đoạn Hurley và cân nhắc chuyển ngay đến khoa da liễu chăm sóc thứ cấp cho bệnh giai đoạn II-III
+- Kiểm tra và quản lý các bệnh đi kèm như [hội chứng chuyển hóa](https://dermnetnz.org/topics/metabolic-syndrome) , bệnh tim mạch, trầm cảm/lo âu, [PCOS](https://dermnetnz.org/topics/polycystic-ovary-syndrome) , [đái tháo đường](https://dermnetnz.org/topics/skin-problems-associated-with-diabetes-mellitus) , v.v.
+- [](https://dermnetnz.org/topics/smoking-and-its-effects-on-the-skin) Cai [thuốc lá](https://dermnetnz.org/topics/smoking-and-its-effects-on-the-skin)
+- Quản lý cân nặng — cân nhắc sử dụng [chất chủ vận GLP-1](https://dermnetnz.org/topics/glp-1-agonists) nếu béo phì, đặc biệt khi có các bệnh đi kèm
+- [Chăm sóc vết thương](https://dermnetnz.org/topics/wound-care) — nên sử dụng băng thấm hút có chất kết dính không gây chấn thương
+- Quản lý cơn đau, ví dụ, paracetamol uống và NSAID (lựa chọn đầu tiên), thuốc phiện (sử dụng thận trọng), thuốc chống co giật hoặc thuốc chống trầm cảm (cho chứng đau thần kinh )
+- Quản lý ngứa ví dụ, [corticosteroid tại chỗ ,](https://dermnetnz.org/topics/topical-steroid) [thuốc kháng histamine](https://dermnetnz.org/topics/antihistamines) thế hệ đầu tiên đường uống [](https://dermnetnz.org/topics/antihistamines)
+
+### Các biện pháp cụ thể
+Dưới đây là những phương pháp điều trị thường được sử dụng cho bệnh viêm tuyến mồ hôi mủ.
+
+### Liệu pháp y tế
+
+#### Điều trị tại chỗ
+Có thể sử dụng riêng cho HS nhẹ hoặc như liệu pháp bổ trợ cho bệnh nặng hơn:
+- Thuốc bôi ngoài da [clindamycin](https://dermnetnz.org/topics/clindamycin) 1% dạng lotion / gel / kem Bôi hai lần mỗi ngày vào vùng bị ảnh hưởng
+- Bôi hai lần mỗi ngày vào vùng bị ảnh hưởng
+- [Thuốc sát trùng](https://dermnetnz.org/topics/antiseptic) tại chỗ , ví dụ, dung dịch chlorhexidine gluconate 4% Cơ sở bằng chứng hạn chế nhưng thường được sử dụng theo sở thích của bệnh nhân
+- Cơ sở bằng chứng hạn chế nhưng thường được sử dụng theo sở thích của bệnh nhân
+- Bột nhão magie sunfat Hút mủ từ nhọt và nhọt độc để giảm đau cấp tính
+- Hút mủ từ nhọt và nhọt độc để giảm đau cấp tính
+
+#### Điều trị nội thương
+[Tiêm triamcinolone acetonide](https://dermnetnz.org/topics/intralesional-steroid-injection) 10–40 mg/mL vào từng tổn thương viêm; có thể cần phải tiêm lại nhiều lần từ một tuần đến ba tháng.
+
+#### Điều trị toàn thân — Kháng sinh
+- [Thuốc kháng sinh dùng](https://dermnetnz.org/topics/antibiotics) trong thời gian ngắn được sử dụng cho [các trường hợp nhiễm trùng do vi khuẩn](https://dermnetnz.org/topics/bacterial-skin-infections) .
+- Liệu trình kháng sinh dài hơn được sử dụng trong HS vì chúng được cho là có đặc tính điều hòa miễn dịch .
+- Luôn tuân theo hướng dẫn sử dụng kháng sinh tại địa phương.
+Kháng sinh Thuốc và liều dùng Chỉ định [Tetracycline](https://dermnetnz.org/topics/tetracycline) uống (tác nhân đơn độc) Tùy chọn: Doxycycline 100 mg, OD hoặc BD Minocycline 100 mg, BD Lymecycline 408 mg, OD hoặc BD Tetracycline 500 mg, BD Phản ứng điều trị được đánh giá sau 12 tuần. Được sử dụng cho bệnh nhẹ đến trung bình (Giai đoạn I/II của Hurley) [Clindamycin](https://dermnetnz.org/topics/clindamycin) cộng với [rifampicin](https://dermnetnz.org/topics/rifampicin) Clindamycin 300 mg uống 2 lần/ngày và rifampicin 300 mg uống 2 lần/ngày trong tối đa 12 tuần. Điều chỉnh nếu phác đồ không dung nạp: Clindamycin 150 mg OD và rifampicin 150 mg OD Clindamycin tác nhân đơn 150 mg, OD hoặc BD. Dùng cho bệnh nặng (Giai đoạn III của Hurley). Cũng được dùng nếu tetracycline không có hiệu quả sau 12 tuần hoặc không dung nạp. Kháng sinh tiêm tĩnh mạch Tiêm tĩnh mạch ertapenem 1 g ngày 1 lần trong 6 tuần. Hoặc: Tiêm tĩnh mạch piperacillin/tazobactam 13,5 g tổng cộng mỗi ngày, trong 6 tuần. Được sử dụng như liệu pháp cứu cánh cho các đợt bùng phát nặng không đáp ứng với clindamycin và rifampicin. Cũng được sử dụng như liệu pháp bắc cầu trong các bệnh nặng trước khi phẫu thuật.
+
+#### Điều trị toàn thân — Sinh học
+[Nên bắt đầu điều trị bằng thuốc sinh học](https://dermnetnz.org/topics/biologics) trong trường hợp bệnh không được kiểm soát đầy đủ từ các phương pháp điều trị trên. Ba loại thuốc sinh học đã được cấp phép để điều trị HS: [adalimumab](https://dermnetnz.org/topics/adalimumab-for-psoriasis) , [secukinumab](https://dermnetnz.org/topics/secukinumab) và [bimekizumab](https://dermnetnz.org/topics/bimekizumab) .
+Sinh học được cấp phép Liều dùng Thông tin thêm [Adalimumab](https://dermnetnz.org/topics/adalimumab-for-psoriasis) (thuốc chống TNF ) Liều nạp: 160 mg, sau đó 80 mg sau 2 tuần Liều duy trì: 40 mg mỗi tuần HOẶC 80 mg mỗi 2 tuần Đánh giá phản ứng điều trị sau 12 tuần sử dụng Các thử nghiệm lâm sàng giai đoạn 3 của PIONEER I và II cho thấy 41-60% nhóm điều trị đạt được HiSCR50 so với 26-27% nhóm dùng giả dược . Adalimumab đặc biệt hữu ích khi được sử dụng sớm trong quá trình điều trị bệnh. Có thể kết hợp với thuốc kháng sinh tetracycline uống để tăng hiệu quả. Không sử dụng cho những bệnh nhân mắc bệnh mất myelin (ví dụ như bệnh đa xơ cứng ) hoặc suy tim. [Secukinumab (](https://dermnetnz.org/topics/secukinumab) chất ức chế IL-17A ) Liều nạp: 300 mg mỗi tuần trong 5 liều Liều duy trì: 300 mg sau mỗi 4 tuần, tăng liều nếu cần thiết lên 300 mg sau mỗi 2 tuần Đánh giá phản ứng điều trị sau 16 tuần sử dụng Các thử nghiệm lâm sàng giai đoạn 3 của SUNSHINE và SUNRISE cho thấy 42-46% nhóm điều trị đạt được HiSCR50 so với 31% nhóm dùng giả dược. Tỷ lệ [nhiễm nấm miệng](https://dermnetnz.org/topics/oral-candidiasis) thấp được ghi nhận (1-3%). Không khuyến cáo sử dụng cho bệnh nhân bị [bệnh viêm ruột](https://dermnetnz.org/topics/topics/cutaneous-manifestations-of-inflammatory-bowel-disease) . [Bimekizumab](https://dermnetnz.org/topics/bimekizumab) (chất ức chế IL17A/F) Liều nạp: 320 mg mỗi 2 tuần (tuần 0-16) Liều duy trì: 320 mg mỗi 4 tuần (từ tuần thứ 20 trở đi) Đánh giá phản ứng điều trị sau 16 tuần sử dụng Các thử nghiệm lâm sàng giai đoạn 3 của BE HEARD I và BE HEARD II cho thấy 48-52% bệnh nhân đạt được HiSCR50 sau hai lần dùng thuốc mỗi tuần, so với 29-32% bệnh nhân dùng giả dược vào tuần thứ 16. Các tác dụng phụ trong hơn hai năm điều trị bao gồm bệnh nấm miệng (12,0%), các biến cố về gan (ALT hoặc AST tăng >3 lần ULN ở 10,7%) và phản ứng tại chỗ tiêm (5,9%).
+Ngoài ra, còn có ít dữ liệu hỗ trợ việc sử dụng [infliximab](https://dermnetnz.org/topics/infliximab-for-psoriasis) , [ustekinumab](https://dermnetnz.org/topics/ustekinumab-for-psoriasis) và [brodalumab](https://dermnetnz.org/topics/brodalumab) ở bệnh HS từ trung bình đến nặng.
+
+#### Các tác nhân toàn thân khác
+- [Corticosteroid toàn thân](https://dermnetnz.org/topics/systemic-steroids) Có thể hữu ích như thuốc cứu hộ ngắn hạn cho các đợt bùng phát cấp tính Liều cao được sử dụng ví dụ, tương đương prednisolone uống 0,5–0,7 mg/kg/ngày Cần phải giảm dần nhanh chóng
+- Có thể hữu ích như thuốc cứu hộ ngắn hạn cho các đợt bùng phát cấp tính
+- Liều cao được sử dụng ví dụ, tương đương prednisolone uống 0,5–0,7 mg/kg/ngày
+- Cần phải giảm dần nhanh chóng
+- [Acitretin](https://dermnetnz.org/topics/acitretin) 0,25-0,50 mg/kg/ngày Chỉ sử dụng ở nam giới hoặc phụ nữ không có khả năng sinh sản nếu có sẹo viêm nang lông
+- 0,25-0,50 mg/kg/ngày
+- Chỉ sử dụng ở nam giới hoặc phụ nữ không có khả năng sinh sản nếu có sẹo viêm nang lông
+- [Dapsone](https://dermnetnz.org/topics/dapsone) Có thể cân nhắc dùng tới 200mg/ngày trong tối thiểu 3 tháng
+- Có thể cân nhắc dùng tới 200mg/ngày trong tối thiểu 3 tháng
+- Metformin giải phóng chậm Bắt đầu từ 500 mg một lần mỗi ngày và nếu dung nạp được, tăng liều lên 2-3 g mỗi ngày trong nhiều tuần
+- Bắt đầu từ 500 mg một lần mỗi ngày và nếu dung nạp được, tăng liều lên 2-3 g mỗi ngày trong nhiều tuần
+- [Colchicin](https://dermnetnz.org/topics/colchicine) 0,5-2,5 mg/ngày
+- 0,5-2,5 mg/ngày
+- [Liệu pháp kháng androgen](https://dermnetnz.org/topics/anti-androgen-therapy) Thuốc tránh thai đường uống Spironolactone (25-100 mg/ngày) Chỉ sử dụng cho phụ nữ không mang thai, đặc biệt là những người có biểu hiện tăng tiết androgen hoặc [hội chứng buồng trứng đa nang](https://dermnetnz.org/topics/polycystic-ovary-syndrome)
+- Thuốc tránh thai đường uống
+- Spironolactone (25-100 mg/ngày)
+- Chỉ sử dụng cho phụ nữ không mang thai, đặc biệt là những người có biểu hiện tăng tiết androgen hoặc [hội chứng buồng trứng đa nang](https://dermnetnz.org/topics/polycystic-ovary-syndrome)
+- Kẽm gluconat 90 mg/ngày ở HS nhẹ-trung bình
+- 90 mg/ngày ở HS nhẹ-trung bình
+
+#### Các lựa chọn điều trị trong tương lai
+Các liệu pháp trong giai đoạn phát triển II/III bao gồm:
+- Amlitelimab (chất ức chế OX40)
+- Eltrekibart (chất ức chế CXCR 1/2)
+- Lutikizumab (chất ức chế IL-1α/β)
+- Povorcitinib (chất ức chế JAK1)
+- Remibrutinib (chất ức chế BTKi)
+- Sonelokimab (vật thể nano IL-17A/F)
+- [Spesolimab](https://dermnetnz.org/topics/spesolimab) (chất ức chế IL-36)
+- [Upadacitinib](https://dermnetnz.org/topics/upadacitinib) (chất ức chế JAK1)
+- [Kem Ruxolitinib](https://dermnetnz.org/topics/ruxolitinib) (chất ức chế JAK1/2).
+
+### Ca phẫu thuật
+Phẫu thuật là một phương pháp điều trị hiệu quả, nên được kết hợp với lối sống và can thiệp y tế. Các nốt nhỏ lý tưởng nhất nên được xử lý sớm để ngăn ngừa vỡ nang bị tắc và sự phát triển sau đó của các đường xoang mãn tính, liên kết với nhau.
+Thông thường, việc tiếp tục [điều trị sinh học](https://dermnetnz.org/topics/biologics) trong khi phẫu thuật là an toàn, nhưng bạn nên tìm kiếm ý kiến ​​chuyên gia phẫu thuật cho từng trường hợp cụ thể.
+Các tùy chọn thủ tục được liệt kê dưới đây:
+Rạch và dẫn lưu
+- Loại tổn thương: [áp xe cấp tính](https://dermnetnz.org/topics/cutaneous-abscess)
+- Để giảm đau ngay lập tức, nhưng có khả năng tái phát gần 100%
+- [Khép vết thương](https://dermnetnz.org/topics/wound-closure) với sự chữa lành có chủ đích thứ cấp
+Tháo mái (tháo mái)
+- Loại tổn thương: các nốt sần dai dẳng, áp xe và đường xoang
+- Khép vết thương với sự chữa lành có chủ đích thứ cấp
+Cắt bỏ cục bộ rộng
+- Loại tổn thương: các nốt sần dai dẳng, áp xe và đường xoang
+- Khâu vết thương bằng [khâu đóng ban đầu](https://dermnetnz.org/topics/wound-closure) hoặc khâu chữa lành thứ phát
+Phẫu thuật cắt bỏ triệt để
+- Loại bỏ toàn bộ vùng bị ảnh hưởng
+- Khâu vết thương bằng cách [vá vạt](https://dermnetnz.org/topics/flaps) da , chữa lành vết thương bằng phương pháp áp lực âm hoặc [liệu pháp điều trị vết thương bằng áp lực âm](https://dermnetnz.org/topics/negative-pressure-wound-therapy)
+Rủi ro của phẫu thuật bao gồm vết thương bị rách, tê liệt, mất nhiều tháng để lành sau phẫu thuật và tổn thương tái phát.
+
+### Vật lý trị liệu không chuẩn
+[Có thể cân nhắc việc triệt lông](https://dermnetnz.org/topics/hair-removal-techniques) ở HS không viêm bằng [liệu pháp laser](https://dermnetnz.org/topics/lasers-in-dermatology) (ví dụ: laser [Ng:Yag](https://dermnetnz.org/topics/ndyag-laser-treatment) , [alexandrite](https://dermnetnz.org/topics/alexandrite-laser-treatment) hoặc diode ) hoặc [liệu pháp ánh sáng xung cường độ cao](https://dermnetnz.org/topics/intense-pulsed-light-therapy) . [](https://dermnetnz.org/topics/intense-pulsed-light-therapy)
+Điều này có thể cải thiện cơn đau và làm chậm quá trình tiến triển của bệnh bằng cách phá hủy đơn vị nang lông - tuyến bã nhờn , do đó làm giảm tình trạng tắc nghẽn nang lông và giảm sự hiện diện của vi khuẩn.
+
+---
+
+## Hậu quả của bệnh viêm tuyến mồ hôi mủ là gì?
+
+Viêm tuyến mồ hôi mủ là một tình trạng sẹo mãn tính do di truyền, có thể làm giảm đáng kể chất lượng cuộc sống nếu không được điều trị. Bệnh có thể tự thuyên giảm hoặc giảm viêm theo thời gian (ví dụ, sau [mãn kinh](https://dermnetnz.org/topics/menopause-and-the-skin) ở phụ nữ), mặc dù sẹo vẫn còn. Chẩn đoán và điều trị sớm là rất cần thiết để giảm thiểu tổn thương lâu dài.

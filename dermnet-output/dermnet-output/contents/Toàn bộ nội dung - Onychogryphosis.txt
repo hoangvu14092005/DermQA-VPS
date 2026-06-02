@@ -1,0 +1,103 @@
+# Bệnh nấm móng — thông tin bổ sung
+
+Thể loại:
+
+Tóc và móng tay
+
+SNOMED CT:
+
+52897009, 87065009, 402626003
+
+**[Tóc và móng tay](https://dermnetnz.org/topics/topics?category=Hair+and+nails)**
+
+
+# **Bệnh móng cứng**
+
+Tác giả: Alvina Nakao, Sinh viên Y khoa, Đại học Auckland, Auckland, New Zealand. Tổng biên tập DermNet: Phó Giáo sư, Tiến sĩ Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand. Biên tập bởi Gus Mitchell/Maria McGivern. Tháng 9 năm 2019.
+
+---
+
+## Bệnh móng cứng là gì?
+
+Bệnh móng sừng cừu , còn được gọi là bệnh móng sừng cừu , là một [rối loạn móng](https://dermnetnz.org/topics/nail-disorders) do sự phát triển chậm của phiến móng . Bệnh này đặc trưng bởi tình trạng dày lên, đục màu vàng nâu của phiến móng, kèm theo sự kéo dài và độ cong tăng lên [1,2]. [](https://dermnetnz.org/topics/nail-disorders)
+![Không có caption](https://dermnetnz.org/assets/Uploads/onychogryphosis-04.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/onychogryphosis-05.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/onychogryphosis-06.jpg)
+
+---
+
+## Ai mắc bệnh nấm móng?
+
+Có một số báo cáo về bệnh móng cứng bẩm sinh và bệnh móng cứng có thể được thấy ở một số bệnh da liễu hiếm gặp.
+Bệnh móng cứng mắc phải phổ biến hơn [1]. Bệnh này thường gặp ở người lớn tuổi, người ít được chăm sóc cá nhân và bệnh nhân mắc chứng mất trí nhớ do tuổi già [1–3].
+
+---
+
+## Nguyên nhân gây ra bệnh móng cứng là gì?
+
+Nguyên nhân chính xác của bệnh móng cứng vẫn chưa được biết rõ hoàn toàn.
+Nó có liên quan đến:
+- Các bệnh về da như [bệnh vảy cá](https://dermnetnz.org/topics/ichthyosis) , [bệnh vẩy nến](https://dermnetnz.org/topics/psoriasis) , [bệnh pemphigus](https://dermnetnz.org/topics/pemphigus-vulgaris) , [bệnh giang mai giai đoạn ba](https://dermnetnz.org/topics/syphilis) , tăng axit uric máu (nguyên nhân gây [bệnh gút](https://dermnetnz.org/topics/gout) ) và trước đây là [bệnh đậu mùa](https://dermnetnz.org/topics/smallpox)
+- Tuần hoàn ngoại vi kém , có thể liên quan đến [bệnh tiểu đường](https://dermnetnz.org/topics/skin-problems-associated-with-diabetes-mellitus)
+- Chấn thương ở nền móng
+- Chấn thương nhỏ do đi giày không vừa chân
+- Hallux valgus (u xương ngón chân cái) [1].
+Trong bệnh móng cứng, phiến móng bị phì đại và không đều ở phần nền móng gần (đĩa móng). Hướng biến dạng được xác định bởi bên nào mọc nhanh hơn, có thể do thiếu hụt nền móng dưới nếp gấp móng gần hoặc do nền móng sản xuất nhiều keratin hơn bình thường [1].
+
+---
+
+## Các đặc điểm lâm sàng của bệnh móng cứng là gì?
+
+Các đặc điểm lâm sàng của bệnh móng cứng bao gồm:
+- Sự liên quan của một hoặc cả hai móng chân cái, nhưng bất kỳ móng nào cũng có thể bị liên quan
+- Móng dày, đục, màu vàng nâu, kéo dài và cong hơn
+- Những gì thường được mô tả là hình dạng 'sừng cừu đực' hoặc 'giống như con hàu'
+- Móng ban đầu mọc hướng lên trên và lệch sang một bên về phía các ngón chân khác
+- Nền móng có bề mặt không đều, có các đường vân thường theo chiều ngang hơn là theo chiều dọc.
+
+---
+
+## Biến chứng của bệnh móng cứng là gì?
+
+Các biến chứng của bệnh móng cứng có thể bao gồm:
+- Móng [chân mọc ngược](https://dermnetnz.org/topics/ingrown-toenail)
+- [Viêm quanh móng](https://dermnetnz.org/topics/paronychia)
+- Bệnh nấm móng thứ phát [(](https://dermnetnz.org/topics/fungal-nail-infections) [nhiễm trùng nấm móng)](https://dermnetnz.org/topics/fungal-nail-infections)
+- [Hoại tử](https://dermnetnz.org/topics/wet-gangrene) dưới móng (hiếm gặp).
+
+---
+
+## Bệnh móng cứng được chẩn đoán như thế nào?
+
+Bệnh móng cứng được chẩn đoán lâm sàng dựa trên các đặc điểm hình thái đặc trưng [1]. Ở giai đoạn đầu, bệnh có thể khó nhận biết vì triệu chứng duy nhất là phì đại móng, còn các triệu chứng điển hình thường xuất hiện ở giai đoạn sau [1].
+Về mặt mô học , các tế bào sừng xuất hiện hỗn loạn và có liên quan đến tình trạng tăng sắc tố , [sừng hóa](https://dermnetnz.org/topics/parakeratosis-pustulosa) và nhiều vết nứt [1].
+
+---
+
+## Chẩn đoán phân biệt bệnh móng cứng là gì?
+
+Chẩn đoán phân biệt bệnh móng cứng bao gồm:
+- [Sự lệch lạc bẩm sinh của móng chân](https://dermnetnz.org/topics/congenital-malalignment-of-the-great-toenails) (khi phiến móng bị lệch sang một bên và không song song với trục chính của đốt xương xa , ở trẻ sơ sinh hoặc trẻ nhỏ) [4]
+- [Pachyonychia congenita](https://dermnetnz.org/topics/pachyonychia-congenita) , trong đó móng tay thường bị ảnh hưởng nhiều hơn và móng dày có màu nâu ( có thể thực hiện các nghiên cứu di truyền phân tử để phát hiện đột biến trong gen keratin KRT6a và KRT16 )
+- [Bệnh nấm móng](https://dermnetnz.org/topics/fungal-nail-infections) , có thể cùng tồn tại với bệnh nấm móng (cần cắt móng tay để nuôi cấy nấm [da](https://dermnetnz.org/topics/mycology-of-dermatophyte-infections) , [nấm men](https://dermnetnz.org/topics/yeasts-on-human-skin) hoặc [nấm mốc](https://dermnetnz.org/topics/non-dermatophyte-mould-onychomycosis) ) [5].
+
+---
+
+## Phương pháp điều trị bệnh móng cứng là gì?
+
+Điều trị bệnh móng cứng có thể là bảo tồn hoặc phẫu thuật, tùy thuộc vào nguyên nhân và triệu chứng của bệnh [1].
+Áp lực quá mức hoặc chấn thương nhỏ ở nền móng có thể được giảm thiểu bằng cách chọn giày dép vừa vặn [1].
+Điều trị bảo tồn bao gồm:
+- Sử dụng thường xuyên máy khoan điện, máy mài hoặc cắt lọc cơ học bằng kềm cắt móng để cắt ngắn móng và loại bỏ chứng tăng sừng dưới móng
+- [Liệu pháp lạnh](https://dermnetnz.org/topics/cryotherapy) trước khi cắt bỏ phần mô chết sẽ làm mềm móng tay để dễ cắt hơn
+- Cắt bỏ phần cùn bằng kềm cắt móng tay sau khi [cắt móng tay bằng](https://dermnetnz.org/topics/medical-nail-avulsion) [dung dịch urê](https://dermnetnz.org/topics/urea) 40% hoặc [kali iodua](https://dermnetnz.org/topics/potassium-iodide) 50% [1].
+Nếu điều trị bảo tồn không hiệu quả, có thể cân nhắc cắt bỏ móng, sau đó là cắt bỏ ma trận móng (phẫu thuật hoặc hóa học để loại bỏ ma trận móng gần ở gốc móng) [1].
+- Các kỹ thuật cắt bỏ bao gồm [cắt](https://dermnetnz.org/topics/excision-of-skin-lesions) bằng dao mổ , [phẫu thuật điện](https://dermnetnz.org/topics/electrosurgery) cắt hoặc [laser](https://dermnetnz.org/topics/lasers-in-dermatology) ở chế độ cắt [1].
+- Các kỹ thuật phá hủy bao gồm đốt hóa học , [phẫu thuật điện](https://dermnetnz.org/topics/electrosurgery) hoặc [laser](https://dermnetnz.org/topics/lasers-in-dermatology) ở chế độ phá hủy [1].
+Kỹ thuật Zadik hoặc [vạt](https://dermnetnz.org/topics/wound-closure) tiến triển V–Y có thể được sử dụng để loại bỏ hoàn toàn ma trận móng [1]. Phương pháp Syme, trong đó một nửa đốt xương cuối cùng được loại bỏ cùng với nếp gấp móng, hiếm khi được sử dụng [1].
+
+---
+
+## Hậu quả của bệnh móng cứng là gì?
+
+Bệnh móng cứng có xu hướng tái phát sau khi điều trị bảo tồn [1]. Vì cả mục đích lâm sàng và thẩm mỹ, việc điều trị có thể được lặp lại để giữ cho nền móng ngắn và ngăn ngừa các biến chứng thứ phát. Việc sử dụng giày dép phù hợp để tránh móng đè quá mức lên nền móng là rất quan trọng.

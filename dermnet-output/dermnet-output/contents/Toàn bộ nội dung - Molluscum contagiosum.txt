@@ -1,0 +1,118 @@
+# U mềm lây – thông tin bổ sung
+
+Thể loại:
+
+Nhiễm trùng
+
+SNOMED CT:
+
+40070004, 721589000, 765783008, 721590009, 68855006, 240467006
+
+**[Nhiễm trùng](https://dermnetnz.org/topics/topics?category=Infections)**
+
+
+# **U mềm lây**
+
+Tác giả: Hon A/Prof Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand, 1997. Được cập nhật bởi Tiến sĩ Oakley và Tiến sĩ Daniela Vanousova, Bác sĩ da liễu, Cộng hòa Séc, vào tháng 9 năm 2015. Bản sửa đổi DermNet tháng 8 năm 2021
+
+---
+
+## U mềm lây là gì?
+
+U mềm lây là bệnh nhiễm trùng da do virus thường gặp ở trẻ em, gây ra các cụm sẩn biểu bì có rốn tập trung tại một vị trí .
+![Giả lập koebnerisation trong một bản nhạc scratch](https://dermnetnz.org/assets/collection/Molluscum-contagiosum/molluscum-contagiosum-0016.jpg)
+
+---
+
+## Ai bị u mềm lây?
+
+U mềm lây chủ yếu ảnh hưởng đến trẻ sơ sinh và trẻ nhỏ dưới 10 tuổi. Bệnh phổ biến hơn ở vùng khí hậu ấm áp hơn là vùng khí hậu mát mẻ và trong môi trường đông đúc. Thanh thiếu niên và người lớn ít bị nhiễm bệnh hơn.
+U mềm lây thường xuất hiện nhiều hơn và kéo dài hơn ở trẻ em bị [viêm da dị ứng](https://dermnetnz.org/topics/atopic-dermatitis) do hàng [rào bảo vệ da](https://dermnetnz.org/topics/barrier-function-in-atopic-dermatitis) bị suy yếu . Bệnh có thể lan rộng và gây nhiều phiền toái ở những bệnh nhân nhiễm [virus gây suy giảm miễn dịch ở người](https://dermnetnz.org/topics/skin-conditions-relating-to-hiv-infection) ( HIV ) hoặc có các nguyên nhân khác khiến hệ miễn dịch suy yếu.
+
+---
+
+## Nguyên nhân gây bệnh u mềm lây?
+
+Bệnh u mềm lây do một loại virus đậu mùa gây ra. Có ít nhất 4 phân nhóm virus.
+Có một số cách mà vi-rút có thể lây lan:
+- Tiếp xúc trực tiếp da kề da
+- Tiếp xúc gián tiếp qua khăn tắm hoặc các vật dụng khác dùng chung
+- Tự tiêm chủng vào một vị trí khác bằng cách gãi hoặc cạo
+- Lây truyền qua đường tình dục ở người lớn.
+Sự lây truyền của u mềm lây dường như dễ xảy ra hơn trong điều kiện ẩm ướt, chẳng hạn như khi trẻ em tắm hoặc bơi cùng nhau. Thời gian ủ bệnh thường khoảng 2 tuần nhưng có thể kéo dài đến 6 tháng.
+
+---
+
+## Các đặc điểm lâm sàng của bệnh u mềm lây là gì?
+
+U mềm lây biểu hiện dưới dạng các cụm sẩn tròn nhỏ. Các sẩn có kích thước từ 1 đến 6 mm và có thể có màu trắng, hồng hoặc nâu. Chúng thường có vẻ ngoài bóng như sáp với một lỗ nhỏ ở giữa (hình dạng này đôi khi được mô tả là rốn). Mỗi sẩn chứa chất trắng như phô mai.
+Có thể có vài hoặc hàng trăm nốt sẩn trên một người. Chúng thường xuất hiện ở những vùng ấm ẩm, chẳng hạn như nách, sau đầu gối, bẹn hoặc vùng sinh dục . Chúng có thể xuất hiện trên môi hoặc hiếm khi trong miệng. Chúng không xuất hiện ở lòng bàn tay hoặc lòng bàn chân.
+Khi bệnh u mềm lây nhiễm do gãi, các nốt sẩn thường tạo thành một hàng.
+U mềm lây thường gây [viêm da](https://dermnetnz.org/topics/dermatitis) xung quanh, khiến vùng da bị ảnh hưởng trở nên hồng, khô và ngứa. Khi các nốt sẩn biến mất, chúng có thể bị viêm, đóng vảy hoặc đóng vảy trong một hoặc hai tuần.
+![Sẩn rốn bóng](https://dermnetnz.org/assets/Uploads/viral/w/molluscum-contagiosum-eyelid.jpg)
+![Sẩn rốn điển hình](https://dermnetnz.org/assets/Uploads/viral/s/molluscum5.jpg)
+![Liên quan đến bệnh chàm](https://dermnetnz.org/assets/Uploads/viral/moll-ecz.jpg)
+[Xem thêm hình ảnh về bệnh u mềm lây ...](https://dermnetnz-org.translate.goog/topics/molluscum-contagiosum-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+
+---
+
+## Biến chứng của u mềm lây
+
+- Nhiễm trùng thứ phát do gãi ( [chốc lở](https://dermnetnz.org/topics/impetigo) )
+- Viêm kết mạc khi mí mắt bị nhiễm trùng
+- [Chàm thứ phát lan tỏa](https://dermnetnz.org/topics/disseminated-secondary-eczema) ; đây là phản ứng miễn dịch hoặc 'id' với vi-rút
+- U mềm lây lan rộng và có kích thước lớn hơn bình thường có thể xảy ra ở những bệnh nhân suy giảm miễn dịch (như nhiễm [HIV không kiểm soát được hoặc ở những bệnh nhân dùng](https://dermnetnz.org/topics/skin-conditions-relating-to-hiv-infection) [thuốc ức chế miễn dịch)](https://dermnetnz.org/topics/drug-induced-immunosuppression) và thường ảnh hưởng đến khuôn mặt.
+- Sẹo rỗ tự phát
+- Sẹo có thể tự phát hoặc do điều trị phẫu thuật
+
+### Sẹo tự phát do bệnh u mềm lây
+![Không có caption](https://dermnetnz.org/assets/Uploads/viral/moll-scar.jpg)
+
+---
+
+## Làm thế nào được chẩn đoán u mềm lây?
+
+U mềm lây thường được nhận biết qua biểu hiện lâm sàng đặc trưng hoặc qua [soi da](https://dermnetnz.org/topics/dermoscopy) . Các khối u mềm màu trắng thường xuất hiện ở trung tâm các sẩn.
+Đôi khi, chẩn đoán được thực hiện trên [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) . [Giải phẫu bệnh học cho thấy các thể](https://dermnetnz.org/topics/molluscum-contagiosum-pathology) vùi đặc trưng trong tế bào chất .
+
+### Nội soi bệnh u mềm lây
+![U mềm lây](https://dermnetnz.org/assets/Uploads/Molluscum-dermatoscopy.jpg)
+![U mềm lây](https://dermnetnz.org/assets/Uploads/viral/molluscum57.jpg)
+![Hoa hồng điển hình](https://dermnetnz.org/assets/Uploads/rosettes-in-molluscum-contagiosum.jpg)
+
+---
+
+## Phương pháp điều trị bệnh u mềm lây là gì?
+
+Không có phương pháp điều trị hoàn hảo duy nhất cho bệnh u mềm lây vì hiện tại chúng ta chưa thể tiêu diệt được virus. Trong nhiều trường hợp, không cần điều trị đặc hiệu.
+
+### Điều trị vật lý
+- Nhặt phần lõi trắng mềm (lưu ý, điều này có thể dẫn đến tự nhiễm )
+- [Liệu pháp lạnh](https://dermnetnz.org/topics/cryotherapy) (có thể để lại vết trắng)
+- [Nạo](https://dermnetnz.org/topics/curettage-and-cautery) nhẹ nhàng hoặc đốt điện (có thể để lại sẹo)
+- [](https://dermnetnz.org/topics/lasers-in-dermatology) Phá hủy [bằng tia laser](https://dermnetnz.org/topics/lasers-in-dermatology) (có thể để lại sẹo).
+
+### Điều trị y tế
+- [Thuốc sát trùng](https://dermnetnz.org/topics/antiseptic) như [kem hydrogen peroxide hoặc](https://dermnetnz.org/topics/hydrogen-peroxide) dung dịch povidone [iodine](https://dermnetnz.org/topics/iodine)
+- [](https://dermnetnz.org/topics/podophyllotoxin) Kem [Podophyllotoxin](https://dermnetnz.org/topics/podophyllotoxin)
+- Thuốc trị mụn cóc có chứa [axit salicylic](https://dermnetnz.org/topics/salicylic-acid)
+- [](https://dermnetnz.org/topics/cantharidin) Dung dịch [Cantharidine](https://dermnetnz.org/topics/cantharidin)
+- [Gel Berdazimer](https://dermnetnz.org/topics/berdazimer) (chất cung cấp oxit nitric)
+[Viêm da](https://dermnetnz.org/topics/dermatitis) thứ phát có thể được điều trị triệu chứng bằng [corticosteroid bôi ngoài](https://dermnetnz.org/topics/topical-steroid) da nhẹ như kem hydrocortisone. Viêm da khó có thể khỏi hoàn toàn cho đến khi nhiễm trùng u mềm lây đã khỏi. [](https://dermnetnz.org/topics/topical-steroid)
+
+### Phòng ngừa nhiễm trùng u mềm lây
+U mềm lây có khả năng lây nhiễm khi đang hoạt động. Tuy nhiên, trẻ em và người lớn bị ảnh hưởng vẫn nên tiếp tục đi nhà trẻ, đi học và đi làm.
+Để giảm sự lây lan:
+- Giữ tay sạch sẽ
+- Tránh gãi hoặc cạo râu
+- Che phủ tất cả các tổn thương có thể nhìn thấy bằng quần áo hoặc băng không thấm nước
+- Vứt bỏ băng đã sử dụng
+- Không dùng chung khăn tắm, quần áo hoặc đồ dùng cá nhân khác
+- Người lớn nên quan hệ tình dục an toàn hoặc kiêng quan hệ tình dục.
+
+---
+
+## Triển vọng của bệnh u mềm lây là gì?
+
+Ở những vật chủ có hệ miễn dịch bình thường , u mềm lây tương đối vô hại. Các nốt sẩn có thể tồn tại đến 2 năm hoặc lâu hơn. Ở trẻ em, khoảng một nửa số trường hợp khỏi bệnh khi được 12 tháng tuổi, và hai phần ba khi được 18 tháng tuổi, dù có điều trị hay không. Việc tiếp xúc với người bị nhiễm bệnh sau đó có thể dẫn đến một đợt bùng phát mới.
+Nhiễm trùng có thể rất dai dẳng nếu có tình trạng [suy giảm miễn dịch](https://dermnetnz.org/topics/immunodeficiency) đáng kể .

@@ -1,0 +1,110 @@
+# Rụng tóc mucinosa — thông tin bổ sung
+
+Thể loại:
+
+Rối loạn nang lông
+
+SNOMED CT:
+
+27382006, 404109006
+
+**[Rối loạn nang lông](https://dermnetnz.org/topics/topics?category=Follicular+disorder)**
+
+
+# **Rụng tóc nhầy**
+
+Tác giả: Vanessa Ngan, Biên tập viên, 2003. Cập nhật bởi Tiến sĩ Ebtisam Elghblawi, Bác sĩ da liễu, Tripoli, Libya. Tháng 4 năm 2017.
+
+---
+
+## Rụng tóc nhầy là gì?
+
+Rụng tóc mucinosa, còn được gọi là chứng mucin nang lông , mô tả sự xuất hiện của chất nhầy xung quanh nang lông khi quan sát dưới kính hiển vi. Bệnh này đặc trưng bởi các mảng da hói, trong đó nang lông nổi rõ.
+Chất nhầy trông giống như một chất nhờn trong suốt hoặc trắng đục, chủ yếu được cấu tạo từ axit hyaluronic, một thành phần tự nhiên của chất nền bao quanh collagen ở lớp hạ bì. Một số dạng khác của [chứng mucinosis](https://dermnetnz.org/topics/cutaneous-mucinoses) cũng được mô tả và phân loại.
+- Một rối loạn cấp tính và nguyên phát xảy ra ở trẻ em và thanh thiếu niên (loại Pinkus).
+- Một rối loạn nguyên phát và mãn tính xảy ra ở những người trên 40 tuổi.
+- Một rối loạn thứ phát liên quan đến bệnh da lành tính hoặc ác tính .
+- Viêm nang lông giống như mề đay (hiếm gặp).
+![Rụng tóc nhầy](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/alop-mucin1.jpg)
+![Rụng tóc nhầy](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/alop-mucin2.jpg)
+![Rụng tóc nhầy](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/alop-mucin3.jpg)
+![Rụng tóc nhầy](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/alop-mucin4.jpg)
+![Rụng tóc nhầy](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/s/alop-mucin5.jpg)
+![Rụng tóc nhầy](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/s/alop-mucin6.jpg)
+
+---
+
+## Nguyên nhân nào gây ra chứng rụng tóc mucinosa?
+
+Nguyên nhân gây rụng tóc mucinosa vẫn chưa được biết rõ, nhưng có thể liên quan đến các phức hợp miễn dịch lưu hành và miễn dịch qua trung gian tế bào. Điều được biết là chất nhầy lắng đọng và tích tụ trong nang tóc và tuyến bã nhờn , tạo ra tình trạng viêm , sau đó phá vỡ khả năng sản xuất tóc của các nang tóc bị ảnh hưởng.
+
+---
+
+## Các đặc điểm lâm sàng là gì?
+
+Rụng tóc mucinosa thường ảnh hưởng đến mặt, cổ và da đầu, nhưng bất kỳ bộ phận nào trên cơ thể cũng có thể bị ảnh hưởng.
+- Bệnh biểu hiện dưới dạng các sẩn nang nằm thành từng nhóm trong các mảng hoặc mảng đỏ, khô .
+- Các mảng hoặc mảng bám thường có đường kính từ 2–5 cm nhưng có thể lớn hơn.
+- Một hoặc nhiều tổn thương có thể xuất hiện ngay từ đầu hoặc một tổn thương có thể phát triển thành nhiều tổn thương trong vài tuần hoặc vài tháng.
+- Rụng tóc không để lại sẹo và có khả năng hồi phục ở giai đoạn đầu, nhưng ở giai đoạn bệnh tiến triển hơn, nang tóc bị phá hủy, gây ra tình trạng rụng tóc có sẹo.
+
+### Rụng tóc mucinosa nguyên phát và cấp tính
+- Ảnh hưởng đến những người dưới 40 tuổi.
+- Thông thường, chỉ có một hoặc một vài tổn thương xuất hiện.
+- Chúng thường nằm ở đầu, cổ và cánh tay trên.
+- Hầu hết sẽ tự khỏi trong vòng 2 tháng đến 2 năm.
+
+### Rụng tóc mucinosa nguyên phát và mãn tính
+- Ảnh hưởng đến những người trên 40 tuổi.
+- Các tổn thương lan rộng và thường có số lượng nhiều có thể kéo dài hoặc tái phát vô thời hạn.
+- Bệnh biểu hiện dưới dạng các mảng phẳng hoặc nổi lên, hiếm khi loét.
+- Những mảng hói vĩnh viễn được đính những nút sừng.
+- Đôi khi chất nhầy có thể bị ép ra khỏi các nang lông bị ảnh hưởng.
+
+### Viêm nang lông giống như mề đay
+- Biểu hiện là các nốt sần nhỏ ngứa (sẩn) hoặc các vùng da nổi lên (mảng bám).
+- Chúng thường xuất hiện ở đầu và cổ.
+
+### Rụng tóc thứ phát mucinosa
+- Ảnh hưởng đến những người trên 40 tuổi.
+- Thoái hóa chất nhầy nang lông có thể xảy ra trong các bệnh viêm da như [lupus ban đỏ](https://dermnetnz.org/topics/cutaneous-lupus-erythematosus) và [liken đơn giản](https://dermnetnz.org/topics/lichen-simplex) .
+- Nó cũng có thể phát sinh trong các bệnh ác tính như [u lympho tế bào T ở da](https://dermnetnz.org/topics/cutaneous-t-cell-lymphoma) (là bệnh phổ biến nhất, ảnh hưởng đến 10–30% các trường hợp rụng tóc nhầy), [u Kaposi](https://dermnetnz.org/topics/kaposi-sarcoma) và [u lympho Hodgkin](https://dermnetnz.org/topics/hodgkin-lymphoma) (đặc biệt ở trẻ em).
+- Các đặc điểm về da điển hình của bệnh tiềm ẩn cũng có thể xuất hiện.
+- Cần phải sinh thiết da để phân biệt tình trạng này với chứng rụng tóc nhầy nguyên phát [.](https://dermnetnz.org/topics/skin-biopsy)
+
+---
+
+## Rụng tóc nhầy được chẩn đoán như thế nào?
+
+Rụng tóc mucinosa được chẩn đoán dựa trên biểu hiện lâm sàng và được hỗ trợ bởi các phát hiện bệnh lý học trên sinh thiết :
+- Sự tích tụ mucin trong nang lông tuyến bã và tuyến bã nhờn
+- Mảnh vụn sừng hóa bên trong khoang nang
+- Viêm
+- Sự thoái hóa của các cấu trúc nang lông.
+Các đặc điểm mô học của bệnh tiềm ẩn có trong tình trạng rụng tóc thứ phát.
+
+---
+
+## Chẩn đoán phân biệt bệnh rụng tóc nhầy là gì?
+
+Các nguyên nhân thứ phát của rụng tóc mucinosa như [nấm sợi](https://dermnetnz.org/topics/mycosis-fungoides) có thể không được chẩn đoán trong một vài năm, đòi hỏi phải theo dõi và sinh thiết cẩn [thận](https://dermnetnz.org/topics/skin-biopsy) . Các tình trạng khác có thể cần được xem xét trong chẩn đoán phân biệt bao gồm:
+- [Rụng tóc từng mảng](https://dermnetnz.org/topics/alopecia-areata) , gây ra các mảng hói cục bộ không để lại sẹo
+- [Viêm da tiết bã](https://dermnetnz.org/topics/seborrhoeic-dermatitis) , [bệnh vẩy nến](https://dermnetnz.org/topics/psoriasis) và [bệnh nấm da đầu](https://dermnetnz.org/topics/tinea-capitis) , có thể gây ra các mảng vảy và rụng tóc
+- [Bệnh lupus ban đỏ dạng đĩa](https://dermnetnz.org/topics/discoid-lupus-erythematosus) và [liken phẳng lông mao , có thể gây ra tình trạng rụng](https://dermnetnz.org/topics/lichen-planopilaris) tóc từng vùng và sẹo.
+
+---
+
+## Phương pháp điều trị rụng tóc mucinosa là gì?
+
+Chưa có phương pháp điều trị rụng tóc mucinosa nào được chứng minh là hiệu quả. Thông thường, rụng tóc mucinosa nguyên phát và cấp tính ở trẻ em thường tự khỏi. Do khả năng tự khỏi ở các dạng bệnh khác rất thấp, nên hiệu quả điều trị có thể khó đánh giá. Một số phương pháp điều trị đã được thử nghiệm nhưng chưa thành công bao gồm:
+- [](https://dermnetnz.org/topics/topical-steroid) [Corticosteroid](https://dermnetnz.org/topics/systemic-steroids) [tại chỗ](https://dermnetnz.org/topics/topical-steroid) , tiêm [trong tổn thương](https://dermnetnz.org/topics/intralesional-steroid-injection) và toàn thân [](https://dermnetnz.org/topics/systemic-steroids)
+- Thuốc kháng sinh uống như [minocycline](https://dermnetnz.org/topics/tetracycline)
+- [Dapsone](https://dermnetnz.org/topics/dapsone)
+- Indomethacin
+- Interferon
+- Quang hóa trị liệu tại chỗ và toàn thân ( [PUVA](https://dermnetnz.org/topics/puva-photochemotherapy) )
+- [Mù tạt nitơ tại chỗ](https://dermnetnz.org/topics/topical-nitrogen-mustard)
+- Xạ trị
+- [Liệu pháp quang học UVA1](https://dermnetnz.org/topics/uva1-phototherapy)
+- Gel bôi ngoài da [bexarotene](https://dermnetnz.org/topics/bexarotene) 1% .
+Rụng tóc mucinosa thứ phát cần được điều trị phù hợp với bệnh lý da tiềm ẩn, đặc biệt nếu đó là u lympho tế bào T ở da .

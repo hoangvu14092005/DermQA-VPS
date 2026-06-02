@@ -1,0 +1,83 @@
+# Roseola — thông tin bổ sung
+
+Thể loại:
+
+Nhiễm trùng, phát ban
+
+SNOMED CT:
+
+54385001, 103528003, 402903007, 402902002, 49882001, 85532005
+
+**[Nhiễm trùng, phát ban](https://dermnetnz.org/topics/topics?category=Infections)**
+
+
+# **Bệnh ban đỏ**
+
+Tác giả: Vanessa Ngan, Cán bộ viết, 2002. Được cập nhật bởi Hon A/GS Amanda Oakley, tháng 9 năm 2015.
+
+---
+
+## Bệnh ban đào là gì?
+
+Bệnh ban đào là một bệnh do virus herpes ở người tuýp 6B (HHV-6B) và có thể cả tuýp 7 (HHV-7) gây ra. Những [loại virus herpes](https://dermnetnz.org/topics/herpes-viruses) này chỉ mới được phát hiện trong những năm gần đây, và chúng ta vẫn đang tìm hiểu về toàn bộ các bệnh do chúng gây ra.
+Bệnh ban đào đặc trưng bởi sốt cao kéo dài 3–5 ngày, sổ mũi, cáu kỉnh và mệt mỏi. Khi sốt giảm, phát ban ( [ban xuất huyết](https://dermnetnz.org/topics/exanthems) ) có thể xuất hiện trên mặt và cơ thể.
+Roseola còn được biết đến với cái tên roseola infantum và exanthem subitum.
+![Không có caption](https://dermnetnz.org/assets/Uploads/roseola-001.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/roseola-002.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/roseola-003.jpg)
+Xem thêm [hình ảnh của bệnh ban đào](https://dermnetnz-org.translate.goog/topics/roseola-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp) .
+
+---
+
+## Ai bị bệnh ban đào?
+
+Bệnh ban đào thường gặp nhất ở trẻ em từ 6 tháng đến 3 tuổi. Hầu hết trẻ em (86%) sẽ bị ban đào trước 1 tuổi. Ban đào hiếm khi gặp ở người lớn, vì nhiễm trùng thời thơ ấu có thể tạo ra khả năng miễn dịch suốt đời với bệnh. Các đợt tái phát đã được biết là có thể xảy ra nhưng không phổ biến.
+
+---
+
+## Bệnh ban đào lây lan như thế nào?
+
+Bệnh ban đào lây lan từ người sang người qua nước bọt của những người thân trong gia đình không có triệu chứng . Thời gian ủ bệnh ban đào là khoảng 9–10 ngày sau khi tiếp xúc.
+
+---
+
+## Dấu hiệu và triệu chứng của bệnh ban đào là gì?
+
+Trong nhiều trường hợp bệnh ban đào, trẻ có vẻ khỏe mạnh với ít hoặc không có dấu hiệu hoặc triệu chứng. Các trường hợp điển hình được đặc trưng bởi các triệu chứng sau:
+- Sốt cao (thường lên tới 40 độ C) trong 3–5 ngày
+- Các triệu chứng đường hô hấp trên như đau họng, ho, sổ mũi hoặc nghẹt mũi
+- Dễ cáu kỉnh và mệt mỏi
+- Phát ban xuất hiện vào khoảng ngày thứ 3 đến ngày thứ 5, khi cơn sốt thuyên giảm Thông thường là những đốm nhỏ màu hồng nhạt hoặc đỏ nổi lên (đường kính 2–5 mm) chuyển sang màu trắng khi chạm vào Một số đốm có thể được bao quanh bởi quầng sáng màu của da nhợt nhạt Chủ yếu ảnh hưởng đến thân mình và hiếm khi lan đến cổ, mặt, tay và chân Các đốm tương tự xuất hiện trên vòm miệng mềm và lưỡi gà (các đốm Nagayama) Không ngứa, không đau và không phồng rộp Có thể mờ dần trong vòng vài giờ hoặc kéo dài tới hai ngày
+- Thông thường là những đốm nhỏ màu hồng nhạt hoặc đỏ nổi lên (đường kính 2–5 mm) chuyển sang màu trắng khi chạm vào
+- Một số đốm có thể được bao quanh bởi quầng sáng màu của da nhợt nhạt
+- Chủ yếu ảnh hưởng đến thân mình và hiếm khi lan đến cổ, mặt, tay và chân
+- Các đốm tương tự xuất hiện trên vòm miệng mềm và lưỡi gà (các đốm Nagayama)
+- Không ngứa, không đau và không phồng rộp
+- Có thể mờ dần trong vòng vài giờ hoặc kéo dài tới hai ngày
+Trong một số trường hợp, trẻ có thể bị nhiễm vi-rút mà không bao giờ phát ban. Ít phổ biến hơn, phát ban có thể xuất hiện mà không kèm theo sốt. Trong hầu hết các trường hợp, đặc biệt nếu sốt nhẹ, trẻ vẫn khỏe mạnh. Ở khoảng 5–15% trẻ nhỏ, sốt cao có thể gây co giật do sốt .
+
+---
+
+## Bệnh ban đào được chẩn đoán như thế nào?
+
+Vì bệnh ban đào thường nhẹ và tự khỏi nên chẩn đoán thường chỉ dựa trên tiền sử bệnh và khám sức khỏe đặc trưng.
+Một số phòng thí nghiệm có thể xác nhận nhiễm trùng HHV-6 bằng huyết thanh học hoặc phản ứng chuỗi polymerase ( PCR ).
+
+---
+
+## Phương pháp điều trị bệnh ban đào là gì?
+
+Không có phương pháp điều trị đặc hiệu cho bệnh ban đào. Bệnh thường nhẹ và tự khỏi. Thông thường, chỉ cần nghỉ ngơi, uống đủ nước và dùng paracetamol để hạ sốt. Không cần điều trị gì cho phát ban, vì nó không ngứa hay đau và sẽ tự khỏi.
+
+---
+
+## Bệnh ban đào có thể gây ra những biến chứng gì?
+
+Biến chứng hiếm gặp ở hầu hết trẻ em mắc bệnh ban đào. Biến chứng phổ biến nhất là co giật/ co giật do sốt , có thể xảy ra ở 5–15% trẻ em. Những cơn co giật này khởi phát do sốt cao của ban đào và có thể đáng báo động khi phát hiện lần đầu. Các dấu hiệu của co giật do sốt bao gồm:
+- Mất ý thức
+- Các chuyển động giật hoặc co giật ở cánh tay, chân hoặc mặt trong 2 đến 3 phút
+- Quần ướt hoặc bẩn ở trẻ đã biết đi vệ sinh nhưng vẫn bất tỉnh
+- Sự cáu kỉnh
+Những cơn co giật này thường ngắn và không nguy hiểm. Tuy nhiên, bạn nên đưa con đi khám bác sĩ nếu cơn co giật này xảy ra.
+Viêm não cấp tính , viêm gan , viêm cơ tim , hội chứng thực bào máu và bệnh giống bệnh tăng bạch cầu đơn nhân nhiễm trùng chỉ xảy ra rất hiếm.
+Sự tái hoạt động của HHV-6 ở những bệnh nhân bị suy giảm miễn dịch hoặc liên quan đến [hội chứng quá mẫn thuốc](https://dermnetnz.org/topics/drug-hypersensitivity-syndrome) dẫn đến sốt, phát ban, viêm phổi, viêm gan, suy tủy xương và viêm não.

@@ -1,0 +1,54 @@
+# Viêm quy đầu/viêm âm hộ tế bào plasma – thông tin bổ sung
+
+Thể loại:
+
+Viêm
+
+SNOMED CT:
+
+236743008, 238921004
+
+**[Viêm](https://dermnetnz.org/topics/topics?category=Inflammation)**
+
+
+# **Viêm quy đầu/viêm âm hộ tế bào plasma**
+
+Tác giả: Vanessa Ngan, Biên tập viên, 2003.
+
+---
+
+## Viêm quy đầu/viêm âm hộ tế bào plasma là gì?
+
+Rối loạn tế bào plasma thường biểu hiện dưới dạng các mảng đỏ dai dẳng , dễ kích ứng, có ranh giới rõ ràng trên bộ phận sinh dục. Tình trạng này được gọi là viêm quy đầu tế bào plasma ở nam giới và viêm âm hộ tế bào plasma ở phụ nữ do có nhiều tế bào plasma được nhìn thấy trên sinh thiết da . Tế bào plasma là một loại tế bào bạch cầu được tìm thấy trong một số tình trạng viêm .
+- Viêm quy đầu tế bào plasma ảnh hưởng đến đầu dương vật (quy đầu) và còn được gọi là viêm quy đầu circumscripta plasmacellularis và viêm quy đầu Zoon.
+- Viêm âm hộ do tế bào plasma thường gặp nhất ở bên trong âm hộ, tại lối vào âm đạo (tiền đình). Tình trạng này còn được gọi là viêm âm hộ circumscripta plasmacellularis.
+
+---
+
+## Các dấu hiệu và triệu chứng của viêm quy đầu/viêm âm hộ là gì?
+
+Ở nam giới, viêm quy đầu tế bào plasma thường là một mảng đỏ cam bóng loáng . Ở phụ nữ, thường có nhiều mảng. Bệnh nhân có thể không có triệu chứng nhưng có thể phàn nàn về tình trạng đau và/hoặc ngứa nhẹ.
+[Xem hình ảnh viêm quy đầu/viêm âm hộ do tế bào plasma](https://dermnetnz-org.translate.goog/topics/plasma-cell-balanitisvulvitis-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp) ...
+
+---
+
+## Nguyên nhân gây viêm quy đầu/viêm âm hộ tế bào plasma là gì?
+
+Nguyên nhân gây viêm quy đầu/viêm âm hộ do tế bào plasma chưa được biết rõ. Việc tìm thấy tế bào plasma trong [sinh thiết](https://dermnetnz.org/topics/skin-biopsy) da có thể không đặc hiệu và có thể là phản ứng với nhiễm trùng , kích ứng hoặc chấn thương. Một số trường hợp ban đầu được chẩn đoán là viêm quy đầu/viêm âm hộ do tế bào plasma, sau đó mới phát hiện ra là các bệnh ngoài da khác như nhiễm trùng, [viêm da tiếp xúc dị ứng](https://dermnetnz.org/topics/allergic-contact-dermatitis) , [vẩy nến](https://dermnetnz.org/topics/psoriasis) , [liken phẳng](https://dermnetnz.org/topics/lichen-planus) hoặc [tân sinh biểu mô](https://dermnetnz.org/topics/vulval-intraepithelial-neoplasia) dương vật hoặc [âm](https://dermnetnz.org/topics/penile-intraepithelial-neoplasia) hộ . [](https://dermnetnz.org/topics/vulval-intraepithelial-neoplasia)
+
+---
+
+## Chẩn đoán viêm quy đầu/viêm âm hộ tế bào plasma
+
+Viêm quy đầu/viêm âm hộ do tế bào plasma có thể trông giống với các bệnh lý da khác ảnh hưởng đến dương vật hoặc âm hộ. Bác sĩ da liễu có thể khuyến nghị [các đặc điểm mô bệnh học](https://dermnetnz.org/topics/zoon-balanitisvulvitis-pathology) đặc trưng trên [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) ở khu vực này để giúp chẩn đoán và lên kế hoạch điều trị.
+
+---
+
+## Quản lý viêm quy đầu/viêm âm hộ tế bào plasma
+
+[](https://dermnetnz.org/topics/topical-steroid) Kem [steroid bôi ngoài da](https://dermnetnz.org/topics/topical-steroid) có thể hữu ích trong một số trường hợp. Thuốc được bôi dưới dạng một lớp mỏng lên vùng da bị ảnh hưởng trong vài ngày. Việc điều trị được lặp lại khi cần thiết và có thể cần thực hiện nhiều ngày mỗi tuần. Các phương pháp điều trị khác được báo cáo là có hiệu quả trong một số trường hợp bao gồm:
+- [Thuốc kháng sinh](https://dermnetnz.org/topics/antibiotics) tại chỗ [](https://dermnetnz.org/topics/antibiotics)
+- [Thuốc chống nấm tại chỗ](https://dermnetnz.org/topics/topical-antifungal-medication)
+- [Thuốc ức chế calcineurin](https://dermnetnz.org/topics/calcineurin-inhibitors) tại chỗ như [thuốc mỡ tacrolimus](https://dermnetnz.org/topics/tacrolimus) hoặc [kem pimecrolimus](https://dermnetnz.org/topics/pimecrolimus)
+- [Kem Imiquimod](https://dermnetnz.org/topics/imiquimod)
+- Phẫu thuật cắt bỏ , [đốt điện](https://dermnetnz.org/topics/electrosurgery) hoặc đốt [laser](https://dermnetnz.org/topics/lasers-in-dermatology) . Cắt bao quy đầu được khuyến cáo cho viêm quy đầu tế bào plasma và có thể chữa khỏi.

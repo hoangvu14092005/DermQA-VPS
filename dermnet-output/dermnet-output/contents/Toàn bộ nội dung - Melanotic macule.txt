@@ -1,0 +1,82 @@
+# Đốm hắc tố — thông tin bổ sung
+
+Thể loại:
+
+Tổn thương (lành tính)
+
+SNOMED CT:
+
+239136007, 724847001, 428876001
+
+**[Tổn thương (lành tính)](https://dermnetnz.org/topics/topics?category=Lesions+(benign))**
+
+
+# **Đốm hắc tố**
+
+Tác giả: Tiến sĩ Mark Duffill, Bác sĩ da liễu, Hamilton, New Zealand, 2008.
+
+---
+
+## Đốm hắc tố là gì?
+
+Dát hắc tố là một mảng phẳng, hình bầu dục, màu nâu đến đen, có ranh giới rõ ràng , thường xuất hiện ở một phần ba giữa của môi dưới, tuy nhiên hiếm khi xuất hiện ở dương vật hoặc âm hộ.
+Dát hắc tố môi là tên gọi của một [nốt tàn nhang](https://dermnetnz.org/topics/brown-spots-and-freckles) xuất hiện trên môi. Đôi khi nó còn được gọi là [lentigo](https://dermnetnz.org/topics/lentigo) môi và khi có nhiều tổn thương , nó được gọi là chứng hắc tố niêm mạc .
+
+---
+
+## Đặc điểm lâm sàng của bệnh u hắc tố là gì?
+
+Thường đơn độc, dát hắc tố ở môi thường gặp nhất ở phụ nữ trưởng thành nhưng cũng xuất hiện ở nam giới và người trẻ tuổi. Đôi khi tổn thương có thể xuất hiện ở môi trên.
+Kích thước dao động từ 1–8 mm. Một khi đã phát triển, các tổn thương thường không thay đổi về kích thước và màu sắc. Đôi khi chúng có thể có viền không đều và có thể có tiền sử thay đổi màu sắc, dễ gây nhầm lẫn với các tổn thương sắc tố khác , bao gồm cả [ung thư hắc tố](https://dermnetnz.org/topics/melanoma) . May mắn thay, ung thư hắc tố rất hiếm gặp ở môi (nhưng vẫn có thể xảy ra).
+Những tàn nhang tương tự cũng có thể xuất hiện ở những vùng không tiếp xúc với ánh nắng mặt trời:
+- Bên trong miệng ( các mảng hắc tố ở miệng )
+- Ở âm hộ ở phụ nữ ( vết thâm đen ở môi âm hộ , chứng hắc tố âm hộ)
+- Trên dương vật ở nam giới (mảng đen dương vật, nốt sần dương vật ).
+Các mảng da sẫm màu ở môi không gây ra bất kỳ triệu chứng nào nhưng sự xuất hiện của chúng có thể khiến bệnh nhân lo lắng.
+![Đốm hắc tố môi](https://dermnetnz.org/assets/Uploads/lesions/lmm1.jpg)
+![Đốm hắc tố môi](https://dermnetnz.org/assets/Uploads/lesions/lmm2.jpg)
+![Đốm hắc tố môi](https://dermnetnz.org/assets/Uploads/lesions/lmm4.jpg)
+![Đốm hắc tố môi](https://dermnetnz.org/assets/Uploads/lesions/lmm3.jpg)
+![Đốm hắc tố môi](https://dermnetnz.org/assets/Uploads/lesions/lmm5.jpg)
+![Đốm hắc tố môi](https://dermnetnz.org/assets/Uploads/lesions/lmm6.jpg)
+
+---
+
+## Nguyên nhân gây ra các vết nám da là gì?
+
+Dát hắc tố ở môi được cho là do tiếp xúc với ánh nắng mặt trời, và thường gặp hơn ở người da trắng. Tuy nhiên, nó cũng có thể xảy ra ở người da sẫm màu, và như đã mô tả ở trên, các tổn thương tương tự có thể xuất hiện ở những vị trí không bao giờ tiếp xúc với ánh nắng mặt trời. May mắn thay, dát hắc tố là vô hại.
+
+### Những tình trạng nào khác gây ra tình trạng sắc tố môi?
+Một vết nám da ở môi có thể bị nhầm lẫn với một tổn thương sắc tố da khác.
+- Tàn nhang ( [ephelides](https://dermnetnz.org/topics/ephelis) )
+- [Lentigo simplex](https://dermnetnz.org/topics/lentigo-simplex)
+- [Lentigo mặt trời](https://dermnetnz.org/topics/solar-lentigo)
+- [U máu tĩnh mạch (hồ tĩnh mạch)](https://dermnetnz.org/topics/venous-lake)
+- [Hình xăm Amalgam](https://dermnetnz.org/topics/amalgam-tattoo)
+- Nốt ruồi melanocytic nối (nốt [ruồi](https://dermnetnz.org/topics/melanocytic-naevus) phẳng ) [](https://dermnetnz.org/topics/melanocytic-naevus)
+- [Lentigo maligna](https://dermnetnz.org/topics/lentigo-maligna-and-lentigo-maligna-melanoma) (một dạng [u ác tính tại chỗ](https://dermnetnz.org/topics/melanoma-in-situ) )
+- [U ác tính lan rộng bề mặt](https://dermnetnz.org/topics/superficial-spreading-melanoma) .
+Những tình trạng này có thể được phân biệt với bệnh u hắc tố ở môi bằng cách kết hợp các đặc điểm lâm sàng và mô học .
+Nhiều tổn thương có thể là dấu hiệu của tình trạng da lan rộng , chẳng hạn như:
+- [Hội chứng Peutz Jeghers](https://dermnetnz.org/topics/peutz-jeghers-syndrome)
+- [Bệnh Addison](https://dermnetnz.org/topics/addison-disease)
+- [Hội chứng Laugier-Hunziker](https://dermnetnz.org/topics/laugier-hunziker-syndrome)
+- Bệnh lentiginosis nhiều (nhiều hội chứng khác nhau bao gồm [hội chứng Noonan với nhiều lentigine](https://dermnetnz.org/topics/noonan-syndrome-with-multiple-lentigines) ).
+
+---
+
+## Cần phải tiến hành những cuộc điều tra nào?
+
+Dát hắc tố có hình dạng đặc trưng khi quan sát bằng kính lúp hoặc [soi da](https://dermnetnz.org/cme/dermoscopy-course) . Các tổn thương có tiền sử và hình thái điển hình không cần sinh thiết.
+Nếu [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) được thực hiện vì tổn thương đang thay đổi hoặc trông không đều, thì một mảng hắc tố ở môi sẽ biểu hiện các đặc điểm sau trên bệnh lý da liễu :
+- Tăng melanin trong tế bào hắc tố và tế bào sừng ở lớp đáy
+- Tế bào hắc tố ở nhú bì , biểu hiện tình trạng mất kiểm soát sắc tố
+- Tăng sinh gai nhẹ mà không kéo dài các gờ lưới .
+Không có hiện tượng bất sản nhân và số lượng tế bào hắc tố bình thường.
+
+---
+
+## Phương pháp điều trị các vết thâm nám là gì?
+
+Chỉ có thể quan sát các tổn thương điển hình. Các tổn thương đáng ngờ, bao gồm cả các tổn thương có biểu hiện thay đổi tiến triển , nên được sinh thiết.
+Nếu cần điều trị, các vết bớt có thể được đông lạnh ( [liệu pháp lạnh](https://dermnetnz.org/topics/cryotherapy) ) hoặc loại bỏ bằng [tia laser](https://dermnetnz.org/topics/lasers-in-dermatology) hoặc [ánh sáng xung cường độ cao](https://dermnetnz.org/topics/intense-pulsed-light-therapy) . Cũng có thể cắt [bỏ](https://dermnetnz.org/topics/excision-of-skin-lesions) nhưng sẽ để lại sẹo.

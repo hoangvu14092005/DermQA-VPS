@@ -1,0 +1,187 @@
+# Loét do tì đè — thông tin bổ sung
+
+Thể loại:
+
+Viêm
+
+SNOMED CT:
+
+399912005, 225996006, 420597008, 421076008, 420324007, 421927004, 385914001
+
+**[Viêm](https://dermnetnz.org/topics/topics?category=Inflammation)**
+
+
+# **Loét do tì đè**
+
+Tháng 3 năm 2023Tác giả: Tiến sĩ Tristen Ng, Bệnh viện Hoàng gia Perth, Tây Úc (2023)Những người đóng góp trước: Vanessa Ngan, Biên tập viên (2003)Bác sĩ da liễu đánh giá: Tiến sĩ Ian CoulsonĐược biên tập bởi bộ phận nội dung DermNet
+
+---
+
+## Loét do tì đè là gì?
+
+Loét do tì đè là tổn thương da và mô mềm do áp lực kéo dài. Cụ thể, chúng liên quan đến sự phá hủy da, mô dưới da và đôi khi cả các cấu trúc sâu hơn (gân, cơ, xương) do áp lực tích tụ và thường liên quan đến các tình trạng sức khỏe hoặc chấn thương có từ trước.
+Loét tì đè còn được gọi là loét do tì đè, loét do nằm lâu hoặc loét do nằm lâu. Chúng thường xuất hiện ở các vùng xương của cơ thể có lớp mô mềm mỏng bao phủ.
+![Loét tì đè mới xuất hiện ở gót chân - bệnh nhân bị liệt nửa người sau chấn thương cột sống](https://dermnetnz.org/assets/collection/Pressure-ulcer/pressure-ulcer-0013.jpg)
+![Loét do tì đè](https://dermnetnz.org/assets/Uploads/decubitus3.jpg)
+![Loét do tì đè mãn tính do bất động và gây tê do tật nứt đốt sống](https://dermnetnz.org/assets/collection/Pressure-ulcer/pressure-ulcer-0001.jpg)
+![Loét do tì đè ở nếp gấp mông và hố khoeo ở người dùng xe lăn bị tật nứt đốt sống](https://dermnetnz.org/assets/collection/Pressure-ulcer/pressure-ulcer-0014.jpg)
+![Loét chèn ép xương cùng sâu và dai dẳng](https://dermnetnz.org/assets/collection/Pressure-ulcer/pressure-ulcer-0007.jpg)
+![Loét do tì đè mãn tính](https://dermnetnz.org/assets/Uploads/doctors/wound-healing/images/ulcer-press.jpg)
+[Xem thêm hình ảnh](https://dermnetnz-org.translate.goog/images/pressure-ulcer-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+
+---
+
+## Ai bị loét do tì đè?
+
+Mặc dù loét do tì đè có thể ảnh hưởng đến bất kỳ ai, nhưng chúng thường gặp nhất ở người cao tuổi và người bệnh nặng, những người không thể vận động trong thời gian dài.
+Các nhóm có nguy cơ cao bao gồm bệnh nhân chăm sóc giảm nhẹ, bệnh nhân [hôn mê](https://dermnetnz.org/topics/skin-signs-of-coma) , bệnh nhân [liệt tứ chi , bệnh nhân bị chấn thương](https://dermnetnz.org/topics/skin-complications-of-paraplegia-and-tetraplegia) tủy sống , người cao tuổi bị gãy xương chỉnh hình và trẻ em bị rối loạn chức năng thần kinh (ví dụ: tật nứt đốt sống, bại não hoặc chấn thương tủy sống).
+Loét do tì đè gây ra gánh nặng lớn về kinh tế và tâm lý do phải nhập viện để điều trị biến chứng loét do tì đè và làm giảm chất lượng cuộc sống của bệnh nhân.
+
+---
+
+## Nguyên nhân nào gây ra loét do tì đè?
+
+Nguyên nhân quan trọng nhất gây loét do tì đè là áp lực bên ngoài lên vùng da trong thời gian dài, mặc dù cơ chế chính xác rất phức tạp và chưa được hiểu rõ.
+Một cơ chế được đề xuất liên quan đến sự tương tác phức tạp giữa thiếu máu cục bộ mô tại chỗ , tổn thương tái tưới máu, tăng tính thấm mao mạch , tăng tự thực bào và lão hóa tế bào, gây tổn thương trực tiếp đến các tế bào da. Sau khi áp lực bên ngoài kích thích biến mất, bệnh nhân bị chậm thời gian tái tưới máu, làm tăng nguy cơ hình thành [loét](https://dermnetnz.org/topics/erosions-and-ulcers) . [](https://dermnetnz.org/topics/erosions-and-ulcers)
+Giả thuyết về ' giai đoạn viêm kéo dài ' cũng đã được đề xuất, theo đó vết loét do tì đè không tuân theo quỹ đạo bình thường của quá trình viêm , tái tạo và trưởng thành mà thay vào đó bị dừng lại ở giai đoạn 'viêm' của quá trình lành [vết thương](https://dermnetnz.org/topics/wounds) .
+Việc xác định các yếu tố nguy cơ bên ngoài và bên trong rất quan trọng để ngăn ngừa hoặc giảm thiểu loét do tì đè.
+Các yếu tố bên ngoài bao gồm:
+- Chấn thương da (ví dụ, da bị rách do băng bó, vết rách)
+- [Cắt cụt](https://dermnetnz.org/topics/amputation-stump-dermatoses)
+- Hạn chế về mặt vật lý hoặc thuốc an thần hóa học, tình trạng bất động trở nên tồi tệ hơn
+- Thay đổi không đầy đủ về tư thế của bệnh nhân bất động
+- Thiết bị y tế không vừa vặn (ví dụ như niềng răng Jewett, ống thông dạ dày và mũi dạ dày, ống thông khí quản, chân tay giả, bột và nẹp).
+Các yếu tố bên trong bao gồm:
+- Bệnh thần kinh (cả vận động và cảm giác)
+- Hội chứng chuyển hóa (ví dụ, [béo phì](https://dermnetnz.org/topics/obesity-and-the-skin) , [đái tháo đường](https://dermnetnz.org/topics/skin-problems-associated-with-diabetes-mellitus) )
+- Bệnh tim mạch
+- Bệnh tắc nghẽn động mạch ngoại vi
+- [Suy dinh dưỡng](https://dermnetnz.org/topics/malnutrition-including-anorexia-nervosa)
+- Tuổi cao.
+
+---
+
+## Các đặc điểm lâm sàng của loét do tì đè là gì?
+
+Các triệu chứng lâm sàng của loét do tì đè dao động từ viêm đến loét da nghiêm trọng, để lộ cơ, gân và thậm chí cả xương. Các vị trí thường bị ảnh hưởng bao gồm da phủ lên xương cụt, cột sống, gót chân, mắt cá chân và khuỷu tay.
+Đối với những bệnh nhân nằm nghiêng trong thời gian dài, mào chậu, mấu chuyển và vành tai có thể bị ảnh hưởng. Trong quá trình chăm sóc bệnh nhân mắc bệnh hô hấp nặng do COVID-19 ở tư thế nằm sấp kéo dài, loét do tì đè ở mặt thường xuyên xảy ra.
+Hệ thống phân loại tổn thương do tì đè của Ủy ban tư vấn loét tì đè quốc gia (NPUAP) được sử dụng rộng rãi trong việc phân loại và đánh giá mức độ nghiêm trọng của loét tì đè dựa trên các đặc điểm lâm sàng của chúng.
+Các hệ thống tính điểm khác, chẳng hạn như thang điểm Braden , cũng được sử dụng tại một số cơ sở chăm sóc sức khỏe.
+
+### Loét do tì đè giai đoạn 1
+- Da nguyên vẹn với nhiều mức độ ban đỏ khác nhau , không chuyển sang màu trắng khi bị ấn.
+- Da có thể bị đau, ngứa hoặc nhạy cảm.
+
+### Loét do tì đè giai đoạn 2
+- Da đỏ, sưng và đau.
+- Mất một phần độ dày của da liên quan đến vết rách ở lớp hạ bì.
+- Vết loét trông sáng bóng hoặc khô với nền vết thương màu đỏ hồng có mụn nước chứa đầy huyết thanh .
+- Các lớp da phía trên bắt đầu chết.
+- Không có mô mỡ , mô hạt , mô hoại tử và mô vảy .
+
+### Loét do tì đè giai đoạn 3
+- Mất toàn bộ lớp da dày liên quan đến lớp hạ bì.
+- Có vết loét giống như miệng hố.
+- Có thể nhìn thấy mô mỡ nhưng không thấy cơ, gân, dây chằng, sụn hoặc xương.
+- Độ sâu của tổn thương mô khác nhau tùy theo vị trí giải phẫu (ví dụ, có thể nông ở những vùng có ít mỡ như chẩm và mắt cá chân, trong khi những vùng có nhiều mỡ như vùng mông có thể sâu).
+- Vết thương dễ bị [nhiễm trùng](https://dermnetnz.org/topics/skin-infections) .
+
+### Loét do tì đè giai đoạn 4
+- Toàn bộ độ dày với cơ, gân, dây chằng, sụn, khớp hoặc xương lộ ra.
+- Có thể nhìn thấy mô chết bị đen gọi là vảy ở vết thương hở sâu.
+- Nguy cơ mắc bệnh viêm tủy xương cực kỳ cao.
+[Xem hình ảnh](https://dermnetnz-org.translate.goog/images/pressure-ulcer-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+
+---
+
+## Loét do tì đè được chẩn đoán như thế nào?
+
+Loét do tì đè vẫn là chẩn đoán lâm sàng. Cần kiểm tra kỹ lưỡng da bệnh nhân từ da đầu đến chân. Cần đặc biệt chú ý đến vùng da ở những vị trí thường xuyên bị tì đè, dưới các thiết bị y tế và các nếp gấp da ở những bệnh nhân có thân hình to lớn.
+Chiến dịch Stop the Pressure của NHS sử dụng cụm từ 'BEST SHOT' như một danh sách kiểm tra các vị trí loét do tì đè thường gặp:
+- Mông
+- Khuỷu tay và tai
+- Vùng xương cùng
+- Các đốt chuyển tiếp
+- Cột sống và vai
+- Giày cao gót
+- Chẩm
+- Ngón chân.
+Các công nghệ cảm biến nhiệt độ như chụp ảnh nhiệt hồng ngoại (IRT) đã được phát triển để hỗ trợ dự đoán sớm và chẩn đoán sớm loét do tì đè. Trong một nghiên cứu triển vọng mù đôi trên 70 bệnh nhân tại khoa Hồi sức tích cực (ICU), IRT được phát hiện có khả năng phát hiện những thay đổi trên da từ 5–18 ngày trước khi xuất hiện vết loét do tì đè.
+
+---
+
+## Các đặc điểm lâm sàng khác nhau như thế nào ở các loại da khác nhau?
+
+Loét do tì đè giai đoạn 1 có thể bị bỏ sót ở [những loại da](https://dermnetnz.org/topics/skin-phototype) sẫm màu hơn (ví dụ, loại Fitzpatrick 4–6) do không có hiện tượng tái nhợt hoặc ban đỏ rõ rệt.
+Các thông số khác như cảm giác da thay đổi, độ ấm và độ săn chắc của da cần được đánh giá ở những bệnh nhân có loại da sẫm màu.
+
+---
+
+## Biến chứng của loét do tì đè là gì?
+
+- Nhiễm trùng ( [viêm mô tế bào](https://dermnetnz.org/topics/cellulitis) , [áp xe](https://dermnetnz.org/topics/cutaneous-abscess) , viêm tủy xương, viêm khớp nhiễm trùng , [viêm cân hoại tử](https://dermnetnz.org/topics/necrotising-fasciitis) , nhiễm trùng huyết ) [](https://dermnetnz.org/topics/necrotising-fasciitis)
+- Chuyển đổi ác tính
+- Loét tái phát
+
+---
+
+## Chẩn đoán phân biệt cho bệnh loét do tì đè là gì?
+
+- [Chấn thương do ma sát](https://dermnetnz.org/topics/friction-blister) nông hoặc trầy xước
+- [Bỏng nhiệt](https://dermnetnz.org/topics/burns-from-ointments)
+- [Viêm mô tế bào](https://dermnetnz.org/topics/cellulitis)
+- [Loét Marjolin](https://dermnetnz.org/topics/marjolin-ulcer)
+- [Loét Martorell](https://dermnetnz.org/topics/martorell-ulcer)
+- Viêm mạch , ví dụ như [viêm mạch da](https://dermnetnz.org/topics/cutaneous-vasculitis)
+- Tổn thương do bức xạ ví dụ như [viêm da do bức xạ](https://dermnetnz.org/topics/radiation-dermatitis)
+- [Mề đay do tì đè muộn](https://dermnetnz.org/topics/pressure-urticaria)
+- [Loét bàn chân do tiểu đường](https://dermnetnz.org/topics/diabetic-foot-ulcer)
+- [Loét chân](https://dermnetnz.org/topics/leg-ulcer) ví dụ như [loét ứ trệ](https://dermnetnz.org/topics/stasis-ulcer) , [loét động mạch](https://dermnetnz.org/topics/arterial-ulcer)
+- [Viêm da mủ hoại thư](https://dermnetnz.org/topics/pyoderma-gangrenosum) .
+
+---
+
+## Phương pháp điều trị loét do tì đè là gì?
+
+
+### Các biện pháp chung
+- Giảm thiểu các yếu tố bên ngoài như làm sạch và lau khô da sau khi [tiểu không tự chủ](https://dermnetnz.org/topics/incontinence-associated-dermatitis) , sử dụng [kem bảo vệ](https://dermnetnz.org/topics/barrier-cream) và [thuốc làm mềm da](https://dermnetnz.org/topics/emollients-and-moisturisers) .
+- [Có thể sử dụng băng đặc biệt](https://dermnetnz.org/topics/synthetic-wound-dressings) và [chế phẩm mật ong](https://dermnetnz.org/topics/honey) để hỗ trợ quá trình chữa lành.
+- Có thể loại bỏ mô chết bằng dao mổ ( cắt lọc ).
+- Cải thiện các yếu tố bên trong như dinh dưỡng của bệnh nhân.
+- Tối ưu hóa nền vết thương để vết thương mau lành nhất .
+- Giảm thiểu áp lực lên vùng bị ảnh hưởng bằng cách xoay người và sử dụng các thiết bị giảm áp lực (đệm, nệm).
+
+### Các biện pháp cụ thể
+- Băng vết thương để duy trì môi trường ẩm cho vết thương.
+- [Đánh giá thường xuyên tình trạng chăm sóc](https://dermnetnz.org/topics/wound-care) vết thương và bệnh nhân của một nhóm đa ngành (có thể bao gồm bác sĩ nội tiết , bác sĩ thần kinh, bác sĩ lão khoa, y tá chăm sóc vết thương, chuyên gia về bệnh truyền nhiễm, bác sĩ chuyên khoa chân, chuyên gia dinh dưỡng và chuyên gia trị liệu nghề nghiệp).
+- [Băng ép âm](https://dermnetnz.org/topics/negative-pressure-wound-therapy) dùng cho vết loét do tì đè nghiêm trọng.
+- Đôi khi, [liệu pháp cắt lọc bằng giòi](https://dermnetnz.org/topics/maggot-debridement-therapy) được sử dụng để loại bỏ vật liệu hoại tử và vảy.
+- Liệu pháp thủy trị liệu, sử dụng dung dịch muối trong ống tiêm hoặc tia nước áp lực.
+- [Thuốc kháng sinh](https://dermnetnz.org/topics/antibiotics) nếu cần thiết để điều trị nhiễm trùng.
+- [Có thể ghép](https://dermnetnz.org/topics/skin-grafting) da khỏe mạnh vào vùng da bị tổn thương.
+- [Da sinh học](https://dermnetnz.org/topics/bioengineered-skin) cũng là một liệu pháp thay thế mới cho ghép da.
+- Trong những tình huống nghiêm trọng hoặc đe dọa đến tính mạng, có thể cần phải cắt cụt chi.
+
+---
+
+## Làm thế nào để ngăn ngừa loét do tì đè?
+
+Phòng ngừa loét do tì đè có thể được phân loại thành 3 lĩnh vực: thúc đẩy vận động, giảm áp lực và phân bổ áp lực.
+Các chiến lược phòng ngừa bao gồm:
+- Chăm sóc da tỉ mỉ như [dùng chất làm mềm da](https://dermnetnz.org/topics/emollients-and-moisturisers) , [chất tẩy rửa](https://dermnetnz.org/topics/soaps-and-cleansers) nhẹ nhàng và tránh ma sát và lực cắt
+- Tối ưu hóa dinh dưỡng và vận động cho bệnh nhân
+- Giường hơi và nệm áp suất xen kẽ (chủ động) (thường được sử dụng trong các cơ sở chăm sóc sức khỏe để giảm và phân bổ áp lực cho bệnh nhân nằm viện)
+- Bề mặt bọt nhớt đàn hồi dạng sóng
+- Đế nâng gót đặc biệt và giày Prevalon
+- Kế hoạch sắp xếp vị trí nằm cho từng bệnh nhân và lựa chọn nệm trong môi trường cộng đồng như cơ sở chăm sóc người cao tuổi.
+
+---
+
+## Hậu quả của loét do tì đè là gì?
+
+- Phòng ngừa và phát hiện sớm là rất quan trọng, vì vết loét giai đoạn 3–4 mất nhiều tuần đến nhiều tháng để lành và có thể tốn kém và mất nhiều nguồn lực để quản lý.
+- Phẫu thuật chỉ được chỉ định cho những bệnh nhân có vết thương không đáp ứng với phương pháp điều trị không xâm lấn ; những bệnh nhân này cũng cần có đủ sức khỏe để phẫu thuật.
+- [Nhiễm trùng](https://dermnetnz.org/topics/skin-infections) và nhiễm trùng huyết có thể nghiêm trọng và đe dọa tính mạng; có thể cần phải [điều trị bằng kháng sinh](https://dermnetnz.org/topics/antibiotics) toàn thân . [](https://dermnetnz.org/topics/antibiotics)
+- [Máy bơm chân không](https://dermnetnz.org/topics/negative-pressure-wound-therapy) không được sử dụng thường xuyên vì cần có sự can thiệp của y tá chăm sóc vết thương có kinh nghiệm; sử dụng không đúng cách có thể làm trầm trọng thêm tình trạng loét do tì đè.
+[Xem hình ảnh](https://dermnetnz-org.translate.goog/images/pressure-ulcer-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)

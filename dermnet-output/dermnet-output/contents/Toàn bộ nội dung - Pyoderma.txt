@@ -1,0 +1,88 @@
+# Áp xe da — thông tin bổ sung
+
+Thể loại:
+
+Nhiễm trùng, Thuật ngữ
+
+SNOMED CT:
+
+128477000
+
+**[Nhiễm trùng, Thuật ngữ](https://dermnetnz.org/topics/topics?category=Infections)**
+
+
+# **Áp xe da**
+
+Tác giả: Phó giáo sư Amanda Oakley, Bác sĩ da liễu, Hamilton New Zealand, 2013.
+
+---
+
+## Áp xe là gì?
+
+Áp xe là một khoang chứa đầy mủ ( viêm mủ da hoặc nhiễm trùng huyết ). Nó chứa các tế bào bạch cầu, mô chết và vi khuẩn.
+Áp xe da có thể xuất hiện ở bất kỳ vị trí nào trên da, nhưng phổ biến nhất là ở dưới cánh tay, ở gốc cột sống ( [bệnh pilonidal](https://dermnetnz.org/topics/pilonidal-disease) ) hoặc xung quanh bộ phận sinh dục (ví dụ, áp xe tuyến Bartholin) và hậu môn.
+Áp xe thường biểu hiện là một khối u nóng, đỏ, sưng và đau. Nó có thể dẫn đến sốt , sưng hạch bạch huyết và các bệnh lý, bao gồm cả nhiễm trùng huyết nguy hiểm . Áp xe không do vi khuẩn có thể mát, có màu da và không đau.
+Nếu không được điều trị, áp xe cuối cùng sẽ vỡ ra và chảy ra mủ vàng đặc.
+Mặc dù có thể bị "đóng kín" do phản ứng viêm , nhưng áp xe không được bao quanh bởi lớp vỏ thực sự.
+![Không có caption](https://dermnetnz.org/assets/Uploads/bacterial/w/abscess-1.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/bacterial/w/abscess-2.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/bacterial/w/abscess-6.jpg)
+![Nhiễm trùng vết thương](https://dermnetnz.org/assets/Uploads/bacterial/w/abscess-3.jpg)
+![Áp xe vô trùng sau khi tiêm thử nghiệm collagen](https://dermnetnz.org/assets/Uploads/bacterial/w/abscess-4.jpg)
+![Áp xe ở bệnh nhân tiểu đường](https://dermnetnz.org/assets/Uploads/bacterial/abscess1.jpg)
+
+---
+
+## Nguyên nhân nào gây ra áp xe?
+
+Áp xe gây đau thường do [nhiễm trùng](https://dermnetnz.org/topics/bacterial-skin-infections) cấp tính do vi khuẩn . Vi khuẩn xâm nhập qua vết rách trên da như vết thương do kim đâm, hoặc qua nang lông . Áp xe cũng có thể hình thành xung quanh dị vật, chẳng hạn như dằm. Các nguyên nhân phổ biến nhất gây áp xe nhiễm trùng là: [](https://dermnetnz.org/topics/bacterial-skin-infections)
+- [Staphylococcus aureus](https://dermnetnz.org/topics/staphylococcal-skin-infection) ; nguyên nhân thường gặp gây ra [nhọt](https://dermnetnz.org/topics/boil) (nhọt và hậu bối, dạng áp xe da phổ biến nhất), [nhiễm trùng vết thương](https://dermnetnz.org/topics/wound-infections) hoặc [bệnh chàm](https://dermnetnz.org/topics/eczema-dermatitis-and-allergies) nhiễm trùng .
+- [Staphylococcus aureus](https://dermnetnz.org/topics/methicillin-resistant-staphylococcus-aureus) [kháng methicillin](https://dermnetnz.org/topics/methicillin-resistant-staphylococcus-aureus) , có thể gây ra áp xe tái phát .
+- [Streptococcus pyogenes](https://dermnetnz.org/topics/streptococcal-skin-infections) ; nguyên nhân thường gặp của [viêm mô tế bào](https://dermnetnz.org/topics/cellulitis) và [bệnh hồng ban](https://dermnetnz.org/topics/erysipelas)
+- [Mycobacterium tuberculosis (TB)](https://dermnetnz.org/topics/cutaneous-tuberculosis) và [nhiễm trùng mycobacteria không điển hình](https://dermnetnz.org/topics/atypical-mycobacterial-infection)
+- Vi khuẩn kỵ khí , vi khuẩn gram âm , [nhiễm trùng do vi khuẩn](https://dermnetnz.org/topics/bacterial-skin-infections) hiếm gặp và nhiễm trùng hỗn hợp
+- Nhiễm nấm, [kerion](https://dermnetnz.org/topics/kerion)
+- Nhiễm trùng do virus nghiêm trọng, ví dụ như [herpes simplex](https://dermnetnz.org/topics/herpes-simplex)
+- [Nhiễm trùng hoặc nhiễm ký sinh trùng](https://dermnetnz.org/topics/bugs)
+Áp xe nhiễm trùng có thể ảnh hưởng đến người khỏe mạnh, nhưng phổ biến hơn trong các trường hợp sau.
+- [Hội chứng chuyển hóa và béo phì](https://dermnetnz.org/topics/metabolic-syndrome)
+- [Hút thuốc](https://dermnetnz.org/topics/smoking-and-its-effects-on-the-skin)
+- [Bệnh tiểu đường](https://dermnetnz.org/topics/skin-problems-associated-with-diabetes-mellitus)
+- Suy giảm miễn dịch
+- [người sử dụng ma túy tiêm tĩnh mạch](https://dermnetnz.org/topics/skin-infections-in-people-who-inject-recreational-drugs)
+Áp xe vô trùng có thể vẫn tồn tại sau khi nhiễm trùng đã được loại bỏ vì nó chứa mô chết hoặc mô hoại tử và tế bào viêm.
+Áp xe vô trùng có thể xảy ra sau khi [tiêm corticosteroid](https://dermnetnz.org/topics/intralesional-steroid-injection) . Điều này dễ xảy ra hơn khi thuốc đã thấm vào mô mỡ dưới da . Dị vật hoặc phản ứng quá mẫn khác với vật liệu tiêm như collagen bò cũng có thể dẫn đến hình thành áp xe.
+Một số bệnh viêm da có thể gây phá hủy mô và hình thành áp xe khi không có tác nhân gây bệnh ( vi khuẩn truyền nhiễm ). Những bệnh này bao gồm:
+- [Viêm tuyến mồ hôi mủ](https://dermnetnz.org/topics/hidradenitis-suppurativa)
+- [Mụn trứng cá kết tụ](https://dermnetnz.org/topics/nodulocystic-acne) và [mụn trứng cá bùng phát](https://dermnetnz.org/topics/acne-fulminans)
+- [Bệnh da Crohn](https://dermnetnz.org/topics/crohn-skin-disease)
+- [Viêm mô mỡ dưới da](https://dermnetnz.org/topics/panniculitis) (viêm mô mỡ dưới da)
+
+---
+
+## Cần phải làm những xét nghiệm nào?
+
+Nếu không rõ nguyên nhân gây áp xe, có thể tiến hành các xét nghiệm sau.
+- Kính hiển vi và nhuộm Gram
+- Nuôi cấy vi khuẩn (chuẩn, kỵ khí và ở nhiệt độ thấp)
+- [Sinh](https://dermnetnz.org/topics/skin-biopsy) thiết mô lân cận
+Nếu bệnh nhân bị áp xe tái phát, hãy xem xét tình trạng thiếu hụt dinh dưỡng, đặc biệt là [sắt](https://dermnetnz.org/topics/iron-deficiency) ; [suy giảm miễn dịch](https://dermnetnz.org/topics/immunodeficiency) ; ức chế miễn dịch do thuốc như [steroid toàn thân](https://dermnetnz.org/topics/systemic-steroids) ; tiểu đường; hoặc tuần hoàn máu kém.
+
+---
+
+## Phương pháp điều trị áp xe là gì?
+
+Cần phải thăm khám ổ áp xe để loại bỏ dị vật và loại bỏ phần bên trong. Việc này đòi hỏi phải rạch một đường phẫu thuật và dẫn lưu mủ. Sau đó, khoang áp xe được rửa sạch bằng nước muối sinh lý. Nên để hở khoang áp xe để mủ có thể chảy ra ngoài. Đôi khi, cần phải đặt bấc nếu ổ áp xe sâu để giúp dẫn lưu mủ.
+[Thuốc kháng sinh](https://dermnetnz.org/topics/antibiotics) thường được kê đơn, lựa chọn tùy theo tác nhân gây áp xe và mức độ nhạy cảm của tác nhân đó.
+
+---
+
+## Ngăn ngừa sự hình thành áp xe tiếp theo
+
+Nếu áp xe là do nhiễm tụ cầu, nguy cơ tái phát có thể được giảm thiểu bằng cách:
+- Vệ sinh: rửa tay thường xuyên (hoặc dùng [nước rửa tay khô](https://dermnetnz.org/topics/hand-rub) ) và không dùng chung khăn tắm, quần áo, dao cạo râu và bàn chải đánh răng.
+- Giảm lây truyền cho người khác: khi bị nhiễm bệnh, không dùng chung thiết bị ở phòng tập thể dục cộng đồng hoặc đi xông hơi hoặc bơi lội.
+- Vứt bỏ khăn giấy và băng gạc vào túi kín hoặc đốt chúng.
+- Cẩn thận không làm xước da khi [cạo râu](https://dermnetnz.org/topics/shaving)
+- Ăn nhiều trái cây và rau tươi
+- Cố gắng đạt được cân nặng bình thường và không hút thuốc.

@@ -1,0 +1,116 @@
+# Hiện tượng Raynaud — thông tin bổ sung
+
+Thể loại:
+
+Các vấn đề về mạch máu
+
+SNOMED CT:
+
+195295006, 361131008, 356198000, 403674007
+
+**[Các vấn đề về mạch máu](https://dermnetnz.org/topics/topics?category=Blood+vessel+problems)**
+
+
+# **Hiện tượng Raynaud**
+
+Tác giả: Tiến sĩ Paul Maurice, Bác sĩ da liễu, Khoa Da liễu, Christchurch, New Zealand, 2004. Bản sửa đổi DermNet tháng 7 năm 2021
+
+---
+
+## Hiện tượng Raynaud là gì?
+
+Hiện tượng Raynaud là tình trạng giảm từng đợt lượng máu cung cấp cho ngón tay, ngón chân hoặc núm vú, chủ yếu xảy ra do phản ứng với lạnh (bệnh co thắt mạch máu).
+
+---
+
+## Ai mắc phải hiện tượng Raynaud?
+
+Hiện tượng Raynaud có thể được chia thành hai loại chính:
+- Hiện tượng Raynaud nguyên phát , còn được gọi là Bệnh Raynaud. Tình trạng này không liên quan đến bất kỳ tình trạng nào khác. Nó ảnh hưởng đến ít nhất một trong năm phụ nữ trẻ, và ít phổ biến hơn ở nam giới, trẻ em và người cao tuổi. Nó là sự phóng đại phản ứng bình thường của tuần hoàn với lạnh.
+- Hiện tượng Raynaud thứ phát có các triệu chứng tương tự do nguyên nhân hoặc tình trạng bệnh lý có thể xác định được.
+Hội chứng Raynaud nguyên phát phổ biến gấp đôi so với hội chứng Raynaud thứ phát. Nó thường bắt đầu ở độ tuổi dưới 25 và phổ biến ở phụ nữ gấp năm lần so với nam giới. Người bệnh thường nhớ lại tình trạng không chịu lạnh từ thời thơ ấu.
+Bệnh nhân mắc hiện tượng Raynaud thứ phát thường có các triệu chứng của một tình trạng liên quan (xem bên dưới) hoặc đang dùng thuốc có thể gây ra hiện tượng Raynaud như một tác dụng phụ.
+
+---
+
+## Nguyên nhân nào gây ra hiện tượng Raynaud thứ phát?
+
+
+### Bệnh mô liên kết
+Các bệnh lý mô liên kết được cho là do rối loạn điều hòa hệ miễn dịch. Bệnh lý mô liên kết tiềm ẩn có thể không biểu hiện rõ ràng khi hiện tượng Raynaud mới xuất hiện.
+[Xơ cứng hệ thống](https://dermnetnz.org/topics/systemic-sclerosis) (một dạng [xơ cứng bì](https://dermnetnz.org/topics/scleroderma) toàn thân ) là bệnh lý mô liên kết có khả năng biểu hiện hội chứng Raynaud cao nhất, đặc biệt là hội chứng CREST : vôi hóa, Raynaud, rối loạn chức năng thực quản , xơ cứng ngón tay , giãn mao mạch. Có thể xảy ra loét đầu ngón tay nếu co thắt mạch nghiêm trọng. [](https://dermnetnz.org/topics/scleroderma)
+Hiện tượng Raynaud cũng xảy ra trong [bệnh lupus ban đỏ hệ thống](https://dermnetnz.org/topics/systemic-lupus-erythematosus) , [viêm da cơ](https://dermnetnz.org/topics/adult-onset-dermatomyositis) , [hội chứng Sjögren](https://dermnetnz.org/topics/sjoegren-syndrome) và [bệnh u hạt có viêm đa mạch](https://dermnetnz.org/topics/granulomatosis-with-polyangiitis) .
+
+### Ma túy
+Các loại thuốc có thể làm trầm trọng thêm hoặc gây ra hiện tượng Raynaud bao gồm thuốc chẹn beta (được sử dụng rộng rãi cho bệnh đau thắt ngực , huyết áp cao hoặc lo âu), thuốc điều trị đau nửa đầu có chứa ergotamine hoặc methysergide, [bleomycin và](https://dermnetnz.org/topics/bleomycin) [các thuốc hóa trị](https://dermnetnz.org/topics/skin-toxicity-of-chemotherapy-drugs) khác ( điều trị ung thư ), clonidine (điều trị huyết áp cao, đau nửa đầu hoặc đỏ bừng mặt), bromocriptine (điều trị bệnh Parkinson và một số bệnh lý khác), imipramine (điều trị trầm cảm), và hiếm khi là [thuốc tránh thai đường uống](https://dermnetnz.org/topics/oral-contraceptive) . Nếu thuốc là nguyên nhân, việc ngừng thuốc có thể giúp cải thiện nhanh chóng.
+
+### Bệnh động mạch
+Hiện tượng Raynaud đôi khi có thể chỉ ra bệnh xơ vữa động mạch và [bệnh Buerger](https://dermnetnz.org/topics/thromboangiitis-obliterans) tiềm ẩn , đặc biệt là ở những người hút thuốc.
+
+### Rối loạn thần kinh
+Hiện tượng Raynaud có thể phát triển ở chi bị ảnh hưởng bởi đột quỵ và cũng có thể xảy ra trong bệnh đa xơ cứng và bại liệt. Trong một số trường hợp hiếm gặp, hiện tượng Raynaud là do một xương sườn thừa gây chèn ép lên dây thần kinh và mạch máu.
+
+### Nghề nghiệp
+Các nghề nghiệp liên quan đến hiện tượng Raynaud bao gồm công nhân xây dựng sử dụng công cụ rung (ví dụ, máy khoan khí nén) và công nhân công nghiệp tiếp xúc với quá trình trùng hợp vinyl clorua. [xem [Ngón tay trắng do rung](https://dermnetnz.org/topics/vibration-white-finger-hand-arm-vibration-syndrome) ]
+
+### Nguyên nhân khác nhau
+Các rối loạn làm tăng độ nhớt (độ đặc) của máu cũng có thể gây ra hiện tượng Raynaud, bằng cách làm giảm lưu lượng máu qua các mạch máu nhỏ ở ngón tay và ngón chân.
+Hiện tượng Raynaud có liên quan đến [bệnh suy giáp](https://dermnetnz.org/topics/hypothyroidism) .
+
+---
+
+## Các đặc điểm lâm sàng của hiện tượng Raynaud là gì?
+
+Cơn Raynaud khởi phát khi tiếp xúc với lạnh, chẳng hạn như ra ngoài gió lạnh hoặc ngâm tay vào nước lạnh. Rối loạn cảm xúc hoặc tâm lý đột ngột cũng có thể gây ra cơn. Tay thường bị ảnh hưởng nhiều nhất, nhưng đôi khi cũng ảnh hưởng đến chân và đôi khi đến núm vú, chóp mũi hoặc dái tai.
+Thông thường, một hoặc nhiều ngón tay sẽ chuyển sang màu trắng, tê và khi ấm lên sẽ chuyển sang màu xanh do lưu lượng máu chậm. Đôi khi, hiện tượng này kèm theo màu đỏ tươi và sưng tấy do lưu lượng máu tăng bù trừ trước khi màu da và cảm giác bình thường được phục hồi.
+Các cơn đau có thể gây đau đớn và kéo dài từ vài phút đến vài giờ.
+Hiện tượng Raynaud ở núm vú biểu hiện bằng đau vú, thường liên quan đến [thai kỳ](https://dermnetnz.org/topics/skin-changes-in-pregnancy) hoặc [cho con bú](https://dermnetnz.org/topics/lactation-and-medications-used-in-dermatology) . Nó có thể xảy ra sau phẫu thuật vú. Thông thường, nó biểu hiện bằng đau dữ dội hoặc nhói khi cho con bú do tiếp xúc với lạnh, và hai hoặc ba giai đoạn chuyển màu liên tiếp thường gặp là tái nhợt , xanh xao và/hoặc ban đỏ.
+![Hiện tượng Raynaud](https://dermnetnz.org/assets/Uploads/immune/raynaud1.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/immune/raynaud2.jpg)
+![Xơ cứng hệ thống](https://dermnetnz.org/assets/Uploads/immune/raynaud3.jpg)
+
+---
+
+## Biến chứng của hiện tượng Raynaud là gì?
+
+Hiện tượng Raynaud nghiêm trọng nếu không được điều trị hiếm khi có thể dẫn đến tổn thương vĩnh viễn ở các chi bị ảnh hưởng.
+
+---
+
+## Hiện tượng Raynaud được chẩn đoán như thế nào?
+
+Hiện tượng Raynaud là một chẩn đoán lâm sàng nhưng điều quan trọng là phải xem xét các nguyên nhân tiềm ẩn.
+Bạn nên tìm kiếm lời khuyên y tế vì những lý do sau:
+- Hiện tượng Raynaud, mặc dù vô hại ở dạng nguyên phát phổ biến hơn, có thể gây khó chịu và điều trị có thể làm giảm các triệu chứng
+- Xuất hiện hiện tượng Raynaud sau 25 tuổi mà không có khả năng chịu lạnh ở trẻ em
+- Việc chẩn đoán sớm các bệnh liên quan đến hiện tượng Raynaud thứ phát là rất quan trọng. Xét nghiệm huyết thanh học cũng có thể dự đoán nguy cơ mắc bệnh mô liên kết trong tương lai.
+Cần khai thác tiền sử và khám kỹ lưỡng, bao gồm soi mao mạch nếp gấp móng tay , để xác định xem các triệu chứng là do hiện tượng Raynaud nguyên phát hay thứ phát. Các xét nghiệm có thể bao gồm xét nghiệm máu, chụp X-quang hoặc các phương pháp chẩn đoán hình ảnh khác.
+
+---
+
+## Phương pháp điều trị hiện tượng Raynaud là gì?
+
+
+### Các biện pháp chung
+- [Bỏ thuốc lá](https://dermnetnz.org/topics/smoking-and-its-effects-on-the-skin) . Nicotine làm suy yếu quá trình lưu thông máu bằng cách co thắt mạch máu và khiến máu lưu thông ở các vùng ngoại vi như ngón tay chậm lại trong vài giờ.
+- Đảm bảo ngôi nhà của bạn được cách nhiệt tốt và ấm áp quanh năm.
+- Cố gắng tránh những hoạt động mà bạn biết từ kinh nghiệm có thể gây ra cơn đau.
+- Đeo găng tay ấm, tất dày và dép.
+- Các thiết bị hữu ích bao gồm túi chườm ấm tay chân và cốc uống nước giữ nhiệt. Túi chườm ấm mũi có thể giúp giảm tình trạng ban đỏ do hội chứng Raynaud mũi.
+- Liệu pháp tư vấn hoặc thư giãn có thể hữu ích nếu căng thẳng hoặc rối loạn cảm xúc là yếu tố kích hoạt.
+- Vung tay trong lúc lên cơn đau có thể giúp phục hồi lưu thông máu đến các ngón tay.
+
+### Các biện pháp y tế cụ thể
+Việc chẩn đoán bất kỳ bệnh lý tiềm ẩn nào hoặc khuynh hướng mắc bệnh đều có thể dẫn đến phương pháp điều trị cụ thể. Nếu có thể, nên ngừng sử dụng các thuốc gây co mạch .
+Thuốc điều trị đầu tay cho hội chứng Raynaud nguyên phát bao gồm thuốc chẹn kênh canxi, chẳng hạn như nifedipine hoặc diltiazem. Verapamil dường như không hiệu quả. Thuốc chẹn kênh canxi hoạt động bằng cách làm giãn các mạch máu nhỏ, do đó làm tăng lưu lượng máu đến ngoại vi. Liều dùng có thể được tăng dần nếu cần. Điều quan trọng là phải theo dõi huyết áp.
+Có những báo cáo đầy hứa hẹn rằng tiêm [độc tố botulinum](https://dermnetnz.org/topics/botulinum-toxin) vào các bó mạch thần kinh ở cung lòng bàn tay tại gốc các ngón tay có thể làm giảm đau nhanh chóng và chữa lành vết loét ở ngón tay.
+Bệnh rất nặng dẫn đến loét hoặc tiêu xương đầu ngón tay có thể được điều trị bằng cách truyền tĩnh mạch prostacyclin. Phương pháp này yêu cầu bệnh nhân phải nhập viện vài ngày.
+
+### Các biện pháp phẫu thuật
+Một số rất ít bệnh nhân mắc hội chứng Raynaud nghiêm trọng và khó chữa có thể cần phẫu thuật cắt dây thần kinh giao cảm. Phẫu thuật này bao gồm việc cắt các dây thần kinh gây co thắt mạch máu ngoại vi. Thủ thuật này có thể gây ra các biến chứng và tỷ lệ thành công khá thấp, vì vậy chỉ nên cân nhắc khi tất cả các phương pháp khác đều thất bại.
+
+---
+
+## Hậu quả của hiện tượng Raynaud là gì?
+
+Tùy thuộc vào nguyên nhân, hiện tượng Raynaud có thể kéo dài trong thời gian dài hoặc có thể tự cải thiện.

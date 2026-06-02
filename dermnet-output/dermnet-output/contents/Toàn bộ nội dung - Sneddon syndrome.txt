@@ -1,0 +1,151 @@
+# Hội chứng Sneddon — thông tin bổ sung
+
+Thể loại:
+
+Bệnh di truyền, bệnh hệ thống
+
+SNOMED CT:
+
+716745004, 26843008
+
+**[Bệnh di truyền, bệnh hệ thống](https://dermnetnz.org/topics/topics?category=Genetic)**
+
+
+# **Hội chứng Sneddon**
+
+Tác giả: Tiến sĩ Avee Naidoo, Bác sĩ Nội trú, Khoa Y, Đại học Toronto, Toronto, Canada. Tổng biên tập DermNet New Zealand: Phó Giáo sư Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand. Biên tập bởi Gus Mitchell. Tháng 7 năm 2020.
+
+---
+
+## Hội chứng Sneddon là gì?
+
+Hội chứng Sneddon là một bệnh lý mạch máu thần kinh da hiếm gặp , tiến triển chậm . Bệnh đặc trưng bởi sự kết hợp của chứng chảy máu não cục bộ [(livingo racemosa)](https://dermnetnz.org/topics/livedo-reticularis) và các biến cố mạch máu não tái phát , chẳng hạn như cơn thiếu máu não thoáng qua và đột quỵ. [](https://dermnetnz.org/topics/livedo-reticularis)
+Hội chứng Sneddon còn được gọi là hội chứng Ehrmann-Sneddon, hội chứng Livingo racemose và tai biến mạch máu não, và hội chứng Livingo reticularis và tai biến mạch máu não.
+
+---
+
+## Ai mắc hội chứng Sneddon?
+
+Tỷ lệ mắc hội chứng Sneddon là khoảng bốn phần triệu mỗi năm trong dân số nói chung. Hội chứng Sneddon thường được chẩn đoán lần đầu ở phụ nữ trong độ tuổi 20–42. Dường như không có sự khác biệt về chủng tộc, mặc dù số lượng báo cáo còn ít.
+Hội chứng Sneddon thường liên quan đến [các bệnh tự miễn](https://dermnetnz.org/topics/autoimmune-diseases-in-dermatology) , chẳng hạn như [hội chứng kháng phospholipid](https://dermnetnz.org/topics/antiphospholipid-syndrome) và [bệnh lupus ban đỏ hệ thống](https://dermnetnz.org/topics/systemic-lupus-erythematosus) .
+
+---
+
+## Nguyên nhân gây ra hội chứng Sneddon là gì?
+
+Vì các dấu hiệu kháng thể kháng phospholipid có mặt ở 50–80% bệnh nhân mắc hội chứng Sneddon nên nó được đưa vào phổ lâm sàng của [hội chứng kháng phospholipid](https://dermnetnz.org/topics/antiphospholipid-syndrome) nguyên phát . [](https://dermnetnz.org/topics/antiphospholipid-syndrome)
+Thuyên tắc mạch máu và tái thông các mạch máu nhỏ và vừa ở da và não là do bệnh lý đông máu hoặc tăng đông máu, liên quan đến nồng độ protein C và protein S hoạt hóa giảm và nồng độ yếu tố VII tăng cao.
+Hội chứng Sneddon có thể di truyền theo gen trội trên nhiễm sắc thể thường với mức độ thâm nhập khác nhau ở một số trường hợp gia đình hiếm gặp. Đột biến mất chức năng đã được xác định ở vùng ứng cử viên 1 của hội chứng mắt mèo (CECR1) trên nhiễm sắc thể 22, mã hóa adenosine deaminase 2 (ADA2).
+
+---
+
+## Các đặc điểm lâm sàng của hội chứng Sneddon là gì?
+
+Hội chứng Sneddon có biểu hiện về da và thần kinh .
+
+### Biểu hiện da liễu
+![Livedo racemosa](https://dermnetnz.org/assets/Uploads/livedo-racemosa-01.jpg)
+![Livedo racemosa](https://dermnetnz.org/assets/Uploads/livedo-racemosa-02.jpg)
+![Bệnh xanh tím đầu chi](https://dermnetnz.org/assets/Uploads/vascular/w/acrocyanosis-1.jpg)
+Hội chứng Sneddon được đặc trưng bởi tình trạng [livedo racemosa](https://dermnetnz.org/topics/livedo-reticularis) , xuất hiện trước khi đột quỵ tái phát hơn 10 năm [1,2]. Tầm quan trọng của livedo racemosa, thường bắt đầu ở thời thơ ấu, chỉ được nhận biết ở độ tuổi 20 và 30 sau khi các biến cố mạch máu não bắt đầu.
+- Bệnh Livedo racemosa là do tắc nghẽn dai dẳng dòng máu ngoại vi do tắc nghẽn các động mạch nhỏ hoặc vừa .
+- Bệnh biểu hiện dưới dạng các vòng tròn đứt gãy màu hồng sẫm hoặc tím, phân nhánh, giống như lưới .
+- Không giống như livedo reticularis, tình trạng đổi màu da vẫn không thay đổi khi trời ấm lên, mặc dù tình trạng này rõ rệt hơn khi tiếp xúc với thời tiết lạnh và khi mang thai.
+- Bệnh Livedo racemosa ban đầu ảnh hưởng đến mông và lưng dưới.
+- Dần dần, nó sẽ tác động đến phần lưng của đùi và cánh tay.
+- Bệnh hiếm khi ảnh hưởng đến mặt, tay hoặc chân.
+- Các tổn thương không đau và không kèm theo phù nề , loét hoặc ngứa.
+Các biểu hiện da liễu khác liên quan đến hội chứng Sneddon bao gồm:
+- [Bệnh xanh tím đầu chi](https://dermnetnz.org/topics/acrocyanosis)
+- [Hiện tượng Raynaud](https://dermnetnz.org/topics/raynaud-phenomenon) .
+
+### Biểu hiện thần kinh
+Các biểu hiện thần kinh liên quan đến hội chứng Sneddon thường biểu hiện theo ba giai đoạn.
+- Các triệu chứng báo trước có thể bao gồm chóng mặt , choáng váng và đau đầu.
+- Ở giai đoạn thứ hai, bệnh nhân bị các cơn đột quỵ hoặc cơn thiếu máu não thoáng qua tái phát do thiếu máu cục bộ ở các vùng được tưới máu bởi động mạch não giữa hoặc sau . Các triệu chứng điển hình bao gồm mất ngôn ngữ, khiếm khuyết thị trường, liệt nửa người và rối loạn cảm giác.
+- Giai đoạn thứ ba đặc trưng bởi suy giảm nhận thức đáng kể và sa sút trí tuệ khởi phát sớm, do ảnh hưởng tích lũy của nhiều nhồi máu não. Rối loạn chức năng nhận thức , ảnh hưởng đến trí nhớ, sự chú ý và các lĩnh vực thị giác không gian, cùng các rối loạn tâm thần , chẳng hạn như trầm cảm, được báo cáo ở khoảng 77% bệnh nhân mắc hội chứng Sneddon.
+Biến chứng mạch máu não của hội chứng Sneddon bao gồm:
+- Đột quỵ thiếu máu cục bộ
+- Đột quỵ xuất huyết (hiếm gặp)
+- Động kinh
+- Rối loạn vận động (hiếm gặp), chẳng hạn như múa giật hoặc run tiểu não.
+
+---
+
+## Hội chứng Sneddon có những biến chứng gì?
+
+Các biến chứng tim mạch của hội chứng Sneddon bao gồm:
+- Bệnh van hai lá hoặc van động mạch chủ
+- Viêm nội tâm mạc Libman-Sacks
+- Tăng huyết áp tâm thu không ổn định .
+Các biến chứng về mắt của hội chứng Sneddon bao gồm:
+- Vi phình động mạch đĩa thị
+- Phù hoàng điểm
+- Tắc nghẽn nhánh động mạch võng mạc .
+Biến chứng về thận rất hiếm gặp:
+- Độ thanh thải creatinin bị suy giảm
+- Thuyên tắc động mạch thận.
+
+---
+
+## Hội chứng Sneddon được chẩn đoán như thế nào?
+
+Tiêu chuẩn chẩn đoán hội chứng Sneddon bao gồm biểu hiện của [bệnh da liễu](https://dermnetnz.org/topics/livedo-reticularis) với các dấu hiệu mô bệnh học đặc trưng trên [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) và các khiếm khuyết thần kinh khu trú . Tiền sử thiếu máu cục bộ thoáng qua hoặc đột quỵ hoặc bằng chứng về các triệu chứng này trên hình ảnh học có thể hỗ trợ chẩn đoán.
+Bệnh nhân nghi ngờ mắc hội chứng Sneddon nên xét nghiệm máu để sàng lọc bệnh tự miễn và bệnh đông máu, chụp MRI não , đánh giá tim mạch và [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) .
+Các tổn thương được xác định bằng MRI thường nhỏ, đa ổ và thường nằm ở chất trắng sâu quanh não thất hoặc cầu não. Có tới 75% bệnh nhân mắc hội chứng Sneddon có hình ảnh chụp mạch não bất thường.
+[Trên sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) sâu , mô bệnh học cho thấy bệnh lý huyết khối mạch máu không viêm liên quan đến các động mạch da nhỏ và vừa dưới da . Độ nhạy tăng theo số lượng sinh thiết da sâu : độ nhạy 27% với một sinh thiết, 53% với hai sinh thiết và 80% với ba sinh thiết.
+Cần phải tiến hành điều tra mở rộng đối với những bệnh nhân mắc bệnh livedo racemosa hoặc đột quỵ để loại trừ các bệnh khác trong chẩn đoán phân biệt.
+
+### Phân loại
+Hội chứng Sneddon được phân loại là [kháng thể kháng phospholipid](https://dermnetnz.org/topics/antiphospholipid-syndrome) âm tính hoặc dương tính, dựa trên sự hiện diện của bất kỳ 3 kháng thể kháng phospholipid nào : kháng cardiolipin, kháng đông lupus và kháng beta 2- glycoprotein I [2].
+Nó cũng có thể được phân loại là nguyên phát ( vô căn ) hoặc thứ phát sau bệnh huyết khối hoặc [bệnh tự miễn](https://dermnetnz.org/topics/autoimmune-diseases-in-dermatology) đã được xác định , chẳng hạn như [bệnh lupus ban đỏ](https://dermnetnz.org/topics/cutaneous-lupus-erythematosus) [1]. Hội chứng Sneddon đôi khi cũng được phân loại là [viêm mạch](https://dermnetnz.org/topics/urticarial-vasculitis) .
+
+---
+
+## Chẩn đoán phân biệt cho hội chứng Sneddon là gì?
+
+Chẩn đoán phân biệt cho hội chứng Sneddon có thể bao gồm:
+- Congenital livedo reticularis [Cutis marmorata](https://dermnetnz.org/topics/cutis-marmorata)
+- [Cutis marmorata](https://dermnetnz.org/topics/cutis-marmorata)
+- Một tình trạng huyết học khác [Hội chứng kháng phospholipid](https://dermnetnz.org/topics/antiphospholipid-syndrome) [Bệnh Cryoglobulinemia](https://dermnetnz.org/topics/cryoglobulinaemia) Bệnh đa hồng cầu nguyên phát
+- [Hội chứng kháng phospholipid](https://dermnetnz.org/topics/antiphospholipid-syndrome)
+- [Bệnh Cryoglobulinemia](https://dermnetnz.org/topics/cryoglobulinaemia)
+- Bệnh đa hồng cầu nguyên phát
+- [Bệnh tự miễn dịch](https://dermnetnz.org/topics/autoimmune-diseases-in-dermatology) [Viêm đa động mạch dạng nút](https://dermnetnz.org/topics/cutaneous-polyarteritis-nodosa) [Viêm mạch](https://dermnetnz.org/topics/urticarial-vasculitis) hệ thống [](https://dermnetnz.org/topics/urticarial-vasculitis) [Bệnh lý mạch máu dạng sống](https://dermnetnz.org/topics/livedoid-vasculopathy)
+- [Viêm đa động mạch dạng nút](https://dermnetnz.org/topics/cutaneous-polyarteritis-nodosa)
+- [Viêm mạch](https://dermnetnz.org/topics/urticarial-vasculitis) hệ thống [](https://dermnetnz.org/topics/urticarial-vasculitis)
+- [Bệnh lý mạch máu dạng sống](https://dermnetnz.org/topics/livedoid-vasculopathy)
+- Bệnh tim dẫn đến nhiều thuyên tắc
+- tân sinh [U lympho](https://dermnetnz.org/topics/lymphoma) Bệnh bạch cầu
+- [U lympho](https://dermnetnz.org/topics/lymphoma)
+- Bệnh bạch cầu
+- Sự nhiễm trùng [Bệnh giang mai](https://dermnetnz.org/topics/syphilis) [Bệnh Lyme](https://dermnetnz.org/topics/lyme-disease) [Bệnh não mô cầu](https://dermnetnz.org/topics/meningococcal-disease)
+- [Bệnh giang mai](https://dermnetnz.org/topics/syphilis)
+- [Bệnh Lyme](https://dermnetnz.org/topics/lyme-disease)
+- [Bệnh não mô cầu](https://dermnetnz.org/topics/meningococcal-disease)
+- Tác dụng của thuốc Amantadine [Minocycline](https://dermnetnz.org/topics/tetracycline) Quinidine
+- Amantadine
+- [Minocycline](https://dermnetnz.org/topics/tetracycline)
+- Quinidine
+- Hội chứng Divry van Bogaert.
+
+---
+
+## Phương pháp điều trị hội chứng Sneddon là gì?
+
+Phương pháp điều trị dựa trên các báo cáo giai thoại và bao gồm:
+- Chống đông máu dài hạn — ở những bệnh nhân dương tính với kháng thể kháng phospholipid, khuyến cáo dùng [warfarin . Bệnh nhân không có kháng thể kháng phospholipid có thể được hưởng lợi từ](https://dermnetnz.org/topics/warfarin-induced-skin-necrosis) [liệu pháp chống tiểu cầu.](https://dermnetnz.org/topics/anticoagulants-and-antiplatelet-agents)
+- Prostaglandin E1
+- Thuốc ức chế men chuyển angiotensin (ACE)
+- Nifedipine – cho [hiện tượng Raynaud](https://dermnetnz.org/topics/raynaud-phenomenon)
+- [Thuốc ức chế miễn dịch](https://dermnetnz.org/topics/drug-induced-immunosuppression) , chẳng hạn như [cyclophosphamide](https://dermnetnz.org/topics/cyclophosphamide) .
+Những thay đổi lối sống được khuyến nghị cho hội chứng Sneddon bao gồm:
+- Bỏ thuốc [lá](https://dermnetnz.org/topics/smoking-and-its-effects-on-the-skin)
+- Ngừng sử dụng thuốc tránh thai đường uống có chứa estrogen
+- Giảm các yếu tố nguy cơ tim mạch có thể thay đổi được.
+
+---
+
+## Hậu quả của hội chứng Sneddon là gì?
+
+Hội chứng Sneddon là một căn bệnh mãn tính , tiến triển, thường dẫn đến suy giảm nhận thức và chứng mất trí sớm do tác động tích lũy của nhiều cơn nhồi máu não.

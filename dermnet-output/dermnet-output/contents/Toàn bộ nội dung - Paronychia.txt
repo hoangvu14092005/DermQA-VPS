@@ -1,0 +1,133 @@
+# Viêm quanh móng — thông tin bổ sung
+
+Thể loại:
+
+Nhiễm trùng
+
+SNOMED CT:
+
+71906005, 200744008, 187017007, 247517004, 402930002, 773296007
+
+**[Nhiễm trùng](https://dermnetnz.org/topics/topics?category=Infections)**
+
+
+# **Viêm quanh móng**
+
+Tác giả: Hon A/Prof Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand, 1997.Cập nhật bởi Tiến sĩJannet Gomez, tháng 8 năm 2017.
+
+---
+
+## Viêm quanh móng là gì?
+
+Viêm quanh móng là tình trạng viêm da quanh móng tay hoặc móng chân. Tình trạng này có thể cấp tính (< 6 tuần) hoặc mãn tính (kéo dài > 6 tuần).
+Viêm quanh móng còn được gọi là bệnh whitlow. Bệnh này có thể liên quan đến tội phạm.
+![Không có caption](https://dermnetnz.org/assets/Uploads/fungal/paron1.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/fungal/s/paron2.jpg)
+![](https://dermnetnz.org/assets/collection/Paronychia-SOC/paronychia-00019.jpg)
+
+---
+
+## Ai bị viêm quanh móng?
+
+Viêm quanh móng cấp tính có thể ảnh hưởng đến bất kỳ ai. Tuy nhiên, bệnh thường xảy ra sau khi da bị rách, đặc biệt là giữa nếp gấp móng / lớp biểu bì gần móng và phiến móng. Ví dụ:
+- Nếu móng tay bị cắn ( [onychophagia](https://dermnetnz.org/topics/onychophagia) ) hoặc nếp gấp móng tay thường xuyên bị cắn (ví dụ, [biến dạng móng do thói quen](https://dermnetnz.org/topics/habit-tic-deformity) )
+- Ở trẻ sơ sinh mút ngón tay hoặc ngón cái
+- Sau khi làm móng
+- Móng chân mọc ngược ( [onychocryptosis](https://dermnetnz.org/topics/ingrown-toenail) )
+- Về việc sử dụng móng tay giả hoặc móng tay điêu khắc
+- Điều trị bằng [retinoid đường uống](https://dermnetnz.org/topics/oral-retinoids) làm khô da ( [acitretin](https://dermnetnz.org/topics/acitretin) , [isotretinoin](https://dermnetnz.org/topics/isotretinoin) )
+- Các loại thuốc khác, bao gồm [thụ thể yếu tố tăng trưởng biểu bì](https://dermnetnz.org/topics/egfr-and-protein-kinase-inhibitors) và chất ức chế BRAF ( [vemurafenib](https://dermnetnz.org/topics/vemurafenib) , [dabrafenib](https://dermnetnz.org/topics/dabrafenib) ) [](https://dermnetnz.org/topics/vemurafenib) [](https://dermnetnz.org/topics/dabrafenib)
+Viêm quanh móng mãn tính chủ yếu xảy ra ở những người bị [viêm da tay](https://dermnetnz.org/topics/hand-dermatitis) hoặc những người thường xuyên có bàn tay lạnh và ướt, chẳng hạn như:
+- Nông dân chăn nuôi bò sữa
+- Ngư dân
+- Người pha chế
+- [Người dọn dẹp](https://dermnetnz.org/topics/skin-problems-in-professional-cleaners)
+- [Các bà nội trợ](https://dermnetnz.org/topics/occupational-skin-disorders-in-homemakers)
+- Những người có tuần hoàn máu kém
+Nhiễm trùng da cấp tính và mãn tính có xu hướng xảy ra thường xuyên hơn và nghiêm trọng hơn ở những bệnh nhân mắc [bệnh tiểu đường](https://dermnetnz.org/topics/skin-problems-associated-with-diabetes-mellitus) hoặc suy nhược mãn tính, hoặc những người bị [suy giảm miễn dịch](https://dermnetnz.org/topics/drug-induced-immunosuppression) do thuốc hoặc bệnh tật.
+
+---
+
+## Nguyên nhân nào gây ra viêm quanh móng?
+
+Viêm quanh móng cấp tính thường do nhiễm khuẩn Staphylococcus [aureus](https://dermnetnz.org/topics/staphylococcal-skin-infection) (có thể [đa kháng thuốc](https://dermnetnz.org/topics/methicillin-resistant-staphylococcus-aureus) ), [Streptococcus pyogenes](https://dermnetnz.org/topics/streptococcal-skin-infections) , [Pseudomonas](https://dermnetnz.org/topics/pseudomonas-skin-infections) hoặc các tác nhân gây bệnh do vi khuẩn khác. Viêm quanh móng cũng có thể do virus gây mụn rộp, [Herpes simplex](https://dermnetnz.org/topics/herpes-simplex) ( [herpetic whitlow](https://dermnetnz.org/topics/herpetic-whitlow) ), và nấm men, [Candida](https://dermnetnz.org/topics/candida) [albican](https://dermnetnz.org/topics/candida) . [](https://dermnetnz.org/topics/staphylococcal-skin-infection) [](https://dermnetnz.org/topics/methicillin-resistant-staphylococcus-aureus) [](https://dermnetnz.org/topics/streptococcal-skin-infections) [](https://dermnetnz.org/topics/pseudomonas-skin-infections) [](https://dermnetnz.org/topics/herpes-simplex) [](https://dermnetnz.org/topics/herpetic-whitlow) [](https://dermnetnz.org/topics/candida)
+Nguyên nhân gây viêm quanh móng mãn tính vẫn chưa được hiểu rõ hoàn toàn. Trong nhiều trường hợp, nguyên nhân là do [viêm da](https://dermnetnz.org/topics/dermatitis) ở nếp gấp móng. Thông thường, có thể nuôi cấy nhiều loại vi sinh vật khác nhau, đặc biệt là [Candida albicans](https://dermnetnz.org/topics/candida) và trực khuẩn Gram âm, [Pseudomonas](https://dermnetnz.org/topics/pseudomonas-skin-infections) .
+
+---
+
+## Các đặc điểm lâm sàng của viêm quanh móng là gì?
+
+
+### Viêm quanh móng cấp tính
+Viêm quanh móng cấp tính phát triển nhanh chóng trong vài giờ và thường ảnh hưởng đến một nếp móng duy nhất. Các triệu chứng bao gồm đau, đỏ và sưng.
+Nếu nguyên nhân là do herpes simplex ( [viêm da đầu do herpes](https://dermnetnz.org/topics/herpetic-whitlow) ), có thể quan sát thấy nhiều mụn nước mềm. Đôi khi mủ vàng xuất hiện dưới lớp biểu bì và có thể tiến triển thành [áp xe](https://dermnetnz.org/topics/cutaneous-abscess) . Móng có thể bị bong ra ( [viêm móng](https://dermnetnz.org/topics/onycholysis) ). Viêm quanh móng cấp tính do [S. pyogenes](https://dermnetnz.org/topics/streptococcal-skin-infections) có thể kèm theo sốt , viêm mạch bạch huyết và sưng hạch bạch huyết mềm .
+[Bệnh nấm candida](https://dermnetnz.org/topics/candida) cấp tính thường lây nhiễm ở nếp gấp móng tay gần.
+![Viêm quanh móng và móng chân mọc ngược ở một vận động viên](https://dermnetnz.org/assets/Uploads/fungal/paron3.jpg)
+![Viêm quanh móng do tụ cầu cấp tính](https://dermnetnz.org/assets/Uploads/fungal/paron7.jpg)
+![Viêm quanh móng do herpes cấp tính](https://dermnetnz.org/assets/Uploads/fungal/paron9.jpg)
+
+### Viêm quanh móng mãn tính
+Viêm quanh móng mãn tính là một quá trình diễn biến dần dần. Nó có thể bắt đầu ở một nếp móng, đặc biệt là nếp móng gần, nhưng thường lan sang hai bên và sang nhiều ngón tay khác. Mỗi nếp móng bị ảnh hưởng sưng lên và bong ra khỏi phiến móng, tạo điều kiện cho vi khuẩn và chất gây kích ứng xâm nhập. Vùng da bị ảnh hưởng có thể đỏ và đau theo thời gian, và đôi khi có thể chảy ra một ít mủ (trắng, vàng hoặc xanh lá cây) từ dưới lớp biểu bì.
+Móng tay dày lên và bị biến dạng, thường có các đường gờ ngang .
+![Sưng nếp gấp móng tay](https://dermnetnz.org/assets/Uploads/fungal/paron4.jpg)
+![Bệnh loạn dưỡng móng](https://dermnetnz.org/assets/Uploads/fungal/paron5.jpg)
+![Bệnh chàm](https://dermnetnz.org/assets/Uploads/fungal/paron6.jpg)
+[Xem thêm hình ảnh về bệnh viêm quanh móng](https://dermnetnz-org.translate.goog/topics/paronychia-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp) ...
+
+---
+
+## Biến chứng của viêm quanh móng là gì?
+
+Viêm quanh móng cấp tính có thể lan rộng gây nhiễm trùng tay nghiêm trọng ( [viêm mô tế bào](https://dermnetnz.org/topics/cellulitis) ) và có thể ảnh hưởng đến các gân bên dưới (viêm gân nhiễm trùng).
+Biến chứng chính của viêm quanh móng mãn tính là [loạn dưỡng móng . Tình trạng này thường đi kèm với các mảng móng bị biến dạng, có gờ. Móng có thể chuyển sang màu vàng hoặc xanh lá cây/đen và giòn. Sau khi hồi phục,](https://dermnetnz.org/topics/nail-disorders) móng có thể mất đến một năm để mọc lại bình thường.
+
+---
+
+## Viêm quanh móng được chẩn đoán như thế nào?
+
+Viêm quanh móng là chẩn đoán lâm sàng, thường được hỗ trợ bởi bằng chứng nhiễm trùng trong phòng thí nghiệm.
+- Kính hiển vi nhuộm Gram có thể phát hiện vi khuẩn
+- Kính hiển vi kali hydroxit có thể phát hiện nấm
+- [](https://dermnetnz.org/topics/laboratory-tests-for-bacterial-infections) Nuôi cấy [vi khuẩn](https://dermnetnz.org/topics/laboratory-tests-for-bacterial-infections)
+- [](https://dermnetnz.org/topics/laboratory-tests-for-viral-infections) Tăm bông [virus](https://dermnetnz.org/topics/laboratory-tests-for-viral-infections)
+- [Tzanck bôi nhọ](https://dermnetnz.org/topics/tzanck-smear)
+- Cắt móng tay để nuôi cấy ( [nấm học](https://dermnetnz.org/topics/laboratory-tests-for-fungal-infection) ).
+
+---
+
+## Phương pháp điều trị viêm quanh móng là gì?
+
+
+### Viêm quanh móng cấp tính
+- Ngâm ngón tay bị ảnh hưởng vào nước ấm, nhiều lần mỗi ngày.
+- [Thuốc sát trùng](https://dermnetnz.org/topics/antiseptic) tại chỗ có thể được kê đơn cho trường hợp nhiễm trùng nhẹ, tại chỗ .
+- [Thuốc kháng sinh](https://dermnetnz.org/topics/treatments/antibiotics.html) đường uống có thể cần thiết cho tình trạng nhiễm trùng do vi khuẩn nghiêm trọng hoặc kéo dài; thường sẽ kê đơn thuốc [tetracycline](https://dermnetnz.org/topics/tetracycline) , chẳng hạn như doxycycline.
+- Cân nhắc điều trị sớm bằng [aciclovir](https://dermnetnz.org/topics/treatments/aciclovir.html) trong trường hợp nhiễm [herpes simplex](https://dermnetnz.org/topics/viral/herpes-simplex.html) nặng ( [viêm họng do herpes](https://dermnetnz.org/topics/herpetic-whitlow) ).
+- Có thể cần phải rạch và dẫn lưu ổ áp xe [,](https://dermnetnz.org/topics/bacterial/abscess.html) sau đó rửa sạch và băng lại bằng gạc.
+- Trong một số trường hợp hiếm gặp, móng phải được tháo ra để mủ chảy ra.
+
+### Viêm quanh móng mãn tính
+Chú ý đến các yếu tố gây bệnh.
+- Giữ tay khô và ấm.
+- Tránh làm việc ở nơi ẩm ướt hoặc sử dụng găng tay chống thấm nước hoàn toàn có lót cotton.
+- Giữ móng tay thật sạch sẽ.
+- Rửa sạch bằng xà phòng và nước sau khi làm việc bẩn, xả sạch và lau khô cẩn thận.
+- Thoa kem [dưỡng](https://dermnetnz.org/topics/treatments/emollients.html) da tay thường xuyên – kem dưỡng có thành phần dimethicone có thể có tác dụng.
+Việc điều trị nên tập trung vào [bệnh viêm da](https://dermnetnz.org/topics/dermatitis/dermatitis.html) và bất kỳ vi khuẩn nào phát triển trên môi trường nuôi cấy [1].
+- [](https://dermnetnz.org/topics/treatments/topical-steroids.html) Thuốc mỡ [corticosteroid bôi ngoài da](https://dermnetnz.org/topics/treatments/topical-steroids.html) được sử dụng trong 2–4 tuần và lặp lại khi bệnh bùng phát.
+- [Thuốc mỡ Tacrolimus](https://dermnetnz.org/topics/tacrolimus) là một phương pháp thay thế khi bệnh viêm da không đáp ứng với phương pháp điều trị thông thường [2].
+- [Tiêm steroid vào tổn thương](https://dermnetnz.org/topics/intralesional-steroid-injection) đôi khi được sử dụng trong những trường hợp kháng thuốc.
+- [](https://dermnetnz.org/topics/treatments/antiseptics.html) Có thể sử dụng [thuốc sát trùng](https://dermnetnz.org/topics/treatments/antiseptics.html) , [thuốc bôi hoặc dung dịch chống nấm trong nhiều tháng.](https://dermnetnz.org/topics/treatments/topical-antifungal.html)
+- [Thuốc chống nấm đường uống](https://dermnetnz.org/topics/treatments/oral-antifungal.html) ( [itraconazole](https://dermnetnz.org/topics/treatments/itraconazole.html) hoặc [fluconazole](https://dermnetnz.org/topics/treatments/fluconazole.html) ), nếu xác nhận nhiễm [C. albicans](https://dermnetnz.org/topics/fungal/candida.html) .
+Quản lý khác
+- Bệnh nhân bị tiểu đường và bệnh mạch máu có nhiễm trùng quanh móng chân nên được kiểm tra các dấu hiệu của [viêm mô tế bào](https://translate.google.com/website) .
+- Có thể cần phải phẫu thuật cắt bỏ nếp gấp móng gần.
+- Phẫu thuật tạo túi ở móng bao gồm việc phẫu thuật cắt bỏ một dải da hẹp bên cạnh móng để giảm nguy cơ nhiễm trùng [3].
+- Kỹ thuật lăn Thụy Sĩ có ưu điểm là giữ được phiến móng và phục hồi nhanh hơn [4].
+
+---
+
+## Triển vọng của bệnh viêm quanh móng là gì?
+
+Viêm quanh móng cấp tính thường khỏi hoàn toàn sau vài ngày và hiếm khi tái phát ở những người khỏe mạnh.
+Viêm quanh móng mãn tính có thể kéo dài trong nhiều tháng hoặc lâu hơn và có thể tái phát ở những người có cơ địa dễ mắc bệnh.

@@ -1,0 +1,124 @@
+# Erysipelas — thông tin bổ sung
+
+Thể loại:
+
+Nhiễm trùng
+
+SNOMED CT:
+
+44653001, 240425002, 402924002
+
+**[Nhiễm trùng](https://dermnetnz.org/topics/topics?category=Infections)**
+
+
+# **Viêm quầng**
+
+Tác giả: Tiến sĩ Amy Stanway, Chuyên viên đăng ký da liễu, Bệnh viện Waikato, Hamilton, New Zealand, 2001. Được xem xét và cập nhật bởi Tiến sĩ Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand; Vanessa Ngan, Biên tập viên, tháng 6 năm 2014. Được cập nhật thêm bởi Tiến sĩ Jannet Gomez, Sinh viên sau đại học chuyên ngành Da liễu lâm sàng, Đại học Queen Mary, London, Vương quốc Anh, tháng 2 năm 2016.
+
+---
+
+## Viêm quầng là gì?
+
+Viêm quầng là một dạng [viêm](https://dermnetnz.org/topics/cellulitis) mô tế bào nông , một [bệnh nhiễm trùng do vi khuẩn](https://dermnetnz.org/topics/bacterial-skin-infections) có khả năng gây ảnh hưởng nghiêm trọng đến da.
+Viêm quầng ảnh hưởng đến lớp hạ bì trên và lan đến các mạch bạch huyết nông trên da. Bệnh này còn được gọi là lửa Thánh Anthony do tình trạng phát ban dữ dội đi kèm.
+[GALLERY 5229: erysipelas1.jpg HOẶC erysipelas1.jpg HOẶC erysipelas4.jpg]
+
+---
+
+## Ai bị bệnh viêm quầng?
+
+Viêm quầng thường ảnh hưởng đến trẻ sơ sinh và người lớn tuổi nhưng có thể ảnh hưởng đến mọi lứa tuổi. Các yếu tố nguy cơ tương tự như các dạng [viêm mô tế bào](https://dermnetnz.org/topics/cellulitis) khác . Chúng có thể bao gồm:
+- Các tập trước của bệnh viêm quầng
+- Hàng rào bảo vệ da bị tổn thương do [côn trùng cắn](https://dermnetnz.org/topics/arthropod-bites-and-stings) , [loét](https://dermnetnz.org/topics/erosions-and-ulcers) và các bệnh mãn tính về da như [bệnh vẩy nến](https://dermnetnz.org/topics/psoriasis) , bệnh nấm [da chân](https://dermnetnz.org/topics/athletes-foot) và [bệnh chàm](https://dermnetnz.org/topics/dermatitis)
+- Chấn thương hiện tại hoặc trước đây (ví dụ: chấn thương , [vết thương](https://dermnetnz.org/topics/wounds) phẫu thuật , [xạ trị](https://dermnetnz.org/topics/radiotherapy-for-malignant-skin-diseases) )
+- Ở trẻ sơ sinh, dây rốn bị hở và tổn thương tại vị trí tiêm chủng
+- Nhiễm trùng mũi họng
+- Bệnh tĩnh mạch (ví dụ, [bệnh chàm do trọng lực](https://dermnetnz.org/topics/venous-eczema) , [loét chân](https://dermnetnz.org/topics/leg-ulcer) ) và [phù bạch huyết](https://dermnetnz.org/topics/lymphoedema)
+- [Thiếu hụt](https://dermnetnz.org/topics/immunodeficiency) hoặc suy giảm miễn dịch, chẳng hạn như [Bệnh tiểu đường](https://dermnetnz.org/topics/skin-problems-associated-with-diabetes-mellitus) [Nghiện rượu](https://dermnetnz.org/topics/cutaneous-adverse-effects-of-alcohol) [Béo phì](https://dermnetnz.org/topics/metabolic-syndrome) [Virus gây suy giảm miễn dịch ở người (HIV)](https://dermnetnz.org/topics/skin-conditions-relating-to-hiv-infection)
+- [Bệnh tiểu đường](https://dermnetnz.org/topics/skin-problems-associated-with-diabetes-mellitus)
+- [Nghiện rượu](https://dermnetnz.org/topics/cutaneous-adverse-effects-of-alcohol)
+- [Béo phì](https://dermnetnz.org/topics/metabolic-syndrome)
+- [Virus gây suy giảm miễn dịch ở người (HIV)](https://dermnetnz.org/topics/skin-conditions-relating-to-hiv-infection)
+- Hội chứng thận hư
+- Mang thai.
+
+---
+
+## Nguyên nhân gây ra bệnh viêm quầng là gì?
+
+Không giống như viêm mô tế bào, hầu hết các bệnh viêm quầng đều do liên cầu khuẩn tan máu beta nhóm A ( [Streptococcus pyogenes](https://dermnetnz.org/topics/streptococcal-skin-infections) ) gây ra. [Tụ cầu vàng](https://dermnetnz.org/topics/staphylococcal-skin-infection) , bao gồm [các chủng kháng methicillin (MRSA](https://dermnetnz.org/topics/methicillin-resistant-staphylococcus-aureus) ), Streptococcus pneumoniae, Klebsiella pneumoniae, Yersinia enterocolitica và Haemophilus influenzae cũng hiếm khi gây ra bệnh viêm quầng.
+
+---
+
+## Các đặc điểm lâm sàng của bệnh hồng ban là gì?
+
+Các triệu chứng và dấu hiệu của bệnh hồng ban thường khởi phát đột ngột và thường kèm theo sốt, ớn lạnh và run rẩy.
+Bệnh hồng ban chủ yếu ảnh hưởng đến da ở chi dưới, nhưng khi ảnh hưởng đến mặt, bệnh có thể phân bố theo hình cánh bướm trên má và sống mũi.
+- Vùng da bị ảnh hưởng có đường viền rất sắc và nhô cao.
+- Nó có màu đỏ tươi, săn chắc và sưng lên. Nó có thể có những vết lõm nhỏ (giống như da cam).
+- Vết thương có thể bị phồng rộp và trong trường hợp nghiêm trọng có thể bị hoại tử.
+- Chảy máu vào da có thể gây ra [ban xuất huyết](https://dermnetnz.org/topics/purpura) .
+- Viêm mô tế bào thường không biểu hiện triệu chứng sưng tấy rõ rệt nhưng có những đặc điểm khác giống với bệnh hồng ban, chẳng hạn như đau và tăng nhiệt độ ở vùng da bị ảnh hưởng.
+- Ở trẻ sơ sinh, tình trạng này thường xảy ra ở rốn hoặc vùng tã/khăn ăn.
+- Viêm quầng bọng nước có thể là do nhiễm liên cầu khuẩn hoặc nhiễm trùng đồng thời với [tụ cầu khuẩn vàng](https://dermnetnz.org/topics/staphylococcal-skin-infection) (bao gồm cả [MRSA](https://dermnetnz.org/topics/methicillin-resistant-staphylococcus-aureus) ).
+![Không có caption](https://dermnetnz.org/assets/Uploads/bacterial/erysipelas2.jpg)
+![Viêm quầng](https://dermnetnz.org/assets/Uploads/doctors/bacterial-infections/images/erysipelas3.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/doctors/bacterial-infections/images/erysipelas2.jpg)
+
+---
+
+## Biến chứng của bệnh viêm quầng là gì?
+
+Bệnh hồng ban tái phát ở một phần ba số bệnh nhân do:
+- Sự tồn tại của các yếu tố rủi ro
+- Tổn thương hệ bạch huyết (do đó làm suy yếu khả năng dẫn lưu độc tố ).
+Biến chứng rất hiếm gặp nhưng có thể bao gồm:
+- [Áp xe](https://dermnetnz.org/topics/cutaneous-abscess)
+- [Hoại tử](https://dermnetnz.org/topics/wet-gangrene)
+- [Viêm tắc tĩnh mạch](https://dermnetnz.org/topics/superficial-thrombophlebitis)
+- Sưng chân mãn tính
+- Nhiễm trùng ở xa vị trí bị viêm quầng Viêm nội tâm mạc nhiễm trùng (van tim) Viêm khớp nhiễm trùng Viêm bao hoạt dịch Viêm gân
+- Viêm nội tâm mạc nhiễm trùng (van tim)
+- Viêm khớp nhiễm trùng
+- Viêm bao hoạt dịch
+- Viêm gân
+- Viêm cầu thận sau nhiễm liên cầu khuẩn (một bệnh về thận ảnh hưởng đến trẻ em)
+- Thuyên tắc xoang hang (cục máu đông nguy hiểm có thể lan đến não)
+- [Hội chứng sốc nhiễm độc liên cầu khuẩn](https://dermnetnz.org/topics/toxic-shock-syndrome-and-toxic-shock-like-syndrome) (hiếm gặp).
+
+---
+
+## Bệnh hồng ban được chẩn đoán như thế nào?
+
+Viêm quầng thường được chẩn đoán bằng phát ban đặc trưng. Chẩn đoán phân biệt viêm quầng tương tự như viêm [mô tế bào](https://dermnetnz.org/topics/cellulitis-mimics) . Thường có tiền sử chấn thương liên quan. Các xét nghiệm có thể cho thấy:
+- Tăng số lượng tế bào bạch cầu
+- Protein C phản ứng tăng cao
+- Kết quả nuôi cấy máu dương tính xác định được vi khuẩn.
+Chụp MRI và CT được thực hiện trong trường hợp nhiễm trùng sâu.
+Đối với các phát hiện [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) , xem [bệnh lý bệnh hồng ban](https://dermnetnz.org/topics/erysipelas-pathology) .
+
+---
+
+## Phương pháp điều trị bệnh viêm quầng là gì?
+
+
+### Tổng quan
+- Chườm lạnh và thuốc giảm đau để làm giảm sự khó chịu tại chỗ
+- Nâng cao chi bị nhiễm trùng để giảm sưng cục bộ
+- Vớ nén
+- Chăm sóc vết thương bằng băng gạc nước muối và thay băng thường xuyên.
+
+### Thuốc kháng sinh
+- Thuốc kháng sinh được lựa chọn đầu tiên là penicillin uống hoặc tiêm tĩnh mạch.
+- [Erythromycin](https://dermnetnz.org/topics/erythromycin) , roxithromycin hoặc pristinamycin có thể được sử dụng cho những bệnh nhân bị dị ứng với penicillin.
+- Vancomycin được sử dụng cho bệnh viêm quầng ở mặt do [MRSA gây ra](https://dermnetnz.org/topics/methicillin-resistant-staphylococcus-aureus)
+- Điều trị thường kéo dài trong 10–14 ngày
+
+---
+
+## Triển vọng của bệnh viêm quầng là gì?
+
+Trong khi các dấu hiệu bệnh lý thông thường sẽ hết trong vòng một hoặc hai ngày, những thay đổi trên da có thể mất vài tuần mới khỏi hoàn toàn. Không để lại sẹo.
+Điều trị dự phòng lâu dài bằng penicillin thường được yêu cầu đối với các đợt tái phát của bệnh ban đỏ.
+Bệnh hồng ban tái phát ở một phần ba số bệnh nhân do các yếu tố nguy cơ vẫn tồn tại và cũng vì bản thân bệnh hồng ban có thể gây tổn thương bạch huyết (do đó làm suy yếu khả năng dẫn lưu độc tố) ở vùng da bị ảnh hưởng, khiến bệnh dễ tái phát hơn.
+Nếu bệnh nhân bị tái phát, có thể cân nhắc điều trị dự phòng lâu dài bằng penicillin.

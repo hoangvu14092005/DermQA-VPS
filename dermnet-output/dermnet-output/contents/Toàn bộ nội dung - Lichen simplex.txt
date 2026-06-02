@@ -1,0 +1,144 @@
+# Địa y đơn giản — thông tin bổ sung
+
+Thể loại:
+
+Phát ban
+
+SNOMED CT:
+
+53891004, 201020007
+
+**[Phát ban](https://dermnetnz.org/topics/topics?category=Rashes)**
+
+
+# **Địa y đơn giản**
+
+Tác giả: Patrick Ireland, Trường Cao đẳng Y tế, Y học và Sức khỏe, Đại học Newcastle, Newcastle, NSW, Úc. Biên tập bởi Gus Mitchell. Tháng 2 năm 2022
+
+---
+
+## Địa y đơn giản là gì?
+
+Bệnh liken đơn giản là một bệnh lý da ngứa mãn tính đặc trưng bởi các mảng ban đỏ có ranh giới rõ ràng và các mảng da dày như da thuộc.
+Ban đỏ có thể thay đổi, và các tổn thương có thể đơn độc hoặc nhiều. Lichen đơn giản còn được gọi là viêm da thần kinh, lichen đơn giản mạn tính và viêm da thần kinh chu biên.
+![Bệnh liken đơn giản khu trú ở cẳng chân bên - một vùng thường gặp của chứng rối loạn này](https://dermnetnz.org/assets/Uploads/figure-5-itch.jpg)
+![Bệnh địa y đơn giản ở mắt cá chân - các vết da nổi rõ, vảy và sắc tố ở da có màu](https://dermnetnz.org/assets/collection/Lichen-simplex/lichen-simplex-0003.jpg)
+![Địa y đơn giản](https://dermnetnz.org/assets/Uploads/systemic/w/itchy-skin-15.jpg)
+[Nhấp vào đây để xem thêm hình ảnh](https://dermnetnz-org.translate.goog/images/lichen-simplex-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+
+---
+
+## Ai bị bệnh địa y đơn giản?
+
+Tỷ lệ mắc bệnh lichen đơn dạng mạn tính chưa được biết rõ, nhưng bệnh này tương đối phổ biến và nữ giới chiếm ưu thế với tỷ lệ 2:1. Bệnh thường xảy ra ở độ tuổi trung niên đến cuối tuổi trưởng thành, với tần suất cao nhất ở những người trong độ tuổi 30–50.
+Chủng tộc dường như không ảnh hưởng đến tỷ lệ mắc bệnh liken đơn. Liken đơn có thể xuất hiện ở những người không có vấn đề về da hoặc các vấn đề khác, nhưng có thể xuất hiện ở những bệnh nhân mắc các bệnh lý tâm thần đi kèm , bệnh da liễu ngứa nguyên phát (đặc biệt là [bệnh chàm dị ứng](https://dermnetnz.org/topics/atopic-dermatitis) ) và các bệnh lý toàn thân liên quan đến [ngứa](https://dermnetnz.org/topics/pruritus) . [](https://dermnetnz.org/topics/atopic-dermatitis) [](https://dermnetnz.org/topics/pruritus)
+
+---
+
+## Nguyên nhân nào gây ra bệnh lichen đơn giản?
+
+Bệnh địa y đơn giản là kết quả của một "chu kỳ ngứa-gãi" mãn tính; sau khi gãi và cào xước liên tục , các mảng dày lên, có ranh giới rõ ràng sẽ phát triển. Kích thích gây ngứa có thể do nhiều nguyên nhân:
+- Bệnh liken đơn giản nguyên phát phát triển trên da bình thường
+- Bệnh liken đơn giản thứ phát có thể theo sau bệnh da liễu ngứa tiềm ẩn — [viêm da dị ứng](https://dermnetnz.org/topics/atopic-dermatitis) , [bệnh vẩy nến](https://dermnetnz.org/topics/psoriasis) , [bệnh ghẻ](https://dermnetnz.org/topics/scabies) , [bệnh khô da](https://dermnetnz.org/topics/dry-skin)
+- Kích thích thần kinh trung gian gây ngứa — ngứa cánh tay-trục , bệnh lý rễ thần kinh
+- Bệnh toàn thân liên quan đến ngứa — bệnh urê huyết , bệnh đa hồng cầu nguyên phát, bệnh ác tính
+- Các tác nhân gây dị ứng từ môi trường — nhiệt độ, mồ hôi, chất kích ứng hóa học , vết côn trùng cắn.
+
+---
+
+## Đặc điểm lâm sàng của bệnh liken đơn giản là gì?
+
+Lichen đơn dạng mạn tính bao gồm một hoặc nhiều mảng hoặc mảng lichen hóa trên da. Lichen hóa do chu kỳ ngứa và gãi mạn tính gây ra sự phóng đại các nếp nhăn bình thường trên da, tạo thành hình dạng "chéo". Các đặc điểm lâm sàng khác có thể bao gồm:
+- [Tăng hoặc giảm sắc tố](https://dermnetnz.org/topics/pigmentation-disorders) (đặc biệt ở những người có màu da sẫm hơn)
+- Da có vảy
+- Da dày lên
+- Sự bóc lột
+- Tóc gãy ( dấu hiệu bàn chải ) hoặc [rụng tóc](https://dermnetnz.org/topics/alopecia-areata) ở những vùng bị ảnh hưởng.
+Bệnh liken đơn giản có thể biểu hiện bằng một hoặc nhiều tổn thương, thường ở những vùng dễ tiếp cận. Chúng thường liên quan đến:
+- Cổ và da đầu
+- [Âm hộ](https://dermnetnz.org/topics/lichen-simplex-of-the-vulva) , xương mu và [bìu](https://dermnetnz.org/topics/lichen-simplex-of-the-scrotum)
+- Cổ tay và cơ duỗi cẳng tay
+- Mắt cá chân, cẳng chân trước ngoài và đùi.
+[Nhấp vào đây để xem hình ảnh của địa y đơn giản](https://dermnetnz-org.translate.goog/images/lichen-simplex-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+[Nhấp vào đây để xem hình ảnh của bệnh liken đơn giản ở âm hộ](https://dermnetnz-org.translate.goog/topics/vulval-lichen-simplex-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+
+---
+
+## Các đặc điểm lâm sàng khác nhau như thế nào ở các loại da khác nhau?
+
+Những thay đổi về sắc tố , chẳng hạn như tăng hoặc giảm sắc tố , thường thấy ở những bệnh nhân có loại da sẫm màu hơn; tình trạng ban đỏ ít rõ ràng hơn nhiều.
+
+---
+
+## Biến chứng của bệnh liken đơn giản là gì?
+
+- Tăng hoặc giảm sắc tố
+- [Sẹo và xơ hóa](https://dermnetnz.org/topics/keloid-and-hypertrophic-scar)
+- [Lo lắng và các bệnh lý đi kèm liên quan đến tâm thần](https://dermnetnz.org/topics/psychosocial-factors-in-dermatology)
+- Tác dụng phụ của thuốc dùng để điều trị tình trạng bệnh ( corticosteroid [toàn thân](https://dermnetnz.org/topics/systemic-steroids) và [tại chỗ](https://dermnetnz.org/topics/topical-steroid) ).
+
+---
+
+## Bệnh liken đơn giản được chẩn đoán như thế nào?
+
+Chẩn đoán bệnh liken đơn dạng mạn tính chủ yếu dựa vào lâm sàng. Các xét nghiệm được thực hiện để loại trừ các chẩn đoán phân biệt khác :
+- [Sinh thiết da](https://dermnetnz.org/topics/skin-biopsy)
+- [Kiểm tra miếng dán](https://dermnetnz.org/topics/patch-tests) — được sử dụng để loại trừ [viêm da dị ứng tiếp xúc](https://dermnetnz.org/topics/allergic-contact-dermatitis) là bệnh da cơ bản
+- [Nuôi cấy nấm](https://dermnetnz.org/topics/fungal-skin-infections) — dùng để kiểm tra tình trạng nhiễm nấm [dermatophyte](https://dermnetnz.org/topics/mycology-of-dermatophyte-infections) hoặc [candida tiềm ẩn](https://dermnetnz.org/topics/candida) .
+Để tìm hiểu các tình trạng cơ bản gây ngứa, có thể tiến hành xét nghiệm TSH huyết thanh , T4 tự do, EUC, LFT, FBC, hình ảnh và các xét nghiệm khác.
+
+---
+
+## Chẩn đoán phân biệt bệnh liken đơn giản là gì?
+
+Những tình trạng sau đây cần được loại trừ khi đánh giá bệnh nhân mắc bệnh liken đơn giản:
+- [Viêm da dị ứng](https://dermnetnz.org/topics/atopic-dermatitis)
+- [Bệnh vẩy nến](https://dermnetnz.org/topics/psoriasis)
+- [Lichen phẳng](https://dermnetnz.org/topics/lichen-planus)
+- [Viêm da tiếp xúc](https://dermnetnz.org/topics/contact-dermatitis)
+- [Bệnh nấm mycosis fungoides](https://dermnetnz.org/topics/mycosis-fungoides)
+- [Ung thư biểu mô tế bào đáy nông](https://dermnetnz.org/topics/basal-cell-carcinoma) , [ung thư biểu mô tế bào vảy](https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma) tại chỗ . [](https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma)
+Ngoài ra, cần xem xét thêm các phân biệt khác dựa trên bệnh lý phân bố . Ví dụ:
+- [Bệnh Paget](https://dermnetnz.org/topics/extramammary-paget-disease) ngoài vú [](https://dermnetnz.org/topics/extramammary-paget-disease)
+- [Nấm bẹn](https://dermnetnz.org/topics/tinea-cruris) .
+
+---
+
+## Phương pháp điều trị bệnh liken đơn giản là gì?
+
+Việc điều trị bệnh lichen đơn giản có thể được tóm tắt thành một số lĩnh vực chính:
+- Phá vỡ chu kỳ ngứa-gãi
+- Cung cấp giáo dục
+- Thay đổi hành vi
+- Dược lý trị liệu
+- Ứng dụng và thủ tục.
+
+### Các biện pháp chung
+- Rào cản vật lý và băng bó để giảm hành vi gãi vô thức.
+- Giảm căng thẳng, cắt móng tay ngắn và mặc quần áo rộng rãi.
+- Tránh và/hoặc giải quyết các tác nhân gây kích thích.
+- Điều trị tình trạng bệnh lý toàn thân tiềm ẩn, bệnh da liễu hoặc rối loạn tâm thần.
+- [Chất làm mềm da](https://dermnetnz.org/topics/emollients-and-moisturisers) — nên sử dụng ít nhất hai lần mỗi ngày; tốt nhất nên thoa sau khi tắm để giữ ẩm.
+
+### Các biện pháp cụ thể
+- Thuốc kháng histamin thế hệ đầu tiên có tác dụng [an thần](https://dermnetnz.org/topics/antihistamines) (ví dụ như phenhydramine hoặc chlorpheniramine) dành cho những người bị ngứa dữ dội vào ban đêm.
+- [Corticosteroid tại chỗ](https://dermnetnz.org/topics/topical-steroid) — corticosteroid tại chỗ siêu mạnh , dùng 1–2 lần mỗi ngày, kết hợp băng dán hoặc băng hydrocolloid , trong tối đa 4 tuần. Ngoài ra, có thể sử dụng [băng dính tẩm steroid](https://dermnetnz.org/topics/steroid-impregnated-tape) . Có thể sử dụng steroid yếu hơn cho vùng da mỏng và nhạy cảm.
+- [Có thể sử dụng steroid tiêm vào tổn](https://dermnetnz.org/topics/intralesional-steroid-injection) thương cho các tổn thương khó chữa .
+- [Các chế phẩm từ nhựa than đá](https://dermnetnz.org/topics/coal-tar) .
+- [Thuốc chống ngứa tại chỗ](https://dermnetnz.org/topics/pruritus) — kem [capsaicin](https://dermnetnz.org/topics/capsaicin) hoặc doxepin .
+- Thuốc ức chế calcineurin tại chỗ — [thuốc mỡ tacrolimus](https://dermnetnz.org/topics/tacrolimus) hoặc [kem pimecrolimus](https://dermnetnz.org/topics/pimecrolimus)
+- [Amitriptyline](https://dermnetnz.org/topics/tricyclic-antidepressants) , [gabapentin](https://dermnetnz.org/topics/gabapentin) hoặc pregabalin
+- Kích thích thần kinh điện xuyên da (TENS)
+- [Châm cứu](https://dermnetnz.org/topics/acupuncture-and-its-role-in-treating-skin-disease)
+- [Cắt bỏ phẫu thuật](https://dermnetnz.org/topics/excision-of-skin-lesions) — có thể được chỉ định cho các tổn thương dạng nốt đơn độc
+- Kỹ thuật đảo ngược thói quen
+- [Liệu pháp quang học](https://dermnetnz.org/topics/phototherapy)
+- Thuốc ức chế miễn dịch toàn thân, thuốc ức chế IL-4/IL-13 và thuốc ức chế JAK được báo cáo là có hiệu quả nhưng hiếm khi cần dùng.
+
+---
+
+## Hậu quả của bệnh địa y đơn giản là gì?
+
+Lichen simplex là một bệnh da mãn tính (do đó được gọi là lichen simplex chronicus). Mặc dù có thể khỏi hoàn toàn, nhưng bệnh thường dai dẳng và dễ tái phát. Điều trị nguyên nhân tiềm ẩn gây ngứa là điều cần thiết để giảm tái phát bệnh lichen simplex.
+Thông thường, bệnh nhân không thể khỏi bệnh liken đơn giản nếu không có liệu pháp dược lý chuyên biệt (ví dụ như corticosteroid bôi ngoài da).
+[Nhấp vào đây để xem hình ảnh](https://dermnetnz-org.translate.goog/images/lichen-simplex-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)

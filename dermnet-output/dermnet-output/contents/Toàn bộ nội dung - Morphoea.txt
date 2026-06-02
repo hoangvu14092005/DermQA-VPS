@@ -1,0 +1,257 @@
+# Morphoea — thông tin bổ sung
+
+Thể loại:
+
+Bệnh mô liên kết
+
+SNOMED CT:
+
+201049004, 128458002, 22784002, 403523009, 51156002, 403522004, 7513007, 201048007, 24129002, 403521006, 718224004, 403395007
+
+**[Bệnh mô liên kết](https://dermnetnz.org/topics/topics?category=Connective+tissue+diseases)**
+
+
+# **Morphoea**
+
+Tác giả: Tiến sĩ Amanda Saracino,Bác sĩ da liễu, Alfred Health và Phòng khám da liễu Melbourne, Melbourne, VIC, Úc. Tổng biên tập DermNet, Phó giáo sư Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand. Tháng 9 năm 2017.
+
+---
+
+## Morphoea là gì?
+
+Morphoea (cách viết của Mỹ là morphea) được đặc trưng bởi một vùng da bị viêm và xơ hóa (dày lên và cứng lại) do sự lắng đọng collagen tăng lên . Nó còn được gọi là [xơ cứng bì](https://dermnetnz.org/topics/scleroderma) khu trú . Thuật ngữ "xơ cứng bì" bao gồm nhiều loại morphea và [xơ cứng hệ thống](https://dermnetnz.org/topics/systemic-sclerosis) . [](https://dermnetnz.org/topics/scleroderma) [](https://dermnetnz.org/topics/systemic-sclerosis)
+Các phân nhóm morphoea khác nhau tùy theo vị trí da bị ảnh hưởng. Bất kỳ phân nhóm morphoea nào cũng có thể dẫn đến tổn thương sâu hoặc dưới da ở lớp mỡ, cân , cơ hoặc xương bên dưới.
+Không giống như [bệnh xơ cứng hệ thống](https://dermnetnz.org/topics/systemic-sclerosis) , bệnh morphoea KHÔNG gây ra:
+- Da dày lên ở ngón tay và ngón chân ( sclerodactyly )
+- Các kháng thể tự miễn đặc hiệu trong máu (chẳng hạn như kháng thể kháng tâm động hoặc kháng thể kháng Scl70)
+- Các mạch máu nhỏ bất thường ở ngón tay ( mao mạch ở nếp gấp móng tay )
+- Xơ hóa và/hoặc tổn thương mạch máu ở các cơ quan nội tạng.
+![Morphoea](https://dermnetnz.org/assets/Uploads/immune/morph2.jpg)
+![Morphoea](https://dermnetnz.org/assets/Uploads/immune/s/morph7.jpg)
+![Morphoea](https://dermnetnz.org/assets/Uploads/immune/s/morph8.jpg)
+![Morphoea](https://dermnetnz.org/assets/Uploads/immune/morph1.jpg)
+![Morphoea](https://dermnetnz.org/assets/Uploads/immune/s/morph6.jpg)
+![Morphoea](https://dermnetnz.org/assets/Uploads/immune/morph5.jpg)
+[Xem thêm hình ảnh của morphoea](https://dermnetnz-org.translate.goog/topics/morphoea-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp) .
+
+---
+
+## Ai mắc bệnh Morphoea?
+
+Morphoea rất hiếm gặp và ước tính có tỷ lệ mắc bệnh là 1–3 trên 100.000 trẻ em. Bệnh này phổ biến ở nữ gấp ba lần so với nam và thường bắt đầu từ thời thơ ấu. Mặc dù không phải là một rối loạn di truyền, một số phân nhóm HLA (HLA-DRB1*04:04 và HLA-B*37) có liên quan đến việc tăng nguy cơ mắc bệnh morphoea.
+
+---
+
+## Nguyên nhân gây ra bệnh Morphoea là gì?
+
+Nguyên nhân chính xác của bệnh morphoea vẫn chưa được biết rõ.
+- Các yếu tố di truyền tại chỗ dường như đóng một vai trò; ví dụ, khảm da có thể quan trọng trong hình thái tuyến tính , tuân theo các đường phát triển biểu bì của [Blaschko](https://dermnetnz.org/topics/blaschko-lines) .
+- Có tới 40% bệnh nhân mắc bệnh morphoea thể nặng có tiền sử cá nhân hoặc gia đình mắc [bệnh tự miễn](https://dermnetnz.org/topics/autoimmune-diseases-in-dermatology) (ví dụ: bệnh tuyến giáp, [bệnh bạch tạng](https://dermnetnz.org/topics/vitiligo) ) hoặc bệnh thấp khớp (ví dụ: [viêm khớp dạng thấp](https://dermnetnz.org/topics/rheumatoid-arthritis-and-the-skin) ).
+Vì những lý do chưa rõ, bệnh morphoea thường phát triển sau một tác nhân kích thích bên ngoài như:
+- Vết cắn của côn trùng hoặc vết cắn của ve (vai trò của Borellia burgdorferi , nguyên nhân gây [bệnh Lyme](https://dermnetnz.org/topics/lyme-disease) vẫn còn gây tranh cãi)
+- Tiêm (ví dụ, [bleomycin](https://dermnetnz.org/topics/bleomycin) , [silicone](https://dermnetnz.org/topics/silicone-implant) ) hoặc tiêm chủng
+- Ma sát lặp lại
+- Ca phẫu thuật
+- Xạ trị
+- Vết thương xuyên thấu
+- Tập thể dục cực độ
+- Ma sát nhỏ lặp đi lặp lại dọc theo cạp quần, dây áo ngực và vùng bẹn , trong mảng bám phân tán đồng dạng .
+Các vết loét liên quan đến chấn thương có thể xuất hiện ở vị trí bị ảnh hưởng hoặc ở các vị trí xa không liên quan.
+
+---
+
+## Các phân nhóm và đặc điểm lâm sàng của bệnh morphoea là gì?
+
+Khi mô tả hình thái, hãy xem xét ba đặc điểm.
+- Phân bố giải phẫu : vị trí và có giới hạn, tuyến tính, tổng quát hay hỗn hợp
+- Hình thái : viêm , xơ cứng , mất sắc tố hoặc teo
+- Độ sâu của mô bị ảnh hưởng: da, mỡ, cân, cơ, xương
+
+### Phân bố giải phẫu
+Các phân nhóm của morphoea là giới hạn, tuyến tính, tổng quát hoặc hỗn hợp.
+
+#### Mảng bám giới hạn
+- Loại phổ biến nhất ở người lớn
+- Các mảng hình bầu dục có đường kính từ 1 đến 20cm
+- Hai hoặc ít hơn các vị trí trên cơ thể.
+Các loại hiếm gặp của mảng bám giới hạn bao gồm mảng bám giọt và [teo da Pasini và Pierini](https://dermnetnz.org/topics/atrophoderma-of-pasini-and-pierini) .
+![Morphoea](https://dermnetnz.org/assets/Uploads/immune/morph2.jpg)
+![Morphoea](https://dermnetnz.org/assets/Uploads/immune/s/morph7.jpg)
+![Morphoea](https://dermnetnz.org/assets/Uploads/immune/s/morph8.jpg)
+[Xem thêm hình ảnh của morphoea](https://dermnetnz-org.translate.goog/topics/morphoea-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp) ...
+
+#### Hình thái tuyến tính
+- Phân nhóm phổ biến nhất ở trẻ em
+- Tìm thấy trên các chi, thân hoặc đầu (sọ mặt)
+- Theo các đường thẳng và xoáy được gọi là [đường Blaschko](https://dermnetnz.org/topics/blaschko-lines)
+- Thường là một bên , nhưng có thể là hai bên và lan rộng trong những trường hợp nghiêm trọng.
+Teo da tuyến tính của Moulin là một phân nhóm hiếm gặp của bệnh teo da tuyến tính sắc tố .
+Hình thái tuyến tính sọ mặt trước đây được phân loại thành:
+- [En coup de sabre](https://dermnetnz.org/topics/morphoea-en-coup-de-sabre) (dải teo tuyến tính +/- xơ cứng, điển hình ở trán hoặc da đầu)
+- [Parry-Romberg / teo cơ nửa mặt tiến triển](https://dermnetnz.org/topics/parry-romberg-syndrome) ( teo mỡ, cơ và xương +/- rối loạn sắc tố +/- thay đổi xơ cứng, ảnh hưởng đến một bên khuôn mặt).
+Các loại hình thái tuyến tính sọ mặt này xuất hiện cùng nhau và thay đổi tùy theo hình thái và độ sâu của mô bị ảnh hưởng.
+
+### Hình thái tuyến tính
+![Morphoea](https://dermnetnz.org/assets/Uploads/immune/s/morph6.jpg)
+[Xem thêm hình ảnh của morphoea](https://dermnetnz-org.translate.goog/topics/morphoea-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp) ...
+
+#### Hình thái tổng quát
+Bệnh morphoea lan tỏa ảnh hưởng đến ba hoặc nhiều vị trí trên cơ thể. Có hai dạng chính;
+- Mảng bám rải rác: các mảng bám rải rác xen kẽ với vùng da không bị ảnh hưởng. Có thể đồng dạng (xảy ra ở các vị trí ma sát như cạp quần, đường viền áo ngực và nếp gấp bẹn) hoặc không đồng dạng (các mảng bám rải rác ở bất kỳ vị trí nào).
+- Xơ cứng toàn thể: xơ cứng vòng , liên kết , thường tiến triển nhanh và ảnh hưởng đến hầu hết diện tích bề mặt cơ thể. Tình trạng này xảy ra ở trẻ em (xơ cứng toàn thể gây tàn tật ở trẻ em) và ở người lớn (khi nó chồng chéo với [viêm cân tăng bạch cầu ái toan](https://dermnetnz.org/topics/eosinophilic-fasciitis) ).
+- Bệnh morphoea toàn thân không ảnh hưởng đến các ngón tay và da quanh núm vú.
+
+### Hình thái xơ cứng toàn bộ ngực
+![Morphoea](https://dermnetnz.org/assets/Uploads/immune/morph5.jpg)
+[Xem thêm hình ảnh của morphoea](https://dermnetnz-org.translate.goog/topics/morphoea-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp) ...
+Hình thái hoa văn hỗn hợp
+- Kiểu hình thái hỗn hợp xảy ra khi có nhiều hơn một kiểu hình giải phẫu.
+- Mẫu hỗn hợp phổ biến nhất là hình thái dạng tuyến tính của một chi, với hình thái dạng mảng giới hạn trên thân.
+Viêm mô giới hạn được coi là nhẹ, trong khi viêm mô tuyến tính và viêm mô toàn thân là các phân nhóm nghiêm trọng hơn. Độ sâu của tổn thương mô cũng rất quan trọng khi đánh giá mức độ nghiêm trọng của bệnh; tổn thương dưới da cho thấy bệnh nặng hơn.
+
+---
+
+## Hình thái học
+
+Hình dạng cụ thể của morphoea rất đa dạng và có thể bao gồm:
+- Giai đoạn viêm: các mảng màu hồng, tím hoặc giống vết bầm tím
+- Xơ cứng: da trở nên cứng, dày lên, bị bó chặt, bóng, màu trắng ngà và có thể có viền tím do viêm xung quanh
+- Rối loạn sắc tố và teo da. Tình trạng này phát triển sau một khoảng thời gian khác nhau (thường là vài tháng hoặc vài năm); tăng sắc tố phổ biến hơn giảm sắc tố. Teo da nông ( da bì ) biểu hiện bằng da bóng, thường có mạch máu lộ rõ. Teo sâu hơn ảnh hưởng đến mỡ, cơ hoặc xương biểu hiện bằng các vết lõm hoặc sự bất thường về chu vi chi.
+Morphoea thường trải qua từng giai đoạn hình thái này , nhưng điều này không phải lúc nào cũng xảy ra.
+
+### Sự tham gia của mô sâu vào morphoea
+Bất kỳ phân nhóm nào của morphoea đều có thể ảnh hưởng đến mô liên kết dưới da, chẳng hạn như mỡ, cân, cơ, xương, khớp, hoặc hiếm khi ảnh hưởng đến não (trong morphoea tuyến tính sọ mặt). Tổn thương mô sâu là dấu hiệu của bệnh nặng.
+Khi cân cơ (mô liên kết bên dưới lớp mỡ) bị ảnh hưởng:
+- Da có thể trông nhăn nheo, trông giống như đá cuội hoặc vỏ cam (peau d'orange)
+- Có thể có rãnh dọc theo mạch máu ( dấu hiệu rãnh ).
+Sự liên quan của xương hoặc khớp dẫn đến mất mô xương, đau và/hoặc hạn chế vận động khớp ( co cứng ).
+[Viêm cân tăng bạch cầu ái toan](https://dermnetnz.org/topics/eosinophilic-fasciitis) là một dạng xơ hóa cân toàn bộ (pansclerotic morphoea) với tổn thương sâu ở cân. Viêm và xơ hóa cân (mô liên kết bên dưới lớp mỡ) thường đi kèm với xơ cứng bì hoặc các phân nhóm giải phẫu khác của morphoea, cho thấy việc xem xét nó như một tình trạng riêng biệt vẫn còn gây tranh cãi.
+
+---
+
+## Các triệu chứng từ morphoea
+
+Morphoea có thể không có triệu chứng , hoặc các triệu chứng có thể phát sinh từ da hoặc các mô sâu hơn, hoặc có thể do các biểu hiện ngoài da .
+
+### Các triệu chứng do thay đổi da
+- Một số bệnh nhân bị ngứa và/hoặc đau ở những vùng bị viêm của morphoea.
+- Các cấu trúc phụ bị phá hủy do xơ cứng. Điều này đặc biệt quan trọng trong tình trạng da đầu bị xơ hóa, dẫn đến [rụng tóc](https://dermnetnz.org/topics/hair-loss) vĩnh viễn .
+- Xơ cứng có thể chèn ép các dây thần kinh nông và gây ra đau, ngứa ran và đôi khi là yếu cơ nhẹ.
+
+### Các triệu chứng do tổn thương mô sâu hơn
+- Sự liên quan sâu sắc đến các khớp gây ra đau khớp hoặc hạn chế vận động khớp (co cứng).
+- Sự co thắt thành ngực trong bệnh xơ cứng toàn thể có thể dẫn đến khó thở.
+- Tổn thương răng và hàm trong bệnh lý sọ mặt dạng đường có thể gây ra các vấn đề về răng miệng. Tổn thương khớp thái dương hàm gây khó nhai, cứng hàm hoặc đau.
+- Sự liên quan đến hộp sọ và/hoặc não có thể gây ra chứng đau đầu hoặc trong một số trường hợp hiếm gặp, các triệu chứng thần kinh như liệt dây thần kinh hoặc co giật.
+
+### Các triệu chứng toàn thân
+Có tới 30% bệnh nhân bị các dạng vảy nến tuyến tính hoặc vảy nến lan tỏa nặng hơn có thể có các triệu chứng viêm ngoài da không đặc hiệu. Các triệu chứng này bao gồm:
+- Mệt mỏi, uể oải
+- Đau khớp không đặc hiệu và/hoặc viêm ( đau khớp , viêm khớp )
+- Đau cơ
+- Trào ngược/ợ nóng
+- [Hiện tượng Raynaud](https://dermnetnz.org/topics/raynaud-phenomenon) (bàn tay lạnh với các màu đỏ/trắng/xanh)
+- Khô mắt, kích ứng hoặc mờ mắt do liên quan đến mắt (thường gặp nhất là viêm kết mạc, viêm màng bồ đào trước , viêm giác mạc ) – có liên quan hoặc không liên quan đến vị trí của morphoea
+Những biểu hiện ngoài da này cho thấy morphoea là một tình trạng viêm toàn thân . Ngược lại, [xơ cứng hệ thống](https://dermnetnz.org/topics/systemic-sclerosis) gây tổn thương trực tiếp và xơ hóa phổi, tim, thận và/hoặc đường tiêu hóa — những điều này không xảy ra ở morphoea.
+
+---
+
+## Bệnh Morphoea được chẩn đoán như thế nào?
+
+Chẩn đoán morphoea thường được thực hiện lâm sàng mà không cần xét nghiệm thêm. Sinh thiết , xét nghiệm máu và chẩn đoán hình ảnh có thể được thực hiện nếu chẩn đoán hoặc mức độ bệnh chưa rõ ràng.
+
+### Sinh thiết da
+Sinh [thiết da](https://dermnetnz.org/topics/skin-biopsy) cho phép kiểm tra da, mỡ dưới da (và đôi khi cả cân) dưới kính hiển vi. Các phát hiện kinh điển trong morphoea bao gồm:
+- Sinh thiết vuông vắn (dấu hiệu 'cookie-cutter')
+- Biểu bì teo
+- Collagen dày lên, hyalin hóa , có thể mất các cấu trúc phụ (như tuyến mồ hôi và nang lông )
+- Giảm mỡ / bẫy mỡ
+- Sự thâm nhiễm tế bào viêm ( tế bào lympho +/- tế bào plasma ).
+
+### Xét nghiệm máu
+- Số lượng bạch cầu ái toan (có thể tăng lên)
+- Các dấu hiệu viêm ( ESR hoặc CRP có thể tăng)
+- Kháng thể kháng nhân ( có thể tăng, nhưng kháng thể ENA đặc hiệu [với bệnh xơ cứng hệ thống](https://dermnetnz.org/topics/systemic-sclerosis) như kháng thể anti-Sc70 là âm tính)
+- Xét nghiệm chức năng tuyến giáp (có thể bất thường; cân nhắc nếu có nguy cơ mắc bệnh tuyến giáp tự miễn liên quan)
+- Yếu tố dạng thấp hoặc kháng thể anti-CCP nếu bị đau khớp/viêm khớp (có thể tăng)
+
+### Hình ảnh
+Chụp cộng hưởng từ ( MRI ) có thể được thực hiện để đánh giá độ sâu của morphoea lan ra ngoài da, ví dụ như trong morphoea tổng quát, morphoea tuyến tính vượt qua các khớp và morphoea tuyến tính sọ mặt.
+
+---
+
+## Bệnh Morphoea được điều trị như thế nào?
+
+Không có cách chữa khỏi bệnh morphoea. Việc điều trị nhằm mục đích ngăn chặn hoạt động và tiến triển của bệnh.
+
+### Liệu pháp tại chỗ
+Liệu pháp tại chỗ có thể giúp điều trị các dạng morphoea nông và hạn chế, đồng thời có thể giảm ngứa.
+- [Steroid tại chỗ](https://dermnetnz.org/topics/topical-steroid)
+- [Thuốc mỡ Tacrolimus](https://dermnetnz.org/topics/tacrolimus)
+- [Thuốc mỡ hoặc kem Calcipotriol](https://dermnetnz.org/topics/calcipotriol)
+- [Kem Imiquimod](https://dermnetnz.org/topics/imiquimod)
+
+### Liệu pháp quang học
+[Liệu pháp quang trị liệu](https://dermnetnz.org/topics/phototherapy) có thể làm mềm mô sẹo và có tác dụng chống viêm .
+Có thể sử dụng nhiều bước sóng tia cực tím khác nhau .
+- [UVA1](https://dermnetnz.org/topics/uva1-phototherapy) thâm nhập sâu nhất và do đó hữu ích khi liên quan đến các mô dưới da sâu hơn, nhưng hiếm khi có sẵn.
+- [Liệu pháp quang hóa](https://dermnetnz.org/topics/puva-photochemotherapy) tại chỗ hoặc toàn thân (PUVA, tức là psoralen + UVA) có thể hữu ích.
+- [Tia UVB dải hẹp](https://dermnetnz.org/topics/uvb-phototherapy) kém hiệu quả hơn vì nó chỉ thâm nhập vào bề mặt.
+
+### Điều trị toàn thân
+Điều trị toàn thân nhằm mục đích ngăn ngừa sự tiến triển và ngăn chặn quá trình bệnh đang hoạt động. Thông thường, điều trị cần ít nhất 2 đến 4 năm, nhưng có thể tái phát.
+- [Methotrexate](https://dermnetnz.org/topics/methotrexate)
+- [Corticosteroid toàn thân](https://dermnetnz.org/topics/systemic-steroids)
+- [Mycophenolate mofetil](https://dermnetnz.org/topics/mycophenolate-mofetil)
+Quyết định điều trị cụ thể đối với bệnh morphoea được hướng dẫn bởi phân nhóm bệnh morphoea và mức độ nghiêm trọng của bệnh.
+
+### Hình thái giới hạn bề mặt — nhẹ
+- Liệu pháp tại chỗ
+- [Quang trị liệu](https://dermnetnz.org/topics/phototherapy) (UVA1, nbUVB, PUVA)
+
+### Hình thái tuyến tính khởi phát ở người lớn hoặc tổng quát bề ngoài — trung bình
+- Liệu pháp tại chỗ VÀ [liệu pháp quang học](https://dermnetnz.org/topics/phototherapy)
+- Liệu pháp toàn thân
+
+### Các dạng sâu của morphoea và morphoea tuyến tính khởi phát ở trẻ em — nghiêm trọng
+- [Methotrexate](https://dermnetnz.org/topics/methotrexate) +/- [corticosteroid toàn thân](https://dermnetnz.org/topics/systemic-steroids) (tiêm tĩnh mạch xung &/hoặc uống)
+- [Mycophenolate mofetil](https://dermnetnz.org/topics/mycophenolate-mofetil) +/- [corticosteroid](https://dermnetnz.org/topics/systemic-steroids) (tiêm tĩnh mạch theo đợt &/hoặc uống)
+- Liệu pháp kết hợp
+- Kết hợp phương pháp điều trị dòng 1 và dòng 2
+- Thêm [hydroxychloroquine](https://dermnetnz.org/topics/hydroxychloroquine)
+- Thêm [liệu pháp quang học](https://dermnetnz.org/topics/phototherapy) (UVA1 hoặc PUVA nếu có)
+Các tùy chọn khác
+- [Ciclosporin](https://dermnetnz.org/topics/ciclosporin)
+- [](https://dermnetnz.org/topics/ciclosporin) Abatacept
+- Tocilizumab
+- [Quang phân ngoài cơ thể](https://dermnetnz.org/topics/extracorporeal-photopheresis)
+- Các liệu pháp thử nghiệm và báo cáo khác
+Vật lý trị liệu để cải thiện khả năng vận động của khớp nên được thực hiện thận trọng trong trường hợp viêm khớp dạng thấp đang hoạt động, vì chấn thương do đó có thể là tác nhân gây bệnh đang diễn ra.
+Trong một số trường hợp, phẫu thuật có thể có lợi, chẳng hạn như [chuyển mỡ tự thân](https://dermnetnz.org/topics/fat-grafting) , để cải thiện tình trạng teo cơ.
+
+---
+
+## Theo dõi đáp ứng điều trị
+
+Tiến triển của bệnh và phản ứng điều trị có thể được theo dõi bằng cách sử dụng hình ảnh, công cụ đánh giá da xơ cứng cục bộ (LoSCAT) và các xét nghiệm chuyên sâu khác, chẳng hạn như nhiệt ảnh hồng ngoại.
+
+### Công cụ đánh giá da xơ cứng khu trú
+LoSCAT là một công cụ đã được xác thực, được sử dụng để đánh giá hoạt động và tổn thương của bệnh theo thời gian. Công cụ này đánh giá 16 vị trí trên cơ thể và bao gồm hai vùng LS.
+- Chỉ số mức độ nghiêm trọng của bệnh xơ cứng bì cục bộ đã được sửa đổi (mLoSSI), dùng để đo hoạt động của bệnh
+- Chỉ số tổn thương xơ cứng cục bộ (LoSDI) dùng để đo lường mức độ tổn thương.
+Điểm cho mLoSSI
+- Ban đỏ : 0: không ban đỏ; 1: ban đỏ nhẹ/hồng; 2: ban đỏ/rõ ràng; và 3: ban đỏ sẫm hoặc ban đỏ rõ rệt/ tím.
+- Độ dày da: 0: độ dày da bình thường và di động tự do; 1: độ dày tăng nhẹ, di động; 2: độ dày tăng vừa phải, da di động kém; 3: độ dày tăng rõ rệt hoặc da không di động.
+- Tổn thương mới /mở rộng tổn thương: tổn thương mới phát triển và/hoặc mở rộng tổn thương hiện có trong tháng qua (điểm 3 nếu có).
+Ghi điểm cho LoSDI
+- Teo da: 0: da bình thường; 1: teo da nhẹ, tức là da bóng; 2: teo da vừa phải, tức là có thể nhìn thấy mạch máu; và 3: teo da nặng, tức là dấu hiệu 'rãnh nước' rõ ràng.
+- Teo dưới da: 0: độ dày dưới da bình thường; 1: phẳng; 2: bề mặt lõm rõ ràng; và 3: mất mỡ dưới da nghiêm trọng (mất > 2/3).
+- Rối loạn sắc tố : đánh giá tình trạng tăng hoặc giảm sắc tố, tùy theo mức độ nào nổi bật hơn: 0: sắc tố da bình thường ; 1: nhẹ; 2: trung bình; và 3: rối loạn sắc tố nghiêm trọng.
+
+---
+
+## Lịch sử tự nhiên của morphoea là gì?
+
+Bệnh Morphoea có thể diễn biến kéo dài, có thể tái phát rồi thuyên giảm, hoặc hoạt động mạn tính. Các dạng nhẹ hơn của bệnh có xu hướng không hoạt động trong vòng 3–5 năm.
+Tái phát có thể xảy ra sau khi điều trị thành công, đặc biệt là ở bệnh morphoea bắt đầu từ thời thơ ấu.
+Có thể cần phải kéo dài liệu trình điều trị toàn thân từ 4 đến 5 năm hoặc hơn để giảm thiểu nguy cơ tái phát.

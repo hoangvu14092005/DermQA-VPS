@@ -1,0 +1,130 @@
+# Tinea corporis - thông tin bổ sung
+
+Thể loại:
+
+Nhiễm trùng
+
+SNOMED CT:
+
+84849002, 240699006, 75868000, 182384005, 403038004, 214600002, 19087001
+
+**[Nhiễm trùng](https://dermnetnz.org/topics/topics?category=Infections)**
+
+
+# **Nấm da thân**
+
+Được tạo năm 2003. Cập nhật: Tiến sĩ Harriet Bell, Cán bộ Nội vụ, Bệnh viện Thành phố Auckland, Auckland, New Zealand. Biên tập bởi Gus Mitchell. Tháng 11 năm 2020.
+
+---
+
+## Bệnh nấm da thân là gì?
+
+[Nấm thân là một](https://dermnetnz.org/topics/tinea) bệnh nhiễm nấm nông trên da, có thể ảnh hưởng đến bất kỳ bộ phận nào của cơ thể, ngoại trừ bàn tay và bàn chân, da đầu, mặt và râu, bẹn và móng tay. Bệnh thường được gọi là "bệnh hắc lào" vì biểu hiện bằng các tổn thương hình vòng đặc trưng .
+
+### Tổn thương hình khuyên điển hình của bệnh hắc lào
+![Nấm da thân](https://dermnetnz.org/assets/Uploads/fungal/s/tincorp8.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/fungal/s/tincorp9-v2.jpg)
+![](https://dermnetnz.org/assets/collection/Tinea-corporis/tinea-corporis-00019.jpg)
+
+---
+
+## Ai bị bệnh nấm da thân?
+
+Nấm da thân (tinea corporis) được tìm thấy ở hầu hết các nơi trên thế giới, đặc biệt là ở vùng khí hậu nóng ẩm . Bệnh thường gặp nhất ở trẻ em và thanh thiếu niên, tuy nhiên mọi lứa tuổi đều có thể bị nhiễm bệnh, kể cả trẻ sơ sinh.
+Các yếu tố rủi ro y tế bao gồm:
+- Nhiễm trùng nấm da trước đó hoặc đồng thời
+- Bệnh tiểu đường
+- Suy giảm miễn dịch
+- Tăng tiết mồ hôi
+- Xerosis
+- Bệnh vảy cá.
+Các yếu tố rủi ro về môi trường bao gồm:
+- Sự đông đúc của hộ gia đình
+- Nhiễm trùng của các thành viên trong gia đình
+- Nuôi thú cưng trong nhà
+- Mặc quần áo kín
+- Các hoạt động giải trí liên quan đến tiếp xúc gần với người khác bao gồm phòng thay đồ chung.
+Người ta đã đưa ra giả thuyết về yếu tố di truyền , đặc biệt là đối với bệnh nấm da.
+
+---
+
+## Nguyên nhân nào gây ra bệnh nấm da thân?
+
+Bệnh nấm da thân (tinea corporis) chủ yếu do nấm dermatophyte thuộc chi Trichophyton và Microsporum gây ra . Loài T. rubrum ưa người là tác nhân gây bệnh nấm da thân phổ biến nhất trên toàn thế giới, bao gồm cả New Zealand. Các loài khác có thể gây bệnh nấm da thân bao gồm:
+- T. interdigitale
+- T. tonsurans — thứ phát sau bệnh nấm da đầu hoặc tiếp xúc da kề da
+- M. canis (mèo, chó) và ít phổ biến hơn là các loài lây truyền từ động vật khác bao gồm T. verrucosum (gia súc), T. equinum (ngựa) và T. erinacei (nhím).
+Nấm da thân lây lan qua sự bài tiết bào tử nấm từ vùng da bị nhiễm trùng. Sự lây truyền dễ dàng hơn do môi trường ấm áp, ẩm ướt và việc dùng chung vật trung gian như giường chiếu, khăn tắm và quần áo. Nhiễm nấm da ở các vùng da khác, chẳng hạn như nấm da chân, cũng có thể lây truyền. Thời gian ủ bệnh là 1–3 tuần. Nấm da xâm nhập và lan rộng ở lớp sừng , nhưng không thể xâm nhập vào các lớp sâu hơn của da khỏe mạnh.
+
+---
+
+## Các đặc điểm lâm sàng của bệnh nấm da thân là gì?
+
+Nấm thân ban đầu biểu hiện là một mảng đỏ hình tròn đơn độc với rìa trước nổi lên , có vảy . Tổn thương lan rộng từ trung tâm, tạo thành hình nhẫn, trung tâm giảm sắc tố và viền đỏ có vảy ở ngoại vi (bệnh hắc lào). Viền tổn thương có thể là sẩn hoặc mụn mủ. Ngứa thường gặp. Theo thời gian, nhiều tổn thương có thể phát triển , có thể liên kết lại thành một mô hình đa vòng . Sự phân bố của các tổn thương thường không đối xứng.
+![Rìa vảy màu đỏ sắc nét của tinea corporis](https://dermnetnz.org/assets/Uploads/fungal/tincorp16.jpg)
+![Các sẩn và mụn mủ của tinea corporis](https://dermnetnz.org/assets/Uploads/fungal/tincorp18.jpg)
+![Sự bất đối xứng của nấm da thân](https://dermnetnz.org/assets/Uploads/fungal/tincorp15.jpg)
+Xem thêm [hình ảnh Tinea corporis](https://dermnetnz-org.translate.goog/topics/tinea-corporis-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+
+### Các biến thể lâm sàng của tinea corporis
+Các biến thể lâm sàng của bệnh nấm da thân có thể bao gồm các loại sau.
+- [Kerion – phản ứng](https://dermnetnz.org/topics/kerion) viêm mủ dữ dội do nấm gây ra.
+- Nấm da gladiatorum — ảnh hưởng đến những người tham gia các môn thể thao đối kháng như đấu vật hoặc võ thuật do tiếp xúc da kề da. Bệnh thường do vi khuẩn T. tonsurans gây ra .
+- Tinea imbricata — các vòng đồng tâm rộng tạo thành các mảng đa vòng với vảy dày do nấm T. concentricum gây ra . Bệnh đặc biệt ngứa. Biến thể này phổ biến ở các đảo Thái Bình Dương và các vùng nhiệt đới xích đạo khác.
+- [Nấm da ẩn](https://dermnetnz.org/topics/tinea-incognito) — không có các đặc điểm điển hình của nấm da thân do ức chế phản ứng viêm sau khi bôi corticosteroid hoặc thuốc ức chế calcineurin tại chỗ . Tổn thương thường lan rộng với ranh giới không rõ ràng, không có vảy và ban đỏ.
+- [U hạt Majocchi](https://dermnetnz.org/topics/majocchi-granuloma) — một biến thể liên quan đến nang lông và mô dưới da , thường gặp nhất ở chân tay sau khi cạo râu. Bệnh biểu hiện dưới dạng sẩn hoặc mụn mủ quanh nang lông . T. rubrum là tác nhân thường gặp.
+- Bệnh hắc lào thể bọng nước — một biến thể hiếm gặp có biểu hiện là mụn nước hoặc mụn nước phồng rộp.
+- T. mentagrophytes loại VII — một loại nấm da mới nổi gây ra tình trạng phát ban ở bộ phận sinh dục rất viêm lây lan qua đường tình dục.
+
+### Các biến thể lâm sàng của tinea corporis
+![Kerion - bệnh tinea corporis](https://dermnetnz.org/assets/Uploads/fungal/kerion09.jpg)
+![Bệnh u hạt Majocchi - tinea corporis xâm lấn](https://dermnetnz.org/assets/Uploads/fungal/majocchi14.jpg)
+![Nấm da ẩn danh](https://dermnetnz.org/assets/Uploads/fungal/tiimsu.jpg)
+
+---
+
+## Bệnh lang ben thân có những biến chứng gì?
+
+Bệnh hắc lào có khả năng lây lan, lan sang những nơi khác trên da và sang người khác.
+Những bệnh nhân bị suy giảm miễn dịch , chẳng hạn như những người mắc [HIV/AIDS](https://dermnetnz.org/topics/acute-human-immunodeficiency-virus-infection-syndrome) , có thể bị nhiễm trùng lan tỏa .
+Bệnh nấm da mãn tính là tình trạng nhiễm trùng T. rubrum ở ít nhất bốn vị trí trên cơ thể sau một quá trình biến đổi kéo dài và tái phát mặc dù đã được điều trị.
+[Phản ứng dermatophytide](https://dermnetnz.org/topics/dermatophytide-reactions) là tình trạng phát ban dị ứng ở một vị trí xa do nhiễm nấm gây viêm.
+[Nhiễm trùng](https://dermnetnz.org/topics/bacterial-skin-infections) thứ phát do tụ cầu vàng thường gặp ở trẻ em bị [viêm da dị ứng](https://dermnetnz.org/topics/atopic-dermatitis) và nấm da thân.
+
+---
+
+## Bệnh tinea corporis được chẩn đoán như thế nào?
+
+Bệnh hắc lào thân thể cần được xem xét trong trường hợp có một mảng đơn độc hoặc phát ban không đối xứng và được xác nhận bằng xét nghiệm nấm để xác định nguồn gốc có thể xảy ra.
+Việc kiểm tra nên bao gồm toàn bộ bề mặt da, bao gồm cả da đầu và móng tay, để tìm ra các vị trí liên quan khác.
+[Nội soi da](https://dermnetnz.org/topics/dermoscopy) có thể hỗ trợ chẩn đoán lâm sàng với các đặc điểm ban đỏ, vảy trắng , phân bố mạch máu ở ngoại vi hoặc không đồng đều, sẩn nang nhỏ , đốm nâu xung quanh có vòng trắng vàng và lông gợn sóng hoặc gãy.
+Có thể kiểm tra mẫu cạo da từ rìa tổn thương có vảy và ngâm trong dung dịch kali hydroxit 10–20% dưới kính hiển vi quang học để tìm sợi nấm và bào tử. Nuôi cấy nấm từ mẫu cạo da giúp xác định tác nhân gây bệnh (xem [Xét nghiệm trong phòng thí nghiệm để tìm nhiễm nấm](https://dermnetnz.org/topics/laboratory-tests-for-fungal-infection) ).
+Bệnh nấm da thân đôi khi được chẩn đoán bằng [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) và thấy những thay đổi mô học đặc trưng (xem [bệnh lý nấm da thân](https://dermnetnz.org/topics/tinea-corporis-pathology) ). Thông thường, cần phải chẩn đoán bệnh u hạt Majocchi bằng mô học.
+
+---
+
+## Chẩn đoán phân biệt bệnh tinea corporis là gì?
+
+Chẩn đoán phân biệt bệnh tinea corporis có thể bao gồm:
+- [Chàm hình đĩa](https://dermnetnz.org/topics/discoid-eczema)
+- [Bệnh vẩy nến](https://dermnetnz.org/topics/psoriasis)
+- [](https://dermnetnz.org/topics/pityriasis-rosea) Mảng báo hiệu [Pityriasis rosea](https://dermnetnz.org/topics/pityriasis-rosea)
+- [Viêm da tiết bã nhờn](https://dermnetnz.org/topics/seborrhoeic-dermatitis) .
+
+---
+
+## Phương pháp điều trị bệnh nấm da thân là gì?
+
+
+### Các biện pháp chung
+Cần giữ da sạch sẽ và khô ráo hoàn toàn. Nên mặc quần áo rộng rãi, thoáng mát trong điều kiện khí hậu nóng ẩm. Tránh tiếp xúc gần với người bị nhiễm bệnh và dùng chung vật trung gian truyền bệnh. Việc kiểm tra các thành viên trong gia đình và vật nuôi để tìm nguồn lây nhiễm và điều trị thích hợp sẽ giúp giảm nguy cơ tái nhiễm.
+
+### Các biện pháp cụ thể
+Nấm da toàn thân khu trú có thể đáp ứng với [các thuốc kháng nấm tại chỗ](https://dermnetnz.org/topics/topical-antifungal-medication) như imidazole và [terbinafine](https://dermnetnz.org/topics/terbinafine) . Việc sử dụng thuốc cần bao gồm một ranh giới thích hợp xung quanh tổn thương và liệu trình kéo dài ít nhất 1–2 tuần sau khi các vết ban nhìn thấy đã biến mất. Tuy nhiên, tình trạng tái phát thường gặp.
+[Điều trị kháng nấm đường uống](https://dermnetnz.org/topics/oral-antifungal-medication) thường được chỉ định nếu nấm thân tóc lan rộng, hoặc không khỏi khi dùng thuốc kháng nấm tại chỗ. Điều trị toàn thân cũng được chỉ định cho u hạt Majocchi và nấm mọc lan rộng. Các thuốc đường uống được khuyến cáo là [terbinafine](https://dermnetnz.org/topics/terbinafine) và [itraconazole](https://dermnetnz.org/topics/itraconazole) .
+
+---
+
+## Kết quả của bệnh nấm da thân là gì?
+
+Với phương pháp điều trị phù hợp và sự tuân thủ điều trị tốt của bệnh nhân, nấm da thân có thể được chữa khỏi. Tuy nhiên, bệnh có thể tái phát hoặc tái nhiễm nếu ngừng điều trị quá sớm hoặc không xác định và điều trị tận gốc nguyên nhân gây nhiễm trùng.

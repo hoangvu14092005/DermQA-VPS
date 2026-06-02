@@ -1,0 +1,174 @@
+# Cai thuốc corticosteroid tại chỗ — thông tin bổ sung
+
+Thể loại:
+
+Điều trị
+
+SNOMED CT:
+
+401244004, 84584008, 403656003, 403655004, 762397008, 231458000
+
+**[Điều trị](https://dermnetnz.org/topics/topics?category=Treatments)**
+
+
+# **Cai thuốc corticosteroid tại chỗ**
+
+Tác giả: Tiến sĩ Hyun Kyoung Lee, Chuyên viên đăng ký y khoa; và Tiến sĩ Louise Reiche, Bác sĩ da liễu, Palmerston North, New Zealand (2023); Bản cập nhật nhỏ tháng 1 năm 2025.Đánh giá bác sĩ da liễu: Tiến sĩ Ian CoulsonĐược biên tập bởi bộ phận nội dung DermNet
+
+---
+
+## Hội chứng cai corticosteroid tại chỗ là gì?
+
+Ngừng sử dụng corticosteroid tại chỗ là phản ứng hồi phục hiếm gặp ở những bệnh nhân lạm dụng [steroid tại chỗ](https://dermnetnz.org/topics/topical-steroid) , xảy ra sau khi ngừng sử dụng.
+Tình trạng này thường do sử dụng corticosteroid tại chỗ liều trung bình đến cao trong thời gian dài. Hội chứng cai thuốc có thể biểu hiện bằng da nóng rát, ngứa, đỏ, bong tróc , sưng tấy, nổi sẩn hoặc mụn mủ.
+![Đỏ và sưng mí mắt - do ngừng sử dụng steroid sau thời gian dài sử dụng steroid mạnh trên mặt.](https://dermnetnz.org/assets/Uploads/treatments/steroid3.jpg)
+![Đỏ và sưng ở cẳng tay sau khi ngừng đột ngột việc sử dụng steroid bôi ngoài da mạnh trong thời gian dài. Lòng bàn tay không bị ảnh hưởng (dấu hiệu tay áo đỏ).](https://dermnetnz.org/assets/Uploads/doctors/lesions/images/telang8.jpg)
+
+---
+
+## Ai sẽ bị cai thuốc corticosteroid tại chỗ?
+
+Tỷ lệ xảy ra phản ứng cai thuốc corticosteroid tại chỗ vẫn chưa được biết rõ.
+Các yếu tố nguy cơ chính gây ra tình trạng cai thuốc steroid tại chỗ bao gồm:
+- Sử dụng corticosteroid tại chỗ trên mặt (97%)
+- Tiền sử [dị ứng](https://dermnetnz.org/topics/atopy) (76%)
+- [Sử dụng corticosteroid đường uống](https://dermnetnz.org/topics/systemic-steroids) (42%)
+- Giới tính nữ (79%)
+- Người lớn trên 18 tuổi (83%)
+- Corticosteroid tại chỗ có hiệu lực trung bình (69%) hoặc cao (21%)
+- Thời gian điều trị corticosteroid tại chỗ là 6 tháng hoặc lâu hơn (63%).
+
+---
+
+## Nguyên nhân nào gây ra tình trạng cai thuốc corticosteroid tại chỗ?
+
+Các cơ chế sau đây có thể giải thích cơ chế sinh bệnh của tình trạng cai [steroid tại chỗ](https://dermnetnz.org/topics/topical-steroid) :
+- Tachyphylaxis (giảm đáp ứng) khi tiếp tục sử dụng, dẫn đến sử dụng liều cao hơn
+- Tăng cường thụ thể glucocorticoid b ở bệnh nhân [viêm da dị ứng](https://dermnetnz.org/topics/atopic-dermatitis) có đáp ứng kém với steroid tại chỗ [](https://dermnetnz.org/topics/atopic-dermatitis)
+- Keratinocytes tiếp tục ức chế sản xuất cortisol tự thân sau khi ngừng sử dụng steroid tại chỗ
+- Corticosteroid tại chỗ gây co mạch , nhưng khi ngừng thuốc, hiện tượng giãn mạch lại xảy ra do giải phóng oxit nitric tăng lên, dẫn đến ban đỏ da.
+- Sự phá vỡ hàng rào gây ra phản ứng cytokine hồi phục sau khi tác dụng chống viêm của corticosteroid tại chỗ bị loại bỏ
+- Tăng cường quá trình oxy hóa NAD+ của phức hợp ty thể 1 và chuyển hóa tryptophan thành chất chuyển hóa kynurenine và axit nicotinic.
+
+---
+
+## Các đặc điểm lâm sàng của việc ngừng sử dụng corticosteroid tại chỗ là gì?
+
+Trước khi ngừng steroid, da thường trông bình thường hoặc gần như bình thường, mặc dù bệnh nhân viêm [da dị ứng](https://dermnetnz.org/topics/atopic-dermatitis) có thể bị ngứa hoặc nổi các nốt sần giống như [ngứa](https://dermnetnz.org/topics/prurigo) . Hội chứng cai thuốc bắt đầu xuất hiện từ thời điểm ngừng thuốc, kéo dài từ 48 giờ đến hơn 3 tháng.
+Quá trình cai nghiện thường diễn ra theo bốn giai đoạn.
+- Một vài ngày (thường là) sau khi ngừng thuốc, sẽ có hiện tượng phát ban đỏ , nóng rát, da tiết dịch và có thể lan sang các vùng không được điều trị.
+- Da trở nên khô và ngứa do bong tróc ( vảy nến ).
+- Da bắt đầu phục hồi nhưng nhạy cảm hơn và có thể xảy ra tình trạng bùng phát từng đợt.
+- Da sẽ phục hồi về trạng thái trước khi ngừng sử dụng corticosteroid tại chỗ. Quá trình phục hồi có thể mất vài tuần đến vài năm.
+Triệu chứng:
+- Đau rát
+- [Ngứa](https://dermnetnz.org/topics/pruritus) dữ dội [](https://dermnetnz.org/topics/pruritus)
+- Độ nhạy cảm của da
+- Mất ngủ
+- Tâm trạng chán nản
+- [Không dung nạp chất làm mềm](https://dermnetnz.org/topics/emollients-and-moisturisers) .
+Đặc điểm da :
+- Da đỏ lan tỏa
+- 'Nếp nhăn voi': da dày lên, độ đàn hồi giảm, thường ảnh hưởng đến bề mặt duỗi
+- Dấu hiệu tay áo đỏ: ban đỏ ở chân tay, trừ lòng bàn tay và lòng bàn chân
+- Dấu hiệu đèn pha: ban đỏ ở mặt, không ảnh hưởng đến mũi và da quanh miệng
+- Lột da (bong tróc)
+- Sưng ( phù nề )
+- Dịch tiết ( dịch tiết )
+- Sẩn +/- nốt sần
+- Mụn mủ
+- [Giãn mạch](https://dermnetnz.org/topics/telangiectasia) .
+
+### Các loại phụ của hội chứng cai steroid tại chỗ
+- Thể ban đỏ phù nề: thường gặp ở bệnh nhân bị viêm da dị ứng mãn tính , đặc trưng bởi cảm giác nóng rát, ban đỏ, phù nề và bong tróc.
+- Thể sẩn mủ : thường gặp sau khi sử dụng steroid để điều trị thay đổi sắc tố hoặc các lý do thẩm mỹ khác, đặc trưng bởi sẩn, mụn mủ và ban đỏ. Thể này ít gặp hơn với cảm giác nóng rát, châm chích hoặc sưng tấy.
+
+---
+
+## Các đặc điểm lâm sàng khác nhau như thế nào ở các loại da khác nhau?
+
+Những thay đổi về da sẫm màu hoặc xám hơn, thay vì đỏ, có thể xuất hiện ở [những loại da có nhiều](https://dermnetnz.org/topics/skin-phototype) sắc tố hơn . [](https://dermnetnz.org/topics/skin-phototype)
+
+---
+
+## Những biến chứng của việc ngừng sử dụng corticosteroid tại chỗ là gì?
+
+- Ngứa dữ dội và rối loạn giấc ngủ.
+- Bùng phát bệnh lý da trước khi điều trị, đặc biệt là [viêm da dị ứng](https://dermnetnz.org/topics/atopic-dermatitis) .
+- [Nhiễm trùng da](https://dermnetnz.org/topics/skin-infections) thứ phát .
+- Trầm cảm/lo âu (26%).
+- Ý định tự tử (16%) do suy nhược kéo dài.
+- Sử dụng liệu pháp không thông thường.
+- Sợ steroid cho các phương pháp điều trị trong tương lai.
+
+---
+
+## Hội chứng cai corticosteroid tại chỗ được chẩn đoán như thế nào?
+
+Hiện vẫn chưa có sự thống nhất về tiêu chuẩn chẩn đoán cai thuốc corticosteroid tại chỗ, tuy nhiên, trong các tài liệu gần đây, các đặc điểm chính là:
+- [Sử dụng steroid tại chỗ](https://dermnetnz.org/topics/topical-steroid) thường xuyên và kéo dài trên vùng da mới phát ban
+- Sử dụng steroid tại chỗ thường xuyên và kéo dài trên vùng mặt hoặc vùng sinh dục
+- Cảm giác nóng rát hoặc ngứa
+- Đỏ da (ban đỏ) xuất hiện trong vòng vài ngày đến vài tuần sau khi ngừng sử dụng steroid tại chỗ
+- Thường liên quan đến: Tiền sử [dị ứng](https://dermnetnz.org/topics/atopy) , đặc biệt là viêm da dị ứng Tiền sử sử dụng [prednisone đường uống](https://dermnetnz.org/topics/systemic-steroids) để điều trị các triệu chứng về da [Độ nhạy cảm của da](https://dermnetnz.org/topics/sensitive-skin) Tẩy da chết quá mức (lột da) Da rỉ nước Sưng (phù nề), đặc biệt là ở mí mắt hoặc mắt cá chân 'Nếp nhăn voi' ở khuỷu tay sau và đầu gối trước (cơ duỗi) Biển báo tay áo màu đỏ.
+- Tiền sử [dị ứng](https://dermnetnz.org/topics/atopy) , đặc biệt là viêm da dị ứng
+- Tiền sử sử dụng [prednisone đường uống](https://dermnetnz.org/topics/systemic-steroids) để điều trị các triệu chứng về da
+- [Độ nhạy cảm của da](https://dermnetnz.org/topics/sensitive-skin)
+- Tẩy da chết quá mức (lột da)
+- Da rỉ nước
+- Sưng (phù nề), đặc biệt là ở mí mắt hoặc mắt cá chân
+- 'Nếp nhăn voi' ở khuỷu tay sau và đầu gối trước (cơ duỗi)
+- Biển báo tay áo màu đỏ.
+Một trong những thách thức là xác định xem phản ứng trên da quan sát được là do ngừng sử dụng corticosteroid tại chỗ hay do bệnh ngoài da tiềm ẩn mà thuốc steroid được kê đơn trở nên trầm trọng hơn.
+[Kiểm tra miếng dán](https://dermnetnz.org/topics/patch-tests) có thể hữu ích trong việc loại trừ [viêm da tiếp xúc](https://dermnetnz.org/topics/contact-dermatitis) với corticosteroid tại chỗ hoặc tá dược kem , hoặc các tác nhân tại chỗ khác (ví dụ, [chất làm mềm da](https://dermnetnz.org/topics/emollients-and-moisturisers) ), mặc dù điều này có thể khó khăn nếu không có đủ vùng da bình thường. [](https://dermnetnz.org/topics/emollients-and-moisturisers)
+Mô học không hữu ích trong việc chẩn đoán tình trạng cai corticosteroid tại chỗ do các đặc điểm mô học không đặc hiệu của tình trạng này là teo biểu bì , xốp hóa và cận sừng hóa.
+
+---
+
+## Chẩn đoán phân biệt khi ngừng sử dụng corticosteroid tại chỗ là gì?
+
+- [Viêm da tiếp xúc](https://dermnetnz.org/topics/contact-dermatitis)
+- [](https://dermnetnz.org/topics/atopic-dermatitis) Các đợt bùng phát [viêm da dị ứng](https://dermnetnz.org/topics/atopic-dermatitis)
+- [Bệnh trứng cá đỏ](https://dermnetnz.org/topics/rosacea)
+- [U lympho tế bào T ở da](https://dermnetnz.org/topics/cutaneous-t-cell-lymphoma)
+- [Bệnh vẩy nến](https://dermnetnz.org/topics/psoriasis)
+
+---
+
+## Phương pháp điều trị chứng cai thuốc corticosteroid tại chỗ là gì?
+
+Có nhiều phương pháp điều trị khác nhau, tuy nhiên chúng không giúp rút ngắn thời gian điều trị.
+
+### Các biện pháp chung
+- [Chất làm mềm và dưỡng ẩm](https://dermnetnz.org/topics/emollients-and-moisturisers) .
+- Chườm lạnh, chườm đá và [gabapentin](https://dermnetnz.org/topics/gabapentin) để giảm đau rát.
+- [Thuốc kháng histamin](https://dermnetnz.org/topics/antihistamines) để giảm ngứa.
+- Giảm đau đơn giản .
+- Hỗ trợ tâm lý.
+
+### Các biện pháp cụ thể
+- Ngừng sử dụng corticosteroid tại chỗ là phương pháp điều trị chính nhưng điều quan trọng là phải theo dõi các phản ứng hồi phục. Việc ngừng đột ngột hay giảm dần liều lượng đang được tranh luận.
+- Việc ngừng đột ngột hay giảm dần liều lượng đang được tranh luận.
+- Giảm dần liều [corticosteroid đường uống](https://dermnetnz.org/topics/systemic-steroids) .
+- Dupilumab có thể được cân nhắc sử dụng cho bệnh nhân [bị viêm da dị ứng](https://dermnetnz.org/topics/atopic-dermatitis) .
+- [Thuốc ức chế calcineurin](https://dermnetnz.org/topics/calcineurin-inhibitors) và kháng sinh [tetracycline](https://dermnetnz.org/topics/tetracycline) cho thể sẩn mủ.
+- Phòng ngừa và điều trị mọi [bệnh nhiễm trùng](https://dermnetnz.org/topics/skin-infections) thứ phát .
+- [Liệu pháp quang học](https://dermnetnz.org/topics/phototherapy) .
+- Thuốc ức chế miễn dịch.
+
+---
+
+## Làm thế nào để ngăn ngừa tình trạng cai thuốc corticosteroid tại chỗ?
+
+- Giảm tần suất và hiệu lực của việc sử dụng corticosteroid tại chỗ ngay khi các bệnh lý viêm da khỏi (tránh sử dụng hàng ngày 'để ngăn ngừa tái phát ').
+- Tránh tiếp tục sử dụng corticosteroid bôi ngoài da ở mức độ trung bình đến mạnh trên mặt.
+- Giảm thiểu thời gian điều trị corticosteroid kéo dài liên tục, ví dụ: quá 2 tuần. Một số tình trạng như liken xơ cứng âm hộ có thể cần điều trị hơn 4 tuần để tối đa hóa hiệu quả.
+- Giảm liều lượng và tần suất sử dụng steroid tại chỗ từ hàng ngày xuống hai lần một tuần sau 2–4 tuần sử dụng.
+Mối lo ngại về nguy cơ cai thuốc corticosteroid tại chỗ không nên ngăn cản việc điều trị đầy đủ bệnh viêm da dị ứng và các tình trạng da khác, vì nhiều người đáp ứng với việc sử dụng steroid tại chỗ thích hợp hơn là bị cai thuốc.
+
+---
+
+## Kết quả của việc ngừng sử dụng corticosteroid tại chỗ là gì?
+
+Hiện tại không có phương pháp điều trị cụ thể nào có thể rút ngắn rõ rệt thời gian phục hồi, có thể kéo dài từ 72 giờ đến vài tháng, trong đó phần lớn (77%) phục hồi sau 3 tháng.
+Quá trình cai thuốc corticosteroid tại chỗ có thể kéo dài tới 5 năm sau khi ngừng thuốc ở một số ít bệnh nhân.

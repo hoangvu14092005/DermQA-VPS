@@ -1,0 +1,191 @@
+# Bệnh giang mai — thông tin bổ sung
+
+Thể loại:
+
+Nhiễm trùng
+
+SNOMED CT:
+
+76272004, 266127002, 28198007, 31015008, 186847001, 240556008, 402940004, 402941000, 736686006, 402942007, 402944008, 444150000, 186867005, 186903006, 266136003, 266130009, 72083004, 64102008, 240566000, 235064008, 87318008, 35742006, 4359001, 82323002, 721583004, 72904005, 40675008, 19869000, 7786006, 269829001, 199154009, 9232009, 59307008, 40294 240557004, 59233003, 266128007, 39085002, 60528006, 186850003, 240558009, 240560006, 402949003, 240562003, 235065009, 91554004, 402946005, 402945009
+
+**[Nhiễm trùng](https://dermnetnz.org/topics/topics?category=Infections)**
+
+
+# **Bệnh giang mai**
+
+Tác giả: Vanessa Ngan, Biên tập viên, 2003. Cập nhật bởi Tiến sĩ Daniela Vanousova, Bác sĩ Da liễu, Cộng hòa Séc, tháng 7 năm 2015, và bởi Tiến sĩ Susan Bray, Bác sĩ Sức khỏe Tình dục, Hamilton, New Zealand, tháng 3 năm 2018. Tổng Biên tập DermNet: Phó Giáo sư Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand. Biên tập bởi Gus Mitchell, tháng 1 năm 2020.
+
+---
+
+## Bệnh giang mai là gì?
+
+Giang mai là một bệnh lây truyền qua đường tình dục do xoắn khuẩn Treponema pallidum gây ra . Bệnh giang mai có thể gây ra nhiều dấu hiệu và triệu chứng tương tự như các bệnh khác, bao gồm cả [virus gây suy giảm miễn dịch ở người (HIV)](https://dermnetnz.org/topics/acute-human-immunodeficiency-virus-infection-syndrome) , và do đó được mệnh danh là "kẻ bắt chước vĩ đại".
+Bệnh giang mai có hai giai đoạn có triệu chứng và không triệu chứng . Nếu không được điều trị, bệnh giang mai có thể gây ra những hậu quả đáng kể cho người nhiễm bệnh ( bệnh thần kinh và tim mạch kéo dài), cho thai kỳ (thai chết lưu và nhiễm trùng bẩm sinh ), và cho sức khỏe cộng đồng (lây lan trong cộng đồng).
+![Bệnh giang mai nguyên phát](https://dermnetnz.org/assets/Uploads/bacterial/syph6.jpg)
+![Bệnh giang mai thứ phát](https://dermnetnz.org/assets/Uploads/syphilis-28.jpg)
+![Bệnh giang mai giai đoạn ba](https://dermnetnz.org/assets/Uploads/syphilis-10.jpg)
+
+---
+
+## Ai mắc bệnh giang mai?
+
+Bệnh giang mai lây truyền qua đường tình dục từ người sang người, thông qua tiếp xúc trực tiếp với vết loét giang mai hoặc qua máu bị nhiễm bệnh thông qua các vi chấn thương trong quá trình quan hệ tình dục. Loét giang mai thường xuất hiện ở bộ phận sinh dục và vùng hậu môn , nhưng cũng có thể xuất hiện ở môi hoặc miệng. Do đó, quan hệ tình dục dưới bất kỳ hình thức nào — âm đạo , hậu môn hoặc miệng — là con đường lây truyền giang mai chính từ người này sang người khác. Giang mai cũng lây truyền theo chiều dọc (từ mẹ sang con) trong thai kỳ. Một con đường lây truyền tiềm ẩn khác là dùng chung kim tiêm (ví dụ: tiêm chích ma túy).
+Số ca mắc giang mai được báo cáo đã gia tăng ở New Zealand và trên toàn thế giới trong thập kỷ qua, đặc biệt là ở nam giới quan hệ tình dục đồng giới (MSM). Gần đây nhất, bệnh đang có dấu hiệu tái phát trong cộng đồng dị tính. Đây là một mối lo ngại đặc biệt vì giang mai khi mang thai nếu không được điều trị có thể gây ra những hậu quả nghiêm trọng cho sức khỏe của người mẹ, thai kỳ và thai nhi.
+
+---
+
+## Các đặc điểm lâm sàng của bệnh giang mai là gì?
+
+Sau khi nhiễm giang mai, thời gian ủ bệnh kéo dài từ 10–90 ngày (trung bình 21 ngày) trước khi các triệu chứng xuất hiện rõ ràng. Bệnh giang mai không được điều trị sẽ trải qua các giai đoạn lâm sàng (có triệu chứng) và tiềm ẩn (không triệu chứng) riêng biệt. Trong giai đoạn tiềm ẩn , chẩn đoán chỉ có thể được thực hiện bằng xét nghiệm huyết thanh học. Trong các giai đoạn lâm sàng, các dấu hiệu và triệu chứng của giang mai khác nhau tùy theo giai đoạn — sơ cấp, thứ cấp hoặc tam cấp — như được mô tả dưới đây.
+
+### Bệnh giang mai nguyên phát
+Bệnh giang mai nguyên phát đặc trưng bởi các vết loét (săng) tại vị trí xâm nhập của xoắn khuẩn T. pallidum . Xoắn khuẩn T. pallidum dùng hình dạng xoắn ốc của mình để xoắn vào da. Hậu quả là xuất hiện vết loét không đau .
+- Thông thường, một nốt sần nhỏ, cứng, màu đỏ, không đau ở vùng sinh dục sẽ nhanh chóng trở thành vết loét không đau có ranh giới rõ ràng và đáy cứng .
+- Có tới 30% trường hợp xuất hiện nhiều vết loét .
+- Vết loét ban đầu có thể không được phát hiện, đặc biệt nếu ẩn bên trong âm đạo , cổ tử cung , miệng hoặc ở vùng hậu môn.
+- Có thể xảy ra tình trạng sưng hạch bạch huyết không đau ở vùng loét (ví dụ, sưng hạch bạch huyết bẹn ở vết loét ở bộ phận sinh dục và sưng hạch bạch huyết cổ ở vết loét miệng).
+- Vết loét thường tự lành mà không cần điều trị trong vòng vài tuần.
+
+### Bệnh giang mai: săng nguyên phát
+![Không có caption](https://dermnetnz.org/assets/Uploads/syphilis-43.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/bacterial/s/syph4.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/bacterial/syph5.jpg)
+
+### Bệnh giang mai thứ phát
+Giang mai thứ phát là một bệnh nhiễm trùng toàn thân . Giang mai thứ phát đặc trưng bởi phát ban và các triệu chứng toàn thân , trong đó bệnh nhân có khả năng lây nhiễm rất cao. Nếu không được điều trị, các triệu chứng này cuối cùng sẽ thuyên giảm sau vài tuần, nhưng có thể tái phát.
+- Nếu không được điều trị, 25% bệnh nhân sẽ phát triển bệnh giang mai thứ phát trong vòng ba tháng (trung bình sáu tuần) sau khi xuất hiện săng ban đầu.
+- Bệnh giang mai là bệnh nhiễm trùng ở nhiều cơ quan và bệnh nhân có khả năng lây nhiễm rất cao trong giai đoạn này.
+- Các triệu chứng toàn thân có thể bao gồm sốt , đau đầu, khó chịu , đau cơ , đau khớp và nổi hạch.
+- Các cơ quan bị ảnh hưởng khác có thể bao gồm gan, thận, hệ thần kinh trung ương ( liệt dây thần kinh sọ , viêm màng não ), khớp và mắt (dẫn đến suy giảm thị lực).
+
+### Đặc điểm da của bệnh giang mai thứ phát
+- Phát ban không ngứa xuất hiện ở 90% bệnh nhân mắc bệnh giang mai thứ phát
+- Phát ban có thể nhẹ hoặc có thể xuất hiện dưới dạng các sẩn hoặc mảng sần thô ráp, màu đỏ hoặc nâu đỏ
+- Phát ban thường xuất hiện ở thân mình và thường ảnh hưởng đến lòng bàn tay và lòng bàn chân
+- Hiếm khi, phát ban biểu hiện dưới dạng một cụm sẩn đỏ xung quanh một mảng vảy ở trung tâm , giống như một bông hoa; hình thái hoa này được mô tả là bệnh giang mai 'corymbose'
+- Có thể xảy ra tình trạng [rụng tóc](https://dermnetnz.org/topics/hair-loss) từng mảng (rụng tóc từng mảng)
+- Các bề mặt niêm mạc — chẳng hạn như bên trong miệng, cổ họng, vùng sinh dục, âm đạo và hậu môn — có thể trở nên thô ráp và đỏ ( các mảng niêm mạc )
+- Mảng trắng xám, ẩm ướt gọi là condyloma lata xuất hiện ở bẹn, mặt trong đùi, nách, rốn hoặc dưới vú
+
+### Phát ban giang mai thứ phát ở thân và chân tay
+![Không có caption](https://dermnetnz.org/assets/Uploads/bacterial/syph12.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/bacterial/syph9.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/bacterial/s/syph3.jpg)
+
+### Bệnh giang mai thứ phát liên quan đến các nếp gấp và niêm mạc
+![Không có caption](https://dermnetnz.org/assets/Uploads/syphilis-09.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/syphilis-45.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/syphilis-24.jpg)
+[Xem thêm hình ảnh về bệnh giang mai](https://dermnetnz-org.translate.goog/topics/syphilis-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp) .
+
+### Bệnh giang mai tiềm ẩn
+Giữa giai đoạn lâm sàng thứ phát và thứ ba của bệnh giang mai, có nhiều năm tiềm ẩn. Giai đoạn tiềm ẩn được chia thành giai đoạn sớm và giai đoạn muộn. Trong giai đoạn tiềm ẩn, bệnh nhân không có triệu chứng và không có dấu hiệu nào khi khám lâm sàng. Do đó, nhiễm trùng giang mai kéo dài chỉ được phát hiện bằng xét nghiệm kháng thể xoắn khuẩn giang mai dương tính .
+
+### Giang mai tiềm ẩn sớm (hai năm đầu)
+Bệnh nhân có khả năng lây nhiễm rất cao.
+- Nhiễm trùng giang mai có thể lây truyền sang bạn tình.
+- Nhiễm trùng giang mai có thể lây truyền từ phụ nữ mang thai sang thai nhi.
+
+### Bệnh giang mai tiềm ẩn muộn (sau hai năm)
+Bệnh giang mai chỉ lây truyền trong những trường hợp cụ thể.
+- Bệnh nhân không lây nhiễm cho bạn tình.
+- Nhiễm trùng giang mai vẫn có thể lây truyền từ phụ nữ mang thai sang thai nhi.
+
+### Bệnh giang mai giai đoạn ba
+Bệnh giang mai giai đoạn ba phát triển hàng thập kỷ sau lần nhiễm trùng đầu tiên.
+- Các dấu hiệu và triệu chứng muộn có thể xuất hiện 20–40 năm sau lần nhiễm trùng đầu tiên ở một phần ba số trường hợp không được điều trị.
+- Nhiễm trùng không được điều trị có thể dẫn đến viêm nội mạc động mạch, và các biến chứng bao gồm bệnh lý về nướu, tim mạch và thần kinh. Nướu là một tổn thương dạng u hạt đơn độc với hoại tử trung tâm. Nướu thường xuất hiện trên da hoặc xương nhưng có thể gặp ở bất cứ đâu: Gôm da có thể không đau Các cục gôm ở xương dài gây ra cơn đau sâu, khó chịu và trở nên tồi tệ hơn vào ban đêm.
+- Gôm da có thể không đau
+- Các cục gôm ở xương dài gây ra cơn đau sâu, khó chịu và trở nên tồi tệ hơn vào ban đêm.
+- Bệnh tim mạch là một biến chứng hiếm gặp. Động mạch chủ là cơ quan dễ bị ảnh hưởng nhất và bị giãn, dẫn đến phình động mạch chủ và hở van động mạch chủ.
+- Bệnh giang mai thần kinh có thể biểu hiện dưới dạng bệnh màng não (viêm nội mạc động mạch dẫn đến đột quỵ do thiếu máu cục bộ), liệt toàn thân (mất tế bào thần kinh ở vỏ não dẫn đến chứng mất trí tiến triển ) và bệnh tabes dorsalis (tủy sống bị teo ) .
+![Không có caption](https://dermnetnz.org/assets/Uploads/syphilis-11.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/syphilis-07-v2.jpg)
+
+### Bệnh giang mai bẩm sinh
+Bệnh giang mai ở mẹ không được điều trị có thể dẫn đến sảy thai, thai chết lưu hoặc nhiễm trùng bẩm sinh. Nhiều trẻ sơ sinh mắc bệnh giang mai bẩm sinh sẽ không có triệu chứng khi sinh. Bệnh giang mai bẩm sinh được chia thành giai đoạn sớm và giai đoạn muộn.
+
+### Bệnh giang mai bẩm sinh sớm (trong hai năm đầu đời)
+Trong vài tuần đầu đời, ảnh hưởng đối với trẻ sơ sinh giống như bệnh giang mai thứ phát kèm nhiễm trùng nhiều cơ quan.
+- Phát ban dạng sẩn, tổn thương mụn nước , mảng nhầy, sùi mào gà, viêm mũi (viêm niêm mạc mũi gây sổ mũi).
+- Các cơ quan bị ảnh hưởng khác bao gồm xương (viêm xương sụn), thận (viêm cầu thận), gan ( gan lách to ) và hạch bạch huyết (hạch to).
+- Cũng có thể xảy ra tình trạng liên quan đến thần kinh, mắt và huyết học .
+![Không có caption](https://dermnetnz.org/assets/Uploads/syphilis-46.jpg)
+
+### Bệnh giang mai bẩm sinh muộn (sau hai tuổi)
+Bệnh giang mai bẩm sinh muộn có biểu hiện tương tự như bệnh giang mai dạng gôm giai đoạn ba ở người lớn bị nhiễm trùng mãn tính , kéo dài .
+- Nhiễm trùng mãn tính này thường ảnh hưởng đến mắt ( viêm giác mạc kẽ ), tai (điếc), xương, khớp và hệ thần kinh trung ương.
+- Các dấu hiệu đặc trưng bao gồm răng cửa Hutchinson, răng hàm dâu tằm, hình dạng khuôn mặt điển hình (mũi nhô ra phía trước, mũi yên ngựa), cẳng chân cong và đầu gối sưng (khớp Clutton).
+
+---
+
+## Chẩn đoán phân biệt bệnh giang mai là gì?
+
+Chẩn đoán phân biệt bệnh giang mai phụ thuộc vào các đặc điểm lâm sàng có thể có của bệnh.
+
+### Chẩn đoán phân biệt loét giang mai nguyên phát
+- Loét sinh dục: [herpes sinh dục](https://dermnetnz.org/topics/genital-herpes) , chấn thương , ung thư ; và ít phổ biến hơn là [bệnh lao](https://dermnetnz.org/topics/cutaneous-tuberculosis) và [bệnh hạ cam](https://dermnetnz.org/topics/chancroid)
+- Loét hậu môn: [mụn rộp sinh dục](https://dermnetnz.org/topics/genital-herpes) , nứt hậu môn , [nhiễm trùng do vi khuẩn](https://dermnetnz.org/topics/bacterial-skin-infections) , chấn thương và bệnh viêm ruột
+- [Loét miệng](https://dermnetnz.org/topics/mouth-ulcer) : [herpes simplex (mụn rộp)](https://dermnetnz.org/topics/herpes-simplex) , [loét miệng](https://dermnetnz.org/topics/aphthous-ulcer) và chấn thương.
+
+### Chẩn đoán phân biệt phát ban của bệnh giang mai thứ phát
+- [Sự bùng phát của ma túy](https://dermnetnz.org/topics/drug-eruptions)
+- [Bệnh vảy phấn hồng](https://dermnetnz.org/topics/pityriasis-rosea)
+- [Bệnh vẩy nến](https://dermnetnz.org/topics/psoriasis)
+- [Bệnh chàm/viêm da](https://dermnetnz.org/topics/dermatitis)
+
+---
+
+## Bệnh giang mai được chẩn đoán như thế nào?
+
+Chẩn đoán bệnh giang mai được thực hiện dựa trên tiền sử bệnh và khám sức khỏe, kết hợp với xét nghiệm huyết thanh và xét nghiệm trong phòng thí nghiệm .
+Bệnh giang mai có thể được chẩn đoán bằng cách tìm xoắn khuẩn T. pallidum trong mẫu bệnh phẩm từ tổn thương hoặc hạch bạch huyết bị nhiễm trùng. Xoắn khuẩn có thể được xác định bằng kính hiển vi trường tối hoặc xét nghiệm phản ứng chuỗi polymerase xoắn khuẩn ( PCR ). Các xét nghiệm này không phải lúc nào cũng có sẵn cho bác sĩ chẩn đoán.
+[Sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) có thể hoặc không thể cho thấy các đặc điểm bệnh lý học đặc trưng . [Xem [Bệnh lý giang mai]](https://dermnetnz.org/topics/syphilis-pathology)
+Xét nghiệm huyết thanh học để phát hiện kháng thể do nhiễm trùng xoắn khuẩn là xét nghiệm phổ biến nhất được sử dụng để chẩn đoán nhiễm trùng. Xét nghiệm huyết thanh học không thể phân biệt giữa các loại nhiễm trùng xoắn khuẩn khác nhau ( [bệnh ghẻ cóc](https://dermnetnz.org/topics/yaws) , [bệnh pinta](https://dermnetnz.org/topics/pinta) , [bệnh giang mai](https://dermnetnz.org/topics/syphilis) ) hoặc thời gian nhiễm trùng. Xét nghiệm xoắn khuẩn phản ứng sẽ duy trì kết quả dương tính suốt đời, bất kể điều trị hay hoạt động của bệnh.
+Xét nghiệm kháng thể xoắn khuẩn giang mai có thể được chia thành xét nghiệm không đặc hiệu và xét nghiệm đặc hiệu. Việc sử dụng xét nghiệm nào tùy thuộc vào những gì có sẵn tại phòng xét nghiệm địa phương. Các xét nghiệm không đặc hiệu bao gồm:
+- Phòng thí nghiệm nghiên cứu bệnh hoa liễu (VDRL)
+- Phản ứng huyết tương nhanh (RPR).
+Các xét nghiệm cụ thể bao gồm:
+- Xét nghiệm miễn dịch enzyme (EIA)
+- Ngưng kết hồng cầu Treponema pallidum (TPHA)
+- Xét nghiệm ngưng kết hạt Treponema pallidum (TPPA).
+Mẫu được sàng lọc bằng xét nghiệm chính (thường là EIA hoặc TPHA) để phát hiện IgG và IgM và được xác nhận bằng một xét nghiệm xoắn khuẩn khác. Ví dụ, xét nghiệm EIA dương tính được xác nhận bằng xét nghiệm TPHA dương tính.
+Sau khi xác nhận, mẫu được đánh giá hoạt động huyết thanh của bệnh nhiễm trùng bằng xét nghiệm RPR/VDRL.
+- Nồng độ RPR/VDRL > 16 biểu thị bệnh đang hoạt động.
+- Nồng độ RPR/VDRL < 16 không loại trừ nhiễm trùng đang hoạt động nhưng phù hợp hơn với nhiễm trùng tiềm ẩn muộn hoặc nhiễm trùng đã được điều trị.
+Do đó, tiền sử bệnh nhân rất quan trọng để giải thích. Nồng độ RPR/VDRL cũng được sử dụng để theo dõi hiệu quả điều trị.
+Sau những lần quan hệ tình dục có nguy cơ cao, nên sàng lọc lại sau sáu và 12 tuần kể từ khi tiếp xúc, vì xét nghiệm huyết thanh học ban đầu có thể âm tính ở bệnh giang mai nguyên phát. Xét nghiệm huyết thanh học luôn dương tính ở bệnh giang mai thứ phát, nhưng cần lưu ý khả năng xảy ra hiệu ứng vùng đệm (prozone effect), có thể dẫn đến kết quả âm tính giả. Hiệu ứng vùng đệm xảy ra khi nồng độ kháng thể cao cản trở sự hình thành mạng lưới kháng thể- kháng nguyên , yếu tố cần thiết để có kết quả xét nghiệm keo tụ dương tính.
+Có thể xảy ra kết quả xét nghiệm huyết thanh dương tính giả, đặc biệt là trong bệnh tự miễn , tiêm chích ma túy, mang thai và tuổi cao, nhưng điều quan trọng là phải tìm hiểu bệnh sử chi tiết, xét nghiệm bạn tình và theo dõi bằng xét nghiệm lặp lại để đảm bảo rằng kết quả dương tính giả bị nghi ngờ là thực sự sai.
+Các xét nghiệm khác có thể cần thiết, đặc biệt nếu có các dấu hiệu và triệu chứng thần kinh bao gồm chụp cắt lớp vi tính ( CT ), chụp cộng hưởng từ ( MRI ) và xét nghiệm dịch não tủy (CSF).
+Cần phải tiến hành kiểm tra sức khỏe tình dục toàn diện, bao gồm – quan trọng nhất – xét nghiệm HIV .
+
+---
+
+## Phương pháp điều trị bệnh giang mai là gì?
+
+[](https://dermnetnz.org/topics/penicillin) Tiêm [penicillin vẫn là phương pháp điều trị chính cho mọi giai đoạn của bệnh giang mai.](https://dermnetnz.org/topics/penicillin)
+- Bệnh giang mai truyền nhiễm (nguyên phát, thứ phát, giai đoạn đầu tiềm ẩn) cần dùng liều benzathine hoặc procaine penicillin theo chỉ định.
+- Bệnh giang mai không lây nhiễm (tiềm ẩn muộn) và bệnh giang mai thần kinh cần phải dùng benzathine hoặc procaine penicillin trong thời gian dài hơn.
+[Các loại kháng sinh](https://dermnetnz.org/topics/antibiotics) khác kém tin cậy hơn penicillin, nhưng [tetracycline](https://dermnetnz.org/topics/tetracycline) hoặc cephalosporin có thể được sử dụng cho những bệnh nhân bị dị ứng với penicillin. [Xem [Phản ứng có hại trên da do kháng sinh]](https://dermnetnz.org/topics/cutaneous-adverse-reactions-to-antibiotics) Phụ nữ mang thai bị dị ứng với penicillin trước tiên nên được giảm mẫn cảm rồi mới điều trị bằng penicillin.
+Thất bại điều trị có thể xảy ra ở bất kỳ giai đoạn nào của bệnh nhiễm trùng, do đó, việc theo dõi chặt chẽ là rất quan trọng, đồng thời xét nghiệm huyết thanh học nhiều lần trong một đến hai năm.
+Nên kiêng mọi hoạt động tình dục cho đến khi tất cả các vết loét hoặc tổn thương do bệnh giang mai lành hẳn và quá trình điều trị hoàn tất.
+Việc thông báo và quản lý đối tác là vô cùng quan trọng để ngăn ngừa tái nhiễm và ngăn ngừa lây lan trong cộng đồng. Có sẵn các hướng dẫn để hướng dẫn bác sĩ lâm sàng về khoảng cách cần theo dõi với từng giai đoạn.
+
+---
+
+## Có thể phòng ngừa bệnh giang mai không?
+
+Không có vắc-xin phòng ngừa bệnh giang mai.
+Bệnh giang mai có thể tái phát nhiều lần; kháng thể và phương pháp điều trị không có tác dụng bảo vệ chống lại bệnh nhiễm trùng mới.
+Nếu bạn nghĩ mình bị nhiễm bệnh, hãy ngừng mọi quan hệ tình dục và đến gặp bác sĩ hoặc phòng khám sức khỏe tình dục. Thông báo ngay cho tất cả những người có quan hệ tình dục để họ được kiểm tra nhiễm trùng và điều trị thích hợp.
+Các biện pháp khác để ngăn ngừa sự lây lan của bệnh giang mai bao gồm:
+- Hạn chế số lượng bạn tình
+- Sử dụng bao cao su
+- Xét nghiệm máu thường xuyên nếu hành vi tình dục có nguy cơ cao.
+[Doxycycline](https://dermnetnz.org/topics/tetracycline) sau khi tiếp xúc , được dùng trong vòng 72 giờ sau khi giao hợp không dùng bao cao su, đã được chứng minh là có thể làm giảm tỷ lệ mắc bệnh giang mai, [lậu](https://dermnetnz.org/topics/gonorrhoea) và [chlamydia](https://dermnetnz.org/topics/genitourinary-chlamydia) ở nam giới quan hệ tình dục đồng giới xuống hai phần ba.
+
+---
+
+## Hậu quả của bệnh giang mai là gì?
+
+Điều trị giang mai sớm mang lại kết quả rất tốt và ngăn ngừa các biến chứng về sau. Việc trì hoãn điều trị cho đến giai đoạn tiến triển có thể để lại những hậu quả không thể khắc phục, chẳng hạn như các vấn đề về thần kinh hoặc thị lực.

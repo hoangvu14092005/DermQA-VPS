@@ -1,0 +1,220 @@
+# Bệnh vẩy nến mủ toàn thân — thông tin bổ sung
+
+Thể loại:
+
+Tự miễn/tự viêm
+
+SNOMED CT:
+
+238612002, 238613007, 38360005, 402327004
+
+**[Tự miễn/tự viêm](https://dermnetnz.org/topics/topics?category=Autoimmune/autoinflammatory)**
+
+
+# **Bệnh vẩy nến mủ toàn thân**
+
+Tháng 11 năm 2022Tác giả: Piera Neill, Đại học Auckland; Phó Giáo sư danh dự Paul Jarrett, Bác sĩ da liễu, Bệnh viện Middlemore và Khoa Y, Đại học Auckland, New Zealand (2022)Những người đóng góp trước đây: Hon A/Prof Amanda Oakley, Bác sĩ da liễu (2014); Vanessa Ngan (2003)Đánh giá bác sĩ da liễu: Tiến sĩ Ian CoulsonĐược biên tập bởi bộ phận nội dung DermNet
+
+---
+
+## Bệnh vẩy nến mủ toàn thân là gì?
+
+Vảy nến mụn mủ toàn thân (GPP) là một dạng [vảy nến mụn](https://dermnetnz.org/topics/psoriasis) mủ hiếm gặp và nghiêm trọng . Bệnh đặc trưng bởi các đợt bùng phát tái phát của các mụn mủ vô trùng lan rộng với da đỏ , đau. GPP có thể đi kèm với tình trạng viêm toàn thân bao gồm sốt và/hoặc tổn thương gan , đường tiêu hóa, cơ xương khớp , thận hoặc phổi .
+Bệnh này còn được gọi là bệnh vẩy nến von Zumbusch.
+![Bệnh vẩy nến mủ toàn thân](https://dermnetnz.org/assets/Uploads/gen-pustular-psoriasis-01.jpg)
+![Bệnh vẩy nến mủ toàn thân](https://dermnetnz.org/assets/Uploads/gen-pustular-psoriasis-08.jpg)
+![Bệnh vẩy nến mủ toàn thân](https://dermnetnz.org/assets/Uploads/gen-pustular-psoriasis-06.jpg)
+![Bệnh vẩy nến mủ ở một chi có màu da](https://dermnetnz.org/assets/collection/Generalised-pustular-psoriasis/generalised-pustular-psoriasis-0002.jpg)
+![Bệnh vẩy nến mủ toàn thân](https://dermnetnz.org/assets/Uploads/gen-pustular-psoriasis-14.jpg)
+![Mụn mủ nông trong bệnh vẩy nến mủ toàn thân](https://dermnetnz.org/assets/collection/Generalised-pustular-psoriasis/generalised-pustular-psoriasis-0006.jpg)
+[Nhấp vào đây để xem thêm hình ảnh](https://dermnetnz-org.translate.goog/images/generalised-pustular-psoriasis-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+
+---
+
+## Ai mắc bệnh vẩy nến mủ toàn thân?
+
+GPP có thể xuất hiện ở mọi lứa tuổi, mặc dù phổ biến nhất ở người lớn từ 40–50 tuổi và ít gặp ở trẻ em. Độ tuổi khởi phát thường sớm hơn ở những bệnh nhân có tiền sử gia đình mắc bệnh vẩy nến hoặc có đột biến gen đối kháng thụ thể interleukin 36 (IL-36) đồng hợp tử (IL36RN) .
+Nhìn chung, phụ nữ có nhiều khả năng bị ảnh hưởng hơn, mặc dù có báo cáo cho thấy bệnh khởi phát ở trẻ em từ 3–16 tuổi, nam giới chiếm ưu thế.
+GPP cũng có thể ảnh hưởng đến phụ nữ mang thai, được gọi là [bệnh chốc dạng herpes](https://dermnetnz.org/topics/pustular-psoriasis-of-pregnancy) và có liên quan đến việc tăng tỷ lệ mắc bệnh ở bà mẹ và thai nhi.
+Mặc dù GPP khác với [bệnh vẩy nến mảng bám](https://dermnetnz.org/topics/chronic-plaque-psoriasis) , nhưng hai tình trạng này có liên quan chặt chẽ với nhau, khiến bệnh vẩy nến mảng bám đồng thời hoặc trước đó trở thành yếu tố nguy cơ đáng kể dẫn đến phát triển GPP.
+
+---
+
+## Nguyên nhân nào gây ra bệnh vẩy nến mủ toàn thân?
+
+Cơ chế gây bệnh chính xác vẫn chưa được xác định đầy đủ. Tuy nhiên, GPP có liên quan đến sự kết hợp của các yếu tố nguy cơ di truyền và môi trường.
+
+### Khuynh hướng di truyền
+Một số đột biến gen có liên quan đến GPP, bao gồm đột biến đồng hợp tử và dị hợp tử ở các gen liên quan đến việc điều hòa các con đường miễn dịch và viêm nhiễm , chẳng hạn như:
+- IL36RN (chất đối kháng thụ thể interleukin 36) — đột biến đồng hợp tử hoặc dị hợp tử kép có liên quan đến GPP không kèm theo bệnh vẩy nến mảng bám
+- CARD14 ( protein 14 chứa miền tuyển dụng caspase ) — nguy cơ đáng kể mắc GPP với bệnh vẩy nến mảng bám
+- AP1S3 (phức hợp protein liên quan đến bộ điều hợp 1 tiểu đơn vị sigma 3)
+- MPO (myeloperoxidase)
+- SERPINA3 ( Nhóm ức chế peptidase Serpin A thành viên 3).
+Việc sàng lọc gen GPP có thể khả thi trong tương lai.
+
+### Các yếu tố rủi ro môi trường
+Việc sử dụng (hoặc giảm dần/ngừng) nhiều loại thuốc khác nhau có thể liên quan đến GPP, chẳng hạn như:
+- Thuốc giảm đau: [thuốc chống viêm không steroid (NSAID)](https://dermnetnz.org/topics/non-steroidal-anti-inflammatory-drugs-and-their-skin-side-effects) , morphin
+- Thuốc chống tăng huyết áp: ramipril, diltiazem
+- Thuốc kháng khuẩn : [amoxicillin](https://dermnetnz.org/topics/penicillin) , pristinamycin, [sulfonamid](https://dermnetnz.org/topics/sulfa-drugs-and-the-skin) , [terbinafine](https://dermnetnz.org/topics/terbinafine)
+- [Thuốc chống tiểu cầu](https://dermnetnz.org/topics/anticoagulants-and-antiplatelet-agents) : aspirin, clopidogrel
+- Các loại thuốc khác bao gồm [rituximab](https://dermnetnz.org/topics/rituximab) , lithium, kali iodide, progestin và [hydroxychloroquine](https://dermnetnz.org/topics/hydroxychloroquine)
+- Thuốc bôi ngoài da : calcipotriol bôi ngoài da và phối hợp [steroid](https://dermnetnz.org/topics/topical-steroid) , hắc [ín than bôi ngoài da](https://dermnetnz.org/topics/coal-tar)
+- Phản ứng nghịch lý với [chất ức chế yếu tố hoại tử khối u (TNF)-alpha](https://dermnetnz.org/topics/tumour-necrosis-factor-inhibitors) và [ustekinumab](https://dermnetnz.org/topics/ustekinumab-for-psoriasis) (xem [bệnh vẩy nến nghịch lý](https://dermnetnz.org/topics/paradoxical-psoriasis) )
+- Ngừng đột ngột [corticosteroid toàn thân](https://dermnetnz.org/topics/systemic-steroids) hoặc ciclosporin
+- Tiêm chủng, bao gồm tiêm chủng chống lại [COVID-19](https://dermnetnz.org/topics/covid-19-immunisation-and-immunomodulatorsbiologic-agents) và H1N1 (cúm lợn).
+
+#### Nhiễm trùng:
+- Trichophyton rubrum (nấm dermatophyte có thể gây nhiễm trùng [da](https://dermnetnz.org/topics/fungal-nail-infections) và [móng](https://dermnetnz.org/topics/fungal-skin-infections) do nấm )
+- [Vi-rút cự bào](https://dermnetnz.org/topics/cytomegalovirus-infection-pathology)
+- [Các loài liên cầu khuẩn](https://dermnetnz.org/topics/streptococcal-skin-infections)
+- Virus Varicella-zoster ( [bệnh thủy đậu](https://dermnetnz.org/topics/chickenpox) và [bệnh zona)](https://dermnetnz.org/topics/herpes-zoster)
+- [Virus Epstein-Barr](https://dermnetnz.org/topics/epstein-barr-virus) .
+
+#### Các yếu tố rủi ro khác:
+- Hạ canxi máu (có thể là thứ phát do suy tuyến cận giáp)
+- [Bức xạ cực tím](https://dermnetnz.org/topics/ultraviolet-radiation-and-human-health) từ ánh sáng mặt trời và [cháy nắng](https://dermnetnz.org/topics/sunburn)
+- Cấy ghép tế bào gốc
+- Căng thẳng về mặt cảm xúc
+- Kinh nguyệt
+- Mang thai.
+
+---
+
+## Các đặc điểm lâm sàng của bệnh vẩy nến mủ toàn thân là gì?
+
+
+### Đặc điểm da
+- Viêm (đỏ, sưng, đau, ngứa) phát triển ban đầu, thường ở các vùng có nếp gấp da lớn.
+- Trong vòng 2–3 giờ, các mụn mủ không nang vô trùng kích thước 2–3mm xuất hiện, sau đó tụ lại tạo thành các "hồ" mủ. Thân và chi thường bị ảnh hưởng nhiều nhất.
+- Trong những ngày đến vài tuần tiếp theo, mụn mủ sẽ khô lại và thường tự khỏi với tình trạng ban đỏ và bong tróc còn sót lại , hoặc có thể tiến triển thành [bệnh vẩy nến đỏ da toàn thân](https://dermnetnz.org/topics/erythrodermic-psoriasis) .
+- Các tổn thương có xu hướng tự phục hồi mà không để lại di chứng , mặc dù có thể xuất hiện [sẹo phì đại hoặc sẹo lồi](https://dermnetnz.org/topics/keloid-and-hypertrophic-scar) .
+- GPP được đặc trưng bởi các đợt bùng phát cấp tính tái phát ; các đợt mụn mủ liên tiếp có thể xuất hiện và bùng phát sau mỗi vài ngày hoặc vài tuần.
+
+### Các đặc điểm không phải da
+- Toàn thân — mệt mỏi, khó chịu , sốt , đau đầu, run, chán ăn, buồn nôn, nhịp tim nhanh.
+- Niêm mạc — [viêm môi](https://dermnetnz.org/topics/cheilitis) , lưỡi [địa lý](https://dermnetnz.org/topics/geographic-tongue) hoặc [lưỡi nứt nẻ](https://dermnetnz.org/topics/fissured-tongue) .
+- Mắt - [viêm kết mạc](https://dermnetnz.org/topics/conjunctivitis) , viêm mống mắt, viêm màng bồ đào.
+- Xương và khớp — viêm khớp , viêm tủy xương.
+- Tiêu hóa — vàng da , đau vùng thượng vị.
+- Khác — bất thường ở móng , phù nề chi dưới.
+[Nhấp vào đây để xem hình ảnh](https://dermnetnz-org.translate.goog/images/generalised-pustular-psoriasis-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+
+---
+
+## Các đặc điểm lâm sàng khác nhau như thế nào ở các loại da khác nhau?
+
+Biểu hiện lâm sàng khác nhau của GPP giữa [các loại da](https://dermnetnz.org/topics/skin-phototype) khác nhau chưa được ghi nhận đầy đủ, chủ yếu là do bệnh hiếm gặp. Ban đỏ có thể không được nhận biết rõ ràng ở những vùng da có màu da khác nhau, do đó mức độ nghiêm trọng của tình trạng viêm có thể bị đánh giá thấp.
+
+---
+
+## Biến chứng của bệnh vẩy nến mủ toàn thân là gì?
+
+Các biến chứng của suy da cấp tính bao gồm:
+- Nhiễm khuẩn huyết / nhiễm trùng huyết
+- Mất dịch kèm theo tình trạng giảm thể tích máu
+- Kiểm soát điều hòa nhiệt độ bị suy yếu
+- Rối loạn chuyển hóa.
+Các biến chứng tiềm ẩn khác của GPP:
+- Bệnh lý thần kinh ngoại biên
+- Bệnh lý ruột
+- Sự kém hấp thu chất dinh dưỡng và thuốc
+- Rối loạn cân bằng protein và điện giải
+- Suy thận
+- Hội chứng suy giảm hô hấp cấp tính
+- Viêm tụy
+- Viêm đường mật trung tính dẫn đến ứ mật
+- Suy tim.
+Những biến chứng này có thể gây tử vong. Suy tim hô hấp có thể xảy ra trong giai đoạn bùng phát cấp tính của bệnh vẩy nến mủ toàn thân, do đó, điều quan trọng là phải điều trị càng sớm càng tốt. Bệnh nhân lớn tuổi có nguy cơ đặc biệt cao.
+GPP ở mẹ có thể dẫn đến dị tật thai nhi, sinh non, suy nhau thai và tử vong ở trẻ sơ sinh .
+
+---
+
+## Bệnh vẩy nến mủ toàn thân được chẩn đoán như thế nào?
+
+GPP có thể là một thách thức trong chẩn đoán do tính hiếm gặp, triệu chứng ngoài da và trên da không đồng nhất , tính tương đồng với các tình trạng khác như [bệnh mụn mủ toàn thân cấp tính](https://dermnetnz.org/topics/acute-generalised-exanthematous-pustulosis) và thiếu tiêu chuẩn chẩn đoán quốc tế. [](https://dermnetnz.org/topics/acute-generalised-exanthematous-pustulosis)
+Theo hướng dẫn của Nhật Bản năm 2018, chẩn đoán xác định GPP có thể được đưa ra ở những bệnh nhân có cả bốn đặc điểm sau:
+- Các triệu chứng toàn thân như sốt và mệt mỏi
+- Xả nước toàn thân hoặc toàn thân kèm theo nhiều mụn mủ vô trùng có thể kết tụ thành các vũng mủ
+- Mụn mủ dưới giác mạc trung tính , đặc trưng về mặt bệnh học là mụn mủ dạng bọt biển Kogoj
+- Sự tái phát nhiều lần của những phát hiện lâm sàng và bệnh lý này .
+GPP sẽ được chẩn đoán nếu cả bốn đặc điểm trên đều có mặt và nghi ngờ ở những bệnh nhân có đặc điểm 2 và 3.
+Các xét nghiệm bất thường trong phòng thí nghiệm có thể bao gồm:
+- Tăng bạch cầu , giảm lympho bào
+- Cao: Tốc độ lắng hồng cầu ( ESR ) Protein phản ứng C ( CRP ) Urê Creatinin Men gan ( AST , ALT ) Globulin huyết tương ( IgG hoặc IgA ).
+- Tốc độ lắng hồng cầu ( ESR )
+- Protein phản ứng C ( CRP )
+- Urê
+- Creatinin
+- Men gan ( AST , ALT )
+- Globulin huyết tương ( IgG hoặc IgA ).
+- Cấy máu dương tính (nếu nhiễm trùng thứ phát do vi khuẩn )
+- Giảm albumin máu, giảm protein máu, giảm canxi máu
+- Protein niệu.
+[Sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) có thể cho thấy:
+- Mụn mủ nông (dưới giác mạc) và thâm nhiễm bạch cầu trung tính — mụn mủ dạng bọt biển của Kogoj là một đặc điểm bệnh lý học riêng biệt
+- [Sừng hóa](https://dermnetnz.org/topics/parakeratosis-pustulosa)
+- [Bệnh gai đen](https://dermnetnz.org/topics/acanthosis-nigricans)
+- Tăng sừng hóa
+- Các gờ lưới kéo dài
+- Giảm lớp hạt
+- Sự giãn nở mao mạch của lớp bì nhú
+- Vi áp xe Munro .
+Tiêu chuẩn chẩn đoán cũng được mô tả trong Mạng lưới chuyên gia về bệnh vẩy nến hiếm gặp và nghiêm trọng ở Châu Âu năm 2017 (ERASPEN) có thể tìm thấy [tại đây.](https://translate.google.com/website)
+
+---
+
+## Chẩn đoán phân biệt bệnh vẩy nến mủ toàn thân là gì?
+
+- [Viêm mủ ban đỏ toàn thân cấp tính](https://dermnetnz.org/topics/acute-generalised-exanthematous-pustulosis)
+- [Viêm da mủ dưới giác mạc](https://dermnetnz.org/topics/subcorneal-pustular-dermatosis)
+- Bệnh vẩy nến mụn mủ vòng
+- Viêm da có [nhiễm trùng thứ phát](https://dermnetnz.org/topics/skin-infections)
+- [Pemphigus lá](https://dermnetnz.org/topics/pemphigus-foliaceus)
+- [Milia](https://dermnetnz.org/topics/miliaria) mụn mủ [](https://dermnetnz.org/topics/miliaria)
+- Ban đỏ [mủ đa dạng](https://dermnetnz.org/topics/erythema-multiforme)
+- Phát ban do thuốc dạng mủ toàn thân
+- [Bệnh pemphigus IgA](https://dermnetnz.org/topics/iga-pemphigus)
+- [Viêm da dạng herpes](https://dermnetnz.org/topics/dermatitis-herpetiformis)
+
+---
+
+## Phương pháp điều trị bệnh vẩy nến mủ toàn thân là gì?
+
+GPP rất nghiêm trọng và có thể gây biến chứng đe dọa tính mạng. Bệnh cần được điều trị kịp thời và thường cần nhập viện. Có thể cần hỗ trợ chăm sóc tích cực.
+
+### Các biện pháp chung
+- [Chất làm mềm và dưỡng ẩm](https://dermnetnz.org/topics/emollients-and-moisturisers) .
+- Truyền dịch và chất điện giải qua tĩnh mạch.
+- Giảm đau.
+- Nếu mang thai, cần theo dõi cẩn thận cả mẹ và thai nhi.
+
+### Các biện pháp cụ thể
+- Các tác nhân tại chỗ: [Calcipotriol](https://dermnetnz.org/topics/calcipotriol) [Tacrolimus](https://dermnetnz.org/topics/tacrolimus) [Steroid](https://dermnetnz.org/topics/topical-steroid) có tác dụng nhẹ , ví dụ như triamcinolone.
+- [Calcipotriol](https://dermnetnz.org/topics/calcipotriol)
+- [Tacrolimus](https://dermnetnz.org/topics/tacrolimus)
+- [Steroid](https://dermnetnz.org/topics/topical-steroid) có tác dụng nhẹ , ví dụ như triamcinolone.
+- [Liệu pháp quang học](https://dermnetnz.org/topics/phototherapy) — thường kết hợp với các tác nhân toàn thân.
+- [Thuốc kháng sinh](https://dermnetnz.org/topics/antibiotics) trong trường hợp nhiễm trùng thứ phát do vi khuẩn.
+- Các tác nhân không sinh học: [Ciclosporin](https://dermnetnz.org/topics/ciclosporin) [Methotrexate](https://dermnetnz.org/topics/methotrexate) [Retinoid đường uống (acitretin)](https://dermnetnz.org/topics/oral-retinoids) [Mycophenolate](https://dermnetnz.org/topics/mycophenolate-mofetil) Ít phổ biến hơn — [apremilast](https://dermnetnz.org/topics/apremilast) , [hydroxyurea](https://dermnetnz.org/topics/hydroxyurea) , [colchicine](https://dermnetnz.org/topics/colchicine) , [dapsone](https://dermnetnz.org/topics/dapsone) .
+- [Ciclosporin](https://dermnetnz.org/topics/ciclosporin)
+- [Methotrexate](https://dermnetnz.org/topics/methotrexate)
+- [Retinoid đường uống (acitretin)](https://dermnetnz.org/topics/oral-retinoids)
+- [Mycophenolate](https://dermnetnz.org/topics/mycophenolate-mofetil)
+- Ít phổ biến hơn — [apremilast](https://dermnetnz.org/topics/apremilast) , [hydroxyurea](https://dermnetnz.org/topics/hydroxyurea) , [colchicine](https://dermnetnz.org/topics/colchicine) , [dapsone](https://dermnetnz.org/topics/dapsone) .
+- [Tác nhân sinh học](https://dermnetnz.org/topics/biologics) : Thuốc đối kháng TNF α — [adalimumab](https://dermnetnz.org/topics/adalimumab-for-psoriasis) , [infliximab](https://dermnetnz.org/topics/infliximab-for-psoriasis) , certolizumab, [etanercept](https://dermnetnz.org/topics/etanercept-for-psoriasis) Thuốc đối kháng Interleukin 17 (IL-17) – [brodalumab](https://dermnetnz.org/topics/brodalumab) , [secukinumab](https://dermnetnz.org/topics/secukinumab) , [ixekizumab](https://dermnetnz.org/topics/ixekizumab) , [bimekizumab](https://dermnetnz.org/topics/bimekizumab) Thuốc đối kháng Interleukin 23 (IL-23) và 12 (IL-12) – [guselkumab](https://dermnetnz.org/topics/guselkumab) , [risankizumab](https://dermnetnz.org/topics/risankizumab) , [ustekinumab](https://dermnetnz.org/topics/ustekinumab-for-psoriasis) Thuốc đối kháng Interleukin 1 (IL-1) — canakinumab, gevokizumab Thuốc đối kháng Interleukin 36 (IL-36) — [spesolimab.](https://dermnetnz.org/topics/spesolimab) Imsidolimab hiện đang được nghiên cứu.
+- Thuốc đối kháng TNF α — [adalimumab](https://dermnetnz.org/topics/adalimumab-for-psoriasis) , [infliximab](https://dermnetnz.org/topics/infliximab-for-psoriasis) , certolizumab, [etanercept](https://dermnetnz.org/topics/etanercept-for-psoriasis)
+- Thuốc đối kháng Interleukin 17 (IL-17) – [brodalumab](https://dermnetnz.org/topics/brodalumab) , [secukinumab](https://dermnetnz.org/topics/secukinumab) , [ixekizumab](https://dermnetnz.org/topics/ixekizumab) , [bimekizumab](https://dermnetnz.org/topics/bimekizumab)
+- Thuốc đối kháng Interleukin 23 (IL-23) và 12 (IL-12) – [guselkumab](https://dermnetnz.org/topics/guselkumab) , [risankizumab](https://dermnetnz.org/topics/risankizumab) , [ustekinumab](https://dermnetnz.org/topics/ustekinumab-for-psoriasis)
+- Thuốc đối kháng Interleukin 1 (IL-1) — canakinumab, gevokizumab
+- Thuốc đối kháng Interleukin 36 (IL-36) — [spesolimab.](https://dermnetnz.org/topics/spesolimab) Imsidolimab hiện đang được nghiên cứu.
+
+---
+
+## Hậu quả của bệnh vẩy nến mủ toàn thân là gì?
+
+GPP là một căn bệnh không thể chữa khỏi, có diễn biến khó lường và thay đổi.
+Mặc dù việc điều trị nhằm mục đích ngăn ngừa và giảm tần suất cũng như thời gian bùng phát, hầu hết bệnh nhân đều bị tái phát. Khoảng thời gian giữa các đợt bùng phát dao động từ vài tuần đến vài năm, và mức độ nghiêm trọng của các đợt bùng phát cũng thay đổi. Các tổn thương có thể thoái triển hoàn toàn hoặc không hoàn toàn sau các đợt bùng phát, và các triệu chứng được báo cáo là vẫn tồn tại giữa các đợt bùng phát ở khoảng 80% trường hợp.
+Dữ liệu về tỷ lệ tử vong còn hạn chế, nhưng đã được báo cáo là từ 3–7%. Bệnh nhân lớn tuổi có thể có tiên lượng kém hơn bệnh nhân trẻ tuổi do các bệnh đi kèm và biến chứng toàn thân.
+[Nhấp vào đây để xem hình ảnh](https://dermnetnz-org.translate.goog/images/generalised-pustular-psoriasis-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)

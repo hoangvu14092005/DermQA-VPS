@@ -1,0 +1,52 @@
+# Tinea barbae — thông tin bổ sung
+
+Thể loại:
+
+Nhiễm trùng
+
+SNOMED CT:
+
+399329002, 274083001, 46999003, 5490008, 11258000, 768591002, 30668009
+
+**[Nhiễm trùng](https://dermnetnz.org/topics/topics?category=Infections)**
+
+
+# **Nấm da râu**
+
+Được tạo ra năm 2003.
+
+---
+
+## Bệnh nấm râu là gì?
+
+Tinea barbae là tên gọi chung cho tình trạng nhiễm nấm [dermatophyte](https://dermnetnz.org/topics/mycology-of-dermatophyte-infections) ở vùng râu và ria mép trên khuôn mặt . Bệnh này ít phổ biến hơn [tinea capitis](https://dermnetnz.org/topics/tinea-capitis) và thường chỉ ảnh hưởng đến nam giới trưởng thành.
+Nguyên nhân gây bệnh lang ben thường là do nấm gây bệnh ở động vật:
+- T. verrucosum (có nguồn gốc từ gia súc)
+- T. mentagrophytes var. equinum (có nguồn gốc từ ngựa)
+Nấm râu thường do nhiễm trùng lông mặt thô với kiểu ngoại bào ( bào tử ở bên ngoài). Trong nhiễm trùng ngoại bào , các sợi nấm ( sợi nấm ) và bào tử (arthroconidia) bao phủ bên ngoài lông.
+![Nhiễm nấm râu](https://dermnetnz.org/assets/Uploads/fungal/cbarb.jpg)
+![Nấm da râu](https://dermnetnz.org/assets/Uploads/fungal/s/tineabarbae.jpg)
+![Hình ảnh được cung cấp bởi Tiến sĩ Shahbaz A. Janjua](https://dermnetnz.org/assets/Uploads/fungal/tinea-barbae.jpg)
+![Nhiễm nấm râu](https://dermnetnz.org/assets/Uploads/fungal/tinea-barbae001.jpg)
+![Nhiễm nấm râu](https://dermnetnz.org/assets/Uploads/fungal/tinea-barbae002.jpg)
+![Nhiễm nấm râu](https://dermnetnz.org/assets/Uploads/fungal/tinea-barbae003.jpg)
+
+---
+
+## Đặc điểm lâm sàng của bệnh tinea barbae
+
+Bệnh nấm da barbae thường ảnh hưởng đến nông dân và do tiếp xúc trực tiếp với động vật bị nhiễm bệnh. Bệnh hiếm khi lây truyền từ người này sang người khác.
+Nấm da râu thường bị viêm rất nặng với các vùng da đỏ, sần sùi, mụn mủ và đóng vảy xung quanh lông ( [kerion](https://dermnetnz.org/topics/kerion) ). Lông có thể dễ dàng nhổ ra. Đáng ngạc nhiên là bệnh không gây ngứa hay đau quá mức.
+Bệnh lang ben có thể gây ra phản ứng [dị ứng](https://dermnetnz.org/topics/dermatophytide-reactions) , đặc biệt là ngay sau khi bắt đầu điều trị bằng thuốc chống nấm.
+
+---
+
+## Chẩn đoán bệnh nấm râu
+
+Chẩn đoán bệnh nấm râu được xác nhận bằng cách soi kính hiển vi và nuôi cấy mẫu da cạo và tóc nhổ tận gốc.
+
+---
+
+## Điều trị bệnh nấm da râu
+
+[Thuốc chống nấm tại chỗ](https://dermnetnz.org/topics/topical-antifungal-medication) có thể có hiệu quả đối với các trường hợp bệnh lang ben nhẹ, nhưng thường được điều trị bằng [thuốc chống nấm đường uống](https://dermnetnz.org/topics/oral-antifungal-medication) , bao gồm [terbinafine](https://dermnetnz.org/topics/terbinafine) và [itraconazole](https://dermnetnz.org/topics/itraconazole) .

@@ -1,0 +1,67 @@
+# U xương da — thông tin bổ sung
+
+Thể loại:
+
+Tổn thương (lành tính)
+
+SNOMED CT:
+
+404074003
+
+**[Tổn thương (lành tính)](https://dermnetnz.org/topics/topics?category=Lesions+(benign))**
+
+
+# **U xương da**
+
+Tác giả: Tien Ming Lim, Bác sĩ da liễu, Bệnh viện Greenlane, Auckland, New Zealand, 2012.
+
+---
+
+## U xương da là gì?
+
+U xương biểu bì là tình trạng hình thành xương bên trong da. Mô xương thường bắt đầu từ một ổ canxi hóa , từ một vết sẹo viêm hoặc u hạt. U xương biểu bì không phải là ung thư.
+U xương biểu bì là một biến thể của sự hình thành xương dị vị, nghĩa là xương phát triển trong mô mềm.
+
+---
+
+## U xương da phổ biến như thế nào?
+
+U xương da rất hiếm gặp và dường như không có sự phân biệt chủng tộc hay giới tính cụ thể nào. Bệnh có thể xảy ra ở mọi lứa tuổi.
+
+---
+
+## Đặc điểm lâm sàng của u xương da
+
+U xương thường nhỏ và khó phát hiện vì chúng thường nằm sâu trong lớp hạ bì hoặc mô dưới da . Nếu phát hiện, chúng có cảm giác cứng như đá. Chúng có thể biểu hiện dưới dạng đơn lẻ hoặc nhiều khối u.
+Chúng có thể phát triển ở bất cứ đâu nhưng mặt, tứ chi, da đầu, ngón tay và vùng dưới móng là những vị trí thường bị ảnh hưởng nhất.
+![Một vài năm sau khi xuất huyết do chấn thương kín](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/osteoma-cutis2.jpg)
+![U xương da xuất hiện vài năm sau khi tụ máu do chấn thương kín](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/osteoma-cutis1.jpg)
+![U xương da](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/osteoma-cutis3.jpg)
+
+---
+
+## Nguyên nhân gây ra bệnh u xương da là gì?
+
+Nguyên nhân chính xác của sự hình thành xương bên trong da vẫn chưa được hiểu rõ. Quá trình này được gọi là dị sản tế bào tạo xương và xảy ra do nguyên bào sợi da biến đổi thành các tế bào tạo xương (nguyên bào xương).
+U xương nguyên phát ở da , nghĩa là tình trạng này xảy ra mà không có nguyên nhân tiềm ẩn, rất hiếm gặp. Ít nhất 80% các tổn thương là thứ phát do các tình trạng và hội chứng khác.
+Nguyên nhân gây u xương da Bệnh viêm da [Hội chứng xơ cứng hệ thống tiến triển / CRST](https://dermnetnz.org/topics/systemic-sclerosis) [Viêm da cơ](https://dermnetnz.org/topics/adult-onset-dermatomyositis) [Morphoea](https://dermnetnz.org/topics/morphoea) Chấn thương / sẹo U nang mụn trứng cá Các vị trí chọc da Tụ máu cũ Sự cào cấu thần kinh [Mài mòn da](https://dermnetnz.org/topics/dermabrasion) Khối u [Ung thư biểu mô tế bào đáy](https://dermnetnz.org/topics/basal-cell-carcinoma) [U nang lông](https://dermnetnz.org/topics/pilomatricoma) [U mô bào](https://dermnetnz.org/topics/dermatofibroma) U nang sụn Hội chứng di truyền Bệnh loạn dưỡng xương di truyền Albright Dị sản xơ hóa xương Hội chứng người đá (Fibrodysplasia ossificans progressiva ) Khác U xương dạng mảng bẩm sinh Sự cốt hóa da hạn chế
+
+---
+
+## Sự khác biệt giữa u xương da và vôi hóa da là gì?
+
+[Canxi hóa da](https://dermnetnz.org/topics/calcinosis-cutis) khác với u xương ở chỗ u xương biểu hiện sự hình thành xương trong khi canxi hóa da biểu hiện sự lắng đọng muối canxi.
+
+---
+
+## U xương da được chẩn đoán như thế nào?
+
+Chẩn đoán u xương biểu bì thường được thực hiện trên lâm sàng, vì các nốt sần cứng như xương. Tuy nhiên, u xương biểu bì có thể được phát hiện qua chụp X-quang, ngay cả khi người bệnh không nhận thấy.
+Nồng độ canxi huyết thanh và hormone tuyến cận giáp (PTH) có thể giúp xác định bệnh loạn dưỡng xương di truyền Albright.
+Nếu cắt bỏ bằng phẫu thuật, [sinh thiết](https://dermnetnz.org/topics/skin-biopsy) sẽ phát hiện xương bên trong da hoặc mô mỡ.
+
+---
+
+## Phương pháp điều trị u xương da là gì?
+
+Có thể cắt bỏ u xương hoặc loại bỏ bằng phương pháp đốt bằng tia laser nếu gây ra triệu chứng.

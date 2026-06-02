@@ -1,0 +1,105 @@
+# Bệnh gút — thông tin bổ sung
+
+Thể loại:
+
+Bệnh hệ thống
+
+SNOMED CT:
+
+90560007, 402469004, 438047009, 767985005, 66094001, 70337006
+
+**[Bệnh hệ thống](https://dermnetnz.org/topics/topics?category=Systemic+diseases)**
+
+
+# **Bệnh gout**
+
+Tác giả: Tiến sĩ Marie Hartley, Biên tập viên, 2010.
+
+---
+
+## Lý lịch
+
+Gút là một bệnh lý phổ biến, ảnh hưởng đến khoảng 1% dân số. Bệnh gây ra bởi tình trạng dư thừa axit uric, tồn tại dưới dạng urat ion hóa trong máu. Urat huyết tương bão hòa (nồng độ urat trong máu trên 0,42 mmol/L) có thể dần hình thành các tinh thể urat monosodium (MSU), lắng đọng trong khớp, thận và các mô mềm , cuối cùng dẫn đến viêm khớp , tổn thương thận và các khối u dưới da.
+Ở người khỏe mạnh, axit uric/urat được hình thành sau khi ăn một số loại thực phẩm giàu protein . Thông thường, phần lớn axit uric sau đó được thận đào thải qua nước tiểu. Nồng độ urat dư thừa trong máu có thể là do:
+- Chế độ ăn nhiều protein từ động vật, đặc biệt là thịt và hải sản.
+- Uống rượu ở mức trung bình đến cao, đặc biệt là bia.
+- Tiêu thụ nhiều fructose, một loại đường có trong nước ngọt có đường và nước ép trái cây (táo và cam).
+- Thừa cân – bệnh gút có liên quan đến [hội chứng chuyển hóa](https://dermnetnz.org/topics/metabolic-syndrome) .
+- Một số loại thuốc, bao gồm thuốc lợi tiểu, aspirin liều thấp và [ciclosporin](https://dermnetnz.org/topics/ciclosporin) .
+- Bệnh thận có thể làm giảm bài tiết axit uric qua nước tiểu.
+- Sản xuất quá nhiều axit uric có thể xảy ra trong các rối loạn gây ra tình trạng thay đổi tế bào cao, chẳng hạn như một số rối loạn tăng sinh tủy (số lượng tế bào được sản xuất bởi tủy xương quá nhiều) và một số loại thiếu máu ( thiếu máu tan máu và thiếu máu ác tính).
+Các yếu tố nguy cơ khác của bệnh gút bao gồm:
+- Có tiền sử gia đình mắc bệnh gút.
+- Tuổi tác – nhìn chung, nồng độ axit uric tăng cao trong 20 năm trước khi bệnh gút xuất hiện. Ở nam giới, nồng độ axit uric tăng lên ở [tuổi dậy thì](https://dermnetnz.org/topics/skin-changes-at-puberty) , vì vậy bệnh gút thường được chẩn đoán ở độ tuổi từ 40 đến 60. Estrogen bảo vệ phụ nữ trẻ khỏi bệnh gút; nồng độ axit uric tăng lên ở thời kỳ mãn kinh và bệnh gút thường được chẩn đoán ở độ tuổi từ 60 đến 80.
+
+---
+
+## Đặc điểm lâm sàng của bệnh gút
+
+Trong hầu hết các trường hợp, cơn gút đầu tiên biểu hiện bằng đau dữ dội và sưng ở một khớp duy nhất, thường là ngón chân cái (podagra). Cơn đau bắt đầu đột ngột và khớp đỏ, nóng và rất nhạy cảm. Đôi khi, cơn gút đầu tiên ảnh hưởng đến nhiều khớp cùng lúc. Bệnh nhân có thể bị sốt , đặc biệt nếu nhiều khớp bị ảnh hưởng. Các cơn gút không được điều trị thường kéo dài 7-10 ngày, sau đó bệnh nhân có thể không có triệu chứng cho đến khi cơn gút tiếp theo xuất hiện.
+![Bệnh gút cấp tính](https://dermnetnz.org/assets/Uploads/systemic/gout4.jpg)
+Ban đầu, các cơn gút có thể cách nhau vài tháng hoặc vài năm. Cơn gút có thể khởi phát do:
+- Nồng độ urat trong máu tăng đột ngột, ví dụ như sau một lần uống rượu quá độ, ăn nhiều thực phẩm giàu protein, mất nước, chấn thương hoặc bắt đầu dùng thuốc làm tăng axit uric.
+- Nồng độ urat trong máu giảm đột ngột, ví dụ sau khi bắt đầu dùng thuốc làm giảm axit uric.
+Nếu bệnh gút không được điều trị, những biến chứng sau đây có thể xảy ra:
+- Các cơn đau trở nên thường xuyên hơn, kéo dài hơn và ảnh hưởng đến nhiều khớp hơn.
+- Các tập hợp tinh thể MSU, được gọi là tophi, phát triển trong các mô mềm và xuất hiện dưới dạng các cục cứng dưới da. Tophi thường phát triển khoảng 10 năm sau cơn gút đầu tiên ở những bệnh nhân chưa được điều trị và thường xuất hiện quanh khuỷu tay, bàn tay và bàn chân. Tophi chứa chất nhầy màu trắng, khi lớn lên, chúng sẽ di chuyển về phía bề mặt da để thoát dịch. Các đường hầm xoang nhỏ (đường hầm) có thể phát triển và tiết ra chất nhầy màu trắng. Hoặc một mụn nước lớn có thể hình thành, vỡ ra để lại vết loét liên tục chảy dịch .
+- Tophi phát triển trong và xung quanh khớp dẫn đến phá hủy khớp và gây đau khớp mãn tính (kéo dài, liên tục) cũng như cứng khớp.
+- [Viêm mô mỡ dưới da](https://dermnetnz.org/topics/panniculitis) ( viêm mô mỡ dưới da) là một biến chứng hiếm gặp của bệnh gút. Biến chứng này biểu hiện dưới dạng các tổn thương dạng nốt sần ở chân, gây loét và dẫn lưu dịch chứa tinh thể MSU.
+- Tinh thể MSU có thể lắng đọng trong thận, gây viêm và sẹo (gọi là bệnh thận urat mạn tính). Sỏi thận cũng thường gặp ở bệnh nhân gút.
+![Tophi gút](https://dermnetnz.org/assets/Uploads/systemic/gout0.jpg)
+![Tophi gút](https://dermnetnz.org/assets/Uploads/systemic/gout10.jpg)
+![Tophi gút](https://dermnetnz.org/assets/Uploads/systemic/gout7.jpg)
+[Thêm hình ảnh về hạt tophi do gút ...](https://dermnetnz-org.translate.goog/topics/gouty-tophi-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+
+---
+
+## Chẩn đoán bệnh gút được thực hiện như thế nào?
+
+- Bệnh gút được chẩn đoán ngay từ đợt cấp bằng cách sử dụng kim và ống tiêm để lấy một mẫu dịch nhỏ từ xung quanh khớp bị ảnh hưởng. Tinh thể MSU có thể được phát hiện dưới kính hiển vi. Xét nghiệm này cũng quan trọng để loại trừ các nguyên nhân khác gây viêm khớp, chẳng hạn như nhiễm trùng.
+- Nếu lấy mẫu sinh thiết , mẫu phải được đặt trong cồn vì formalin có tác dụng hòa tan các tinh thể urat.
+- Chụp X-quang khớp có thể cho thấy những dấu hiệu phù hợp với bệnh gút, nhưng những dấu hiệu này không tự nó có giá trị chẩn đoán. Hơn nữa, ở giai đoạn đầu của bệnh, phim chụp X-quang có thể bình thường hoặc chỉ cho thấy sưng mô mềm .
+- Nồng độ urat trong máu có thể tăng cao, nhưng chỉ riêng phát hiện này không đủ để chẩn đoán. Trong một số trường hợp, nồng độ urat thậm chí có thể thấp hơn độ bão hòa urat.
+
+---
+
+## Phương pháp điều trị bệnh gút là gì?
+
+Việc điều trị bệnh gút được chia thành 3 giai đoạn: điều trị cơn gút cấp tính, liệu pháp hạ axit uric và phòng ngừa các đợt bùng phát cấp tính.
+
+### Điều trị cơn gút cấp tính
+Các phương án điều trị để giảm đau trong cơn gút cấp tính bao gồm:
+- [NSAID (thuốc kháng](https://dermnetnz.org/topics/non-steroidal-anti-inflammatory-drugs-and-their-skin-side-effects) viêm không steroid ) – Đây thường là loại thuốc được lựa chọn cho hầu hết bệnh nhân không có bệnh lý nền. Nên tránh dùng aspirin vì thuốc có thể làm thay đổi nồng độ urat và làm trầm trọng thêm cơn đau.
+- [Corticosteroid](https://dermnetnz.org/topics/systemic-steroids) – Nếu chỉ có một khớp bị ảnh hưởng, có thể tiêm corticosteroid trực tiếp vào khoang khớp. Nếu không, có thể kê đơn prednisone uống 20-40mg mỗi ngày trong 10-14 ngày.
+- [Colchicine](https://dermnetnz.org/topics/colchicine) – Cho đến gần đây, colchicine vẫn là lựa chọn điều trị bệnh gút cấp tính. Tuy nhiên, do những lo ngại gần đây về an toàn, colchicine hiện chỉ được khuyến cáo nếu NSAID hoặc corticosteroid không phù hợp. Liệu pháp colchicine liều cao không còn được khuyến cáo do độc tính của nó.
+Các loại thuốc trên không có tác dụng ngăn ngừa tổn thương khớp, hạt tophi hoặc bệnh thận.
+
+### Thuốc làm giảm axit uric
+Việc quản lý bệnh gút lâu dài tập trung vào việc giảm nồng độ urat, hướng đến mức dưới 0,36 mmol/L, hoặc tốt hơn nữa là dưới 0,30 mmol/L. Những loại thuốc này có thể ngăn ngừa các cơn viêm khớp do gút và ngăn ngừa tinh thể MSU lắng đọng trong các mô. Không nên bắt đầu sử dụng thuốc làm giảm nồng độ urat trong cơn gút cấp; thay vào đó, nên bắt đầu sử dụng vài tuần sau khi cơn gút đã thuyên giảm.
+
+### Allopurinol
+Allopurinol là một liệu pháp hạ axit uric hiệu quả, nhưng nó có một số tác dụng phụ và tương tác với các loại thuốc khác.
+Tác dụng phụ trên da liễu của allopurinol dao động từ [phát ban dạng sởi nhẹ (](https://dermnetnz.org/topics/morbilliform-drug-reaction) phát ban giống sởi , tự khỏi khi ngừng thuốc) đến [hội chứng Stevens-Johnson/hoại tử biểu bì nhiễm độc](https://dermnetnz.org/topics/stevens-johnson-syndrome-toxic-epidermal-necrolysis) và [hội chứng quá mẫn thuốc .](https://dermnetnz.org/topics/drug-hypersensitivity-syndrome) Hội chứng quá mẫn thuốc hiếm gặp nhưng có khả năng rất nghiêm trọng. Tình trạng này thường xảy ra trong vòng 6 tuần đầu điều trị, nhưng một số trường hợp đã được báo cáo lên đến 12 tuần sau khi bắt đầu dùng allopurinol.
+Liều allopurinol nên bắt đầu ở mức thấp 100mg mỗi ngày. Nên tăng liều sau mỗi 3-4 tuần, đồng thời theo dõi nồng độ urat trong máu - mục tiêu là giảm xuống dưới 0,04 mmol/L mỗi tháng và cuối cùng xuống dưới 0,36 mmol/L. Một số bệnh nhân có thể cần liều 600 đến 900 mg mỗi ngày để đạt được mục tiêu này. Liều nên thấp hơn ở những người mắc bệnh thận.
+
+### Febuxostat
+Febuxostat (tên thương mại Adenuric®) là một loại thuốc mới điều trị bệnh gút, có thể được sử dụng để giảm nồng độ urat ở bệnh nhân suy thận hoặc không dung nạp allopurinol. Các thử nghiệm lâm sàng giai đoạn III đã báo cáo febuxostat hiệu quả hơn allopurinol ở liều 300mg. Thuốc được tài trợ tại New Zealand cho những bệnh nhân kháng trị hoặc không phù hợp với allopurinol, với các tiêu chí của Cơ quan Quản lý Đặc biệt.
+
+### Probenecid
+Probenecid là một loại thuốc thay thế giúp hạ axit uric có ít tác dụng phụ đáng kể hơn allopurinol.
+Điều quan trọng là phải uống nhiều nước trong khi dùng probenecid để đào thải axit uric và ngăn ngừa tinh thể hình thành trong thận hoặc đường tiết niệu.
+Liều khởi đầu của probenicid thường là 250 mg, hai lần mỗi ngày nhưng có thể cần tăng lên tới 1 g, hai lần mỗi ngày.
+
+### Benzbromarone
+Benzbromarone là một loại thuốc mới điều trị bệnh gút, có thể được sử dụng để giảm nồng độ urat trong trường hợp allopurinol và/hoặc probenecid chống chỉ định , không dung nạp hoặc không hiệu quả. Cần theo dõi chức năng gan khi dùng benzbromarone, vì thuốc này được báo cáo là gây độc tính trên gan .
+
+### Phòng ngừa các đợt bùng phát cấp tính
+Các đợt bùng phát bệnh gút cấp tính có thể xảy ra do sự giảm đột ngột nồng độ urat trong máu khi bắt đầu dùng thuốc hạ axit uric. Vì lý do này, điều quan trọng là phải dùng liều thấp (dự phòng) thuốc kháng viêm không steroid (NSAID ) hoặc colchicine để giảm nguy cơ bùng phát. Ở những bệnh nhân không thể dùng bất kỳ loại thuốc nào trong số này, có thể cân nhắc dùng corticosteroid đường uống . Bệnh nhân chỉ bị các cơn gút cấp tính có thể chỉ cần dùng thuốc trong 2-3 tuần. Trong khi đó, bệnh nhân có nhiều hạt tophi có thể cần tiếp tục điều trị trong nhiều tháng.
+
+### Các biện pháp chung trong bệnh gút
+Mặc dù việc thay đổi lối sống hiếm khi mang lại hiệu quả giảm urat huyết tương đáng kể mà không cần dùng thuốc, nhưng vẫn có khuyến nghị sau đây.
+- Giảm cân ở bệnh nhân béo phì
+- Giảm lượng rượu tiêu thụ
+- Tránh xa nước ngọt có đường fructose
+- Hạn chế ăn gan, thận, cá, chiết xuất nấm men, thịt đỏ
+- Cân nhắc dùng thuốc thay thế nếu đang dùng thuốc lợi tiểu để điều trị tăng huyết áp

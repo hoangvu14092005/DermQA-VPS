@@ -1,0 +1,95 @@
+# Melanonychia — thông tin bổ sung
+
+Thể loại:
+
+Rối loạn sắc tố, Thuật ngữ
+
+SNOMED CT:
+
+402633003, 707197003, 707197007
+
+**[Rối loạn sắc tố, Thuật ngữ](https://dermnetnz.org/topics/topics?category=Pigmentary+disorders)**
+
+
+# **Melanonychia**
+
+Tác giả: Ken Hiu-Kan Ip, Sinh viên Y khoa, Đại học Auckland, New Zealand; Tổng biên tập: Tiến sĩ Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand; Biên tập viên: Clare Morrison, tháng 6 năm 2014. Được cập nhật bởi Tiến sĩ Ebtisam Elghblawi và Tiến sĩ Oakley vào tháng 10 năm 2017.
+
+---
+
+## Bệnh nấm móng đen là gì?
+
+Melanonychia là tình trạng móng tay bị đổi màu nâu hoặc đen . Nó có thể lan tỏa hoặc có dạng dải dọc .
+
+### Viêm móng đen lành tính dọc
+![Không có caption](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/melanonychia-06.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/melanonychia-09.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/melanonychia-19.jpg)
+[Xem thêm hình ảnh về bệnh melanonychia](https://dermnetnz-org.translate.goog/topics/melanonychia-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp) .
+
+---
+
+## Ai có nguy cơ mắc bệnh hắc tố móng tay?
+
+Melanonychia có thể xuất hiện ở mọi lứa tuổi, kể cả trẻ em, và ảnh hưởng đến cả hai giới như nhau. Bệnh phổ biến hơn ở những người có làn da màu, đặc biệt là [nhóm da Fitzpatrick](https://dermnetnz.org/topics/skin-phototype) V và VI.
+- Hầu hết người gốc Phi-Caribbean sẽ có sắc tố đen nâu ở móng tay khi đến tuổi 50.
+- Bệnh hắc tố móng ảnh hưởng đến 20% người Nhật Bản.
+- Người da trắng ít bị ảnh hưởng hơn.
+Bệnh hắc tố móng tay cũng có thể liên quan đến các rối loạn di truyền , chấn thương, thuốc men, thiếu hụt dinh dưỡng, bệnh nội tiết , [bệnh mô liên kết](https://dermnetnz.org/topics/connective-tissue-diseases) , bệnh viêm da, khối u tại chỗ hoặc nhiễm trùng móng.
+
+---
+
+## Nguyên nhân nào gây ra bệnh hắc tố móng tay?
+
+Móng là một cấu trúc cứng, trong suốt được tạo thành từ keratin. Bình thường, móng không có sắc tố. Các tế bào hắc tố thường nằm im lìm trong ma trận móng gần , nơi móng bắt nguồn. Melanin được lắng đọng vào móng đang phát triển khi các tế bào hắc tố được kích hoạt, tạo thành một dải sắc tố — đây được gọi là chứng móng đen dọc.
+Sự lắng đọng melanin ở móng có thể là kết quả của 2 quá trình:
+- Tăng sản hắc tố
+- Kích hoạt tế bào hắc tố.
+
+### Tăng sản hắc tố
+Tăng sản tế bào hắc tố là tình trạng tăng số lượng tế bào hắc tố trong nền móng. Đây có thể là một quá trình lành tính hoặc ác tính .
+
+#### Tăng sản lành tính
+Nốt ruồi hắc tố thường xuất hiện ở trẻ em nhiều hơn. Về mặt mô học, có các ổ tế bào nốt ruồi .
+Lentigines thường thấy ở con trưởng thành nhiều hơn. Không có tổ.
+
+#### Tăng sản ác tính
+Ung thư hắc tố ở móng thường ảnh hưởng nhất đến ngón tay cái, ngón trỏ và ngón chân cái.
+
+### Hoạt hóa tế bào hắc tố
+Hoạt hóa tế bào hắc tố là sự gia tăng sản xuất và lắng đọng melanin trong các tế bào móng ( tế bào móng ), mà không làm tăng số lượng tế bào hắc tố. Nguyên nhân gây hoạt hóa tế bào hắc tố được liệt kê trong bảng dưới đây.
+Viêm móng sắc tố liên quan đến hoạt động của tế bào hắc tố Sinh lý (chức năng) Sự khác biệt về chủng tộc Mang thai Tổn thương [Cắn móng tay](https://dermnetnz.org/topics/onychophagia) , nhai, bẻ và ngoạm móng tay Ma sát do dị tật bàn chân hoặc giày dép Bệnh viêm da [Bệnh](https://dermnetnz.org/topics/psoriasis) [vẩy nến Viêm da đầu chi Hallopeau](https://dermnetnz.org/topics/acrodermatitis-continua-of-hallopeau) [Lichen phẳng Bệnh](https://dermnetnz.org/topics/lichen-planus) [lắng đọng tinh bột](https://dermnetnz.org/topics/cutaneous-amyloidosis) Tổn thương không phải tế bào hắc tố [Ung thư biểu mô trong biểu bì](https://dermnetnz.org/topics/intraepidermal-squamous-cell-carcinoma) [Ung thư tế bào đáy Mụn](https://dermnetnz.org/topics/basal-cell-carcinoma) [cóc do virus](https://dermnetnz.org/topics/viral-wart) Thiếu hụt dinh dưỡng Thiếu hụt vitamin B12 hoặc folate Rối loạn nội tiết [Bệnh Addison](https://dermnetnz.org/topics/addison-disease) [Hội chứng Cushing Cường giáp](https://dermnetnz.org/topics/cushing-syndrome) [Bệnh to đầu](https://dermnetnz.org/topics/hyperthyroidism) [chi](https://dermnetnz.org/topics/acromegaly) Một bệnh toàn thân khác Bệnh thiếu máu do thiếu sắt [Bệnh porphyria da muộn](https://dermnetnz.org/topics/porphyria-cutanea-tarda) [Nhiễm virus gây suy giảm miễn dịch ở người (HIV)](https://dermnetnz.org/topics/acute-human-immunodeficiency-virus-infection-syndrome) [Bệnh lupus ban đỏ hệ thống](https://dermnetnz.org/topics/systemic-lupus-erythematosus) [Xơ cứng hệ thống](https://dermnetnz.org/topics/systemic-sclerosis) Hội chứng [Hội chứng Laugier-Hunziker](https://dermnetnz.org/topics/laugier-hunziker-syndrome) [Hội chứng Peutz-Jeghers](https://dermnetnz.org/topics/peutz-jeghers-syndrome) Hội chứng Touraine do thầy thuốc gây ra [Liệu pháp quang trị liệu](https://dermnetnz.org/topics/phototherapy) [bằng tia X; liệu pháp chùm tia điện tử](https://dermnetnz.org/topics/radiotherapy-for-malignant-skin-diseases) Thuốc men Thuốc hóa trị (đặc biệt là [hydroxyurea](https://dermnetnz.org/topics/hydroxyurea) , busulfan, [bleomycin](https://dermnetnz.org/topics/bleomycin) , adriamycin, doxorubicin, [cyclophosphamide](https://dermnetnz.org/topics/cyclophosphamide) , [5-fluorouracil](https://dermnetnz.org/topics/5-fluorouracil-cream) [Liệu pháp chống sốt rét](https://dermnetnz.org/topics/hydroxychloroquine)
+Các tác nhân gây bệnh có thể gây ra tình trạng móng đen bất thường vì chúng kích thích tình trạng viêm, kích hoạt tế bào hắc tố. Ví dụ:
+- Vi khuẩn Gram âm ( Proteus mirabilis , Klebsiella , [Pseudomonas](https://dermnetnz.org/topics/pseudomonas-skin-infections) )
+- [Bệnh nấm](https://dermnetnz.org/topics/fungal-nail-infections) móng do [nấm da](https://dermnetnz.org/topics/mycology-of-dermatophyte-infections) ( Trichophyton rubrum ) hoặc [nấm men](https://dermnetnz.org/topics/yeasts-on-human-skin) ( Candida albicans ).
+Các tác nhân bên ngoài có thể làm ố móng tay.
+- Thuốc nhuộm tóc
+- Henna
+- Men
+- Sơn.
+
+### Móng tay bị đổi màu
+![Bệnh nấm móng sắc tố](https://dermnetnz.org/assets/Uploads/brown-onychomycosis.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/pseudomonas-nail.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/dithranol-stained-nail.jpg)
+
+---
+
+## Những biến chứng có thể xảy ra của bệnh hắc lào móng tay là gì?
+
+Biến chứng tùy thuộc vào nguyên nhân gây ra bệnh hắc tố móng.
+- Ung thư hắc tố dưới móng có thể dẫn đến di căn và cuối cùng là tử vong. Tiên lượng của ung thư hắc tố ở móng thường xấu hơn ung thư hắc tố ở các vị trí khác.
+- Chấn thương, nhiễm trùng và bệnh viêm có thể dẫn đến nứt và tách móng, gây ra chứng loạn dưỡng móng xấu xí hoặc đau đớn.
+
+---
+
+## Cách điều trị bệnh hắc tố móng tay là gì?
+
+Nếu chứng hắc tố móng tay được cho là do nguyên nhân lành tính thì không cần điều trị thêm.
+Việc điều trị [bệnh ung thư hắc tố ở móng đòi hỏi](https://dermnetnz.org/topics/melanoma-of-the-nail-unit) phải cắt bỏ hoàn toàn khối u và có thể phải cắt cụt ngón tay.
+
+---
+
+## Triển vọng của bệnh nhân mắc bệnh hắc tố móng tay là gì?
+
+Bệnh hắc tố móng tay có xu hướng dai dẳng , ngoại trừ khi liên quan đến thuốc — trong trường hợp đó, bệnh sẽ biến mất sau khi ngừng thuốc.

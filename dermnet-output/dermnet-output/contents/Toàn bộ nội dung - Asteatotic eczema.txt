@@ -1,0 +1,72 @@
+# Chàm asteatotic — thông tin bổ sung
+
+Thể loại:
+
+Bệnh chàm
+
+SNOMED CT:
+
+201077008, 400051008, 89105000
+
+**[Bệnh chàm](https://dermnetnz.org/topics/topics?category=Eczemas)**
+
+
+# **Chàm asteatotic**
+
+Tác giả: Giáo sư/Tiến sĩ danh dự Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand. Cập nhật tháng 7 năm 2014.
+
+---
+
+## Chàm không mỡ là gì?
+
+Chàm asteatotic là một loại [viêm da](https://dermnetnz.org/topics/dermatitis) phổ biến xảy ra do [da khô](https://dermnetnz.org/topics/dry-skin) . Tên tiếng Pháp của bệnh này là eczema craquelé do hình dạng nứt nẻ của nó. Bệnh còn được gọi là chàm khô ( xerotic eczema).
+Vị trí phổ biến nhất là cẳng chân, nhưng bệnh chàm không có tế bào mỡ có thể xảy ra ở những nơi khác bao gồm cả chi trên và thân mình.
+
+---
+
+## Nguyên nhân gây ra bệnh chàm không mỡ là gì?
+
+Chàm asteatotic chủ yếu là do mất nước từ lớp sừng. Tình trạng này xảy ra do hàng rào bảo vệ da bị phá vỡ do yếu tố di truyền và tổn thương do các yếu tố môi trường. Các yếu tố này bao gồm:
+- Độ ẩm thấp (mùa đông, sa mạc, độ cao lớn, đi du lịch, sử dụng máy hút ẩm hoặc quạt sưởi)
+- Tắm quá nhiều, đặc biệt là sử dụng [xà phòng](https://dermnetnz.org/topics/soaps-and-cleansers) và chất tẩy rửa.
+
+---
+
+## Ai bị bệnh chàm không mỡ?
+
+Bệnh chàm khô có thể xảy ra ở bất kỳ ai có làn da rất khô.
+- Bệnh này thường ảnh hưởng đến người lớn tuổi.
+- Đây cũng là biến chứng của [bệnh vảy cá](https://dermnetnz.org/topics/ichthyosis) di truyền và mắc phải .
+- Nguyên nhân toàn thân bao gồm [suy giáp](https://dermnetnz.org/topics/skin-problems-associated-with-thyroid-disease) (phù niêm), [suy dinh dưỡng](https://dermnetnz.org/topics/malnutrition-including-anorexia-nervosa) (thiếu kẽm và axit béo), sụt cân nghiêm trọng và u lympho.
+- Thuốc có thể gây ra bệnh chàm asteatotic, đặc biệt là retinoid ( [acitretin](https://dermnetnz.org/topics/acitretin) , [isotretinoin](https://dermnetnz.org/topics/isotretinoin) ), thuốc lợi tiểu và thuốc ức chế protein kinase .
+
+---
+
+## Các đặc điểm lâm sàng của bệnh chàm không có mỡ là gì?
+
+Chàm asteatotic thường có hình dạng lát đá đặc trưng. Các mảng da hình thoi được ngăn cách với nhau bằng các dải đỏ tạo thành một mạng lưới. Cũng có thể có các vết xước. Bệnh có thể bắt đầu ở một bên ống chân nhưng nhanh chóng lan rộng và ảnh hưởng đến da xung quanh cả hai cẳng chân.
+Chàm asteatotic nặng có thể dẫn đến viêm da thứ phát nghiêm trọng hơn với biểu hiện đỏ da toàn thân , sưng tấy khu trú và phồng rộp bề mặt. Giống như các dạng chàm khác ở [cẳng chân](https://dermnetnz.org/topics/rashes-affecting-the-lower-legs) , bệnh này cuối cùng có thể dẫn đến [chàm thứ phát](https://dermnetnz.org/topics/disseminated-secondary-eczema) lan rộng (tự mẫn cảm). [](https://dermnetnz.org/topics/disseminated-secondary-eczema)
+![Eczema craquelé](https://dermnetnz.org/assets/Uploads/dermatitis/eczema-craquele1.jpg)
+![Eczema craquelé](https://dermnetnz.org/assets/Uploads/dermatitis/eczema-craquele2.jpg)
+![Eczema craquelé](https://dermnetnz.org/assets/Uploads/dermatitis/eczema-craquele3.jpg)
+![Eczema craquelé](https://dermnetnz.org/assets/Uploads/dermatitis/eczema-craquele4.jpg)
+![Eczema craquelé](https://dermnetnz.org/assets/Uploads/dermatitis/eczema-craquele5.jpg)
+![Eczema craquelé](https://dermnetnz.org/assets/Uploads/dermatitis/eczema-craquele6.jpg)
+
+---
+
+## Bệnh chàm không mỡ được chẩn đoán như thế nào?
+
+Bệnh chàm không vảy nến được chẩn đoán dựa vào biểu hiện bên ngoài và không cần xét nghiệm ở phần lớn bệnh nhân.
+Xét nghiệm chức năng tuyến giáp là cần thiết nếu có các dấu hiệu khác gợi ý suy giáp , chẳng hạn như tóc khô, mỏng , tăng cân, uể oải và chậm chạp. Nếu chàm asteatotic mới khởi phát và kèm theo bong tróc quá mức ( bệnh vảy cá mắc phải ), sụt cân, sốt hoặc khó chịu toàn thân , bệnh nhân nên được kiểm tra kỹ lưỡng để tìm nguyên nhân nội tại.
+
+---
+
+## Phương pháp điều trị bệnh chàm không mỡ là gì?
+
+Bệnh chàm không có mỡ thường đáp ứng nhanh với điều trị.
+- Xem xét các yếu tố gây khô da: tắm ít thường xuyên, sử dụng sữa [rửa mặt](https://dermnetnz.org/topics/soaps-and-cleansers) dạng kem thay vì xà phòng, không để da tiếp xúc trực tiếp với nhiệt. [](https://dermnetnz.org/topics/soaps-and-cleansers)
+- Thoa [chất làm mềm và dưỡng ẩm](https://dermnetnz.org/topics/emollients-and-moisturisers) đặc như sáp dầu hỏa/petroleum jelly hoặc kem dầu nhiều lần mỗi ngày — sau vài ngày, những loại mỏng hơn như kem không ion sẽ đủ.
+- Bôi kem hoặc thuốc mỡ [steroid](https://dermnetnz.org/topics/topical-steroid) nhẹ lên vùng da bị đỏ trong vài ngày; kem hoặc thuốc mỡ hydrocortisone thường là đủ.
+- Có thể cần dùng steroid bôi ngoài da mạnh hơn nếu bệnh chàm nghiêm trọng.
+Đảm bảo da không bị khô trở lại vì bệnh chàm không có mỡ rất dễ tái phát.

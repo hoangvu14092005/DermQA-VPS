@@ -1,0 +1,93 @@
+# Keratoderma lòng bàn tay và bàn chân — thông tin bổ sung
+
+Thể loại:
+
+Tổn thương (lành tính)
+
+SNOMED CT:
+
+396227001, 239073008, 707209001, 400166009, 6874009, 239066003, 706885006, 239067007, 402773000, 400123002
+
+**[Tổn thương (lành tính)](https://dermnetnz.org/topics/topics?category=Lesions+(benign))**
+
+
+# **Keratoderma lòng bàn tay và bàn chân**
+
+Tác giả: Tiến sĩ Amy Stanway, Bác sĩ da liễu, Nottingham, Vương quốc Anh, 2005.
+
+---
+
+## Bệnh dày sừng lòng bàn tay và bàn chân là gì?
+
+' Keratoderma ' là thuật ngữ dùng để chỉ tình trạng dày lên rõ rệt của lớp biểu bì da.
+' Lòng bàn tay, lòng bàn chân ' là vùng da ở lòng bàn chân và lòng bàn tay; đây là những vùng thường bị dày sừng hóa nhất. Dày sừng hóa lòng bàn tay, lòng bàn chân đôi khi còn được gọi là ' keratosis palmaris et plantaris'.
+Phân loại bệnh sừng hóa phụ thuộc vào việc bệnh này di truyền hay mắc phải và các đặc điểm lâm sàng.
+- [Bệnh sừng hóa lan tỏa](https://dermnetnz.org/topics/diffuse-hereditary-palmoplantar-keratodermas) ảnh hưởng đến hầu hết lòng bàn tay và lòng bàn chân.
+- [Bệnh sừng hóa khu trú](https://dermnetnz.org/topics/hereditary-focal-palmoplantar-keratoderma) chủ yếu ảnh hưởng đến các vùng chịu áp lực.
+- [Bệnh sừng hóa dạng chấm](https://dermnetnz.org/topics/punctate-type-palmoplantar-keratoderma) [](https://dermnetnz.org/topics/punctate-type-palmoplantar-keratoderma) gây ra những vết sưng nhỏ ở lòng bàn tay và lòng bàn chân.
+- Thông thường, tình trạng da bất thường chỉ ảnh hưởng đến lòng bàn tay và lòng bàn chân (sừng hóa lòng bàn tay và lòng bàn chân không chuyển màu) nhưng đôi khi nó cũng lan đến cả mu bàn tay và bàn chân (chuyển màu).
+Ở một số dạng hội chứng hiếm gặp của bệnh dày sừng, các cơ quan khác trong cơ thể cũng có thể bị ảnh hưởng ngoài da và dày sừng có thể là dấu hiệu của bất thường bên trong này.
+![Viêm da lòng bàn chân lan tỏa](https://dermnetnz.org/assets/Uploads/scaly/s/keratoder5.jpg)
+![Bệnh dày sừng lòng bàn tay khu trú](https://dermnetnz.org/assets/Uploads/scaly/s/focal-kd2.jpg)
+![Keratoderma chấm](https://dermnetnz.org/assets/Uploads/scaly/punctate-kd2.jpg)
+
+---
+
+## Nguyên nhân nào gây ra bệnh dày sừng lòng bàn tay và bàn chân?
+
+Bệnh sừng hóa có thể do di truyền hoặc phổ biến hơn là mắc phải.
+- Bệnh sừng hóa di truyền: tình trạng này có tính chất gia đình và được truyền từ cha hoặc mẹ sang con cái.
+- [Bệnh sừng hóa mắc phải](https://dermnetnz.org/topics/acquired-keratoderma) : tình trạng này không di truyền và xảy ra do sự thay đổi về sức khỏe hoặc môi trường của người bị ảnh hưởng
+Bệnh dày sừng di truyền là do bất thường về gen dẫn đến protein da ( keratin ) bất thường. Bệnh có thể được di truyền theo kiểu trội trên nhiễm sắc thể thường hoặc kiểu lặn trên nhiễm sắc thể thường .
+- Bệnh dày sừng di truyền trội nhiễm sắc thể thường có khả năng xảy ra ở mọi thế hệ trong một gia đình. Nếu một trong hai cha mẹ bị ảnh hưởng, khả năng mỗi đứa con đều bị ảnh hưởng là 50%.
+- Bệnh dày sừng di truyền lặn nhiễm sắc thể thường ít phổ biến hơn trong gia đình có người mắc bệnh. Điều này là do cả cha và mẹ đều cần truyền gen bất thường cho con để bệnh phát triển. Những người chỉ mang một gen bất thường không mắc bệnh mà mang gen bất thường và được gọi là " người mang gen " (carrier). Họ có thể truyền gen bất thường cho con, nhưng con cái sẽ chỉ bị ảnh hưởng nếu cha hoặc mẹ còn lại cũng mang gen bất thường và truyền lại cho con.
+- Một đột biến gen cụ thể có thể được tìm thấy trong 13 gen khác nhau.
+
+---
+
+## Các loại cụ thể của bệnh sừng hóa
+
+Bảng dưới đây liệt kê các loại chính của bệnh dày sừng lòng bàn tay và bàn chân di truyền (PPK).
+[Keratoderma lòng bàn tay và bàn chân di truyền lan tỏa](https://dermnetnz.org/topics/diffuse-hereditary-palmoplantar-keratodermas)
+- Kiểu Unna-Thhost ( trội trên nhiễm sắc thể thường)
+- Kiểu gen Vorner ( trội trên nhiễm sắc thể thường)
+- Loại Mal de Meleda ( trội hoặc lặn trên nhiễm sắc thể thường)
+- Hội chứng Huriez (di truyền trội trên nhiễm sắc thể thường)
+- Hội chứng Olmsted (mô hình di truyền chưa rõ)
+- Hội chứng Vohwinkel (nST thường trội)
+- PPK với bệnh điếc thần kinh cảm giác (di truyền ty thể)
+- Hội chứng Bart-Pumphrey (di truyền trội trên nhiễm sắc thể thường)
+- [Loạn sản ngoại bì](https://dermnetnz.org/topics/ectodermal-dysplasia) tiết mồ hôi (di truyền trội trên nhiễm sắc thể thường)
+- Hội chứng Papillon-Lefevre (di truyền lặn trên nhiễm sắc thể thường)
+- Keratoderma lòng bàn tay và bàn chân loại Nagashima (di truyền lặn trên nhiễm sắc thể thường)
+- Bệnh sừng hóa lòng bàn tay và bàn chân lan tỏa với lông tơ và bệnh cơ tim loạn nhịp ( di truyền lặn trên nhiễm sắc thể thường)
+[Keratodermas di truyền khu trú ở lòng bàn tay và bàn chân](https://dermnetnz.org/topics/hereditary-focal-palmoplantar-keratoderma)
+- Loại keratoderma striata/areata lòng bàn tay và bàn chân (di truyền trội trên nhiễm sắc thể thường)
+- Các vết chai đau di truyền ( trội trên nhiễm sắc thể thường)
+- Hội chứng Howel-Evans hoặc bệnh tylosin (di truyền trội trên nhiễm sắc thể thường)
+- Hội chứng Richner-Hanhart (di truyền lặn trên nhiễm sắc thể thường)
+- [Pachyonychia congenita](https://dermnetnz.org/topics/pachyonychia-congenita) (nST thường trội)
+- Bệnh sừng hóa lòng bàn tay và bàn chân có vảy với lông tơ và bệnh cơ tim giãn nở (di truyền lặn trên nhiễm sắc thể thường)
+[Keratoderma chấm lòng bàn tay và bàn chân](https://dermnetnz.org/topics/punctate-type-palmoplantar-keratoderma)
+- Bệnh sừng hóa dạng chấm (di truyền trội trên nhiễm sắc thể thường)
+- Bệnh sừng hóa dạng sợi (di truyền trội trên nhiễm sắc thể thường)
+- [Bệnh sừng hóa rìa](https://dermnetnz.org/topics/acrokeratoelastoidosis) (acrokeratoelastoidosis, trội trên nhiễm sắc thể thường)
+[Dày sừng lòng bàn tay-bàn chân mắc phải](https://dermnetnz.org/topics/acquired-keratoderma) có thể khu trú hoặc lan tỏa. Chúng có thể xuất hiện kết hợp với nhiều tình trạng da và nội tạng khác nhau.
+- Tình trạng viêm da (ví dụ, bệnh chàm hoặc bệnh vẩy nến)
+- Nhiễm trùng
+- Thuốc và chất độc
+- Một căn bệnh ung thư nội tạng
+- Một bệnh viêm hệ thống
+- Các vấn đề về lưu thông
+- Tổn thương do ánh nắng mặt trời
+
+---
+
+## Phương pháp điều trị bệnh dày sừng lòng bàn tay và bàn chân là gì?
+
+Các phương pháp điều trị sau đây làm mềm lớp da dày và giúp da bớt sần sùi hơn.
+- [Chất làm mềm](https://dermnetnz.org/topics/emollients-and-moisturisers)
+- [Thuốc tiêu sừng](https://dermnetnz.org/topics/keratolytic-agents) (ví dụ, 6% [axit salicylic](https://dermnetnz.org/topics/salicylic-acid) , 70% propylene glycol, 30% nước)
+- [Retinoid tại chỗ](https://dermnetnz.org/topics/topical-retinoids)
+- Thuốc mỡ [vitamin D](https://dermnetnz.org/topics/vitamin-d) bôi ngoài da ( [calcipotriol](https://dermnetnz.org/topics/calcipotriol) ) [](https://dermnetnz.org/topics/calcipotriol)
+- [Retinoid đường uống](https://dermnetnz.org/topics/oral-retinoids) ( [acitretin](https://dermnetnz.org/topics/acitretin) )

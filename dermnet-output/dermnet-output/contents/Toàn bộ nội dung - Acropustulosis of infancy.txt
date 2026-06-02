@@ -1,0 +1,53 @@
+# Bệnh mủ đầu chi ở trẻ sơ sinh — thông tin bổ sung
+
+Thể loại:
+
+Phát ban
+
+SNOMED CT:
+
+239098009
+
+**[Phát ban](https://dermnetnz.org/topics/topics?category=Rashes)**
+
+
+# **Bệnh mủ đầu chi ở trẻ sơ sinh**
+
+Tác giả: Tiến sĩ Mark Duffill, Hamilton, New Zealand, 2008.
+
+---
+
+## Bệnh mủ đầu chi ở trẻ sơ sinh là gì?
+
+Bệnh mụn mủ ở trẻ sơ sinh biểu hiện bằng các mụn nước và mụn mủ nhỏ, ngứa ở lòng bàn tay và lòng bàn chân của trẻ sơ sinh trong 2–3 năm đầu đời.
+![Bệnh mủ đầu chi ở trẻ sơ sinh](https://dermnetnz.org/assets/Uploads/site-age-specific/acropustulosis1.jpg)
+![Bệnh mủ đầu chi ở trẻ sơ sinh](https://dermnetnz.org/assets/Uploads/site-age-specific/acropustulosis.jpg)
+![Bệnh mủ đầu chi ở trẻ sơ sinh](https://dermnetnz.org/assets/Uploads/site-age-specific/acropustulosis2.jpg)
+
+---
+
+## Triệu chứng của bệnh mụn mủ ở trẻ sơ sinh là gì?
+
+Thông thường, trẻ sơ sinh sẽ xuất hiện các mảng đỏ nhỏ, phẳng trên lòng bàn tay và lòng bàn chân, sau đó nổi lên, phát triển thành mụn nước nhỏ, rồi thành mụn mủ, lành lại thành các vùng sắc tố nhỏ tạm thời . Các tổn thương này gây ngứa. Chúng xuất hiện thành từng đợt, giảm dần theo thời gian và cuối cùng sẽ hết.
+Tình trạng này sẽ tự khỏi sau vài tháng đến 3 tuổi.
+
+---
+
+## Nguyên nhân gây ra bệnh mụn mủ ở trẻ sơ sinh là gì?
+
+Trong một số trường hợp, bệnh ghẻ mủ ở trẻ sơ sinh có thể xuất hiện trước [bệnh ghẻ](https://dermnetnz.org/topics/scabies) và có thể là phản ứng dị ứng với mạt ghẻ . Trong những trường hợp khác, trẻ không có tiền sử ghẻ.
+
+---
+
+## Điều tra
+
+Không cần xét nghiệm trong phòng thí nghiệm để chẩn đoán nhưng có thể thực hiện để loại trừ nguyên nhân truyền nhiễm.
+
+---
+
+## Sự quản lý
+
+Thông thường không cần điều trị. Đôi khi có thể kê đơn những loại thuốc sau.
+- [Steroid tại chỗ](https://dermnetnz.org/topics/topical-steroid)
+- [Thuốc kháng histamine đường uống](https://dermnetnz.org/topics/antihistamines)
+- [Dapsone](https://dermnetnz.org/topics/dapsone) , dùng cho những trường hợp khó.

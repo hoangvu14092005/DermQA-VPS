@@ -1,0 +1,64 @@
+# Sự đàn hồi giữa da — thông tin bổ sung
+
+Thể loại:
+
+Bệnh mô liên kết
+
+SNOMED CT:
+
+238821003
+
+**[Bệnh mô liên kết](https://dermnetnz.org/topics/topics?category=Connective+tissue+diseases)**
+
+
+# **Sự đàn hồi giữa trung bì**
+
+Tác giả: Tiến sĩ Bob Chan, Bác sĩ da liễu, Auckland, New Zealand, tháng 11 năm 2014.
+
+---
+
+## Sự đàn hồi ở lớp trung bì là gì?
+
+Thoái hóa đàn hồi giữa bì là một tình trạng da hiếm gặp, mắc phải ở các mô đàn hồi. Các sợi đàn hồi cung cấp cho mô da khả năng đàn hồi và khả năng phục hồi. Trong tình trạng thoái hóa đàn hồi giữa bì, có sự mất mát chọn lọc các sợi đàn hồi ở trung bì .
+
+---
+
+## Các đặc điểm lâm sàng của tình trạng đàn hồi da giữa là gì?
+
+Tình trạng mất đàn hồi giữa bì được báo cáo chủ yếu ở bệnh nhân da trắng, nữ giới chiếm ưu thế. Vị trí thường bị ảnh hưởng nhất là thân và cánh tay trên; mặt và cẳng chân chỉ thỉnh thoảng bị ảnh hưởng.
+Có 3 phân nhóm lâm sàng của tình trạng đàn hồi da giữa được mô tả.
+- Loại I, loại phổ biến nhất, biểu hiện bằng các vùng nhăn nheo nhỏ không có triệu chứng , được phân định rõ ràng.
+- Loại II biểu hiện bằng tình trạng da xung quanh nang lông bị chùng nhão , dẫn đến hình thành các sẩn quanh nang lông .
+- Loại III biểu hiện bằng ban đỏ dạng lưới .
+
+### Sự đàn hồi giữa trung bì loại I
+![Sự đàn hồi giữa trung bì](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/middermal-elastolysis-1.jpg)
+![Sự đàn hồi giữa trung bì](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/middermal-elastolysis-4.jpg)
+![Sự đàn hồi giữa trung bì](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/middermal-elastolysis-5.jpg)
+
+---
+
+## Nguyên nhân nào gây ra tình trạng đàn hồi ở giữa trung bì?
+
+Nguyên nhân chính xác gây ra tình trạng phân hủy đàn hồi giữa trung bì vẫn chưa được biết rõ. Tình trạng này liên quan đến sự gia tăng hoạt động cục bộ của elastase, một loại enzyme tham gia vào quá trình phân hủy elastin .
+Các mối liên quan được báo cáo với tình trạng đàn hồi ở giữa da bao gồm:
+- Tiếp xúc với tia cực tím ( UV )
+- Mang thai
+- [](https://dermnetnz.org/topics/oral-contraceptive) Sử dụng [thuốc tránh thai đường uống](https://dermnetnz.org/topics/oral-contraceptive)
+- Các tình trạng viêm da
+- Bệnh tự miễn
+
+---
+
+## Sinh thiết mô đàn hồi giữa bì nhìn thấy gì?
+
+[Các đặc điểm sinh thiết](https://dermnetnz.org/topics/skin-biopsy) có thể hữu ích để xác nhận chẩn đoán tình trạng mất đàn hồi giữa trung bì. Mẫu bệnh phẩm có thể bình thường khi nhuộm hematoxylin và eosin (H&E) hoặc có thể có thâm nhiễm viêm riêng biệt . Có thể thấy mất sợi đàn hồi dạng dải hoặc khu trú ở trung bì khi nhuộm đàn hồi.
+![Sự đàn hồi giữa trung bì](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/middermal-elastolysis-2.jpg)
+![Sự đàn hồi giữa trung bì](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/middermal-elastolysis-3.jpg)
+
+---
+
+## Phương pháp điều trị tình trạng đàn hồi da giữa là gì?
+
+[Nên dùng kem chống nắng](https://dermnetnz.org/topics/sun-protection) vì tia UV có thể là nguyên nhân gây mất đàn hồi ở lớp trung bì. [Retinoid bôi ngoài da](https://dermnetnz.org/topics/topical-retinoids) có thể cải thiện tình trạng nhăn da.
+Các phương pháp điều trị khác, bao gồm [steroid](https://dermnetnz.org/topics/systemic-steroids) [tại chỗ](https://dermnetnz.org/topics/topical-steroid) và toàn thân , [hydroxychloroquine](https://dermnetnz.org/topics/hydroxychloroquine) , vitamin E, [clofazimine](https://dermnetnz.org/topics/clofazimine) và [colchicine](https://dermnetnz.org/topics/colchicine) chưa được chứng minh là có lợi. [](https://dermnetnz.org/topics/systemic-steroids) [](https://dermnetnz.org/topics/hydroxychloroquine) [](https://dermnetnz.org/topics/clofazimine) [](https://dermnetnz.org/topics/colchicine)

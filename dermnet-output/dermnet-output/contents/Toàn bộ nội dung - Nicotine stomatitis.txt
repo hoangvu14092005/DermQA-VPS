@@ -1,0 +1,55 @@
+# Viêm miệng do nicotine — thông tin bổ sung
+
+Thể loại:
+
+Phản ứng
+
+SNOMED CT:
+
+89013002
+
+**[Phản ứng](https://dermnetnz.org/topics/topics?category=Reactions)**
+
+
+# **Viêm miệng do nicotine**
+
+Tác giả: Tiến sĩ Delwyn Dyall-Smith FACD, Bác sĩ da liễu, 2010.
+
+---
+
+## Viêm miệng do nicotine là gì?
+
+Viêm miệng do nicotine, thường được gọi là vòm miệng của người hút thuốc, là một phản ứng xuất hiện ở vòm miệng do nhiệt độ quá cao trong miệng, thường gặp nhất là do hút thuốc. Tình trạng này còn được gọi bằng nhiều tên khác như viêm miệng do nicotine, viêm miệng nicotina và dày sừng do hút thuốc.
+![Đầu mẩu thuốc lá](https://dermnetnz.org/assets/Uploads/cigarettes-01.JPG)
+![Đầu mẩu thuốc lá](https://dermnetnz.org/assets/Uploads/cigarettes-02.jpg)
+
+---
+
+## Ai bị viêm miệng do nicotine?
+
+Viêm miệng do nicotine thường gặp ở người hút tẩu và người hút thuốc lá ngược (khi đầu điếu thuốc đang cháy được đưa vào miệng). Nguyên nhân có thể là do luồng nhiệt tập trung tác động lên vòm miệng. Ít phổ biến hơn khi hút thuốc lá hoặc xì gà, và hiếm khi xảy ra khi uống đồ uống quá nóng. Việc kết hợp đồ uống nóng và hút thuốc có thể làm tăng nguy cơ.
+Nó liên quan đến thời gian và mức độ của thói quen, đòi hỏi phải tiếp xúc lâu dài.
+Cả nam giới và nữ giới đều có thể bị viêm miệng do nicotine, nhưng vì nam giới thường hút thuốc lào nhiều hơn nên viêm miệng do nicotine thường gặp ở nam giới hơn.
+Trong một nghiên cứu lớn, viêm miệng do nicotine được phát hiện ở 60% người hút tẩu và 30% người hút thuốc lá.
+
+---
+
+## Đặc điểm lâm sàng của viêm miệng do nicotine
+
+Viêm miệng do nicotine thường được phát hiện khi khám miệng định kỳ vì nó thường không gây ra bất kỳ triệu chứng nào. Đôi khi nó có thể gây kích ứng nhẹ.
+Ban đầu, vòm miệng cứng và đôi khi cả vòm miệng mềm liền kề sẽ đỏ . Theo thời gian, vòm miệng chuyển sang màu trắng với bề ngoài nứt nẻ giống như bùn khô. Đặc trưng là nhiều chấm đỏ rải rác. Đây là các lỗ ống dẫn bị viêm của các tuyến nước bọt phụ .
+Răng giả bảo vệ vòm miệng khỏi luồng nhiệt. Những thay đổi này chỉ được nhìn thấy ở phía sau vòm miệng, bên ngoài vùng được che phủ bởi răng giả.
+Viêm miệng do nicotine không được coi là tiền ác tính, ngoại trừ trường hợp hút thuốc lá ngược. Tuy nhiên, hút thuốc lá có liên quan đến sự phát triển của [ung thư biểu mô tế bào vảy miệng](https://dermnetnz.org/topics/oral-cancer) , do đó hai tình trạng này có thể cùng tồn tại.
+
+---
+
+## Viêm miệng do nicotine được chẩn đoán như thế nào?
+
+Viêm miệng do nicotine là chẩn đoán lâm sàng dựa trên hình ảnh trên vòm miệng và các vết nứt màu trắng điển hình có các chấm đỏ.
+Tuy nhiên, đôi khi cần phải [sinh thiết](https://dermnetnz.org/topics/skin-biopsy) niêm mạc để loại trừ chứng loạn sản ( [bạch sản miệng](https://dermnetnz.org/topics/carcinoma-in-situ-of-oral-cavity) ) hoặc [ung thư miệng](https://dermnetnz.org/topics/oral-cancer) . [](https://dermnetnz.org/topics/skin-biopsy) [](https://dermnetnz.org/topics/carcinoma-in-situ-of-oral-cavity) [](https://dermnetnz.org/topics/oral-cancer)
+
+---
+
+## Điều trị viêm miệng do nicotine
+
+Cách điều trị duy nhất là ngừng hút thuốc. Những thay đổi này sẽ cải thiện trong vòng 1-2 tuần. Bất kỳ vùng nào dai dẳng hoặc nghi ngờ nên được sinh thiết. Cần kiểm tra miệng thường xuyên vì nguy cơ ung thư miệng ở người hút thuốc.

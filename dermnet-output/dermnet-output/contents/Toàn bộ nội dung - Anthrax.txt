@@ -1,0 +1,88 @@
+# Bệnh than — thông tin bổ sung
+
+Thể loại:
+
+Nhiễm trùng
+
+SNOMED CT:
+
+409498004, 8498006
+
+**[Nhiễm trùng](https://dermnetnz.org/topics/topics?category=Infections)**
+
+
+# **Bệnh than**
+
+Tác giả: Được xem xét và cập nhật bởi Tiến sĩ Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand; và Vanessa Ngan, Biên tập viên; tháng 6 năm 2014.
+
+---
+
+## Bệnh than là gì?
+
+Bệnh than là một bệnh nhiễm trùng nghiêm trọng do vi khuẩn Bacillus anthracis gây ra . Nếu không được điều trị, có tới một phần năm số người nhiễm bệnh tử vong. Điều trị kịp thời bằng kháng sinh có thể chữa khỏi bệnh và hầu hết đều hồi phục hoàn toàn.
+Bệnh than còn được gọi là bệnh phân loại len, sốt lách , charbon và milzbrand.
+
+### Bệnh than da được điều trị bằng doxycycline
+![Khi chẩn đoán](https://dermnetnz.org/assets/Uploads/anthrax-01.jpg)
+![6 ngày sau](https://dermnetnz.org/assets/Uploads/anthrax-02.jpg)
+![4 tuần sau khi chẩn đoán](https://dermnetnz.org/assets/Uploads/anthrax-03.jpg)
+
+---
+
+## Ai mắc bệnh than và bệnh này lây truyền sang người như thế nào?
+
+Bệnh than cực kỳ hiếm gặp ở các nước phát triển nhưng thỉnh thoảng lại xuất hiện ở nông dân châu Phi, Trung Đông và vùng Caribe. Bệnh cũng có thể lây nhiễm cho công nhân trong ngành công nghiệp len, tóc hoặc lông cứng, thợ mổ thịt và làm vườn.
+Bệnh than chủ yếu ảnh hưởng đến cừu và gia súc ăn phải bào tử nằm im lìm trên đồng cỏ. Nhiễm trùng ở người có thể phát sinh do bào tử xâm nhập vào da qua vết thương nhỏ, qua phổi do hít phải (bệnh phân loại len) hoặc qua đường tiêu hóa. Phần lớn nhiễm trùng than (95%) là qua da ( bệnh than da ).
+
+---
+
+## Các đặc điểm lâm sàng của bệnh than qua da là gì?
+
+Bệnh than qua da thường phát triển trong khoảng thời gian từ 1-7 ngày sau khi tiếp xúc với da.
+- Bệnh than thường bắt đầu bằng nhiễm trùng tại chỗ ở vùng da hở (thường là mặt, tay hoặc cánh tay).
+- Nó trông giống như vết côn trùng cắn và được gọi là "mụn mủ ác tính". Thường không đau, một nốt sưng ngứa xuất hiện với vùng da xung quanh đỏ. Sau khoảng một ngày, mụn nước sẽ phồng rộp rồi loét. Ở giai đoạn này, mụn nước có đường kính khoảng 1–3 cm và hình tròn, xung quanh có các mụn nước nhỏ và vùng da xung quanh sưng tấy rõ rệt.
+- Đặc trưng của vết loét là hình thành vảy đen, được gọi là hoại tử . Trong vòng vài tuần, vết nhiễm trùng sẽ lành và để lại sẹo.
+Nhiễm trùng đôi khi gây ra vệt đỏ lan đến các tuyến bạch huyết gần đó ( viêm mạch bạch huyết ). Các hạch bạch huyết này thường sưng lên và đau.
+![Viêm bạch huyết do bệnh than](https://dermnetnz.org/assets/Uploads/anthrax-04.jpg)
+
+---
+
+## Biến chứng của bệnh than qua da là gì?
+
+Bệnh than trở nên nguy hiểm nếu nó lây lan rộng rãi qua đường máu. Nguy cơ bệnh than lây lan qua cơ thể sẽ cao hơn nếu nhiễm trùng xảy ra do hít phải hoặc nuốt phải.
+Các triệu chứng bao gồm sốt, đau đầu và suy nhược. Trong trường hợp nhẹ, bệnh có thể khỏi trong vòng ba tuần.
+Trong trường hợp nhiễm trùng nặng, bệnh nhân thường bị suy nhược, mê sảng, suy sụp và tử vong.
+
+---
+
+## Cần phải tiến hành những xét nghiệm nào khi nghi ngờ mắc bệnh than?
+
+- Soi kính hiển vi – lấy mẫu từ vị trí bị nhiễm bệnh có thể phát hiện vi khuẩn B. anthracis gram dương đặc trưng dưới kính hiển vi.
+- Huyết thanh học – Bệnh than cũng có thể được phát hiện bằng một số loại xét nghiệm máu. Tuy nhiên, thường mất vài ngày mới có kết quả.
+- [Sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) – Bác sĩ giải phẫu bệnh có thể báo cáo tình trạng da sưng tấy rõ rệt, xuất huyết , viêm và hình thành [áp xe](https://dermnetnz.org/topics/cutaneous-abscess) .
+
+---
+
+## Chẩn đoán phân biệt bệnh than là gì?
+
+Biểu hiện của bệnh than có thể giống với các bệnh nhiễm trùng da do [tụ cầu](https://dermnetnz.org/topics/staphylococcal-skin-infection) và [liên cầu](https://dermnetnz.org/topics/streptococcal-skin-infections) , và các bệnh nhiễm trùng do vi-rút ít phổ biến hơn như [bệnh đậu bò](https://dermnetnz.org/topics/cowpox) , [bệnh dại](https://dermnetnz.org/topics/orf) và [bệnh mèo cào](https://dermnetnz.org/topics/catscratch-disease) .
+
+---
+
+## Phương pháp điều trị bệnh than là gì?
+
+Bệnh than da được điều trị bằng [kháng sinh](https://dermnetnz.org/topics/antibiotics) . Việc điều trị phải được bắt đầu ngay lập tức để giảm nguy cơ bệnh than lây lan từ tổn thương da ban đầu.
+- Theo truyền thống, điều trị bằng [penicillin tiêm tĩnh mạch hoặc](https://dermnetnz.org/topics/penicillin) tiêm bắp trong 7–10 ngày. Tuy nhiên, đối với bệnh than ngoài da không biến chứng, tetracycline đường uống, đặc biệt là [doxycycline](https://dermnetnz.org/topics/tetracycline) , được chỉ định ngoại trú. Thuốc này cũng phù hợp cho những người dị ứng với penicillin. [](https://dermnetnz.org/topics/penicillin) [](https://dermnetnz.org/topics/tetracycline)
+- Với những lo ngại gần đây rằng vi khuẩn B. anthracis trong bối cảnh khủng bố sinh học có thể kháng penicillin và tetracycline, một loại quinolone như ciprofloxacin đang trở thành kháng sinh được lựa chọn. Thuốc này đặc biệt được sử dụng cho nhiễm trùng than qua đường hô hấp. Ban đầu, nên tiêm tĩnh mạch, sau đó tiếp tục uống trong tối đa 60 ngày.
+Trong một số trường hợp, cần phải phẫu thuật để cạo bỏ lớp vảy đen từ vết loét do bệnh than. Điều quan trọng là phải thực hiện việc này với lớp phủ kháng sinh, vì việc can thiệp vào vết thương có thể thúc đẩy sự lây lan của vi khuẩn. Nếu vết sẹo cuối cùng không đẹp, bác sĩ phẫu thuật thẩm mỹ có thể cải thiện hình dạng của nó sau này.
+Một phương pháp điều trị mới hơn cho bệnh than qua đường hô hấp là kháng thể đơn dòng raxibacumab. Thuốc này được sử dụng như một phần của liệu pháp phối hợp với các thuốc kháng sinh thích hợp.
+
+---
+
+## Có thể phòng ngừa bệnh than không?
+
+Bào tử bệnh than có thể tồn tại hơn 20 năm trong đồng cỏ khô và đất. Các biện pháp phòng ngừa mà người dân có thể thực hiện bao gồm:
+- Mặc áo dài tay và đeo găng tay bảo hộ khi tiếp xúc với động vật bị nhiễm bệnh.
+- Cách ly gia súc bị nhiễm bệnh và tiêm vắc-xin phòng bệnh than cho đàn gia súc.
+- Vắc-xin phòng bệnh có sẵn cho những người có nguy cơ mắc bệnh cao.
+Đối với những người đã tiếp xúc với bệnh than nhưng không có triệu chứng, nên điều trị dự phòng bằng kháng sinh để giảm nguy cơ nhiễm trùng. Khuyến cáo nên uống penicillin, tetracycline hoặc quinolone trong 60 ngày.

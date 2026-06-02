@@ -1,0 +1,101 @@
+# Hội chứng Rothmund-Thomson — thông tin bổ sung
+
+Thể loại:
+
+Di truyền
+
+SNOMED CT:
+
+69093006, 70114006, 402685001, 90128006
+
+**[Di truyền](https://dermnetnz.org/topics/topics?category=Genetic)**
+
+
+# **Hội chứng Rothmund-Thomson**
+
+Tác giả: Tiến sĩ Eugene Tan, Bác sĩ da liễu, Bệnh viện Waikato, Hamilton, New Zealand, 2008.
+
+---
+
+## Hội chứng Rothmund–Thomson là gì?
+
+Hội chứng Rothmund–Thomson là một bệnh di truyền hiếm gặp ảnh hưởng đến da, mắt, xương và các cơ quan nội tạng. Ít nhất 300 trường hợp đã được báo cáo trên các tạp chí y khoa kể từ khi trường hợp đầu tiên được Rothmund mô tả vào năm 1868. Hội chứng Rothmund–Thomson còn được gọi là poikiloderma bẩm sinh.
+![Hội chứng Rothmund-Thomson](https://dermnetnz.org/assets/Uploads/systemic/rts2.jpg)
+![Bệnh poikiloderma sớm](https://dermnetnz.org/assets/Uploads/systemic/rts3.jpg)
+![Hội chứng Rothmund-Thomson](https://dermnetnz.org/assets/Uploads/systemic/rts1.jpg)
+![Góc mang bất thường](https://dermnetnz.org/assets/Uploads/systemic/rts4.jpg)
+![Ngón tay cái bất thường của em gái](https://dermnetnz.org/assets/Uploads/systemic/rts5.jpg)
+![Giãn mạch ở mu bàn tay](https://dermnetnz.org/assets/Uploads/systemic/rts6.jpg)
+
+---
+
+## Nguyên nhân gây ra hội chứng Rothmund–Thomson là gì?
+
+Hội chứng Rothmund–Thomson là do khiếm khuyết di truyền , trong đó có đột biến ở gen RECQL4 trên nhiễm sắc thể số 8. Gen này mã hóa cho enzyme DNA helicase có tác dụng tháo xoắn DNA ( axit deoxyribonucleic ). Gen bất thường này làm nhiễm sắc thể không ổn định, làm thay đổi sự phát triển của tế bào trong nhiều mô.
+Bệnh này được di truyền theo đặc điểm lặn trên nhiễm sắc thể thường . Điều này có nghĩa là mỗi bên cha mẹ đều phải mang một gen bất thường.
+
+---
+
+## Các đặc điểm lâm sàng của hội chứng Rothmund–Thomson là gì?
+
+Trẻ em bị ảnh hưởng có thể được phát hiện sớm nhờ kích thước nhỏ, dễ bị cháy nắng và hình dạng da, răng và xương. Hội chứng Rothmund-Thomson phổ biến hơn ở nữ giới so với nam giới.
+Da
+- Nhạy cảm với ánh sáng : đỏ da như bị cháy nắng, sưng và phồng rộp ở má và mặt; có thể lan đến mông và tứ chi. Xuất hiện trong năm đầu đời ở 90% trẻ.
+- Poikiloderma: sắc tố loang lổ , [giãn mao mạch](https://dermnetnz.org/topics/telangiectasia) ( các mạch máu nhỏ nổi bật ) và da mỏng đi; thường thấy ở má, tay và mông khi trẻ được 3-5 tuổi
+- Lông mày mỏng và tóc thưa trên da đầu
+- Móng tay giòn, bất thường
+Mắt
+- Đục thủy tinh thể : tình trạng đục thủy tinh thể xảy ra ở 50% trẻ em từ 3-7 tuổi và thường xảy ra ở cả hai mắt.
+- Tổn thương giác mạc ít phổ biến hơn.
+Xương
+- Các khuyết tật về xương ảnh hưởng đến hơn 50% trẻ em, thường có chiều cao thấp.
+- Những tình trạng này bao gồm loạn sản (phát triển bất thường), xơ cứng (dày lên và cứng lại) và bất thường dạng nang ở xương dài.
+- Bàn tay và bàn chân nhỏ; xương quay và ngón tay cái không có hoặc bị dị dạng
+- Loãng xương và thiểu sản xương (xương mỏng) thường gặp ở người cao tuổi. Gãy xương bệnh lý có thể xảy ra ngay cả khi chấn thương nhẹ .
+- Những thay đổi khác bao gồm các đầu xương dài mở rộng (phần xương nơi diễn ra sự phát triển), tăng sản xương chậu (phát triển quá mức), các đầu xương xốp (phần giữa của xương dài).
+Bộ răng
+- Mất răng (không hình thành răng)
+- Microdontia (răng nhỏ)
+- Răng mọc muộn và mọc lệch
+- Răng thừa
+Hệ thống sinh sản
+- [Suy sinh dục](https://dermnetnz.org/topics/hypogonadism-in-males) ở 25%
+- Cơ quan sinh dục có vẻ ngoài trẻ con
+- Vô kinh (không có kinh nguyệt)
+- Vô sinh
+Hệ thống nội tiết
+- U tuyến cận giáp
+- Rối loạn chức năng tuyến giáp
+Hệ tiêu hóa
+- Buồn nôn và nôn mãn tính
+- Tiêu chảy
+Trí tuệ
+- Suy giảm trí tuệ lên đến 30%
+
+---
+
+## Những biến chứng của hội chứng Rothmund–Thomson là gì?
+
+Mối quan tâm chính của hội chứng Rothmund–Thomson là nguy cơ mắc ung thư cao hơn.
+
+### Ung thư da
+[Ung thư da](https://dermnetnz.org/topics/skin-cancer) bao gồm [ung thư biểu mô tế bào đáy](https://dermnetnz.org/topics/basal-cell-carcinoma) , [ung thư biểu mô tế bào vảy](https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma) và [ung thư biểu mô nội biểu bì (bệnh Bowen)](https://dermnetnz.org/topics/intraepidermal-squamous-cell-carcinoma) thường gặp ở trẻ lớn và người lớn mắc hội chứng Rothmund-Thomson. Chúng thường xuất hiện ở mặt, cổ và chân tay. Người ta cho rằng ung thư da xảy ra do khiếm khuyết trong quá trình sửa chữa DNA sau khi tiếp xúc với tia cực tím.
+
+### Ung thư xương
+Loại ung thư phổ biến thứ hai là ung thư xương, có thể phát triển ở cuối thời thơ ấu hoặc tuổi vị thành niên. Ung thư xương có thể phát sinh trong tình trạng loạn sản xương có từ trước nên có thể khó chẩn đoán trên X-quang.
+Điều trị bệnh u xương ác tính ở bệnh nhân mắc hội chứng Rothmund–Thomson cũng tương tự như ở những bệnh nhân không mắc hội chứng này.
+
+### Các bệnh ác tính khác
+Các loại ung thư khác ảnh hưởng đến những người mắc hội chứng Rothmund–Thomson bao gồm:
+- Ung thư biểu mô dạ dày
+- U xơ
+- [U lympho Hodgkin](https://dermnetnz.org/topics/hodgkin-lymphoma)
+- U nang tuyến mồ hôi ác tính .
+
+---
+
+## Quản lý hội chứng Rothmund–Thomson
+
+Trẻ em mắc hội chứng Rothmund-Thomson thường được bác sĩ nhi khoa, bác sĩ da liễu , bác sĩ phẫu thuật chỉnh hình , bác sĩ phẫu thuật răng hàm mặt và/hoặc các chuyên gia khác theo dõi. Các bác sĩ lâm sàng nên lưu ý đến nguy cơ ung thư và nên theo dõi và điều trị nếu cần thiết.
+[Chống nắng](https://dermnetnz.org/topics/sun-protection) rất quan trọng vì da nhạy cảm với ánh sáng và nguy cơ ung thư da tăng cao. Điều này bao gồm việc tìm bóng râm, mặc quần áo che phủ toàn bộ cơ thể và [sử dụng kem chống nắng](https://dermnetnz.org/topics/topical-sunscreen-agents) phổ rộng .
+Tư vấn di truyền rất quan trọng đối với các thành viên trong gia đình.

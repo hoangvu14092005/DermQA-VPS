@@ -1,0 +1,181 @@
+# Mề đay – tổng quan — thông tin bổ sung
+
+Thể loại:
+
+Phản ứng, phát ban
+
+SNOMED CT:
+
+126485001, 404177007, 41291007, 247472004, 402383003, 42265009, 402408009, 302161006, 51611005, 302162004, 402601007, 7632005, 73098005, 302165002, 74774004, 201261003, 62211002, 19364004, 402305008, 402304007, 89870006, 10347006, 387788000, 55608001, 78745000, 83227006, 718217000, 402656007, 239945009, 402855009, 403510002, 238687000, 724593005, 402414002, 302972002, 238697009, 213325008, 403608009, 273408008, 6445007, 402403000, 402384009, 40178009, 241957001, 241958006, 241959003, 241960008
+
+**[Phản ứng, phát ban](https://dermnetnz.org/topics/topics?category=Reactions)**
+
+
+# **Mề đay – tổng quan**
+
+Tác giả và Tổng biên tập DermNet: Tiến sĩ Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand. Cập nhật tháng 1 năm 2015. Bản sửa đổi DermNet tháng 4 năm 2021
+
+---
+
+## Mề đay là gì?
+
+Mề đay đặc trưng bởi các vết sưng rất ngứa (nổi mề đay), có hoặc không kèm theo các mảng ban đỏ xung quanh . Tên gọi "mề đay" bắt nguồn từ tên cây tầm ma châu Âu phổ biến Urtica dioica . Mề đay có thể cấp tính hoặc mãn tính , tự phát hoặc do nguyên nhân.
+U cục (hay mề đay ) là tình trạng sưng tấy nông trên da có màu da hoặc da nhợt nhạt, thường được bao quanh bởi ban đỏ kéo dài từ vài phút đến 24 giờ.
+Mề đay có thể cùng tồn tại với [phù mạch](https://dermnetnz.org/topics/angioedema) , là tình trạng sưng tấy sâu hơn trong da hoặc niêm mạc.
+![Mề đay](https://dermnetnz.org/assets/Uploads/urticaria4.jpg)
+![Mề đay tự phát](https://dermnetnz.org/assets/Uploads/urticaria-200.jpg)
+![Sẩn phù ở da sẫm màu](https://dermnetnz.org/assets/Uploads/urticaria-dark-skin.jpg)
+
+---
+
+## Phân loại bệnh mề đay
+
+Bệnh mề đay được phân loại theo thời gian kéo dài.
+- [Mề đay cấp tính](https://dermnetnz.org/topics/acute-urticaria) (kéo dài < 6 tuần và thường hết trong vòng vài giờ đến vài ngày)
+- [Mề đay mãn tính](https://dermnetnz.org/topics/chronic-urticaria) (kéo dài > 6 tuần, với các vết loét hàng ngày hoặc từng đợt)
+Mề đay mãn tính có thể [tự phát](https://dermnetnz.org/topics/chronic-spontaneous-urticaria) hoặc [do nguyên nhân](https://dermnetnz.org/topics/chronic-inducible-urticaria) . Cả hai loại có thể cùng tồn tại.
+![Hình 1 - Phân loại bệnh mề đay](https://dermnetnz.org/assets/Uploads/urticaria-figure-1.jpg)
+Bệnh mề đay mãn tính bao gồm:
+- [Bệnh vẽ nổi da](https://dermnetnz.org/topics/dermographism)
+- [Mề đay lạnh](https://dermnetnz.org/topics/cold-urticaria)
+- [Mề đay cholinergic](https://dermnetnz.org/topics/cholinergic-urticaria)
+- [Mề đay tiếp xúc](https://dermnetnz.org/topics/contact-urticaria)
+- [Mề đay do tì đè muộn](https://dermnetnz.org/topics/pressure-urticaria)
+- [Mề đay do ánh nắng mặt trời](https://dermnetnz.org/topics/solar-urticaria)
+- [Mề đay do nhiệt](https://dermnetnz.org/topics/heat-urticaria)
+- [Mề đay rung](https://dermnetnz.org/topics/vibratory-urticaria)
+- [Phù mạch rung](https://dermnetnz.org/topics/vibratory-angioedema)
+- [Mề đay do nước](https://dermnetnz.org/topics/aquagenic-urticaria)
+
+### Mề đay và phù mạch
+![Mề đay](https://dermnetnz.org/assets/Uploads/reactions/urticaria2.jpg)
+![](https://dermnetnz.org/assets/collection-O/Urticaria/urticaria-00004.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/reactions/urticaria3.jpg)
+[Xem thêm hình ảnh về bệnh mề đay](https://dermnetnz-org.translate.goog/topics/urticaria-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp) .
+
+---
+
+## Ai bị nổi mề đay và tại sao?
+
+Cứ năm trẻ em hoặc người lớn thì có một người bị nổi [mề đay cấp tính](https://dermnetnz.org/topics/acute-urticaria) trong đời. Bệnh này ảnh hưởng đến mọi chủng tộc và cả hai giới.
+Mề đay cấp tính có thể xảy ra ở trẻ sơ sinh và trẻ nhỏ nhưng hiếm gặp. [Mề đay cấp tính ở trẻ em](https://dermnetnz.org/topics/urticaria-in-children) thường do nhiễm trùng , ngay cả khi không sốt. Ở trẻ lớn hơn, thức ăn, thuốc men và các chất gây dị ứng hít phải cũng là những nguyên nhân quan trọng. Ở người lớn, mề đay thường tự phát và vô căn.
+Nổi mề đay cấp tính kèm theo sốt có thể là dấu hiệu đầu tiên của bệnh nhiễm [COVID-19](https://dermnetnz.org/topics/covid-19) .
+[Mề đay tự phát mạn tính](https://dermnetnz.org/topics/chronic-urticaria) ảnh hưởng đến 0,5–2% dân số; trong một số trường hợp, hai phần ba là phụ nữ. Tuy nhiên [, mề đay tự phát mạn tính](https://dermnetnz.org/topics/chronic-inducible-urticaria) phổ biến hơn. Có mối liên quan giữa di truyền và [tự miễn](https://dermnetnz.org/topics/autoimmune-diseases-in-dermatology) .
+
+---
+
+## Đặc điểm lâm sàng của bệnh mề đay là gì?
+
+Các vết sẩn mề đay có thể có đường kính vài milimét hoặc vài centimet, màu trắng hoặc đỏ, có hoặc không có vệt đỏ. Mỗi vết sẩn có thể kéo dài vài phút hoặc vài giờ và có thể thay đổi hình dạng. Các vết sẩn có thể tròn, hoặc tạo thành hình nhẫn, hình dạng giống bản đồ, hoặc các mảng khổng lồ.
+Bệnh mề đay có thể ảnh hưởng đến bất kỳ vị trí nào trên cơ thể và có xu hướng lan rộng.
+[Phù mạch](https://dermnetnz.org/topics/angioedema) thường khu trú hơn. Nó thường ảnh hưởng đến mặt (đặc biệt là [mí mắt](https://dermnetnz.org/topics/eyelid-skin-problems) và vùng quanh miệng ), tay, chân và bộ phận sinh dục. Nó có thể ảnh hưởng đến lưỡi, lưỡi gà, vòm miệng mềm hoặc thanh quản.
+[Bệnh huyết thanh](https://dermnetnz.org/topics/serum-sickness) do truyền máu và [các phản ứng giống bệnh huyết thanh](https://dermnetnz.org/topics/serum-sickness-like-reaction) do một số loại thuốc gây ra bệnh mề đay cấp tính để lại vết bầm tím, sốt, sưng hạch bạch huyết , đau khớp và sưng tấy.
+Trong [bệnh mề đay mạn tính do kích thích](https://dermnetnz.org/topics/chronic-inducible-urticaria) , các vết sưng tấy xuất hiện khoảng 5 phút sau khi kích thích và kéo dài vài phút hoặc đến một giờ. Đặc điểm của các vết sưng tấy là:
+- Tuyến tính trong [dermographism](https://dermnetnz.org/topics/dermographism)
+- Nhỏ trong [bệnh mề đay cholinergic](https://dermnetnz.org/topics/cholinergic-urticaria)
+- Giới hạn ở các vùng tiếp xúc trong [bệnh mề đay tiếp xúc](https://dermnetnz.org/topics/contact-urticaria)
+- Nổi mề đay lan tỏa khi [trời lạnh](https://dermnetnz.org/topics/cold-urticaria) —nếu vùng da rộng bị ảnh hưởng, có thể dẫn đến ngất xỉu (có khả năng nguy hiểm nếu bơi trong nước lạnh).
+Các vết sưng tấy dai dẳng hơn ở bệnh mề đay tự phát mạn tính, nhưng mỗi tổn thương sẽ tự khỏi trong vòng 24 giờ. Chúng có thể xuất hiện vào một số thời điểm nhất định trong ngày.
+
+### Đánh giá mức độ nghiêm trọng của bệnh mề đay
+Có thể sử dụng thang đo tương tự trực quan để ghi lại và so sánh mức độ ngứa.
+Hoạt động của mề đay tự phát mạn tính có thể được đánh giá bằng hệ thống chấm điểm UAS7. Điểm số ngứa/mẩn ngứa hàng ngày được cộng dồn trong bảy ngày; điểm tối đa là 42.
+Điểm Weals/24 giờ Ngứa 0 Không có Không có 1 20 Nhẹ 2 20–50 Vừa phải 3 >50 Mãnh liệt
+Tác động về mặt cảm xúc của bệnh mề đay và ảnh hưởng của nó đến chất lượng cuộc sống cũng cần được đánh giá. [Chỉ số Chất lượng Cuộc sống Da liễu (DLQI)](https://dermnetnz.org/topics/dermatology-life-quality-index-dlqi) và CU-Q2oL, một bảng câu hỏi chuyên biệt về bệnh mề đay mãn tính, đã được xác nhận cho bệnh mề đay mãn tính, trong đó rối loạn giấc ngủ là một vấn đề đặc biệt.
+
+---
+
+## Nguyên nhân gây ra bệnh nổi mề đay là gì?
+
+Phù mạch là do sự giải phóng các chất trung gian hóa học từ tế bào mast ở mô và bạch cầu ái kiềm tuần hoàn. Các chất trung gian hóa học này bao gồm histamine , yếu tố hoạt hóa tiểu cầu và cytokine. Các chất trung gian này kích hoạt các dây thần kinh cảm giác , gây giãn mạch và rò rỉ dịch vào các mô xung quanh. Sự giải phóng bradykinin gây phù mạch.
+Một số giả thuyết đã được đưa ra để giải thích bệnh mề đay. Hệ thống miễn dịch, axit arachidonic và đông máu có liên quan, và các đột biến gen đang được nghiên cứu.
+
+### Mề đay cấp tính
+[Mề đay cấp tính](https://dermnetnz.org/topics/acute-urticaria) có thể do các yếu tố sau gây ra, nhưng nguyên nhân không phải lúc nào cũng được xác định.
+- Nhiễm trùng cấp tính do virus — nhiễm trùng đường hô hấp trên, [viêm gan virus](https://dermnetnz.org/topics/viral-hepatitis) , [bệnh bạch cầu đơn nhân nhiễm trùng](https://dermnetnz.org/topics/infectious-mononucleosis) , [mycoplasma](https://dermnetnz.org/topics/mycoplasma-pneumoniae-infection)
+- [Nhiễm trùng](https://dermnetnz.org/topics/bacterial-skin-infections) cấp tính do vi khuẩn [](https://dermnetnz.org/topics/bacterial-skin-infections) [](https://dermnetnz.org/topics/bacterial-skin-infections) — áp xe răng , viêm xoang
+- [Dị ứng thực phẩm](https://dermnetnz.org/topics/food-allergy) ( do IgE trung gian)—thường là sữa, trứng, [đậu phộng](https://dermnetnz.org/topics/peanut-allergy) , động vật có vỏ
+- [Dị ứng thuốc](https://dermnetnz.org/topics/drug-eruptions) ( [nổi mề đay do thuốc](https://dermnetnz.org/topics/drug-induced-urticaria) qua trung gian IgE ) — thường là do [kháng sinh](https://dermnetnz.org/topics/antibiotics)
+- [Mề đay do thuốc](https://dermnetnz.org/topics/drug-induced-urticaria) do dị ứng giả — aspirin, [thuốc chống viêm không steroid](https://dermnetnz.org/topics/non-steroidal-anti-inflammatory-drugs-and-their-skin-side-effects) không chọn lọc , thuốc phiện, thuốc cản quang; những chất này gây ra mề đay mà không có sự kích hoạt miễn dịch
+- [Tiêm chủng](https://dermnetnz.org/topics/adverse-cutaneous-reactions-to-vaccines)
+- [Vết đốt của ong hoặc ong bắp cày](https://dermnetnz.org/topics/bee-and-wasp-stings)
+- Phản ứng lan rộng sau khi bị [nổi mề đay tiếp xúc](https://dermnetnz.org/topics/contact-urticaria) tại chỗ — ví dụ như [mủ cao su](https://dermnetnz.org/topics/latex-allergy)
+Mề đay dị ứng nghiêm trọng có thể dẫn đến [sốc phản vệ](https://dermnetnz.org/topics/anaphylaxis) ( co thắt phế quản , suy sụp).
+Các phức hợp miễn dịch do truyền máu gây ra [bệnh huyết thanh](https://dermnetnz.org/topics/serum-sickness) và một số loại thuốc gây ra [phản ứng giống bệnh huyết thanh](https://dermnetnz.org/topics/serum-sickness-like-reaction) .
+Một đợt [phù mạch](https://dermnetnz.org/topics/angioedema) đơn lẻ hoặc tái phát mà không kèm theo nổi mề đay có thể là do thuốc ức chế men chuyển angiotensin (ACE) [xem [phần phù mạch do thuốc ức chế men chuyển ACE](https://dermnetnz.org/topics/ace-inhibitor-induced-angioedema) ]. [](https://dermnetnz.org/topics/angioedema) [](https://dermnetnz.org/topics/ace-inhibitor-induced-angioedema)
+
+### Mề đay mãn tính
+[Mề đay tự phát mạn tính](https://dermnetnz.org/topics/chronic-urticaria) chủ yếu là vô căn (không rõ nguyên nhân). Nguyên nhân tự miễn có thể là do bệnh tự miễn . Khoảng một nửa số bệnh nhân được nghiên cứu mang kháng thể tự miễn IgG chức năng với immunoglobulin IgE hoặc thụ thể ái lực cao FcεRIα.
+Bệnh mề đay tự phát mãn tính cũng có liên quan đến:
+- Nhiễm trùng tiềm ẩn mãn tính, chẳng hạn như [vi khuẩn Helicobacter pylori](https://dermnetnz.org/topics/helicobacter-pylori-infection-and-skin-diseases) ( ký sinh trùng đường ruột )
+- [Các bệnh tự miễn mãn tính](https://dermnetnz.org/topics/autoimmune-diseases-in-dermatology) , chẳng hạn như [bệnh lupus ban đỏ hệ thống](https://dermnetnz.org/topics/systemic-lupus-erythematosus) , [bệnh tuyến giáp](https://dermnetnz.org/topics/skin-problems-associated-with-thyroid-disease) , [bệnh celiac](https://dermnetnz.org/topics/gluten-enteropathy-in-patients-with-dermatitis-herpetiformis) , [bệnh bạch biến](https://dermnetnz.org/topics/vitiligo) và các bệnh khác.
+Các vết loét trong bệnh mề đay tự phát mãn tính có thể trở nên trầm trọng hơn do:
+- Nhiệt
+- Nhiễm trùng do virus
+- Quần áo bó sát
+- Dị ứng giả do thuốc—aspirin, [thuốc chống viêm không steroid](https://dermnetnz.org/topics/non-steroidal-anti-inflammatory-drugs-and-their-skin-side-effects) , thuốc phiện
+- Dị ứng giả thực phẩm—salicylate, chất tạo màu thực phẩm azo như tartrazine ( [102](https://dermnetnz.org/topics/food-additives-and-e-numbers) ), chất bảo quản benzoate ( [210-220](https://dermnetnz.org/topics/food-additives-and-e-numbers) ) và [các chất phụ gia thực phẩm](https://dermnetnz.org/topics/food-additives) khác .
+Mề đay cảm ứng là phản ứng với kích thích vật lý.
+Loại mề đay cảm ứng Ví dụ về các kích thích gây ra sự run rẩy [Bệnh vẽ nổi da](https://dermnetnz.org/topics/dermographism) Vuốt hoặc gãi da Quần áo bó sát Lau khô bằng khăn sau khi tắm nước nóng [Mề đay lạnh](https://dermnetnz.org/topics/cold-urticaria) Không khí lạnh trên da hở Nước lạnh Khối băng Liệu pháp lạnh [Mề đay cholinergic](https://dermnetnz.org/topics/cholinergic-urticaria) Mồ hôi do tập thể dục Đổ mồ hôi do cảm xúc bất ổn Tắm nước nóng [Mề đay tiếp xúc](https://dermnetnz.org/topics/contact-urticaria) Gây ra chất hấp thụ qua da hoặc niêm mạc Chất gây dị ứng (qua trung gian IgE): bột mì trắng, mỹ phẩm, hàng dệt may, [mủ cao su](https://dermnetnz.org/topics/latex-allergy) , nước bọt , thịt, cá, rau Chất gây dị ứng giả hoặc chất kích ứng : cây tầm ma, [sâu bướm lông] [](https://dermnetnz.org/topics/skin-problems-due-to-caterpillars-and-moths) , các loại thuốc [Mề đay do tì đè muộn](https://dermnetnz.org/topics/pressure-urticaria) Áp lực lên vùng da bị ảnh hưởng vài giờ trước đó Mang túi nặng Áp lực từ dây an toàn Đứng trên bậc thang Ngồi trên lưng ngựa [Mề đay do ánh nắng mặt trời](https://dermnetnz.org/topics/solar-urticaria) Tiếp xúc với ánh nắng mặt trời ở những vị trí cơ thể không quen thuộc Thường xuyên mặt, cổ, tay Có thể liên quan đến tia UV bước sóng dài hoặc ánh sáng khả kiến [Mề đay do nhiệt](https://dermnetnz.org/topics/heat-urticaria) Bình nước nóng Đồ uống nóng [Mề đay rung](https://dermnetnz.org/topics/vibratory-urticaria) Máy khoan búa [Mề đay do nước](https://dermnetnz.org/topics/aquagenic-urticaria) Nước nóng hoặc nước lạnh Nước ngọt, nước mặn hoặc nước có clo
+[Phù mạch](https://dermnetnz.org/topics/angioedema) tái phát mà không có nổi mề đay có thể là do [thiếu hụt esterase bổ thể C1](https://dermnetnz.org/topics/complement-deficiencies) di truyền hoặc mắc phải .
+
+---
+
+## Bệnh mề đay được chẩn đoán như thế nào?
+
+Mề đay được chẩn đoán ở những người có tiền sử nổi mề đay kéo dài dưới 24 giờ, có hoặc không kèm theo [phù mạch](https://dermnetnz.org/topics/angioedema) . Cần khai thác tiền sử dùng thuốc và gia đình. Cần khám sức khỏe tổng quát.
+Có thể yêu cầu [xét nghiệm chích](https://dermnetnz.org/topics/skin-prick-testing) da và xét nghiệm hấp thụ chất gây dị ứng phóng xạ (RAST) hoặc xét nghiệm miễn dịch huỳnh quang CAP nếu [thuốc](https://dermnetnz.org/topics/drug-eruptions) , [mủ cao su](https://dermnetnz.org/topics/latex-allergy) , [](https://dermnetnz.org/topics/drug-eruptions) hoặc nghi ngờ [dị ứng thực phẩm trong bệnh nổi mề đay cấp tính.](https://dermnetnz.org/topics/food-allergy)
+Không có xét nghiệm chẩn đoán thường quy nào đối với bệnh mề đay tự phát mãn tính ngoài công thức máu và protein phản ứng C (CBC, CRP ), nhưng có thể tiến hành xét nghiệm nếu nghi ngờ có rối loạn tiềm ẩn.
+Xét [nghiệm da huyết thanh tự thân đôi khi được thực hiện trong trường hợp nổi mề đay tự phát mạn tính, nhưng giá trị của xét nghiệm này chưa chắc chắn. Xét nghiệm sẽ cho kết quả dương tính nếu tiêm](https://dermnetnz.org/topics/autologous-serum-skin-testing) huyết thanh của bệnh nhân dưới da gây ra vết sưng đỏ.
+Mề đay do cảm ứng thường được xác nhận bằng cách gây ra phản ứng, ví dụ như gãi da trong [chứng da vẽ nổi](https://dermnetnz.org/topics/dermographism) hoặc chườm đá khi nghi ngờ [bị mề đay lạnh](https://dermnetnz.org/topics/cold-urticaria) .
+Cần tiến hành xét nghiệm tìm kiếm tình trạng toàn thân hoặc [bệnh tự miễn ở những bệnh nhân nổi mề đay kèm sốt, đau khớp hoặc xương và](https://dermnetnz.org/topics/autoinflammatory-syndromes) mệt mỏi. Bệnh nhân phù mạch không có vết loét nên được hỏi xem họ có đang dùng thuốc ức chế men chuyển angiotensin (ACEI) hay không và xét nghiệm nồng độ bổ thể C4; C1-INH, chức năng và kháng thể ; và C1q.
+[Sinh thiết](https://dermnetnz.org/topics/skin-biopsy) mề đay có thể không đặc hiệu. Bệnh lý cho thấy phù nề ở lớp hạ bì và mạch máu giãn nở, với thâm nhiễm viêm hỗn hợp đa dạng . Tổn thương thành mạch cho thấy [viêm mạch mề đay](https://dermnetnz.org/topics/urticarial-vasculitis) .
+
+---
+
+## Phương pháp điều trị bệnh nổi mề đay là gì?
+
+Phương pháp điều trị chính cho tất cả các dạng mề đay ở người lớn và trẻ em là dùng [thuốc kháng histamin](https://dermnetnz.org/topics/antihistamines) H1 thế hệ thứ hai đường uống như cetirizine hoặc loratidine. Nếu liều tiêu chuẩn (ví dụ 10 mg cetirizine) không hiệu quả, có thể tăng liều lên gấp bốn lần (ví dụ 40 mg cetirizine mỗi ngày). Thuốc được ngừng sử dụng khi mề đay cấp tính đã thuyên giảm. Việc bổ sung thêm một thuốc kháng histamin thứ hai được cho là không có hiệu quả.
+Không nên sử dụng terfenadine và astemizole vì chúng gây độc tim khi dùng kết hợp với [ketoconazole](https://dermnetnz.org/topics/ketoconazole) hoặc [erythromycin](https://dermnetnz.org/topics/erythromycin) . Các thuốc này hiện không còn được bán ở New Zealand.
+Mặc dù tốt nhất nên tránh điều trị toàn thân trong thời [kỳ mang thai](https://dermnetnz.org/topics/safety-of-medicines-taken-during-pregnancy) và [cho con bú](https://dermnetnz.org/topics/lactation-and-medications-used-in-dermatology) , nhưng chưa có báo cáo nào cho thấy thuốc kháng histamine thế hệ thứ hai gây dị tật bẩm sinh. Nếu cần điều trị, hiện nay loratadine và cetirizine được ưu tiên.
+Thuốc kháng histamin thế hệ đầu tiên thông thường như promethazine hoặc chlorpheniramine không còn được khuyến cáo sử dụng để điều trị bệnh nổi mề đay.
+
+### Tránh các yếu tố kích hoạt
+Cần loại bỏ các tác nhân gây dị ứng đã xác định nếu có thể (ví dụ: dị ứng [thuốc](https://dermnetnz.org/topics/drug-eruptions) hoặc [thực phẩm](https://dermnetnz.org/topics/food-allergy) ). Tránh các chất gây dị ứng loại 1 (qua trung gian IgE) có thể giúp hết nổi mề đay trong vòng 48 giờ.
+- Điều trị các bệnh nhiễm trùng mãn tính đã được xác định như H. pylori .
+- Tránh dùng aspirin, thuốc phiện và [thuốc chống viêm không steroid](https://dermnetnz.org/topics/non-steroidal-anti-inflammatory-drugs-and-their-skin-side-effects) (paracetamol thường an toàn).
+- Giảm thiểu các chất gây dị ứng giả trong chế độ ăn uống trong thời gian thử nghiệm ít nhất là ba tuần.
+- Tránh các chất gây dị ứng đã biết có kết quả xét nghiệm IgE/lẩy da dương tính nếu chúng có liên quan đến bệnh nổi mề đay trên lâm sàng.
+- Làm mát vùng bị ảnh hưởng bằng quạt, khăn lạnh, túi chườm đá hoặc kem dưỡng ẩm làm dịu.
+Cần giảm thiểu các tác nhân vật lý gây ra mề đay cảm ứng; xem ví dụ bên dưới. Tuy nhiên, các triệu chứng thường vẫn dai dẳng.
+- [Bệnh da vẽ nổi có triệu chứng](https://dermnetnz.org/topics/dermographism) : giảm ma sát, ví dụ, tránh mặc quần áo chật.
+- [Mề đay do lạnh](https://dermnetnz.org/topics/cold-urticaria) : mặc ấm khi trời lạnh hoặc có gió và tránh bơi trong nước lạnh.
+- [Mề đay do tì đè chậm](https://dermnetnz.org/topics/pressure-urticaria) : mở rộng vùng tiếp xúc, ví dụ như khi đeo túi nặng.
+- [Mề đay do ánh nắng : mặc quần áo và thoa](https://dermnetnz.org/topics/solar-urticaria) [kem chống nắng](https://dermnetnz.org/topics/topical-sunscreen-agents) phổ rộng .
+Một số bệnh nhân bị mề đay cảm ứng có thể được hưởng lợi từ việc kích thích các triệu chứng hàng ngày để tạo ra sự dung nạp. [Liệu pháp quang trị liệu](https://dermnetnz.org/topics/phototherapy) có thể làm giảm ngứa do [chứng da vẽ nổi triệu chứng](https://dermnetnz.org/topics/dermographism) .
+
+### Điều trị bệnh mề đay cấp tính khó chữa
+[Nếu thuốc kháng histamin](https://dermnetnz.org/topics/antihistamines) không gây buồn ngủ không có hiệu quả, có thể cần dùng [prednisone đường uống (prednisolone)](https://dermnetnz.org/topics/systemic-steroids) trong 4 đến 5 ngày để điều trị bệnh mề đay cấp tính nghiêm trọng.
+Tiêm [adrenaline](https://dermnetnz.org/topics/the-physiology-and-pharmacology-of-adrenaline) ( epinephrine ) vào bắp thịt được chỉ định trong trường hợp [sốc phản vệ](https://dermnetnz.org/topics/anaphylaxis) đe dọa tính mạng hoặc sưng cổ họng.
+
+### Điều trị bệnh mề đay mãn tính khó chữa
+Bệnh nhân bị nổi mề đay mãn tính không đáp ứng với [thuốc kháng histamine](https://dermnetnz.org/topics/antihistamines) uống thế hệ thứ hai liều tối đa dùng trong bốn tuần nên được chuyển đến bác sĩ da liễu , bác sĩ miễn dịch học hoặc bác sĩ chuyên khoa dị ứng .
+Có bằng chứng tốt để hỗ trợ điều trị bằng [omalizumab](https://dermnetnz.org/topics/omalizumab-for-urticaria) hoặc [ciclosporin](https://dermnetnz.org/topics/ciclosporin) , mỗi loại đều có tỷ lệ đáp ứng là 65% ở những bệnh nhân kháng thuốc kháng histamine.
+[Không khuyến cáo sử dụng corticosteroid toàn thân](https://dermnetnz.org/topics/systemic-steroids) trong thời gian dài vì cần liều cao mới có thể làm giảm các triệu chứng của bệnh nổi mề đay và chúng có thể gây ra những tác dụng phụ nghiêm trọng.
+Hiệu quả điều trị có thể được theo dõi khách quan bằng xét nghiệm kiểm soát mề đay . Bệnh nhân được yêu cầu đánh giá các triệu chứng thực thể của mề đay mà họ đã trải qua trong bốn tuần trước đó, chất lượng cuộc sống bị ảnh hưởng bởi mề đay, tần suất điều trị không đủ để kiểm soát các triệu chứng và mức độ kiểm soát mề đay nói chung.
+
+---
+
+## Chẩn đoán phân biệt bệnh mề đay là gì?
+
+- [Ngộ độc cá Scombroid](https://dermnetnz.org/topics/scombroid-fish-poisoning)
+- [Mề đay sẩn](https://dermnetnz.org/topics/papular-urticaria)
+- [Bệnh tăng sinh tế bào mast](https://dermnetnz.org/topics/mastocytosis)
+- [Viêm mạch nổi mề đay](https://dermnetnz.org/topics/urticarial-vasculitis)
+- [Hội chứng tự viêm](https://dermnetnz.org/topics/autoinflammatory-syndromes)
+
+---
+
+## Triển vọng của bệnh mề đay mãn tính là gì?
+
+Mề đay cấp tính thường khỏi sau vài giờ đến vài ngày nhưng thường tái phát. Mặc dù mề đay mãn tính thường khỏi ở hầu hết các trường hợp, 15% vẫn tiếp tục bị nổi mề đay ít nhất hai lần mỗi tuần sau hai năm.

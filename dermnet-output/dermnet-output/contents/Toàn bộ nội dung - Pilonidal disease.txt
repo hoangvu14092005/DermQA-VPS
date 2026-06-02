@@ -1,0 +1,76 @@
+# Bệnh pilonidal — thông tin bổ sung
+
+Thể loại:
+
+Rối loạn nang lông
+
+SNOMED CT:
+
+432863009, 431710006, 47639008, 200714005, 76345008, 431709001, 21941000119109, 404176003, 85224001, 311453002, 200715006
+
+**[Rối loạn nang lông](https://dermnetnz.org/topics/topics?category=Follicular+disorder)**
+
+
+# **Bệnh lông mu**
+
+Đánh giá lần cuối: Tháng 9 năm 2023Tác giả: Vanessa Ngan, Biên tập viên, 2003Đánh giá bác sĩ da liễu: Tiến sĩ Ian Coulson (2023)
+
+---
+
+## Bệnh lông mu là gì?
+
+Bệnh pilonidal là một vấn đề về da mãn tính thường gặp nhất ở vùng xương cùng cụt. Đây là khe giữa hai mông, ngay dưới gốc cột sống. Bệnh được đặc trưng bởi một hoặc nhiều đường rò xoang; đây là những hốc có lỗ thông hẹp trên bề mặt da (xoang pilonidal). Trong hầu hết các trường hợp, hốc này chứa đầy các ổ lông – do đó có tên là pilonidal ("pilus" nghĩa là lông và "nidal" nghĩa là ổ). Một khối u không viêm được gọi là u nang pilonidal. Nếu xoang bị nhiễm trùng, [áp xe](https://dermnetnz.org/topics/cutaneous-abscess) pilonidal có thể hình thành.
+![Xoang lông](https://dermnetnz.org/assets/Uploads/acne/pilonidal2.jpg)
+![Xoang lông](https://dermnetnz.org/assets/Uploads/pilonidal.jpg)
+
+---
+
+## Nguyên nhân nào gây ra bệnh lông mu?
+
+Nguyên nhân chính xác gây ra bệnh lông mu vẫn chưa rõ ràng. Các nguyên nhân có thể bao gồm:
+- Một số người sinh ra đã có những lỗ nhỏ hoặc hố gần gốc cột sống. Thực chất, đây là những nang tóc to ra .
+- Tắc nghẽn nang lông ; một số người có cơ địa dễ mắc bệnh này. Họ cũng có thể bị viêm [tuyến mồ hôi mủ](https://dermnetnz.org/topics/hidradenitis-suppurativa) , [mụn trứng cá kết tụ](https://dermnetnz.org/topics/nodulocystic-acne) và [viêm mô tế bào bóc tách](https://dermnetnz.org/topics/scalp-folliculitis) ( [hội chứng tắc nghẽn nang lông](https://dermnetnz.org/topics/follicular-occlusion-syndrome) hay tetrad).
+- Khi chịu tác động ma sát và chuyển động, nang lông bị tổn thương và phá vỡ khiến lông chọc qua thành nang lông vào vùng da xung quanh, gây ra phản ứng với vật lạ.
+- Những sợi lông lân cận hoặc lông tự do từ các bộ phận khác trên cơ thể tập trung tại hố và xâm nhập vào lỗ nhỏ do nang lông bị biến dạng tạo ra.
+- Vi khuẩn ở da và tầng sinh môn như [Staphylococcus aureus](https://dermnetnz.org/topics/staphylococcal-skin-infection) và Bacteroides xâm nhập vào lỗ mở và gây nhiễm trùng. [](https://dermnetnz.org/topics/staphylococcal-skin-infection)
+
+---
+
+## Ai mắc bệnh lông mu?
+
+Bệnh pilonidal ảnh hưởng đến cả nam và nữ, thường gặp ở độ tuổi 20–40. Bệnh này phổ biến ở nam giới gấp 2–3 lần so với nữ giới. Các yếu tố khác làm tăng nguy cơ mắc bệnh pilonidal bao gồm:
+- Tóc thô, xoăn hoặc dễ gãy
+- Béo phì
+- Khuynh hướng gia đình
+- Vệ sinh kém
+- Ngồi lâu hoặc ma sát mông gây tăng tiết mồ hôi
+- Chấn thương cục bộ tái phát (trước đây được gọi là "bệnh của người lái xe Jeep" vì nó khiến hơn 80.000 binh lính Hoa Kỳ phải nhập viện trong Thế chiến thứ II)
+- [Viêm hidradenitis suppurativa](https://dermnetnz.org/topics/hidradenitis-suppurativa) cùng tồn tại [](https://dermnetnz.org/topics/hidradenitis-suppurativa)
+
+---
+
+## Các dấu hiệu và triệu chứng là gì?
+
+Các dấu hiệu và triệu chứng có thể khác nhau, từ một hố nhỏ không đau hoặc vết lõm ở gốc cột sống đến một ổ áp xe lớn gây đau. Hầu hết bệnh nhân đều bị đau tăng dần , đặc biệt là sau thời gian ngồi lâu, chẳng hạn như khi lái xe đường dài. Các dấu hiệu và triệu chứng bao gồm:
+- Đau, đỏ và sưng
+- Lỗ nhỏ hoặc các lỗ nhỏ chảy dịch có thể trong, đục hoặc có máu
+- Nếu bị nhiễm trùng, mủ chảy ra có thể có mùi hôi thối
+- Sốt , khó chịu hoặc buồn nôn
+- Các đường dẫn nhìn thấy được hoặc có cục dài 2–5 cm trong bệnh lông mu mãn tính hoặc tái phát
+
+---
+
+## Chẩn đoán được thực hiện như thế nào?
+
+Các triệu chứng lâm sàng của xoang lông thường đơn giản. Nếu cần thiết, có thể sinh thiết da. Các [triệu](https://dermnetnz.org/topics/skin-biopsy) [chứng mô bệnh học của xoang lông](https://dermnetnz.org/topics/pilonidal-sinus-pathology) thường biểu hiện phản ứng dị vật.
+
+---
+
+## Có những phương pháp điều trị nào?
+
+U nang lông vùng kín không gây ra bất kỳ vấn đề nào thì không cần điều trị. Bệnh nhân nên được khuyên giữ vùng kín sạch sẽ và không có lông bằng cách cạo hoặc sử dụng thuốc tẩy lông mỗi 2-3 tuần. U nang có thể tự khỏi. Các nang dai dẳng và bị viêm ( áp xe lông vùng kín cấp tính) được rạch (cắt) và dẫn lưu ra ngoài để giảm viêm và đau. Đôi khi, khoang áp xe có thể được cắt bỏ hoàn toàn để loại bỏ ổ lông và mảnh vụn da; điều này làm giảm tỷ lệ tái phát xuống còn khoảng 15%.
+Bệnh xoang lông dai dẳng, phức tạp hoặc tái phát phải được điều trị bằng phẫu thuật. Các thủ thuật có thể khác nhau, từ việc cắt bỏ phần mái xoang đến cắt bỏ rộng và sâu (tức là cắt bỏ hoàn toàn tất cả các vùng bị ảnh hưởng). Trong mọi trường hợp, khoang xoang đều được cọ rửa và nạo sạch để loại bỏ lông và mô hạt đang lành bất thường. Có một số kỹ thuật để chữa lành và đóng vết thương; bao gồm:
+- Băng bó hoặc đóng gói vết thương hở
+- Tạo túi (hình thành túi), tạo ra vết thương nhỏ hơn so với vết thương để hở để tạo hạt
+- Đóng vết thương bằng [vạt da](https://dermnetnz.org/topics/flaps) để cắt bỏ diện tích rộng.
+Triệt lông bằng laser cũng có thể là phương pháp điều trị bổ sung sau phẫu thuật an toàn và hiệu quả cho bệnh xoang lông cùng cụt.

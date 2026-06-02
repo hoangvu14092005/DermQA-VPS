@@ -1,0 +1,123 @@
+# Carotenoderma — thông tin bổ sung
+
+Thể loại:
+
+Rối loạn sắc tố
+
+SNOMED CT:
+
+35487009
+
+**[Rối loạn sắc tố](https://dermnetnz.org/topics/topics?category=Pigmentary+disorders)**
+
+
+# **Carotenoderma**
+
+Tác giả: Vanessa Ngan, Biên tập viên, 2003; Cập nhật: Casey P. Schukow, Sinh viên Y khoa, Khoa Y học Nắn xương, Đại học Bang Michigan, Detroit, MI, Hoa Kỳ; Tiến sĩ Martin Keefe, Bác sĩ Da liễu, Christchurch, New Zealand. Biên tập bởi Gus Mitchell. Tháng 6 năm 2021
+
+---
+
+## Carotenoderma là gì?
+
+Carotenoderma là tình trạng da đổi màu vàng cam do bệnh carotenaemia (cách viết của Mỹ: carotenemia), một tình trạng trong đó nồng độ β-carotene trong máu tăng cao hơn mức bình thường.
+![Màu sắc lòng bàn tay bình thường và carotenoderma](https://dermnetnz.org/assets/Uploads/systemic/carot.jpg)
+![Cây cọ màu vàng cam của carotenoderma](https://dermnetnz.org/assets/Uploads/reactions/carot2.jpg)
+
+---
+
+## β-carotene là gì?
+
+β-carotene và các carotenoid khác (ví dụ như alpha-carotene, lycopene, canthaxanthin, lutein) là một phần bình thường trong chế độ ăn uống của chúng ta. Chúng góp phần tạo nên màu sắc bình thường của da và giúp bảo vệ chúng ta khỏi bị cháy nắng.
+Carotenoid là tiền chất của vitamin A ( retinol ). Caroten chủ yếu được hấp thu ở đoạn gần của ruột non và phần lớn được chuyển hóa thành vitamin A ở niêm mạc : phần còn lại đi vào tuần hoàn cửa và được vận chuyển đến gan. Các enzyme lipase tuyến tụy , muối mật, chất béo và hormone tuyến giáp hỗ trợ quá trình chuyển hóa carotenoid thành vitamin A. Carotenoid được đào thải khỏi cơ thể qua mồ hôi, bã nhờn , nước tiểu và phân.
+β-carotene được coi là chất chống oxy hóa và chất diệt gốc tự do, có khả năng hữu ích trong việc bảo vệ da khỏi ánh sáng ở những bệnh nhân mắc [bệnh hồng cầu nguyên phát](https://dermnetnz.org/topics/erythropoietic-protoporphyria) và [bệnh hồng cầu porphyria bẩm sinh](https://dermnetnz.org/topics/congenital-erythropoietic-porphyria) .
+
+---
+
+## Ai mắc bệnh carotenoderma?
+
+Bệnh carotenoderma có thể ảnh hưởng đến mọi lứa tuổi, cả hai giới và mọi chủng tộc, mặc dù bệnh có thể phổ biến hơn ở một số nhóm do chế độ ăn nhiều β-carotene.
+Các nhóm bị ảnh hưởng đặc biệt bao gồm:
+- Liên quan đến chế độ ăn uống Trẻ nhỏ được cho ăn nhiều thực phẩm dành cho trẻ sơ sinh chế biến sẵn từ trái cây và rau củ giàu β-carotene như cà rốt, khoai lang và bí ngô. Việc nấu chín, nghiền và xay nhuyễn những thực phẩm này sẽ làm tăng khả dụng sinh học. Người ăn chay, người ăn chay trường và những người ăn kiêng hạn chế khác có hàm lượng β-carotene cao Bệnh này lưu hành ở Tây Phi do ăn phải dầu cọ đỏ.
+- Trẻ nhỏ được cho ăn nhiều thực phẩm dành cho trẻ sơ sinh chế biến sẵn từ trái cây và rau củ giàu β-carotene như cà rốt, khoai lang và bí ngô. Việc nấu chín, nghiền và xay nhuyễn những thực phẩm này sẽ làm tăng khả dụng sinh học.
+- Người ăn chay, người ăn chay trường và những người ăn kiêng hạn chế khác có hàm lượng β-carotene cao
+- Bệnh này lưu hành ở Tây Phi do ăn phải dầu cọ đỏ.
+- Các tình trạng bệnh lý liên quan [Bệnh tiểu đường](https://dermnetnz.org/topics/skin-problems-associated-with-diabetes-mellitus) [Suy giáp](https://dermnetnz.org/topics/hypothyroidism) Bệnh gan Bệnh thận [Chán ăn tâm thần](https://dermnetnz.org/topics/malnutrition-including-anorexia-nervosa) .
+- [Bệnh tiểu đường](https://dermnetnz.org/topics/skin-problems-associated-with-diabetes-mellitus)
+- [Suy giáp](https://dermnetnz.org/topics/hypothyroidism)
+- Bệnh gan
+- Bệnh thận
+- [Chán ăn tâm thần](https://dermnetnz.org/topics/malnutrition-including-anorexia-nervosa) .
+
+---
+
+## Nguyên nhân nào gây ra bệnh carotenoderma?
+
+Bệnh carotenoderma là do bệnh carotenemia.
+- Bệnh thiếu carotenoid nguyên phát thường xảy ra do ăn quá nhiều thực phẩm hoặc thực phẩm bổ sung có chứa carotenoid. Caroten được tìm thấy trong tất cả các loại trái cây và rau củ có sắc tố . Nồng độ cao thường liên quan đến màu vàng đậm, cam hoặc xanh lá cây. Ví dụ về các loại trái cây và rau củ có hàm lượng β-carotene cao bao gồm xoài, đu đủ, bí đỏ, cà rốt và khoai lang. Màu xanh lá cây của diệp lục có thể che khuất màu vàng bên dưới, chẳng hạn như trong bông cải xanh. Các sản phẩm từ sữa như bơ, phô mai và sữa
+- Caroten được tìm thấy trong tất cả các loại trái cây và rau củ có sắc tố . Màu xanh lá cây của diệp lục có thể che khuất màu vàng bên dưới, chẳng hạn như trong bông cải xanh.
+- Các sản phẩm từ sữa như bơ, phô mai và sữa
+
+### Thực phẩm giàu carotene
+![Bí ngô](https://dermnetnz.org/assets/Non-clinical-images/Pumpkin.jpg)
+![Khoai lang](https://dermnetnz.org/assets/Non-clinical-images/Sweet-potato.jpg)
+![bông cải xanh](https://dermnetnz.org/assets/Non-clinical-images/Broccoli.jpg)
+- Caroten máu thứ phát do bệnh lý thường có điểm chung là giảm chuyển hóa β-carotene thành retinol và/hoặc tăng lipid máu. Có mối quan hệ tuyến tính giữa nồng độ β-carotene và nồng độ β-lipoprotein.
+- Bệnh thiếu carotene chuyển hóa là do quá trình chuyển hóa β-carotene thành vitamin A bị khiếm khuyết và có thể có tính chất gia đình.
+
+---
+
+## Đặc điểm lâm sàng của bệnh carotenoderma là gì?
+
+Carotenoderma biểu hiện dưới dạng màu vàng cam trên da.
+- Ban đầu thấy có hiện tượng đổi màu vàng ở mũi, rãnh mũi má, lòng bàn tay và lòng bàn chân trước khi dần dần lan ra toàn bộ cơ thể
+- Caroten có trong bã nhờn và mồ hôi lắng đọng ở lớp sừng tan trong chất béo nên màu vàng của da đặc biệt dễ thấy ở những nơi đổ mồ hôi nhiều và ở lòng bàn tay, lòng bàn chân do lớp sừng dày.
+- Nhìn rõ nhất dưới ánh sáng nhân tạo
+Đáng chú ý là củng mạc mắt và niêm mạc, vốn không có lớp sừng, không bị ảnh hưởng bởi tình trạng thiếu carotene. Củng mạc vàng là dấu hiệu của bệnh vàng da.
+
+### Vàng da
+![Không có caption](https://dermnetnz.org/assets/Uploads/reactions/w/jaundice01.jpg)
+![Vàng da](https://dermnetnz.org/assets/Uploads/jaundice-01.jpg)
+
+---
+
+## Các đặc điểm lâm sàng khác nhau ở các loại da khác nhau như thế nào?
+
+Tình trạng vàng da ở lòng bàn tay và lòng bàn chân dễ thấy hơn ở [những người có làn da Fitzpatrick](https://dermnetnz.org/topics/skin-phototype) sáng màu nhưng có thể rất khó nhận biết. Những người có làn da Fitzpatrick sẫm màu hơn có thể thấy lòng bàn tay và lòng bàn chân chuyển sang màu vàng, kèm theo hiện tượng sáng da ở các vùng khác như mặt.
+
+---
+
+## Biến chứng của bệnh carotene huyết là gì?
+
+- [Ngộ độc vitamin A](https://dermnetnz.org/topics/vitamin-a-toxicity) thường không liên quan đến bệnh caroten máu, ngay cả khi tiêu thụ một lượng lớn carotenoid, vì quá trình chuyển hóa caroten thành vitamin A diễn ra chậm.
+- Canthaxanthin, một chất chuyển hóa carotenoid độc hại vẫn được bán dưới dạng viên uống "làm rám nắng" không cần kê đơn, có thể gây bệnh võng mạc nếu dùng quá liều. Tuy nhiên, các báo cáo cho thấy bệnh võng mạc có thể hồi phục mà không để lại di chứng lâu dài.
+- Vô kinh có thể liên quan đến tình trạng suy dinh dưỡng hoặc thiếu thịt đỏ trong chế độ ăn chay giàu carotene.
+
+---
+
+## Bệnh carotenoderma được chẩn đoán như thế nào?
+
+- Tiền sử bệnh nhân và khám sức khỏe thường đủ để chẩn đoán bệnh carotenoderma, có thể được xác nhận, nếu cần thiết, bằng nồng độ carotene huyết thanh cao với chức năng gan bình thường và nồng độ vitamin A bình thường hoặc tăng nhẹ. Tuy nhiên, phạm vi tham chiếu có thể thay đổi nên việc giải thích có thể khó khăn.
+- [Sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) thường không cần thiết nhưng có thể cho thấy hình ảnh giống [bệnh pemphigus thông thường](https://dermnetnz.org/topics/pemphigus-vulgaris-pathology) khi nhuộm [miễn dịch huỳnh quang trực tiếp](https://dermnetnz.org/topics/direct-immunofluorescence) .
+- Nếu không có tiền sử tiêu thụ quá nhiều carotenoid hoặc khám sức khỏe không cho thấy có tình trạng bệnh lý tiềm ẩn, bệnh nhân cần được kiểm tra thích hợp.
+
+---
+
+## Chẩn đoán phân biệt bệnh carotenoderma là gì?
+
+- Vàng da
+- Tiêu thụ hoặc hấp thụ qua da các loại thuốc hoặc hóa chất như [quinacrine](https://dermnetnz.org/topics/quinacrine) , dinitrophenol, nghệ tây, tetryl và axit picric, canthaxanthin, acroflavine
+- Bệnh lycopenemia biểu hiện bằng tình trạng da đổi màu vàng cam do ăn nhiều cà chua hoặc các loại trái cây khác có chứa lycopene
+- [rám nắng giả](https://dermnetnz.org/topics/dihydroxyacetone)
+
+---
+
+## Phương pháp điều trị bệnh carotenoderma là gì?
+
+- Điều trị bệnh carotenoderma thường chỉ là vấn đề giảm lượng carotene hấp thụ bằng cách thay đổi chế độ ăn uống
+- Bệnh nhân mắc bệnh carotene thứ phát cần được điều trị tình trạng bệnh lý tiềm ẩn.
+
+---
+
+## Kết quả của bệnh carotenoderma là gì?
+
+Carotenoderma là một tình trạng lành tính . Màu da sẽ trở lại bình thường nhưng có thể mất vài tháng do sự tích tụ β-carotene trong mô.

@@ -1,0 +1,130 @@
+# Bệnh cước chân tay — thông tin bổ sung
+
+Thể loại:
+
+Các vấn đề về mạch máu
+
+SNOMED CT:
+
+37869000
+
+**[Các vấn đề về mạch máu](https://dermnetnz.org/topics/topics?category=Blood+vessel+problems)**
+
+
+# **Bệnh cước chân**
+
+Tác giả: Phó Giáo sư Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand, 1999; Cập nhật và hiệu đính bởi: Tiến sĩ Gia Toàn Tang, RMO, Bệnh viện Đại học Townsville, Townsville, Úc; Phó Giáo sư Rosemary Nixon, AM, Bác sĩ Da liễu, Viện Sức khỏe Da liễu, Melbourne, Úc. Biên tập bởi Gus Mitchell. Tháng 2 năm 2021.
+
+---
+
+## Bệnh cước chân là gì?
+
+Cước là những nốt sưng đau và/hoặc ngứa ở các vị trí đầu chi sau khi tiếp xúc với điều kiện ẩm ướt, lạnh, không đóng băng, gây ra tình trạng viêm mạch cục bộ . Cước còn được gọi là pernio hoặc perniosis.
+![Không có caption](https://dermnetnz.org/assets/Uploads/reactions/pernio2.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/reactions/pernio1.jpg)
+
+---
+
+## Ai bị bệnh tê cóng?
+
+Cước có thể ảnh hưởng đến mọi lứa tuổi, nhưng phổ biến nhất ở người trẻ đến trung niên, với tỷ lệ nữ giới cao hơn. Cước ở trẻ em được mô tả rõ ràng nhưng dường như không phổ biến. Cước nguyên phát ít gặp ở người cao tuổi và cần tìm nguyên nhân tiềm ẩn.
+Các yếu tố nguy cơ dẫn đến phát triển chứng cước chân bao gồm:
+- Hút thuốc
+- Chỉ số khối cơ thể thấp và dinh dưỡng kém
+- Nguy cơ nghề nghiệp đối với người lao động ngoài trời, chẳng hạn như ngư dân và nông dân
+- Tham gia các môn thể thao trượt băng
+- Các rối loạn tủy xương tiềm ẩn ví dụ như bệnh bạch cầu tủy đơn nhân mãn tính
+- Rối loạn mô liên kết tiềm ẩn , đặc biệt là bệnh lupus ban đỏ hệ thống (khi được gọi là [lupus tê cóng](https://dermnetnz.org/topics/chilblain-lupus-erythematosus) ), [viêm da cơ](https://dermnetnz.org/topics/adult-onset-dermatomyositis) , [bệnh Behcet](https://dermnetnz.org/topics/behcet-disease) , [viêm mạch máu nhỏ dưới da](https://dermnetnz.org/topics/cutaneous-small-vessel-vasculitis) và [lupus ban đỏ dạng đĩa](https://dermnetnz.org/topics/discoid-lupus-erythematosus)
+- [Bệnh xanh tím](https://dermnetnz.org/topics/acrocyanosis) đầu chi tiềm ẩn và [hiện tượng Raynaud](https://dermnetnz.org/topics/raynaud-phenomenon) nguyên phát hoặc thứ phát [](https://dermnetnz.org/topics/raynaud-phenomenon)
+- Xu hướng mắc bệnh cước chân trong gia đình .
+Bệnh cước chân thường gặp ở vùng khí hậu ôn đới hơn là ở những quốc gia có khí hậu cực lạnh, nơi không khí thường khô và quần áo cùng điều kiện sống phù hợp giúp giảm thiểu nguy cơ. Cuối đông và đầu xuân, khi thời tiết ẩm ướt và nhiệt độ trên mức đóng băng, là những mùa cao điểm của bệnh cước chân.
+
+### Bệnh cước chân và COVID-19
+Trong đại dịch [COVID-19](https://dermnetnz.org/topics/covid-19) , nhiều trường hợp thay đổi giống như cước ở ngón chân ('ngón chân COVID') đã được báo cáo là biểu hiện muộn ở trẻ em và thanh thiếu niên sau một bệnh nhẹ nghi ngờ là do vi-rút corona mới SARS-CoV-2 gây ra; tăm bông PCR và kháng thể đối với vi-rút hầu hết (nhưng không phải luôn luôn) đều âm tính. Nhiều bệnh nhân được báo cáo không tiếp xúc với lạnh gần đây và phản ứng interferon kháng vi- rút mạnh đã được đưa ra giả thuyết là gây ra những thay đổi ở các mạch máu nhỏ. Mô học đã được thực hiện trên một số ít trường hợp và những thay đổi được mô tả là điển hình của cước, lupus cước hoặc mô hình bệnh lý mạch máu huyết khối . Mối liên quan giữa COVID-19 và cước vẫn đang được xác định. Tuy nhiên, sự phát triển của các tổn thương giống như cước khi không tiếp xúc với lạnh ẩm hoặc các nguyên nhân thứ phát nên được nghi ngờ là liên quan đến nhiễm SARS-CoV-2.
+![Nghi ngờ phát ban COVID-19](https://dermnetnz.org/assets/Uploads/covid-4.jpg)
+
+---
+
+## Nguyên nhân nào gây ra chứng tê cóng?
+
+Lạnh gây co thắt các động mạch và tĩnh mạch nhỏ , nhưng phản xạ sinh lý bảo vệ sẽ giãn mạch máu từng đợt để ngăn ngừa thiếu máu cục bộ da. Co mạch dai dẳng hoặc kéo dài do phản ứng mạch máu bất thường với lạnh có thể dẫn đến thiếu oxy máu và viêm , gây ra chứng cước.
+
+---
+
+## Các đặc điểm lâm sàng của bệnh cước là gì?
+
+Cước thường xuất hiện ở ngón tay, ngón chân và tai (vị trí acral). Tuy nhiên, cước có thể xuất hiện ở bất kỳ vùng nào tiếp xúc với thời tiết lạnh mãn tính, chẳng hạn như đùi/hông của người cưỡi ngựa (' viêm mô mỡ do cưỡi ngựa '). Cước xuất hiện vài giờ sau khi tiếp xúc với thời tiết lạnh ẩm và kéo dài hơn 24 giờ.
+Bệnh cước chân thường biểu hiện như sau:
+- Ngứa và/hoặc đau rát
+- Sưng cục bộ
+- Sự đổi màu đỏ/tím có thể chuyển sang màu trắng.
+Soi da không cung cấp nhiều thông tin, nhưng việc kiểm tra các mao mạch ở móng tay có thể hữu ích nếu nghi ngờ có bệnh về mô liên kết tiềm ẩn.
+![Không có caption](https://dermnetnz.org/assets/Uploads/reactions/pernio3.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/reactions/chilblains1.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/reactions/pernio5.jpg)
+
+---
+
+## Biến chứng của bệnh cước chân là gì?
+
+Bệnh cước chân nghiêm trọng có thể phồng rộp hoặc bị bào mòn và loét.
+
+---
+
+## Bệnh tê cóng được chẩn đoán như thế nào?
+
+Bệnh cước thường được chẩn đoán lâm sàng. Đôi khi cần phải xét nghiệm để loại trừ các chẩn đoán phân biệt hoặc tìm nguyên nhân gây ra bệnh cước thứ phát.
+[Sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) của bệnh cước chân tự phát nguyên phát cho thấy tình trạng viêm mạch lympho bào nông và sâu , tế bào lympho xung quanh tuyến mồ hôi ngoại tiết , phù dưới thượng bì , có hoặc không có thay đổi giao diện . [xem [bệnh lý Perniosis](https://dermnetnz.org/topics/perniosis-pathology) ]. [](https://dermnetnz.org/topics/perniosis-pathology)
+Phòng khám Mayo đã xây dựng tiêu chuẩn chẩn đoán bệnh tê cóng:
+Tiêu chuẩn chính (bắt buộc) — đỏ và sưng cục bộ ở các vị trí đầu chi kéo dài ít nhất 24 giờ.
+Tiêu chí phụ (ít nhất một trong những tiêu chí sau):
+- Khởi phát và/hoặc trở nặng hơn vào những tháng lạnh hơn
+- Bệnh lý mô học phù hợp với bệnh tê cóng
+- Cải thiện bằng cách làm ấm và sấy khô.
+Bệnh cước chân được phân loại là vô căn (nguyên phát) nếu không có nguyên nhân liên quan và thứ phát nếu có thể xác định được nguyên nhân.
+Các cuộc điều tra về nguyên nhân thứ phát gây ra chứng tê cóng có thể bao gồm:
+- Công thức máu đầy đủ
+- ANA, yếu tố dạng thấp, kháng thể kháng phospholipid
+- Mức độ bổ sung
+- Điện di protein
+- Các agglutinin lạnh và ở trẻ em là các cryoglobulin.
+
+---
+
+## Chẩn đoán phân biệt bệnh tê cóng là gì?
+
+- [Bỏng lạnh](https://dermnetnz.org/topics/frostbite)
+- [Bệnh lupus ban đỏ gây tê cóng](https://dermnetnz.org/topics/chilblain-lupus-erythematosus)
+- [Bệnh lupus ban đỏ](https://dermnetnz.org/topics/lupus-pernio) ( [bệnh sarcoidosis](https://dermnetnz.org/topics/sarcoidosis) )
+- [Viêm mạch](https://dermnetnz.org/topics/cutaneous-vasculitis)
+- [Bệnh vi địa cầu](https://dermnetnz.org/topics/microgeodic-disease)
+![Bệnh lupus ban đỏ](https://dermnetnz.org/assets/Uploads/chilblains-018-v2.jpg)
+![Bệnh lupus ban đỏ](https://dermnetnz.org/assets/Uploads/doctors/systemic/images/sarc4.jpg)
+![Bệnh vi địa cầu](https://dermnetnz.org/assets/Uploads/reactions/pernio4.jpg)
+
+---
+
+## Phương pháp điều trị bệnh cước chân là gì?
+
+
+### Phòng ngừa bệnh cước chân
+- Tránh môi trường lạnh và ẩm ướt nếu có thể
+- Mặc quần áo ấm, khô trong thời tiết lạnh để bảo vệ tay, chân và tai
+- Tập thể dục mạnh mẽ để giữ ấm và cải thiện lưu thông máu
+- Giữ cho khu vực trong nhà ấm áp và khô ráo
+- Ngâm tay vào nước ấm trước khi tiếp xúc
+- Ngừng hút thuốc và các chất co mạch khác
+
+### Điều trị tại chỗ
+- Nitroglycerin bôi ngoài da 0,2%
+- Betamethasone valerate 0,1% bôi ngoài da, ngày 2 lần — có thể giảm ngứa
+
+### Điều trị toàn thân
+- Nifedipine 20–60 mg ba lần mỗi ngày — đẩy nhanh thời gian chữa lành và giảm nguy cơ tái phát
+- Pentoxifylline
+
+---
+
+## Hậu quả của bệnh cước chân là gì?
+
+Tình trạng cước thường tự khỏi sau 1–3 tuần. Tuy nhiên, cước có thể trở thành mạn tính. Bệnh có thể tái phát sau nhiều lần tiếp xúc hoặc hàng năm.

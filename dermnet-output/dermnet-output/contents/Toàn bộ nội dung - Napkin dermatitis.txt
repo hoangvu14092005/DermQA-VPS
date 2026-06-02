@@ -1,0 +1,122 @@
+# Viêm da khăn ăn — thông tin bổ sung
+
+Thể loại:
+
+Phát ban, Chàm
+
+SNOMED CT:
+
+91487003, 240710003, 402999004, 111188005, 240711004
+
+**[Phát ban, Chàm](https://dermnetnz.org/topics/topics?category=Rashes)**
+
+
+# **Viêm da khăn ăn**
+
+Tác giả: Phó giáo sư Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand, 1997. Bản cập nhật mới nhất của Tiến sĩ Jannet Gomez, tháng 2 năm 2017.
+
+---
+
+## Viêm da do khăn ăn là gì?
+
+Viêm da tã lót và hăm tã được dùng để mô tả các tình trạng da khác nhau ảnh hưởng đến vùng da dưới tã lót hoặc miếng lót thấm sữa. Thuật ngữ ở Mỹ là hăm tã. Viêm da tã lót thường là một dạng [viêm da tiếp xúc](https://dermnetnz.org/topics/contact-dermatitis) .
+
+---
+
+## Ai bị viêm da do khăn ăn?
+
+Viêm da tã lót thường ảnh hưởng đến trẻ sơ sinh từ 3 đến 15 tháng tuổi, đặc biệt là trẻ dùng tã vải truyền thống (50%). Tình trạng này ít phổ biến hơn ở trẻ dùng tã dùng một lần nhiều lớp, thoáng khí hiện đại.
+Viêm da do khăn ăn cũng có thể ảnh hưởng đến trẻ lớn và người lớn bị tiểu không tự chủ (xem [Viêm da liên quan đến tiểu không tự chủ](https://dermnetnz.org/topics/incontinence-associated-dermatitis) ).
+
+---
+
+## Nguyên nhân gây viêm da do khăn ăn là gì?
+
+Viêm da do khăn ăn xảy ra sau khi hàng rào bảo vệ da bình thường bị tổn thương và chủ yếu là một dạng [viêm da tiếp xúc kích ứng](https://dermnetnz.org/topics/irritant-contact-dermatitis) .
+- Nước tiểu và tình trạng tắc nghẽn dẫn đến tình trạng mất nước và hoại tử da.
+- Muối mật và enzyme trong phân phá vỡ lớp lipid và protein của lớp sừng .
+- Hỗn hợp nước tiểu và phân tạo ra amoni hydroxit, làm tăng độ pH.
+- Da ướt là nơi trú ngụ của nhiều vi sinh vật , đặc biệt là nấm candida.
+- Ma sát cơ học từ chuyển động của chân tay có thể làm tăng cảm giác khó chịu.
+- Các tình trạng da hiện có như viêm da dị ứng hoặc viêm da tiết bã có thể khiến trẻ dễ bị viêm da tã.
+Trẻ bú mẹ ít bị viêm da tã hơn, vì phân của trẻ bú mẹ có độ pH thấp hơn so với trẻ bú sữa công thức. Khi trẻ bắt đầu ăn dặm , tần suất đi ngoài và độ pH bắt đầu tăng lên, và viêm da tã xảy ra thường xuyên hơn.
+Các nguyên nhân khác gây ra hăm tã bao gồm:
+- [Candida albicans](https://dermnetnz.org/topics/candida)
+- [Chốc lở](https://dermnetnz.org/topics/impetigo)
+- [Viêm da tiết bã nhờn ở trẻ sơ sinh](https://dermnetnz.org/topics/seborrhoeic-dermatitis)
+- [Bệnh chàm dị ứng](https://dermnetnz.org/topics/atopic-dermatitis)
+- [Bệnh vẩy nến](https://dermnetnz.org/topics/psoriasis)
+- [Miliaria](https://dermnetnz.org/topics/miliaria)
+- [Viêm da đầu chi ruột non](https://dermnetnz.org/topics/acrodermatitis-enteropathica)
+- [Các tình trạng giống bệnh viêm da đầu chi ruột non](https://dermnetnz.org/topics/acrodermatitis-enteropathica-like-conditions)
+- [Bệnh da liễu đáp ứng với biotin](https://dermnetnz.org/topics/biotin-responsive-dermatoses)
+- Rối loạn hiếm gặp.
+Viêm da do khăn ăn không phải do:
+- Dị ứng với khăn ăn
+- Chất độc trong khăn ăn
+- Bột giặt (trừ khi chúng không được loại bỏ hoàn toàn bằng cách xả lại)
+- Nhiễm nấm dermatophyte ( [tinea](https://dermnetnz.org/topics/tinea) ).
+
+---
+
+## Các đặc điểm lâm sàng của bệnh viêm da do khăn ăn là gì?
+
+Viêm da khăn ăn biểu hiện bằng các nốt ban đỏ và sẩn ở vùng sinh dục , có thể lan xuống bụng dưới và đùi.
+- Viêm da do khăn giấy kích ứng : ban đỏ , phù nề , khô và bong tróc ranh giới rõ ràng . Vùng da bị ảnh hưởng tiếp xúc với khăn giấy ướt và có xu hướng không ảnh hưởng đến các nếp gấp da.
+- Hăm tã: ban đỏ và vết trợt ở nơi khăn ăn cọ xát, thường ở vùng thắt lưng hoặc đùi.
+- [U hạt gluteale infantum :](https://dermnetnz.org/topics/granuloma-gluteale-infantum) nốt màu đỏ hoặc tím
+- [Candida albicans](https://dermnetnz.org/topics/candida) : các sẩn đỏ và mảng bám có các đốm vệ tinh nhỏ hoặc mụn mủ nông.
+- [Chốc lở](https://dermnetnz.org/topics/impetigo) ( [Staphylococcus aureus](https://dermnetnz.org/topics/staphylococcal-skin-infection) và [Streptococcus pyogenes](https://dermnetnz.org/topics/streptococcal-skin-infections) ): mụn nước và mụn mủ không đều.
+- [Viêm da tiết bã nhờn](https://dermnetnz.org/topics/seborrhoeic-dermatitis) ở trẻ sơ sinh : [cứt trâu](https://dermnetnz.org/topics/cradle-cap) và các mảng màu hồng cam ở hai bên , thường bong tróc, ở các nếp gấp da.
+- [Viêm da dị ứng](https://dermnetnz.org/topics/atopic-dermatitis) : mảng khô, trầy xước ở cả hai bên, ở bất kỳ vị trí nào, nhưng không phổ biến ở vùng tã lót và có tiền sử gia đình.
+- [Bệnh vẩy nến](https://dermnetnz.org/topics/psoriasis) : mảng bám dai dẳng , có ranh giới rõ , đối xứng , bóng, đỏ, có vảy hoặc bị loét ; có thể ảnh hưởng đến các vị trí khác; tiền sử gia đình thường gặp.
+- [Chàm thứ phát lan tỏa](https://dermnetnz.org/topics/disseminated-secondary-eczema) hoặc tự chàm hóa: phát ban ở các vị trí xa liên quan đến phát ban khăn ăn nghiêm trọng.
+Viêm da do khăn ăn có thể khiến trẻ sơ sinh dễ bị nhiễm trùng đường tiết niệu và ở bé gái dễ bị nhiễm trùng âm đạo .
+![Viêm da khăn ăn](https://dermnetnz.org/assets/Uploads/dermatitis/nrash.jpg)
+![Viêm da do khăn ăn](https://dermnetnz.org/assets/Uploads/dermatitis/napkin-thrush-s.jpg)
+![Viêm da khăn ăn](https://dermnetnz.org/assets/Uploads/dermatitis/napkin-dermatitis19-s.jpg)
+[Xem thêm hình ảnh về bệnh viêm da do khăn ăn](https://dermnetnz-org.translate.goog/topics/napkin-dermatitis-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp) .
+
+---
+
+## Cần phải làm những xét nghiệm nào?
+
+Trong hầu hết các trường hợp, không cần xét nghiệm. [Xét nghiệm da](https://dermnetnz.org/topics/laboratory-tests-for-bacterial-infections) có thể hữu ích để xác định nhiễm [nấm Candida albicans](https://dermnetnz.org/topics/candida) hoặc [nhiễm trùng do vi khuẩn](https://dermnetnz.org/topics/bacterial-skin-infections) .
+
+---
+
+## Phương pháp điều trị viêm da do khăn ăn là gì?
+
+
+### Các biện pháp chung
+Cần nhấn mạnh việc giữ cho bé khô ráo và sử dụng [kem chống hăm](https://dermnetnz.org/topics/barrier-cream) . Người chăm sóc nên luôn rửa tay trước và sau khi thay tã/bỉm. Viêm da do tã ít gặp hơn nhiều ở tã dùng một lần hiện đại so với tã vải.
+Tã dùng một lần:
+- Có sẵn nhiều hình dạng và kích cỡ khác nhau tùy theo độ tuổi và giới tính
+- Có thể chọn kích thước lớn hơn để giảm tiếp xúc và ma sát giữa khăn ăn và da
+- Giữ cho da khô và sạch
+- Duy trì độ pH tối ưu cho da
+- Nên thay khi ướt hoặc bẩn
+- Chứa bột giấy cellulose và polyme siêu thấm
+- Có thể bao gồm kem dưỡng ẩm gốc petrolatum để hỗ trợ hàng rào bảo vệ da
+- Chốt, tấm lót và lớp co giãn giúp giảm rò rỉ
+- Không độc hại và trơ về mặt sinh học
+- Không chứa các chất gây dị ứng như [mủ](https://dermnetnz.org/topics/latex-allergy) cao su tự nhiên hoặc [thuốc nhuộm phân tán](https://dermnetnz.org/textile-dye-allergy)
+- Giảm thiểu nguy cơ tiếp xúc với phân trong gia đình.
+Nếu dùng tã vải, lớp lót tã sẽ giữ cho da bé khô ráo. Tránh mặc quần lót bằng nhựa.
+Khi thay khăn ăn:
+- Nhẹ nhàng làm sạch da bé bằng nước và khăn mềm
+- Khăn ướt rất tiện lợi nhưng đắt tiền và có thể gây [dị ứng tiếp xúc với chất bảo quản](https://dermnetnz.org/topics/contact-allergy-to-preservatives) được sử dụng để ngăn khăn ướt bị mốc.
+- Kem nước hoặc chất tẩy rửa không chứa xà phòng khác [](https://dermnetnz.org/topics/soaps-and-cleansers) có thể sử dụng nếu cần thiết
+- Thấm khô nhẹ nhàng và để khô tự nhiên
+- Bôi thuốc [mỡ làm mềm](https://dermnetnz.org/topics/emollients-and-moisturisers) da có chứa petrolatum và kẽm oxit.
+
+### Những gợi ý khác
+- Cho trẻ uống nước sớm vào buổi tối để giảm tình trạng đái dầm vào ban đêm.
+- Quan sát xem một số loại thực phẩm nhất định có liên quan đến việc tăng độ axit trong phân (ví dụ: nước cam) hoặc tần suất đi ngoài hay không. Nếu có, hãy ngừng sử dụng thực phẩm đó, ít nhất là tạm thời.
+- Cho phép trẻ không cần dùng tã.
+
+### Điều trị theo toa
+- [Thuốc steroid bôi ngoài da](https://dermnetnz.org/topics/topical-steroid) nhẹ như kem hydrocortisone bôi lên vùng da bị viêm một hoặc hai lần mỗi ngày trong 1–2 tuần.
+- [Kem chống nấm tại chỗ](https://dermnetnz.org/topics/topical-antifungal-medication) (ví dụ, clotrimazole, ketoconazole, ciclopirox, sertaconazole) một hoặc hai lần một ngày nếu nghi ngờ nhiễm nấm [Candida albicans](https://dermnetnz.org/topics/candida) .
+- Không nên bôi kem steroid mạnh vào mông trẻ sơ sinh vì có thể gây ra các tác dụng phụ như [rạn da](https://dermnetnz.org/topics/stretch-marks-striae) , dị ứng da và mỏng da.
+- Các sản phẩm bôi ngoài da không cần kê đơn có chứa [lô hội](https://dermnetnz.org/topics/aloe-vera-and-the-skin) và cúc vạn thọ được cho là có hiệu quả đối với bệnh viêm da tiết bã.

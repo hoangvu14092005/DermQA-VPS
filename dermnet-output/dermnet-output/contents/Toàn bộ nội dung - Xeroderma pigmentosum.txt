@@ -1,0 +1,110 @@
+# Xeroderma pigmentosum — thông tin bổ sung
+
+Thể loại:
+
+Di truyền
+
+SNOMED CT:
+
+44600005, 28965005, 372130007, 43982006, 90128006
+
+**[Di truyền](https://dermnetnz.org/topics/topics?category=Genetic)**
+
+
+# **Xeroderma pigmentosum**
+
+Tác giả: Vanessa Ngan, Biên tập viên, 2002. Cập nhật bởi Tiến sĩ Ebtisam Elghblawi, Bác sĩ da liễu, Tripoli, Libya và Tổng biên tập DermNet Phó giáo sư Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand. Tháng 10 năm 2017.
+
+---
+
+## Bệnh xeroderma pigmentosum là gì?
+
+Xeroderma pigmentosum (XP) là một rối loạn da rất hiếm gặp khiến người bệnh rất [nhạy cảm với ánh sáng mặt trời](https://dermnetnz.org/topics/photosensitivity) , [da bị lão hóa](https://dermnetnz.org/topics/ageing-skin) sớm và dễ mắc bệnh [ung thư da](https://dermnetnz.org/cme/teledermatology-skin-cancer/treatment-of-skin-cancers) .
+Bệnh khô da sắc tố (Xeroderma pigmentosum) là tình trạng tăng nhạy cảm của tế bào với tia cực tím ( UV ), do khiếm khuyết trong hệ thống sửa chữa DNA . Bệnh khô da sắc tố còn được gọi là hội chứng DeSanctis-Cacchione.
+![Da khô có vảy](https://dermnetnz.org/assets/Uploads/xeroderma-pigmentosum-07.jpg)
+![Khối u ở lưỡi](https://dermnetnz.org/assets/Uploads/xeroderma-pigmentosum-10.jpg)
+![Ung thư biểu mô tế bào vảy ở môi trên](https://dermnetnz.org/assets/Uploads/xeroderma-pigmentosum-11.jpg)
+*Hình ảnh được cung cấp bởi Trung tâm đào tạo da liễu khu vực , Tanzania.
+[Xem thêm hình ảnh về bệnh khô da sắc tố](https://dermnetnz-org.translate.goog/topics/xeroderma-pigmentosum-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp) .
+
+---
+
+## Nguyên nhân nào gây ra bệnh khô da sắc tố?
+
+Xeroderma pigmentosum là một bệnh di truyền lặn trên nhiễm sắc thể thường, nghĩa là mỗi cha mẹ đều có một gen xeroderma pigmentosum bị lỗi. Người mang gen xeroderma pigmentosum có một gen xeroderma pigmentosum và một gen bình thường, nhưng không biểu hiện dấu hiệu hoặc triệu chứng của bệnh.
+Các dấu hiệu và triệu chứng của bệnh khô da sắc tố là hậu quả của sự suy yếu hệ thống sửa chữa cắt bỏ nucleotide (NER). Hai loại NER đã được xác định:
+- Bộ gen (GG)-NER
+- Phiên mã -liên kết (TC)-NER.
+Ít nhất bảy bất thường gen hoặc nhóm bổ sung khác nhau đã được mô tả trong các gia đình khác nhau (XPA đến XPG) dẫn đến mức độ nghiêm trọng của bệnh khác nhau.
+- XPA và XPC tương đối phổ biến
+- XPE khá hiếm
+- XPG rất nghiêm trọng
+- XPF có mức độ nhẹ và chỉ có thể biểu hiện phản ứng cháy nắng nghiêm trọng bất thường.
+Ngoài bất thường về di truyền , tác dụng ức chế miễn dịch của việc tiếp xúc với tia cực tím (UV) cũng góp phần gây ra bệnh, ví dụ như bằng cách làm giảm tế bào Langerhans ở lớp biểu bì.
+
+---
+
+## Ai mắc bệnh xeroderma pigmentosum?
+
+Các cặp vợ chồng đều mang gen bệnh khô da sắc tố có nguy cơ sinh con mắc bệnh khô da sắc tố cao hơn. Cha mẹ đã có con mắc bệnh khô da sắc tố có 1/4 nguy cơ sinh con khác cũng mắc bệnh khô da sắc tố.
+Bệnh khô da sắc tố (Xeroderma pigmentosum) xảy ra trên toàn thế giới và ảnh hưởng đến cả nam và nữ thuộc mọi chủng tộc. XPA được chứng minh là phổ biến hơn ở Nhật Bản so với các nơi khác.
+
+---
+
+## Triệu chứng của bệnh khô da sắc tố là gì?
+
+Bệnh thường tiến triển qua 3 giai đoạn. Giai đoạn đầu tiên xảy ra khoảng 6 tháng sau khi sinh (da trẻ trông bình thường khi mới sinh).
+- Những vùng da tiếp xúc với ánh nắng mặt trời như mặt sẽ bị đỏ, bong tróc và xuất hiện tàn nhang. Các đốm đen và trắng không đều cũng có thể bắt đầu xuất hiện.
+- Những thay đổi về da này sẽ lan đến cổ và cẳng chân, và trong trường hợp nghiêm trọng, sẽ lan đến thân mình.
+- Trong những tháng mùa đông, những thay đổi này có thể giảm bớt.
+- Có thể xảy ra phản ứng cháy nắng quá mức khi tiếp xúc với ánh sáng mặt trời ở mức tối thiểu.
+Tiếp tục tiếp xúc với ánh nắng mặt trời sẽ dẫn đến giai đoạn thứ hai, được đặc trưng bởi:
+- Poikiloderma
+- Teo da
+- Giãn mạch
+- Tăng sắc tố và giảm sắc tố có đốm .
+Giai đoạn thứ ba là sự phát triển của [sừng hóa ánh sáng](https://dermnetnz.org/topics/actinic-keratosis) và [ung thư da](https://dermnetnz.org/topics/skin-cancer) . Những tổn thương này có thể xuất hiện sớm nhất là từ 4-5 tuổi và trung bình là 8 tuổi. Chúng phổ biến hơn ở những vùng tiếp xúc với ánh nắng mặt trời như mặt, nhưng cũng có thể xuất hiện ở lưỡi và kết mạc. Chúng bao gồm:
+- [Ung thư biểu mô tế bào đáy](https://dermnetnz.org/topics/basal-cell-carcinoma)
+- [Ung thư biểu mô tế bào vảy](https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma)
+- [Ung thư hắc tố](https://dermnetnz.org/topics/melanoma) .
+Các vấn đề về mắt xảy ra ở gần 80% bệnh nhân mắc bệnh khô da sắc tố.
+- Mắt trở nên nhạy cảm với ánh nắng mặt trời ( sợ ánh sáng ).
+- Mắt dễ bị kích ứng, đỏ và mờ. Có thể bị viêm kết mạc .
+- Có thể xuất hiện khối u lành tính và ác tính ở mắt.
+Các vấn đề về thần kinh xảy ra ở khoảng 20% ​​bệnh nhân mắc bệnh khô da sắc tố.
+- Những triệu chứng này có thể nhẹ hoặc nặng và bao gồm co cứng, phối hợp kém, chậm phát triển , điếc và lùn.
+- Có thể xuất hiện vào cuối thời thơ ấu hoặc tuổi vị thành niên. Một khi đã xuất hiện, chúng có xu hướng trở nên trầm trọng hơn theo thời gian.
+
+---
+
+## Bệnh khô da sắc tố được chẩn đoán như thế nào?
+
+Thông thường, bệnh khô da sắc tố được phát hiện ở giai đoạn đầu của trẻ sơ sinh, khoảng 1–2 tuổi.
+Trẻ em bị [cháy nắng](https://dermnetnz.org/topics/sunburn) nghiêm trọng sau lần đầu tiếp xúc với ánh nắng mặt trời có thể là dấu hiệu gợi ý chẩn đoán bệnh khô da sắc tố. Bệnh khô da sắc tố thường có thể được chẩn đoán chính xác bằng cách đo yếu tố sửa chữa DNA từ mẫu da hoặc máu.
+
+---
+
+## Phương pháp điều trị bệnh khô da sắc tố là gì?
+
+Không có cách chữa khỏi bệnh khô da sắc tố. Liệu pháp gen điều trị khô da sắc tố vẫn đang trong giai đoạn giả thuyết và nghiên cứu.
+- Các thành viên trong gia đình và người mang gen bệnh nên được tư vấn di truyền và tránh kết hôn cận huyết.
+- Thai nhi có nguy cơ mắc bệnh khô da sắc tố có thể được chẩn đoán trước sinh bằng cách chọc ối hoặc lấy mẫu nhung mao màng đệm và nghiên cứu đứt gãy nhiễm sắc thể .
+Mục tiêu chính của việc điều trị là bảo vệ da khỏi tia UV từ mặt trời và đèn huỳnh quang không được che chắn ( [tránh nắng](https://dermnetnz.org/topics/sun-protection) ).
+- Các hoạt động ngoài trời nên được giới hạn vào ban đêm; ở trong nhà vào ban ngày.
+- Mặc [quần áo bảo hộ](https://dermnetnz.org/topics/sun-protective-clothing) (áo dài tay và quần dài, áo sơ mi có cổ, vải dệt chặt, mũ rộng vành).
+- Bảo vệ mắt bằng kính râm trùm đầu chống tia UV.
+- [Thoa kem chống nắng](https://dermnetnz.org/topics/topical-sunscreen-agents) phổ rộng có SPF từ 50 trở lên lên mọi vùng da tiếp xúc với ánh nắng.
+Bệnh nhân nên được [khám da](https://dermnetnz.org/topics/check-your-skin-today) thường xuyên bởi người được đào tạo để nhận biết các dấu hiệu ung thư da. Bất kỳ đốm hoặc khối u đáng ngờ nào cũng cần được báo ngay cho bác sĩ.
+- Khám bởi bác sĩ (tốt nhất là bác sĩ da liễu ) ít nhất 3 đến 6 tháng một lần.
+- Sừng hóa ánh sáng có thể được điều trị bằng [liệu pháp lạnh](https://dermnetnz.org/topics/cryotherapy) hoặc kem [5-fluorouracil](https://dermnetnz.org/topics/5-fluorouracil-cream) . Bất kỳ khối u đáng ngờ nào cũng nên được [sinh thiết](https://dermnetnz.org/topics/skin-biopsy) . Ung thư da thường được [cắt bỏ](https://dermnetnz.org/topics/excision-of-skin-lesions) . [](https://dermnetnz.org/topics/skin-biopsy) [](https://dermnetnz.org/topics/excision-of-skin-lesions)
+- Khám mắt thường xuyên bởi bác sĩ nhãn khoa.
+- Kiểm tra hàng năm (đến năm 20 tuổi) để phát hiện các vấn đề thần kinh tiềm ẩn.
+- Người bệnh sẽ được hưởng lợi từ sự hỗ trợ tâm lý cá nhân hóa, có thể cải thiện đáng kể mức độ tham gia của họ vào các hành vi [bảo vệ da khỏi ánh sáng](https://dermnetnz.org/topics/sun-protection) .
+Một số bệnh nhân bị bệnh khô da sắc tố có thể được kê đơn [isotretinoin](https://dermnetnz.org/topics/isotretinoin) . Đây là một dẫn xuất của vitamin A, có thể ngăn ngừa sự hình thành ung thư mới bằng cách thay đổi quá trình biệt hóa tế bào sừng .
+
+---
+
+## Hậu quả của bệnh khô da sắc tố là gì?
+
+Nhiều bệnh nhân mắc bệnh khô da sắc tố tử vong sớm do ung thư da. Tuy nhiên, nếu được chẩn đoán sớm, không có triệu chứng thần kinh nghiêm trọng hoặc chỉ bị biến thể nhẹ, và thực hiện tất cả các biện pháp phòng ngừa để tránh tiếp xúc với tia UV, họ có thể sống sót qua tuổi trung niên.
+Bệnh nhân bị bệnh khô da sắc tố và gia đình họ sẽ phải đối mặt với nhiều thách thức trong cuộc sống hàng ngày. Việc giáo dục và nhắc nhở thường xuyên về việc bảo vệ bản thân khỏi ánh nắng mặt trời là vô cùng quan trọng trong việc kiểm soát bệnh khô da sắc tố.

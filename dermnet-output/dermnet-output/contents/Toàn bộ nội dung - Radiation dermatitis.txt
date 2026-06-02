@@ -1,0 +1,95 @@
+# Viêm da do bức xạ — thông tin bổ sung
+
+Thể loại:
+
+Phản ứng
+
+SNOMED CT:
+
+49084001, 403722002, 724864003, 724865002, 14836003, 403644004, 724866001, 403729006
+
+**[Phản ứng](https://dermnetnz.org/topics/topics?category=Reactions)**
+
+
+# **Viêm da do bức xạ**
+
+Tác giả: Anoma Ranaweera, Nhà văn y khoa, Auckland, New Zealand, 2012.
+
+---
+
+## Viêm da do bức xạ là gì?
+
+Viêm da do bức xạ là tác dụng phụ của bức xạ ion hóa chùm tia ngoài. Nó còn được gọi là viêm da do bức xạ, viêm da do tia X, tổn thương da do bức xạ hoặc bỏng do bức xạ.
+Viêm da do bức xạ thường gặp nhất là do [xạ trị](https://dermnetnz.org/topics/radiotherapy-for-malignant-skin-diseases) đối với các bệnh lý ác tính tiềm ẩn. Viêm da do bức xạ cũng có thể hiếm khi xảy ra do tiếp xúc với bức xạ trong các thủ thuật can thiệp như chụp mạch vành , thủ thuật thuyên tắc và đặt catheter tĩnh mạch .
+Chiếu xạ da dẫn đến một mô hình phức tạp về tổn thương mô trực tiếp liên quan đến tổn thương các tế bào biểu bì và tế bào nội mô bên trong thành mạch máu và sự gia tăng các tế bào viêm .
+
+---
+
+## Các đặc điểm lâm sàng của viêm da do bức xạ là gì?
+
+Viêm da do xạ trị thường biểu hiện trong vòng vài ngày đến vài tuần sau khi bắt đầu xạ trị. Thời gian khởi phát tùy thuộc vào cường độ liều bức xạ và độ nhạy cảm mô bình thường của từng cá nhân. Viêm da do xạ trị chỉ giới hạn ở vùng da đã bị chiếu xạ, và những thay đổi trên da được phân định rõ ràng.
+Viêm da do bức xạ có thể được phân loại thành cấp tính hoặc mãn tính.
+
+### Viêm da cấp tính do bức xạ
+Viêm da do bức xạ cấp tính xảy ra trong vòng 90 ngày sau khi tiếp xúc với bức xạ. Bệnh nhân có thể có những thay đổi về da, từ ban đỏ (đỏ) và bong tróc (da bong tróc) đến hoại tử da (tế bào da chết) và loét , tùy thuộc vào mức độ nghiêm trọng của phản ứng.
+Viện Ung thư Quốc gia (Hoa Kỳ) đã xây dựng 4 tiêu chuẩn để phân loại viêm da do bức xạ cấp tính:
+- Độ 1 – Ban đỏ hoặc bong tróc mờ nhạt.
+- Độ 2 – Ban đỏ từ trung bình đến nhanh hoặc bong tróc ẩm, từng mảng ở các nếp gấp và nếp nhăn trên da. Sưng vừa phải.
+- Độ 3 – Bong tróc ẩm ướt , liên kết, đường kính lớn hơn 1,5 cm, không giới hạn ở nếp gấp da. Phù nề lõm (sưng nặng).
+- Độ 4 – Hoại tử da hoặc loét toàn bộ lớp hạ bì (lớp giữa của da).
+![Không có caption](https://dermnetnz.org/assets/Uploads/reactions/w/radiation-dermatitis1.jpg)
+![Viêm da cấp tính do bức xạ](https://dermnetnz.org/assets/Uploads/reactions/w/radiation-dermatitis2.jpg)
+![Viêm miệng do bức xạ](https://dermnetnz.org/assets/Uploads/site-age-specific/radiation-stomatitis.jpg)
+
+### Viêm da mãn tính do bức xạ
+Viêm da do xạ trị mãn tính có thể khởi phát từ 15 ngày đến 10 năm hoặc lâu hơn sau khi bắt đầu xạ trị. Đây là giai đoạn mở rộng của quá trình cấp tính và liên quan đến những thay đổi viêm nhiễm khác trên da.
+Những thay đổi mãn tính ở da do bức xạ gây ra được đặc trưng bởi:
+- Sự biến mất của các cấu trúc nang lông (lỗ chân lông)
+- Sự gia tăng collagen và tổn thương các sợi đàn hồi ở lớp hạ bì
+- Một bề mặt da mỏng manh (biểu bì)
+- [Giãn mạch](https://dermnetnz.org/topics/telangiectasia) (mạch máu nổi bật).
+Ung thư da thứ phát cũng có thể là kết quả của việc tiếp xúc nhiều lần với xạ trị, phổ biến nhất là [ung thư biểu mô tế bào đáy](https://dermnetnz.org/topics/basal-cell-carcinoma) .
+![Viêm da mãn tính do bức xạ](https://dermnetnz.org/assets/Uploads/reactions/w/radiation-dermatitis3.jpg)
+![Viêm da mãn tính do bức xạ](https://dermnetnz.org/assets/Uploads/reactions/s/radiation-dermatitis4.jpg)
+![Viêm da mãn tính do bức xạ](https://dermnetnz.org/assets/Uploads/reactions/w/radiation-dermatitis5.jpg)
+
+### Thu hồi bức xạ
+Phản ứng tái phát sau xạ trị rất hiếm gặp. Nó xảy ra tại vị trí xạ trị trước đó sau khi dùng thuốc hóa trị (ví dụ methotrexate hoặc etoposide). Phản ứng này có thể xảy ra từ vài tuần đến vài năm sau khi xạ trị.
+Triệu chứng nhiễm xạ có thể từ ban đỏ giống như cháy nắng đến hoại tử, loét và chảy máu.
+
+---
+
+## Các yếu tố nguy cơ gây viêm da do bức xạ
+
+Viêm da do bức xạ có nhiều khả năng xảy ra ở những bệnh nhân có một số yếu tố nguy cơ sau:
+- [Dinh dưỡng kém](https://dermnetnz.org/topics/malnutrition-including-anorexia-nervosa)
+- Bệnh ngoài da có từ trước
+- Bôi kem dưỡng da lên vùng da hở ngay trước khi điều trị
+- Các nếp gấp da chồng lên nhau
+- Béo phì
+- Các thủ thuật kéo dài hoặc nhiều lần đòi hỏi phải tiếp xúc với bức xạ
+- Tổng liều bức xạ lớn hơn 55 Gy hoặc liều riêng lẻ lớn trên mỗi phần (lớn hơn 3–4 Gy mỗi liều)
+- Liệu pháp cetuximab đồng thời ở những bệnh nhân đang xạ trị ung thư đầu và cổ.
+Một số bệnh và hội chứng làm tăng nguy cơ viêm da do bức xạ. Bao gồm:
+- [Bệnh mô liên kết](https://dermnetnz.org/cme/systemic/connective-tissue-diseases) ( [Lupus ban đỏ hệ thống](https://dermnetnz.org/topics/systemic-lupus-erythematosus) , [xơ cứng hệ thống](https://dermnetnz.org/topics/systemic-sclerosis) hoặc [bệnh mô liên kết hỗn hợp](https://dermnetnz.org/topics/mixed-connective-tissue-disease) )
+- Rối loạn di truyền ảnh hưởng đến DNA biểu bì , chẳng hạn như [hội chứng nốt ruồi tế bào đáy](https://dermnetnz.org/topics/basal-cell-naevus-syndrome) [](https://dermnetnz.org/topics/basal-cell-naevus-syndrome)
+- Hội chứng đứt gãy nhiễm sắc thể , chẳng hạn như bệnh thiếu máu Fanconi và [hội chứng Bloom](https://dermnetnz.org/topics/bloom-syndrome)
+- [Bệnh giãn mao mạch mất điều hòa](https://dermnetnz.org/topics/ataxia-telangiectasia)
+- Một số bệnh truyền nhiễm, đặc biệt là [virus gây suy giảm miễn dịch ở người (HIV)](https://dermnetnz.org/topics/skin-conditions-relating-to-hiv-infection)
+- [Bệnh tiểu đường](https://dermnetnz.org/topics/skin-problems-associated-with-diabetes-mellitus)
+- Tổn thương tế bào do thuốc nhạy cảm với tia xạ trước đó (ví dụ như paclitaxel hoặc docetaxel).
+
+---
+
+## Quản lý chung về viêm da do bức xạ
+
+Bệnh nhân bị viêm da cấp tính do bức xạ cần được đánh giá cẩn thận.
+- Kiểm tra xem liều lượng và sự phân bổ bức xạ có chính xác không.
+- Cân nhắc việc ngừng sử dụng thuốc đang dùng có thể là nguyên nhân gây ra phản ứng này.
+- Hãy xem xét những lời giải thích khác cho những thay đổi về da, chẳng hạn như viêm da tiếp xúc hoặc nhiễm trùng.
+Bệnh nhân có thể rửa vùng da bị ảnh hưởng bằng sữa [rửa mặt](https://dermnetnz.org/topics/soaps-and-cleansers) dịu nhẹ không chứa xà phòng và lau khô bằng khăn mềm, sạch trước mỗi lần chiếu xạ. [Thuốc làm mềm da](https://dermnetnz.org/topics/emollients-and-moisturisers) , kem dưỡng ẩm, gel, nhũ tương và băng gạc được sử dụng sau khi điều trị có thể làm giảm cảm giác khó chịu.
+[Có thể kê đơn corticosteroid bôi ngoài da](https://dermnetnz.org/topics/topical-steroid) cho bệnh viêm da do bức xạ trong 2 đến 4 tuần. Hiện vẫn chưa rõ liệu những loại thuốc này có mang lại hiệu quả hay không.
+Bệnh nhân đang xạ trị nên được khuyên tránh:
+- Tiếp xúc với ánh nắng mặt trời bằng cách che vùng da được điều trị bằng [quần áo bảo hộ hoặc](https://dermnetnz.org/topics/sun-protective-clothing) [kem chống nắng](https://dermnetnz.org/topics/topical-sunscreen-agents) phổ rộng SPF 50+ [](https://dermnetnz.org/topics/topical-sunscreen-agents)
+- Các chất gây kích ứng da tại chỗ , chẳng hạn như [nước hoa](https://dermnetnz.org/topics/fragrances-and-perfumes) , chất khử mùi và kem dưỡng da có cồn
+- Gãi da ở vùng bị ảnh hưởng.

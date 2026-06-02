@@ -1,0 +1,148 @@
+# Viêm góc miệng — thông tin bổ sung
+
+Thể loại:
+
+Viêm
+
+SNOMED CT:
+
+266429005, 278521000, 707240008, 235137005, 707245003, 707753007
+
+**[Viêm](https://dermnetnz.org/topics/topics?category=Inflammation)**
+
+
+# **Viêm góc môi**
+
+Tháng 9 năm 2022Tác giả: Tiến sĩ Zsófia Sára Hermann, Bệnh viện Hutt, New Zealand (2022)Những người đóng góp trước: Giáo sư danh dự Amanda Oakley, Bác sĩ da liễu (2010)Bác sĩ da liễu đánh giá: Tiến sĩ Ian CoulsonBiên tập bởi bộ phận nội dung DermNet
+
+---
+
+## Viêm góc miệng là gì?
+
+Viêm khóe miệng là tình trạng viêm phổ biến, không lây nhiễm, ảnh hưởng đến các góc miệng hoặc mép miệng.
+Tùy thuộc vào nguyên nhân cơ bản, tình trạng này có thể kéo dài vài ngày hoặc kéo dài vô thời hạn. Nó còn được gọi là viêm góc miệng , nứt môi, rhagades, hoặc perleche (perlèche).
+![Viêm góc miệng hai bên kèm theo loét xám ở góc miệng](https://dermnetnz.org/assets/collection/Angular-cheilitis/angular-cheilitis-0001.jpg)
+![Một phụ nữ mất răng có vết đỏ và rỉ dịch ở các nếp gấp bên miệng do viêm góc miệng](https://dermnetnz.org/assets/collection/Angular-cheilitis/angular-cheilitis-0004.jpg)
+![Đóng vảy, rỉ dịch và đỏ ở khóe miệng](https://dermnetnz.org/assets/collection/Angular-cheilitis/angular-cheilitis-0006.jpg)
+![Viêm góc miệng ở da màu](https://dermnetnz.org/assets/collection/Angular-cheilitis/angular-cheilitis-0012.jpg)
+![Viêm góc miệng ở người đeo răng giả](https://dermnetnz.org/assets/collection/Angular-cheilitis/angular-cheilitis-0014.jpg)
+![Đỏ và xói mòn các nếp gấp da miệng bên ở một phụ nữ mất răng](https://dermnetnz.org/assets/collection/Angular-cheilitis/angular-cheilitis-0013.jpg)
+[Nhấp vào đây để xem thêm hình ảnh](https://dermnetnz-org.translate.goog/images/angular-cheilitis-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+
+---
+
+## Ai bị viêm khóe môi?
+
+Viêm khóe miệng là bệnh phổ biến và có thể ảnh hưởng đến bất kỳ trẻ em hay người lớn nào. Những người có sức khỏe kém đặc biệt dễ mắc bệnh.
+Các yếu tố rủi ro bao gồm:
+- Môi khô nứt nẻ do bất kỳ nguyên nhân nào
+- [Tưa miệng](https://dermnetnz.org/topics/oral-candidiasis) — tình trạng này có nhiều khả năng xảy ra ở trẻ sơ sinh, người già, bệnh nhân tiểu đường, sử dụng đồng thời corticosteroid hoặc kháng sinh và bệnh nhân suy giảm miễn dịch
+- Răng giả (đặc biệt là nếu không vừa vặn và có kèm theo tình trạng tụt nướu)
+- Dinh dưỡng kém — bệnh celiac, [thiếu sắt](https://dermnetnz.org/topics/iron-deficiency) , thiếu riboflavin, thiếu protein nói chung , thiếu kẽm, thiếu vitamin B12 và/hoặc folate
+- Bệnh toàn thân , đặc biệt là [bệnh viêm ruột](https://dermnetnz.org/topics/oral-manifestations-of-inflammatory-bowel-disease) ( viêm loét đại tràng và bệnh Crohn) và [hội chứng Sjogren](https://dermnetnz.org/topics/sjoegren-syndrome)
+- Da nhạy cảm, đặc biệt là [viêm da dị ứng](https://dermnetnz.org/topics/atopic-dermatitis)
+- Yếu tố di truyền — ví dụ, trong [hội chứng Down](https://dermnetnz.org/topics/dermatological-manifestations-of-down-syndrome)
+- Thuốc retinoid đường uống — có thể gây khô môi, ví dụ, [isotretinoin](https://dermnetnz.org/topics/isotretinoin) , [acitretin](https://dermnetnz.org/topics/acitretin)
+- Giảm cân nhanh chóng — dẫn đến giảm độ đàn hồi/sức căng của da và tăng nếp gấp da
+- Hút thuốc — làm giảm độ đàn hồi/sức căng của da
+- Retrognathia ( vị trí lùi về sau /lùi về sau bất thường của hàm)
+- Phần môi trên nhô ra tạo thành các rãnh sâu (nếp nhăn hình rối).
+Tình trạng này sẽ tệ hơn nếu [liếm môi](https://dermnetnz.org/topics/lip-lickers-dermatitis) .
+
+---
+
+## Nguyên nhân nào gây ra viêm khóe miệng?
+
+Viêm khóe miệng xảy ra ở góc miệng, nơi hai loại niêm mạc da khác nhau gặp nhau và hoạt động như một bản lề. Niêm mạc miệng ( niêm mạc miệng ) tiếp giáp với biểu mô vảy (da mặt). Vì thường xuyên được sử dụng để ăn, uống và nói chuyện, chúng dễ bị tổn thương do căng thẳng/ chấn thương.
+Viêm khóe miệng thường xảy ra do khóe miệng tiếp xúc lâu với nước bọt và các enzym tiêu hóa của nước bọt , dẫn đến viêm khóe miệng dạng chàm (một dạng [viêm da tiếp xúc kích ứng](https://dermnetnz.org/topics/irritant-contact-dermatitis) )
+
+---
+
+## Các đặc điểm lâm sàng của viêm khóe miệng là gì?
+
+Viêm khóe miệng có thể gây ra các triệu chứng và dấu hiệu sau ở khóe miệng:
+- Các vết nứt/ rạn nứt đau đớn hơn khi mở miệng
+- Phồng rộp, xói mòn , rỉ dịch, đóng vảy
+- Đỏ da (hoặc da nhợt nhạt /sạm da trong một số trường hợp)
+- Chảy máu.
+Bệnh thường xảy ra ở cả hai bên và đối xứng , tuy nhiên, cũng có thể xảy ra ở một bên. Bệnh có thể tiến triển thành [chốc lở](https://dermnetnz.org/topics/impetigo) hoặc [nấm candida (tưa miệng)](https://dermnetnz.org/topics/oral-candidiasis) lan rộng hơn ở vùng da lân cận và các nơi khác. [](https://dermnetnz.org/topics/impetigo) [](https://dermnetnz.org/topics/oral-candidiasis)
+[Nhấp vào đây để xem hình ảnh](https://dermnetnz-org.translate.goog/images/angular-cheilitis-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+
+---
+
+## Các đặc điểm lâm sàng khác nhau ở các loại da khác nhau như thế nào?
+
+Viêm góc miệng ở da sẫm màu có thể khó phát hiện hơn ở giai đoạn đầu, hoặc da có thể nhợt nhạt thay vì đỏ. Vùng da nhợt nhạt cũng có thể được bao quanh bởi viền sẫm màu.
+
+---
+
+## Biến chứng của viêm khóe miệng là gì?
+
+- Trong một số trường hợp hiếm gặp, nếu viêm góc miệng mãn tính hoặc không được điều trị có thể gây sẹo vĩnh viễn và làm da đổi màu.
+- Nếu nguyên nhân là do nhiễm trùng vi khuẩn , nguy cơ nhiễm trùng lan sang vùng da xung quanh sẽ cao hơn.
+- Nguy cơ nhiễm trùng tiếp theo như nhiễm nấm, [tưa miệng](https://dermnetnz.org/topics/oral-candidiasis) .
+
+---
+
+## Viêm góc miệng được chẩn đoán như thế nào?
+
+Viêm khóe miệng được chẩn đoán lâm sàng dựa trên bệnh sử và khám lâm sàng.
+Kết quả nuôi cấy mẫu tăm bông lấy từ khóe miệng có thể cho thấy:
+- [Candida albicans](https://dermnetnz.org/topics/candida)
+- [Tụ cầu vàng](https://dermnetnz.org/topics/methicillin-resistant-staphylococcus-aureus)
+- [Herpes simplex (mụn rộp)](https://dermnetnz.org/topics/herpes-simplex) .
+[Sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) thường không cần thiết.
+
+---
+
+## Chẩn đoán phân biệt viêm khóe miệng là gì?
+
+- [Chốc lở](https://dermnetnz.org/topics/impetigo)
+- [Viêm da dị ứng](https://dermnetnz.org/topics/atopic-dermatitis)
+- [Viêm da tiết bã nhờn](https://dermnetnz.org/topics/seborrhoeic-dermatitis)
+- [Viêm da tiếp xúc dị ứng](https://dermnetnz.org/topics/allergic-contact-dermatitis)
+- [Viêm da tiếp xúc kích ứng](https://dermnetnz.org/topics/irritant-contact-dermatitis)
+- [Sẩn giang mai/sẩn giang mai thứ phát (có nhiều khả năng là một bên)](https://dermnetnz.org/topics/syphilis)
+- [Viêm môi lan tỏa sớm hoặc riêng lẻ](https://dermnetnz.org/topics/cheilitis)
+- [Lichen phẳng miệng xói mòn](https://dermnetnz.org/topics/erosive-lichen-planus)
+
+---
+
+## Điều trị viêm khóe miệng bằng cách nào?
+
+Trong nhiều trường hợp, không cần điều trị và viêm khóe môi sẽ tự khỏi.
+
+### Các biện pháp chung
+- Cải thiện tình trạng hydrat hóa tổng thể
+- Sử dụng son dưỡng môi hoặc thuốc mỡ [làm mềm da](https://dermnetnz.org/topics/emollients-and-moisturisers) đặc thường xuyên (thường là phương pháp điều trị duy nhất đủ cho chứng viêm khóe miệng do nước bọt)
+- [Thuốc sát trùng tại chỗ](https://dermnetnz.org/topics/antiseptic)
+
+### Các biện pháp cụ thể
+Tùy thuộc vào nguyên nhân cụ thể, các lựa chọn điều trị bằng đường uống và tại chỗ bao gồm:
+- [Kem chống nấm tại chỗ](https://dermnetnz.org/topics/topical-antifungal-medication)
+- [](https://dermnetnz.org/topics/oral-antifungal-medication) Thuốc [chống nấm đường uống](https://dermnetnz.org/topics/oral-antifungal-medication)
+- [Kháng sinh](https://dermnetnz.org/topics/antibiotics) chống tụ cầu khuẩn dùng tại chỗ hoặc uống [](https://dermnetnz.org/topics/antibiotics)
+- [Thuốc mỡ steroid bôi ngoài da](https://dermnetnz.org/topics/topical-steroid) nếu da bị viêm đáng kể.
+
+---
+
+## Làm thế nào để ngăn ngừa viêm khóe miệng?
+
+- Giáo dục về việc giảm liếm môi
+- Thực phẩm bổ sung dinh dưỡng
+- Bỏ thuốc lá
+- Thay thế hàm giả không vừa vặn để cân bằng đường nét khuôn mặt và giảm kích thước rãnh miệng
+- Sử dụng chất làm mềm da /son dưỡng môi để giữ cho môi không bị quá khô
+- Súc miệng sau khi sử dụng corticosteroid dạng hít
+- Duy trì vệ sinh răng miệng và răng giả tốt
+- Tiêm chất làm đầy hoặc cấy ghép để xây dựng các khóe miệng
+- Cải thiện kiểm soát lượng đường trong máu ở những người mắc bệnh tiểu đường
+- [Độc tố Botulinum](https://dermnetnz.org/topics/botulinum-toxin) làm phẳng các nếp nhăn ở miệng
+
+---
+
+## Hậu quả của viêm khóe miệng là gì?
+
+Trong nhiều trường hợp, viêm khóe môi tự khỏi, nếu không khỏi thường có thể chữa khỏi và hiếm khi để lại sẹo hoặc sắc tố vĩnh viễn. Tình trạng cải thiện thường thấy trong vài ngày đầu điều trị và thường khỏi sau hai tuần.
+Viêm góc miệng tái phát thường gặp, đặc biệt ở những người có yếu tố nguy cơ không thể thay đổi.
+[Nhấp vào đây để xem hình ảnh](https://dermnetnz-org.translate.goog/images/angular-cheilitis-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)

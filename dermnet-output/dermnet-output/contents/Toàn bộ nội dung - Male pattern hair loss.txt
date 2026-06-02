@@ -1,0 +1,105 @@
+# Rụng tóc kiểu nam — thông tin bổ sung
+
+Thể loại:
+
+Rối loạn nang lông, Thuật ngữ
+
+SNOMED CT:
+
+87872006, 177499007, 275084003
+
+**[Rối loạn nang lông, Thuật ngữ](https://dermnetnz.org/topics/topics?category=Follicular+disorder)**
+
+
+# **Rụng tóc theo kiểu nam giới**
+
+Tác giả: Tiến sĩ Nicholas M Birchall, Bác sĩ da liễu, Auckland, New Zealand, 1998. Được cập nhật bởi Giáo sư Rod Sinclair, Melbourne, Úc, tháng 7 năm 2015.
+
+---
+
+## Rụng tóc kiểu nam là gì?
+
+Rụng tóc theo kiểu nam giới là loại rụng tóc [lan tỏa](https://dermnetnz.org/topics/diffuse-alopecia) và hói đầu phổ biến nhất xảy ra ở nam giới trưởng thành.
+- Nguyên nhân là do sự kết hợp của hormone ( androgen ) và yếu tố di truyền .
+- Rụng tóc theo kiểu nam giới còn được gọi là rụng tóc androgenetic .
+- Bệnh này có đặc điểm là đường chân tóc bị thụt vào và rụng tóc ở đỉnh đầu và phía trước đầu.
+- Một loại rụng tóc tương tự ở phụ nữ, [rụng tóc theo kiểu nữ](https://dermnetnz.org/topics/female-pattern-hair-loss) , dẫn đến tóc mỏng đi ở vùng giữa trán của da đầu và thường ít nghiêm trọng hơn so với ở nam giới.
+![Hói đầu theo mẫu](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/aga-mild.jpg)
+![Hói đầu theo mẫu](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/s/pattern.jpg)
+![Hói đầu theo mẫu](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/aga-severe.jpg)
+
+---
+
+## Nguyên nhân nào gây ra tình trạng hói đầu?
+
+Rụng tóc kiểu nam là một tình trạng di truyền, gây ra bởi sự nhạy cảm di truyền với tác động của dihydrotestosterone (DHT) ở một số vùng da đầu. DHT được cho là làm rút ngắn giai đoạn tăng trưởng, hay giai đoạn anagen , của chu kỳ tóc , từ thời gian thông thường là 3–6 năm xuống chỉ còn vài tuần hoặc vài tháng. Điều này xảy ra cùng với sự thu nhỏ của nang tóc và dần dần sản sinh ra ít tóc hơn và mảnh hơn. Việc sản xuất DHT được điều hòa bởi một enzyme gọi là 5-alpha reductase.
+Có nhiều gen liên quan, giải thích sự khác biệt về độ tuổi khởi phát, tiến triển, kiểu hình và mức độ rụng tóc ở các thành viên trong gia đình. Các gen dễ mắc bệnh được di truyền từ cả cha và mẹ. Hiện tại, xét nghiệm di truyền để dự đoán tình trạng hói đầu vẫn chưa đáng tin cậy.
+Một số ít phụ nữ bị rụng tóc kiểu nam do nồng độ androgen quá cao cũng như do yếu tố di truyền. Những phụ nữ này cũng có xu hướng bị mụn trứng cá, kinh nguyệt không đều và lông mặt và cơ thể mọc quá nhiều. Những triệu chứng này là đặc trưng của [hội chứng buồng trứng đa nang](https://dermnetnz.org/topics/polycystic-ovary-syndrome) (PCOS), mặc dù phần lớn phụ nữ mắc PCOS không bị rụng tóc. Ít gặp hơn, nguyên nhân có thể là do [tăng sản tuyến thượng thận bẩm sinh](https://dermnetnz.org/topics/congenital-adrenal-hyperplasia) . Phụ nữ bị rụng tóc theo tuổi tác có nhiều khả năng bị [rụng tóc kiểu nữ](https://dermnetnz.org/topics/female-pattern-hair-loss) , trong đó xét nghiệm hormone bình thường.
+
+---
+
+## Chu kỳ phát triển bình thường của tóc là gì?
+
+Tất cả các nang tóc đều được thay thế với tốc độ khác nhau thông qua quá trình chu kỳ tóc bình thường. Sự phát triển của tóc xen kẽ giữa các giai đoạn hoạt động và nghỉ ngơi. Giai đoạn tăng trưởng, được gọi là giai đoạn anagen, kéo dài từ hai đến sáu năm. Trong thời gian này, nang tóc dài và sâu, sản sinh ra mái tóc dày, có sắc tố tốt . Khoảng 90% tổng số tóc trên da đầu đều ở giai đoạn anagen tại một thời điểm nhất định.
+Anagen được theo sau bởi một giai đoạn chuyển tiếp ngắn gọi là catagen , kéo dài 1–2 tuần. Trong thời gian này, phần gốc nang tóc teo lại. Giai đoạn nghỉ ngơi, hay giai đoạn telogen , diễn ra sau catagen và kéo dài trong ba tháng. Trong giai đoạn này, nang tóc teo lại giữ lại sợi tóc. Sau giai đoạn telogen, giai đoạn anagen tiếp theo bắt đầu, khi tóc cũ bị bong ra và rụng đi để nhường chỗ cho tóc mới bắt đầu mọc lên.
+![Chu kỳ tóc](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/haircycle.jpg)
+Hình ảnh © 1998 Merck Sharpe và Dohme (có sự cho phép)
+
+---
+
+## Thu nhỏ tóc
+
+Không giống như các vùng khác trên cơ thể, tóc trên da đầu mọc thành từng chùm 3-4 sợi. Trong chứng rụng tóc androgenetic, các chùm tóc rụng dần. Cuối cùng, khi tất cả tóc trong chùm tóc rụng hết, da đầu sẽ xuất hiện tình trạng hói giữa các sợi tóc.
+![Thu nhỏ tóc](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/hair-miniaturisation.jpg)
+Hình ảnh được cung cấp bởi R. Sinclair, FACD
+
+---
+
+## DHT được tìm thấy ở đâu trong cơ thể?
+
+DHT được tìm thấy trong một số mô trong cơ thể bao gồm tuyến tiền liệt và da.
+
+---
+
+## Vai trò của 5-alpha-reductase trong cơ thể là gì?
+
+5-alpha reductase là một enzyme điều hòa sản xuất DHT. Enzyme là một protein hoạt động như một chất xúc tác để tăng tốc phản ứng hóa học. 5-alpha reductase có thể bị ức chế bởi các loại thuốc tổng hợp đặc hiệu (xem bên dưới).
+
+---
+
+## Yếu tố di truyền đóng vai trò gì trong tình trạng rụng tóc ở nam giới?
+
+Rụng tóc kiểu nam xảy ra ở những người đàn ông có cơ địa nhạy cảm hơn với tác động của DHT. Các nhà nghiên cứu hiện nay tin rằng tình trạng này có thể di truyền từ cả hai bên gia đình.
+
+---
+
+## Rụng tóc ở nam giới phổ biến như thế nào?
+
+Rụng tóc kiểu nam ảnh hưởng đến hầu hết nam giới vào một thời điểm nào đó trong đời. Nó ảnh hưởng đến các nhóm dân số khác nhau với mức độ khác nhau, có thể là do di truyền. Có đến một nửa nam giới da trắng sẽ bị rụng tóc ở một mức độ nào đó ở tuổi 50, và có thể lên tới 80% ở tuổi 70, trong khi các nhóm dân số khác như nam giới Nhật Bản và Trung Quốc ít bị ảnh hưởng hơn nhiều.
+Mức độ rụng tóc có thể được phân loại theo nhiều cách. Hệ thống Norwood và Sinclair được trình bày dưới đây.
+![Norwood*](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/hairlossch.jpg)
+![Sinclair°](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/mpb-grading-scale.jpg)
+* Hình ảnh © 1998 Merck Sharpe và Dohme, với sự cho phép. ° Hình ảnh được cung cấp bởi R. Sinclair, FACD
+
+---
+
+## Rụng tóc chỉ là vấn đề thẩm mỹ thôi phải không?
+
+Rụng tóc kiểu nam có thể gây ra [những tác động tâm lý](https://dermnetnz.org/topics/psychological-effects-of-hair-loss) tiêu cực . Các nghiên cứu đã chỉ ra rằng rụng tóc có thể liên quan đến lòng tự trọng thấp, trầm cảm, hướng nội và cảm giác kém hấp dẫn. Điều này càng được củng cố bởi quan điểm trong xã hội phương Tây, vốn coi trọng vẻ ngoài trẻ trung và sức hấp dẫn. Một số nghiên cứu đã chỉ ra rằng chỉ dựa trên ngoại hình, nam giới bị rụng tóc bị coi là kém hấp dẫn, kém quyết đoán, kém dễ mến và kém thành công hơn so với nam giới không bị rụng tóc.
+
+---
+
+## Có những phương pháp điều trị nào cho tình trạng rụng tóc ở nam giới?
+
+Các lựa chọn điều trị hiện tại bao gồm:
+- [Thay thế / cấy ghép tóc](https://dermnetnz.org/topics/hair-replacement-surgery)
+- Mỹ phẩm
+- Vi sắc tố (xăm) để giống với da đầu cạo
+- [Tóc giả](https://dermnetnz.org/topics/hair-pieces-and-wigs)
+- [](https://dermnetnz.org/topics/minoxidil-solution) Dung dịch [Minoxidil](https://dermnetnz.org/topics/minoxidil-solution)
+- Thuốc ức chế 5-alpha-reductase loại II ( [finasteride](https://dermnetnz.org/topics/finasteride) , dutasteride)
+- Minoxidil uống liều thấp
+- Kết hợp minoxidil uống liều thấp và thuốc ức chế 5-alpha-reductase loại II.
+[Clascoterone](https://dermnetnz.org/topics/clascoterone) , một chất đối kháng thụ thể androgen tại chỗ , đang được nghiên cứu như một phương án điều trị.
+Có một số bằng chứng cho thấy dầu gội [ketoconazole](https://dermnetnz.org/topics/ketoconazole) cũng có thể có lợi, có lẽ vì nó hiệu quả trong điều trị [viêm da tiết bã](https://dermnetnz.org/topics/seborrhoeic-dermatitis) và gàu. Minoxidil đường uống liều thấp (không theo chỉ định) có thể làm tăng sự phát triển của tóc trên da đầu, nhưng cũng có thể dẫn đến chứng rậm lông toàn thân và các tác dụng phụ khác [1].
+[Liệu pháp laser cường độ thấp](https://dermnetnz.org/topics/low-dose-laser-therapy-for-hair-loss) chưa được chứng minh là có lợi ích trong điều trị hói đầu theo kiểu hình; một thiết bị đã được FDA chấp thuận đưa ra thị trường. Việc tiêm [huyết tương giàu tiểu cầu](https://dermnetnz.org/topics/platelet-rich-plasma-dermatological-applications) cũng đang được nghiên cứu. Cần có thêm các nghiên cứu để xác định mức độ lợi ích, nếu có.

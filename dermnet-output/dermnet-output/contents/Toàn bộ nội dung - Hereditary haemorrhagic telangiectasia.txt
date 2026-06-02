@@ -1,0 +1,69 @@
+# Giãn mao mạch xuất huyết di truyền — thông tin bổ sung
+
+Thể loại:
+
+Các vấn đề về mạch máu
+
+SNOMED CT:
+
+21877004
+
+**[Các vấn đề về mạch máu](https://dermnetnz.org/topics/topics?category=Blood+vessel+problems)**
+
+
+# **Giãn mao mạch xuất huyết di truyền**
+
+Tác giả: Vanessa Ngan, Biên tập viên, 2006.
+
+---
+
+## Bệnh giãn mạch xuất huyết di truyền là gì?
+
+Giãn mao mạch xuất huyết di truyền (HHT) còn được gọi là hội chứng Osler-Rendu-Weber. Đây là một rối loạn di truyền hiếm gặp ảnh hưởng đến các mạch máu trên khắp cơ thể và đặc trưng bởi xu hướng chảy máu ( xuất huyết , cách viết tiếng Mỹ là 'xuất huyết'), đặc biệt là chảy máu cam tái phát (chảy máu mũi); và [giãn mao mạch](https://dermnetnz.org/topics/telangiectasia) da ( tổn thương da do giãn mạch máu). [](https://dermnetnz.org/topics/telangiectasia)
+Tiêu chuẩn chẩn đoán HHT là:
+- Chảy máu mũi tái phát tự phát
+- Nhiều telangiectases trên da và niêm mạc
+- Sự tham gia của các cơ quan nội tạng
+- Cha mẹ, anh chị em ruột hoặc con cái bị ảnh hưởng
+
+---
+
+## Nguyên nhân nào gây ra chứng giãn mạch xuất huyết di truyền?
+
+Hai loại chính của HHT là HHT1 và HHT2. Chúng được gây ra bởi đột biến ở gen endoglin (ENG) và gen kinase giống thụ thể activin loại 1 (ACVLR1) lần lượt nằm trên nhiễm sắc thể số 9 và số 12. Hai gen khác cũng đã được xác định. Chỉ cần khiếm khuyết ở một trong hai gen này cũng gây ra bất thường trong quá trình hình thành mạch máu, dễ bị vỡ và chảy máu. Các mạch máu bất thường này được gọi là giãn mao mạch, hoặc dị dạng động tĩnh mạch (AVM) nếu liên quan đến các mạch máu lớn hơn.
+Yếu tố tăng trưởng nội mô mạch máu , VEGF, có thể điều chỉnh quá trình hình thành mạch máu trong HHT.
+
+---
+
+## Ai mắc bệnh giãn mạch xuất huyết di truyền?
+
+HHT là một bệnh lý di truyền trội nhiễm sắc thể thường hiếm gặp , nghĩa là chỉ cần một gen bất thường được di truyền từ cha hoặc mẹ bị ảnh hưởng là có thể biểu hiện bệnh. HHT thường được truyền từ thế hệ này sang thế hệ khác vì mỗi đứa con của người mắc HHT có 50% nguy cơ mắc bệnh. Tuy nhiên, các dấu hiệu và triệu chứng của HHT trong cùng một gia đình có thể rất khác nhau. Một thành viên trong gia đình có thể bị chảy máu cam tái phát nghiêm trọng, trong khi người khác mắc HHT có thể chỉ có các triệu chứng tối thiểu.
+
+---
+
+## Những dấu hiệu và triệu chứng của bệnh giãn mạch xuất huyết di truyền là gì?
+
+Dấu hiệu phổ biến nhất của HHT là giãn mao mạch ở mũi và triệu chứng phổ biến nhất là chảy máu cam tái phát. Dấu hiệu đầu tiên của HHT thường không xuất hiện cho đến [tuổi dậy thì](https://dermnetnz.org/topics/skin-changes-at-puberty) hoặc trưởng thành, với độ tuổi trung bình của lần chảy máu cam đầu tiên là 12 tuổi. Chảy máu cam có thể xảy ra thường xuyên, hàng ngày hoặc không thường xuyên, chỉ mỗi tháng một lần. Chảy máu cam tái phát được ghi nhận ở 50-80% bệnh nhân HHT.
+Giãn mạch ở các bộ phận khác của cơ thể thường không xuất hiện cho đến sau [tuổi dậy thì](https://dermnetnz.org/topics/skin-changes-at-puberty) và rõ ràng nhất ở những người trong độ tuổi từ 20 đến 40. Tình trạng này xảy ra ở khoảng 95% bệnh nhân mắc HHT. Giãn mạch ở da và niêm mạc có các đặc điểm sau.
+- Xuất hiện các đốm nhỏ màu đỏ đến tím hoặc các đường ren màu đỏ sẫm trên da và niêm mạc
+- Tổn thương có thể xuất hiện ở bất kỳ đâu, nhưng đặc biệt là ở nửa trên cơ thể, bao gồm mặt, bên trong miệng và lỗ mũi, môi, tai, kết mạc mắt, cẳng tay, bàn tay và ngón tay. Tổn thương thường rõ rệt ở nền móng .
+- Các tổn thương ban đầu có thể xuất hiện nhẹ nhưng trở nên khá rõ ràng vào cuối tuổi trưởng thành
+- Các vết giãn mao mạch trên da và miệng có thể chảy máu nhưng ít có khả năng xảy ra hơn so với các vết giãn mao mạch ở mũi
+Ngoài các giãn mao mạch có thể nhìn thấy được, sự hình thành mạch máu bất thường có thể xảy ra ở nhiều cơ quan khác. Giãn mao mạch có thể được tìm thấy ở bất kỳ đâu trong hệ tiêu hóa (GI), bao gồm thực quản , dạ dày, ruột non và ruột già. Xuất huyết tiêu hóa xảy ra ở khoảng 25% bệnh nhân HHT và nguy cơ này tăng lên ở những bệnh nhân trên 50 tuổi. Phân đen hoặc có máu và/hoặc thiếu máu (số lượng tế bào máu thấp) là các triệu chứng biểu hiện. Các cơ quan khác có thể bị ảnh hưởng bao gồm phổi (dị dạng động tĩnh mạch phổi xảy ra ở khoảng 30% bệnh nhân HHT) và hệ thần kinh trung ương (dị dạng động tĩnh mạch não và tủy sống).
+![Giãn mao mạch xuất huyết di truyền](https://dermnetnz.org/assets/Uploads/vascular/hht1.jpg)
+![Giãn mao mạch xuất huyết di truyền](https://dermnetnz.org/assets/Uploads/vascular/hht2.jpg)
+![Giãn mao mạch xuất huyết di truyền](https://dermnetnz.org/assets/Uploads/vascular/hht3.jpg)
+![Giãn mao mạch xuất huyết di truyền](https://dermnetnz.org/assets/Uploads/vascular/s/hht4.jpg)
+![Giãn mao mạch xuất huyết di truyền](https://dermnetnz.org/assets/Uploads/vascular/hht5.jpg)
+![Giãn mao mạch xuất huyết di truyền](https://dermnetnz.org/assets/Uploads/vascular/hht6.jpg)
+
+---
+
+## Có thể điều trị bệnh giãn mạch xuất huyết di truyền không?
+
+HHT không thể phòng ngừa được nhưng hầu hết các trường hợp có thể được điều trị triệu chứng. Một phần ba số trường hợp HHT là nhẹ, một phần ba là trung bình và một phần ba là nặng. Các trường hợp nhẹ thường không cần điều trị. HHT nên được điều trị nếu nó gây ra các vấn đề nghiêm trọng, chẳng hạn như chảy máu cam nghiêm trọng và/hoặc thường xuyên, hoặc nếu có nguy cơ cao gây ra các vấn đề khác, chẳng hạn như đột quỵ do dị dạng động tĩnh mạch phổi.
+- Chảy máu mũi có thể được điều trị bằng liệu pháp đông máu bằng tia laser hoặc phẫu thuật ghép da vách ngăn mũi (phẫu thuật tạo hình vách ngăn mũi).
+- Gần đây, timolol dùng ngoài da và [sirolimus](https://dermnetnz.org/topics/sirolimus) 0,1% trong dầu khoáng đều được báo cáo là có tác dụng làm giảm chảy máu mũi và nhu cầu truyền máu.
+- Giãn mao mạch hoặc tổn thương da có thể được điều trị bằng phương pháp đốt hoặc phẫu thuật bằng tia laser nhuộm màu, tốt nhất nên được thực hiện bởi bác sĩ da liễu.
+- Xuất huyết tiêu hóa gây thiếu máu được điều trị bằng liệu pháp bổ sung sắt. Nếu không hiệu quả, có thể truyền máu và điều trị nội soi .
+- Thuốc chống tân sinh mạch đang được nghiên cứu để điều trị HHT. Chúng bao gồm việc sử dụng tại chỗ và toàn thân kháng thể đơn dòng chống lại yếu tố tăng trưởng nội mô mạch máu (VGEF), bevacizumab.

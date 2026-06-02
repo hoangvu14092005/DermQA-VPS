@@ -1,0 +1,50 @@
+# Ban đỏ nhiễm độc ở trẻ sơ sinh — thông tin bổ sung
+
+Thể loại:
+
+Phát ban
+
+SNOMED CT:
+
+240302002
+
+**[Phát ban](https://dermnetnz.org/topics/topics?category=Rashes)**
+
+
+# **Ban đỏ nhiễm độc ở trẻ sơ sinh**
+
+Tác giả: Tiến sĩ Diana Purvis, Bác sĩ da liễu nhi khoa, Auckland, New Zealand, 2011.
+
+---
+
+## Ban đỏ nhiễm độc ở trẻ sơ sinh là gì?
+
+Ban đỏ nhiễm độc ở trẻ sơ sinh (còn gọi là ban đỏ nhiễm độc và ban đỏ nhiễm độc sơ sinh) là một tình trạng phổ biến và lành tính thường gặp ở trẻ sơ sinh. Tình trạng này ảnh hưởng đến một nửa số trẻ sơ sinh đủ tháng nhưng ít gặp hơn ở trẻ sinh non. Không có sự khác biệt về giới tính hay chủng tộc , mặc dù có ý kiến ​​cho rằng tình trạng này có thể chưa được nhận biết đầy đủ ở trẻ sơ sinh có làn da sẫm màu.
+
+---
+
+## Đặc điểm lâm sàng của ban đỏ nhiễm độc ở trẻ sơ sinh
+
+Hầu hết các trường hợp ban đỏ nhiễm độc ở trẻ sơ sinh bắt đầu trong vài ngày đầu sau khi sinh, mặc dù có thể khởi phát muộn nhất là khi trẻ được hai tuần tuổi.
+Ban đỏ nhiễm độc ở trẻ sơ sinh biểu hiện bằng nhiều dạng kết hợp khác nhau của các mảng đỏ (mảng đỏ phẳng), sẩn (nốt sần nhỏ) và mụn mủ. Ban đỏ thường tăng rồi giảm trong vài ngày, và hiếm khi một tổn thương kéo dài hơn một ngày.
+Ban đỏ nhiễm độc ở trẻ sơ sinh thường bắt đầu ở mặt và lan ra thân mình và chân tay. Lòng bàn tay và lòng bàn chân thường không bị ảnh hưởng.
+Trẻ sơ sinh vẫn khỏe mạnh.
+![Ban đỏ nhiễm độc ở trẻ sơ sinh](https://dermnetnz.org/assets/Uploads/site-age-specific/e-toxicum1.jpg)
+![Ban đỏ nhiễm độc ở trẻ sơ sinh](https://dermnetnz.org/assets/Uploads/site-age-specific/e-toxicum2.jpg)
+
+---
+
+## Chẩn đoán bệnh ban đỏ nhiễm độc ở trẻ sơ sinh được thực hiện như thế nào?
+
+Chẩn đoán ban đỏ nhiễm độc ở trẻ sơ sinh thường được thực hiện dựa trên lâm sàng. Mô học từ các mẫu [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) lấy từ các mảng da phẳng cho thấy sự thâm nhiễm lan tỏa của bạch cầu ái toan và bạch cầu trung tính ( tế bào viêm ) ở lớp hạ bì trên ; từ các sẩn cho thấy sự thâm nhiễm bạch cầu ái toan xung quanh nang lông , và từ các tổn thương mụn mủ cho thấy các mụn mủ dưới giác mạc quanh nang lông chứa chủ yếu là bạch cầu ái toan.
+Nguyên nhân gây ban đỏ độc hại ở trẻ sơ sinh vẫn chưa được biết rõ. Một số giả thuyết đã được đưa ra, bao gồm phản ứng với các kích thích cơ học và nhiệt, phản ứng 'dị ứng' hoặc một dạng [bệnh ghép chống vật chủ](https://dermnetnz.org/topics/graft-versus-host-disease) nhẹ .
+Mặc dù ban đỏ nhiễm độc ở trẻ sơ sinh là lành tính và không cần điều trị, nhưng cần xem xét một số chẩn đoán phân biệt. Bao gồm:
+- Nhiễm trùng ( [viêm nang lông](https://dermnetnz.org/topics/folliculitis) , [chốc lở](https://dermnetnz.org/topics/impetigo) , [bệnh listeriosis](https://dermnetnz.org/topics/listeriosis) , [bệnh nấm candida](https://dermnetnz.org/topics/candida) da bẩm sinh , [herpes simplex](https://dermnetnz.org/topics/herpes-simplex) , [thủy đậu](https://dermnetnz.org/topics/chickenpox) và cytomegalovirus) [](https://dermnetnz.org/topics/candida) [](https://dermnetnz.org/topics/herpes-simplex) [](https://dermnetnz.org/topics/chickenpox)
+- [Bệnh hắc tố mụn mủ thoáng qua ở trẻ sơ sinh](https://dermnetnz.org/topics/transient-neonatal-pustular-melanosis)
+- [Bệnh mụn mủ ở trẻ sơ sinh](https://dermnetnz.org/topics/acropustulosis-of-infancy)
+- [Miliaria rubra](https://dermnetnz.org/topics/miliaria)
+- [Viêm mủ tăng bạch cầu ái toan](https://dermnetnz.org/topics/eosinophilic-pustular-folliculitis) ( hội chứng Ofuji ở trẻ sơ sinh )
+- [Tiểu không kiểm soát sắc tố](https://dermnetnz.org/topics/incontinentia-pigmenti)
+- Hội chứng Omenn
+- [Bệnh histiocytosis tự phục hồi](https://dermnetnz.org/topics/langerhans-cell-histiocytosis) .
+Những bệnh này thường được nhận biết thông qua các đặc điểm lâm sàng, mặc dù trong một số trường hợp, chẩn đoán có thể được hỗ trợ bằng [xét nghiệm Tzanck](https://dermnetnz.org/topics/tzanck-smear) hoặc [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) .

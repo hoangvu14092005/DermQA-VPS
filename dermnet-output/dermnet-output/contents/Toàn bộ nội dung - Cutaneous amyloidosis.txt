@@ -1,0 +1,176 @@
+# Bệnh lắng đọng amyloid ở da — thông tin bổ sung
+
+Thể loại:
+
+Bệnh hệ thống
+
+SNOMED CT:
+
+17602002, 201337008, 111032003, 716704007, 718105008, 402457001, 111390002, 402463003
+
+**[Bệnh hệ thống](https://dermnetnz.org/topics/topics?category=Systemic+diseases)**
+
+
+# **Bệnh lắng đọng tinh bột ở da**
+
+Tác giả: Bác sĩ Tim Aung, Bác sĩ Chăm sóc Sức khỏe Ban đầu, Úc; Bác sĩ Ian Coulson, Bác sĩ Da liễu, Vương quốc Anh. Tháng 6 năm 2022. Trước đó: Vanessa Ngan, Biên tập viên, 2003. Biên tập bởi Gus Mitchell
+
+---
+
+## Bệnh lắng đọng tinh bột là gì?
+
+Bệnh lắng đọng tinh bột (amyloidosis) là thuật ngữ dùng để chỉ một nhóm bệnh lý trong đó các protein không hòa tan ( amyloid ) tích tụ trong một hoặc nhiều cơ quan của cơ thể, gây rối loạn chức năng hệ thống. Các cơ quan thường bị ảnh hưởng bao gồm tim, thận, đường tiêu hóa, hệ thần kinh và da.
+Bệnh lắng đọng tinh bột ở da còn được gọi là bệnh lắng đọng tinh bột ở da . Trong tình trạng này, tinh bột hoặc các protein giống tinh bột lắng đọng ở lớp hạ bì.
+
+### Các loại bệnh lắng đọng amyloid
+Có ba loại bệnh lắng đọng tinh bột quan trọng.
+- Bệnh lắng đọng tinh bột cục bộ — bệnh lắng đọng tinh bột da nguyên phát được thảo luận dưới đây
+- [Bệnh lắng đọng tinh bột hệ thống](https://dermnetnz.org/topics/systemic-amyloidosis)
+- Bệnh lắng đọng tinh bột do di truyền : Một dạng di truyền hiếm gặp, thường gây ra bệnh cơ tim và bệnh thần kinh ở tuổi trung niên Dạng phổ biến nhất, được gọi là bệnh lắng đọng amyloid ATTR, là do đột biến ở gen transthyretin (TTR) trên nhiễm sắc thể số 5 và dẫn đến protein transthyretin ở gan bị lỗi .
+- Một dạng di truyền hiếm gặp, thường gây ra bệnh cơ tim và bệnh thần kinh ở tuổi trung niên
+- Dạng phổ biến nhất, được gọi là bệnh lắng đọng amyloid ATTR, là do đột biến ở gen transthyretin (TTR) trên nhiễm sắc thể số 5 và dẫn đến protein transthyretin ở gan bị lỗi .
+
+---
+
+## Bệnh lắng đọng tinh bột nguyên phát ở da là gì?
+
+Bệnh lắng đọng amyloid da nguyên phát (PCA), còn được gọi là bệnh lắng đọng amyloid da nguyên phát khu trú, bao gồm một nhóm các bệnh lý da đặc trưng bởi sự lắng đọng ngoại bào của protein amyloid dị loại trên da trước đây bình thường, không liên quan đến nội tạng. Bệnh này khác biệt và không liên quan đến bệnh lắng đọng amyloid toàn thân . Dựa trên hình thái và mô học , PCA được phân loại thành:
+- Bệnh lắng đọng tinh bột địa y (LA)
+- [Bệnh lắng đọng tinh bột dạng dát](https://dermnetnz.org/topics/macular-amyloidosis) (MA)
+- Bệnh lắng đọng tinh bột hai pha (BA) ngụ ý sự cùng tồn tại của cả bệnh lắng đọng tinh bột dạng vảy và dạng vảy điểm
+- Bệnh lắng đọng tinh bột dạng nốt (NA).
+![Sắc tố gợn sóng ở phần trên ngực do bệnh lắng đọng tinh bột dạng chấm](https://dermnetnz.org/assets/collection/Amyloidosis/amyloidosis-0013.jpg)
+![Sẩn nâu rám nắng có vảy, một số xếp thành hàng trong bệnh lắng đọng tinh bột dạng lichen ở chân](https://dermnetnz.org/assets/collection/Amyloidosis/amyloidosis-0003.jpg)
+![Tổn thương rộng và hợp lưu của bệnh lắng đọng tinh bột dạng lichen ở cẳng chân](https://dermnetnz.org/assets/collection/Amyloidosis/amyloidosis-0004.jpg)
+![Bệnh lắng đọng tinh bột dạng dát có sắc tố gợn sóng ở phần lưng trên](https://dermnetnz.org/assets/collection/Amyloidosis/amyloidosis-0005.jpg)
+![Các nốt sáp màu vàng của bệnh lắng đọng amyloid ở đùi](https://dermnetnz.org/assets/collection/Amyloidosis/amyloidosis-0011.jpg)
+![Gãi nhiều lần vào vùng bị đau tê bì dẫn đến bệnh lắng đọng tinh bột ở vùng lưng](https://dermnetnz.org/assets/collection/Amyloidosis/amyloidosis-0014.jpg)
+[Nhấp vào đây để xem thêm hình ảnh](https://dermnetnz-org.translate.goog/images/amyloidosis-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+Ngoài ra còn có một số biến thể không điển hình hiếm gặp , chẳng hạn như:
+- [Bệnh thoái hóa sắc tố da do tinh bột](https://dermnetnz.org/topics/amyloidosis-cutis-dyschromica)
+- Bệnh amyloidosis giống Poikiloderma
+- Bệnh amyloidosis dạng liken bóng nước
+- [Rối loạn sắc tố](https://dermnetnz.org/topics/incontinentia-pigmenti) – giống như amyloid ở điểm vàng. [](https://dermnetnz.org/topics/incontinentia-pigmenti)
+
+---
+
+## Ai mắc bệnh lắng đọng tinh bột nguyên phát ở da?
+
+- Bệnh lắng đọng tinh bột nguyên phát ở da thường xảy ra ở những người [có loại da](https://dermnetnz.org/topics/skin-phototype) III–IV ở Châu Á, Nam Mỹ và Trung Đông.
+- Bệnh hiếm gặp ở những người gốc Âu (da trắng). Bệnh lắng đọng tinh bột dạng lichen rất phổ biến ở khu vực Nam Trung Quốc và Đông Nam Á, và cũng phổ biến hơn các phân nhóm khác trên toàn thế giới. Thể hai pha chiếm 15% bệnh nhân PCA.
+- Bệnh lắng đọng tinh bột dạng nốt hiếm gặp hơn nhiều nhưng lại thu hút nhiều nghiên cứu hơn thông qua sinh thiết và công bố vì nó có nhiều điểm tương đồng với nhiều khối u da khác nhau.
+- Phổ biến nhất, [bệnh lắng đọng tinh bột dạng dát](https://dermnetnz.org/topics/macular-amyloidosis) xảy ra ở thập kỷ thứ 4, bệnh lắng đọng tinh bột dạng lichen ở thập kỷ thứ 5 và bệnh lắng đọng tinh bột dạng nốt ở thập kỷ thứ 6.
+- Bệnh lắng đọng tinh bột nguyên phát ở da ảnh hưởng đến cả hai giới, nhưng MA phổ biến ở phụ nữ gấp bốn lần.
+
+---
+
+## Nguyên nhân gây ra bệnh lắng đọng tinh bột nguyên phát ở da là gì?
+
+Nguyên nhân chính xác của PCA vẫn chưa rõ ràng, đặc biệt là ở cấp độ phân tử của sự hình thành sợi amyloid . Tuy nhiên, bệnh liken và bệnh amyloidosis dạng dát được mô tả là có nguồn gốc từ tế bào sừng , hậu quả của quá trình apoptosis của tế bào sừng với protein amyloid được sản xuất tại chỗ.
+Gãi, chà xát và tiếp xúc với ánh nắng mặt trời được cho là những yếu tố góp phần gây bệnh. Xu hướng di truyền xảy ra ở 10–15% trường hợp, và sự liên quan của thụ thể oncostatin-M (OSMR) và đột biến thụ thể IL-31 A đã được báo cáo.
+Trong bệnh lắng đọng amyloid dạng nốt, các chất lắng đọng chuỗi nhẹ amyloid (AL) được tạo ra từ sự tăng sinh tế bào plasma tại chỗ .
+
+---
+
+## Các đặc điểm lâm sàng của bệnh lắng đọng tinh bột nguyên phát ở da là gì?
+
+Các đặc điểm lâm sàng của bệnh lắng đọng tinh bột nguyên phát ở da sẽ phụ thuộc vào từng phân nhóm.
+Bệnh lắng đọng tinh bột địa y
+- Đặc trưng bởi các sẩn sừng hóa riêng biệt có kích thước từ 2–3 mm , màu đỏ đến nâu sẫm (tùy thuộc vào loại da của từng người) ,
+- Thường xuất hiện ở phía trước chân và ít khi xuất hiện ở bề mặt duỗi của chi trên, lưng và đầu.
+- Một số sẩn có thể kết hợp lại tạo thành các mảng lớn có hình dạng giống đá cuội.
+- Hiếm khi được báo cáo ở các vị trí như mí mắt, cuộn sống mũi, lưỡi và vùng xương cùng.
+- [Ngứa](https://dermnetnz.org/topics/pruritus) dữ dội là triệu chứng nổi bật.
+[Bệnh lắng đọng tinh bột dạng dát](https://dermnetnz.org/topics/macular-amyloidosis)
+- Đặc trưng bởi các mảng sắc tố màu đỏ đến sẫm được sắp xếp theo dạng gợn sóng hoặc lưới xuất hiện ở phần lưng trên, ít gặp hơn ở ngực và chi trên.
+- [Ngứa](https://dermnetnz.org/topics/pruritus) ở MA ít dữ dội hơn ở LA.
+Bệnh lắng đọng tinh bột dạng nốt
+- Đặc trưng bởi các nốt đơn độc hoặc nhiều nốt màu hổ phách hoặc nâu (5–20 mm).
+- Xuất hiện ở các vị trí đầu chi ( chi xa , đầu và cổ) và ít gặp hơn ở các bộ phận khác của cơ thể.
+[Nhấp vào đây để xem hình ảnh](https://dermnetnz-org.translate.goog/images/amyloidosis-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+
+---
+
+## Biến chứng của bệnh lắng đọng tinh bột nguyên phát ở da là gì?
+
+Cả bệnh liken và bệnh lắng đọng tinh bột dạng dát đều lành tính và không lan sang các bộ phận khác của cơ thể hoặc các cơ quan nội tạng.
+- Căng thẳng về mặt tâm lý có thể phát sinh do da bị biến dạng và ngứa.
+- Các tổn thương dạng nốt có khả năng tiến triển thành bệnh lắng đọng tinh bột toàn thân ở khoảng 10% trường hợp.
+
+---
+
+## Bệnh lắng đọng tinh bột nguyên phát ở da được chẩn đoán như thế nào?
+
+Chẩn đoán các phân nhóm PCA có thể được thực hiện dựa trên biểu hiện lâm sàng đặc trưng với [ngứa](https://dermnetnz.org/topics/pruritus) ở các vị trí điển hình (ví dụ như các nốt sẩn ngứa ở cẳng chân đối với LA và các nốt tăng sắc tố ngứa ở phần trên lưng đối với MA).
+[Sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) có thể xác định các chất lắng đọng amyloid trong da trên các lát cắt nhuộm H & E, nhuộm đỏ Congo dưới ánh sáng phân cực (lưỡng chiết màu xanh táo) và miễn dịch mô học.
+Những phát hiện mô học điển hình cho thấy:
+- Bệnh lắng đọng amyloid ở lichen bao gồm các mảng amyloid lớn tập trung ở nhú bì , làm dịch chuyển các gờ lưới mà không ảnh hưởng đến các cấu trúc phụ và mạch máu. Có thể thấy tăng sinh gai biểu bì , tăng sừng , u nhú và tăng sinh hạt .
+- [Bệnh lắng đọng amyloid dạng dát](https://dermnetnz.org/topics/macular-amyloidosis) thường biểu hiện bằng các mảng nhỏ protein amyloid ở lớp hạ bì trên cùng với lớp biểu bì bình thường được bảo tồn tương đối.
+- Bệnh lắng đọng amyloid dạng nốt cho thấy các chất lắng đọng amyloid xuyên suốt toàn bộ lớp hạ bì đến lớp dưới da , liên quan đến các phần phụ của da và mạch máu.
+
+---
+
+## Chẩn đoán phân biệt bệnh lắng đọng tinh bột nguyên phát ở da là gì?
+
+Bệnh amyloidosis lichen, đặc biệt là ở giai đoạn đầu hoặc nhẹ, có thể khó phân biệt với các bệnh lý da sẩn ngứa khác , chẳng hạn như:
+- [Ngứa cục](https://dermnetnz.org/topics/nodular-prurigo)
+- [Lichen phẳng phì đại](https://dermnetnz.org/topics/lichen-planus)
+- [Lichen simplex chronicus](https://dermnetnz.org/topics/lichen-simplex)
+- [Phù niêm trước xương chày](https://dermnetnz.org/topics/pretibial-myxoedema)
+- [Viêm da sẩn ngứa ở trước xương chày](https://dermnetnz.org/topics/pretibial-pruritic-papular-dermatitis) .
+Bệnh lắng đọng tinh bột dạng dát cần được phân biệt với các rối loạn tăng sắc tố khác, chẳng hạn như:
+- [Tăng sắc tố sau viêm](https://dermnetnz.org/topics/postinflammatory-hyperpigmentation)
+- [Tăng sắc tố do thuốc](https://dermnetnz.org/topics/drug-induced-pigmentation)
+- [Lang ben](https://dermnetnz.org/topics/pityriasis-versicolor)
+- [Lichen phẳng teo](https://dermnetnz.org/topics/lichen-planus)
+- [Viêm da tiếp xúc do ánh sáng độc hại](https://dermnetnz.org/topics/photocontact-dermatitis)
+- [Ban đỏ dyschromicum perstans](https://dermnetnz.org/topics/erythema-dyschromicum-perstans)
+- [Đau thần kinh tọa (tuy nhiên, có thể](https://dermnetnz.org/topics/notalgia-paraesthetica) hình thành amyloid do gãi)
+- [Poikiloderma của Civatte](https://dermnetnz.org/topics/poikiloderma-of-civatte) .
+Bệnh amyloidosis dạng nốt có thể bắt chước nhiều loại nốt sần ở da và dưới da , bao gồm:
+- [Bệnh sarcoidosis](https://dermnetnz.org/topics/sarcoidosis)
+- [U nang](https://dermnetnz.org/topics/cutaneous-cysts-and-pseudocysts)
+- Bệnh tân sinh , bao gồm [ung thư biểu mô tế bào đáy](https://dermnetnz.org/topics/basal-cell-carcinoma)
+- [Bệnh nấm mycosis fungoides](https://dermnetnz.org/topics/mycosis-fungoides)
+- [U lympho giả da](https://dermnetnz.org/topics/cutaneous-pseudolymphoma)
+- [Mili keo](https://dermnetnz.org/topics/colloid-milium)
+- [U cơ trơn](https://dermnetnz.org/topics/leiomyoma) .
+
+---
+
+## Phương pháp điều trị bệnh lắng đọng tinh bột nguyên phát ở da là gì?
+
+Do thiếu các thử nghiệm có đối chứng, không có chiến lược điều trị nào được chấp nhận. Tất cả các liệu pháp đều có sự kháng trị và tái phát. Điều trị tập trung vào việc giảm thiểu biến dạng thẩm mỹ và [ngứa](https://dermnetnz.org/topics/pruritus) .
+
+### Các biện pháp chung
+- [](https://dermnetnz.org/topics/emollients-and-moisturisers) Sử dụng [kem dưỡng ẩm và chất làm mềm](https://dermnetnz.org/topics/emollients-and-moisturisers)
+- Tránh trầy xước
+
+### Điều trị cụ thể
+
+#### Điều trị tại chỗ
+- [Corticosteroid :](https://dermnetnz.org/topics/systemic-steroids) Corticosteroid bôi ngoài da mạnh hoặc siêu mạnh được sử dụng rộng rãi và có hiệu quả hơn khi bịt kín. Chúng có thể được sử dụng với [các tác nhân tiêu sừng](https://dermnetnz.org/topics/keratolytic-agents) như urê, axit salicylat hoặc axit lactic, giúp cải thiện việc loại bỏ tình trạng sừng hóa , liken hóa và làm phẳng các sẩn.
+- Chúng có thể được sử dụng với [các tác nhân tiêu sừng](https://dermnetnz.org/topics/keratolytic-agents) như urê, axit salicylat hoặc axit lactic, giúp cải thiện việc loại bỏ tình trạng sừng hóa , liken hóa và làm phẳng các sẩn.
+- [Chất ức chế calcineurin](https://dermnetnz.org/topics/calcineurin-inhibitors)
+- [Retinoid](https://dermnetnz.org/topics/topical-retinoids)
+- Dimethyl sulfoxide (DMSO 10%) và menthol 2%
+- [Thuốc chống ngứa](https://dermnetnz.org/topics/pruritus) như [capsaicin](https://dermnetnz.org/topics/capsaicin) hoặc [doxepin](https://dermnetnz.org/topics/tricyclic-antidepressants) có thể được thử nghiệm, nhưng bằng chứng hỗ trợ của nó còn hạn chế Việc sử dụng [thuốc kháng histamine an thần](https://dermnetnz.org/topics/antihistamines) vào ban đêm có vẻ như làm giảm việc gãi hơn là ngứa
+- Việc sử dụng [thuốc kháng histamine an thần](https://dermnetnz.org/topics/antihistamines) vào ban đêm có vẻ như làm giảm việc gãi hơn là ngứa
+- [Tiêm corticosteroid vào tổn thương](https://dermnetnz.org/topics/intralesional-steroid-injection) hoặc [phẫu thuật lạnh](https://dermnetnz.org/topics/cryotherapy) có hoặc không kết hợp với steroid tại chỗ tùy thuộc vào mức độ tổn thương và khả năng dung nạp.
+
+#### Điều trị toàn thân/đường uống
+Có ích cho các tổn thương rộng khi các phương pháp điều trị tại chỗ không khả thi hoặc không có hiệu quả — (được sử dụng ngoài chỉ định):
+- Retinoid đường uống (ví dụ [acitretin](https://dermnetnz.org/topics/acitretin) , [alitretinoin](https://dermnetnz.org/topics/alitretinoin) )
+- Thuốc chống ung thư và điều hòa miễn dịch (ví dụ như [cyclophosphamide](https://dermnetnz.org/topics/cyclophosphamide) , [ciclosporin](https://dermnetnz.org/topics/ciclosporin) và [dupilumab](https://dermnetnz.org/topics/dupilumab) ) đã được khuyến nghị, nhưng việc sử dụng chúng chỉ trong những trường hợp ngoại lệ.
+
+#### Điều trị vật lý
+- [Liệu pháp quang học](https://dermnetnz.org/topics/phototherapy) : [PUVA](https://dermnetnz.org/topics/puva-photochemotherapy) và [UVB dải hẹp](https://dermnetnz.org/topics/narrowband-uvb-phototherapy)
+- [Liệu pháp laser](https://dermnetnz.org/topics/lasers-in-dermatology) : [CO2 phân đoạn](https://dermnetnz.org/topics/fractional-laser-treatment) , [Er:YAG](https://dermnetnz.org/topics/eryag-laser-treatment) , [Nd:YAG](https://dermnetnz.org/topics/ndyag-laser-treatment) và [Laser nhuộm xung](https://dermnetnz.org/topics/pulsed-dye-laser-treatment)
+- [Mài mòn da](https://dermnetnz.org/topics/dermabrasion) , [đốt và nạo](https://dermnetnz.org/topics/curettage-and-cautery) , hoặc [cắt bỏ](https://dermnetnz.org/topics/excision-of-skin-lesions) (tùy thuộc vào vị trí và mức độ tổn thương).
+
+---
+
+## Hậu quả của bệnh lắng đọng tinh bột nguyên phát ở da là gì?
+
+Bệnh lắng đọng tinh bột nguyên phát ở da thường kháng trị và nếu có cải thiện thì cũng có khả năng tái phát khi ngừng điều trị.
+[Nhấp vào đây để xem hình ảnh](https://dermnetnz-org.translate.goog/images/amyloidosis-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)

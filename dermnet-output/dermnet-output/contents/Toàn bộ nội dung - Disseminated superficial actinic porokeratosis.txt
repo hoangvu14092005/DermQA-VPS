@@ -1,0 +1,99 @@
+# Bệnh porokeratosis actinic nông lan tỏa — thông tin bổ sung
+
+Thể loại:
+
+Di truyền
+
+SNOMED CT:
+
+41495000
+
+**[Di truyền](https://dermnetnz.org/topics/topics?category=Genetic)**
+
+
+# **Bệnh porokeratosis actinic nông lan tỏa**
+
+Tác giả: Tiến sĩAmanda Oakley, Bác sĩ da liễu, New Zealand, 1997. Cập nhật năm 2017; bản cập nhật nhỏ tiếp theo vào tháng 6 năm 2023
+
+---
+
+## Bệnh porokeratosis nông lan tỏa do ánh sáng là gì ?
+
+Bệnh porokeratosis actinic nông lan tỏa , hay DSAP, là một rối loạn sừng hóa di truyền gây ra các mảng khô riêng biệt trên cánh tay và chân.
+DSAP là một loại "đốm mặt trời" di truyền đặc biệt. Tên gọi porokeratosis có nghĩa là lỗ chân lông có vảy và là một cách gọi sai vì porokeratosis không liên quan đến lỗ chân lông.
+![Không có caption](https://dermnetnz.org/assets/Uploads/scaly/dsap1.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/scaly/dsap2.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/scaly/dsap3.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/dsap-01.jpg)
+![Cận cảnh DSAP](https://dermnetnz.org/assets/Uploads/dsap-3.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/dsap-03.jpg)
+
+---
+
+## Ai dễ mắc bệnh porokeratosis nông lan tỏa ?
+
+DSAP thường ảnh hưởng đến người gốc Âu, mặc dù cũng có báo cáo về việc nó ảnh hưởng đến những người thuộc các chủng tộc khác. Bệnh phổ biến ở phụ nữ hơn nam giới.
+Độ tuổi trung bình mà bệnh nhân lần đầu phát hiện DSAP là khoảng 35–40 tuổi và tần suất mắc bệnh trong các gia đình bị ảnh hưởng tăng dần theo tuổi. Bệnh hiếm gặp ở trẻ em.
+DSAP có thể xảy ra ở những bệnh nhân [suy giảm miễn dịch](https://dermnetnz.org/topics/drug-induced-immunosuppression) , bao gồm cả sau khi ghép tạng. Nó cũng có thể khởi phát do tiếp xúc với ánh nắng mặt trời, [liệu pháp quang trị liệu](https://dermnetnz.org/topics/phototherapy) , chấn thương, nhiễm trùng hoặc bệnh lý toàn thân .
+
+---
+
+## Nguyên nhân nào gây ra chứng porokeratosis bề mặt actinic do thụ tinh ?
+
+Hội chứng DSAP là do đột biến gen . Xu hướng mắc hội chứng DSAP được di truyền theo đặc điểm trội trên nhiễm sắc thể thường , nghĩa là trung bình một nửa số con của cha mẹ bị ảnh hưởng cũng sẽ có xu hướng mắc hội chứng này.
+Các gen gây bệnh porokeratosis bao gồm các gen trên con đường mevalonate là MVD , MVK, FDPS, PMVK và SART3 . Những gen này làm giảm cholesterol ở các vùng da bị ảnh hưởng.
+
+---
+
+## Các đặc điểm lâm sàng của bệnh porokeratosis nông do ánh sáng là gì ?
+
+DSAP chủ yếu ảnh hưởng đến cẳng tay và cẳng chân ở cả hai bên và thường xuất hiện ở cẳng chân. Có thể có ít hoặc vô số tổn thương. Dưới 10% số người bị ảnh hưởng ở trán và má, và DSAP hầu như không bao giờ xuất hiện ở da đầu, lòng bàn tay hoặc lòng bàn chân. Nó có xu hướng nổi bật hơn vào mùa hè và có thể ít nổi bật hơn vào mùa đông. Các tổn thương mới có thể được kích hoạt bởi tia cực tím từ đèn sưởi.
+Các tổn thương bao gồm nhiều mảng tròn, hình khuyên hoặc đa vòng không đều , mỗi mảng có viền sừng nhô lên. Độ rõ của viền này tăng lên đáng kể khi sử dụng dung dịch nhuộm da nhân tạo ( [dihydroxyacetone](https://dermnetnz.org/topics/dihydroxyacetone) ). [](https://dermnetnz.org/topics/dihydroxyacetone)
+Tổn thương DSAP nhỏ nhất là sẩn hình nón kích thước 1–3 mm , màu da, màu nâu đỏ hoặc nâu. Tổn thương này bao quanh nang lông chứa nút sừng (có vảy). Các mảng lớn hơn có vòng sừng sắc nhọn, hơi nhô lên, dày một phần milimét, đường kính từ 10 mm trở lên. Da bên trong vòng mỏng đi và hơi đỏ hoặc hơi nâu, và có thể nhìn thấy một vòng nhạt màu ngay bên trong gờ. Bản thân gờ thường có màu nâu sẫm hơn phần còn lại của tổn thương. Vùng trung tâm thường nhạt màu và nhẵn, nhưng có thể đỏ, có vảy, khô hoặc có nút nang lông có vảy .
+Không có mồ hôi trong các tổn thương. Mặc dù thường không có triệu chứng , nhưng tiếp xúc với ánh nắng mặt trời hoặc nhiệt độ cao có thể khiến chúng ngứa hoặc châm chích.
+
+---
+
+## Những biến chứng của DSAP là gì?
+
+Sự phát triển của [ung thư biểu mô tế bào vảy](https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma) (SCC) trong tổn thương DSAP là mối quan tâm chính. Điều này không phổ biến (<10% số người mắc DSAP phát triển SCC). Tuy nhiên, nhiều bệnh nhân DSAP đã tiếp xúc đáng kể với ánh nắng mặt trời và cũng có thể bị [dày sừng quang hóa](https://dermnetnz.org/topics/actinic-keratosis) và các dạng [ung thư da](https://dermnetnz.org/topics/skin-cancer) khác (đặc biệt là [ung thư biểu mô tế bào đáy](https://dermnetnz.org/topics/basal-cell-carcinoma) ). SCC biểu hiện dưới dạng một mảng hoặc nốt sần đơn độc, to, mềm, có vảy hoặc loét .
+
+---
+
+## DSAP được chẩn đoán như thế nào?
+
+Chẩn đoán bệnh porokeratosis thường dựa vào lâm sàng, với sự trợ giúp của [soi da](https://dermnetnz.org/topics/dermoscopy) . DSAP đôi khi được chẩn đoán bằng cách tìm các đặc điểm đặc trưng trên [bệnh lý](https://dermnetnz.org/topics/porokeratosis-pathology) , trong đó viền vảy của DSAP được mô tả là phiến sừng parakeratotic . Chẩn đoán cũng có thể bị bỏ sót trên [sinh thiết](https://dermnetnz.org/topics/skin-biopsy) nếu mẫu bệnh phẩm không bao gồm viền, định hướng kém, hoặc bác sĩ bệnh học không chú ý đến gờ sừng thấy trên lâm sàng. [](https://dermnetnz.org/topics/skin-biopsy)
+
+---
+
+## Chẩn đoán phân biệt của DSAP là gì?
+
+Có một số loại bệnh [porokeratosis](https://dermnetnz.org/topics/porokeratosis) và chúng có thể xảy ra ở các thành viên trong gia đình hoặc ở bệnh nhân mắc DSAP.
+DSAP đôi khi bị nhầm lẫn với nhiều [chứng dày sừng ánh sáng](https://dermnetnz.org/topics/actinic-keratosis) , nhưng dày sừng ánh sáng có nhiều khả năng xuất hiện ở mặt và tay và có vảy ở trung tâm hơn là vảy ở ngoại vi .
+
+---
+
+## Phương pháp điều trị DSAP là gì?
+
+Thuốc lovastatin 2% bôi ngoài da không theo chỉ định có hoặc không có cholesterol bôi ngoài da là phương pháp điều trị DSAP hứa hẹn nhất được mô tả cho đến nay.
+Trong những năm qua, các tác nhân khác đã được thử nghiệm bao gồm:
+- [Liệu pháp lạnh](https://dermnetnz.org/topics/cryotherapy)
+- [Kem 5-Fluorouracil](https://dermnetnz.org/topics/5-fluorouracil-cream)
+- [Kem Imiquimod](https://dermnetnz.org/topics/imiquimod)
+- [Kem Tretinoin](https://dermnetnz.org/topics/topical-retinoids)
+- [Gel Ingenol mebutate](https://dermnetnz.org/topics/ingenol-mebutate-gel)
+- [Kem axit alpha hydroxy](https://dermnetnz.org/topics/alpha-hydroxy-acid-facial-treatments)
+- [Thuốc mỡ Calcipotriol](https://dermnetnz.org/topics/calcipotriol)
+- [Gel Diclofenac](https://dermnetnz.org/topics/diclofenac-gel-for-actinic-keratoses)
+- [Acitretin uống](https://dermnetnz.org/topics/acitretin)
+- [Liệu pháp quang động](https://dermnetnz.org/topics/photodynamic-therapy)
+- [Liệu pháp tia Grenz](https://dermnetnz.org/topics/grenz-ray-therapy)
+- [Điều trị bằng tia laser](https://dermnetnz.org/topics/lasers-in-dermatology) .
+Cho đến nay, chưa có phương pháp điều trị nào chứng minh được hiệu quả lâu dài. Hầu hết mọi người chỉ chọn phương pháp đông lạnh nhẹ các tổn thương lớn và tái khám khi cần thiết, đồng thời sử dụng [kem dưỡng ẩm](https://dermnetnz.org/topics/emollients-and-moisturisers) để giảm cảm giác khô.
+Nếu DSAP được gây ra bởi sự ức chế miễn dịch do thuốc , việc ngừng thuốc được báo cáo là có thể làm thuyên giảm DSAP.
+
+---
+
+## Chống nắng
+
+[Việc hạn chế tiếp xúc với ánh nắng mặt trời](https://dermnetnz.org/topics/sun-protection) bằng cách mặc áo dài tay, váy hoặc quần dài và sử dụng [kem chống nắng](https://dermnetnz.org/topics/topical-sunscreen-agents) cho chân và tay được cho là có thể làm giảm hoặc trì hoãn sự phát triển của các tổn thương mới.

@@ -1,0 +1,57 @@
+# Ung thư biểu mô tuyến mồ hôi — thông tin bổ sung
+
+Thể loại:
+
+Tổn thương (ung thư)
+
+SNOMED CT:
+
+254708001
+
+**[Tổn thương (ung thư)](https://dermnetnz.org/topics/topics?category=Lesions+(cancerous))**
+
+
+# **Ung thư biểu mô tuyến mồ hôi**
+
+Tác giả: Tiến sĩ Kenneth Wong, Bác sĩ da liễu, Bệnh viện Green Lane, Auckland, New Zealand, 2008.
+
+---
+
+## Ung thư biểu mô tuyến mồ hôi là gì?
+
+Ung thư biểu mô tuyến mồ hôi là một loại [ung thư da](https://dermnetnz.org/topics/skin-cancer) hiếm gặp phát sinh từ tuyến mồ hôi .
+![Không có caption](https://dermnetnz.org/assets/Uploads/lesions/porocarcinoma1.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/lesions/porocarcinoma2.jpg)
+![Ung thư biểu mô xương đùi](https://dermnetnz.org/assets/collection/Porocarcinoma/porocarcinoma-00003.jpg)
+
+---
+
+## Ai mắc phải ung thư biểu mô tuyến mồ hôi?
+
+Không có xu hướng mắc bệnh ở bất kỳ nhóm chủng tộc nào. Ung thư biểu mô lỗ chân lông ngoại tiết chủ yếu xảy ra ở người cao tuổi, với tỷ lệ mắc bệnh gần như ngang nhau ở cả hai giới. Không giống như các dạng ung thư da phổ biến hơn , ung thư này không liên quan đến việc tiếp xúc với ánh nắng mặt trời.
+
+---
+
+## Ung thư biểu mô tuyến mồ hôi biểu hiện như thế nào?
+
+Ung thư biểu mô lỗ chân lông ngoại tiết thường là khối u phát triển chậm . Có thể mất nhiều năm mới chẩn đoán được vì ung thư biểu mô lỗ chân lông ngoại tiết có thể giống với các bệnh lý da khác. Nó thường bị chẩn đoán nhầm là [dày sừng tiết bã](https://dermnetnz.org/topics/seborrhoeic-keratosis) , [u hạt sinh mủ](https://dermnetnz.org/topics/pyogenic-granuloma) , [mụn cóc do virus](https://dermnetnz.org/topics/viral-wart) (mụn cóc) hoặc [ung thư biểu mô tế bào vảy](https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma) .
+Biểu hiện phổ biến nhất là một nốt loét, đỏ, hình vòm , bề mặt bóng. Nó cũng có thể biểu hiện dưới dạng mảng bám giống như mụn cóc.
+Ung thư biểu mô tuyến mồ hôi thường được chẩn đoán ở cẳng chân hoặc bàn chân, nhưng cũng có thể ảnh hưởng đến thân và đầu. Đáng ngạc nhiên là bệnh này không phổ biến ở lòng bàn tay hoặc lòng bàn chân, mặc dù đây là những vùng có mật độ tuyến mồ hôi cao.
+Ung thư biểu mô tuyến nội tiết thường không gây ra triệu chứng nhưng một số bệnh nhân phàn nàn về tình trạng chảy máu hoặc ngứa.
+![Ung thư biểu mô xương đùi](https://dermnetnz.org/assets/collection/Porocarcinoma/porocarcinoma-00004.jpg)
+![Ung thư biểu mô xương đùi](https://dermnetnz.org/assets/collection/Porocarcinoma/porocarcinoma-00001.jpg)
+
+---
+
+## Ung thư biểu mô tuyến nội tiết được chẩn đoán như thế nào?
+
+Cách duy nhất để chắc chắn chẩn đoán là sinh [thiết](https://dermnetnz.org/topics/skin-biopsy) khối u. Ung thư biểu mô lỗ chân lông ngoại tiết có những đặc điểm rất đặc trưng dưới kính hiển vi. Ngoài ra, có một số đặc điểm vi mô mà bác sĩ giải phẫu bệnh nên tìm kiếm để giúp dự đoán tiên lượng.
+
+---
+
+## Phương pháp điều trị ung thư biểu mô tuyến nội tiết là gì?
+
+Ung thư biểu mô tuyến nội tiết có thể xâm lấn và di căn hoặc lan sang các cơ quan khác của cơ thể, gây tử vong. Các tế bào khối u thường lan truyền qua các mạch bạch huyết . Do đó, bác sĩ nên kiểm tra các hạch bạch huyết khu vực.
+Điều trị chính là cắt bỏ khối u. Mẫu bệnh phẩm nên được gửi đến phòng xét nghiệm để đảm bảo ranh giới khối u không còn tế bào ác tính . Phẫu thuật có thể chữa khỏi bệnh trong 80% trường hợp. Tuy nhiên, khoảng 20% ​​bệnh nhân sẽ bị tái phát tại chỗ và di căn.
+Trong một số trường hợp, hạch bạch huyết tại chỗ được sinh thiết ( [sinh thiết hạch gác](https://dermnetnz.org/topics/sentinel-lymph-node-biopsy) ) nhưng liệu điều này có ảnh hưởng đến sự sống còn lâu dài hay không vẫn chưa được biết.
+[Xạ trị](https://dermnetnz.org/topics/radiotherapy-for-malignant-skin-diseases) , hóa trị và [acitretin](https://dermnetnz.org/topics/acitretin) đã được sử dụng để điều trị ung thư biểu mô tuyến Eccrine di căn với mức độ thành công khác nhau.

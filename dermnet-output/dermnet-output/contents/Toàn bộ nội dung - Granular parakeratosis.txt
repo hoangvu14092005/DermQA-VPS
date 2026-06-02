@@ -1,0 +1,73 @@
+# Sừng hóa hạt nhỏ — thông tin bổ sung
+
+Thể loại:
+
+Phát ban
+
+SNOMED CT:
+
+56585003
+
+**[Phát ban](https://dermnetnz.org/topics/topics?category=Rashes)**
+
+
+# **Sừng hóa hạt**
+
+Tác giả: Tiến sĩ Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand, 2008. Cập nhật tháng 12 năm 2016 và tháng 6 năm 2023.
+
+---
+
+## Bệnh sừng hóa hạt là gì?
+
+Sừng hóa hạt là một tình trạng da đỏ và có vảy hiếm gặp , chủ yếu ảnh hưởng đến các nếp gấp cơ thể, thường gặp nhất là ở nách. Bệnh có hình dạng đặc trưng dưới kính hiển vi.
+Nó cũng được gọi là ban đỏ tăng sừng ở nếp gấp và có thể là tình trạng tương tự như viêm da pellagroid tái phát ở nếp gấp [1].
+
+---
+
+## Ai mắc bệnh parakeratosis hạt?
+
+Bệnh sừng hóa hạt thường gặp ở phụ nữ trung niên nhưng cũng có trường hợp ảnh hưởng đến trẻ sơ sinh, trẻ em và nam giới thuộc mọi chủng tộc.
+
+---
+
+## Các đặc điểm lâm sàng của bệnh sừng hóa hạt là gì?
+
+Bệnh sừng hóa hạt có thể biểu hiện dưới dạng phát ban kẽ ( phát ban ở các nếp gấp cơ thể) hoặc phát ban không kẽ . Nó biểu hiện dưới dạng phát ban vảy, mảng màu đỏ hoặc nâu, thường gặp nhất ở nách hoặc các nếp gấp da khác. Đôi khi gây ngứa. Trong trường hợp nghiêm trọng, phát ban lan rộng khắp thân mình. Khi lành, da sẽ bong ra ( vảy ), tương tự như bong tróc trong [bệnh pellagra](https://dermnetnz.org/topics/pellagra) .
+![Sừng hóa hạt](https://dermnetnz.org/assets/Uploads/Granular-parakeratosis-02.jpg)
+![Sừng hóa hạt](https://dermnetnz.org/assets/Uploads/Granular-parakeratosis-01.jpg)
+![Sừng hóa hạt](https://dermnetnz.org/assets/Uploads/granular-parakeratosis-03.jpg)
+[Xem thêm hình ảnh về bệnh sừng hóa hạt](https://dermnetnz-org.translate.goog/topics/granular-parakeratosis-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp) .
+
+---
+
+## Bệnh sừng hóa hạt được chẩn đoán như thế nào?
+
+Sừng hóa hạt được chẩn đoán bằng [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) . Có một mô hình phản ứng đặc trưng trên [mô bệnh học](https://dermnetnz.org/topics/dermatopathological-terminology) (sừng hóa hạt, tăng sinh hạt (do đó có tên như vậy), tăng sinh gai , u nhú và mạch máu nổi rõ ).
+Các vùng bị ảnh hưởng phải được lấy mẫu và điều trị bằng [kháng sinh nếu có bất kỳ](https://dermnetnz.org/topics/antibiotics) tác nhân gây bệnh nào . [](https://dermnetnz.org/topics/antibiotics)
+[Kiểm tra miếng dán](https://dermnetnz.org/topics/patch-tests) có thể hữu ích trong việc xác định [chất gây dị ứng tiếp xúc](https://dermnetnz.org/topics/contact-allergens) .
+
+---
+
+## Nguyên nhân gây ra bệnh sừng hóa hạt là gì?
+
+Người ta cho rằng bệnh sừng hóa hạt được gây ra do ma sát, tắc nghẽn và đổ mồ hôi.
+Khiếm khuyết trong sản xuất filaggrin có thể dẫn đến bệnh parakeratosis dạng hạt. Protein này thường có ở lớp biểu bì trên, nhưng có nhiều biến thể di truyền dẫn đến suy yếu chức năng hàng rào bảo vệ da. ​​Trong số đó có bệnh vảy cá thông thường, một nguyên nhân phổ [biến](https://dermnetnz.org/topics/ichthyosis-vulgaris) gây khô da .
+Các sản phẩm mỹ phẩm hoặc giặt ủi có chứa chất [khử trùng](https://dermnetnz.org/topics/antiseptic) , [benzalkonium chloride](https://dermnetnz.org/topics/benzalkonium-chloride-contact-dermatitis) , có thể là nguyên nhân gây ra một số trường hợp. Hoạt động như một chất hoạt động bề mặt, benzalkonium chloride có thể phá vỡ màng lipid tế bào và bất hoạt các enzyme trong da, gây ra sự tăng sinh , phát triển bất thường của các tế bào da ( tế bào sừng ) và [viêm da tiếp xúc kích ứng](https://dermnetnz.org/topics/irritant-contact-dermatitis) . Viêm da pellagroid tái phát ở nếp gấp [1] được báo cáo là viêm da tiếp xúc kích ứng với chất hoạt động bề mặt anion, natri lauryl sulfat (SLS), có trong các thanh xà phòng làm sạch không xà phòng. [](https://dermnetnz.org/topics/irritant-contact-dermatitis)
+Điều này có thể gây ra sự tăng sinh và phát triển bất thường của các tế bào da (tế bào sừng).
+Những thay đổi trong [hệ vi sinh vật trên da](https://dermnetnz.org/topics/microorganisms-found-on-the-skin) cũng được cho là nguyên nhân.
+
+---
+
+## Bệnh sừng hóa hạt được điều trị như thế nào?
+
+Bệnh sừng hóa hạt có thể tự khỏi. Nếu do một tác nhân tiếp xúc cụ thể, tình trạng này sẽ thuyên giảm trong vòng vài tuần nếu phát hiện và tránh xa.
+Các phương pháp điều trị được báo cáo là hữu ích bao gồm:
+- [Steroid tại chỗ](https://dermnetnz.org/topics/topical-steroid) — nhưng không phải lúc nào cũng vậy
+- [Thuốc sát trùng](https://dermnetnz.org/topics/antiseptic)
+- [Thuốc kháng sinh](https://dermnetnz.org/topics/antibiotics) ví dụ như doxycycline
+- [Retinoid tại chỗ](https://dermnetnz.org/topics/topical-retinoids)
+- [Các tác nhân làm bong lớp sừng](https://dermnetnz.org/topics/keratolytic-agents) như [axit lactic](https://dermnetnz.org/topics/alpha-hydroxy-acid-facial-treatments)
+- [Kem Calcipotriol](https://dermnetnz.org/topics/calcipotriol)
+- [Liệu pháp lạnh](https://dermnetnz.org/topics/cryotherapy)
+- [Isotretinoin uống](https://dermnetnz.org/topics/isotretinoin)
+- [Độc tố Botulinum](https://dermnetnz.org/topics/botulinum-toxin) .

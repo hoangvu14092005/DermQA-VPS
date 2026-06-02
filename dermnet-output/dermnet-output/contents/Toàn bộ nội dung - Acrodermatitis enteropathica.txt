@@ -1,0 +1,152 @@
+# Viêm da đầu chi ruột non — thông tin bổ sung
+
+Thể loại:
+
+Bệnh toàn thân, Phát ban
+
+SNOMED CT:
+
+37702000, 12602008
+
+**[Bệnh toàn thân, Phát ban](https://dermnetnz.org/topics/topics?category=Systemic+diseases)**
+
+
+# **Viêm da đầu chi ruột non**
+
+Tác giả: Vanessa Ngan, Cán bộ biên tập, 2003. Cập nhật mới nhất của Bác sĩ Arun Gangakhedkar, Bác sĩ Nhi khoa, Bệnh viện Waitakere, Auckland, New Zealand. Tổng biên tập DermNet: Phó PGS. Giáo sưAmanda Oakley. Tháng 12 năm 2019.
+
+---
+
+## Viêm da đầu chi ruột là gì?
+
+Viêm da đầu chi ruột là một rối loạn hiếm gặp liên quan đến thiếu kẽm. Bệnh biểu hiện với bộ ba triệu chứng kinh điển:
+- Viêm da quanh mỏm và quanh nhân tạo
+- Tiêu chảy
+- Rụng tóc.
+Viêm da đầu chi nguyên phát là do khiếm khuyết vận chuyển kẽm di truyền, dẫn đến giảm hấp thu kẽm ở ruột.
+Viêm da đầu chi ruột mắc phải có thể là kết quả của việc giảm lượng tiêu thụ, tăng nhu cầu, kém hấp thu hoặc hiếm khi liên quan đến một số rối loạn chuyển hóa. [Xem [các tình trạng giống viêm da đầu chi ruột]](https://dermnetnz.org/topics/acrodermatitis-enteropathica-like-conditions)
+Viêm da giả ruột đã được mô tả trong các trường hợp [thiếu hụt biotinidase](https://dermnetnz.org/topics/biotin-responsive-dermatoses) , axit hữu cơ, axit amin , chu trình urê và rối loạn axit béo thiết yếu.
+Viêm da đầu chi ruột còn được gọi là bệnh viêm da đầu chi ruột, hội chứng kém hấp thu kẽm nguyên phát , hội chứng Danbolt-Closs và hội chứng Brandt.
+
+---
+
+## Vai trò của kẽm trong cơ thể là gì?
+
+Kẽm là một vi chất dinh dưỡng thiết yếu có khả năng hấp thụ tốt hơn từ sữa mẹ so với sữa bò hoặc các loại sữa công thức khác dành cho trẻ sơ sinh.
+- Thịt, động vật có vỏ và mầm lúa mì là những nguồn thực phẩm giàu dinh dưỡng.
+- Phytates (ngũ cốc) và một số loại thuốc ức chế sự hấp thụ của nó ( chất tạo phức ).
+- Sự hấp thụ kẽm chủ yếu xảy ra ở ruột non và tá tràng.
+Kẽm là thành phần của hơn 200 loại enzyme kim loại tham gia vào quá trình trao đổi chất của tế bào .
+- Khả dụng sinh học và vận chuyển kẽm rất quan trọng đối với cân bằng nội môi.
+- Kẽm có đặc tính chống viêm và chống oxy hóa.
+- Nó đóng vai trò quan trọng trong quá trình chữa lành vết thương bình thường, tăng trưởng, phát triển não bộ và chức năng miễn dịch.
+
+---
+
+## Nguyên nhân gây ra bệnh viêm da đầu chi ruột là gì?
+
+
+### Viêm da đầu chi nguyên phát ở ruột non
+Viêm da đầu chi ruột nguyên phát là một rối loạn di truyền lặn trên nhiễm sắc thể thường và biểu hiện khi hai gen khiếm khuyết được di truyền (một từ mỗi cha mẹ). Người mang gen có một gen bình thường và một gen khiếm khuyết và thường không có bất kỳ triệu chứng nào của bệnh.
+Gen SLC39A4 nằm trên nhiễm sắc thể 8q24.3 mã hóa cho protein vận chuyển kẽm , ZIP4. Đột biến ở SLC39A4 làm rối loạn quá trình hấp thu, vận chuyển và cân bằng nội môi tổng thể của kẽm. Thiếu kẽm trong viêm da đầu chi nguyên phát do ruột non là thứ phát do tình trạng tắc nghẽn một phần hấp thu kẽm qua niêm mạc ruột non.
+Một số lượng lớn các enzyme cần kẽm làm cofactor dẫn đến các biểu hiện lâm sàng không đồng nhất.
+
+### Viêm da đầu chi mắc phải ở ruột non
+Viêm da đầu chi mắc phải ở ruột có thể liên quan đến các triệu chứng sau:
+- Lượng kẽm nạp vào không đủ (chế độ ăn chay hoặc sữa mẹ thiếu kẽm, [chán ăn tâm thần](https://dermnetnz.org/topics/malnutrition-including-anorexia-nervosa) , uống [rượu](https://dermnetnz.org/topics/cutaneous-adverse-effects-of-alcohol) mãn tính hoặc dinh dưỡng qua đường tĩnh mạch thiếu kẽm) [](https://dermnetnz.org/topics/cutaneous-adverse-effects-of-alcohol)
+- Rối loạn hấp thu đường ruột (bệnh viêm ruột, phẫu thuật cắt ruột, xơ nang hoặc bệnh tuyến tụy)
+- Mất kẽm quá nhiều qua nước tiểu (hội chứng thận hư)
+- Nồng độ albumin thấp và tình trạng dị hóa cao ( chấn thương , [bỏng nhiệt](https://dermnetnz.org/topics/thermal-burn) , phẫu thuật mở rộng hoặc xơ gan )
+- [Ban đỏ di trú hoại tử](https://dermnetnz.org/topics/necrolytic-migratory-erythema) (glucagonoma).
+
+---
+
+## Các đặc điểm lâm sàng của bệnh viêm da đầu chi ruột là gì?
+
+Viêm da đầu chi nguyên phát ở ruột có thể biểu hiện ở trẻ bú sữa công thức trong vòng vài ngày đến vài tuần sau sinh, và ngay sau khi cai sữa ở trẻ bú mẹ. Cả bé trai và bé gái đều bị ảnh hưởng như nhau.
+Các triệu chứng của bệnh viêm da đầu chi ruột có thể xảy ra ở mọi lứa tuổi, tùy thuộc vào nguyên nhân cơ bản, nhưng chủ yếu ảnh hưởng đến trẻ lớn, thanh thiếu niên và người lớn.
+Trẻ sinh non có thể biểu hiện sớm viêm da đầu chi ruột do nhu cầu kẽm tăng cao và tình trạng mất cân bằng kẽm khi sinh. Viêm da đầu chi ruột ở trẻ sinh non có thể do thiếu kẽm trong sữa mẹ hoặc đột biến protein vận chuyển.
+Viêm da đầu chi nguyên phát và mắc phải có các biểu hiện trên da và không phải da tương tự nhau.
+
+### Đặc điểm da
+Viêm da thường là biểu hiện đầu tiên của tình trạng thiếu kẽm. Đặc trưng của tình trạng này là phân bố ở vùng đỉnh và quanh nhân tạo .
+- Thường có ranh giới rõ ràng giữa vùng da bị ảnh hưởng và vùng da bình thường.
+- Phát ban quanh vùng phẫu thuật thường có hình móng ngựa hoặc hình chữ U, ảnh hưởng từ má đến cằm nhưng không ảnh hưởng đến môi.
+- Mảng chàm hoặc mảng vảy nến tiến triển thành mụn nước và bọng nước , mụn mủ , vết trợt hoặc vùng tăng sừng .
+- [Lưỡi](https://dermnetnz.org/topics/conditions-affecting-the-tongue) đỏ bóng ( viêm lưỡi ), [loét miệng](https://dermnetnz.org/topics/mouth-ulcer) và [viêm khóe miệng](https://dermnetnz.org/topics/angular-cheilitis) thường là những dấu hiệu sớm.
+- Các vết trầy xước đối xứng quanh hậu môn và phát ban ở mông
+- Các khía cạnh duỗi của chân tay (khuỷu tay và đầu gối) và vùng đầu chi (ngón tay, ngón chân) cũng có thể bị ảnh hưởng.
+- Có thể xảy ra nhiễm trùng thứ phát với [Candida albicans](https://dermnetnz.org/topics/candida/) hoặc [Staphylococcus aureus](https://dermnetnz.org/topics/staphylococcal-skin-infection/) .
+- Quá trình chữa lành vết thương bị suy yếu.
+[Rụng tóc](https://dermnetnz.org/topics/hair-loss) lan tỏa ảnh hưởng đến da đầu, lông mày và lông mi. Móng tay mềm, có rãnh, loạn dưỡng và [viêm quanh móng.](https://dermnetnz.org/topics/paronychia/)
+![Viêm da đầu chi ruột non](https://dermnetnz.org/assets/Uploads/systemic/acrfac.jpg)
+![Viêm da đầu chi ruột non](https://dermnetnz.org/assets/Uploads/systemic/acrgr.jpg)
+![Viêm da đầu chi ruột non](https://dermnetnz.org/assets/Uploads/systemic/acrhand.jpg)
+![Viêm da đầu chi ruột non](https://dermnetnz.org/assets/Uploads/systemic/acrfoot.jpg)
+
+### Các triệu chứng không phải ở da
+Các đặc điểm khác của bệnh viêm da đầu chi ruột non bao gồm:
+- Viêm [kết mạc](https://dermnetnz.org/topics/conjunctivitis) và nhạy cảm với ánh sáng
+- Mất cảm giác thèm ăn
+- Tiêu chảy, nhẹ hoặc nặng
+- Dễ cáu kỉnh (trẻ khóc và rên rỉ không ngừng)
+- Tâm trạng chán nản, thờ ơ và rối loạn cảm xúc ở trẻ lớn và người lớn
+- Chậm phát triển ở trẻ em không được điều trị
+- Giảm vị giác (giảm cảm giác vị giác)
+- [Suy sinh dục](https://dermnetnz.org/topics/hypogonadism-in-males) ở nam thanh thiếu niên và người trưởng thành trẻ tuổi.
+
+---
+
+## Bệnh viêm da đầu chi ruột non được chẩn đoán như thế nào?
+
+Các xét nghiệm sau đây có thể hữu ích nếu nghi ngờ bị thiếu kẽm và viêm da đầu chi.
+- Nồng độ kẽm trong huyết thanh / huyết tương — nồng độ bình thường khi không nhịn ăn là 9,0–17,0 µmol/L
+- Phosphatase kiềm huyết thanh — điều này có thể hỗ trợ chẩn đoán nếu thấp
+- Albumin huyết thanh — lưu ý rằng kẽm là chất phản ứng âm tính ở pha cấp , do đó nồng độ kẽm có thể thấp nếu albumin thấp hoặc có bệnh lý viêm. Có thể cần các biện pháp phòng ngừa đặc biệt khi lấy mẫu. Lưu ý các trường hợp dương tính giả và âm tính giả.
+- Nồng độ kẽm trong nước tiểu, tóc và sữa mẹ — nếu có
+- Xét nghiệm công thức máu — thiếu máu và giảm bạch cầu là điển hình.
+Sinh [thiết từ](https://dermnetnz.org/topics/skin-biopsy) tổn thương da sớm không đặc hiệu vì mô học có thể tương tự như chàm hoặc vẩy nến. Ban đầu có thể thấy tình trạng xốp hóa với biểu bì nhợt nhạt . Sau đó có thể thấy tình trạng sừng hóa bán phần , hoại tử tế bào sừng , lớp Malpighi mỏng và không có lớp hạt .
+
+---
+
+## Chẩn đoán phân biệt bệnh viêm da đầu chi ruột là gì?
+
+Các điều kiện khác cần được xem xét có thể bao gồm:
+- [Chàm thể tạng](https://dermnetnz.org/topics/atopic-dermatitis) — bệnh này thường không ảnh hưởng đến vùng tã lót, không gây rụng tóc và thường xuất hiện sau thời kỳ đầu của trẻ sơ sinh
+- [Bệnh vẩy nến](https://dermnetnz.org/topics/psoriasis) — liên quan đến các nếp gấp bẹn (vảy nến khăn ăn) với các mảng điển hình ở những nơi khác
+- [Viêm da tiết bã nhờn](https://dermnetnz.org/topics/seborrhoeic-dermatitis) — bệnh này có sự phân bố điển hình ở phần uốn cong
+- [Ban đỏ di trú hoại tử](https://dermnetnz.org/topics/necrolytic-migratory-erythema) — đây là tình trạng viêm da quanh nhân tạo bong tróc được thấy ở trẻ sơ sinh mắc các rối loạn chuyển hóa như [thiếu hụt biotinidase](https://dermnetnz.org/topics/biotin-responsive-dermatoses) , rối loạn chu trình urê, axit hữu cơ và axit béo thiết yếu (thường được đưa vào sàng lọc chuyển hóa sơ sinh thường quy)
+- [Bệnh Pellagra](https://dermnetnz.org/topics/pellagra) — do thiếu niacin — và viêm da giống bệnh Pellagra trong bệnh Hartnup
+- Rối loạn bọng nước — đặc biệt là [bệnh bong biểu bì bóng nước](https://dermnetnz.org/topics/epidermolysis-bullosa) ( [EB](https://dermnetnz.org/topics/epidermolysis-bullosa) ) và [bệnh bóng nước IgA tuyến tính](https://dermnetnz.org/topics/linear-iga-bullous-disease)
+- [Bệnh mô bào Langerhans](https://dermnetnz.org/topics/langerhans-cell-histiocytosis) — bệnh này có thể biểu hiện bằng phát ban dạng sẩn mủ xuất huyết ở vùng khăn ăn
+- [](https://dermnetnz.org/topics/candida) Nhiễm trùng [Candida](https://dermnetnz.org/topics/candida)
+- [Bỏng nhiệt](https://dermnetnz.org/topics/thermal-burn) — điều này có thể làm dấy lên nghi ngờ về [chấn thương không phải do tai nạn](https://dermnetnz.org/topics/skin-signs-of-non-accidental-injury)
+- [Viêm da do khăn ăn](https://dermnetnz.org/topics/napkin-dermatitis) .
+
+---
+
+## Phương pháp điều trị bệnh viêm da đầu chi ruột là gì?
+
+Điều trị viêm da đầu chi nguyên phát do vi khuẩn đường ruột bắt đầu bằng việc bổ sung kẽm liều cao bằng đường uống với liều 3 mg/kg/ngày (có 50 mg kẽm nguyên tố trong 220 mg kẽm sulfat). Việc bổ sung kẽm liều cao bằng đường uống giúp khắc phục tình trạng thiếu hụt chất vận chuyển.
+Điều trị thiếu kẽm mắc phải hoặc do chế độ ăn uống bắt đầu bằng 0,5-1 mg kẽm nguyên tố/kg/ngày trong khi điều trị suy dinh dưỡng. Có thể bổ sung kẽm trong thời kỳ mang thai.
+- Liều kẽm thông thường thường được dung nạp tốt nhưng dùng quá liều có thể gây độc.
+- Quá liều kẽm cấp tính có thể gây nôn mửa, tiêu chảy, đau bụng, hôn mê , chóng mặt và rối loạn dáng đi,
+- Quá liều kẽm mãn tính có thể dẫn đến giảm bạch cầu trung tính , giảm bạch cầu , thiếu đồng và [sắt](https://dermnetnz.org/topics/iron-deficiency) , thiếu máu, chậm phát triển và bất thường về lipid .
+- Chế phẩm kẽm sulfat có thể gây kích ứng đường tiêu hóa và có thể thử chế phẩm gluconat hoặc axetat nếu có.
+- Nên đo nồng độ kẽm trong máu mỗi 3–6 tháng, điều chỉnh liều thấp nhất có hiệu quả. Công thức máu, phosphatase kiềm và nồng độ đồng có thể hữu ích cho việc theo dõi bổ sung.
+[Nhiễm trùng da thứ phát do vi khuẩn](https://dermnetnz.org/topics/wound-infections) và [nấm candida](https://dermnetnz.org/topics/candida) cần phải được điều trị thích hợp.
+
+---
+
+## Hậu quả của bệnh viêm da đầu chi ruột là gì?
+
+Thông thường, các triệu chứng tiêu chảy, cáu kỉnh và tâm trạng sẽ cải thiện trong vòng một ngày sau khi bắt đầu điều trị bằng kẽm. Da sẽ lành lại trong vòng một tuần và tóc sẽ mọc lại bình thường trong vòng một tháng sau khi bổ sung kẽm.
+Tiên lượng của bệnh viêm da đầu chi ruột thường tốt nếu được chẩn đoán kịp thời và bổ sung kẽm nhưng có thể gây tử vong nếu không được điều trị.
+
+### Viêm da đầu chi ruột non trước và 5 ngày sau khi bổ sung kẽm
+![Viêm da đầu chi ruột non](https://dermnetnz.org/assets/Uploads/systemic/acroderm1.jpg)
+![Viêm da đầu chi ruột non](https://dermnetnz.org/assets/Uploads/systemic/acroderm2.jpg)
+![Viêm da đầu chi ruột non](https://dermnetnz.org/assets/Uploads/systemic/acroderm3.jpg)
+![Viêm da đầu chi ruột non](https://dermnetnz.org/assets/Uploads/systemic/acroderm4.jpg)
+![Viêm da đầu chi ruột non](https://dermnetnz.org/assets/Uploads/systemic/acroderm5.jpg)
+![Viêm da đầu chi ruột non](https://dermnetnz.org/assets/Uploads/systemic/acroderm6.jpg)

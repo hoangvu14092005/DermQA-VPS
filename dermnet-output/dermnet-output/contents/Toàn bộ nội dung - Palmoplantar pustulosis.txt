@@ -1,0 +1,136 @@
+# Viêm mủ lòng bàn tay và bàn chân — thông tin bổ sung
+
+Thể loại:
+
+Phát ban, Viêm
+
+SNOMED CT:
+
+27520001, 83839005, 58143000
+
+**[Phát ban, Viêm](https://dermnetnz.org/topics/topics?category=Rashes)**
+
+
+# **Viêm mủ lòng bàn tay và bàn chân**
+
+Tác giả: Tiến sĩ Tatiana Ninkov, Bác sĩ nội trú Da liễu; Tiến sĩ Rachael Foster, Bác sĩ da liễu, Bệnh viện Sir Charles Gairdner, Perth, Úc (2025)Những người đóng góp trước đây: Phó Giáo sư danh dự Amanda Oakley, Bác sĩ da liễu, New Zealand (2014)Được bình duyệt bởi: Tiến sĩ Zoe Lee, Trung tâm Y tế Flinders, Úc (2025)Đánh giá bác sĩ da liễu: Tiến sĩ Ian CoulsonĐược biên tập bởi bộ phận nội dung DermNet
+
+---
+
+## Bệnh mụn mủ lòng bàn tay, bàn chân là gì?
+
+Viêm mủ lòng bàn tay, bàn chân là một bệnh da mủ vô khuẩn lành tính , mạn tính và thường tái phát, ảnh hưởng đến lòng bàn tay và lòng bàn chân. Bệnh có thể xảy ra ở bệnh nhân [vẩy nến](https://dermnetnz.org/topics/psoriasis) , tuy nhiên, nó có thể là một thực thể lâm sàng riêng biệt. Bệnh đáp ứng kém hơn với các phương pháp điều trị sinh học có hiệu quả trong điều trị vẩy nến. [](https://dermnetnz.org/topics/psoriasis)
+Một biến thể của bệnh mụn mủ lòng bàn tay và bàn chân ảnh hưởng đến đầu ngón tay được gọi là [viêm da tiếp diễn Hallopeau](https://dermnetnz.org/topics/acrodermatitis-continua-of-hallopeau) hay bệnh mụn mủ đầu ngón tay.
+
+---
+
+## Nguyên nhân gây ra bệnh mụn mủ lòng bàn tay, bàn chân là gì?
+
+Nguyên nhân chính xác gây ra mụn mủ lòng bàn tay và bàn chân vẫn chưa được biết rõ. Tuy nhiên, các yếu tố môi trường như hút thuốc, chấn thương thủ công hoặc chấn thương lặp đi lặp lại , chất kích thích và ma sát có liên quan đến tình trạng này. Bên cạnh các yếu tố này, một số giả thuyết cũng đã được đề xuất:
+- Có thể là do rối loạn tuyến mồ hôi ngoại tiết , tuyến này có nhiều nhất ở lòng bàn tay và lòng bàn chân.
+- Số lượng tế bào Langerhans tăng lên xung quanh ống dẫn mồ hôi trong tình trạng này gợi ý một quá trình có thể do kháng nguyên thúc đẩy
+- Các đột biến gen liên quan đến IL36RN, CARD14, ATG16L1 và AP1S3 có thể liên quan
+- Bệnh này không liên quan đến vị trí chính dễ mắc bệnh vẩy nến PSORS1 hoặc HLA -C:09:02, cho thấy đây là một thực thể khác biệt về mặt di truyền so với bệnh vẩy nến mảng bám .
+Các yếu tố hóa hướng động cụ thể cũng có thể góp phần hoặc lan truyền tình trạng viêm, bao gồm tăng biểu hiện IL8 và IL17. Tăng phát hiện yếu tố hoại tử khối u alpha ( TNF -alpha) và IL-17. IL-22 và interferon-gamma cũng đã được phát hiện. Sự hoạt hóa con đường bổ thể cũng đã được ghi nhận.
+![Mụn mủ và các chấm gỉ sét trong mảng bám có vảy điển hình của PPP](https://dermnetnz.org/assets/Uploads/scaly/ps16.jpg)
+![Mụn mủ ở lòng bàn tay do PPP](https://dermnetnz.org/assets/Uploads/scaly/pustular-psoriasis-hand-foot/3584.jpg)
+![Các tổn thương điển hình của PPP ở lòng bàn chân - đỏ, bong tróc, mụn mủ và các chấm đỏ gỉ sét](https://dermnetnz.org/assets/Uploads/scaly/pustular-psoriasis-hand-foot/3592.jpg)
+![Mụn mủ ở chân do PPP](https://dermnetnz.org/assets/Uploads/scaly/pustular-psoriasis-hand-foot/3597.jpg)
+[Nhấp vào đây để xem thêm hình ảnh](https://dermnetnz-org.translate.goog/topics/palmoplantar-pustulosis-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+
+---
+
+## Ai mắc bệnh mụn mủ lòng bàn tay, bàn chân?
+
+Bệnh mụn mủ lòng bàn tay, bàn chân thường xuất hiện ở độ tuổi từ 20 đến 60, thường gặp ở nữ giới (tỷ lệ nữ/nam là 4:1).
+Phần lớn bệnh nhân bị mụn mủ lòng bàn tay-bàn chân là người hút thuốc lá, với 70-90% là người đang hoặc đã từng hút thuốc. [Hút thuốc](https://dermnetnz.org/topics/smoking-and-its-effects-on-the-skin) cũng là một yếu tố làm trầm trọng thêm bệnh. Người ta cho rằng các thụ thể nicotine hoạt động trong tuyến mồ hôi kích thích quá trình viêm .
+Một số tình trạng liên quan đã được xác định:
+- Nhiều bệnh nhân được chẩn đoán đồng thời mắc [bệnh vẩy nến thông thường](https://dermnetnz.org/topics/psoriasis) và/hoặc [viêm khớp vẩy nến](https://dermnetnz.org/topics/psoriatic-arthritis)
+- Một nghiên cứu lớn dựa trên dân số sử dụng dữ liệu đăng ký theo chiều dọc của Thụy Điển đã phát hiện ra rằng những bệnh nhân mắc [bệnh tiểu đường](https://dermnetnz.org/topics/skin-problems-associated-with-diabetes-mellitus) loại 2 và/hoặc COPD, cũng như gánh nặng bệnh đi kèm cao hơn nói chung, có nhiều khả năng mắc bệnh mụn mủ lòng bàn tay và bàn chân.
+- Các tình trạng khác có thể liên quan bao gồm tăng huyết áp , tăng lipid máu , [viêm da dị ứng](https://dermnetnz.org/topics/atopic-dermatitis) , [bệnh tuyến giáp](https://dermnetnz.org/topics/skin-problems-associated-with-thyroid-disease) , bệnh celiac, bệnh chuyển hóa và trầm cảm.
+Các nguyên nhân được mô tả khác bao gồm:
+- Do thuốc, đặc biệt là thuốc ức chế TNF-alpha .
+- Nhiễm trùng khu trú
+- Dị ứng kim loại
+- Nhấn mạnh.
+
+---
+
+## Các đặc điểm lâm sàng của bệnh mụn mủ lòng bàn tay và bàn chân là gì?
+
+Viêm mủ lòng bàn tay và bàn chân thường biểu hiện dưới dạng các mụn mủ vô khuẩn khu trú ở lòng bàn tay và lòng bàn chân. Các mụn mủ này có kích thước từ 1-10mm, thường kèm theo các dát vàng nâu và/hoặc các mảng đỏ, đóng vảy . Tình trạng lichen hóa và bong tróc cũng thường gặp.
+Mụn mủ thường xuất hiện nhiều hơn ở các mô thenar và hypothenar và lòng bàn tay. Cũng như mu bàn chân, bờ trong và bờ ngoài của bàn chân, hai bên hoặc phía sau gót chân.
+Bệnh nhân phàn nàn về các mức độ [ngứa](https://dermnetnz.org/topics/pruritus) khác nhau , tuy nhiên, triệu chứng phổ biến nhất là cảm giác "nóng rát". Tổn thương cũng có thể phát triển thành các vết nứt đau đớn và có thể xuất hiện các thay đổi [ở móng do bệnh vảy nến](https://dermnetnz.org/topics/nail-psoriasis) .
+Viêm mủ lòng bàn tay - bàn chân có nhiều mức độ nghiêm trọng khác nhau và thường là mãn tính do tính chất khó điều trị. Tình trạng lan rộng hoặc lan rộng có thể xảy ra chậm. Trong một số trường hợp hiếm gặp, mụn mủ hình thành các vết giống như rắn - được gọi là viêm mủ lòng bàn tay - bàn chân hình rắn .
+![Viêm mủ lòng bàn tay và bàn chân](https://dermnetnz.org/assets/Uploads/scaly/pustulosis.jpg)
+![Viêm mủ lòng bàn tay và bàn chân](https://dermnetnz.org/assets/Uploads/scaly/ps17.jpg)
+[Nhấp vào đây để xem thêm hình ảnh](https://dermnetnz-org.translate.goog/topics/palmoplantar-pustulosis-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+
+---
+
+## Biến chứng của bệnh mụn mủ lòng bàn tay, bàn chân là gì?
+
+- [Tác động tâm lý xã hội](https://dermnetnz.org/topics/psychosocial-factors-in-dermatology)
+- Các vết nứt
+- [Nhiễm](https://dermnetnz.org/topics/wound-infections) trùng thứ phát [](https://dermnetnz.org/topics/wound-infections)
+
+---
+
+## Bệnh mụn mủ lòng bàn tay và bàn chân được chẩn đoán như thế nào?
+
+Viêm mủ lòng bàn tay - bàn chân thường là chẩn đoán lâm sàng. Các xét nghiệm có thể hữu ích để loại trừ các chẩn đoán phân biệt hoặc loại trừ các biến chứng có thể xảy ra. Bao gồm:
+- Chuẩn bị kali hydroxit (loại trừ [nhiễm trùng nấm](https://dermnetnz.org/topics/fungal-skin-infections) da ) [](https://dermnetnz.org/topics/fungal-skin-infections)
+- Cạo da để [nuôi cấy nấm](https://dermnetnz.org/topics/mycology-of-dermatophyte-infections)
+- Tăm bông vi khuẩn và vi-rút
+- Sinh thiết [đấm](https://dermnetnz.org/topics/skin-biopsy) ( biểu hiện không điển hình hoặc bệnh khó chữa )
+- [Kiểm tra miếng dán](https://dermnetnz.org/topics/patch-tests) để phát hiện các dị ứng kim loại có thể xảy ra.
+
+---
+
+## Chẩn đoán phân biệt bệnh mụn mủ lòng bàn tay và bàn chân là gì?
+
+- [Pompholyx](https://dermnetnz.org/topics/dyshidrotic-eczema)
+- Mụn nước / mụn nước ( [manuum](https://dermnetnz.org/topics/tinea-manuum) và [pedis](https://dermnetnz.org/topics/tinea-pedis) )
+- [Viêm da tiếp xúc](https://dermnetnz.org/topics/contact-dermatitis) ( [kích ứng](https://dermnetnz.org/topics/irritant-contact-dermatitis) hoặc [dị ứng](https://dermnetnz.org/topics/allergic-contact-dermatitis) )
+- [Viêm da đầu chi liên tục Hallopeau](https://dermnetnz.org/topics/acrodermatitis-continua-of-hallopeau)
+- [Bọng nước dạng pemphigus](https://dermnetnz.org/topics/bullous-pemphigoid)
+- [Bệnh vẩy nến mảng bám lòng bàn tay và bàn chân](https://dermnetnz.org/topics/psoriasis-of-the-palms-and-soles)
+- [Chàm lòng bàn tay bàn chân cấp tính](https://dermnetnz.org/topics/dyshidrotic-eczema)
+- Vi khuẩn mủ của Andrews
+- [Bệnh ghẻ](https://dermnetnz.org/topics/scabies)
+
+---
+
+## Phương pháp điều trị bệnh mụn mủ lòng bàn tay, bàn chân là gì?
+
+Việc điều trị mụn mủ lòng bàn tay - bàn chân thường khó khăn và tình trạng này có thể không đáp ứng với điều trị. Các lựa chọn điều trị được thảo luận dưới đây.
+
+### Các biện pháp chung
+- Cai thuốc lá
+- Điều trị các bệnh nhiễm trùng tiềm ẩn bao gồm nhiễm trùng răng hoặc viêm amidan
+- Rửa bằng chất thay thế nhẹ nhàng, không chứa xà phòng
+- Sử dụng thường xuyên [các chất làm mềm](https://dermnetnz.org/topics/emollients-and-moisturisers) và/hoặc [chất làm bong sừng](https://dermnetnz.org/topics/keratolytic-agents) để giúp làm mềm da khô và ngăn ngừa nứt nẻ
+- Giày dép thoải mái
+- Tất thấm mồ hôi (ví dụ: tất tre, len merino siêu mịn), giày thay, giày hở mũi
+- Giữ mát
+
+### Các biện pháp cụ thể
+- [Steroid tại chỗ](https://dermnetnz.org/topics/topical-steroid) (quản lý dược lý tuyến đầu) Dạng thuốc mỡ mạnh thích hợp nhất và được sử dụng dưới dạng che phủ để tăng khả năng thẩm thấu (chỉ trong thời gian ngắn). Phương pháp che phủ bao gồm việc che lớp steroid bôi ngoài da bằng màng bọc thực phẩm (như màng bọc thực phẩm, túi ni lông hoặc găng tay polyethylene) trong vài giờ hoặc thậm chí qua đêm.
+- Dạng thuốc mỡ mạnh thích hợp nhất và được sử dụng dưới dạng che phủ để tăng khả năng thẩm thấu (chỉ trong thời gian ngắn).
+- Phương pháp che phủ bao gồm việc che lớp steroid bôi ngoài da bằng màng bọc thực phẩm (như màng bọc thực phẩm, túi ni lông hoặc găng tay polyethylene) trong vài giờ hoặc thậm chí qua đêm.
+- Điều trị toàn thân Retinoid (ví dụ, [acitretin](https://dermnetnz.org/topics/acitretin) ) [Methotrexate](https://dermnetnz.org/topics/methotrexate) [Ciclosporin](https://dermnetnz.org/topics/ciclosporin)
+- Retinoid (ví dụ, [acitretin](https://dermnetnz.org/topics/acitretin) )
+- [Methotrexate](https://dermnetnz.org/topics/methotrexate)
+- [Ciclosporin](https://dermnetnz.org/topics/ciclosporin)
+- [Liệu pháp quang học](https://dermnetnz.org/topics/phototherapy) : [PUVA](https://dermnetnz.org/topics/puva-photochemotherapy) , [đèn excimer](https://dermnetnz.org/topics/excimer-308-nm-light-treatment) và [liệu pháp quang động](https://dermnetnz.org/topics/photodynamic-therapy)
+- [Apremilast (](https://dermnetnz.org/topics/apremilast) chất ức chế phosphodiesterase-4 )
+- [Sinh học](https://dermnetnz.org/topics/biologics) (hiệu ứng thay đổi) [Ustekinumab](https://dermnetnz.org/topics/ustekinumab-for-psoriasis) (chất ức chế IL-12/23) [Secukinumab](https://dermnetnz.org/topics/secukinumab) (chất ức chế IL-17) [Guselkumab](https://dermnetnz.org/topics/guselkumab) (chất ức chế IL 23)
+- [Ustekinumab](https://dermnetnz.org/topics/ustekinumab-for-psoriasis) (chất ức chế IL-12/23)
+- [Secukinumab](https://dermnetnz.org/topics/secukinumab) (chất ức chế IL-17)
+- [Guselkumab](https://dermnetnz.org/topics/guselkumab) (chất ức chế IL 23)
+
+---
+
+## Hậu quả của bệnh mụn mủ lòng bàn tay, bàn chân là gì?
+
+Diễn biến bệnh của viêm mủ lòng bàn tay - bàn chân thường kéo dài, khó dự đoán và có thể kháng trị. Ngay cả khi bệnh thuyên giảm, tái phát vẫn thường xảy ra.

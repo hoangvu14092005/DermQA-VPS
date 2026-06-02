@@ -1,0 +1,89 @@
+# Vảy phấn đỏ nang lông — thông tin bổ sung
+
+Thể loại:
+
+Phát ban
+
+SNOMED CT:
+
+3755001, 238618003, 238619006, 238620000, 238621001, 238622008, 402340009
+
+**[Phát ban](https://dermnetnz.org/topics/topics?category=Rashes)**
+
+
+# **Vảy phấn đỏ nang lông**
+
+Tác giả: Vanessa Ngan, Biên tập viên (2003); Tiến sĩ Ian Coulson, Bác sĩ da liễu, Vương quốc Anh (2024).Những người đóng góp trước đây: Tiến sĩ Amanda Oakley, Bác sĩ da liễu (2015)
+
+---
+
+## Bệnh vảy phấn đỏ nang lông là gì?
+
+Vảy phấn đỏ nang lông (Pyyriasis rubra pilaris - PRP) là tên gọi của một nhóm bệnh lý da hiếm gặp, biểu hiện bằng các mảng vảy màu đỏ cam, có ranh giới rõ ràng . Chúng có thể bao phủ toàn bộ cơ thể hoặc chỉ một số vùng như khuỷu tay, đầu gối, lòng bàn tay và lòng bàn chân.
+Thường có những vùng da không bị ảnh hưởng, đặc biệt là ở thân và chân tay, được gọi là các đảo da không bị ảnh hưởng.
+Lòng bàn tay và lòng bàn chân thường bị ảnh hưởng và trở nên dày lan tỏa và có màu vàng ( sừng hóa lòng bàn tay và bàn chân ). PRP ban đầu thường bị nhầm lẫn với một tình trạng da khác, thường là [bệnh vẩy nến](https://dermnetnz.org/topics/psoriasis) . [](https://dermnetnz.org/topics/psoriasis)
+
+---
+
+## Tại sao lại xảy ra bệnh vảy nến đỏ nang lông và ai có nguy cơ mắc bệnh?
+
+Nguyên nhân gây ra PRP vẫn chưa được biết rõ. PRP thường xuất hiện lẻ tẻ, nhưng ở một số trường hợp, nó có thể được di truyền một phần. Nó có thể xảy ra ở bất kỳ chủng tộc nào, và nam giới và nữ giới đều bị ảnh hưởng như nhau. Đôi khi nó được thúc đẩy bởi một loại thuốc, chẳng hạn như sorafenib, insulin , imatinib, telaprevir và tiêm chủng.
+Có một số dạng PRP được phân loại như sau:
+Kiểu Đặc trưng Khởi phát ở người lớn cổ điển Chiếm 50% tổng số trường hợp Tiên lượng tốt với 80% bệnh nhân tự khỏi trong vòng 3 năm Sau khi thuyên giảm, tái phát là không phổ biến Có thể liên quan đến bệnh ác tính tiềm ẩn Khởi phát không điển hình ở người lớn Chiếm 5% tổng số trường hợp Có thể tồn tại trong 20 năm hoặc lâu hơn Thường có thành phần giống bệnh chàm Khởi phát ở tuổi vị thành niên cổ điển Chiếm 10% tổng số trường hợp Thường xảy ra ở độ tuổi từ 5 đến 10 Thường theo sau một đợt nhiễm trùng cấp tính của bất kỳ loại nào Tự khỏi trong vòng 1 năm Vị thành niên bị giới hạn Chiếm 25% tổng số trường hợp Xảy ra ở trẻ em trước tuổi dậy thì Thường giới hạn ở lòng bàn tay, lòng bàn chân, đầu gối và khuỷu tay Kết quả lâu dài chưa rõ ràng nhưng có thể cải thiện ở tuổi vị thành niên Khởi phát bất thường ở tuổi vị thành niên Chiếm 5% tổng số trường hợp Đôi khi di truyền; có thể chồng chéo với các loại [bệnh vảy cá](https://dermnetnz.org/topics/ichthyosis) Xảy ra khi mới sinh hoặc thời thơ ấu và rất dai dẳng liên quan đến HIV Căn bệnh này có xu hướng kháng lại các liệu pháp tiêu chuẩn
+[Xem hình ảnh của bệnh vảy phấn đỏ nang lông tại đây](https://dermnetnz-org.translate.goog/images/pityriasis-rubra-pilaris-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+
+---
+
+## Bệnh vảy nến đỏ nang lông trông như thế nào?
+
+
+### PRP khởi phát ở người lớn cổ điển
+PRP khởi phát ở người lớn thường bắt đầu ở đầu, cổ và thân trên dưới dạng phát ban đỏ , có vảy . Thường chỉ có một tổn thương đơn độc , nhưng trong vòng vài tuần, nhiều mảng xuất hiện và chúng liên kết với nhau tạo thành các nhóm tổn thương màu đỏ cam. Sau vài tuần, chúng lan xuống dưới và có thể bao phủ hầu hết cơ thể ( [đỏ da toàn thân](https://dermnetnz.org/topics/erythroderma) ).
+Có thể cảm nhận được các nút sần sùi, khô ráp bên trong các mảng da và nguyên nhân là do nang lông bị tắc nghẽn , thường rõ nhất ở mu bàn tay. Bệnh nhân cũng có thể phàn nàn về cảm giác ngứa trong giai đoạn đầu của bệnh.
+Lòng bàn tay và lòng bàn chân trở nên dày và vàng khi bị PRP. Các vết nứt có thể xuất hiện , gây đau đớn và khó khăn khi đi lại và sử dụng tay. Móng tay có thể dày lên và đổi màu ở mép móng tự do , đồng thời có thể xuất hiện các vệt đen ( [xuất huyết dằm](https://dermnetnz.org/topics/splinter-haemorrhage) ). Tóc có thể mỏng đi đáng kể.
+
+### Bệnh vảy phấn ở người lớn
+![Vảy phấn đỏ nang lông](https://dermnetnz.org/assets/Uploads/scaly/prp2.jpg)
+![Vảy phấn đỏ nang lông](https://dermnetnz.org/assets/Uploads/scaly/prp3.jpg)
+![Vảy phấn đỏ nang lông](https://dermnetnz.org/assets/Uploads/scaly/w/prp8.jpg)
+![Vảy phấn đỏ nang lông](https://dermnetnz.org/assets/Uploads/scaly/w/prp9.jpg)
+![Vảy phấn đỏ nang lông](https://dermnetnz.org/assets/Uploads/scaly/prp4.jpg)
+![Vảy phấn đỏ nang lông](https://dermnetnz.org/assets/Uploads/scaly/prp7.jpg)
+
+### PRP khởi phát ở tuổi vị thành niên
+PRP ở trẻ em có thể là điển hình ( toàn thân ) hoặc giới hạn (giới hạn về phạm vi). Biểu hiện tương tự như ở người lớn, với da lòng bàn tay và lòng bàn chân dày lên rõ rệt. Các vùng bị ảnh hưởng khác có thể có màu đỏ cam với sự nổi bật của nang lông .
+
+### Bệnh vảy phấn khởi phát ở tuổi vị thành niên cổ điển rubra pilaris
+![Vảy phấn đỏ nang lông](https://dermnetnz.org/assets/Uploads/scaly/prp1.jpg)
+![Vảy phấn đỏ nang lông](https://dermnetnz.org/assets/Uploads/scaly/prp6.jpg)
+![Vảy phấn đỏ nang lông](https://dermnetnz.org/assets/Uploads/scaly/prp5.jpg)
+![Bệnh vảy phấn khởi phát ở tuổi vị thành niên cổ điển rubra pilaris](https://dermnetnz.org/assets/Uploads/scaly/s/prp9.jpg)
+![Bệnh vảy phấn khởi phát ở tuổi vị thành niên cổ điển rubra pilaris](https://dermnetnz.org/assets/Uploads/scaly/s/prp8.jpg)
+![Bệnh vảy phấn khởi phát ở tuổi vị thành niên cổ điển rubra pilaris](https://dermnetnz.org/assets/Uploads/scaly/s/prp10.jpg)
+
+### Bệnh vảy phấn khởi phát ở trẻ vị thành niên có giới hạn
+![Bệnh vảy phấn khởi phát ở trẻ vị thành niên có giới hạn](https://dermnetnz.org/assets/Uploads/scaly/prp11.jpg)
+![Bệnh vảy phấn khởi phát ở trẻ vị thành niên có giới hạn](https://dermnetnz.org/assets/Uploads/scaly/prp12.jpg)
+![Bệnh vảy phấn khởi phát ở trẻ vị thành niên có giới hạn](https://dermnetnz.org/assets/Uploads/scaly/prp13.jpg)
+
+---
+
+## Bệnh vảy nến đỏ nang lông được chẩn đoán như thế nào?
+
+PRP được chẩn đoán lâm sàng dựa trên diễn biến thời gian và biểu hiện lâm sàng, kết hợp với kết quả [sinh thiết](https://dermnetnz.org/topics/skin-biopsy) da để hỗ trợ.
+
+---
+
+## Có những phương pháp điều trị nào cho bệnh vảy phấn đỏ nang lông?
+
+Giá trị của bất kỳ phương pháp điều trị nào cũng khó đánh giá, vì diễn biến lâm sàng rất khác nhau đối với từng loại PRP khác nhau. Bệnh nhân mắc PRP khởi phát điển hình ở người trưởng thành có thể biểu hiện rất yếu với tình [trạng đỏ da](https://dermnetnz.org/topics/erythroderma) cấp tính và có thể cần nhập viện để chăm sóc da, bù dịch và các chăm sóc hỗ trợ khác.
+Thuốc bôi ngoài da như [thuốc làm mềm da](https://dermnetnz.org/topics/emollients-and-moisturisers) và [calcipotriol](https://dermnetnz.org/topics/calcipotriol) có thể được sử dụng để làm giảm các triệu chứng khô và nứt nẻ. [Corticosteroid bôi ngoài da](https://dermnetnz.org/topics/topical-steroid) không hiệu quả.
+Các phương pháp điều trị toàn thân bao gồm:
+- [Methotrexate](https://dermnetnz.org/topics/methotrexate)
+- [Acitretin](https://dermnetnz.org/topics/acitretin)
+- [Isotretinoin](https://dermnetnz.org/topics/isotretinoin)
+- PRP đã được báo cáo là loại bỏ bằng [etanercept](https://dermnetnz.org/topics/etanercept-for-psoriasis) ( phong tỏa TNF -alpha), [ustekinumab](https://dermnetnz.org/topics/ustekinumab-for-psoriasis) (phong tỏa IL-12/IL-23), guselkumab (phong tỏa IL-23), risankizumab (phong tỏa IL-23) và secukinumab (phong tỏa IL-17).
+[Liệu pháp quang trị liệu bằng tia cực tím (UV)-B dải hẹp](https://dermnetnz.org/topics/uvb-phototherapy) và [phương pháp quang di ngoài cơ thể](https://dermnetnz.org/topics/extracorporeal-photopheresis) cũng được báo cáo là có hiệu quả ở một số bệnh nhân.
+
+### Kết quả của bệnh vảy nến đỏ nang lông là gì?
+Nhìn chung, các dạng PRP di truyền có xu hướng tồn tại suốt cuộc đời trong khi các dạng PRP mắc phải không thường xuyên có xu hướng tự khỏi sau một đến ba năm.

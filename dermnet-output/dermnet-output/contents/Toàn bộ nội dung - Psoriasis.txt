@@ -1,0 +1,265 @@
+# Bệnh vẩy nến — thông tin bổ sung
+
+Thể loại:
+
+Tự miễn/tự viêm
+
+SNOMED CT:
+
+9014002, 238608008, 200965009, 238600001, 238604005, 37042000, 402335001, 200975007, 238601002, 402308005, 402307000, 402310007, 238609000, 402325007, 402312004, 402318000, 200970002, 200971003, 25847004, 200977004
+
+**[Tự miễn/tự viêm](https://dermnetnz.org/topics/topics?category=Autoimmune/autoinflammatory)**
+
+
+# **Bệnh vẩy nến**
+
+Đánh giá lần cuối: Tháng 6 năm 2023Tác giả: Tiến sĩ Chelsea Jones, Newcastle, Úc; Tiến sĩ Monisha Gupta, Bác sĩ da liễu, Úc (2020); được cập nhật bởi Tiến sĩ Salim Uddin, Chuyên gia đăng ký y khoa, New Zealand; Phó giáo sư Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand (2023).Đánh giá bác sĩ da liễu: Tiến sĩ Ian CoulsonĐược biên tập bởi bộ phận nội dung DermNet
+
+---
+
+## Bệnh vẩy nến là gì?
+
+Vảy nến là một bệnh viêm da mãn tính , đặc trưng bởi các mảng đỏ, có vảy, ranh giới rõ ràng . Bệnh được phân loại thành nhiều loại.
+
+---
+
+## Ai bị bệnh vẩy nến?
+
+Bệnh vẩy nến ảnh hưởng đến 2–4% nam giới và nữ giới. Bệnh có thể khởi phát ở mọi lứa tuổi, kể cả [trẻ em](https://dermnetnz.org/topics/paediatric-psoriasis) , với đỉnh điểm khởi phát ở độ tuổi 15–25 và 50–60. Bệnh có xu hướng kéo dài suốt đời, với mức độ và mức độ nghiêm trọng dao động. Bệnh đặc biệt phổ biến ở người da trắng nhưng có thể ảnh hưởng đến người thuộc mọi sắc tộc. Khoảng một phần ba số bệnh nhân bị vẩy nến có người thân trong gia đình cũng bị vẩy nến.
+
+---
+
+## Nguyên nhân gây bệnh vẩy nến là gì?
+
+Bệnh vẩy nến là bệnh đa yếu tố. Nó được phân loại là một bệnh da di truyền do miễn dịch .
+Điều này liên quan đến sự tương tác phức tạp giữa hệ thống miễn dịch bẩm sinh và thích nghi.
+Các nghiên cứu liên kết toàn bộ hệ gen báo cáo rằng phức hợp tương hợp mô HLA -C*06:02 (trước đây gọi là HLA-Cw6) có liên quan đến bệnh vẩy nến khởi phát sớm và [vẩy nến giọt](https://dermnetnz.org/topics/guttate-psoriasis) . Phức hợp tương hợp mô chính này không liên quan đến [viêm khớp vẩy nến](https://dermnetnz.org/topics/psoriatic-arthritis) , [vẩy nến móng](https://dermnetnz.org/topics/nail-psoriasis) hoặc vẩy nến khởi phát muộn.
+Các yếu tố miễn dịch và cytokine gây viêm ( protein thông tin ) như IL1β và TNFα , IL-23 và IL-17 là nguyên nhân gây ra các triệu chứng lâm sàng của bệnh vẩy nến. Do đó, chúng đã trở thành mục tiêu của các loại thuốc sinh học và đã mang lại thành công trong việc quản lý thuốc.
+
+---
+
+## Các đặc điểm lâm sàng của bệnh vẩy nến là gì?
+
+Bệnh vẩy nến thường biểu hiện bằng các mảng đỏ, có vảy, phân bố đối xứng, có viền rõ ràng . Vảy thường có màu trắng bạc, ngoại trừ ở các nếp gấp da, nơi các mảng thường bóng và bong tróc, ẩm ướt. Vị trí thường gặp nhất là [da đầu](https://dermnetnz.org/topics/scalp-psoriasis) , khuỷu tay và đầu gối, nhưng bất kỳ vùng da nào cũng có thể bị ảnh hưởng. Các mảng này thường rất dai dẳng nếu không được điều trị.
+[Ngứa](https://dermnetnz.org/topics/pruritus) thường nhẹ nhưng có thể nghiêm trọng ở một số bệnh nhân, dẫn đến gãi và liken hóa, đặc trưng bởi da dày lên như da thuộc và tăng các vết hằn trên da. Có thể xuất hiện các vết nứt hoặc vết nứt da gây đau đớn , đặc biệt là ở lòng bàn tay và lòng bàn chân.
+Bệnh vẩy nến có thể biểu hiện [hiện tượng Koebner](https://dermnetnz.org/topics/the-koebner-phenomenon) . Hiện tượng này liên quan đến việc hình thành các tổn thương mới trên da bị tổn thương hoặc kích ứng do chấn thương, bỏng, v.v.
+Khi các mảng vảy nến biến mất, chúng có thể để lại các vết màu nâu hoặc nhạt ( giảm hoặc [tăng sắc tố](https://dermnetnz.org/topics/postinflammatory-hyperpigmentation) sau viêm ) có thể mờ dần sau vài tháng. [](https://dermnetnz.org/topics/postinflammatory-hyperpigmentation)
+Dấu hiệu Auspitz là hiện tượng chảy máu nhỏ giọt khi loại bỏ lớp vảy trong bệnh vẩy nến mảng . Hiện tượng này liên quan đến tình trạng giãn mao mạch da , một yếu tố gây bệnh lý học của bệnh vẩy nến mãn tính.
+
+---
+
+## Bệnh vẩy nến được phân loại như thế nào?
+
+Một số đặc điểm của bệnh vẩy nến có thể được phân loại để giúp xác định các phương pháp điều trị và xét nghiệm phù hợp - có thể xảy ra tình trạng chồng chéo. Bao gồm:
+- Tuổi khởi phát sớm <35 tuổi (75%) so với tuổi khởi phát muộn >50 tuổi
+- Bệnh vẩy nến thể [giọt](https://dermnetnz.org/topics/guttate-psoriasis) cấp tính so với [bệnh vẩy nến mảng mạn tính](https://dermnetnz.org/topics/chronic-plaque-psoriasis)
+- Ví dụ, bệnh vẩy nến khu trú ở [da đầu](https://dermnetnz.org/topics/scalp-psoriasis) , lòng [bàn tay và bàn chân](https://dermnetnz.org/topics/psoriasis-of-the-palms-and-soles) so với bệnh vẩy nến toàn thân
+- Mảng bám nhỏ (<3 cm) so với mảng bám lớn (>3 cm)
+- Mảng bám mỏng so với mảng bám dày
+- [Có móng tay dính vào](https://dermnetnz.org/topics/nail-psoriasis) hay không có móng tay dính vào
+
+---
+
+## Các loại bệnh vẩy nến
+
+
+### Bệnh vẩy nến giọt
+[Bệnh vẩy nến thể giọt cấp tính sau](https://dermnetnz.org/topics/guttate-psoriasis) nhiễm liên cầu khuẩn [](https://dermnetnz.org/topics/guttate-psoriasis)
+- Mảng bám nhỏ lan rộng
+- Thường sẽ khỏi sau vài tháng
+![Các mảng vảy nến nhỏ xuất hiện gần giống như những giọt mưa bắn tung tóe trên da](https://dermnetnz.org/assets/Uploads/scaly/ps4.jpg)
+![Cận cảnh bệnh vẩy nến giọt](https://dermnetnz.org/assets/Uploads/scaly/guttate-psoriasis/2763.jpg)
+![Giảm sắc tố sau viêm khi bệnh vẩy nến giọt đang khỏi](https://dermnetnz.org/assets/Uploads/scaly/guttate-psoriasis/2754.jpg)
+
+### Bệnh vẩy nến mảng nhỏ
+- Thường khởi phát muộn ở độ tuổi
+- Mảng bám <3 cm
+
+### Bệnh vẩy nến mảng bám mãn tính
+- Bền bỉ và kháng trị
+- Mảng bám >3 cm
+- Thường ảnh hưởng đến khuỷu tay, đầu gối và lưng dưới
+- Phạm vi từ nhẹ đến rất rộng
+![Mảng bám có ranh giới rõ ràng với vảy bạc trong bệnh vẩy nến mảng mạn tính](https://dermnetnz.org/assets/Uploads/scaly/ps3.jpg)
+![Vảy bạc dày trên khuỷu tay](https://dermnetnz.org/assets/Uploads/scaly/ps6.jpg)
+![Cận cảnh các mảng bám được phân định rõ ràng với vảy bạc trong bệnh vẩy nến mảng mạn tính](https://dermnetnz.org/assets/Uploads/chronic-plaque-psoriasis-019.jpg)
+
+### Bệnh vẩy nến mảng bám không ổn định
+- Sự mở rộng nhanh chóng của các mảng bám hiện có hoặc mới
+- [Hiện tượng Koebner](https://dermnetnz.org/topics/the-koebner-phenomenon) : mảng bám mới tại vị trí tổn thương da
+- Do nhiễm trùng , [căng thẳng](https://dermnetnz.org/topics/psychosocial-factors-in-dermatology) , thuốc hoặc cai thuốc
+
+### Bệnh vẩy nến thể gấp (vảy nến ngược)
+- Ảnh hưởng đến nếp gấp cơ thể và [bộ phận sinh dục](https://dermnetnz.org/topics/genital-psoriasis)
+- Các mảng mịn, rõ nét
+- Bị nấm men [candida](https://dermnetnz.org/topics/candida) xâm chiếm
+![Ban đỏ màu hồng cam phân định rõ ràng kéo dài đến đỉnh nếp gấp da do bệnh vẩy nến ở nếp gấp](https://dermnetnz.org/assets/Uploads/scaly/a/flexural-psoriasis.jpg)
+![Ban đỏ màu hồng cam được phân định rõ ràng, lan đến đỉnh nếp gấp da và vào khe rốn do bệnh vẩy nến ở nếp gấp](https://dermnetnz.org/assets/Uploads/scaly/genital-psoriasis-12.jpg)
+![Bệnh vẩy nến nách](https://dermnetnz.org/assets/Uploads/psorkai2.jpg)
+
+### Bệnh vẩy nến da đầu
+- Thường là vị trí đầu tiên hoặc duy nhất của bệnh vẩy nến
+![Mảng vảy nến da đầu được phân định rõ ràng](https://dermnetnz.org/assets/Uploads/scaly/a/scalp-psoriasis.jpg)
+![Bệnh vẩy nến da đầu thường lan rộng ra ngoài đường chân tóc](https://dermnetnz.org/assets/Uploads/scaly/w/scalp-psoriasis-01.jpg)
+![Vảy bám dính trong bệnh vẩy nến da đầu](https://dermnetnz.org/assets/Uploads/scaly/w/scalp-psoriasis-03.jpg)
+
+### Bệnh vảy nến
+- Sự chồng chéo của [viêm da tiết bã](https://dermnetnz.org/topics/seborrhoeic-dermatitis) và bệnh vẩy nến
+- Ảnh hưởng đến da đầu, mặt, tai và ngực
+- Bị xâm chiếm bởi [malassezia](https://dermnetnz.org/topics/malassezia-infections)
+![Bệnh vảy nến ở tai](https://dermnetnz.org/assets/Uploads/scaly/w/sebopsoriasis-1.jpg)
+![Bệnh vảy nến ở ngực](https://dermnetnz.org/assets/Uploads/scaly/w/sebopsoriasis-3.jpg)
+![Bệnh vảy nến ảnh hưởng đến da quanh tai](https://dermnetnz.org/assets/Uploads/scaly/s/sebopsorkorv.jpg)
+
+### Bệnh vẩy nến lòng bàn tay và bàn chân
+- Ảnh hưởng đến lòng bàn tay và/hoặc lòng bàn chân
+- [Bệnh sừng hóa da](https://dermnetnz.org/topics/acquired-keratoderma)
+- Nứt nẻ đau đớn
+![Tăng sừng ở lòng bàn chân và gót chân do bệnh vẩy nến - nứt nẻ đau đớn thường là một vấn đề](https://dermnetnz.org/assets/Uploads/scaly/ppps14.jpg)
+![Bệnh vẩy nến mảng bám lòng bàn tay](https://dermnetnz.org/assets/Uploads/scaly/ppps16.jpg)
+![Tăng sừng ở lòng bàn chân và gót chân do bệnh vẩy nến](https://dermnetnz.org/assets/Uploads/scaly/ppps42.jpg)
+
+### Bệnh vẩy nến móng tay
+- Rỗ , [bong móng](https://dermnetnz.org/topics/onycholysis) , vàng và có rãnh
+- Liên quan đến viêm khớp
+![Hố không đều và tình trạng bong móng ở móng tay - lưu ý dải màu vàng gần với tình trạng bong móng](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/a/nail-psoriasis-pitting-oil-spots.jpg)
+![Bong móng, dải vàng gần móng và nứt phiến móng do bệnh vẩy nến đơn vị móng](https://dermnetnz.org/assets/Uploads/psoriatic-nail-037.jpg)
+![Bệnh vảy nến (tách mảng bám khỏi nền móng) do bệnh vẩy nến](https://dermnetnz.org/assets/Uploads/psoriatic-nail-004.jpg)
+
+### Bệnh vẩy nến đỏ da toàn thân
+- Bệnh vẩy nến đỏ da toàn thân rất hiếm gặp.
+- Có thể hoặc không thể có trước một dạng bệnh vẩy nến khác
+- Các dạng cấp tính và mãn tính
+- Có thể dẫn đến bệnh toàn thân với tình trạng rối loạn nhiệt độ , mất cân bằng điện giải hoặc suy tim
+![Da đỏ và bong tróc - bệnh nhân run rẩy và cảm thấy không khỏe](https://dermnetnz.org/assets/Uploads/doctors/emergencies/images/ps-e1.jpg)
+![Đỏ da tập trung ảnh hưởng đến hơn 80% cơ thể – bệnh vẩy nến đỏ da toàn thân](https://dermnetnz.org/assets/Uploads/doctors/scaly-rashes/images/ps-e2.jpg)
+![Cận cảnh vùng đỏ và vảy hợp lưu trong bệnh vẩy nến đỏ da toàn thân](https://dermnetnz.org/assets/Uploads/scaly/ps-e4.jpg)
+Có một số tranh cãi về việc liệu [bệnh mụn mủ toàn thân](https://dermnetnz.org/topics/generalised-pustular-psoriasis) và [bệnh mụn mủ khu trú ở lòng bàn tay và bàn chân](https://dermnetnz.org/topics/palmoplantar-pustulosis) có được phân loại là nằm trong phổ bệnh vẩy nến hay không.
+
+### Các đặc điểm lâm sàng khác nhau như thế nào ở các loại da khác nhau?
+[Vảy nến mảng bám](https://dermnetnz.org/topics/chronic-plaque-psoriasis) là loại vẩy nến phổ biến nhất ở mọi chủng tộc. Người không phải người da trắng thường bị ảnh hưởng trên da rộng hơn người da trắng. Người châu Á được báo cáo là có tỷ lệ tổn thương trên diện tích bề mặt cơ thể cao nhất.
+Ở da cùng màu, các mảng da thường dày hơn, có vảy bạc và ngứa rõ rệt hơn. Màu hồng của các mảng da mới xuất hiện có thể khó nhận biết hơn.
+Mảng dày có thể có màu tím hoặc sẫm. Vảy nến mảng bám có nhiều khả năng dẫn đến [tăng](https://dermnetnz.org/topics/postinflammatory-hyperpigmentation) hoặc giảm sắc tố sau viêm ở vùng da có màu, ảnh hưởng đến chất lượng cuộc sống ngay cả sau khi bệnh đã khỏi.
+Các loại vảy nến khác có tỷ lệ mắc bệnh khác nhau ở các loại da khác nhau. [Vảy nến lòng bàn tay, bàn chân](https://dermnetnz.org/topics/psoriasis-of-the-palms-and-soles) được báo cáo là phổ biến hơn ở người Ấn Độ. Người không phải da trắng có nhiều khả năng mắc vảy nến mụn mủ và [đỏ da](https://dermnetnz.org/topics/erythrodermic-psoriasis) hơn người da trắng, trong khi [vảy nến thể gấp](https://dermnetnz.org/topics/flexural-psoriasis) được cho là xảy ra ở người da màu với tỷ lệ thấp hơn.
+![Bệnh vẩy nến mảng mạn tính ở da màu](https://dermnetnz.org/assets/collection-O/Psoriasis-in-skin-of-colour/plaque-psoriasis-skin-of-colour-00001.jpg)
+![Bệnh vẩy nến mảng mạn tính ở da màu](https://dermnetnz.org/assets/collection-O/Psoriasis-in-skin-of-colour/plaque-psoriasis-skin-of-colour-00002.jpg)
+![Vảy nến mảng nhỏ có vảy nổi rõ trên da](https://dermnetnz.org/assets/collection-O/Psoriasis-in-skin-of-colour-v2/psoriasis-00055.jpg)
+
+---
+
+## Các yếu tố làm trầm trọng thêm bệnh vẩy nến
+
+- Viêm amidan do liên cầu khuẩn ('viêm họng liên cầu khuẩn') và các bệnh nhiễm trùng khác
+- Chấn thương như vết cắt, vết trầy xước hoặc cháy nắng ( [vảy nến Koebnerised](https://dermnetnz.org/topics/the-koebner-phenomenon) )
+- Tiếp xúc với ánh nắng mặt trời ở khoảng 10% bệnh nhân vẩy nến (tiếp xúc với ánh nắng mặt trời thường có lợi hơn)
+- Da khô
+- [Béo phì](https://dermnetnz.org/topics/obesity-and-the-skin) , [hút thuốc](https://dermnetnz.org/topics/smoking-and-its-effects-on-the-skin) hoặc uống quá nhiều [rượu](https://dermnetnz.org/topics/cutaneous-adverse-effects-of-alcohol)
+- Các loại thuốc như [lithium](https://dermnetnz.org/topics/lithium) , [thuốc chẹn beta](https://dermnetnz.org/topics/beta-blockers) , [thuốc chống sốt rét](https://dermnetnz.org/topics/antimalarial) , [thuốc chống viêm không steroid,](https://dermnetnz.org/topics/non-steroidal-anti-inflammatory-drugs-and-their-skin-side-effects) terbinafine, [liệu pháp miễn dịch](https://dermnetnz.org/topics/immunotherapy-related-psoriasiform-reactions) và các loại thuốc khác
+- Ngừng sử dụng [steroid đường uống](https://dermnetnz.org/topics/systemic-steroids) hoặc [corticosteroid bôi ngoài da](https://dermnetnz.org/topics/topical-steroid) mạnh , thường được gọi là hiện tượng tái nghiện steroid
+- Các yếu tố môi trường khác như [sự kiện căng thẳng](https://dermnetnz.org/topics/psychosocial-factors-in-dermatology) .
+
+### Các tình trạng sức khỏe liên quan đến bệnh vẩy nến
+Bệnh nhân mắc bệnh vẩy nến có nhiều khả năng mắc các tình trạng sức khỏe liên quan như được liệt kê ở đây hơn những người khác.
+- [Viêm khớp vẩy nến](https://dermnetnz.org/topics/psoriatic-arthritis) ( một bệnh tự miễn ) và [bệnh lý cột sống-khớp](https://dermnetnz.org/topics/spondyloarthropathy) (gặp ở 40% bệnh nhân mắc [bệnh vẩy nến mảng mãn tính](https://dermnetnz.org/topics/chronic-plaque-psoriasis) khởi phát sớm ).
+- [Bệnh viêm ruột](https://dermnetnz.org/topics/cutaneous-manifestations-of-inflammatory-bowel-disease) ( [bệnh Crohn](https://dermnetnz.org/topics/crohn-skin-disease) và viêm loét đại tràng ).
+- Viêm màng bồ đào (một dạng viêm ở mắt).
+- [Bệnh celiac.](https://dermnetnz.org/topics/gluten-enteropathy-in-patients-with-dermatitis-herpetiformis)
+- [Viêm mủ lòng bàn tay](https://dermnetnz.org/topics/palmoplantar-pustulosis) , bàn chân khu [trú, viêm mủ toàn thân](https://dermnetnz.org/topics/generalised-pustular-psoriasis) và [viêm mủ toàn thân cấp tính.](https://dermnetnz.org/topics/acute-generalised-exanthematous-pustulosis)
+- Bệnh gan nhiễm mỡ không do rượu (xem [Vấn đề về gan và bệnh vẩy nến](https://dermnetnz.org/topics/liver-problems-and-psoriasis) ).
+
+### Bệnh vẩy nến và hội chứng chuyển hóa
+Hội chứng chuyển hóa là sự kết hợp của béo phì, tăng huyết áp , rối loạn lipid máu và kháng insulin .
+- Bệnh này xuất hiện ở nhiều bệnh nhân bị bệnh vẩy nến, đặc biệt là những người bị [bệnh vẩy nến mảng mãn tính](https://dermnetnz.org/topics/chronic-plaque-psoriasis) nghiêm trọng .
+- Mối liên hệ giữa bệnh vẩy nến, béo phì và [bệnh tiểu đường](https://dermnetnz.org/topics/skin-problems-associated-with-diabetes-mellitus) loại 2 không phụ thuộc vào tuổi tác, giới tính và tiền sử hút thuốc.
+- Người ta cho rằng mối liên hệ này là do yếu tố di truyền và tình trạng viêm mãn tính.
+- Trục interleukin (IL)-23/Th 17 thúc đẩy cả tình trạng viêm da vảy nến và xơ vữa động mạch ; bệnh vảy nến là một yếu tố nguy cơ độc lập đối với bệnh tim mạch.
+Thay đổi lối sống như giảm cân, giảm lipid và kiểm soát chặt chẽ lượng glucose có thể làm giảm tỷ lệ tử vong do các biến cố tim mạch ở bệnh nhân mắc bệnh vẩy nến.
+
+---
+
+## Bệnh vẩy nến được chẩn đoán như thế nào?
+
+Bệnh vẩy nến được chẩn đoán dựa trên các triệu chứng lâm sàng. Nếu cần, chẩn đoán được hỗ trợ bởi các kết quả [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) điển hình .
+
+### Đánh giá bệnh vẩy nến
+Đánh giá y tế bao gồm việc tìm hiểu bệnh sử cẩn thận, kiểm tra, đặt câu hỏi về ảnh hưởng của bệnh vẩy nến đến cuộc sống hàng ngày và đánh giá các yếu tố bệnh đi kèm.
+Các công cụ được xác thực dùng để đánh giá bệnh vẩy nến bao gồm:
+- [Chỉ số diện tích và mức độ nghiêm trọng của bệnh vẩy nến (PASI)](https://dermnetnz.org/topics/pasi-score)
+- Chỉ số diện tích và mức độ nghiêm trọng của bệnh vẩy nến tự điều trị (SAPASI)
+- Đánh giá toàn cầu của bác sĩ/bệnh nhân (PGA)
+- Diện tích bề mặt cơ thể (BSA)
+- Chỉ số diện tích và mức độ nghiêm trọng dựa trên logarit của bệnh vẩy nến (PLASI)
+- Chỉ số bệnh vẩy nến đơn giản
+- [Chỉ số chất lượng cuộc sống da liễu (DLQI)](https://dermnetnz.org/topics/dermatology-life-quality-index-dlqi)
+- SKINDEX-16
+Mức độ nghiêm trọng của bệnh vẩy nến được phân loại là nhẹ ở 60% bệnh nhân, trung bình ở 30% và nặng ở 10%.
+Đánh giá các bệnh đi kèm có thể bao gồm:
+- Đánh giá sàng lọc viêm khớp vảy nến (PASE) hoặc Công cụ sàng lọc dịch tễ học bệnh vảy nến (PEST)
+- Chỉ số khối cơ thể (BMI) và vòng eo
+- Huyết áp
+- Điện tâm đồ ( ECG )
+- Lượng đường/glucose trong máu và hemoglobin glycated (HbA1c)
+- Hồ sơ lipid, chức năng gan và nồng độ axit uric.
+
+---
+
+## Điều trị bệnh vẩy nến
+
+
+### Lời khuyên chung
+Bệnh nhân bị bệnh vẩy nến cần được cung cấp đầy đủ thông tin về tình trạng da của mình và cách điều trị. Các khuyến nghị bao gồm:
+- [](https://dermnetnz.org/topics/smoking-and-its-effects-on-the-skin) Cai [thuốc lá](https://dermnetnz.org/topics/smoking-and-its-effects-on-the-skin)
+- Giới hạn an toàn khi tiêu thụ [rượu](https://dermnetnz.org/topics/cutaneous-adverse-effects-of-alcohol)
+- Duy trì cân nặng tối ưu.
+
+### Liệu pháp tại chỗ
+Bệnh vẩy nến thể nhẹ thường được điều trị bằng các thuốc bôi ngoài da . Phương pháp điều trị được lựa chọn tùy thuộc vào vị trí cơ thể, mức độ và mức độ nghiêm trọng của bệnh vẩy nến, và có thể bao gồm:
+- [Chất làm mềm và chất dưỡng ẩm](https://dermnetnz.org/topics/emollients-and-moisturisers)
+- [Các chế phẩm hắc ín than đá](https://dermnetnz.org/topics/coal-tar)
+- [Dithranol](https://dermnetnz.org/topics/dithranol)
+- [Axit salicylic](https://dermnetnz.org/topics/salicylic-acid)
+- Chất tương tự vitamin D (ví dụ, [calcipotriol](https://dermnetnz.org/topics/calcipotriol) )
+- [Corticosteroid tại chỗ](https://dermnetnz.org/topics/topical-steroid)
+- Thuốc mỡ/gel hoặc [bọt](https://dermnetnz.org/topics/calcipotriolbetamethasone-dipropionate-foam) kết hợp [calcipotriol/betamethasone dipropionate](https://dermnetnz.org/topics/calcipotriolbetamethasone-dipropionate-ointment-and-gel) [](https://dermnetnz.org/topics/calcipotriolbetamethasone-dipropionate-foam)
+- [Thuốc ức chế calcineurin](https://dermnetnz.org/topics/calcineurin-inhibitors) ( [tacrolimus](https://dermnetnz.org/topics/tacrolimus) , [pimecrolimus](https://dermnetnz.org/topics/pimecrolimus) )
+
+### Liệu pháp quang học
+Hầu hết các trung tâm điều trị bệnh vẩy nến đều cung cấp [liệu pháp quang trị liệu](https://dermnetnz.org/topics/phototherapy) (liệu pháp ánh sáng) với [tia cực tím (UV)](https://dermnetnz.org/topics/ultraviolet-radiation-and-human-health) , thường kết hợp với các tác nhân tại chỗ hoặc toàn thân, bao gồm:
+- [Liệu pháp quang học UVB](https://dermnetnz.org/topics/uvb-phototherapy)
+- [PUVA (quang hóa trị liệu)](https://dermnetnz.org/topics/puva-photochemotherapy)
+- [Liệu pháp quang học có mục tiêu](https://dermnetnz.org/topics/targeted-phototherapy)
+- [Tia laser Excimer](https://dermnetnz.org/topics/lasers-in-dermatology) .
+
+### Liệu pháp toàn thân
+Bệnh vẩy nến từ trung bình đến nặng cần được điều trị bằng thuốc toàn thân và/hoặc [liệu pháp quang trị liệu](https://dermnetnz.org/topics/phototherapy) . Các phương pháp điều trị phổ biến nhất là:
+- [Methotrexate](https://dermnetnz.org/topics/methotrexate)
+- [Ciclosporin](https://dermnetnz.org/topics/ciclosporin)
+- [Thuốc Acitretin.](https://dermnetnz.org/topics/acitretin)
+Các loại thuốc khác đôi khi được sử dụng để điều trị bệnh vẩy nến bao gồm:
+- [Apremilast](https://dermnetnz.org/topics/apremilast)
+- [Hydroxyurea](https://dermnetnz.org/topics/hydroxyurea)
+- [Dimethyl fumarat](https://dermnetnz.org/topics/fumaric-acid-esters) .
+[Tốt nhất nên tránh dùng corticosteroid toàn thân](https://dermnetnz.org/topics/systemic-steroids) vì có nguy cơ bùng phát bệnh vẩy nến nghiêm trọng và các tác dụng phụ.
+
+### Liệu pháp sinh học
+[Liệu pháp sinh học](https://dermnetnz.org/topics/biological-agents-for-psoriasis) được dành riêng cho bệnh vẩy nến nặng và [viêm khớp vẩy nến](https://dermnetnz.org/topics/psoriatic-arthritis) không đáp ứng với liệu pháp toàn thân thông thường. Việc sử dụng thuốc sinh học đã tăng lên nhờ sự phát triển của các liệu pháp mới nhắm vào các con đường gây viêm chính như TNF-alpha và IL-17.
+Thuốc sinh học rất tốn kém và có thể gây ra tác dụng phụ. Chúng nên được chỉ định bởi các chuyên gia am hiểu về cách sử dụng.
+[Thuốc ức chế TNF-alpha](https://dermnetnz.org/topics/tumour-necrosis-factor-inhibitors) :
+- [Adalimumab](https://dermnetnz.org/topics/adalimumab-for-psoriasis)
+- [Etanercept](https://dermnetnz.org/topics/etanercept-for-psoriasis)
+- [Infliximab](https://dermnetnz.org/topics/infliximab-for-psoriasis)
+- Certolizumab pegol.
+Thuốc ức chế Interleukin 17 (IL-17) :
+- [Ixekizumab](https://dermnetnz.org/topics/ixekizumab)
+- [Secukinumab](https://dermnetnz.org/topics/secukinumab)
+- [Brodalumab](https://dermnetnz.org/topics/brodalumab)
+- [Bimekizumab](https://dermnetnz.org/topics/bimekizumab)
+Thuốc ức chế Interleukin 23 (IL-23):
+- [Ustekinumab](https://dermnetnz.org/topics/ustekinumab-for-psoriasis)
+- [Guselkumab](https://dermnetnz.org/topics/guselkumab)
+- [Tildrakizumab](https://dermnetnz.org/topics/tildrakizumab)
+- [Risankizumab](https://dermnetnz.org/topics/risankizumab)
+Adalimumab, etanercept và ustekinumab đã được sử dụng để điều trị [bệnh vẩy nến nặng ở trẻ em](https://dermnetnz.org/topics/paediatric-psoriasis) .
+Các tác nhân mới hơn:
+- [](https://dermnetnz.org/topics/tapinarof) Kem [Tapinarof](https://dermnetnz.org/topics/tapinarof) 1% là chất chủ vận thụ thể hydrocarbon aryl có tác dụng điều hòa giảm tế bào TH2, hoạt hóa IL-17 và mức độ nghiêm trọng của bệnh. Tapinarof đang được thử nghiệm Giai đoạn III để điều trị cho trẻ em .
+- Các phân tử nhỏ : [Deucravacitinib](https://dermnetnz.org/topics/deucravacitinib) , brepocitanib và ropsacitanib là chất ức chế tyrosine kinase 2 (TYK2) (xem [chất ức chế Janus kinase](https://dermnetnz.org/topics/janus-kinase-inhibitors) ).

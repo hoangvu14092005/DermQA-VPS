@@ -1,0 +1,54 @@
+# Nốt sần Milker — thông tin bổ sung
+
+Thể loại:
+
+Nhiễm trùng
+
+SNOMED CT:
+
+27240009, 70275008, 414017008, 762375006
+
+**[Nhiễm trùng](https://dermnetnz.org/topics/topics?category=Infections)**
+
+
+# **Nốt sần của Milker**
+
+Đánh giá lần cuối: Tháng 3 năm 2023Tác giả: Tiến sĩ Mark Duffill MBChB FRCP, Bác sĩ da liễu, New Zealand (2001)Đánh giá bác sĩ da liễu: Tiến sĩ Ian Coulson (2023)
+
+---
+
+## U cục ở bò sữa là gì?
+
+Nốt sần ở người vắt sữa là tình trạng nhiễm trùng da do vi-rút gây ra ở núm vú bò. Đôi khi nó còn được gọi là mụn thịt bò, mặc dù cần lưu ý rằng đây là một tình trạng khác với [bệnh đậu mùa bò](https://dermnetnz.org/topics/cowpox) (trong các báo cáo gần đây từ châu Âu, bệnh đậu mùa bò được lây truyền từ mèo và các loài gặm nhấm nhỏ chứ không phải từ bò).
+Nốt sần của người vắt sữa là bệnh đậu mùa ở trang trại và còn được gọi là paravaccinia, giả đậu bò và nốt sần của người vắt sữa.
+
+---
+
+## Nguyên nhân nào gây ra u cục ở bò sữa?
+
+Nốt sần ở bò sữa do một loại virus parapox gây ra. Nó gây ra các bệnh nhiễm trùng nhẹ ở núm vú bò, chẳng hạn như các vết loét hình vòng, cũng như các vết loét ở miệng bê. Nó tương tự như virus viêm miệng sẩn ở bò , ảnh hưởng đến cùng một vị trí ở gia súc. Hai loại virus này là các biến thể. Cả hai đều có thể gây ra các tổn thương trên tay của người chăn nuôi bò sữa hoặc bác sĩ thú y khi khám miệng động vật. Nhiễm trùng ở người là do tiếp xúc với các tổn thương bị nhiễm trùng trên động vật. Bất kỳ trường hợp lây truyền từ người sang người nào dường như chưa được ghi nhận. [Orf](https://dermnetnz.org/topics/orf) là ​​một loại virus parapox khác ảnh hưởng đến cừu và dê. [](https://dermnetnz.org/topics/orf)
+
+---
+
+## Nốt sần ở bò sữa trông như thế nào?
+
+Sau thời gian ủ bệnh từ 5-14 ngày, các nốt nhỏ, màu đỏ, nổi lên, phẳng sẽ xuất hiện. Trong vòng một tuần, chúng xuất hiện dưới dạng mụn nước hoặc nốt sần (cục) màu đỏ-xanh, cứng, hơi đau , thường từ 2 đến 5 nốt, mặc dù chúng có thể đơn độc hoặc nhiều hơn. Các nốt sần thường xuất hiện ở bàn tay, đặc biệt là các ngón tay, nhưng đôi khi cũng xuất hiện ở mặt. Phần trên của các nốt sần thường có da màu xám và đóng vảy nhỏ. [Nhiễm trùng](https://dermnetnz.org/topics/wound-infections) thứ phát có thể phát triển. Nhiều bệnh nhân xuất hiện các vệt đỏ dọc theo các kênh bạch huyết ở cánh tay ( viêm mạch bạch huyết ) và một số hạch bạch huyết sưng to .
+
+### Các nốt sần của Milker tiếp theo một tuần sau đó là phát ban giống ban đỏ đa dạng
+![Nốt sần của Milker](https://dermnetnz.org/assets/Uploads/viral/s/milkers2.jpg)
+![Nốt sần của Milker](https://dermnetnz.org/assets/Uploads/viral/s/milkers3.jpg)
+Rất khó để phân biệt chính xác các nốt sần ở người vắt sữa với bệnh đậu [lạc đà (orf) , một tình trạng](https://dermnetnz.org/topics/orf) liên quan ở cừu, nhưng hình dạng của các nốt sần, số lượng tổn thương và việc bò hay cừu chủ yếu tiếp xúc là những yếu tố gợi ý. Gần đây, các tổn thương tương tự đã được báo cáo ở người bị nhiễm một loại virus đậu lạc đà đặc hữu ở lạc đà (đậu lạc đà) tại Ấn Độ.
+Một hoặc hai tuần sau khi xuất hiện nốt sần ở người vắt sữa, một số bệnh nhân sẽ xuất hiện ban [đỏ đa dạng](https://dermnetnz.org/topics/erythema-multiforme) . Biểu hiện là các nốt nhỏ hoặc mụn nước nổi lên trên tay, cánh tay, chân và cổ. Phát ban này sẽ mờ dần sau 1–2 tuần.
+
+---
+
+## Chẩn đoán u cục ở bò sữa được thực hiện như thế nào?
+
+Ở những người có nguy cơ nhiễm trùng do nghề nghiệp, chẩn đoán được thực hiện dựa trên hình ảnh điển hình của các tổn thương. Có thể xác định bằng kính hiển vi điện tử và PCR . Có thể cần [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) . Các [đặc điểm bệnh lý đặc trưng của đậu mùa](https://dermnetnz.org/topics/dermatopathological-terminology) là tăng sản thượng bì , sưng tấy rõ rệt ở lớp hạ bì , phồng rộp trong và dưới thượng bì , và thâm nhiễm viêm hỗn hợp dày đặc .
+
+---
+
+## Điều trị u cục ở bò sữa như thế nào?
+
+Các nốt mụn sữa có thể tự khỏi sau 4-6 tuần. Cần che phủ các nốt mụn này để tránh lây lan sang người khác và ô nhiễm môi trường. Cần đeo găng tay khi vắt sữa. Cần điều trị bất kỳ [nhiễm trùng thứ phát nào do vi khuẩn .](https://dermnetnz.org/topics/impetigo)
+Các nốt sần Milker có thể nghiêm trọng hơn ở những người đã ghép tế bào gốc ; một trường hợp phức tạp do ban đỏ đa dạng và tình trạng [bệnh ghép chống vật chủ](https://dermnetnz.org/topics/graft-versus-host-disease) mạn tính trở nặng đã được báo cáo. [](https://dermnetnz.org/topics/graft-versus-host-disease)

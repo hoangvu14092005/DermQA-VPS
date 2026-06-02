@@ -1,0 +1,123 @@
+# Bệnh Fabry — thông tin bổ sung
+
+Thể loại:
+
+Di truyền
+
+SNOMED CT:
+
+16652001, 254788004
+
+**[Di truyền](https://dermnetnz.org/topics/topics?category=Genetic)**
+
+
+# **Bệnh Fabry**
+
+Tác giả: Qiuyu Jin, Sinh viên Y khoa, Đại học Auckland, Auckland, New Zealand. Tổng biên tập DermNet: Phó Giáo sư Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand. Biên tập bởi Gus Mitchell/Maria McGivern. Tháng 7 năm 2019.
+
+---
+
+## Bệnh Fabry là gì?
+
+Bệnh Fabry là một rối loạn lưu trữ lysosome di truyền hiếm gặp [1]. Bệnh này còn được gọi là bệnh Anderson–Fabry và u mạch sừng thể khuếch tán.
+Bệnh Fabry gây ra các cụm [u mạch sừng hóa](https://dermnetnz.org/topics/angiokeratoma) (các đốm nhỏ, màu đỏ sẫm trên da) và nhiều triệu chứng toàn thân do lắng đọng globotriaosylceramide (Gb3) ở nhiều cơ quan.
+![U mạch sừng hóa trong nghi ngờ bệnh Fabry](https://dermnetnz.org/assets/Uploads/angiokeratoma-10.jpg)
+![U mạch sừng hóa trong nghi ngờ bệnh Fabry](https://dermnetnz.org/assets/Uploads/angiokeratoma-11.jpg)
+![U mạch sừng hóa trong bệnh Fabry](https://dermnetnz.org/assets/Uploads/angiokeratoma-14.jpg)
+
+---
+
+## Ai mắc bệnh Fabry?
+
+Tỷ lệ mắc bệnh ước tính ở nam giới là khoảng một trên 40.000–60.000 dân số [2]. Bệnh Fabry thường ảnh hưởng đến nam giới và trẻ em trai nghiêm trọng hơn và ở độ tuổi sớm hơn so với phụ nữ và trẻ em gái vì bệnh di truyền liên kết với nhiễm sắc thể X (nam giới chỉ mang một nhiễm sắc thể X trong khi phụ nữ có hai). Bệnh Fabry có thể xảy ra ở tất cả các nhóm dân tộc [3].
+Độ tuổi mắc bệnh Fabry có thể dao động từ thập niên thứ hai đến thập niên thứ năm của cuộc đời hoặc muộn hơn.
+Bệnh Fabry thường biểu hiện bằng các triệu chứng không đặc hiệu, có thể nhẹ và khó phát hiện, và thường bị bỏ sót hoặc chẩn đoán sai, dẫn đến việc đánh giá thấp mức độ phổ biến của bệnh [4].
+
+---
+
+## Nguyên nhân gây ra bệnh Fabry là gì?
+
+Bệnh Fabry là do đột biến gen alpha-galactosidase A ( GLA ) được lập bản đồ trên cánh dài của nhiễm sắc thể X [5]. Có hàng trăm biến thể gây bệnh khác nhau của đột biến này, dẫn đến các triệu chứng khác nhau và mức độ nghiêm trọng khác nhau [6]. Đàn ông mắc bệnh Fabry truyền gen cho tất cả các con gái nhưng không truyền cho con trai của họ. Phụ nữ mắc bệnh Fabry có 50% khả năng truyền gen cho con gái hoặc con trai của họ. Một số phụ nữ và trẻ em gái bị ảnh hưởng nghiêm trọng như nam giới và trẻ em trai do nhiễm sắc thể X bất hoạt ngẫu nhiên [7].
+Gb3 là chất trung gian trong con đường phân hủy globoside (một glycosphingolipid), một thành phần chính của một số màng tế bào. Enzym alpha -galactosidase A xúc tác quá trình phân cắt (tách) galactose đầu cuối khỏi Gb3. Thiếu enzyme alpha-galactosidase A dẫn đến sự tích tụ Gb3 trong nhiều mô khác nhau, dẫn đến chết tế bào. Các vị trí tích tụ Gb3 có ý nghĩa lâm sàng quan trọng nhất là mạch máu ở da, tim, dây thần kinh và thận [8].
+
+---
+
+## Các đặc điểm lâm sàng của bệnh Fabry là gì?
+
+Các đặc điểm đặc trưng của bệnh Fabry là:
+- Các cụm [u mạch sừng hóa](https://dermnetnz.org/topics/angiokeratoma) (sẩn nhỏ, màu đỏ sẫm )
+- Không chịu được nhiệt và giảm tiết mồ hôi (giảm tiết mồ hôi)
+- Các đợt đau thần kinh ở tay và chân ( đau thần kinh ở tay và chân) (đau thần kinh ở tay và chân), do căng thẳng hoặc nhiệt độ khắc nghiệt gây ra
+- Độ đục của giác mạc
+- Mất thính lực [9]
+- Các triệu chứng ở bụng như đau, buồn nôn, nôn và tiêu chảy hoặc táo bón [10]
+- Sốt tái phát , mệt mỏi, các vấn đề về tâm lý và xã hội
+- Các biến chứng nghiêm trọng và có khả năng đe dọa tính mạng bao gồm tổn thương thận, bệnh tim và đột quỵ [11].
+[Biểu hiện da liễu](https://dermnetnz.org/topics/skin-signs-and-systemic-disease) xảy ra ở hơn 70% bệnh nhân mắc bệnh Fabry, với độ tuổi khởi phát trung bình là 17 tuổi [3].
+
+### U mạch sừng hóa
+[U mạch sừng hóa](https://dermnetnz.org/topics/angiokeratoma) là tình trạng các mạch máu giãn nở ở lớp hạ bì trên , biểu hiện dưới dạng các nốt sẩn màu đỏ hoặc đen. Các nốt sẩn này không mất màu khi ấn vào, và các tổn thương cũ có thể trở thành mụn cóc. Các cụm hoặc u mạch sừng hóa lan tỏa xuất hiện lần đầu ở người trẻ tuổi cần cảnh báo bác sĩ về khả năng chẩn đoán bệnh Fabry.
+Trong bệnh Fabry, u mạch sừng hóa là do sự tích tụ Gb3 trong các tế bào nội mô da , dẫn đến phình và suy yếu thành mạch [12]. U mạch sừng hóa thường khu trú ở vùng đồ bơi (từ rốn đến đùi trên, bao gồm cả bộ phận sinh dục). Hơn một phần ba số bệnh nhân cũng phát triển u mạch sừng hóa và [giãn mạch](https://dermnetnz.org/topics/telangiectasia) ở môi và bên trong miệng [13]. [](https://dermnetnz.org/topics/telangiectasia)
+Không có mối tương quan giữa mức độ nghiêm trọng của bệnh và mức độ của u mạch máu sừng hóa [14].
+
+### Giảm tiết mồ hôi
+Giảm tiết mồ hôi là một đặc điểm phổ biến của bệnh Fabry dẫn đến [da khô](https://dermnetnz.org/topics/dry-skin) và [không dung nạp nhiệt](https://dermnetnz.org/topics/heat-and-cold) [15]. Có khả năng đây là kết quả của phản ứng thần kinh tự chủ bất thường do lắng đọng Gb3.
+
+### Các biểu hiện ngoài da khác của bệnh Fabry
+Bệnh Fabry có thể được nhận biết bằng các dấu hiệu khác trên da, chẳng hạn như:
+- [Phù bạch huyết](https://dermnetnz.org/topics/lymphoedema) ở cẳng chân [14]
+- Lông mặt thưa và mịn [14]
+- [Hiện tượng Raynaud](https://dermnetnz.org/topics/raynaud-phenomenon) [15].
+
+---
+
+## Biến chứng của bệnh Fabry là gì?
+
+Ba biến chứng nghiêm trọng nhất của bệnh Fabry là bệnh thận, bệnh tim và bệnh mạch máu não [3].
+- Bệnh thận có thể dao động từ tình trạng protein niệu đơn độc đến suy thận giai đoạn cuối [3].
+- Bệnh tim liên quan đến bệnh Fabry bao gồm phì đại thất trái , suy tim, bệnh động mạch vành và loạn nhịp tim.
+- Bệnh mạch máu não bao gồm các cơn thiếu máu não thoáng qua và đột quỵ do thiếu máu não.
+
+---
+
+## Bệnh Fabry được chẩn đoán như thế nào?
+
+Bệnh nhân nam và nữ được chẩn đoán khác nhau.
+- Bệnh nhân nam có thể được chẩn đoán bằng xét nghiệm máu. Mức hoạt động của alpha-galactosidase A rất thấp (< 3%) là đủ để chẩn đoán bệnh Fabry, trong khi mức trên 35% loại trừ bệnh Fabry. Mức hoạt động nằm giữa hai con số này cần được phân tích di truyền để xác nhận chẩn đoán.
+- Bệnh nhân nữ có hoạt động enzyme thay đổi với tỷ lệ đáng kể hoạt động bình thường, do đó chẩn đoán bệnh Fabry phải dựa vào phân tích di truyền.
+- Nếu phân tích di truyền không xác định được đột biến gây bệnh cụ thể cho bệnh Fabry, có thể cân nhắc sinh thiết các cơ quan bị ảnh hưởng (bao gồm [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) ); điều này có thể cho thấy sự tích tụ Gb3 trong tế bào [3,14].
+Các thành viên trong gia đình của bệnh nhân được chẩn đoán mắc bệnh Fabry cũng nên được xét nghiệm.
+Cần tiến hành xét nghiệm nước tiểu và điện tâm đồ để phát hiện những bất thường về thận và tim.
+
+---
+
+## Chẩn đoán phân biệt bệnh Fabry là gì?
+
+Do tính hiếm gặp và nhiều đặc điểm lâm sàng không đặc hiệu, bệnh Fabry thường bị chẩn đoán sai và thường được coi là tình trạng “kẻ mạo danh lớn” [16].
+[U mạch sừng hóa](https://dermnetnz.org/topics/angiokeratoma) không phải là đặc trưng của bệnh Fabry vì các tổn thương đơn độc có thể xảy ra ở người khỏe mạnh. Chúng cũng được tìm thấy ở những bệnh nhân mắc [chứng giãn mao mạch xuất huyết di truyền](https://dermnetnz.org/topics/hereditary-haemorrhagic-telangiectasia) và trong các rối loạn lysosome khác, bao gồm:
+- Bệnh Schindler (một rối loạn chuyển hóa di truyền hiếm gặp)
+- Bệnh fucosidosis (một rối loạn lưu trữ lysosome hiếm gặp dẫn đến tình trạng tích tụ đường có khả năng gây tử vong)
+- Aspartylglucosaminuria (một rối loạn do khiếm khuyết ở enzyme aspartylglucosaminidase)
+- Bệnh beta-mannosidosis (một rối loạn do giảm hoạt động của enzyme beta-mannosidase)
+- Bệnh sialidosis (một rối loạn chuyển hóa do thiếu hụt enzyme neuraminidase) [12,14].
+Những chẩn đoán nhầm lẫn thường gặp nhất là:
+- Các tình trạng thấp khớp như [sốt thấp khớp](https://dermnetnz.org/topics/rheumatic-fever) hoặc [viêm da cơ](https://dermnetnz.org/topics/adult-onset-dermatomyositis) - trong những trường hợp này, các biểu hiện về da liễu khác nhau về hình thức và thời gian diễn biến
+- Bệnh lý thần kinh và đau xơ cơ — trong đó không có sự liên quan đến tim, thận, thần kinh và da
+- Bệnh đa hồng cầu nguyên phát và bệnh tiểu cầu nguyên phát — Bệnh Fabry không gây tăng số lượng tiểu cầu
+- [Giãn mao mạch xuất huyết di truyền](https://dermnetnz.org/topics/hereditary-haemorrhagic-telangiectasia) — Bệnh Fabry thường không gây chảy máu cam tự phát hoặc chảy máu đường tiêu hóa
+- Hội chứng ruột kích thích — không có biểu hiện toàn thân nào khác [4,17].
+
+---
+
+## Phương pháp điều trị bệnh Fabry là gì?
+
+Sau khi được chẩn đoán, bệnh nhân nam mắc bệnh Fabry thường được kê đơn liệu pháp thay thế enzyme, bất kể các đặc điểm lâm sàng [9,14,18]. Bệnh nhân nữ chỉ nên được điều trị nếu họ có các biểu hiện lâm sàng đáng kể.
+Liệu pháp thay thế enzyme cung cấp cho bệnh nhân enzyme alpha-galactosidase A bị thiếu hụt. Liệu pháp này làm giảm mức độ nghiêm trọng và tiến triển của các biểu hiện bệnh, đặc biệt là đau thần kinh và bệnh thận, bằng cách giảm lắng đọng Gb3 trong mô. Tác dụng của liệu pháp thay thế enzyme đối với các biểu hiện tim mạch vẫn chưa rõ ràng [18].
+Bệnh nhân mắc bệnh Fabry có thể cần sự tư vấn từ nhiều chuyên khoa khác nhau, bao gồm bác sĩ đa khoa, bác sĩ tim mạch, bác sĩ thận, bác sĩ thần kinh và bác sĩ da liễu để kiểm soát các biểu hiện ở từng cơ quan. Đau thần kinh ở tay và chân có thể đáp ứng với [thuốc chống co giật](https://dermnetnz.org/topics/cutaneous-adverse-effects-of-anticonvulsant-drugs) , chẳng hạn như carbamazepine [18,19].
+Điều trị u mạch sừng hóa bao gồm [liệu pháp lạnh](https://dermnetnz.org/topics/cryotherapy) , [điện đông](https://dermnetnz.org/topics/electrosurgery) , [phẫu thuật cắt bỏ](https://dermnetnz.org/topics/excision-of-skin-lesions) và [liệu pháp laser](https://dermnetnz.org/topics/lasers-in-dermatology) [12,14,20].
+
+---
+
+## Hậu quả của bệnh Fabry là gì?
+
+Bệnh Fabry tiến triển và thường dẫn đến tuổi thọ ngắn hơn. Tiên lượng khác nhau tùy từng bệnh nhân [21]. Tỷ lệ sống sót giảm đáng kể ở bệnh nhân nam mắc bệnh Fabry thể nặng, xuống dưới 60 tuổi, thường là 40 hoặc 50 tuổi. Hầu hết các trường hợp tử vong là do bệnh tim mạch, bao gồm đột quỵ, nhồi máu cơ tim và suy tim. Tử vong do suy thận, nhiễm trùng huyết và tự tử cũng đã được báo cáo [18]. Lợi ích của liệu pháp thay thế enzyme đối với tiên lượng chung vẫn chưa rõ ràng do thiếu bằng chứng hiện tại [18,22,23].

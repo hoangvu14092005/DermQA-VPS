@@ -1,0 +1,125 @@
+# Loét áp tơ — thông tin bổ sung
+
+Thể loại:
+
+Tổn thương (lành tính)
+
+SNOMED CT:
+
+427617000, 426965005, 398870000, 196531008, 307772002, 319297003, 426567008, 70718000, 402708008
+
+**[Tổn thương (lành tính)](https://dermnetnz.org/topics/topics?category=Lesions+(benign))**
+
+
+# **Loét áp tơ**
+
+Tác giả: Vanessa Ngan, Biên tập viên, 2003. Cập nhật bởi Phó Giáo sư Amanda Oakley, Tổng biên tập, tháng 1 năm 2016. Sửa đổi DermNet tháng 4 năm 2021
+
+---
+
+## Loét áp tơ là gì?
+
+Loét áp-tơ là tình trạng loét phổ biến nhất ở niêm mạc miệng , biểu hiện bằng vết loét đau, lõm trên niêm mạc miệng hoặc niêm mạc sinh dục. Loét áp-tơ còn được gọi là áp-tơ, viêm loét miệng áp-tơ, viêm loét miệng áp-tơ và loét canker.
+
+---
+
+## Ai bị loét áp-tơ?
+
+Bất kỳ ai cũng có thể bị loét miệng; 20% dân số bị một hoặc nhiều vết loét, ít nhất là thỉnh thoảng. Chúng thường xuất hiện lần đầu ở trẻ em hoặc thanh thiếu niên, và thường ảnh hưởng đến nữ giới nhiều hơn nam giới.
+Loét áp tơ có thể là biểu hiện sớm của một bệnh toàn thân như bệnh Behçet hoặc các rối loạn tiêu hóa bao gồm bệnh celiac, [bệnh Crohn](https://dermnetnz.org/topics/crohn-skin-disease) và [viêm loét đại tràng](https://dermnetnz.org/topics/oral-manifestations-of-inflammatory-bowel-disease) . Viêm loét áp tơ là một đặc điểm của hội chứng sốt tái phát [PFAPA](https://dermnetnz.org/topics/pfapa-syndrome) . [](https://dermnetnz.org/topics/pfapa-syndrome)
+Điều thú vị là [hút thuốc](https://dermnetnz.org/topics/smoking-and-its-effects-on-the-skin) có thể có tác dụng bảo vệ chống lại bệnh loét miệng, mặc dù hút thuốc khiến nhiều bệnh về miệng và da trở nên trầm trọng hơn.
+
+---
+
+## Nguyên nhân nào gây ra bệnh loét áp-tơ?
+
+Nguyên nhân chính xác gây ra loét áp-tơ vẫn chưa được xác định rõ ràng. Khoảng 40% người bị loét áp-tơ có tiền sử gia đình mắc bệnh này. Quan điểm hiện tại cho rằng hệ miễn dịch bị rối loạn bởi một số yếu tố bên ngoài và phản ứng bất thường với một protein trong mô niêm mạc .
+Các yếu tố có thể gây ra tình trạng loét bao gồm:
+- [Căng thẳng về mặt cảm xúc](https://dermnetnz.org/topics/psychosocial-factors-in-dermatology) và thiếu ngủ
+- Chấn thương cơ học , ví dụ như tự cắn
+- Thiếu hụt dinh dưỡng, đặc biệt là vitamin B, sắt và axit folic
+- Một số loại thực phẩm, bao gồm cả sô cô la
+- Một số loại kem đánh răng; điều này có thể liên quan đến natri laureth sulfat (thành phần tạo bọt của kem đánh răng)
+- Kinh nguyệt
+- Một số loại thuốc, bao gồm nicorandil, được dùng để điều trị chứng đau thắt ngực
+- Nhiễm trùng do vi-rút .
+
+---
+
+## Các đặc điểm lâm sàng của bệnh loét áp tơ là gì?
+
+Loét áp-tơ thường là một vết loét hoặc vết loét đơn độc hình tròn hoặc hình bầu dục đục lỗ bên trong miệng, ở vùng niêm mạc không liên kết chặt chẽ với xương bên dưới, chẳng hạn như ở mặt trong của môi và má hoặc dưới lưỡi. Loét áp-tơ cũng có thể ảnh hưởng đến cơ quan sinh dục ở cả nam và nữ.
+Loét áp-tơ tái phát thường bắt đầu bằng một đốm tròn màu vàng nhô lên, bao quanh bởi một quầng đỏ. Sau đó, vết loét vỡ ra thành một vết loét lõm, được bao phủ bởi một lớp màng trắng, vàng hoặc xám dính lỏng lẻo. Mô xung quanh vẫn khỏe mạnh và không bị ảnh hưởng. Vết loét có thể gây đau, đặc biệt nếu bị kích ứng khi vận động hoặc ăn một số loại thực phẩm như trái cây họ cam quýt.
+Người ta có thể bị một hoặc nhiều vết loét. Nhiều vết loét thường phân bố rộng khắp miệng.
+Loét áp tơ được chia thành ba loại.
+- Loét áp tơ nhỏ tái phát (80%). Đường kính vết loét nhỏ hơn 5 mm và lành trong vòng 1–2 tuần.
+- Loét áp tơ lớn, có kích thước lớn (thường lớn hơn 10 mm) và mất nhiều tuần hoặc nhiều tháng để lành và để lại sẹo.
+- Loét dạng herpes , là tình trạng nhiều vết loét nhỏ li ti lành trong vòng một tháng. Loại loét này thường gặp nhất ở lưỡi.
+
+### Loét áp tơ nhỏ
+![Loét áp tơ](https://dermnetnz.org/assets/Uploads/site-age-specific/aphth.jpg)
+![Loét áp tơ](https://dermnetnz.org/assets/Uploads/site-age-specific/s/aphth1.jpg)
+![Loét áp tơ](https://dermnetnz.org/assets/Uploads/site-age-specific/s/aphth2.jpg)
+
+---
+
+## Bệnh loét áp tơ được chẩn đoán như thế nào?
+
+Loét áp tơ thường được chẩn đoán lâm sàng. Việc xét nghiệm hiếm khi cần thiết, nhưng được thực hiện nếu có các đợt loét miệng tái phát nhiều lần hoặc loét miệng nặng hoặc loét áp tơ phức tạp.
+Xét nghiệm máu có thể bao gồm:
+- Các xét nghiệm về công thức máu, sắt, vitamin B12 và folate
+- Xét nghiệm kháng thể gluten cho [bệnh celiac](https://dermnetnz.org/topics/gluten-enteropathy-in-patients-with-dermatitis-herpetiformis)
+- Xét nghiệm calprotectin trong phân để phát hiện bệnh Crohn.
+Tăm bông xét nghiệm vi sinh đánh giá sự hiện diện của [Candida albicans](https://dermnetnz.org/topics/oral-candidiasis) , virus [Herpes simplex](https://dermnetnz.org/topics/herpes-simplex) và vi khuẩn Vincent .
+
+---
+
+## Chẩn đoán phân biệt bệnh loét áp tơ là gì?
+
+Cần xem xét các nguyên nhân khác gây [loét miệng , bao gồm:](https://dermnetnz.org/topics/mouth-ulcer)
+- [Bệnh herpes simplex](https://dermnetnz.org/topics/herpes-simplex) , [bệnh tay chân miệng](https://dermnetnz.org/topics/hand-foot-and-mouth-disease) và các bệnh nhiễm trùng do virus khác
+- [Herpangina](https://dermnetnz.org/topics/herpangina)
+- [Ban đỏ đa dạng](https://dermnetnz.org/topics/erythema-multiforme)
+- [Đã sửa lỗi phun thuốc](https://dermnetnz.org/topics/fixed-drug-eruption) .
+
+### Chẩn đoán phân biệt loét áp-tơ miệng
+![Bệnh tay chân miệng](https://dermnetnz.org/assets/Uploads/enteroviral-stomatitis-044.jpg)
+![Đã sửa lỗi phun trào thuốc](https://dermnetnz.org/assets/Uploads/doctors/emergencies/images/fde2.jpg)
+![Herpangina](https://dermnetnz.org/assets/Uploads/viral/herpangina.jpg)
+
+---
+
+## Phương pháp điều trị loét áp-tơ là gì?
+
+Không có cách chữa khỏi loét áp-tơ và vết loét sẽ tự lành. Mục tiêu chính của điều trị là giảm đau, giảm khó chịu và thúc đẩy quá trình lành bệnh.
+
+### Các biện pháp chung
+- Thuốc dán bảo vệ tạo thành một lớp rào chắn trên vết loét để giảm thiểu tiếp xúc với các chất gây kích ứng.
+- Đốt mô nông bằng que bạc nitrat.
+- [Thuốc gây tê tại chỗ](https://dermnetnz.org/topics/local-anaesthesia) benzocaine và lignocaine (lidocaine) để giảm đau.
+- Kem đánh răng có dược tính không chứa natri laureth sulphate.
+- [Nước súc miệng](https://dermnetnz.org/topics/mouthwash) kháng khuẩn để giảm nhiễm trùng thứ cấp.
+- Tránh các loại thực phẩm gây ra hoặc làm trầm trọng thêm tình trạng loét.
+- Điều trị tình trạng liên quan hoặc nguyên nhân cơ bản, ví dụ - Thực phẩm bổ sung vitamin hoặc khoáng chất nếu chế độ ăn không đủ hoặc phát hiện thiếu hụt.
+- Thực phẩm bổ sung vitamin hoặc khoáng chất nếu chế độ ăn không đủ hoặc phát hiện thiếu hụt.
+- Giảm căng thẳng.
+
+### Thuốc kê đơn cho bệnh loét áp tơ
+Thuốc theo toa bôi ngoài da hiếm khi cần thiết:
+- [Tetracycline](https://dermnetnz.org/topics/tetracycline) dạng huyền phù dùng làm [nước súc miệng](https://dermnetnz.org/topics/mouthwash)
+- [Corticosteroid tại chỗ](https://dermnetnz.org/topics/topical-steroid) dưới dạng thuốc mỡ, kem hoặc bột nhão , ví dụ như triamcinolone trong kem đánh răng
+- [Thuốc ức chế calcineurin](https://dermnetnz.org/topics/calcineurin-inhibitors) : [pimecrolimus](https://dermnetnz.org/topics/pimecrolimus) hoặc [tacrolimus](https://dermnetnz.org/topics/tacrolimus) bôi ngoài da .
+Trong những trường hợp nghiêm trọng, đặc biệt nếu có các triệu chứng toàn thân, có thể cân nhắc dùng thuốc uống có tác dụng chống viêm (sử dụng không theo chỉ định):
+- [Tetracycline](https://dermnetnz.org/topics/tetracycline) ví dụ, doxycycline 50-100mg mỗi ngày trong 3-6 tháng hoặc lâu hơn
+- [Dapsone](https://dermnetnz.org/topics/dapsone)
+- [Colchicin](https://dermnetnz.org/topics/colchicine)
+- [Steroid toàn thân](https://dermnetnz.org/topics/systemic-steroids)
+- Thuốc ức chế miễn dịch như [azathioprine](https://dermnetnz.org/topics/azathioprine-and-mercaptopurine) , [methotrexate](https://dermnetnz.org/topics/methotrexate) , [ciclosporin](https://dermnetnz.org/topics/ciclosporin)
+
+---
+
+## Hậu quả của bệnh loét áp-tơ là gì?
+
+Hầu hết các vết loét áp-tơ nhỏ tái phát đều lành trong vòng 1–2 tuần mà không để lại sẹo mà không cần điều trị. Các vết loét áp-tơ nhỏ thường tái phát không liên tục.
+Loét miệng tái phát thường chỉ là một phiền toái nhỏ, nhưng lại liên quan đến các vấn đề sức khỏe đáng kể ở một số người.
+Loét áp tơ lớn lành lại và để lại sẹo.

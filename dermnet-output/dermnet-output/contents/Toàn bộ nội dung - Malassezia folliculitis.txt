@@ -1,0 +1,87 @@
+# Viêm nang lông do Malassezia — thông tin bổ sung
+
+Thể loại:
+
+Nhiễm trùng, Rối loạn nang lông
+
+SNOMED CT:
+
+428172002, 707291006
+
+**[Nhiễm trùng, Rối loạn nang lông](https://dermnetnz.org/topics/topics?category=Infections)**
+
+
+# **Viêm nang lông do Malassezia**
+
+Tác giả: Tiến sĩ Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand, 1997. Được cập nhật bởi Tiến sĩ Thomas Stewart, Bác sĩ đa khoa, Sydney, Úc, tháng 11 năm 2017. Sửa đổi tháng 9 năm 2020.
+
+---
+
+## Viêm nang lông do Malassezia là gì ?
+
+Viêm nang lông do Malassezia , còn được gọi là viêm nang lông pityrosporum, là tình trạng nhiễm trùng ở tuyến bã nhờn do nấm men [Malassezia](https://dermnetnz.org/topics/malassezia-infections) ưa mỡ , đặc biệt là M. globosa , M. sympodialis và M. restricta . Nấm men Malassezia là cư dân bình thường trên bề mặt da người và chỉ gây bệnh trong những điều kiện cụ thể. [](https://dermnetnz.org/topics/malassezia-infections)
+Nấm men Malassezia có liên quan đến một số bệnh ngoài da khác bao gồm [viêm da tiết bã](https://dermnetnz.org/topics/seborrhoeic-dermatitis) và [lang ben](https://dermnetnz.org/topics/pityriasis-versicolor) .
+![Viêm nang lông do Malassezia](https://dermnetnz.org/assets/Uploads/fungal/pitfol1.jpg)
+![Viêm nang lông do Malassezia](https://dermnetnz.org/assets/Uploads/fungal/pitfol2.jpg)
+![Viêm nang lông do Malassezia](https://dermnetnz.org/assets/Uploads/fungal/pitfol3.jpg)
+
+---
+
+## Ai bị viêm nang lông do Malassezia ?
+
+Viêm nang lông do Malassezia thường gặp nhất ở nam thanh thiếu niên và thanh niên trưởng thành.
+Các yếu tố nguy cơ phát triển viêm nang lông do Malassezia bao gồm:
+- Khí hậu nóng ẩm
+- Sản xuất [bã nhờn](https://dermnetnz.org/topics/sebum) cao
+- [Tăng tiết mồ hôi](https://dermnetnz.org/topics/hyperhidrosis) (đổ mồ hôi quá nhiều)
+- Sự che phủ của [chất làm mềm](https://dermnetnz.org/topics/emollients-and-moisturisers) và [kem chống nắng](https://dermnetnz.org/topics/topical-sunscreen-agents)
+- [](https://dermnetnz.org/topics/antibiotics) Sử dụng [kháng sinh](https://dermnetnz.org/topics/antibiotics)
+- [Ức chế miễn dịch](https://dermnetnz.org/topics/drug-induced-immunosuppression) bao gồm sử dụng steroid tại chỗ và đường uống và [HIV](https://dermnetnz.org/topics/skin-conditions-relating-to-hiv-infection) .
+
+---
+
+## Các đặc điểm lâm sàng của viêm nang lông do Malassezia là gì ?
+
+Viêm nang lông do Malassezia biểu hiện bằng các sẩn và mụn mủ nhỏ, đồng nhất, ngứa , đặc biệt ở vùng lưng trên và ngực. Các vị trí khác có thể bao gồm trán/ đường chân tóc , cằm, cổ và mặt duỗi của chi trên. Đây là một dạng phát ban đơn hình và không thấy nhân mụn , phân biệt tình trạng này với [mụn trứng cá thông thường](https://dermnetnz.org/topics/acne-vulgaris) . [](https://dermnetnz.org/topics/acne-vulgaris)
+Kiểm tra bằng đèn Wood có thể phát hiện huỳnh quang màu vàng-xanh lục.
+[Các đặc điểm của phương pháp soi da](https://dermnetnz.org/topics/dermoscopy) đã được mô tả và bao gồm:
+- Sẩn và mụn mủ dựa trên nang lông
+- Ban đỏ quanh nang lông
+- Vảy quanh tổn thương
+- Tóc thiếu sắc tố và xoăn/vòng.
+
+---
+
+## Viêm nang lông do Malassezia được chẩn đoán như thế nào ?
+
+Khám lâm sàng giúp chẩn đoán. [Xét nghiệm trong phòng thí nghiệm](https://dermnetnz.org/topics/laboratory-tests-for-fungal-infection) bằng cách cạo da, bóc băng, tăm bông hoặc [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) có thể xác nhận sự hiện diện của nấm men vì [viêm nang lông do vi khuẩn](https://dermnetnz.org/topics/bacterial-folliculitis) và [mụn trứng cá steroid](https://dermnetnz.org/topics/steroid-acne) có thể tương tự nhau về mặt lâm sàng.
+- Chuẩn bị mẫu cạo da bằng kali hydroxit có thể phát hiện nấm men đang nảy chồi. Hiếm khi nhìn thấy sợi nấm .
+- Các vết bẩn khác như vết bẩn May-Grünwald-Giema ít được sử dụng hơn.
+- Việc nuôi cấy các loài Malassezia thường đòi hỏi môi trường nuôi cấy đặc biệt nên không được thực hiện thường xuyên.
+- Khi xét nghiệm mô bệnh học, người ta thấy nấm men trong nang lông và có thể cả lớp hạ bì xung quanh [.](https://dermnetnz.org/topics/malassezia-pityrosporum-folliculitis-pathology)
+
+---
+
+## Chẩn đoán phân biệt viêm nang lông do Malassezia là gì ?
+
+Chẩn đoán viêm nang lông do Malassezia thường bị trì hoãn do triệu chứng lâm sàng tương tự như:
+- Mụn trứng cá thông thường
+- Mụn trứng cá do steroid
+- Viêm nang lông do vi khuẩn .
+
+---
+
+## Điều trị viêm nang lông do Malassezia là gì ?
+
+Điều quan trọng là phải giải quyết mọi yếu tố nguy cơ ngay từ đầu vì viêm nang lông do Malassezia có xu hướng tái phát.
+Các phương pháp điều trị tại chỗ như dầu gội selen sulfide, dung dịch econazole và ketoconazole bôi ngoài da có hiệu quả trong hầu hết các trường hợp nhưng có thể cần thời gian điều trị dài hơn so với các thuốc toàn thân . Việc bôi thuốc hàng tuần liên tục có thể đặc biệt hữu ích như một liệu pháp duy trì để ngăn ngừa tái phát.
+Điều trị bằng đường uống có thể hiệu quả hơn dùng tại chỗ, mặc dù kết quả của các thử nghiệm lâm sàng không nhất quán cho thấy điều này. [Fluconazole](https://dermnetnz.org/topics/fluconazole) được sử dụng phổ biến hơn [itraconazole](https://dermnetnz.org/topics/itraconazole) do có nhiều tác dụng phụ hơn .
+[Isotretinoin](https://dermnetnz.org/topics/isotretinoin) và [liệu pháp quang động (PDT)](https://dermnetnz.org/topics/photodynamic-therapy) đã được sử dụng với một số thành công trong một loạt trường hợp nhỏ của bệnh khó chữa .
+
+---
+
+## Làm thế nào để ngăn ngừa viêm nang lông do Malassezia ?
+
+Bệnh thường tái phát ngay cả sau khi điều trị thành công.
+Có thể cân nhắc điều trị dự phòng lâu dài bằng thuốc bôi ngoài da cho những người có nguy cơ cao hoặc tái phát nhiều lần.
+Nên đánh giá lại định kỳ các yếu tố nguy cơ.

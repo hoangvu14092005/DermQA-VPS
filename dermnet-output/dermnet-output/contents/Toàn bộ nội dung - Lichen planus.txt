@@ -1,0 +1,246 @@
+# Lichen phẳng — thông tin bổ sung
+
+Thể loại:
+
+Tự miễn/tự viêm
+
+SNOMED CT:
+
+4776004, 402348002, 235049008, 44509000, 238668006, 238647005, 200999007, 238658001, 6111009, 238666005, 717061002, 238662007, 68266006, 707249009, 238651007, 238659009
+
+**[Tự miễn/tự viêm](https://dermnetnz.org/topics/topics?category=Autoimmune/autoinflammatory)**
+
+
+# **Lichen phẳng**
+
+Tác giả: Tiến sĩ Jacqueline Chen, Bác sĩ đa khoa, Úc (2022); Giáo sư Amanda Oakley, Bác sĩ da liễu, New Zealand (2015); bản cập nhật nhỏ của Tiến sĩ Jing Liu, Bác sĩ nội trú, Úc (2023)Đánh giá bác sĩ da liễu: Tiến sĩ Ian Coulson (2023)Được biên tập bởi bộ phận nội dung DermNet
+
+---
+
+## Bệnh liken phẳng là gì?
+
+Lichen phẳng (LP) là một tình trạng viêm mãn tính ảnh hưởng đến bề mặt da và niêm mạc . Có một số loại lâm sàng:
+- Bệnh liken phẳng ở da
+- [Lichen phẳng niêm mạc](https://dermnetnz.org/topics/oral-lichen-planus)
+- [Lichen planopilaris](https://dermnetnz.org/topics/lichen-planopilaris)
+- Bệnh liken phẳng ở móng tay
+- Lichen phẳng sắc tố
+- Phát ban do thuốc dạng liken .
+[Nhấp vào đây để xem hình ảnh của bệnh liken phẳng](https://dermnetnz-org.translate.goog/images/lichen-planus-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+
+---
+
+## Ai bị bệnh liken phẳng?
+
+Lichen phẳng ảnh hưởng đến khoảng 1% dân số trên toàn thế giới, chủ yếu ở người lớn từ 30 đến 60 tuổi. Bệnh không có xu hướng phân biệt chủng tộc rõ rệt.
+Khoảng 10% số người bị ảnh hưởng có tình trạng liken phẳng ở móng tay trong khi một nửa số người bị ảnh hưởng có [tình trạng liken phẳng ở miệng](https://dermnetnz.org/topics/oral-lichen-planus) , tình trạng này phổ biến ở phụ nữ hơn ở nam giới.
+
+---
+
+## Nguyên nhân nào gây ra bệnh liken phẳng?
+
+Bệnh liken phẳng là một [rối loạn tự miễn dịch](https://dermnetnz.org/topics/autoimmune-diseases-in-dermatology) qua trung gian tế bào T trong đó các tế bào viêm tấn công một loại protein chưa biết trong da và tế bào sừng cơ bản . [](https://dermnetnz.org/topics/autoimmune-diseases-in-dermatology)
+Các yếu tố góp phần gây ra bệnh liken phẳng có thể bao gồm:
+- Khuynh hướng di truyền
+- Căng thẳng về thể chất và tinh thần
+- Tổn thương da; liken phẳng thường xuất hiện ở nơi da bị trầy xước hoặc sau phẫu thuật ( [koebnerisation](https://dermnetnz.org/topics/the-koebner-phenomenon) )
+- Bệnh ngoài da khu trú như [herpes zoster](https://dermnetnz.org/topics/herpes-zoster)
+- Nhiễm trùng do vi-rút toàn thân , chẳng hạn như [viêm gan C](https://dermnetnz.org/topics/viral-hepatitis) (có thể làm thay đổi các kháng nguyên tự thân trên bề mặt của tế bào sừng cơ bản)
+- Dị ứng tiếp xúc , chẳng hạn như với miếng trám kim loại trong bệnh liken phẳng ở miệng (hiếm gặp) và thuốc hiện ảnh màu
+- [Thuốc](https://dermnetnz.org/topics/lichenoid-drug-eruption) : [vàng](https://dermnetnz.org/topics/gold) , quinine, quinidine và các loại thuốc khác có thể gây phát ban dạng liken.
+Viêm dạng liken cũng đáng chú ý trong [bệnh ghép chống vật chủ](https://dermnetnz.org/topics/graft-versus-host-disease) .
+[Thiếu hụt vitamin D](https://dermnetnz.org/topics/vitamin-d) có thể liên quan đến [bệnh liken phẳng ở miệng](https://dermnetnz.org/topics/oral-lichen-planus) . Mối liên quan của bệnh này với các loại LP khác vẫn chưa được khám phá.
+
+---
+
+## Các đặc điểm lâm sàng của bệnh liken phẳng là gì?
+
+Bệnh liken phẳng có thể gây ra một số lượng nhỏ hoặc nhiều tổn thương trên bề mặt da và niêm mạc.
+
+### Bệnh liken phẳng ở da
+Biểu hiện thường gặp của bệnh là liken phẳng cổ điển. Các triệu chứng có thể từ không có triệu chứng (hiếm gặp) đến ngứa dữ dội.
+- Sẩn và mảng đa giác có bề mặt bóng, phẳng và chắc khi sờ vào.
+- Các mảng bám này có những đường màu trắng mảnh gọi là đường vân Wickham.
+- Bệnh liken phẳng phì đại có thể là tình trạng phát ban có vảy và ngứa .
+- Lichen phẳng teo là một biến thể hình khuyên hiếm gặp có tâm teo.
+- Liken phẳng hình khuyên mô tả sự phát triển của các mảng màu tím với vùng trung tâm trong suốt thường ảnh hưởng đến dương vật, bìu và các vùng kẽ .
+- Kích thước dao động từ nhỏ như đầu kim đến lớn hơn một centimet.
+- Phân bố có thể rải rác, tập trung, thẳng , hình khuyên hoặc hình actinic (các vị trí tiếp xúc với ánh nắng mặt trời như mặt, cổ và mu bàn tay).
+- Vị trí có thể ở bất cứ đâu, nhưng thường là ở phía trước cổ tay, lưng dưới và mắt cá chân.
+- Màu sắc phụ thuộc vào loại da của bệnh nhân. Các sẩn và mảng mới thường có màu tím hoặc tím nhạt, ngoại trừ lòng bàn tay và lòng bàn chân có màu nâu vàng.
+- Các mảng bám sẽ tan biến sau vài tháng và để lại các vết dát màu nâu xám sau viêm , có thể mất một năm hoặc lâu hơn mới mờ đi.
+![Lichen phẳng dạng sẩn kết hợp thành mảng bám trên cổ tay](https://dermnetnz.org/assets/collection/Papular-lichen-planus/papular-lichen-planus-0001.jpg)
+![Sẩn phẳng, bóng, hình đa giác của bệnh liken phẳng ở cổ tay](https://dermnetnz.org/assets/collection/Papular-lichen-planus/papular-lichen-planus-0002.jpg)
+![Một mảng bám của bệnh liken phẳng cho thấy các đường vân Wickham](https://dermnetnz.org/assets/collection/Papular-lichen-planus/papular-lichen-planus-0003.jpg)
+![Lichen phẳng sẩn có hiện tượng Koebner ở da có màu](https://dermnetnz.org/assets/collection/Papular-lichen-planus/papular-lichen-planus-0008.jpg)
+![Lichen phẳng ở mắt cá chân và gót chân](https://dermnetnz.org/assets/collection/Papular-lichen-planus/papular-lichen-planus-0005.jpg)
+![Lichen phẳng dạng sẩn có tổn thương Koebner dạng tuyến tính do trầy xước](https://dermnetnz.org/assets/collection/Papular-lichen-planus/papular-lichen-planus-0006.jpg)
+[Nhấp vào đây để xem thêm hình ảnh về bệnh liken phẳng trên da](https://dermnetnz-org.translate.goog/images/lichen-planus-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+
+### Lichen phẳng ở miệng
+Miệng thường là vùng duy nhất bị ảnh hưởng và thường liên quan đến bên trong má và hai bên lưỡi, nhưng nướu và môi cũng có thể bị ảnh hưởng.
+Các mẫu phổ biến nhất là:
+- Các vệt trắng không đau có hình dạng giống ren hoặc giống cây dương xỉ (vết Wickham)
+- Các vết loét và xói mòn dai dẳng và đau đớn ( LP xói mòn )
+- Đỏ lan tỏa và bong tróc nướu (viêm nướu bong tróc)
+- Viêm cục bộ ở nướu răng gần miếng trám [amalgam](https://dermnetnz.org/topics/lichenoid-amalgam-reaction) .
+![Lichen phẳng niêm mạc miệng dạng lưới](https://dermnetnz.org/assets/collection/Oral-lichen-planus/oral-lichen-planus-0004.jpg)
+![Lichen phẳng dạng lưới ren bao phủ toàn bộ lưỡi](https://dermnetnz.org/assets/collection/Oral-lichen-planus/oral-lichen-planus-0005.jpg)
+![Lichen phẳng xói mòn ở rìa bên lưỡi](https://dermnetnz.org/assets/collection/Oral-lichen-planus/oral-lichen-planus-0001.jpg)
+![Lichen phẳng dạng lưới và tím ở môi dưới](https://dermnetnz.org/assets/collection/Oral-lichen-planus/oral-lichen-planus-0002.jpg)
+![Lichen phẳng dạng lưới và bị xói mòn ở môi dưới](https://dermnetnz.org/assets/collection/Oral-lichen-planus/oral-lichen-planus-0003.jpg)
+[Nhấp vào đây để xem thêm hình ảnh về bệnh liken phẳng ở miệng](https://dermnetnz-org.translate.goog/images/oral-lichen-planus-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+
+### Lichen phẳng âm hộ
+Lichen phẳng có thể ảnh hưởng đến môi lớn, môi bé và âm đạo . Trình bày bao gồm:
+- Những vệt trắng không đau có hình dạng giống ren hoặc giống cây dương xỉ
+- Loét và xói mòn dai dẳng và đau đớn ( [LP xói mòn](https://dermnetnz.org/topics/erosive-lichen-planus) )
+- Sẹo, dẫn đến dính, tiêu xương môi bé và hẹp âm hộ
+- [Viêm âm đạo bong tróc](https://dermnetnz.org/topics/desquamative-vaginitis) gây đau đớn , ngăn cản giao hợp và gây ra khí hư âm đạo đục ; âm đạo bị xói mòn có thể dễ chảy máu khi tiếp xúc
+- Trùng lặp với [bệnh liken xơ cứng](https://dermnetnz.org/topics/lichen-sclerosus) âm hộ thường ảnh hưởng đến phụ nữ trên 50 tuổi. [](https://dermnetnz.org/topics/lichen-sclerosus)
+[Nhấp vào đây để xem hình ảnh của bệnh liken phẳng âm hộ xói mòn](https://dermnetnz-org.translate.goog/images/vulval-erosive-lichen-planus-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+
+### Lichen phẳng dương vật
+- Sẩn điển hình hình vòng tròn quanh quy đầu.
+- Có thể xuất hiện các vệt trắng và liken phẳng ăn mòn nhưng ít phổ biến hơn.
+[Nhấp vào đây để xem hình ảnh của bệnh liken phẳng ở bộ phận sinh dục](https://dermnetnz-org.translate.goog/images/genital-lichen-planus-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+
+### Các vị trí niêm mạc khác
+[Bệnh liken phẳng xói mòn](https://dermnetnz.org/topics/erosive-lichen-planus) ít khi ảnh hưởng đến tuyến lệ , mí mắt, ống tai ngoài, thực quản , thanh quản , bàng quang và hậu môn.
+
+### Lichen planopilaris
+[Lichen planopilaris](https://dermnetnz.org/topics/lichen-planopilaris) biểu hiện dưới dạng các sẩn nang lông nhỏ màu đỏ, có gai và lan rộng thành các vùng nhẵn trên da đầu hoặc ít gặp hơn ở các vùng khác trên cơ thể. Hiếm khi, tổn thương phồng rộp. Sự phá hủy nang tóc dẫn đến các mảng hói vĩnh viễn, đặc trưng bởi các "sợi tóc đơn lẻ" thưa thớt.
+[Rụng tóc xơ hóa trán](https://dermnetnz.org/topics/frontal-fibrosing-alopecia) là một dạng bệnh liken phẳng nang lông ảnh hưởng đến da đầu phía trước , trán và lông mày.
+[Bệnh giả Brocq](https://dermnetnz.org/topics/pseudopelade-of-brocq) có thể là một biến thể của liken phẳng không viêm hoặc bong tróc. Các vùng sẹo không có lông sẽ dần xuất hiện, được mô tả là "giống như dấu chân trên tuyết".
+![Lichen planopilaris](https://dermnetnz.org/assets/Uploads/hair-loss-02.jpg)
+
+### Bệnh liken phẳng ở móng tay
+- Bệnh liken phẳng ảnh hưởng đến một hoặc nhiều móng, đôi khi không ảnh hưởng đến da.
+- Bệnh này được gọi là [loạn dưỡng hai mươi móng](https://dermnetnz.org/topics/trachyonychia) nếu tất cả các móng đều bất thường và không có nơi nào khác bị ảnh hưởng.
+- Bệnh liken phẳng làm mỏng phiến móng , có thể tạo thành rãnh và gờ.
+- Móng có thể bị sẫm màu, dày lên hoặc bong ra khỏi nền móng ( [bệnh bong móng](https://dermnetnz.org/topics/onycholysis) ).
+- Đôi khi lớp biểu bì bị phá hủy và hình thành sẹo ( màng thịt ).
+- Móng có thể rụng hoặc ngừng phát triển hoàn toàn, và hiếm khi biến mất hoàn toàn (mất móng).
+![Phá hủy toàn bộ phiến móng do bệnh liken phẳng](https://dermnetnz.org/assets/collection/Nail-lichen-planus/nail-lichen-planus-0001.jpg)
+![Nứt và thô ráp (onychorrhexis) ở các phiến móng tay do bệnh liken phẳng ở đơn vị móng](https://dermnetnz.org/assets/collection/Nail-lichen-planus/nail-lichen-planus-0002.jpg)
+![Teo và phá hủy phiến móng, phát triển mộng thịt ở bệnh liken phẳng đơn vị móng. Liken phẳng xuất hiện ở đốt xương xa liền kề.](https://dermnetnz.org/assets/collection/Nail-lichen-planus/nail-lichen-planus-0003.jpg)
+[Nhấp vào đây để xem thêm hình ảnh về bệnh liken phẳng ở móng tay](https://dermnetnz-org.translate.goog/images/nail-lichen-planus-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+
+### Lichen phẳng sắc tố
+- Đặc trưng bởi các vết hình bầu dục không rõ ràng, màu nâu xám trên mặt và cổ hoặc thân và chân tay mà không có giai đoạn viêm.
+- Đây là một dạng [tăng sắc tố da dạng chấm ở da mắc phải](https://dermnetnz.org/topics/acquired-dermal-macular-hyperpigmentation) .
+- Có thể xuất hiện do tiếp xúc với ánh nắng mặt trời, nhưng cũng có thể xuất hiện ở những vùng da được bảo vệ khỏi ánh nắng mặt trời như nách.
+- Các kiểu mẫu khuếch tán, lưới và khuếch tán.
+- Tương tự như [bệnh ban đỏ loạn sắc tố perstans](https://dermnetnz.org/topics/erythema-dyschromicum-perstans) và có thể là cùng một bệnh.
+- Hiếm khi ảnh hưởng đến môi, gây ra tình trạng sắc tố sẫm màu không đồng đều ở môi trên và môi dưới.
+![Lichen phẳng sắc tố ở mặt](https://dermnetnz.org/assets/Uploads/scaly/lp-pigmentosus1.jpg)
+![Lichen phẳng sắc tố ở lưng dưới](https://dermnetnz.org/assets/Uploads/scaly/lp-pigmentosus2.jpg)
+![Lichen phẳng sắc tố ở môi dưới](https://dermnetnz.org/assets/Uploads/colour/pigmented-cheilitis1.jpg)
+
+### Lichen phẳng actinicus (LPA)
+- Những tên gọi khác bao gồm liken phẳng dưới nhiệt đới, liken phẳng nhiệt đới, viêm da hắc tố dạng liken và phát ban dạng liken ánh sáng vào mùa hè.
+- Bệnh này chủ yếu xảy ra ở người trẻ tuổi có nguồn gốc Trung Đông, Đông Phi hoặc Ấn Độ.
+- Có vẻ như bị kích hoạt bởi việc tiếp xúc với ánh sáng mặt trời (tức là [nhạy cảm với ánh sáng](https://dermnetnz.org/topics/photosensitivity) ).
+- Các tổn thương thường gặp: Bao gồm các vùng tiếp xúc với ánh nắng mặt trời như trán, má, môi, cổ, mu bàn tay và cẳng tay Tệ hơn vào mùa hè và cải thiện vào mùa đông Xuất hiện dưới dạng mảng hình khuyên màu nâu đỏ hoặc các mảng tăng sắc tố .
+- Bao gồm các vùng tiếp xúc với ánh nắng mặt trời như trán, má, môi, cổ, mu bàn tay và cẳng tay
+- Tệ hơn vào mùa hè và cải thiện vào mùa đông
+- Xuất hiện dưới dạng mảng hình khuyên màu nâu đỏ hoặc các mảng tăng sắc tố .
+- Các tổn thương thường không: [Ngứa](https://dermnetnz.org/topics/pruritus) Liên quan đến niêm mạc Hiển thị [hiện tượng Koebner](https://dermnetnz.org/topics/the-koebner-phenomenon) .
+- [Ngứa](https://dermnetnz.org/topics/pruritus)
+- Liên quan đến niêm mạc
+- Hiển thị [hiện tượng Koebner](https://dermnetnz.org/topics/the-koebner-phenomenon) .
+- Các tổn thương nhạy cảm với ánh sáng có dạng đầu kim màu trắng (lệch sắc) và sẩn được gọi là [liken nitidus](https://dermnetnz.org/topics/lichen-nitidus) , hiện được coi là một thực thể riêng biệt và khác biệt với LPA.
+- LPA thường được chẩn đoán dựa trên sự phân bố tổn thương và kết quả [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) .
+
+### Phát ban do thuốc dạng lichen
+- [Phát ban do thuốc dạng liken](https://dermnetnz.org/topics/lichenoid-drug-eruption) là tình trạng phát ban giống liken phẳng do thuốc gây ra.
+- Không triệu chứng hoặc ngứa; màu hồng, nâu hoặc tím; các mảng phẳng, hơi có vảy thường xuất hiện ở thân. Niêm mạc miệng ( [phản ứng dạng liken miệng](https://dermnetnz.org/topics/lichenoid-amalgam-reaction) ) và các vị trí khác đôi khi cũng bị ảnh hưởng.
+- Nhiều loại thuốc hiếm khi có thể gây ra phát ban dạng liken. Phổ biến nhất là: [Vàng](https://dermnetnz.org/topics/gold) [Hydroxychloroquine](https://dermnetnz.org/topics/hydroxychloroquine) Thuốc Captopril.
+- [Vàng](https://dermnetnz.org/topics/gold)
+- [Hydroxychloroquine](https://dermnetnz.org/topics/hydroxychloroquine)
+- Thuốc Captopril.
+Thuốc lợi tiểu quinine và thiazide gây ra tình trạng phát ban dạng liken [nhạy cảm với ánh sáng](https://dermnetnz.org/topics/photosensitivity) .
+
+### Bệnh liken phẳng bọng nước và bệnh liken phẳng pemphigoides
+Lichen phẳng bọng nước
+- Tạo ra mụn nước do sự phá hủy các tế bào sừng cơ bản và rất hiếm gặp.
+Bệnh liken phẳng pemphigoides
+- Sự kết hợp hiếm gặp giữa bệnh liken phẳng và bệnh pemphigoid bọng nước.
+- Sự phá hủy các tế bào sừng cơ bản làm lộ ra kháng nguyên pemphigoid bóng nước ở ranh giới hạ bì biểu bì (gọi là sự lan rộng epitope), tiếp theo là sự phát triển của các kháng thể lưu hành chống lại kháng nguyên BP.
+- Ban đỏ và mụn nước phát triển ở cả vị trí và khoảng cách xa các tổn thương của bệnh liken phẳng.
+![Bệnh liken phẳng nghiêm trọng ở bàn chân gây ra mụn nước](https://dermnetnz.org/assets/collection/Vesiculobullous-lichen-planus/vesiculobullous-lichen-planus-0001.jpg)
+
+---
+
+## Các đặc điểm lâm sàng khác nhau như thế nào ở các loại da khác nhau?
+
+Các biến thể phì đại, biến thể actinic, liken phẳng sắc tố và [tăng sắc tố sau viêm](https://dermnetnz.org/topics/postinflammatory-hyperpigmentation) còn sót lại phổ biến hơn ở những người có làn da sẫm màu.
+
+---
+
+## Biến chứng của bệnh liken phẳng là gì?
+
+- Liken phẳng phì đại có thể giống [ung thư biểu mô tế bào vảy](https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma) . Tuy nhiên, hiếm khi, [liken phẳng xói mòn](https://dermnetnz.org/topics/erosive-lichen-planus) lâu ngày có thể dẫn đến ung thư biểu mô tế bào vảy thực sự , thường gặp nhất ở miệng, âm hộ hoặc dương vật. Cần nghi ngờ nếu có một nốt sần to lên hoặc vết loét có bờ dày lên.
+- Ung thư phổ biến hơn ở những người hút thuốc, những người có tiền sử ung thư ở niêm mạc và những người mang vi-rút gây u nhú ở [người lây truyền](https://dermnetnz.org/topics/non-sexually-acquired-human-papillomavirus-infection) [qua đường tình dục](https://dermnetnz.org/topics/sexually-acquired-human-papillomavirus) . [](https://dermnetnz.org/topics/non-sexually-acquired-human-papillomavirus-infection)
+- Bệnh liken phẳng thực quản có thể gây ra chứng khó nuốt , hẹp thực quản và có thể gây ung thư biểu mô tế bào vảy .
+- Ung thư từ các dạng liken phẳng khác rất hiếm gặp.
+
+---
+
+## Bệnh liken phẳng được chẩn đoán như thế nào?
+
+Hầu hết các trường hợp liken phẳng được chẩn đoán lâm sàng. [Sinh](https://dermnetnz.org/topics/skin-biopsy) thiết da thường được khuyến cáo để xác nhận chẩn đoán và tìm ung thư. Các dấu hiệu mô bệnh học là phản ứng mô liken ảnh hưởng đến lớp biểu bì.
+Các tính năng điển hình bao gồm:
+- Lớp biểu bì dày không đều
+- Tăng sinh hạt hình nêm , các gờ lưới hình răng cưa
+- Các thể Civatte ( tế bào sừng chết theo chương trình ) ở lớp biểu bì dưới và lớp hạ bì trên
+- Sự thoái hóa hóa lỏng của lớp đáy biểu bì
+- Thâm nhiễm lympho bào dạng dải ở ranh giới hạ bì - biểu bì .
+[Xét nghiệm miễn dịch huỳnh quang trực tiếp](https://dermnetnz.org/topics/direct-immunofluorescence) không cần thiết thường xuyên. Kết quả có thể cho thấy các thể keo trong lớp hạ bì nhú với các chất lắng đọng không đều.
+[Kiểm tra miếng dán](https://dermnetnz.org/topics/patch-tests) có thể được khuyến nghị cho những bệnh nhân bị liken phẳng ở miệng ảnh hưởng đến nướu và có miếng trám amalgam, để đánh giá [tình trạng dị ứng tiếp xúc với thiomersal](https://dermnetnz.org/topics/thiomersal-allergy) (một hợp chất thủy ngân) và các kim loại khác.
+
+---
+
+## Chẩn đoán phân biệt bệnh liken phẳng là gì?
+
+Chẩn đoán phân biệt bệnh liken phẳng rất rộng và có thể được phân loại thành:
+
+#### Bảng 1: Chẩn đoán phân biệt bệnh liken phẳng
+Sẩn cổ điển [Bệnh vẩy nến](https://dermnetnz.org/topics/psoriasis) [Bệnh lupus ban đỏ mãn tính ở da](https://dermnetnz.org/topics/discoid-lupus-erythematosus) [Lichen simplex chronicus](https://dermnetnz.org/topics/lichen-simplex) [Bệnh giang mai thứ phát](https://dermnetnz.org/topics/syphilis) [Bệnh vảy phấn hồng](https://dermnetnz.org/topics/pityriasis-rosea) LP hình khuyên [U hạt vòng](https://dermnetnz.org/topics/granuloma-annulare) [Nấm da](https://dermnetnz.org/topics/tinea) Tuyến tính [Địa y vân](https://dermnetnz.org/topics/lichen-striatus) [Nốt ruồi biểu bì dạng tuyến viêm (ILVEN)](https://dermnetnz.org/topics/inflammatory-linear-verrucous-epidermal-naevus) [Bệnh vẩy nến tuyến tính](https://dermnetnz.org/topics/psoriasis) [Bệnh tuyến tính Darier-White](https://dermnetnz.org/topics/darier-disease) Phì đại [Bệnh vẩy nến](https://dermnetnz.org/topics/psoriasis) [Prurigo nodularis](https://dermnetnz.org/topics/nodular-prurigo) [Bệnh lắng đọng tinh bột dưới da dạng lichen](https://dermnetnz.org/topics/cutaneous-amyloidosis) [Ung thư Kaposi](https://dermnetnz.org/topics/kaposi-sarcoma) Lichen phẳng sắc tố [Bệnh da xám](https://dermnetnz.org/topics/erythema-dyschromicum-perstans) Lichen planus actinicus [Bệnh lupus ban đỏ dạng đĩa](https://dermnetnz.org/topics/discoid-lupus-erythematosus) [Sự phun trào ánh sáng đa hình](https://dermnetnz.org/topics/polymorphic-light-eruption) [U hạt vòng](https://dermnetnz.org/topics/granuloma-annulare) [Bệnh sarcoidosis](https://dermnetnz.org/topics/sarcoidosis) [Nám da](https://dermnetnz.org/topics/melasma) [Bệnh ban đỏ loạn sắc tố (bệnh da xám)](https://dermnetnz.org/topics/erythema-dyschromicum-perstans) [Phát ban do thuốc dạng lichen](https://dermnetnz.org/topics/lichenoid-drug-eruption) Vesicobullous [Bệnh liken phẳng pemphigoides](https://dermnetnz.org/topics/lichen-planus) [Bọng nước dạng pemphigus](https://dermnetnz.org/topics/bullous-pemphigoid) [Pemphigus thông thường](https://dermnetnz.org/topics/pemphigus-vulgaris) teo cơ [Bệnh xơ cứng địa y](https://dermnetnz.org/topics/lichen-sclerosus) [Bệnh lupus ban đỏ](https://dermnetnz.org/topics/cutaneous-lupus-erythematosus) [Bệnh da xám](https://dermnetnz.org/topics/erythema-dyschromicum-perstans) Lichen phẳng âm hộ [Bệnh xơ cứng địa y](https://dermnetnz.org/topics/lichen-sclerosus) Bệnh phồng rộp âm hộ âm đạo Lichen phẳng ở miệng [Bạch sản](https://dermnetnz.org/topics/oral-leukoplakia) [Bệnh nấm Candida](https://dermnetnz.org/topics/candida) [Ban đỏ đa dạng](https://dermnetnz.org/topics/erythema-multiforme) [Pemphigus thông thường](https://dermnetnz.org/topics/pemphigus-vulgaris) [Bọng nước dạng pemphigus](https://dermnetnz.org/topics/bullous-pemphigoid) [Bệnh xơ cứng địa y](https://dermnetnz.org/topics/lichen-sclerosus) Chấn thương do cắn [Bệnh lupus ban đỏ](https://dermnetnz.org/topics/cutaneous-lupus-erythematosus) [Ung thư tế bào vảy](https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma) Lichen phẳng ở móng tay Móng tay giòn [Bệnh vẩy nến](https://dermnetnz.org/topics/psoriasis) [Bệnh nấm móng](https://dermnetnz.org/topics/topics/fungal-nail-infections) [Rụng tóc từng vùng](https://dermnetnz.org/topics/alopecia-areata) Lichen planopilaris [Bệnh lupus ban đỏ](https://dermnetnz.org/topics/cutaneous-lupus-erythematosus) [Rụng tóc từng vùng](https://dermnetnz.org/topics/alopecia-areata)
+
+---
+
+## Phương pháp điều trị bệnh liken phẳng là gì?
+
+
+### Các biện pháp chung
+- Tránh sử dụng xà phòng và sữa tắm vì chúng có thể làm tình trạng đóng vảy trầm trọng hơn .
+- Sử dụng [chất làm mềm da](https://dermnetnz.org/topics/emollients-and-moisturisers) thường xuyên.
+- [Thuốc kháng histamine có tác dụng an thần](https://dermnetnz.org/topics/antihistamines) có thể giúp giảm ngứa ngáy khó chịu vào ban đêm.
+
+### Điều trị cụ thể
+Điều trị không phải lúc nào cũng cần thiết vì LP da có thể tự khỏi và mục tiêu điều trị là kiểm soát [ngứa](https://dermnetnz.org/topics/pruritus) . Các phương pháp điều trị tại chỗ cho bệnh lý da hoặc niêm mạc có triệu chứng là:
+- [Corticosteroid tại chỗ](https://dermnetnz.org/topics/topical-steroid) mạnh (bao gồm [băng tẩm steroid](https://dermnetnz.org/topics/steroid-impregnated-tape) )
+- [Thuốc ức chế calcineurin](https://dermnetnz.org/topics/calcineurin-inhibitors) tại chỗ , [thuốc mỡ tacrolimus](https://dermnetnz.org/topics/tacrolimus) và [kem pimecrolimus](https://dermnetnz.org/topics/pimecrolimus)
+- [Retinoid tại chỗ](https://dermnetnz.org/topics/topical-retinoids)
+- [Tiêm steroid vào tổn thương](https://dermnetnz.org/topics/intralesional-steroid-injection) .
+Điều trị toàn thân cho bệnh liken phẳng lan rộng hoặc bệnh tại chỗ nghiêm trọng thường bao gồm liệu trình dùng [steroid toàn thân kéo dài từ 1 đến 3 tháng (ví dụ: prednisone)](https://dermnetnz.org/topics/systemic-steroids) , đồng thời bắt đầu dùng một loại thuốc khác từ danh sách sau:
+- [Acitretin](https://dermnetnz.org/topics/acitretin)
+- [Hydroxychloroquine](https://dermnetnz.org/topics/hydroxychloroquine)
+- [Methotrexate](https://dermnetnz.org/topics/methotrexate)
+- [Azathioprine](https://dermnetnz.org/topics/azathioprine-and-mercaptopurine)
+- [Mycophenolate mofetil](https://dermnetnz.org/topics/mycophenolate-mofetil)
+- [Liệu pháp quang học](https://dermnetnz.org/topics/phototherapy) .
+Thành công giai thoại được báo cáo từ các đợt điều trị kháng sinh kéo dài như [metronidazole](https://dermnetnz.org/topics/metronidazole) , sulfasalazine, thuốc chống nấm (như [griseofulvin](https://dermnetnz.org/topics/griseofulvin) ) và [thuốc ức chế JAK](https://dermnetnz.org/topics/janus-kinase-inhibitors) . [Lichen planopilaris](https://dermnetnz.org/topics/lichen-planopilaris) được báo cáo là cải thiện với pioglitazone và [tetracycline](https://dermnetnz.org/topics/tetracycline) .
+Trong trường hợp liken phẳng actinicus, nên tránh liệu pháp quang trị liệu vì các tổn thương thường khởi phát do tiếp xúc với ánh nắng mặt trời. [Bảo vệ da khỏi ánh nắng mặt trời,](https://dermnetnz.org/topics/sun-protection) bao gồm cả việc sử dụng [kem chống nắng,](https://dermnetnz.org/topics/topical-sunscreen-agents) là một thành phần thiết yếu của quá trình điều trị.
+Trong bệnh liken phẳng miệng, bằng chứng sử dụng [apremilast](https://dermnetnz.org/topics/apremilast) còn hạn chế . Việc điều trị thành công bệnh liken phẳng miệng và da bằng [adalimumab](https://dermnetnz.org/topics/adalimumab-for-psoriasis) đã được báo cáo trước đây. [Tildrakizumab](https://dermnetnz.org/topics/tildrakizumab) đã được chứng minh là có kết quả tích cực trong điều trị liken phẳng miệng xói mòn trong một nghiên cứu trường hợp riêng lẻ.
+Trong trường hợp liken phẳng miệng ảnh hưởng đến nướu và niêm mạc má kèm theo dị ứng tiếp xúc với thủy ngân, liken phẳng có thể tự khỏi khi trám lại bằng vật liệu composite. Nếu liken phẳng không phải do dị ứng thủy ngân, việc loại bỏ miếng trám amalgam rất khó có thể chữa khỏi.
+Để biết thêm thông tin, hãy xem, [liken phẳng ở miệng](https://dermnetnz.org/topics/oral-lichen-planus) và [liken phẳng xói mòn](https://dermnetnz.org/topics/erosive-lichen-planus) .
+
+---
+
+## Hậu quả của bệnh liken phẳng là gì?
+
+Lichen phẳng có thể có diễn biến mạn tính, thuyên giảm và tái phát. Lichen phẳng da thường tự khỏi trong vòng vài năm ở hầu hết mọi người, nhưng tình trạng tăng sắc tố sau viêm có thể mất nhiều năm mới thuyên giảm.
+Lichen phẳng niêm mạc có nhiều khả năng kéo dài đến một thập kỷ hoặc lâu hơn. Đối với lichen phẳng nang lông, sẹo sẽ tồn tại vĩnh viễn, bao gồm cả tình trạng rụng tóc do sẹo. Phát ban dạng lichen sẽ tự khỏi sau khi ngừng thuốc.
+[Nhấp vào đây để xem hình ảnh](https://dermnetnz-org.translate.goog/images/lichen-planus-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)

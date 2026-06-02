@@ -1,0 +1,86 @@
+# Bệnh lupus ban đỏ — thông tin bổ sung
+
+Thể loại:
+
+Phát ban
+
+SNOMED CT:
+
+72470008
+
+**[Phát ban](https://dermnetnz.org/topics/topics?category=Rashes)**
+
+
+# **Bệnh lupus ban đỏ**
+
+Tác giả: Tiến sĩ Antonia Birry, Chuyên viên Da liễu, Bệnh viện Middlemore, Auckland. Tổng biên tập: Tiến sĩ Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand, tháng 8 năm 2015.
+
+---
+
+## Bệnh lupus ban đỏ là gì?
+
+Lupus ban đỏ hệ thống là một trong những dạng phổ biến nhất của [bệnh sarcoidosis da](https://dermnetnz.org/topics/sarcoidosis) . Bệnh sarcoidosis là một rối loạn đa hệ thống , đặc trưng về mặt mô học là các u hạt (một loại viêm đặc hiệu ).
+Bệnh lupus ban đỏ biểu hiện dưới dạng các nốt sần và mảng màu đỏ xanh hoặc tím trên mũi, má và tai.
+Tên gọi này bắt nguồn từ tên tiếng Latin của "sói" (lupus) và "chilblain" (pernio). Điều này là do Besnier (1889) cho rằng nó có liên quan đến bệnh lupus thông thường (lao da). Lupus pernio còn được gọi là bệnh sarcoidosis dạng nốt hoặc mảng và bệnh sarcoidosis, loại lupus pernio.
+
+---
+
+## Ai mắc bệnh lupus pernio?
+
+Một số nhóm dân số có nguy cơ mắc bệnh lupus pernio cao hơn. Tỷ lệ mắc bệnh hàng năm dao động từ 1 đến 64 trên 100.000 người.
+- Độ tuổi khởi phát thường là từ 45 đến 65 tuổi.
+- Bệnh lupus ban đỏ phổ biến ở phụ nữ gấp đôi so với nam giới.
+- Bệnh lupus ban đỏ phổ biến và nghiêm trọng hơn ở các nhóm dân tộc châu Phi so với người da trắng.
+- Có mối liên hệ di truyền / HLA .
+
+---
+
+## Nguyên nhân gây ra bệnh lupus ban đỏ là gì?
+
+Mặc dù đã được nghiên cứu chuyên sâu, nguyên nhân gây ra lupus pernio và các dạng bệnh sarcoidosis da khác vẫn chưa được biết rõ. Bệnh sarcoidosis được biết đến là một phản ứng miễn dịch qua trung gian tế bào mạn tính với một kháng nguyên chưa xác định , trong đó các đại thực bào hoạt hóa và tế bào lympho T CD4 giải phóng các cytokine kích hoạt sự hình thành các u hạt.
+Ít nhất một số trường hợp bệnh sarcoidosis da có thể là do phản ứng bất thường của vật chủ với một hoặc nhiều tác nhân gây nhiễm trùng, chẳng hạn như Mycobacterium paratuberculosis, histoplasmosis và các loại nấm khác. Bản thân bệnh lupus ban đỏ không lây nhiễm.
+Người ta vẫn chưa biết rõ tại sao bệnh lupus pernio lại ảnh hưởng đến những vùng da mát.
+
+---
+
+## Các đặc điểm lâm sàng của bệnh lupus pernio là gì?
+
+Bệnh lupus ban đỏ thường không có triệu chứng và hiếm khi gây ngứa hoặc đau. Biến dạng thẩm mỹ là triệu chứng thường gặp nhất.
+Bệnh biểu hiện dưới dạng các mảng và nốt sần màu đỏ tím nhạt trên mũi, má, môi, tai và ngón tay. Tổn thương có thể loét và sau đó lành lại thành sẹo giãn mao mạch .
+Tổn thương ở rìa mũi liên quan đến tình trạng viêm hạt ở đường hô hấp trên. Tổn thương da có thể lan đến vách ngăn mũi , gây chảy máu mũi và đóng vảy.
+![Bệnh lupus ban đỏ. Bệnh sarcoidosis da](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/lupus-pernio.jpg)
+![Bệnh lupus ban đỏ. Bệnh sarcoidosis da](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/lupus-pernio-2.jpg)
+![Bệnh lupus ban đỏ. Bệnh sarcoidosis da](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/lupus-pernio-1.jpg)
+
+---
+
+## Chẩn đoán bệnh lupus pernio được thực hiện như thế nào?
+
+Bệnh lupus ban đỏ có thể được nhận biết thông qua biểu hiện lâm sàng và tiền sử bệnh điển hình, nhưng việc chẩn đoán có thể khó khăn và bị trì hoãn.
+Kiểm tra mép tổn thương da bằng phương pháp soi tiêu bản hoặc ấn bằng lam kính cho thấy hình dạng giống thạch táo đặc trưng của tình trạng viêm hạt.
+[Sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) , hạch bạch huyết hoặc phổi xác nhận chẩn đoán bằng cách phát hiện u hạt không hoại tử dạng sarcoid .
+Vì bệnh lupus pernio có liên quan đến bệnh sarcoidosis ở phổi (75% bệnh nhân) và đường hô hấp trên (50%), nên các xét nghiệm sau đây cũng cần được thực hiện khi chẩn đoán và theo dõi:
+- Xét nghiệm chức năng phổi
+- Chụp X-quang ngực
+- Điện tâm đồ ( ECG ) hoặc siêu âm tim
+- Xét nghiệm máu có thể cho thấy men chuyển angiotensin (ACE) tăng cao, phosphatase kiềm , canxi, gamma globulin (đa dòng) và số lượng tế bào lympho giảm.
+Điều quan trọng là phải loại trừ [bệnh lao](https://dermnetnz.org/topics/cutaneous-tuberculosis) . Xét nghiệm da Tuberculin và xét nghiệm máu QuantiFERON® vàng cho kết quả âm tính trong bệnh sarcoidosis.
+Chẩn đoán phân biệt có thể bao gồm nhiều loại [bệnh lupus ban đỏ da](https://dermnetnz.org/topics/cutaneous-lupus-erythematosus) khác nhau .
+
+---
+
+## Phương pháp điều trị bệnh lupus pernio là gì?
+
+Mục tiêu điều trị lupus pernio là cải thiện diện mạo của bệnh nhân và ngăn ngừa sẹo. Phương pháp điều trị được lựa chọn có thể phụ thuộc vào mức độ nghiêm trọng của các triệu chứng toàn thân .
+Hiệu quả điều trị có thể khác nhau. Các lựa chọn bao gồm:
+- [Corticosteroid tại chỗ](https://dermnetnz.org/topics/topical-steroid)
+- [Tiêm steroid vào tổn thương](https://dermnetnz.org/topics/intralesional-steroid-injection)
+- [Điều trị bằng laser](https://dermnetnz.org/topics/lasers-in-dermatology) (laser xung nhuộm và laser carbon dioxide )
+- Liệu pháp toàn thân, bao gồm [corticosteroid toàn thân](https://dermnetnz.org/topics/systemic-steroids) , [hydroxychloroquine](https://dermnetnz.org/topics/hydroxychloroquine) , [methotrexate](https://dermnetnz.org/topics/methotrexate) và [các tác nhân sinh học](https://dermnetnz.org/topics/biological-agents-for-psoriasis) ( [infliximab](https://dermnetnz.org/topics/infliximab-for-psoriasis) , [adalimumab](https://dermnetnz.org/topics/adalimumab-for-psoriasis) )
+[Ngụy trang thẩm mỹ](https://dermnetnz.org/topics/cosmetic-camouflage) có thể được sử dụng để che giấu các tổn thương trên da.
+
+---
+
+## Triển vọng của bệnh lupus pernio là gì?
+
+Bệnh lupus ban đỏ có xu hướng kéo dài trong nhiều năm và hiếm khi tự khỏi. Cần theo dõi chức năng phổi và tim.

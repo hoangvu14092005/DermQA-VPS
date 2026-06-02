@@ -1,0 +1,79 @@
+# U hạt vùng miệng mặt — thông tin bổ sung
+
+Thể loại:
+
+Tổn thương (lành tính)
+
+SNOMED CT:
+
+235048000, 37770007, 215617000, 235136001, 403383007, 52368004
+
+**[Tổn thương (lành tính)](https://dermnetnz.org/topics/topics?category=Lesions+(benign))**
+
+
+# **U hạt vùng miệng mặt**
+
+Tác giả: Tiến sĩ Delwyn Dyall-Smith FACD, Bác sĩ da liễu, 2010.
+
+---
+
+## Bệnh u hạt miệng mặt là gì?
+
+U hạt vùng miệng mặt (theo định nghĩa của Wiesenfeld năm 1985) là [kết quả mô học đặc hiệu của u hạt](https://dermnetnz.org/topics/orofacial-granulomatosis-pathology) trong sinh thiết niêm mạc hoặc da lấy từ miệng hoặc mặt mà không có bệnh lý toàn thân nào được biết là gây ra u hạt. Do đó, nó bao gồm hội chứng Melkersson-Rosenthal và viêm môi Miescher ( [viêm môi dạng u hạt](https://dermnetnz.org/topics/granulomatous-cheilitis) ) nhưng không bao gồm [bệnh Crohn](https://dermnetnz.org/topics/crohn-skin-disease) , [bệnh sarcoidosis](https://dermnetnz.org/topics/sarcoidosis) và [u hạt kèm viêm đa mạch](https://dermnetnz.org/topics/granulomatosis-with-polyangiitis) . [](https://dermnetnz.org/topics/granulomatous-cheilitis) [](https://dermnetnz.org/topics/crohn-skin-disease) [](https://dermnetnz.org/topics/sarcoidosis) [](https://dermnetnz.org/topics/granulomatosis-with-polyangiitis)
+Lưu ý rằng thuật ngữ u hạt vùng miệng mặt thường được sử dụng rộng rãi để chỉ bất kỳ chẩn đoán nào về u hạt ở vùng miệng mặt, bao gồm [bệnh Crohn vùng miệng mặt](https://dermnetnz.org/topics/orofacial-crohn-disease) và [bệnh sarcoidosis](https://dermnetnz.org/topics/sarcoidosis) , và cũng có thể được sử dụng để mô tả những bệnh nhân có biểu hiện tương tự nhưng không phát hiện thấy u hạt khi sinh thiết.
+Trong bản tóm tắt này, định nghĩa nghiêm ngặt về bệnh vô căn được tuân theo.
+
+---
+
+## Ai mắc bệnh u hạt miệng mặt và tại sao?
+
+U hạt vùng miệng mặt là một tình trạng hiếm gặp, được báo cáo ở hầu hết mọi lứa tuổi và chủng tộc. Bệnh ảnh hưởng đến cả nam và nữ như nhau. Mặc dù tài liệu cho thấy bệnh phổ biến hơn ở nhóm tuổi trẻ hơn, nhưng điều này có thể bao gồm cả những bệnh nhân mắc bệnh Crohn vì hầu hết trẻ em được chẩn đoán mắc u hạt ở vùng miệng mặt sau đó đều được phát hiện mắc bệnh Crohn.
+Nguyên nhân gây u hạt vùng miệng mặt vẫn chưa được biết rõ, tuy nhiên, nó có thể là phản ứng miễn dịch bất thường ở những người có yếu tố di truyền dễ mắc bệnh . [Các dị ứng thực phẩm](https://dermnetnz.org/topics/food-allergy) chưa được biết đến (ví dụ như với axit benzoic, hương liệu, cinnamaldehyde, quế và sô cô la trong thực phẩm), phản ứng với vật liệu nha khoa và nhiễm trùng đều đã được đề xuất, mặc dù bằng chứng về những điều này chưa đủ mạnh.
+Người ta tin rằng các khối u hạt chặn các mạch bạch huyết dẫn đến [phù bạch huyết](https://dermnetnz.org/topics/lymphoedema) .
+
+---
+
+## Các đặc điểm lâm sàng của bệnh u hạt miệng mặt là gì?
+
+Biểu hiện lâm sàng phổ biến nhất là sưng không đau ở một hoặc cả hai môi. Thường gặp nhất là sưng môi dưới. Ban đầu, sưng mềm, thỉnh thoảng xuất hiện rồi biến mất, mỗi đợt kéo dài vài tuần hoặc vài tháng. Cuối cùng, tình trạng sưng môi trở nên vĩnh viễn và môi có cảm giác cứng hoặc dai. Tình trạng này không thể phân biệt được trên lâm sàng với bệnh Crohn vùng miệng-mặt và bệnh sarcoidosis.
+Nếu môi trở nên quá lồi, có thể xuất hiện tình trạng nứt nẻ ở đường giữa môi ( viêm môi giữa ) hoặc ở khóe miệng ( [viêm khóe miệng](https://dermnetnz.org/topics/angular-cheilitis) ). Thói quen liếm môi có thể dẫn đến [viêm da tiếp xúc kích ứng](https://dermnetnz.org/topics/irritant-contact-dermatitis) . Vùng da quanh miệng có thể bị khô, đỏ và bong tróc.
+Tình trạng sưng môi có thể trở nên nghiêm trọng đến mức ảnh hưởng đến việc nói và ăn uống.
+Sưng cũng có thể xảy ra bên trong miệng, ảnh hưởng đến bên trong má hoặc môi tạo nên hình dạng giống đá cuội hoặc gây phì đại nướu hoặc lưỡi.
+Tình trạng sưng tấy tương tự có thể ảnh hưởng đến các vùng khác trên khuôn mặt như quanh mắt, má hoặc cằm.
+Các dấu hiệu khác của bệnh u hạt miệng mặt có thể bao gồm:
+- [Loét miệng](https://dermnetnz.org/topics/mouth-ulcer) đau – có thể giống [loét áp-tơ](https://dermnetnz.org/topics/aphthous-ulcer) hoặc hình thành các vết loét sâu , tuyến tính mãn tính ở các nếp gấp giữa nướu và bên trong má hoặc môi
+- Thẻ niêm mạc – thường xuất hiện sâu trong nếp gấp giữa nướu và bên trong má hoặc môi, hoặc phía sau răng hàm
+- Lingua plicata ( [vết nứt lưỡi](https://dermnetnz.org/topics/fissured-tongue) )
+Liệt dây thần kinh mặt cũng có thể liên quan đến bệnh u hạt miệng-mặt như trong hội chứng Melkersson-Rosenthal.
+![Viêm môi hạt](https://dermnetnz.org/assets/Uploads/site-age-specific/gran-cheil1.jpg)
+![Viêm môi hạt](https://dermnetnz.org/assets/Uploads/site-age-specific/crohn-cheilitis1.jpg)
+![Viêm môi hạt](https://dermnetnz.org/assets/Uploads/site-age-specific/crohn-cheilitis2.jpg)
+
+---
+
+## Bệnh u hạt miệng mặt được chẩn đoán như thế nào?
+
+Chẩn đoán u hạt vùng miệng và mặt dựa trên tiền sử lâm sàng của tình trạng sưng miệng hoặc mặt tái phát , trở thành vĩnh viễn và sự hiện diện của [u hạt không hoại tử](https://dermnetnz.org/topics/orofacial-granulomatosis-pathology) trên [sinh](https://dermnetnz.org/topics/skin-biopsy) thiết rạch sâu . Tuy nhiên, u hạt chỉ được phát hiện ở dưới 50% trường hợp. Thường thấy các mạch bạch huyết và mạch máu giãn , phù nề và viêm không đặc hiệu . Nhuộm đặc biệt để phát hiện nhiễm trùng và soi kính hiển vi phân cực để tìm dị vật nên cho kết quả âm tính. [](https://dermnetnz.org/topics/skin-biopsy)
+Cần loại trừ các nguyên nhân gây u hạt đã được xác định như [lao](https://dermnetnz.org/topics/cutaneous-tuberculosis) , [bệnh sarcoid](https://dermnetnz.org/topics/sarcoidosis) và [bệnh Crohn . Các xét nghiệm bổ sung có thể bao gồm:](https://dermnetnz.org/topics/crohn-skin-disease)
+- Xét nghiệm máu — axit folic, sắt, vitamin B12, men chuyển angiotensin
+- Chụp X-quang ngực
+- Nội soi
+- [Xét nghiệm da Tuberculin hoặc xét nghiệm máu QuantiFERON Gold để phát hiện bệnh lao](https://dermnetnz.org/topics/tuberculosis-screening)
+- [Kiểm tra miếng dán](https://dermnetnz.org/topics/patch-tests)
+Tất cả các triệu chứng này đều bình thường/âm tính trong bệnh u hạt miệng-mặt. Vai trò của xét nghiệm dị ứng vẫn chưa rõ ràng.
+Có những báo cáo về bệnh Crohn phát triển nhiều năm sau khi xuất hiện các triệu chứng ở miệng và mặt, do đó có thể cần phải đánh giá lại, đặc biệt nếu xuất hiện các triệu chứng mới như đau bụng hoặc tiêu chảy.
+
+---
+
+## Phương pháp điều trị bệnh u hạt miệng mặt là gì?
+
+Do nguyên nhân gây u hạt vùng mặt chưa được xác định nên không có phương pháp điều trị dứt điểm. Bệnh có thể tự thuyên giảm nhưng hiếm gặp. Việc điều trị chỉ được áp dụng khi có đau, ảnh hưởng đến thẩm mỹ hoặc suy giảm chức năng.
+Corticosteroid là phương pháp điều trị được sử dụng phổ biến nhất:
+- [Steroid tại chỗ](https://dermnetnz.org/topics/topical-steroid) dưới dạng thuốc mỡ, kem , [nước súc miệng](https://dermnetnz.org/topics/mouthwash) hoặc thuốc hít để điều trị tình trạng sưng nhẹ, loét miệng, mụn thịt hoặc sỏi đá
+- [Tiêm cortisone](https://dermnetnz.org/topics/intralesional-steroid-injection) nhiều lần vào tổn thương để giảm sưng vừa phải
+- [Steroid toàn thân](https://dermnetnz.org/topics/systemic-steroids) (thường là prednisone đường uống) cho tình trạng sưng tấy vừa đến nặng
+[Tetracycline](https://dermnetnz.org/topics/tetracycline) uống , kháng sinh kỵ khí như [metronidazole](https://dermnetnz.org/topics/metronidazole) hoặc [dapsone](https://dermnetnz.org/topics/dapsone) đôi khi có tác dụng giảm sưng.
+[Tacrolimus](https://dermnetnz.org/topics/tacrolimus) bôi ngoài da đơn lẻ hoặc kết hợp với các phương pháp điều trị khác cũng được sử dụng để điều trị tình trạng sưng nhẹ.
+Một phương pháp điều trị điều hòa miễn dịch khác thường được yêu cầu ngoài steroid. [Methotrexate](https://dermnetnz.org/topics/methotrexate) , [hydroxychloroquine](https://dermnetnz.org/topics/hydroxychloroquine) , [clofazimine](https://dermnetnz.org/topics/clofazimine) , [azathioprine](https://dermnetnz.org/topics/azathioprine-and-mercaptopurine) và [thalidomide](https://dermnetnz.org/topics/thalidomide) liều thấp đã được báo cáo là có hiệu quả trong các loạt ca bệnh nhỏ. Các chất ức chế TNF- α như [infliximab](https://dermnetnz.org/topics/infliximab-for-psoriasis) cũng đã được sử dụng thành công. [](https://dermnetnz.org/topics/infliximab-for-psoriasis)
+Đáp ứng điều trị chậm. Hầu hết bệnh nhân có thể cải thiện một phần hoặc toàn bộ, nhưng không phải tất cả, mặc dù điều này có thể mất nhiều năm. Tình trạng sưng tấy có nhiều khả năng cải thiện hơn tình trạng loét miệng.
+Phẫu thuật có thể cần thiết để điều trị tình trạng sưng tấy nghiêm trọng và vĩnh viễn, ảnh hưởng đến việc nói hoặc ăn uống.

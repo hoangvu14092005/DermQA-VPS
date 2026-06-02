@@ -1,0 +1,80 @@
+# Ban xuất huyết Henoch–Schönlein — thông tin bổ sung
+
+Thể loại:
+
+Các vấn đề về mạch máu
+
+SNOMED CT:
+
+191306005
+
+**[Các vấn đề về mạch máu](https://dermnetnz.org/topics/topics?category=Blood+vessel+problems)**
+
+
+# **Henoch–Schönlein purpura**
+
+Tác giả: Tiến sĩ Todd Gunson, Chuyên gia đăng ký da liễu, Khoa Da liễu, Bệnh viện Greenlane, Auckland, New Zealand, 2007.
+
+---
+
+## Ban xuất huyết Henoch-Schönlein là gì?
+
+Ban xuất huyết Henoch-Schönlein (HSP) là một dạng viêm mạch bạch cầu hoặc [mạch máu nhỏ](https://dermnetnz.org/topics/cutaneous-small-vessel-vasculitis) , thường gặp nhất ở trẻ em. Đôi khi nó còn được gọi là ban xuất huyết phản vệ .
+HSP là kết quả của tình trạng viêm các mạch máu nhỏ ở da và nhiều mô khác trong cơ thể.
+HSP thường ảnh hưởng đến trẻ em, nhưng cũng có thể xảy ra ở người trưởng thành. Các triệu chứng phổ biến nhất bao gồm phát ban do viêm mạch , đau khớp và đau bụng. Bệnh có thể ảnh hưởng đến thận và trong một số trường hợp, dẫn đến tổn thương thận không hồi phục. Tuy nhiên, hầu hết các trường hợp đều tự khỏi mà không cần điều trị hoặc để lại hậu quả lâu dài.
+
+---
+
+## Ai mắc bệnh ban xuất huyết Henoch–Schönlein?
+
+75% các trường hợp xảy ra ở trẻ em dưới 10 tuổi. Hầu hết các nhà nghiên cứu cho rằng bệnh phổ biến hơn ở trẻ em gái, mặc dù một số nghiên cứu cho thấy nam giới chiếm ưu thế hoặc cả hai giới đều bị ảnh hưởng như nhau. HSP có thể xảy ra ở người lớn và khi xảy ra, bệnh thường nghiêm trọng hơn và tổn thương thận phổ biến hơn so với trẻ em. Dường như không có bất kỳ sự phân biệt chủng tộc nào. Tỷ lệ mắc bệnh ở Anh là khoảng 20/100.000 trẻ em (dưới 17 tuổi) mỗi năm và tỷ lệ mắc HSP được cho là tương tự ở New Zealand.
+15 đến 40% trẻ em có ít nhất một lần tái phát.
+
+---
+
+## Nguyên nhân gây ra ban xuất huyết Henoch-Schönlein?
+
+Mặc dù nguyên nhân chính xác của HSP vẫn chưa được biết rõ, nhưng bằng chứng lâm sàng cho thấy nguyên nhân nhiễm trùng. Tỷ lệ mắc HSP ở trẻ em cao nhất vào những tháng mùa thu và mùa đông. Bệnh thường khởi phát sau nhiễm trùng đường hô hấp trên và thường xuất hiện trong các gia đình. [Liên cầu khuẩn](https://dermnetnz.org/topics/streptococcal-skin-infections) tan máu beta thường được tìm thấy trong dịch phết họng hoặc xét nghiệm máu cho kết quả dương tính với liên cầu khuẩn. [](https://dermnetnz.org/topics/streptococcal-skin-infections)
+Nhiều mối liên quan khác đã được báo cáo, bao gồm cả thuốc. Chúng bao gồm thuốc ức chế men chuyển ACE , thuốc đối kháng thụ thể angiotensin II , clarithromycin và thuốc chống viêm không steroid.
+Cơ chế cơ bản của viêm mạch máu nhỏ là sự lắng đọng immunoglobulin IgA trong thành mạch máu. Điều này dẫn đến viêm mạch bạch cầu. Một khiếm khuyết nhỏ của IgA có thể khiến một người dễ mắc HSP.
+
+---
+
+## Đặc điểm lâm sàng của bệnh ban xuất huyết Henoch-Schönlein là gì ?
+
+![ban xuất huyết cổ điển](https://dermnetnz.org/assets/Uploads/vascular/hsp1.jpg)
+![Sưng mắt cá chân (viêm khớp)](https://dermnetnz.org/assets/Uploads/vascular/hsp3.jpg)
+![Cận cảnh phát ban xuất huyết với sự hình thành mụn nước (phồng rộp)](https://dermnetnz.org/assets/Uploads/vascular/hsp2.jpg)
+![Henoch-Schönlein purpura](https://dermnetnz.org/assets/Uploads/vascular/s/hsp4.jpg)
+![Henoch-Schönlein purpura](https://dermnetnz.org/assets/Uploads/vascular/s/hsp5.jpg)
+![Henoch-Schönlein purpura](https://dermnetnz.org/assets/Uploads/vascular/s/hsp6.jpg)
+Biểu hiện điển hình của HSP là bốn triệu chứng và dấu hiệu:
+- Phát ban
+- Viêm khớp
+- Đau bụng
+- Suy thận.
+Các triệu chứng thường xuất hiện trước 2–3 tuần với các triệu chứng sốt , đau đầu, đau cơ/khớp hoặc đau bụng.
+Hầu như tất cả các trường hợp đều xuất hiện phát ban. Ban đầu thường là các nốt hoặc cục đỏ (có thể trông giống như tổ ong) và nhanh chóng chuyển thành các cục nhỏ màu tím sẫm ( [ban xuất huyết](https://dermnetnz.org/topics/purpura) sờ thấy được ) trong vòng 24 giờ đầu. Vị trí thường gặp nhất là cẳng chân, mông, khuỷu tay và đầu gối. Ban xuất hiện đối xứng và thậm chí có thể lan rộng. Các vết phồng rộp và/hoặc loét có thể hình thành ở các vùng bị ảnh hưởng. [](https://dermnetnz.org/topics/purpura)
+Viêm khớp xảy ra ở 75% các trường hợp và thường ảnh hưởng đến một đến bốn khớp, đặc biệt là mắt cá chân và đầu gối. Tình trạng này có thể thoáng qua và di chuyển giữa các khớp khác nhau.
+Đau bụng xuất hiện ở một nửa đến ba phần tư số bệnh nhân và xuất hiện trước khi phát ban ở một phần ba. Đau bụng có thể kèm theo tiêu chảy và chảy máu ruột. Viêm tinh hoàn và lồng ruột là những biến chứng có thể xảy ra.
+Tổn thương thận được ghi nhận ở 50% trường hợp. Tình trạng này thường nhẹ và tự khỏi , tuy nhiên, điều quan trọng là phải được chẩn đoán và theo dõi vì suy thận mạn có thể xảy ra. Tình trạng này thường xảy ra trong vòng vài ngày đến một tháng sau khi các triệu chứng khác xuất hiện. Khoảng 10% có vấn đề nghiêm trọng về thận khi phát hiện bệnh, 15% có bất thường nhẹ trong xét nghiệm nước tiểu, và 1–5% tiến triển thành suy thận giai đoạn cuối lâu dài.
+Rất hiếm khi các cơ quan khác như phổi, não và tim cũng bị ảnh hưởng.
+
+---
+
+## Cần thực hiện những xét nghiệm nào khi mắc bệnh ban xuất huyết Henoch–Schönlein?
+
+Chẩn đoán HSP thường rõ ràng nếu có các triệu chứng điển hình.
+- Cần thực hiện xét nghiệm máu và nước tiểu để tìm kiếm bất kỳ dấu hiệu nào của tổn thương thận. Các xét nghiệm này nên được lặp lại định kỳ ban đầu để đảm bảo suy thận không phát triển hoặc trở nặng hơn.
+- Huyết áp phải được đo cùng lúc.
+- Sinh [thiết da](https://dermnetnz.org/topics/skin-biopsy) thường không cần thiết, đặc biệt là ở trẻ em, nhưng có thể được thực hiện để xác nhận chẩn đoán.
+
+---
+
+## Phương pháp điều trị bệnh ban xuất huyết Henoch–Schönlein là gì ?
+
+Trong phần lớn các trường hợp, HSP không cần điều trị đặc hiệu và phát ban sẽ mờ dần sau một tuần. Các đợt tổn thương tái phát xảy ra trong vòng 6–16 tuần tiếp theo ở một phần ba số trường hợp. Năm đến mười phần trăm có thể bị bệnh dai dẳng.
+- Thuốc chống viêm không steroid (ví dụ ibuprofen) có hiệu quả trong việc làm giảm đau khớp và đau bụng.
+- Trong những trường hợp nghiêm trọng hơn, người ta thường sử dụng [steroid đường uống .](https://dermnetnz.org/topics/systemic-steroids)
+- Các lựa chọn khác bao gồm [dapsone](https://dermnetnz.org/topics/dapsone) hoặc [colchicine](https://dermnetnz.org/topics/colchicine) .
+- Nếu có tình trạng thận bị ảnh hưởng đáng kể, steroid thường được kết hợp với [thuốc ức chế miễn dịch](https://dermnetnz.org/topics/drug-induced-immunosuppression) mạnh hơn hoặc [immunoglobulin tiêm tĩnh mạch](https://dermnetnz.org/topics/intravenous-immunoglobulin) .

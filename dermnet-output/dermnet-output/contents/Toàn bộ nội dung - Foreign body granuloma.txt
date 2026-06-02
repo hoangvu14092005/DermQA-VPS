@@ -1,0 +1,164 @@
+# U hạt dị vật — thông tin bổ sung
+
+Thể loại:
+
+Phản ứng
+
+SNOMED CT:
+
+3310005432213000, 292787003, 292783004, 17919002, 402379005, 66962008
+
+**[Phản ứng](https://dermnetnz.org/topics/topics?category=Reactions)**
+
+
+# **U hạt dị vật**
+
+Tác giả: Joel Winders, sinh viên y khoa, Đại học Auckland, Khoa Da liễu, Bệnh viện Waikato, Hamilton, New Zealand. Tổng biên tập DermNet New Zealand: Phó Giáo sư Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand. Biên tập viên: Gus Mitchell/Maria McGivern. Tháng 10 năm 2017.
+
+---
+
+## U hạt là gì?
+
+U [hạt](https://dermnetnz.org/topics/granuloma) là thuật ngữ mô học dùng để chỉ một tập hợp các tế bào mô hoặc các tế bào mô biểu mô kèm theo một loạt các tế bào khổng lồ đa nhân (khối đại thực bào ) và các tế bào viêm khác [1].
+
+---
+
+## Vật lạ là gì?
+
+Vật thể lạ là bất kỳ vật chất nào, sống hoặc không sống, được hệ miễn dịch của vật chủ nhận biết là 'không phải của cơ thể' và gây ra phản ứng miễn dịch .
+
+---
+
+## U hạt dị vật là gì?
+
+U hạt dị vật hình thành để đáp ứng với sự xâm nhập của vật liệu ngoại lai vào da hoặc để đáp ứng với vật liệu nội sinh đã biến đổi mà hệ thống miễn dịch xác định là dị vật [3].
+![U hạt silica](https://dermnetnz.org/assets/Uploads/foreign-body-granuloma-1.jpg)
+![U hạt hình xăm](https://dermnetnz.org/assets/Uploads/foreign-body-granuloma-3.jpg)
+![U hạt collagen ở bò](https://dermnetnz.org/assets/Uploads/foreign-body-granuloma-2.jpg)
+
+---
+
+## Cơ thể thường đào thải dị vật bằng cách nào?
+
+Cơ thể sẽ phản ứng viêm để loại bỏ dị vật. Bạch cầu trung tính hình thành hàng phòng thủ ban đầu của vật chủ bằng cách cố gắng bao bọc và tiêu hóa (thực bào) dị vật. Nếu phản ứng này không đủ để loại bỏ dị vật, các tế bào đơn nhân và đại thực bào mô tại chỗ sẽ được kích hoạt để nuốt dị vật. Nếu dị vật đủ nhỏ, các tế bào này sẽ loại bỏ nó khỏi mô một cách hiệu quả [1–3].
+Nếu có dị vật trên bề mặt da (chẳng hạn như mảnh vụn trong vết thương), các tế bào sừng sẽ di chuyển dọc theo mô liên kết được hình thành bởi fibrin , fibronectin và collagen loại V, và tách mô này ra khỏi mô bên dưới trong giai đoạn tăng sinh của quá trình chữa lành.
+
+---
+
+## Ai bị u hạt dị vật?
+
+Vật thể lạ thường được đưa vào cơ thể thông qua các phương tiện tự nguyện, chẳng hạn như hình xăm và chất làm đầy thẩm mỹ. Nguyên nhân không tự nguyện gây ra u hạt vật thể lạ , chẳng hạn như khoáng chất và kim loại vô tình bám vào da, thường gặp ở những người làm việc trong ngành xây dựng [3].
+
+---
+
+## Nguyên nhân nào gây ra u hạt dị vật?
+
+U hạt dị vật hình thành khi hệ thống miễn dịch của vật chủ không thể tiêu hóa dị vật, dẫn đến sự tích tụ của đại thực bào và mô bào. Khi đại thực bào bao quanh và cô lập dị vật, một số trong số chúng sẽ hợp nhất để tạo thành các tế bào khổng lồ đa nhân. Tế bào T và nguyên bào sợi cũng tham gia vào phản ứng viêm này [3].
+Các chất gây ra u hạt dị vật bao gồm:
+- Sắc tố carbon trong hình xăm thẩm mỹ và tai nạn công nghiệp và súng
+- Chất làm đầy mỹ phẩm, chẳng hạn như [collagen](https://dermnetnz.org/topics/collagen-replacement-therapy) , [silicone](https://dermnetnz.org/topics/silicone-implant) , parafin và [axit hyaluronic](https://dermnetnz.org/topics/hyaluronic-acid-implant)
+- Thuốc, chẳng hạn như [corticosteroid tiêm vào tổn thương](https://dermnetnz.org/topics/intralesional-steroid-injection) , polyvinylpyrrolidone (PVP) và [hydroquinone](https://dermnetnz.org/topics/hydroquinone)
+- Các hạt khoáng chất và kim loại, chẳng hạn như sỏi đường, silica, nhôm, kẽm và niken
+- U nang vỡ , lông, canxi
+- Các vật liệu sinh học và phi sinh học khác, chẳng hạn như bột talc, gai xương rồng, thủy tinh, chỉ khâu còn sót lại, mảnh vụn và tóc tự nhiên và nhân tạo.
+
+---
+
+## Đặc điểm lâm sàng của u hạt dị vật là gì?
+
+U hạt dị vật thường xuất hiện dưới dạng các sẩn , nốt hoặc mảng màu đỏ hoặc nâu đỏ , có thể loét hoặc không loét [2,3].
+
+### Biểu hiện thường gặp của u hạt dị vật
+
+### Hình xăm
+[U hạt hình xăm](https://dermnetnz.org/topics/tattoo-associated-skin-reactions) thường chỉ giới hạn ở vùng xăm. Chúng thường là các nốt ban đỏ mềm . Các mảng dạng liken hoặc eczema cũng có thể xuất hiện. U hạt thường xuất hiện sau khi xăm hình mới, mặc dù đã có báo cáo về các phản ứng chậm trễ lên đến 17 năm sau khi xăm.
+
+### Tiêm collagen ở bò
+Phản ứng quá mẫn với [collagen bò](https://dermnetnz.org/topics/collagen-replacement-therapy) dẫn đến tình trạng chai cứng và ban đỏ ở vùng tiêm collagen. Có thể xuất hiện áp xe vô trùng , kéo dài vài tháng hoặc lâu hơn.
+
+### Cấy ghép và tiêm silicone
+U hạt silicon có thể hình thành ở lớp hạ bì khi chấn thương làm vỡ bao quanh [túi độn silicon](https://dermnetnz.org/topics/silicone-implant) . Các nốt sần lớn hơn, loét và xơ cứng có thể phát triển chậm , từ vài tháng đến vài năm sau chấn thương. Các nốt sần xa cũng có thể hình thành do silicon rò rỉ vào các vị trí phụ thuộc .
+Tiêm silicone lỏng dưới da cũng có thể gây ra các nốt sần trên da và mảng bám cứng hoặc loét.
+
+### Tiêm parafin
+Tiêm parafin để cấy ghép ngực hoặc dương vật có thể dẫn đến hình thành một nốt sần cứng, không đau , một mảng bám cứng và loét , và một ổ áp xe tại vị trí tiêm. Phản ứng này được gọi là u hạt mỡ xơ hóa hoặc u hạt dầu.
+
+### Tiêm corticosteroid vào tổn thương
+Có thể hình thành một nốt sần tại vị trí [tiêm corticosteroid vào tổn thương](https://dermnetnz.org/topics/intralesional-steroid-injection) do sự hấp thụ không hoàn toàn hoặc sự phân tán bất thường của vật liệu tiêm.
+
+### Silica
+Sẩn, nốt sần và mảng cứng có thể phát triển bên trong vết sẹo sau chấn thương liên quan đến kính, cát và bụi bẩn.
+
+### Nhôm
+Nhôm có thể được đưa vào cơ thể thông qua vắc-xin và liệu pháp miễn dịch. U hạt có thể xuất hiện dưới dạng các nốt sần dưới da dai dẳng vài tháng sau khi tiêm.
+
+### Kẽm
+U hạt là một tác dụng phụ hiếm gặp của việc tiêm insulin có chứa kẽm. Chúng biểu hiện dưới dạng nhọt vô trùng (nhọt), sau đó lành lại và để lại sẹo teo tại vị trí tiêm.
+
+### Bột talc
+Talc (magnesium silicat ngậm nước) được tìm thấy trong nhiều loại bột kháng sinh và bột rắc, và có thể gây u hạt nếu thoa lên vết thương hở. U hạt talc là các sẩn hoặc nốt sần đỏ, có thể mất nhiều năm mới xuất hiện. Các vị trí được ghi nhận bao gồm rốn trẻ sơ sinh, gốc chi bị cắt cụt, vị trí tiêm và vùng bẹn .
+
+### Các mũi khâu
+Vật liệu khâu còn sót lại có thể là nguyên nhân gây viêm vết thương vài tuần sau phẫu thuật da. Một lỗ rò trên bề mặt da có thể hình thành, và chỉ khâu có thể bị bật ra khỏi da (chỉ khâu bắn). Các vật liệu tự nhiên, chẳng hạn như ruột, có khả năng "bắn" cao hơn chỉ nylon đơn sợi.
+
+### Gai xương rồng
+Gai xương rồng có thể gây ra phản ứng viêm cấp tính và tạo ra các cụm sẩn hình vòm màu da, mỗi sẩn có một chấm đen ở giữa. Chúng thường xuất hiện trên bàn tay và ngón tay của những người thường xuyên tiếp xúc với quả xương rồng. Phản ứng tương tự cũng có thể xảy ra với những người tiếp xúc với nhím biển.
+
+---
+
+## Biến chứng của u hạt dị vật là gì?
+
+Các biến chứng của u hạt dị vật có thể bao gồm:
+- Hình thành loét và áp xe
+- Bệnh hạch bạch huyết , do dị vật di chuyển vào hệ bạch huyết
+- [Sẹo lồi và sẹo phì đại](https://dermnetnz.org/topics/keloid-and-hypertrophic-scar) thường gặp ở những người có làn da sẫm màu hơn [2,3].
+
+---
+
+## Làm thế nào để chẩn đoán u hạt dị vật?
+
+Tiền sử lâm sàng và khám lâm sàng thường đủ để chẩn đoán u hạt dị vật. Các xét nghiệm có thể bao gồm:
+- [Sinh thiết](https://dermnetnz.org/topics/skin-biopsy) và xét nghiệm mô học
+- Siêu âm , đặc biệt là ở những người tiêm chất làm đầy thẩm mỹ khi không muốn sinh thiết
+- Quan sát tinh thể silica dưới ánh sáng phân cực
+- Chụp cắt lớp quang học và kính hiển vi quét laser cộng hưởng của hình xăm (ví dụ, để đánh giá trước khi xóa bằng [laser](https://dermnetnz.org/topics/lasers-in-dermatology) ) [2–4]. [](https://dermnetnz.org/topics/lasers-in-dermatology)
+
+---
+
+## Chẩn đoán phân biệt đối với u hạt dị vật là gì?
+
+Chẩn đoán phân biệt u hạt dị vật bao gồm các dạng u hạt khác và các phản ứng khác với dị vật (ví dụ, lông mọc ngược có thể gây [viêm nang lông giả](https://dermnetnz.org/topics/folliculitis-barbae) , đặc biệt là ở vùng râu). Chẩn đoán phân biệt bao gồm:
+- Bệnh [sarcoidosis da](https://dermnetnz.org/topics/sarcoidosis)
+- [U hạt vòng](https://dermnetnz.org/topics/granuloma-annulare)
+- [U hạt sinh mủ](https://dermnetnz.org/topics/pyogenic-granuloma)
+- [U hạt ở mặt](https://dermnetnz.org/topics/granuloma-faciale)
+- [U hạt tế bào khổng lồ đàn hồi](https://dermnetnz.org/topics/elastolytic-giant-cell-granuloma)
+- [Viêm da hạt](https://dermnetnz.org/topics/granulomatous-dermatitis)
+- [U hạt bẹn](https://dermnetnz.org/topics/granuloma-inguinale)
+- [U hạt Majocchi](https://dermnetnz.org/topics/majocchi-granuloma) [3–5].
+
+---
+
+## Phương pháp điều trị u hạt dị vật là gì?
+
+U hạt dị vật có thể được cắt bỏ. Các phương pháp loại bỏ khác tùy thuộc vào nguyên nhân.
+
+### Hình xăm
+Tiêu chuẩn vàng để xóa hình xăm nông trên da là laser chất lượng cao (Q-switched) không xâm lấn . [Laser pico giây](https://dermnetnz.org/topics/picosecond-laser) cũng đã được sử dụng. Có thể cần phải phẫu thuật để loại bỏ các khối u hạt hình xăm sâu hơn.
+[Steroid tại chỗ](https://dermnetnz.org/topics/topical-steroid) , [tiêm steroid vào tổn thương](https://dermnetnz.org/topics/intralesional-steroid-injection) , [tacrolimus](https://dermnetnz.org/topics/tacrolimus) , [imiquimod](https://dermnetnz.org/topics/imiquimod) và [etanercept](https://dermnetnz.org/topics/etanercept-for-psoriasis) đã được sử dụng thành công để điều trị phản ứng hình xăm dạng u hạt .
+
+### Chất làm đầy thẩm mỹ
+U hạt dị vật do chất làm đầy thẩm mỹ có thể được điều trị bằng [kháng sinh](https://dermnetnz.org/topics/antibiotics) , [steroid](https://dermnetnz.org/topics/systemic-steroids) đường uống và [tiêm corticosteroid nội tổn thương](https://dermnetnz.org/topics/intralesional-steroid-injection) . Tiêm [fluorouracil](https://dermnetnz.org/topics/5-fluorouracil-cream) cũng đã được sử dụng. Có thể phẫu thuật cắt bỏ nếu các phương pháp điều trị khác không hiệu quả.
+
+### Khác
+Các lựa chọn y tế khác được sử dụng để điều trị u hạt dị vật bao gồm:
+- [Colchicin](https://dermnetnz.org/topics/colchicine)
+- Allopurinol
+- Ascomycin
+- [Isotretinoin](https://dermnetnz.org/topics/isotretinoin)
+
+---
+
+## Kết quả của u hạt dị vật là gì?
+
+Diễn biến tự nhiên của u hạt dị vật thay đổi tùy theo nguyên nhân. U hạt dị vật và áp xe do tiêm collagen ở bò thường tự khỏi trong vòng 1–2 năm [2–4]. Các loại u hạt dị vật khác có thể tồn tại trong nhiều thập kỷ.

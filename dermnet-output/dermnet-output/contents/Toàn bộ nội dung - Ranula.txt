@@ -1,0 +1,53 @@
+# Mucocoele của môi — thông tin bổ sung
+
+Thể loại:
+
+Tổn thương (lành tính)
+
+SNOMED CT:
+
+235017008, 196575007, 1092901000119109, 431037002, 14919007, 62187000, 77967005, 235129002, 235128005, 334831000, 10480003, 69825009
+
+**[Tổn thương (lành tính)](https://dermnetnz.org/topics/topics?category=Lesions+(benign))**
+
+
+# **Mucocoele của môi**
+
+Tác giả: Vanessa Ngan, Biên tập viên, 2005.
+
+---
+
+## Mucocoele ở môi là gì?
+
+Mucocoele (tiếng Mỹ: 'mucocele') là một tên gọi khác của u nang niêm mạc . Mucocoele hình thành khi chất nhầy hoặc nước bọt thoát ra các mô xung quanh và một lớp lót hạt hoặc mô liên kết được hình thành, tạo thành một khối tròn, mềm, nhẵn chứa đầy dịch. Chúng thường xuất hiện ở mặt trong của môi dưới (75% trường hợp) nhưng cũng có thể xuất hiện ở sàn miệng (ở vùng này, chúng được gọi là ranulae) hoặc trên nướu ( lợi), niêm mạc má (lớp lót bên trong má) và lưỡi.
+
+---
+
+## Dấu hiệu và triệu chứng của bệnh mucocoele là gì?
+
+Mucocoele thường là những tổn thương hình vòm trong suốt, chứa đầy chất nhầy. Có thể xuất hiện một hoặc nhiều tổn thương và đường kính dao động từ 1-15 mm. Các tổn thương nông có màu hơi xanh hoặc trong mờ do lớp biểu mô mỏng bao phủ các mao mạch hơi xanh . Các tổn thương sâu hơn thường có màu giống với phần còn lại của môi vì chúng được bao phủ bởi một lớp mô dày hơn. Chảy máu vào tổn thương có thể gây ra màu đỏ tươi và đôi khi có thể giống như u máu. Đôi khi, bề mặt của tổn thương có thể trở nên trắng, sần sùi và đóng vảy do mút nhiều lần.
+Trong hầu hết các trường hợp, tổn thương mucocoele nông thường kéo dài trong vài ngày hoặc vài tuần, tự vỡ (thường là khi ăn) và lành lại sau vài ngày. Chúng thường tái phát nhiều lần. Việc tái phát mucocoele có thể dẫn đến một khối u vĩnh viễn ở bề mặt bên trong môi.
+Mucocoele là những tổn thương không đau nhưng gây khó chịu vì mọi người rất chú ý đến những bất thường trong miệng.
+![Mucocoele của môi](https://dermnetnz.org/assets/Uploads/site-age-specific/mucocoele1.jpg)
+![Mucocoele của môi](https://dermnetnz.org/assets/Uploads/site-age-specific/s/mucocoele2.jpg)
+![Mucocoele của môi](https://dermnetnz.org/assets/Uploads/site-age-specific/s/mucocoele3.jpg)
+
+---
+
+## Nguyên nhân nào gây ra bệnh mucocoele?
+
+Mucocoele thường là hậu quả của chấn thương miệng, làm tổn thương các ống dẫn nước bọt nhỏ bên trong môi. Tổn thương hoặc vỡ các ống dẫn bài tiết cực nhỏ này dẫn đến sự tích tụ chất nhầy bên trong mô liên kết của môi. Cắn môi hoặc hành động mút kéo niêm mạc môi dưới vào giữa hai hàm răng được cho là nguyên nhân phổ biến. Thông thường, người bệnh không hề biết mình đã bị thương.
+
+---
+
+## Chẩn đoán được thực hiện như thế nào?
+
+Có thể thực hiện sinh [thiết](https://dermnetnz.org/topics/skin-biopsy) tổn thương niêm mạc để loại trừ các bệnh lý niêm mạc da nghi ngờ khác .
+
+---
+
+## Phương pháp điều trị bệnh mucocoele là gì?
+
+Mucocoele bề mặt thường tự khỏi và không cần điều trị đặc hiệu. Dầu hoa anh thảo đã được sử dụng với mức độ thành công khác nhau ở một số ít bệnh nhân bị nhiều mucocoele bề mặt. Tuy nhiên, mucocoele tái phát trong vòng vài tháng sau khi ngừng điều trị.
+Nếu niêm mạc nông thường xuyên tái phát và gây khó khăn cho bệnh nhân, các phương pháp điều trị bao gồm phẫu thuật cắt bỏ, tạo túi (tạo túi) bên trong tổn thương, đông lạnh (phẫu thuật lạnh), đốt laser và tạo túi vi phẫu. Các phương pháp điều trị này cũng được sử dụng để điều trị các tổn thương sâu hơn.
+Nếu cắt bỏ hoàn toàn và đầy đủ bằng phẫu thuật cùng với cắt bỏ hoặc cắt bỏ các tuyến nước bọt nhỏ liền kề , sẽ không có tình trạng tái phát u nhầy.

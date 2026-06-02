@@ -1,0 +1,156 @@
+# Chốc lở — thông tin bổ sung
+
+Thể loại:
+
+Nhiễm trùng
+
+SNOMED CT:
+
+48277006, 399183005, 238374001, 238375000, 399102002, 359751003, 238376004, 762694009
+
+**[Nhiễm trùng](https://dermnetnz.org/topics/topics?category=Infections)**
+
+
+# **Chốc lở**
+
+Tác giả: Tiến sĩ Kate Quirke, Cán bộ Nội trú Cấp cao, Bệnh viện Rotorua, New Zealand. Biên tập bởi Gus Mitchell. Tháng 3 năm 2022. Tác giả trước: Phó Giáo sư Amanda Oakley, Bác sĩ Da liễu, Bệnh viện Waikato, New Zealand.
+
+---
+
+## Chốc lở là gì?
+
+[Chốc lở là một bệnh nhiễm trùng da](https://dermnetnz.org/topics/bacterial-skin-infections) nông, phổ biến và dễ lây lan do vi khuẩn, đặc trưng bởi mụn mủ và vết loét đóng vảy màu mật ong .
+Bệnh ảnh hưởng đến các lớp nông của biểu bì và thường do Staphylococcus aureus và Streptococcus pyogenes ( liên cầu khuẩn tan máu beta nhóm A (GABHS)) gây ra. Bệnh có thể được phân loại thành chốc không bóng nước (còn gọi là 'loét học đường') và chốc bóng nước. [Chốc loét](https://dermnetnz.org/topics/ecthyma) là dạng chốc sâu gây ra các vết loét sâu hơn trên da vào tận lớp hạ bì.
+Nhiễm trùng thứ phát ở vết thương hoặc các tổn thương da khác do cùng tác nhân gây bệnh được gọi là ' chốc lở '.
+![Vảy màu mật ong ở cằm trong bệnh chốc lở](https://dermnetnz.org/assets/collection/Impetigo/impetigo-0010.jpg)
+!['Tổn thương hôn' ở cả hai bên nách trong bệnh chốc lở](https://dermnetnz.org/assets/collection/Impetigo/impetigo-0004.jpg)
+![Vảy màu mật ong quanh miệng trong bệnh chốc lở](https://dermnetnz.org/assets/collection/Impetigo/impetigo-0009.jpg)
+![Chốc lở phồng rộp lan rộng ở lưng](https://dermnetnz.org/assets/collection/Impetigo/impetigo-0002.jpg)
+![Một vết phồng rộp và vết loét còn nguyên vẹn trong bệnh chốc lở](https://dermnetnz.org/assets/collection/Impetigo/impetigo-0003.jpg)
+![Tổn thương đóng vảy màu mật ong ở bệnh chốc mặt](https://dermnetnz.org/assets/collection/Impetigo/impetigo-0008.jpg)
+Để xem thêm hình ảnh về bệnh chốc lở, [hãy nhấp vào đây](https://dermnetnz-org.translate.goog/images/impetigo-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp) .
+
+---
+
+## Ai bị bệnh chốc lở?
+
+Chốc lở thường gặp nhất ở trẻ nhỏ nhưng có thể xảy ra ở mọi lứa tuổi. Bệnh thường lây truyền qua tiếp xúc trực tiếp.
+Các yếu tố nguy cơ có thể khiến một cá nhân dễ mắc bệnh chốc lở bao gồm:
+- Các bệnh về da: [viêm da dị ứng](https://dermnetnz.org/topics/atopic-dermatitis) , [viêm da tiếp xúc](https://dermnetnz.org/topics/contact-dermatitis) , [ghẻ](https://dermnetnz.org/topics/scabies) , [thủy đậu](https://dermnetnz.org/topics/chickenpox)
+- Chấn thương da : vết rách, [vết côn trùng cắn](https://dermnetnz.org/topics/arthropod-bites-and-stings) , [bỏng nhiệt](https://dermnetnz.org/topics/thermal-burn) , trầy xước
+- Ức chế miễn dịch
+- Khí hậu ấm áp, ẩm ướt
+- Vệ sinh kém
+- Môi trường đông đúc.
+
+---
+
+## Nguyên nhân gây ra bệnh chốc lở là gì?
+
+Bệnh chốc lở do [vi khuẩn Staphylococcus aureus](https://dermnetnz.org/topics/methicillin-resistant-staphylococcus-aureus) và ít gặp hơn là [Streptococcus pyogenes](https://dermnetnz.org/topics/streptococcal-skin-infections) gây ra .
+
+### Chốc không mụn nước
+- Do vi khuẩn Staphylococcus aureus , Streptococcus pyogenes hoặc cả hai loại vi khuẩn cùng gây ra .
+- Da nguyên vẹn thường có khả năng chống lại sự xâm nhập của vi khuẩn. Sự phá vỡ tính toàn vẹn của da tạo điều kiện cho vi khuẩn xâm nhập qua bề mặt bị tổn thương.
+
+### Chốc lở bọng nước
+- Do vi khuẩn Staphylococcus aureus sản sinh ra độc tố tẩy tế bào chết (exfoliatin A và B).
+- Các độc tố tẩy tế bào chết nhắm vào các phân tử kết dính nội bào ( desmoglein – 1) có trong lớp hạt biểu bì .
+- Dẫn đến sự phân ly của các tế bào biểu bì gây ra sự hình thành mụn nước.
+- Có thể xảy ra ở những vùng da còn nguyên vẹn.
+
+---
+
+## Các đặc điểm lâm sàng của bệnh chốc lở là gì?
+
+
+### Chốc không mụn nước
+- Thường gặp nhất ở mặt hoặc tứ chi nhưng bất kỳ vùng da nào trên cơ thể cũng có thể bị ảnh hưởng.
+- Bắt đầu bằng một nốt ban đỏ đơn độc , sau đó phát triển thành mụn mủ hoặc mụn nước.
+- Mụn mủ hoặc mụn nước vỡ ra, giải phóng dịch nhầy , khi khô lại sẽ để lại lớp vảy màu mật ong điển hình .
+- Ít hoặc không có ban đỏ xung quanh.
+- Có thể lây lan nhanh chóng qua các tổn thương vệ tinh do tự nhiễm trùng.
+- “Tổn thương hôn” xuất hiện ở nơi hai bề mặt da tiếp xúc với nhau.
+- Bệnh nhân thường khỏe mạnh; họ có thể bị [ngứa](https://dermnetnz.org/topics/pruritus) và [nổi hạch](https://dermnetnz.org/topics/cutaneous-lymphadenoma-disease-pathology) ở một vùng .
+
+### Chốc lở bọng nước
+- Thường xuất hiện ở mặt, thân, tứ chi, mông và vùng tầng sinh môn .
+- Có thể lan rộng ra xa do tự nhiễm.
+- Xuất hiện dưới dạng các bọng nước mỏng, lớn hoặc nhỏ, nông, xuất hiện nhanh chóng , có xu hướng tự vỡ và rỉ dịch màu vàng để lại viền vảy (vòng cổ).
+- Có nhiều khả năng có các triệu chứng toàn thân như khó chịu , sốt và nổi hạch.
+![Tổn thương đóng vảy, chảy nước ở bệnh chốc mặt](https://dermnetnz.org/assets/collection/Impetigo/impetigo-0006.jpg)
+![Chốc lở ở chân](https://dermnetnz.org/assets/collection/Impetigo/impetigo-0005.jpg)
+![Chốc lở ở mặt](https://dermnetnz.org/assets/collection/Impetigo/impetigo-0007.jpg)
+
+---
+
+## Các đặc điểm lâm sàng khác nhau như thế nào ở các loại da khác nhau?
+
+Các đốm ban đỏ ban đầu ở bệnh chốc không có bọng nước có thể khó nhìn thấy hơn ở những người có tông màu da sẫm hơn.
+
+---
+
+## Biến chứng của bệnh chốc lở là gì?
+
+- Nhiễm trùng lan rộng hơn: [viêm mô tế bào](https://dermnetnz.org/topics/cellulitis) , viêm mạch bạch huyết và nhiễm trùng huyết.
+- [Hội chứng bỏng da do tụ cầu khuẩn](https://dermnetnz.org/topics/staphylococcal-scalded-skin-syndrome) .
+- [Bệnh sốt ban đỏ](https://dermnetnz.org/topics/scarlet-fever) .
+- Viêm cầu thận sau nhiễm liên cầu khuẩn: một tình trạng thận cấp tính hiếm gặp sau khi nhiễm Streptococcus pyogenes (liên cầu khuẩn nhóm A). Tình trạng này do [phản ứng quá mẫn loại III](https://dermnetnz.org/topics/allergies-explained) và xuất hiện sau 2–6 tuần kể từ khi nhiễm trùng da. [](https://dermnetnz.org/topics/allergies-explained)
+- [Hội chứng sốc nhiễm độc liên cầu khuẩn](https://dermnetnz.org/topics/toxic-shock-syndrome-and-toxic-shock-like-syndrome) : một biến chứng hiếm gặp gây phát ban đỏ lan tỏa , hạ huyết áp và sốt.
+- [Sắc tố sau viêm](https://dermnetnz.org/topics/postinflammatory-hyperpigmentation) .
+- Sẹo, đặc biệt là [sẹo do loét da](https://dermnetnz.org/topics/ecthyma) .
+
+---
+
+## Bệnh chốc lở được chẩn đoán như thế nào?
+
+- Chốc lở thường được chẩn đoán lâm sàng dựa trên các đặc điểm được mô tả ở trên.
+- Việc lấy mẫu da để nuôi cấy và kiểm tra độ nhạy cảm có thể có ích nếu bệnh chốc tái phát , lan rộng hoặc có lo ngại về [nhiễm trùng MRSA](https://dermnetnz.org/topics/methicillin-resistant-staphylococcus-aureus) .
+- Nên tiến hành xét nghiệm dịch mũi trong trường hợp nhiễm trùng tái phát vì có thể xác định được vi khuẩn tụ cầu trong mũi, cần phải có phương pháp điều trị cụ thể.
+- Sinh thiết hiếm [khi](https://dermnetnz.org/topics/skin-biopsy) được chỉ định nếu chẩn đoán không rõ ràng (đặc biệt là đối với bệnh chốc bóng nước) hoặc nếu bệnh không đáp ứng với điều trị.
+- Các đặc điểm mô học là đặc trưng.
+
+---
+
+## Chẩn đoán phân biệt bệnh chốc lở là gì?
+
+- [Pemphigus lá](https://dermnetnz.org/topics/pemphigus-foliaceus)
+- [Pemphigus thông thường](https://dermnetnz.org/topics/pemphigus-vulgaris)
+- [Viêm nang lông (mụn mủ)](https://dermnetnz.org/topics/folliculitis)
+- [Virus herpes simplex](https://dermnetnz.org/topics/herpes-simplex)
+
+---
+
+## Phương pháp điều trị và phòng ngừa bệnh chốc lở là gì?
+
+
+### Các biện pháp chung
+- Vệ sinh nhẹ nhàng thường xuyên; loại bỏ lớp vảy màu mật ong.
+- Thực hiện vệ sinh tay tốt và cắt ngắn móng tay.
+- Che vùng bị ảnh hưởng bằng băng không thấm nước để ngăn ngừa lây lan.
+
+### Các biện pháp cụ thể
+Thuốc kháng sinh tại chỗ
+- Đối với bệnh chốc khu trú không có mụn nước, nên bôi [thuốc sát trùng 2–3 lần mỗi ngày trong 5–7 ngày (ví dụ](https://dermnetnz.org/topics/antiseptic) kem hydrogen peroxide 1% hoặc thuốc mỡ povidone — iodine 10% ).
+- Thuốc kháng sinh bôi ngoài da như [axit fusidic](https://dermnetnz.org/topics/topical-fusidic-acid) hoặc [mupirocin](https://dermnetnz.org/topics/mupirocin) có hiệu quả trong điều trị bệnh chốc không mụn nước, tuy nhiên, việc sử dụng chúng có thể không được khuyến khích ở một số quốc gia do tình trạng kháng thuốc của vi khuẩn .
+- Có thể cân nhắc dùng thuốc kháng sinh tại chỗ khi phương pháp điều trị bằng thuốc sát trùng không có hiệu quả hoặc không phù hợp (ví dụ như chốc lở quanh mắt). Axit fusidic là thuốc đầu tay. Việc sử dụng mupirocin thường được dành riêng cho trường hợp nhiễm trùng MRSA.
+- Axit fusidic là thuốc đầu tay.
+- Việc sử dụng mupirocin thường được dành riêng cho trường hợp nhiễm trùng MRSA.
+Thuốc kháng sinh uống
+- Được khuyến cáo sử dụng trong trường hợp chốc phồng rộp, chốc lan rộng không phồng rộp (>3 tổn thương), khi điều trị tại chỗ không hiệu quả, người bệnh có nguy cơ biến chứng cao hoặc khi người bệnh không khỏe toàn thân.
+- Thuốc kháng sinh uống [flucloxacillin](https://dermnetnz.org/topics/antibiotics) thường là lựa chọn đầu tiên.
+- Các lựa chọn thay thế có thể bao gồm trimethoprim + sulfamethoxazole hoặc erythromycin (ví dụ, nếu dị ứng với penicillin hoặc nhiễm trùng MRSA).
+Các biện pháp phòng ngừa
+- Tránh chạm vào vùng bị ảnh hưởng.
+- Thực hiện vệ sinh tay tốt; rửa tay trước và sau khi thoa kem.
+- Mỗi lần sử dụng khăn sạch để rửa và lau khô vùng bị ảnh hưởng.
+- Không dùng chung khăn tắm hoặc khăn mặt.
+- Quần áo và chăn ga gối đệm phải được thay hàng ngày; giặt bằng nước nóng.
+- Tránh tiếp xúc gần với người khác — trẻ em đi học/nhà trẻ nên ở nhà cho đến khi vết thương đóng vảy hoặc đã được điều trị ít nhất 24 giờ.
+
+---
+
+## Kết quả của bệnh chốc lở là gì?
+
+Chốc lở thường tự khỏi mà không có biến chứng nghiêm trọng. Nếu không điều trị, chốc lở thường tự khỏi trong vòng 2–3 tuần; nếu được điều trị, các tổn thương sẽ khỏi trong vòng 10 ngày.
+Có thể xảy ra tình trạng giảm hoặc tăng sắc tố sau viêm nhưng sẹo rất hiếm.

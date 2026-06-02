@@ -1,0 +1,52 @@
+# Acrokeratosis neoplastica – thông tin bổ sung
+
+Thể loại:
+
+Bệnh hệ thống
+
+SNOMED CT:
+
+238640007
+
+**[Bệnh hệ thống](https://dermnetnz.org/topics/topics?category=Systemic+diseases)**
+
+
+# **Bệnh tân sản sừng đầu chi**
+
+Tác giả: Vanessa Ngan, Biên tập viên, 2004.
+
+---
+
+## Bệnh tân sản sừng đầu chi là gì?
+
+Bệnh sừng hóa đầu chi là một bệnh lý da hiếm gặp với các triệu chứng khá giống [bệnh vẩy nến](https://dermnetnz.org/topics/psoriasis) . Bệnh này liên quan đến ung thư biểu mô tế bào vảy ở đường hô hấp trên hoặc đường tiêu hóa. Bệnh sừng hóa đầu chi phổ biến ở nam giới hơn nhiều so với nữ giới.
+Bệnh sừng hóa đầu chi còn được gọi là ' bệnh sừng hóa đầu chi cận u ' và ' hội chứng Bazex ' nhưng khá khác với hội chứng di truyền còn được gọi là ' [hội chứng Bazex](https://dermnetnz.org/topics/bazex-dupre-christol-syndrome) ', trong đó có nhiều [ung thư biểu mô tế bào đáy](https://dermnetnz.org/topics/basal-cell-carcinoma) .
+
+---
+
+## Các đặc điểm lâm sàng của bệnh tân sản sừng hóa đầu chi là gì?
+
+Bệnh sừng hóa đầu chi thường bắt đầu bằng tình trạng da bong tróc ở ngón tay và ngón chân, có thể nhanh chóng lan xuống móng. Bệnh khởi phát đôi khi khá chậm. Các đặc điểm trên da bao gồm:
+- Móng tay bất thường nghiêm trọng với tình trạng quanh móng bị đau (nếp gấp móng tay đỏ sưng ) mà không có bằng chứng nhiễm trùng do vi khuẩn hoặc nấm .
+- Phát ban có vảy ở tai ngoài có thể tiến triển đến má và mũi
+- Dày và bong tróc lan tỏa ở lòng bàn tay và lòng bàn chân ( sừng hóa ), có hình dạng tổ ong đặc biệt
+- Cuối cùng, bệnh ngoài da có thể lan rộng đến thân, chân tay và da đầu
+- Một số bệnh nhân bị ngứa ( [ngứa do u](https://dermnetnz.org/topics/paraneoplastic-pruritus) ).
+Bệnh nhân có thể bị sụt cân, mệt mỏi, khó chịu nói chung và các triệu chứng không đặc hiệu khác chỉ ra bệnh ác tính bên trong.
+![Bệnh tân sản sừng đầu chi](https://dermnetnz.org/assets/Uploads/systemic/bazex1.jpg)
+![Bệnh tân sản sừng đầu chi](https://dermnetnz.org/assets/Uploads/systemic/bazex2-s.jpg)
+
+---
+
+## Nguyên nhân gây ra bệnh tân sản sừng hóa đầu chi là gì?
+
+Hầu hết các trường hợp u tân sản sừng hóa đầu chi là do ung thư nội tạng. Ung thư thường là ung thư biểu mô tế bào vảy ở đường hô hấp trên hoặc đường tiêu hóa trên (khoang miệng, hầu , thanh quản , thực quản ). Khi chẩn đoán, các hạch bạch huyết thường đã bị ảnh hưởng.
+Các loại ung thư khác được phát hiện cùng với bệnh tân sinh sừng hóa bao gồm ung thư biểu mô tế bào vảy ở tuyến ức và âm hộ , ung thư biểu mô tế bào nhỏ anaplastic ở phổi và ung thư biểu mô tuyến tử cung.
+Các dấu hiệu và triệu chứng của bệnh tân sản sừng hóa đầu chi cho thấy sự hiện diện của kháng thể lưu hành chống lại kháng nguyên khối u . Các chất truyền tin hóa học, cytokine , được giải phóng bởi da và các tế bào miễn dịch , cũng có thể đóng một vai trò.
+
+---
+
+## Phương pháp điều trị bệnh tân sản sừng hóa đầu chi là gì?
+
+Bệnh nhân bị bệnh tân sản sừng hóa đầu chi cần được khám sức khỏe tổng quát và khám lâm sàng, xét nghiệm máu và chụp X-quang phù hợp để kiểm tra ung thư. Bệnh tân sản sừng hóa đầu chi có thể khỏi nếu ung thư tiềm ẩn được loại bỏ hoàn toàn và tình trạng tái phát có thể là dấu hiệu của sự tái phát ung thư tiềm ẩn.
+[Corticosteroid bôi ngoài da](https://dermnetnz.org/topics/topical-steroid) và kem [làm mềm da](https://dermnetnz.org/topics/emollients-and-moisturisers) có chứa [urê](https://dermnetnz.org/topics/urea) , axit lactic hoặc [axit salicylic](https://dermnetnz.org/topics/salicylic-acid) có thể làm giảm độ dày và kích ứng của các tổn thương da có vảy. Liệu pháp điều trị bằng một loại vitamin D, cholecalciferol, hoặc kem [calcipotriol](https://dermnetnz.org/topics/calcipotriol) , cũng được báo cáo là có hiệu quả. Retinoid đường uống như [acitretin](https://dermnetnz.org/topics/acitretin) có thể giúp cải thiện các đặc điểm trên da. [](https://dermnetnz.org/topics/urea) [](https://dermnetnz.org/topics/salicylic-acid) [](https://dermnetnz.org/topics/calcipotriol) [](https://dermnetnz.org/topics/acitretin)

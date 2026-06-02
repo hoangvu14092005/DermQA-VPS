@@ -1,0 +1,111 @@
+# Herpes sinh dục — thông tin bổ sung
+
+Thể loại:
+
+Nhiễm trùng
+
+SNOMED CT:
+
+33839006, 402888002, 402894005, 423391007, 440714005, 427578006, 27420004, 59819007, 40289001, 402896007, 104011000119109, 10227000, 240478003, 240479006
+
+**[Nhiễm trùng](https://dermnetnz.org/topics/topics?category=Infections)**
+
+
+# **Herpes sinh dục**
+
+Tác giả: Tiến sĩ Jane Morgan, Bác sĩ chuyên khoa sức khỏe tình dục, Bệnh viện Waikato, Hamilton, New Zealand, 1998. Được cập nhật bởi Tiến sĩ Daniela Vanousova, Bác sĩ da liễu, Cộng hòa Séc, tháng 7 năm 2015.
+
+---
+
+## Bệnh herpes simplex là gì?
+
+Herpes simplex là một trong những bệnh nhiễm trùng phổ biến nhất ở người trên toàn thế giới. Có hai loại virus herpes simplex (HSV) chính: loại 1, chủ yếu liên quan đến nhiễm trùng ở mặt và loại 2, chủ yếu liên quan đến nhiễm trùng sinh dục , mặc dù có sự chồng chéo đáng kể.
+Cả virus herpes simplex type 1 và type 2 đều tồn tại ở trạng thái tiềm ẩn trong các dây thần kinh cảm giác trên da. Với mỗi đợt nhiễm herpes simplex, virus phát triển theo các dây thần kinh và lan ra da hoặc niêm mạc, nơi nó nhân lên, gây ra tổn thương lâm sàng. Sau mỗi đợt, nó "chết đi" theo sợi thần kinh và trở lại trạng thái nghỉ ngơi.
+
+### Herpes sinh dục
+HSV gây nhiễm trùng suốt đời với khả năng tái phát hoặc tái kích hoạt. Thông thường, mọi người chỉ đề cập đến HSV-2 khi thảo luận về herpes sinh dục, nhưng cả hai loại đều có thể gây nhiễm trùng ở vùng sinh dục. Trên lâm sàng, khoảng 60–70% các trường hợp nhiễm trùng sinh dục nguyên phát là do HSV-2, phần còn lại là do HSV-1.
+
+---
+
+## Bệnh herpes sinh dục phổ biến như thế nào?
+
+Các nghiên cứu đã phát hiện ra rằng cứ 5 người trưởng thành thì có tới 1 người có bằng chứng nhiễm HSV-2. Hầu hết những người này không có hoặc chỉ có triệu chứng rất nhẹ, đến mức họ không biết mình đã bị nhiễm.
+
+---
+
+## Sự lây truyền của bệnh herpes sinh dục
+
+Tiếp xúc da kề da trực tiếp là con đường lây truyền nhiễm HSV dễ dàng nhất. Do đó, quan hệ tình dục, bao gồm cả tiếp xúc miệng-sinh dục, là con đường phổ biến nhất để lây truyền nhiễm HSV sinh dục. Virus có thể được thải ra trong nước bọt và dịch tiết sinh dục của người bệnh, ngay cả khi họ không có triệu chứng, đặc biệt là trong những ngày và tuần sau khi xuất hiện triệu chứng lâm sàng. Lượng virus thải ra trong các tổn thương đang hoạt động cao gấp 100 đến 1000 lần. Chấn thương nhỏ cũng góp phần làm virus lây lan, đặc biệt là qua da. Lây truyền theo chiều dọc (từ mẹ sang con) hoặc tự lây nhiễm (tự nhiễm) cũng có thể xảy ra. Vì HSV chết nhanh khi khô ở nhiệt độ phòng, nên việc lây lan từ các vật dụng như khăn tắm (vật trung gian) là rất hiếm.
+
+---
+
+## Nhiễm trùng herpes sinh dục nguyên phát
+
+Nhiễm trùng HSV sinh dục lần đầu hoặc nguyên phát có thể nhẹ và không được phát hiện, nhưng nếu tổn thương phát triển , mức độ nghiêm trọng thường cao hơn so với tái phát.
+- Loét dương vật do nhiễm herpes là nguyên nhân phổ biến nhất gây loét sinh dục được ghi nhận tại các phòng khám sức khỏe tình dục. Các vết loét thường gặp nhất ở quy đầu, bao quy đầu và thân dương vật. Chúng gây đau hoặc sưng và kéo dài từ 2 đến 3 tuần nếu không được điều trị. Các hạch bạch huyết tại chỗ sưng to và đau.
+- Ở phụ nữ, các tổn thương tương tự xảy ra ở cơ quan sinh dục ngoài và niêm mạc âm hộ , âm đạo và cổ tử cung. Đau và khó tiểu là triệu chứng thường gặp.
+Một số người cũng có các triệu chứng giống cúm với sốt , đau đầu và đau nhức cơ. Các triệu chứng thường nghiêm trọng hơn ở phụ nữ so với nam giới.
+Sau lần nhiễm trùng ban đầu, khả năng miễn dịch phát triển nhưng không bảo vệ hoàn toàn khỏi các đợt tái phát tiếp theo (tái phát). Khi khả năng miễn dịch bị suy giảm, ví dụ như ở những người nhiễm [HIV/AIDS](https://dermnetnz.org/topics/skin-conditions-relating-to-hiv-infection) , cả nhiễm trùng ban đầu và tái phát đều có xu hướng xảy ra thường xuyên hơn và rõ rệt hơn.
+[Xem hình ảnh bệnh mụn rộp sinh dục](https://dermnetnz-org.translate.goog/topics/genital-herpes-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp) .
+
+---
+
+## Nhiễm trùng herpes sinh dục tái phát
+
+Sau lần nhiễm trùng ban đầu, dù rõ ràng hay không, có thể không có biểu hiện lâm sàng nào khác trong suốt cuộc đời. Herpes sinh dục loại 2 thường tái phát nhiều hơn loại 1.
+Sự tái phát có thể được kích hoạt bởi:
+- Chấn thương nhẹ .
+- Các bệnh nhiễm trùng khác.
+- Bức xạ cực tím (mặt trời).
+- Chu kỳ kinh nguyệt (có thể xuất hiện các cơn bùng phát trước kỳ kinh nguyệt).
+- Căng thẳng về mặt cảm xúc.
+Tuy nhiên, trong hầu hết các trường hợp, không có lý do rõ ràng nào cho sự tái phát.
+Nhiễm trùng tái phát khác với nhiễm trùng lần đầu ở chỗ các mụn nước thường nhỏ hơn và tập trung thành từng cụm. Chúng cũng thường có thời gian ủ bệnh ngắn hơn so với nhiễm trùng ban đầu, thường là 5–10 ngày. Nhìn chung, người bị nhiễm bệnh cảm thấy khá khỏe.
+Ngứa hoặc rát có thể xuất hiện trước một hoặc hai giờ sau khi xuất hiện các mụn nước nhỏ, tập trung thành đám trên nền đỏ. Sau đó, chúng tạo thành các vết loét nông ở quy đầu hoặc thân dương vật ở nam giới và ở môi lớn , âm đạo hoặc cổ tử cung ở nữ giới. Tái phát có thể gây ra các triệu chứng đau đớn khó chịu, hoặc các tổn thương có thể không được phát hiện. Các tổn thương thường lành trong vòng 7–10 ngày mà không để lại sẹo. Các đợt tái phát thường ở cùng một vùng, nhưng không phải lúc nào cũng ở cùng một vị trí.
+
+---
+
+## Biến chứng của bệnh herpes sinh dục
+
+Các biến chứng có thể bao gồm:
+- Viêm niệu đạo ( viêm niệu đạo , đường dẫn nước tiểu ra ngoài), dẫn đến loét. Có thể không có mụn nước đặc trưng nên biểu hiện giống hệt [viêm niệu đạo do lậu](https://dermnetnz.org/topics/gonorrhoea) hoặc [chlamydia](https://dermnetnz.org/topics/genitourinary-chlamydia) .
+- Viêm trực tràng ( nhiễm trùng trực tràng ), có thể xảy ra mà không có tổn thương bên ngoài. Các triệu chứng bao gồm sốt, đau trực tràng, ra dịch lỏng và rối loạn chức năng thần kinh thực vật có thể dẫn đến khó tiểu.
+- Đau thần kinh (dây thần kinh) - đau chân và đùi, thường dẫn đến tái phát.
+- Viêm màng não rất hiếm gặp.
+- Nhiễm trùng lan rộng xảy ra ở những bệnh nhân suy nhược hoặc [suy giảm miễn dịch](https://dermnetnz.org/topics/drug-induced-immunosuppression) .
+
+---
+
+## Sự lây truyền virus herpes không triệu chứng
+
+Việc bài tiết HSV không thường xuyên từ da sinh dục có thể xảy ra mà không có triệu chứng hoặc với các triệu chứng nhẹ không được nhận biết. Tần suất bài tiết không triệu chứng phổ biến hơn ở những người mắc herpes sinh dục loại 2 và những người mới nhiễm gần đây. Việc bài tiết này có nhiều khả năng xảy ra trong tuần trước hoặc sau khi tái phát.
+Lượng virus thải ra từ các tổn thương đang hoạt động (tức là khi một người có triệu chứng) lớn hơn nhiều so với giữa các đợt tái phát. Đây là thời điểm nhiễm trùng có khả năng lây truyền cao nhất, do đó nên tránh quan hệ tình dục. Một nghiên cứu trên các cặp đôi tránh quan hệ tình dục trong thời gian tái phát cho thấy, trong hơn 12 tháng, chỉ có 1/10 người lây truyền virus cho bạn tình. Trong nghiên cứu đó, bao cao su không được sử dụng. Sử dụng bao cao su có thể làm giảm nguy cơ lây nhiễm hơn nữa.
+
+---
+
+## Herpes simplex và thai kỳ
+
+Ở những phụ nữ đã bị herpes sinh dục trước khi mang thai, hầu hết đều có thể mang thai và sinh thường an toàn . Nguy cơ ảnh hưởng đến em bé chỉ ở mức tối thiểu. Điều quan trọng là phải thảo luận chẩn đoán với bác sĩ sản khoa chính để có thể cân nhắc mổ lấy thai nếu có tổn thương trong quá trình chuyển dạ.
+Nguy cơ cao nhất cho em bé là khi đợt herpes sinh dục đầu tiên xảy ra trong vài tuần đầu của thai kỳ hoặc vài tuần cuối trước khi sinh. Những trường hợp này nên được trao đổi với bác sĩ chuyên khoa. Herpes sinh dục không ảnh hưởng đến khả năng sinh sản.
+
+---
+
+## Phương pháp điều trị bệnh herpes sinh dục là gì?
+
+Nếu bạn bị herpes simplex, hãy tham khảo ý kiến ​​bác sĩ. Thuốc kháng vi-rút được chỉ định cho nhiễm herpes simplex nguyên phát, vì các triệu chứng có thể kéo dài đến ba tuần nếu không được điều trị. Bệnh nhân tái phát đáng kể có thể cần điều trị lặp lại hoặc điều trị dự phòng liên tục trong hai tháng hoặc hơn. Các trường hợp tái phát herpes simplex nhẹ, không biến chứng thường không cần điều trị.
+Các loại thuốc kháng vi-rút hiện có bao gồm:
+- [Aciclovir](https://dermnetnz.org/topics/aciclovir)
+- Valaciclovir
+- Famciclovir
+Tại New Zealand, [aciclovir](https://dermnetnz.org/topics/aciclovir) và valaciclovir hiện đang được PHARMAC tài trợ (tháng 6 năm 2016). Các loại thuốc kháng vi-rút này sẽ ngăn chặn sự nhân lên của vi-rút herpes simplex sau khi nó xâm nhập vào da hoặc niêm mạc nhưng không thể tiêu diệt vi-rút khỏi giai đoạn nghỉ ngơi trong các tế bào thần kinh. Do đó, chúng có thể rút ngắn và ngăn ngừa các đợt bệnh trong khi đang dùng thuốc, nhưng một liệu trình duy nhất không thể ngăn ngừa các đợt bệnh trong tương lai.
+Có nhiều công thức kem bôi kháng vi -rút khác nhau . Chúng thường không được khuyến nghị sử dụng cho bệnh herpes sinh dục và không được trợ cấp cho mục đích này ở New Zealand.
+Các phương pháp điều trị khác đang được nghiên cứu bao gồm:
+- [Kem Imiquimod](https://dermnetnz.org/topics/imiquimod) , thuốc tăng cường miễn dịch
+- Kem interferon-alpha bạch cầu người .
+Cả hai đều có vẻ ít có lợi hơn so với thuốc kháng vi-rút thông thường.
+
+---
+
+## Phát triển vắc-xin phòng ngừa bệnh Herpes
+
+Phát triển vắc-xin là một lĩnh vực nghiên cứu đang được tích cực triển khai, và một số phương pháp tiếp cận khác nhau đang được thử nghiệm trên mô hình động vật, bao gồm cả vắc-xin điều trị có thể giúp ích cho những người đã nhiễm bệnh. Vào tháng 5 năm 2015, một thiết kế vắc-xin đầy hứa hẹn đã được công bố. [1]

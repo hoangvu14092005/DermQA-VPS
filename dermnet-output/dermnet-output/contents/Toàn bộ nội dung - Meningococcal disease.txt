@@ -1,0 +1,150 @@
+# Bệnh viêm màng não mô cầu — thông tin bổ sung
+
+Thể loại:
+
+Nhiễm trùng, phát ban
+
+SNOMED CT:
+
+23511006, 238425003, 4089001, 192644005, 420261000, 422069000, 17872004, 170486006
+
+**[Nhiễm trùng, phát ban](https://dermnetnz.org/topics/topics?category=Infections)**
+
+
+# **Bệnh não mô cầu**
+
+Tác giả: Phó Giáo sư Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand. Đã xem xét và cập nhật ngày 18 tháng 2 năm 2014.
+
+---
+
+## Bệnh viêm màng não mô cầu là gì?
+
+Bệnh não mô cầu là một bệnh do vi khuẩn Neisseria meningitidis gây ra . Hai biểu hiện phổ biến của nhiễm trùng não mô cầu là viêm màng não do não mô cầu (nhiễm trùng màng bao quanh não và tủy sống ) và nhiễm trùng huyết do não mô cầu (nhiễm trùng máu). Người bị nhiễm trùng có thể mắc một hoặc cả hai bệnh này.
+Bệnh viêm màng não mô cầu là một trường hợp cấp cứu y tế và bệnh nhân có dấu hiệu và triệu chứng nghi ngờ nhiễm trùng viêm màng não mô cầu cần phải tìm kiếm lời khuyên y tế từ bác sĩ hoặc bệnh viện ngay lập tức. Việc chậm trễ dù chỉ vài giờ cũng có thể gây tử vong. Có một số ca tử vong do bệnh viêm màng não mô cầu mỗi năm ở New Zealand và thậm chí còn nhiều hơn nữa trong các đợt dịch bệnh.
+Dấu hiệu trên da phổ biến nhất của bệnh do não mô cầu là xuất huyết khu trú ở đỉnh đầu chi .
+![Xuất huyết dưới da do bệnh não mô cầu](https://dermnetnz.org/assets/Uploads/menigococceamia2.jpg)
+![Xuất huyết dưới da do bệnh não mô cầu](https://dermnetnz.org/assets/Uploads/menigococcaemia1.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/meningo-close.jpg)
+
+---
+
+## Làm thế nào để mắc bệnh viêm màng não?
+
+Vi khuẩn Neisseria meningitidis lây lan từ người sang người thông qua việc hít phải các giọt bắn trong không khí khi người bị nhiễm bệnh ho hoặc hắt hơi hoặc chỉ đơn giản là tiếp xúc gần.
+Trong nhiều trường hợp, vi khuẩn lây lan từ những người bị nhiễm bệnh, mang vi khuẩn Neisseria meningitidis nhưng không biểu hiện triệu chứng. Vi khuẩn Neisseria meningitidis hiện diện trong mũi và họng của những người này, nhưng cơ chế phòng vệ tự nhiên của cơ thể ngăn chặn nhiễm trùng bằng cách sản xuất kháng thể chống lại vi khuẩn, nhờ đó ngăn ngừa sự lây lan sang các bộ phận khác của cơ thể. Tỷ lệ mang vi khuẩn Neisseria meningitidis phụ thuộc vào độ tuổi và tỷ lệ cao nhất được tìm thấy ở người trưởng thành trẻ (15-24 tuổi) với tỷ lệ 20-40%.
+Trong một số trường hợp hiếm gặp, việc tiếp xúc với vi khuẩn Neisseria meningitidis sẽ dẫn đến bệnh não mô cầu, khi vi khuẩn lan vào máu và não, gây ra bệnh não mô cầu huyết và/hoặc viêm màng não do não mô cầu. Điều này có thể xảy ra nếu cơ thể chưa có đủ thời gian để xây dựng hệ thống miễn dịch hoặc ở những người có hệ miễn dịch suy yếu.
+
+---
+
+## Ai có nguy cơ mắc bệnh viêm màng não?
+
+Hầu hết bệnh nhân mắc bệnh não mô cầu đều là những người khỏe mạnh. Tuy nhiên, có một số nhóm bệnh nhân có nguy cơ cao mắc bệnh não mô cầu.
+- Trẻ em từ 6 tháng đến 4 tuổi: cho đến khoảng 6 tháng tuổi, trẻ đã có miễn dịch từ mẹ. Trên 4 tuổi, nhiều trẻ đã phát triển khả năng miễn dịch với nhiều chủng Neisseria meningitidis .
+- Những người bị [thiếu hụt bổ thể](https://dermnetnz.org/topics/complement-deficiencies) . [Bổ thể](https://dermnetnz.org/topics/the-complement-system) là một phần của hệ thống miễn dịch cần thiết để phân hủy vi khuẩn não mô cầu.
+- Cá thể không có lách (không có lách).
+- Những người dùng thuốc ức chế miễn dịch như [prednisone](https://dermnetnz.org/topics/systemic-steroids) hoặc [ciclosporin](https://dermnetnz.org/topics/ciclosporin) .
+- Những người hiện đang bị nhiễm vi-rút.
+
+---
+
+## Các dấu hiệu và triệu chứng của bệnh viêm màng não mô cầu là gì?
+
+Các dấu hiệu và triệu chứng phổ biến nhất của bệnh viêm màng não mô cầu được liệt kê dưới đây.
+Nếu một người mắc cả bệnh viêm màng não do não mô cầu và bệnh não mô cầu trong máu, họ có thể biểu hiện nhiều triệu chứng và dấu hiệu đặc trưng của từng bệnh.
+
+### Viêm màng não do não mô cầu
+Trẻ em >1 tuổi và người lớn:
+- Cứng cổ
+- Đau đầu
+- Buồn nôn và nôn
+- Đau cổ và/hoặc đau lưng
+- Sốt và ớn lạnh
+- Tăng độ nhạy cảm với ánh sáng
+- Dễ cáu kỉnh, bối rối.
+Trẻ sơ sinh:
+- Từ chối nguồn cấp dữ liệu
+- Tăng tính cáu kỉnh
+- Ngủ suốt ngày
+- Sốt
+- Thóp phồng (chỗ mềm trên đỉnh đầu)
+- Khóc không ngừng
+- Cơn động kinh ( co giật ).
+
+### Bệnh não mô cầu
+Dấu hiệu trên da:
+- Xuất huyết dưới da ( phát ban với các đốm nhỏ màu đỏ hoặc tím [ [ban xuất huyết](https://dermnetnz.org/topics/purpura) ] không biến mất khi ấn vào da) xảy ra ở 50–75% các trường hợp
+- Có thể xảy ra phát ban trắng bệch hoặc dạng sẩn
+- Phát ban có thể tiến triển thành các mảng đỏ lớn hơn hoặc tổn thương màu tím (tương tự như vết bầm tím)
+- Thường gặp nhất ở thân và tứ chi nhưng có thể tiến triển đến bất kỳ bộ phận nào của cơ thể
+- Trong trường hợp nghiêm trọng, các tổn thương có thể vỡ và dẫn đến hoại tử
+- Không phải tất cả bệnh nhân đều có dấu hiệu ở da.
+Các dấu hiệu và triệu chứng khác:
+- Sốt cấp tính và ớn lạnh
+- Đau đầu
+- Cứng cổ
+- Đau lưng dưới và đau đùi
+- Buồn nôn và nôn
+- Lú lẫn hoặc bất tỉnh
+- Cơn động kinh (co giật)
+- Các dấu hiệu sinh tồn không ổn định, ví dụ huyết áp rất thấp, lưu lượng máu giảm, lượng nước tiểu ít
+- Suy sụp do sốc nhiễm trùng .
+![Xuất huyết não mô cầu](https://dermnetnz.org/assets/Uploads/bacterial/meningococcus1.jpg)
+![Xuất huyết não mô cầu](https://dermnetnz.org/assets/Uploads/bacterial/meningococcus3.jpg)
+
+---
+
+## Bệnh não mô cầu được chẩn đoán như thế nào?
+
+Viêm màng não do não mô cầu và nhiễm trùng huyết do não mô cầu thường được nghi ngờ thông qua tiền sử bệnh và khám lâm sàng. Cấy máu và/hoặc chọc dịch não tủy được sử dụng để xác nhận chẩn đoán. Chọc dịch não tủy bao gồm việc đưa kim vào vùng lưng dưới để lấy một ít dịch não tủy (CSF). Số lượng bạch cầu tăng lên được quan sát thấy dưới kính hiển vi, với viêm màng não được xác nhận khi số lượng bạch cầu trong CSF > 5 tế bào/µL (viêm màng não do vi khuẩn thường có > 1000 tế bào/µL, với ưu thế là bạch cầu trung tính ). Soi kính hiển vi (nhuộm Gram cho thấy song cầu Gram âm), nuôi cấy và phản ứng chuỗi polymerase ( PCR ) đối với não mô cầu sẽ xác nhận chẩn đoán.
+Bệnh nhân nghi ngờ tăng áp lực nội sọ hoặc có khiếm khuyết thần kinh khu trú có thể được chụp CT .
+
+---
+
+## Phương pháp điều trị bệnh viêm màng não mô cầu là gì?
+
+Việc phát hiện sớm nhiễm trùng não mô cầu là rất quan trọng vì bệnh nhiễm trùng huyết do não mô cầu lây lan rất nhanh, đến mức chỉ vài giờ sau khi xuất hiện triệu chứng, bệnh nhân có thể tử vong nhanh chóng. Ban đầu, bệnh nhân có thể chỉ bị phát ban và không quá nặng. Nhiễm trùng huyết do não mô cầu có thể gây tử vong nhanh hơn bất kỳ bệnh truyền nhiễm nào khác. Bệnh nhân bị nhiễm trùng huyết do não mô cầu hoặc viêm màng não do não mô cầu phải nhập viện và điều trị bằng kháng sinh cùng với chăm sóc hỗ trợ ngay lập tức. Nhiều bệnh nhân phải nhập viện vào khoa hồi sức tích cực.
+[Penicillin](https://dermnetnz.org/topics/penicillin) là thuốc được lựa chọn. Một số chủng Neisseria meningitidis kháng penicillin đã được phân lập; trong những trường hợp này, cephalosporin thế hệ thứ ba là một lựa chọn thay thế phù hợp. Bệnh nhân rất nặng thường được điều trị bằng cả penicillin và cephalosporin trước khi có kết quả xét nghiệm.
+Các phương pháp điều trị khác có thể bao gồm:
+- truyền dịch tĩnh mạch để điều trị sốc và ngăn ngừa tổn thương cơ quan
+- thuốc như noradrenaline (norepinephrine) cho bệnh nhân huyết áp rất thấp
+- các sản phẩm máu như tiểu cầu và huyết tương tươi đông lạnh
+- oxy và thông khí bằng máy để hỗ trợ hô hấp.
+Những bệnh nhân sống sót sau những trường hợp nhiễm não mô cầu rất nặng có thể bị hoại tử nặng (tế bào chết) ở da và mô bên dưới. Có thể cần phải ghép da và cắt cụt chi.
+
+---
+
+## Biến chứng của bệnh viêm màng não mô cầu là gì?
+
+Biến chứng của bệnh viêm màng não mô cầu có thể xảy ra ngay từ giai đoạn cấp tính hoặc trong giai đoạn hồi phục. Một số biến chứng nghiêm trọng đến mức có thể làm giảm khả năng sống sót.
+- Xuất huyết ồ ạt ở tuyến thượng thận
+- Bệnh đông máu nội mạch lan tỏa (DIC), ngăn ngừa đông máu
+- Viêm khớp
+- Các vấn đề về tim, ví dụ như viêm màng ngoài tim ( viêm bao quanh tim)
+- Các vấn đề về thần kinh, ví dụ như điếc hoặc bệnh thần kinh ngoại biên (tổn thương dây thần kinh ở bàn chân và bàn tay)
+- Các vấn đề cơ xương vĩnh viễn
+- Cắt cụt
+
+---
+
+## Cách phòng ngừa bệnh viêm màng não mô cầu
+
+Có hai cách để phòng ngừa bệnh não mô cầu. Một là tiêm vắc-xin (miễn dịch dự phòng) và hai là điều trị kháng sinh cho những người tiếp xúc gần với bệnh nhân mắc bệnh não mô cầu ( dự phòng bằng hóa chất kháng khuẩn ).
+
+### Dự phòng bằng thuốc kháng khuẩn
+- Khuyến cáo sử dụng cho những người tiếp xúc gần với bệnh nhân mắc bệnh viêm màng não mô cầu. Những người tiếp xúc gần bao gồm: các thành viên trong gia đình liên hệ trung tâm chăm sóc trẻ em bất kỳ ai tiếp xúc với dịch tiết đường hô hấp bị nhiễm bệnh.
+- các thành viên trong gia đình
+- liên hệ trung tâm chăm sóc trẻ em
+- bất kỳ ai tiếp xúc với dịch tiết đường hô hấp bị nhiễm bệnh.
+- Bắt đầu điều trị càng sớm càng tốt vì tỷ lệ mắc bệnh ở những người tiếp xúc gần cao nhất trong vài ngày đầu sau khi bệnh khởi phát ở trường hợp ban đầu.
+- Thuốc kháng sinh được sử dụng bao gồm [rifampicin](https://dermnetnz.org/topics/rifampicin) , ciprofloxacin và ceftriaxone.
+
+### Miễn dịch phòng ngừa
+- Việc tiêm chủng vắc-xin ngừa não mô cầu không được tài trợ ở New Zealand. Các quốc gia khác như Anh, Úc và Canada tài trợ vắc-xin ngừa não mô cầu trong lịch tiêm chủng quốc gia.
+- Vắc-xin liên hợp cung cấp khả năng miễn dịch lâu dài. Cơ quan Y tế Công cộng Vương quốc Anh cho biết khả năng miễn dịch từ việc tiêm chủng ở độ tuổi 12 tháng sẽ giảm dần khi trẻ bước vào tuổi thiếu niên và việc tiêm chủng muộn hơn ở trẻ em sẽ cung cấp mức kháng thể cao hơn và duy trì lâu hơn. [1]
+- Vắc-xin liên hợp mang lại hiệu quả cao. Dữ liệu của Vương quốc Anh trên 3 loại vắc-xin liên hợp phòng ngừa não mô cầu cho thấy hiệu quả của vắc-xin là 88-98% trong vòng 1 năm ở các nhóm tuổi từ 2 tháng đến 16 tuổi. [2]
+- Vắc-xin ngừa não mô cầu hiện được khuyến cáo cho các nhóm nguy cơ cao. Những nhóm này bao gồm: cá thể không có lách những cá nhân bị [thiếu hụt bổ sung](https://dermnetnz.org/topics/complement-deficiencies) những cá nhân đi du lịch đến các quốc gia có tỷ lệ nhiễm trùng não mô cầu cao tân binh quân sự (ở Hoa Kỳ) học sinh trung học và đại học.
+- cá thể không có lách
+- những cá nhân bị [thiếu hụt bổ sung](https://dermnetnz.org/topics/complement-deficiencies)
+- những cá nhân đi du lịch đến các quốc gia có tỷ lệ nhiễm trùng não mô cầu cao
+- tân binh quân sự (ở Hoa Kỳ)
+- học sinh trung học và đại học.

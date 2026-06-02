@@ -1,0 +1,93 @@
+# Viêm màng hoạt dịch đối xứng huyết thanh âm tính thuyên giảm kèm phù nề lõm — thông tin bổ sung
+
+Thể loại:
+
+Bệnh hệ thống
+
+SNOMED CT:
+
+445345005, 399112009
+
+**[Bệnh hệ thống](https://dermnetnz.org/topics/topics?category=Systemic+diseases)**
+
+
+# **Viêm màng hoạt dịch đối xứng huyết thanh âm tính thuyên giảm với phù nề lõm**
+
+Tác giả: Bác sĩ Jenny Chung, Chuyên viên Đăng ký Da liễu, Hội đồng Y tế Quận Auckland, Auckland, New Zealand. Tổng Biên tập DermNet: Phó Giáo sư Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand. Biên tập bởi Gus Mitchell. Tháng 7 năm 2020.
+
+---
+
+## Viêm màng hoạt dịch đối xứng huyết thanh âm tính thuyên giảm kèm phù nề lõm là gì?
+
+Viêm màng hoạt dịch đối xứng huyết thanh âm tính thuyên giảm kèm phù lõm /phù nề (RS3PE) là một [bệnh thấp khớp](https://dermnetnz.org/topics/skin-signs-of-rheumatic-disease) hiếm gặp . Nó còn được gọi là hội chứng bàn tay phù nề sưng tấy và sưng chi xa kèm phù lõm.
+![Không có caption](https://dermnetnz.org/assets/Uploads/pitting-oedema-05.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/pitting-oedema-03.jpg)
+
+---
+
+## Ai bị viêm màng hoạt dịch đối xứng huyết thanh âm tính thuyên giảm kèm phù nề lõm?
+
+Bệnh nhân điển hình được chẩn đoán mắc RS3PE là nam giới lớn tuổi, khoảng 70 hoặc 80 tuổi. Hầu hết các trường hợp được báo cáo đều trên 50 tuổi, với tỷ lệ nam/nữ là 2:1.
+Có mối liên hệ rõ ràng với các bệnh ác tính về huyết học như bệnh bạch cầu lympho mạn tính và u lympho không Hodgkin , cũng như nhiều khối u rắn .
+
+---
+
+## Nguyên nhân nào gây ra viêm màng hoạt dịch đối xứng huyết thanh âm tính thuyên giảm kèm phù nề lõm?
+
+Mặc dù nguyên nhân gây ra RS3PE vẫn chưa được biết rõ, nhưng những yếu tố sau đây có thể góp phần gây ra bệnh:
+- Nồng độ yếu tố tăng trưởng nội mô mạch máu và metalloproteinase ma trận 3 tăng cao
+- Hội chứng cận u
+- HLA -B7, HLA-CW7 và HLA-DQW
+- Parvovirus B19 và các bệnh nhiễm trùng khác bao gồm cả bệnh lao.
+
+---
+
+## Các đặc điểm lâm sàng của viêm màng hoạt dịch đối xứng huyết thanh âm tính thuyên giảm với phù lõm là gì?
+
+Đặc điểm nổi bật của RS3PE là phù nề không đáp ứng với thuốc lợi tiểu.
+- Phù nề thường khởi phát đột ngột.
+- Phù nề thường khu trú ở các chi xa, khiến bàn tay trông giống như "găng tay đấm bốc".
+Các khớp liên quan đến phù nề sẽ bị đau và hạn chế vận động do viêm bao gân. Da ở các khớp bị ảnh hưởng có thể nóng.
+Người ta đã ghi nhận tình trạng sốt tái phát vào buổi tối .
+
+---
+
+## Biến chứng của viêm màng hoạt dịch đối xứng huyết thanh âm tính thuyên giảm kèm phù nề lõm là gì?
+
+Các biến chứng của RS3PE liên quan đến phù nề lõm và có thể bao gồm:
+- Hội chứng ống cổ tay
+- Tràn dịch màng phổi
+- Biến chứng tim mạch.
+
+---
+
+## Viêm màng hoạt dịch đối xứng huyết thanh âm tính thuyên giảm kèm phù lõm được chẩn đoán như thế nào?
+
+Chẩn đoán RS3PE chủ yếu dựa vào lâm sàng. Tiêu chuẩn chẩn đoán đã được đề xuất:
+- Phù nề lõm ở cả bốn chi
+- Tuổi trên 50
+- Khởi phát đột ngột
+- Xét nghiệm huyết thanh âm tính với bệnh viêm khớp dạng thấp.
+Các cuộc điều tra có thể bao gồm:
+- Siêu âm hoặc chụp cộng hưởng từ ( MRI ) để chứng minh tình trạng viêm màng hoạt dịch đối xứng
+- Không có viêm khớp xói mòn trên phim chụp X-quang
+- Phản ứng viêm tăng cao cấp tính ( protein C phản ứng tăng cao )
+- Yếu tố dạng thấp âm tính và anti-CCP.
+Vì có tới 50% bệnh nhân mắc RS3SE được báo cáo là có bệnh ác tính tiềm ẩn nên cần cân nhắc sàng lọc phù hợp với độ tuổi.
+
+---
+
+## Chẩn đoán phân biệt cho tình trạng viêm màng hoạt dịch đối xứng huyết thanh âm tính thuyên giảm kèm phù nề lõm là gì?
+
+Các tình trạng khác có thể biểu hiện bằng phù ngoại biên nhanh và viêm màng hoạt dịch đối xứng bao gồm:
+- Viêm đa cơ dạng thấp (PMR) — bệnh này ảnh hưởng đến cả nam và nữ ở độ tuổi 50, biểu hiện bằng tình trạng cứng khớp buổi sáng đối xứng ở vùng cổ, thân, vai, đùi và hông. PMR đáp ứng nhanh với [corticosteroid.](https://dermnetnz.org/topics/systemic-steroids)
+- [Suy giáp](https://dermnetnz.org/topics/hypothyroidism) — trong trường hợp suy giáp nặng , [phù niêm trước xương chày](https://dermnetnz.org/topics/pretibial-myxoedema) và các dấu hiệu khác phát triển nhanh chóng mà không có viêm màng hoạt dịch
+- [Viêm khớp dạng thấp](https://dermnetnz.org/topics/rheumatoid-arthritis-and-the-skin) — điển hình là viêm đa khớp nhỏ đối xứng huyết thanh dương tính chỉ đáp ứng một phần với [corticosteroid đường uống](https://dermnetnz.org/topics/systemic-steroids) .
+
+---
+
+## Phương pháp điều trị và kết quả của tình trạng viêm màng hoạt dịch đối xứng huyết thanh âm tính thuyên giảm kèm phù nề lõm là gì?
+
+Phương pháp điều trị RS3PE là dùng [steroid đường uống](https://dermnetnz.org/topics/systemic-steroids) với liều khởi đầu thông thường là 10–20 mg prednisone mỗi ngày với phản ứng nhanh trong vòng vài ngày.
+Tiên lượng được báo cáo là tốt, mặc dù nhiều bệnh nhân vẫn cần dùng steroid đường uống liều thấp và/hoặc thuốc chống thấp khớp điều trị bệnh như methotrexate một năm hoặc lâu hơn sau khi chẩn đoán.
+Việc điều trị bệnh ác tính liên quan được báo cáo là có thể giải quyết các dấu hiệu và triệu chứng của RS3PE.

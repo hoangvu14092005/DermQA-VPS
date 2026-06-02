@@ -1,0 +1,123 @@
+# Giãn mao mạch — thông tin bổ sung
+
+Thể loại:
+
+Các vấn đề về mạch máu
+
+SNOMED CT:
+
+112641009, 30727005, 703281001, 699056001, 238761009, 247479008, 402648009, 238768003
+
+**[Các vấn đề về mạch máu](https://dermnetnz.org/topics/topics?category=Blood+vessel+problems)**
+
+
+# **Telangiectasia**
+
+Author: A/Prof Amanda Oakley, Dermatologist, Hamilton, New Zealand, 2014.
+
+---
+
+## What is telangiectasia?
+
+Telangiectasia is a condition in which there are visible small linear red blood vessels (broken capillaries ). These are also called telangiectases. Visible small blood vessels that are blue in colour (spider veins) are called venulectasia because venules are involved.
+![Giãn mạch](https://dermnetnz.org/assets/Uploads/vascular/s/telangiectases-01.jpg)
+![Giãn mạch](https://dermnetnz.org/assets/Uploads/vascular/s/telangiectases-02.jpg)
+![Giãn mạch](https://dermnetnz.org/assets/Uploads/vascular/telangiectases-03.jpg)
+
+---
+
+## What is the differential diagnosis of telangiectasia?
+
+Telangiectases need to be distinguished from other [vascular conditions](https://dermnetnz.org/topics/vascular-skin-problems) , including blood vessel tumours such as [infantile haemangioma](https://dermnetnz.org/topics/infantile-haemangioma-definition-and-pathogenesis) and [angiomas](https://dermnetnz.org/topics/cherry-angioma) that arise in adults; and [capillary](https://dermnetnz.org/topics/capillary-vascular-malformation) or [venous vascular malformations](https://dermnetnz.org/topics/venous-malformation) .
+Large red blood vessels are arteries and large blue blood vessels are veins. Arteries may be enlarged due to aneurysm formation. Veins enlarged due to the destruction of their valvular system are known as [varicose veins](https://dermnetnz.org/topics/varicose-veins) .
+
+---
+
+## Classification of telangiectasia
+
+
+### Inherited conditions
+- [Hereditary haemorrhagic telangiectasia](https://dermnetnz.org/topics/hereditary-haemorrhagic-telangiectasia)
+- [Benign hereditary telangiectasia](https://dermnetnz.org/topics/hereditary-benign-telangiectasia)
+- Unilateral naevoid telangiectasia
+- [Angioma serpiginosum](https://dermnetnz.org/topics/angioma-serpiginosum)
+- [Rothmund Thompson syndrome](https://dermnetnz.org/topics/rothmund-thomson-syndrome)
+- [Ataxia-telangiectasia](https://dermnetnz.org/topics/ataxia-telangiectasia)
+- [Bloom syndrome](https://dermnetnz.org/topics/bloom-syndrome) ( congenital telangiectatic erythema )
+- Cockayne syndrome
+- [Cutis marmorata telangiectatica congenita](https://dermnetnz.org/topics/cutis-marmorata)
+- [Focal dermal hypoplasia (Goltz syndrome)](https://dermnetnz.org/topics/focal-dermal-hypoplasia)
+- Kindler syndrome
+Note that telangiectasia may be noted as a normal feature of facial skin in some families.
+
+### Hereditary telangiectasia
+![Giãn mao mạch gia đình](https://dermnetnz.org/assets/Uploads/vascular/telangiectases-04.jpg)
+![Giãn mao mạch di truyền lành tính](https://dermnetnz.org/assets/Uploads/vascular/telangiectases-05.jpg)
+![Giãn mao mạch xuất huyết di truyền](https://dermnetnz.org/assets/Uploads/vascular/telangiectases-06.jpg)
+
+### Acquired telangiectasia
+- [Essential telangiectasia](https://dermnetnz.org/topics/generalised-essential-telangiectasia)
+- [Rosacea](https://dermnetnz.org/topics/rosacea)
+- [Sun damaged and aged skin](https://dermnetnz.org/topics/ageing-skin) especially in those who [smoke](https://dermnetnz.org/topics/smoking-and-its-effects-on-the-skin)
+- [Spider telangiectasis](https://dermnetnz.org/topics/spider-telangiectasis) (also called spider naevus )
+- Progressive annular telangiectasia (a rare condition with no associations)
+- [Poikiloderma of Civatte](https://dermnetnz.org/topics/poikiloderma-of-civatte) (sun damage affecting the sides of the neck)
+- [Pregnancy](https://dermnetnz.org/topics/skin-changes-in-pregnancy)
+- [Liver disease](https://dermnetnz.org/topics/skin-manifestations-of-gastrointestinal-disease) particularly when associated with [alcohol](https://dermnetnz.org/topics/cutaneous-adverse-effects-of-alcohol) or [viral infection](https://dermnetnz.org/topics/viral-hepatitis)
+- [Cushing syndrome](https://dermnetnz.org/topics/cushing-syndrome)
+- [Xơ cứng hệ thống](https://dermnetnz.org/topics/systemic-sclerosis) đặc biệt là hội chứng CRST (tạo thành các mảng giãn mạch)
+- [Bệnh lupus ban đỏ da](https://dermnetnz.org/topics/cutaneous-lupus-erythematosus)
+- [Bệnh mô liên kết hỗn hợp](https://dermnetnz.org/topics/mixed-connective-tissue-disease)
+- [Viêm da cơ](https://dermnetnz.org/topics/adult-onset-dermatomyositis)
+- [Bệnh tăng sinh tế bào mast](https://dermnetnz.org/topics/mastocytosis) , cụ thể là biến thể, telangiectasia macularis eruptiva perstans
+- [Hội chứng carcinoid](https://dermnetnz.org/topics/carcinoid-syndrome)
+- [Bệnh hoại tử mỡ](https://dermnetnz.org/topics/necrobiosis-lipoidica)
+- [Rối loạn cảm giác ở bộ phận sinh dục nam](https://dermnetnz.org/topics/male-genital-dysaesthesia)
+- Bệnh lý mạch máu collagen ở da - mô học cho thấy collagen hyalin hóa bao quanh các mạch máu giãn mạch
+
+### Giãn mạch do bệnh lý
+![Hội chứng CRST](https://dermnetnz.org/assets/Uploads/vascular/telangiectases-07.jpg)
+![Giãn mạch trong bệnh mastocytosis](https://dermnetnz.org/assets/Uploads/vascular/telangiectases-08.jpg)
+![Bệnh hoại tử mỡ](https://dermnetnz.org/assets/Uploads/vascular/s/telangiectases-09.jpg)
+Giãn mạch có thể xảy ra sau chấn thương da. Ví dụ:
+- Sẹo, bao gồm [sẹo phì đại và sẹo lồi](https://dermnetnz.org/topics/keloid-and-hypertrophic-scar)
+- [Bệnh lý mạch máu dạng sống](https://dermnetnz.org/topics/livedoid-vasculopathy) và [teo trắng](https://dermnetnz.org/topics/atrophie-blanche)
+- [Tổn thương do bức xạ](https://dermnetnz.org/topics/radiation-dermatitis)
+- [Ban đỏ do ánh sáng](https://dermnetnz.org/topics/erythema-ab-igne) .
+
+### Giãn mạch sau chấn thương
+![Địa điểm bức xạ](https://dermnetnz.org/assets/Uploads/vascular/telangiectases-10.jpg)
+![Địa điểm bức xạ](https://dermnetnz.org/assets/Uploads/vascular/telangiectases-11.jpg)
+![Ban đỏ do ánh sáng](https://dermnetnz.org/assets/Uploads/vascular/telangiectases-12.jpg)
+Một số khối u có đặc điểm là giãn mạch, chẳng hạn như:
+- [Tăng sản bã nhờn](https://dermnetnz.org/topics/sebaceous-hyperplasia)
+- [Ung thư biểu mô tế bào đáy](https://dermnetnz.org/topics/basal-cell-carcinoma)
+- [Ung thư tế bào Merkel](https://dermnetnz.org/topics/merkel-cell-carcinoma)
+- [Ung thư Kaposi](https://dermnetnz.org/topics/kaposi-sarcoma)
+- [U lympho tế bào T ở da](https://dermnetnz.org/topics/cutaneous-t-cell-lymphoma) (CTCL), đặc biệt là biến thể poikiloderma vasculare
+- [U lympho tế bào B nội mạch](https://dermnetnz.org/topics/intravascular-lymphoma) .
+
+### Giãn mạch ở khối u da
+![Tăng sản bã nhờn](https://dermnetnz.org/assets/Uploads/vascular/s/telangiectases-13.jpg)
+![Ung thư biểu mô tế bào đáy](https://dermnetnz.org/assets/Uploads/vascular/telangiectases-14.jpg)
+![CTCL](https://dermnetnz.org/assets/Uploads/vascular/telangiectases-15.jpg)
+Một số loại thuốc có thể gây ra chứng giãn mao mạch.
+- Thuốc giãn mạch, đặc biệt là thuốc chẹn kênh canxi; các vị trí tiếp xúc với ánh nắng mặt trời chủ yếu bị ảnh hưởng
+- [Corticosteroid toàn thân](https://dermnetnz.org/topics/systemic-steroids) dài hạn [](https://dermnetnz.org/topics/systemic-steroids)
+- [Corticosteroid bôi ngoài da](https://dermnetnz.org/topics/topical-steroid) dài hạn , bao gồm cả [bệnh trứng cá đỏ steroid](https://dermnetnz.org/topics/steroid-rosacea)
+- [Tiêm triamcinolone vào tổn thương](https://dermnetnz.org/topics/intralesional-steroid-injection)
+
+### Giãn mạch liên quan đến việc sử dụng steroid tại chỗ
+![Giãn mao mạch do steroid](https://dermnetnz.org/assets/Uploads/vascular/telangiectases-16.jpg)
+![Giãn mao mạch do steroid](https://dermnetnz.org/assets/Uploads/acne/steroid-telangiectasia.jpg)
+![Giãn mao mạch do steroid](https://dermnetnz.org/assets/Uploads/acne/steroid-telangiectasia2.jpg)
+
+---
+
+## Phương pháp điều trị giãn mao mạch là gì?
+
+Giãn mao mạch thường vô hại. Có thể cần điều trị nếu xuất hiện tình trạng chảy máu hoặc trông không đẹp mắt. Các phương pháp [điều trị giãn mao mạch đỏ trên mặt](https://dermnetnz.org/topics/facial-red-vein-and-vascular-birthmark-treatments) bao gồm:
+- [Phẫu thuật điện](https://dermnetnz.org/topics/electrosurgery)
+- [Ánh sáng xung cường độ cao](https://dermnetnz.org/topics/intense-pulsed-light-therapy) (IPL)
+- [Điều trị bằng laser mạch máu](https://dermnetnz.org/topics/lasers-in-dermatology)
+- [Xơ cứng](https://dermnetnz.org/topics/sclerotherapy) .

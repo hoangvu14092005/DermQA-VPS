@@ -1,0 +1,103 @@
+# Amyloidosis cutis dyschromica – thông tin bổ sung
+
+Thể loại:
+
+Rối loạn sắc tố
+
+SNOMED CT:
+
+764849002, 201337008, 111390002
+
+**[Rối loạn sắc tố](https://dermnetnz.org/topics/topics?category=Pigmentary+disorders)**
+
+
+# **Bệnh thoái hóa sắc tố da dạng tinh bột**
+
+Tác giả: Caroline Mahon, Bác sĩ Da liễu Tư vấn Tạm thời về Da liễu Người lớn và Trẻ em, Bệnh viện Hoàng gia Bristol, Bristol, Vương quốc Anh. Tổng biên tập DermNet New Zealand: Phó Giáo sư Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand. Biên tập viên: Maria McGivern/Gus Mitchell. Tháng 10 năm 2017.
+
+---
+
+## Bệnh loạn sắc tố da do tinh bột là gì?
+
+Bệnh thoái hóa sắc tố da dạng tinh bột là một dạng [bệnh thoái hóa tinh bột da nguyên phát](https://dermnetnz.org/topics/primary-cutaneous-amyloidosis-pathology) gây ra tình trạng tăng sắc tố và giảm sắc tố cục bộ .
+Bệnh thoái hóa sắc tố da do tinh bột lần đầu tiên được bác sĩ da liễu Nhật Bản Morishima mô tả vào năm 1970 [1].
+![Nhiều vùng giảm sắc tố có chấm trên nền tăng sắc tố không đồng đều](https://dermnetnz.org/assets/Uploads/fig-1-acd-elbow..jpg)
+![Nhiều vùng giảm sắc tố điểm li ti trên nền tăng sắc tố không đồng đều](https://dermnetnz.org/assets/Uploads/fig-2-acd-lowerleg.jpg)
+![Hình ảnh cận cảnh về sự thay đổi màu sắc ở cẳng chân](https://dermnetnz.org/assets/Uploads/fig-3-acd-leg-close-up.jpg)
+
+---
+
+## Ai mắc chứng rối loạn sắc tố da do tinh bột?
+
+Bệnh loạn sắc tố da do tinh bột rất hiếm gặp. Tại thời điểm viết bài này, khoảng 50 trường hợp đã được báo cáo trong tài liệu y khoa [2].
+- Cả nam và nữ đều bị ảnh hưởng như nhau.
+- Hầu hết bệnh nhân lần đầu tiên phát triển những thay đổi về sắc tố da vào thời thơ ấu.
+- Phần lớn bệnh nhân (77%) có tiền sử gia đình bị thay đổi sắc tố tương tự.
+- Hầu hết các trường hợp (63%) xảy ra ở những người dân tộc Đông Á (người Trung Quốc, người Hồng Kông và người Đài Loan) hoặc Đông Nam Á (người Thái Lan, người Philippines và người Indonesia).
+- Amyloidosis cutis dyschromica cũng thường thấy ở những người gốc Ấn Độ và Pakistan.
+- Chỉ có ba trường hợp mắc chứng loạn sắc tố da dạng tinh bột được báo cáo ở bệnh nhân da trắng.
+
+---
+
+## Nguyên nhân nào gây ra bệnh loạn sắc tố da do tinh bột?
+
+[Bệnh thoái hóa sắc tố da do tinh bột (amyloidosis cutis dyschromica](https://dermnetnz.org/topics/cutaneous-amyloidosis) ) là do sự lắng đọng amyloid có nguồn gốc từ các tế bào sừng bị thoái hóa hoặc hư hỏng. Nguyên nhân gây thoái hóa tế bào sừng và mối liên quan giữa tình trạng này với sự mất và tăng sắc tố ở các vùng da bị ảnh hưởng vẫn chưa rõ ràng. Nguyên nhân có thể là do di truyền . [](https://dermnetnz.org/topics/cutaneous-amyloidosis)
+
+---
+
+## Các đặc điểm lâm sàng của bệnh loạn sắc tố da do tinh bột là gì?
+
+Bệnh loạn sắc tố da do tinh bột gây ra tình trạng tăng sắc tố và giảm sắc tố cục bộ tiến triển chậm (loạn sắc tố da hoặc loạn sắc tố da).
+- Trong hầu hết các trường hợp, sự thay đổi màu sắc bắt đầu từ thời thơ ấu, mặc dù ở một số cá nhân, sự thay đổi này không được nhận thấy cho đến khi trưởng thành.
+- Bệnh loạn sắc tố da không ảnh hưởng đến lòng bàn tay, lòng bàn chân hoặc bề mặt niêm mạc .
+- Sự liên quan đến khuôn mặt là không phổ biến (khoảng 10%) [2].
+Những phát hiện cụ thể giúp phân biệt bệnh thoái hóa sắc tố da dạng tinh bột với các biến thể dạng dát và dạng liken phổ biến hơn của bệnh thoái hóa sắc tố da nguyên phát là:
+- Tăng sắc tố dạng chấm, lưới hoặc lan tỏa kết hợp với các mảng giảm sắc tố có kích thước bằng hạt đậu lăng .
+- Ngứa nhẹ hoặc không ngứa .
+
+---
+
+## Biến chứng của bệnh thoái hóa sắc tố da do lắng đọng tinh bột là gì?
+
+Không có biến chứng nào được biết đến từ bệnh thoái hóa sắc tố da do tinh bột.
+
+---
+
+## Bệnh loạn sắc tố da do tinh bột được chẩn đoán như thế nào?
+
+Bệnh thoái hóa sắc tố da dạng tinh bột được chẩn đoán bằng cách nhận biết các đặc điểm lâm sàng điển hình và xác nhận bằng [sinh thiết](https://dermnetnz.org/topics/skin-biopsy) các mảng tăng sắc tố hoặc giảm sắc tố .
+- Các chất lắng đọng amyloid có trong lớp hạ bì nhú ngay bên dưới lớp biểu bì.
+- Chúng có thể rất khó phát hiện và khó nhìn thấy bằng phương pháp nhuộm hematoxylin và eosin (H&E) nên cần phải nhuộm đỏ Congo.
+- Khi sử dụng ánh sáng phân cực, có thể thấy hiện tượng lưỡng chiết màu xanh táo của vật liệu amyloid khi kiểm tra bằng kính hiển vi .
+
+### Mô học của bệnh amyloidosis da loạn sắc tố
+![Sinh thiết da cho thấy các hạt màu hồng nhỏ ngay bên dưới lớp biểu bì](https://dermnetnz.org/assets/Uploads/fig-4-acd-histology-h+e.jpg)
+![Sinh thiết da nhuộm bằng thuốc nhuộm đỏ Congo, làm nổi bật các chất lắng đọng amyloid](https://dermnetnz.org/assets/Uploads/fig-5-acd-histology-congo-red.jpg)
+![Sinh thiết da Mẫu nhuộm đỏ Congo được quan sát dưới kính hiển vi phân cực](https://dermnetnz.org/assets/Uploads/fig-6-acd-histology-congo-red-polarised.jpg)
+
+---
+
+## Chẩn đoán phân biệt bệnh thoái hóa sắc tố da do tinh bột là gì?
+
+Bệnh loạn sắc tố da dạng tinh bột có thể rất giống với một số bệnh loạn sắc tố da hiếm gặp khác; bao gồm:
+- Chứng rối loạn sắc tố phổ quát di truyền
+- Bệnh loạn sắc tố đối xứng di truyền
+- Cutis tricolor
+- [Bệnh bong biểu bì bóng nước đơn giản](https://dermnetnz.org/topics/epidermolysis-bullosa-simplex) [](https://dermnetnz.org/topics/epidermolysis-bullosa) với sắc tố loang lổ
+- [Pinta](https://dermnetnz.org/topics/pinta) bậc ba .
+Các tình trạng khác cần loại trừ bao gồm:
+- [Bệnh loạn sản sừng bẩm sinh](https://dermnetnz.org/topics/dyskeratosis-congenita) , biểu hiện bằng chứng loạn dưỡng móng , [bệnh bạch sản miệng](https://dermnetnz.org/topics/carcinoma-in-situ-of-oral-cavity) và suy tủy xương ở trẻ em [](https://dermnetnz.org/topics/carcinoma-in-situ-of-oral-cavity)
+- [Bệnh khô da sắc tố](https://dermnetnz.org/topics/xeroderma-pigmentosum) , gây ra tình [trạng nhạy cảm ánh sáng ở da và](https://dermnetnz.org/topics/photosensitivity) mắt và ung thư da ác tính khởi phát ở trẻ em [](https://dermnetnz.org/topics/photosensitivity)
+- [Bệnh Degos](https://dermnetnz.org/topics/malignant-atrophic-papulosis) , một bệnh lý mạch máu có khả năng đe dọa tính mạng .
+
+---
+
+## Phương pháp điều trị bệnh thoái hóa sắc tố da do tinh bột là gì?
+
+Chưa có biện pháp can thiệp điều trị nào được chứng minh là có hiệu quả trong bệnh thoái hóa sắc tố da do tinh bột. Nhiều phương pháp điều trị tại chỗ , bao gồm kem [urê](https://dermnetnz.org/topics/urea) 10% và tazarotene [1], đã được kê đơn cho bệnh nhân nhưng không cải thiện đáng kể. Việc bổ sung vitamin C và vitamin E đường uống chỉ mang lại lợi ích tối thiểu [3]. [Acitretin](https://dermnetnz.org/topics/acitretin) đã được kê đơn trong một số ít trường hợp, với khoảng 85% trường hợp được báo cáo là có cải thiện khiêm tốn [2]. [](https://dermnetnz.org/topics/acitretin)
+
+---
+
+## Hậu quả của bệnh thoái hóa sắc tố da do tinh bột là gì?
+
+Bệnh loạn sắc tố da dạng tinh bột (amyloidosis cutis dyschromica) thường tiến triển dần dần. Tình trạng loạn sắc tố da cuối cùng có thể ảnh hưởng đến hầu hết các vùng da, ngoại trừ lòng bàn tay, lòng bàn chân, niêm mạc miệng và bộ phận sinh dục . Mặt khác, bệnh loạn sắc tố da dạng tinh bột có thể tiến triển dần dần ở các vùng khu trú, và thường nổi bật hơn ở các vùng da phủ trên các khớp xương và bề mặt khớp.

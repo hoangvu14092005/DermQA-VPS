@@ -1,0 +1,172 @@
+# Ung thư biểu mô tế bào vảy da — thông tin bổ sung
+
+Thể loại:
+
+Tổn thương (ung thư)
+
+SNOMED CT:
+
+254651007
+
+**[Tổn thương (ung thư)](https://dermnetnz.org/topics/topics?category=Lesions+(cancerous))**
+
+
+# **Ung thư biểu mô tế bào vảy da**
+
+Tác giả: Phó giáo sư danh dự Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand, 1997. Cập nhật tháng 12 năm 2015.
+
+---
+
+## Ung thư biểu mô tế bào vảy ở da là gì?
+
+Ung thư biểu mô tế bào vảy da (SCC) là một loại [ung thư tế bào sừng](https://dermnetnz.org/topics/keratinocyte-cancer) phổ biến , hay [ung thư da không phải](https://dermnetnz.org/topics/skin-cancer) u hắc tố . Ung thư này bắt nguồn từ các tế bào trong lớp biểu bì tạo ra keratin - một loại protein sừng cấu tạo nên da, tóc và móng. [](https://dermnetnz.org/topics/keratinocyte-cancer) [](https://dermnetnz.org/topics/skin-cancer)
+Ung thư biểu mô tế bào vảy (SCC) ở da là một bệnh xâm lấn , liên quan đến các tế bào ung thư phát triển vượt ra ngoài lớp biểu bì. SCC đôi khi có thể di căn và gây tử vong.
+[Ung thư biểu mô trong biểu bì](https://dermnetnz.org/topics/intraepidermal-squamous-cell-carcinoma) (SCC ở da tại chỗ ) và SCC niêm mạc được xem xét ở những nơi khác.
+
+---
+
+## Ai có thể mắc bệnh ung thư biểu mô tế bào vảy ở da?
+
+Các yếu tố nguy cơ gây SCC ở da bao gồm:
+- Tuổi tác và giới tính : SCC đặc biệt phổ biến ở nam giới lớn tuổi. Tuy nhiên, chúng cũng ảnh hưởng đến phụ nữ và người trẻ tuổi.
+- Ung thư biểu mô tế bào đáy (SCC) trước đó hoặc một dạng ung thư da khác ( [ung thư biểu mô tế bào đáy](https://dermnetnz.org/topics/basal-cell-carcinoma) , [u hắc tố](https://dermnetnz.org/topics/melanoma) ) là yếu tố dự báo mạnh mẽ cho các bệnh ung thư da tiếp theo.
+- [Dày sừng quang hóa](https://dermnetnz.org/topics/actinic-keratosis)
+- Nghề nghiệp hoặc giải trí ngoài trời
+- [Hút thuốc](https://dermnetnz.org/topics/smoking-and-its-effects-on-the-skin)
+- Da trắng, mắt xanh và tóc vàng hoặc đỏ
+- Chấn thương da trước đó, [bỏng nhiệt](https://dermnetnz.org/topics/thermal-burn) , bệnh tật (ví dụ, [bệnh lupus ban đỏ da](https://dermnetnz.org/topics/cutaneous-lupus-erythematosus) , [bệnh bong biểu bì bóng nước](https://dermnetnz.org/topics/epidermolysis-bullosa) , [loét chân](https://dermnetnz.org/topics/leg-ulcer) )
+- Hội chứng di truyền: SCC là một vấn đề đặc biệt với [bệnh khô da sắc tố,](https://dermnetnz.org/topics/xeroderma-pigmentosum) bệnh bạch tạng và [loạn sản biểu bì dạng mụn cóc](https://dermnetnz.org/topics/epidermodysplasia-verruciformis)
+- Các yếu tố nguy cơ khác bao gồm bức xạ ion hóa, tiếp xúc với [asen](https://dermnetnz.org/topics/chronic-arsenic-poisoning) , ức chế miễn dịch do [bệnh tật](https://dermnetnz.org/topics/immunodeficiency) (ví dụ, bệnh bạch cầu lymphocytic mãn tính ) hoặc [thuốc](https://dermnetnz.org/topics/drug-induced-immunosuppression) và sử dụng một số loại thuốc khác như hydrochlorothiazide. [](https://dermnetnz.org/topics/drug-induced-immunosuppression)
+- [Người được ghép tạng](https://dermnetnz.org/topics/skin-cancer-in-transplant-recipients) có nguy cơ mắc SCC cao hơn.
+
+---
+
+## Nguyên nhân nào gây ra ung thư biểu mô tế bào vảy ở da?
+
+Hơn 90% trường hợp SCC có liên quan đến nhiều đột biến DNA ở nhiều gen soma . Đột biến ở gen ức chế khối u p53 là do tiếp xúc với tia cực tím ( UV ), đặc biệt là UVB (được gọi là đột biến đặc hiệu 7). Các đột biến đặc hiệu khác liên quan đến [hút](https://dermnetnz.org/topics/smoking-and-its-effects-on-the-skin) thuốc lá , [lão hóa](https://dermnetnz.org/topics/ageing-skin) và [suy giảm miễn dịch](https://dermnetnz.org/topics/drug-induced-immunosuppression) (ví dụ, do thuốc như [azathioprine](https://dermnetnz.org/topics/azathioprine-and-mercaptopurine) ). Đột biến trong các con đường truyền tín hiệu ảnh hưởng đến thụ thể yếu tố tăng trưởng biểu bì , RAS, Fyn và tín hiệu p16INK4a. [](https://dermnetnz.org/topics/smoking-and-its-effects-on-the-skin) [](https://dermnetnz.org/topics/ageing-skin) [](https://dermnetnz.org/topics/drug-induced-immunosuppression) [](https://dermnetnz.org/topics/azathioprine-and-mercaptopurine)
+Virus papilloma ở người chi beta ( virus [gây mụn cóc](https://dermnetnz.org/topics/viral-wart) ) được cho là có vai trò trong việc gây ra SCC ở những quần thể bị suy giảm miễn dịch. β-HPV và các phân nhóm HPV 5, 8, 17, 20, 24 và 38 cũng có liên quan đến việc tăng nguy cơ mắc SCC ở da ở những người có hệ miễn dịch bình thường.
+
+---
+
+## Đặc điểm lâm sàng của ung thư biểu mô tế bào vảy da là gì?
+
+SCC ở da biểu hiện dưới dạng các khối u lớn, có vảy hoặc đóng vảy . Chúng thường xuất hiện trong tình [trạng dày sừng quang hóa](https://dermnetnz.org/topics/actinic-keratosis) hoặc [ung thư biểu mô nội biểu bì](https://dermnetnz.org/topics/intraepidermal-squamous-cell-carcinoma) đã có từ trước .
+- Chúng phát triển trong nhiều tuần đến nhiều tháng
+- Họ có thể loét
+- Chúng thường mềm hoặc đau
+- Nằm ở những vị trí tiếp xúc với ánh nắng mặt trời, đặc biệt là mặt, môi, tai, bàn tay, cẳng tay và cẳng chân
+- Kích thước thay đổi từ vài milimét đến vài centimet đường kính.
+![Ung thư biểu mô tế bào vảy](https://dermnetnz.org/assets/Uploads/lesions/scc2.jpg)
+![Ung thư biểu mô tế bào vảy](https://dermnetnz.org/assets/Uploads/lesions/scc8.jpg)
+![Ung thư biểu mô tế bào vảy](https://dermnetnz.org/assets/Uploads/lesions/scc9.jpg)
+Xem thêm hình ảnh về ung thư biểu mô tế bào vảy:
+- [SCC trên mặt](https://dermnetnz-org.translate.goog/topics/squamous-cell-carcinoma-on-the-face-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+- [SCC trên môi](https://dermnetnz-org.translate.goog/topics/squamous-cell-carcinoma-of-the-lip-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+- [SCC trên tai](https://dermnetnz-org.translate.goog/topics/squamous-cell-carcinoma-of-the-ear-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+- [SCC ở chân tay](https://dermnetnz-org.translate.goog/topics/squamous-cell-carcinoma-of-limbs-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp) .
+[Hình ảnh ung thư biểu mô tế bào vảy da](https://dermnetnz-org.translate.goog/images/cutaneous-squamous-cell-carcinoma-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+
+---
+
+## Các loại ung thư biểu mô tế bào vảy da
+
+Các loại lâm sàng riêng biệt của SCC xâm lấn da bao gồm:
+- [Sừng da](https://dermnetnz.org/topics/cutaneous-horn) - sừng hình thành do sản xuất quá nhiều keratin
+- [Keratoacanthoma](https://dermnetnz.org/topics/keratoacanthoma) (KA) — một nốt sừng hóa phát triển nhanh có thể tự khỏi mà không cần điều trị
+- [Ung thư biểu mô cuniculatum](https://dermnetnz.org/topics/carcinoma-cuniculatum) (' u nhú sùi mào gà '), một khối u phát triển chậm, có mụn cóc ở lòng bàn chân
+- [Loét Marjolin](https://dermnetnz.org/topics/marjolin-ulcer) - SCC ở da phát triển trong sẹo hoặc loét mãn tính
+- Nhiều tổn thương giống SCC/KA phát ban xuất hiện trong các hội chứng như [u biểu mô vảy tự lành của hội chứng Ferguson-Smith](https://dermnetnz.org/topics/multiple-self-healing-squamous-epitheliomas-of-ferguson-smith-msse) và [Grzybowski](https://dermnetnz.org/topics/generalised-eruptive-keratoacanthomas) .
+Nhà nghiên cứu bệnh học có thể phân loại khối u thành SCC da biệt hóa tốt , biệt hóa vừa, biệt hóa kém hoặc ung thư biểu mô tế bào vảy da không biệt hóa . Ngoài ra còn có các biến thể khác.
+![Sừng da](https://dermnetnz.org/assets/Uploads/lesions/w/scc-101.jpg)
+![U sừng gai](https://dermnetnz.org/assets/Uploads/lesions/w/scc-100.jpg)
+![Ung thư biểu mô cuniculatum](https://dermnetnz.org/assets/Uploads/lesions/verrucous-ca.jpg)
+![U biểu mô vảy Ferguson-Smith](https://dermnetnz.org/assets/Uploads/lesions/w/ferguson-smith-4.jpg)
+![Hội chứng Grzybowski](https://dermnetnz.org/assets/collection/Generalised-eruptive-keratoacanthoma/generalised-eruptive-keratoacanthoma-0004.jpg)
+
+---
+
+## Phân loại ung thư biểu mô tế bào vảy theo nguy cơ
+
+Ung thư biểu mô tế bào vảy da (SCC) được phân loại thành nguy cơ thấp hoặc nguy cơ cao, tùy thuộc vào khả năng tái phát và di căn của khối u. Các đặc điểm của SCC nguy cơ cao bao gồm:
+Ung thư biểu mô tế bào vảy da có nguy cơ cao có các đặc điểm sau:
+- Đường kính lớn hơn hoặc bằng 2 cm
+- Vị trí trên tai, môi đỏ, giữa mặt, tay, chân, bộ phận sinh dục
+- Xuất hiện ở bệnh nhân lớn tuổi hoặc suy giảm miễn dịch
+- Độ dày mô học lớn hơn 2 mm, mô học kém biệt hóa hoặc xâm lấn mô dưới da , dây thần kinh và mạch máu.
+SCC di căn được tìm thấy ở các hạch bạch huyết khu vực (80%), phổi, gan, não, xương và da.
+![Ung thư biểu mô tế bào vảy da có nguy cơ cao](https://dermnetnz.org/assets/Uploads/lesions/w/scc-104.jpg)
+![Ung thư biểu mô tế bào vảy da có nguy cơ cao](https://dermnetnz.org/assets/Uploads/lesions/w/scc-105.jpg)
+![Ung thư biểu mô tế bào vảy da có nguy cơ cao](https://dermnetnz.org/assets/Uploads/lesions/w/scc-106.jpg)
+
+---
+
+## Phân loại ung thư biểu mô tế bào vảy da
+
+Năm 2011, Ủy ban Ung thư Liên hợp Hoa Kỳ (AJCC) đã công bố một hệ thống phân loại giai đoạn mới cho ung thư biểu mô tế bào vảy da (SCC) cho ấn bản thứ 7 của cẩm nang AJCC. Hệ thống này đánh giá kích thước của khối u nguyên phát ban đầu (T) và di căn đến hạch bạch huyết (N).
+
+### Phân loại khối u cho SCC da
+TX: Khối u nguyên phát không thể đánh giá được
+T0: Không có bằng chứng về khối u nguyên phát
+Tis: Ung thư biểu mô tại chỗ
+T1: Khối u ≤ 2cm không có đặc điểm nguy cơ cao
+T2: Khối u ≥ 2cm; hoặc; Khối u ≤ 2 cm có đặc điểm nguy cơ cao
+T3: Khối u xâm lấn xương hàm trên, xương hàm dưới , hốc mắt hoặc xương thái dương
+T4: Khối u xâm lấn xương trục hoặc xương phụ hoặc xâm lấn quanh dây thần kinh nền sọ
+
+### Phân loại hạch cho SCC da
+NX: Không thể đánh giá được các hạch bạch huyết khu vực
+N0: Không có di căn hạch bạch huyết khu vực
+N1: Di căn ở một hạch bạch huyết tại chỗ ≤ 3cm
+N2: Di căn ở một hạch bạch huyết tại chỗ ≥ 3cm; hoặc; Di căn ở >1 hạch bạch huyết tại chỗ ≤ 6cm
+N3: Di căn hạch ≥ 6cm
+
+---
+
+## Ung thư biểu mô tế bào vảy được chẩn đoán như thế nào?
+
+Chẩn đoán SCC ở da dựa trên các đặc điểm lâm sàng. Chẩn đoán và phân nhóm mô học được xác nhận về mặt bệnh lý bằng [sinh thiết](https://dermnetnz.org/topics/skin-biopsy) chẩn đoán hoặc sau khi [cắt bỏ](https://dermnetnz.org/topics/excision-of-skin-lesions) . Xem [ung thư biểu mô tế bào vảy – bệnh lý](https://dermnetnz.org/topics/squamous-cell-carcinoma-pathology) .
+Bệnh nhân mắc SCC nguy cơ cao cũng có thể được tiến hành xét nghiệm phân giai đoạn để xác định xem bệnh đã di căn đến hạch bạch huyết hay nơi khác hay chưa. Các xét nghiệm này có thể bao gồm:
+- Chụp ảnh bằng siêu âm , chụp X-quang, chụp CT , chụp MRI
+- Sinh thiết hạch bạch huyết hoặc mô khác .
+
+---
+
+## Phương pháp điều trị ung thư biểu mô tế bào vảy da là gì?
+
+SCC da gần như luôn được điều trị bằng phẫu thuật. Hầu hết các trường hợp được cắt bỏ với khoảng cách 3–10 mm mô bình thường xung quanh khối u nhìn thấy được. Có thể cần phải dùng [vạt da](https://dermnetnz.org/topics/flaps) hoặc [ghép da](https://dermnetnz.org/topics/skin-grafting) để sửa chữa khiếm khuyết.
+Các phương pháp loại bỏ khác bao gồm:
+- Cạo, [nạo](https://dermnetnz.org/topics/curettage-and-cautery) và [đốt điện cho](https://dermnetnz.org/topics/electrosurgery) các khối u nguy cơ thấp ở thân và chân tay
+- [Liệu pháp lạnh](https://dermnetnz.org/topics/cryotherapy) mạnh mẽ cho các khối u rất nhỏ, mỏng, nguy cơ thấp
+- [Phẫu thuật vi phẫu Mohs](https://dermnetnz.org/topics/mohs-micrographic-surgery) cho các tổn thương lớn trên khuôn mặt có ranh giới không rõ ràng hoặc khối u tái phát
+- [Xạ trị](https://dermnetnz.org/topics/radiotherapy-for-malignant-skin-diseases) cho khối u không thể phẫu thuật, bệnh nhân không phù hợp để phẫu thuật hoặc dùng làm phương pháp bổ trợ.
+
+---
+
+## Phương pháp điều trị ung thư biểu mô tế bào vảy di căn hoặc tiến triển là gì?
+
+Ung thư biểu mô tế bào vảy (SCC) nguyên phát, tái phát hoặc di căn tại chỗ cần được hội chẩn đa chuyên khoa . Thông thường, cần kết hợp nhiều phương pháp điều trị.
+- [Ca phẫu thuật](https://dermnetnz.org/topics/skin-surgery)
+- [Xạ trị](https://dermnetnz.org/topics/radiotherapy-for-malignant-skin-diseases)
+- [Cemiplimab](https://dermnetnz.org/topics/cemiplimab)
+- Liệu pháp nhắm mục tiêu thử nghiệm sử dụng [chất ức chế thụ thể yếu tố tăng trưởng biểu bì](https://dermnetnz.org/topics/egfr-and-protein-kinase-inhibitors)
+Hàng ngàn người New Zealand được điều trị bệnh SCC ở da mỗi năm và hơn 100 người tử vong vì căn bệnh này.
+
+---
+
+## Làm thế nào để ngăn ngừa ung thư biểu mô tế bào vảy da?
+
+Có rất nhiều bằng chứng cho thấy [việc bảo vệ da khỏi ánh nắng mặt trời](https://dermnetnz.org/topics/sun-protection) cẩn thận ở bất kỳ giai đoạn nào trong cuộc đời đều giúp giảm số lượng SCC. Điều này đặc biệt quan trọng ở [những người có làn](https://dermnetnz.org/topics/ageing-skin) da sáng, bị tổn thương do ánh nắng mặt trời, lão hóa; ở những bệnh nhân bị suy giảm miễn dịch; và ở những người đã bị [dày sừng quang hóa](https://dermnetnz.org/topics/actinic-keratosis) hoặc SCC trước đó.
+- Ở trong nhà hoặc dưới bóng râm vào giữa ngày
+- Mặc quần áo che phủ
+- [Thoa kem chống nắng](https://dermnetnz.org/topics/topical-sunscreen-agents) phổ rộng có chỉ số bảo vệ cao SPF50+ lên vùng da tiếp xúc với ánh nắng nếu ở ngoài trời
+- Tránh tắm nắng trong nhà ( [giường tắm nắng, phòng tắm nắng](https://dermnetnz.org/topics/sunbeds-and-solaria) )
+Uống [nicotinamide](https://dermnetnz.org/topics/nicotinamide) (vitamin B3) với liều 500 mg hai lần mỗi ngày có thể làm giảm số lượng và mức độ nghiêm trọng của SCC ở những người có nguy cơ cao.
+Bệnh nhân mắc nhiều loại ung thư biểu mô tế bào vảy có thể được kê đơn [thuốc retinoid đường uống](https://dermnetnz.org/topics/oral-retinoids) ( [acitretin](https://dermnetnz.org/topics/acitretin) hoặc [isotretinoin](https://dermnetnz.org/topics/isotretinoin) ). Thuốc này giúp giảm số lượng khối u nhưng có một số tác dụng phụ khó chịu.
+Bằng chứng mới nổi cho thấy việc [tiêm vắc-xin HPV](https://dermnetnz.org/topics/vaccines-against-human-papillomavirus) tiêu chuẩn có thể làm giảm gánh nặng của bệnh sừng hóa ánh sáng ở những người có hệ miễn dịch bình thường với nhiều tổn thương. Điều này có thể làm giảm tỷ lệ mắc SCC trong tương lai.
+
+---
+
+## Triển vọng của bệnh ung thư biểu mô tế bào vảy da là gì?
+
+Hầu hết SCC đều được chữa khỏi bằng điều trị. Khả năng chữa khỏi cao nhất nếu điều trị được thực hiện khi tổn thương còn nhỏ. Nguy cơ tái phát hoặc tử vong liên quan đến bệnh sẽ cao hơn đối với các khối u có đường kính > 20 mm và/hoặc độ dày > 2 mm tại thời điểm cắt bỏ bằng phẫu thuật.
+Khoảng 50% những người có nguy cơ cao mắc SCC sẽ phát triển bệnh thứ hai trong vòng 5 năm sau lần đầu tiên. Họ cũng có nguy cơ cao mắc các bệnh ung thư da khác, đặc biệt là ung thư hắc tố. Khuyến cáo nên tự khám da định kỳ và kiểm tra da định kỳ hàng năm bởi một chuyên gia y tế giàu kinh nghiệm.

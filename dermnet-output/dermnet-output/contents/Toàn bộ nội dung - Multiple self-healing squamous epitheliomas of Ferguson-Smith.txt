@@ -1,0 +1,92 @@
+# U biểu mô vảy tự phục hồi đa ổ của Ferguson-Smith — thông tin bổ sung
+
+Thể loại:
+
+Tổn thương (lành tính), Di truyền
+
+SNOMED CT:
+
+254659009
+
+**[Tổn thương (lành tính), Di truyền](https://dermnetnz.org/topics/topics?category=Lesions+(benign))**
+
+
+# **U biểu mô vảy tự phục hồi đa dạng của Ferguson-Smith**
+
+Tác giả: Tiến sĩ Susannah Fraser, MBChB, FRCP (Edin), Bác sĩ da liễu tư vấn, NHS Fife, Scotland, Vương quốc Anh; Tổng biên tập: Tiến sĩ Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand, tháng 6 năm 2015. Bản sửa đổi DermNet tháng 7 năm 2021
+
+---
+
+## U biểu mô vảy tự phục hồi là gì?
+
+U biểu mô vảy tự lành đa ổ (MSSE) là một bệnh lý da di truyền hiếm gặp, đặc trưng bởi sự xuất hiện đột ngột của nhiều tổn thương da , giống với ung thư biểu mô tế bào vảy biệt hóa cao [(SCC)](https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma) hoặc [u sừng gai (KA)](https://dermnetnz.org/topics/keratoacanthoma) về mặt lâm sàng và mô học. Tuy nhiên, các tổn thương này có xu hướng tự thoái triển, để lại sẹo lõm. [](https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma) [](https://dermnetnz.org/topics/keratoacanthoma)
+Những tên gọi khác của chứng rối loạn này là:
+- U sừng gai gia đình
+- U sừng gai đa ổ Ferguson-Smith
+- Bệnh Ferguson-Smith.
+
+---
+
+## Ai có thể mắc phải nhiều khối u biểu mô vảy tự phục hồi?
+
+MSSE được mô tả lần đầu tiên vào năm 1934 bởi bác sĩ da liễu người Scotland J Ferguson-Smith, người đã báo cáo về một thanh niên bị nhiều khối u vảy tự lành. Sau đó, bệnh được báo cáo ở con gái của bệnh nhân. Năm 1971, Malcolm A. Ferguson-Smith (nhà di truyền học, con trai của bác sĩ da liễu) đã trình bày thông tin về 62 trường hợp MSSE ở miền Tây Scotland, bao gồm cả phả hệ tương thích với kiểu di truyền trội trên nhiễm sắc thể thường .
+Ở MSSE, các tổn thương da có xu hướng xuất hiện lần đầu tiên trong thập kỷ thứ hai hoặc thứ ba của cuộc đời (từ 8-70 tuổi, trung bình là 28).
+Các trường hợp MSSE đã được phát hiện ở một khu vực địa lý rộng hơn, tại Nhật Bản, Mỹ và Đan Mạch, cho thấy căn bệnh này phổ biến hơn so với suy nghĩ ban đầu. Ở một số gia đình, kiểu hình nhẹ hơn và bệnh khởi phát muộn hơn so với các gia đình khác.
+
+---
+
+## Nguyên nhân nào gây ra nhiều khối u biểu mô vảy tự phục hồi?
+
+Ban đầu, người ta cho rằng MSSE là do đột biến gen khởi đầu. Mặc dù bệnh di truyền theo kiểu trội trên nhiễm sắc thể thường (từ cha mẹ bị ảnh hưởng đến một nửa số con của họ), nhưng nó không hoàn toàn xâm nhập, vì có báo cáo về những người mang gen bắt buộc không biểu hiện triệu chứng lâm sàng. Mười một đột biến dị hợp tử khác nhau đã được xác định trong gen thụ thể beta của yếu tố tăng trưởng chuyển dạng 1 (TGFBR1) nằm trên nhiễm sắc thể 9q22.
+Người ta cho rằng TGFBR1 kiểu hoang dã hoạt động như một chất ức chế khối u, cho đến khi sự xóa gen kiểu hoang dã bằng "cú đánh" thứ hai cổ điển dẫn đến quá trình gây ung thư.
+
+---
+
+## Các đặc điểm lâm sàng của MSSE là gì?
+
+Các tổn thương giống SCC/KA xuất hiện thành từng đám hoặc đơn lẻ, thường gặp nhất ở các vùng tiếp xúc với ánh nắng mặt trời và tại vị trí chấn thương. Mũi, tai và vùng quanh miệng là những vị trí thường gặp nhất. Thân mình hiếm khi bị ảnh hưởng và các tổn thương không bao giờ xuất hiện ở lòng bàn tay và lòng bàn chân. Các tổn thương ở chân tay thường lớn hơn ở mặt.
+Mỗi tổn thương bắt đầu bằng một dát đỏ xỉn , phát triển nhanh chóng trong 2-4 tuần để trở thành sẩn hoặc nốt sần. Nó có thể đạt đường kính 2-3 cm và ổn định trong tối đa 2 tháng. Một nút sừng trung tâm hình thành và rơi ra, để lại khối u dạng miệng núi lửa , trước khi thoái triển thành sẹo lõm.
+Bệnh nhân có thể có tới một trăm tổn thương theo thời gian, nhưng một số chỉ phát triển một hoặc hai tổn thương trong suốt cuộc đời.
+Các thành viên trong gia đình có thể phát triển những tổn thương này mặc dù trước đây ít tiếp xúc với ánh nắng mặt trời, không giống như hầu hết những người mắc SCC và KA.
+
+### Các tổn thương giống SCC/KA ở mẹ và con gái mắc bệnh u gai sừng đa ổ gia đình
+![Bệnh Ferguson-Smith SCC/KA](https://dermnetnz.org/assets/Uploads/lesions/w/ferguson-smith-3.jpg)
+![Bệnh Ferguson-Smith SCC/KA](https://dermnetnz.org/assets/Uploads/lesions/w/ferguson-smith-4.jpg)
+![Bệnh Ferguson-Smith SCC/KA](https://dermnetnz.org/assets/Uploads/lesions/w/ferguson-smith-2.jpg)
+![Bệnh Ferguson-Smith SCC/KA](https://dermnetnz.org/assets/Uploads/lesions/w/ferguson-smith-1.jpg)
+
+---
+
+## MSSE được chẩn đoán như thế nào?
+
+Bệnh Ferguson-Smith nên được xem xét ở những bệnh nhân có nhiều tổn thương giống SCC/KA ở độ tuổi trẻ và có tiền sử gia đình dương tính. Ở những khu vực tiếp xúc nhiều với tia cực tím ( UV ) và tỷ lệ [mắc ung thư da](https://dermnetnz.org/topics/skin-cancer) cao , việc chẩn đoán MSSE có thể bị trì hoãn hoặc dễ bị bỏ sót.
+Đặc điểm mô học của tổn thương giống SCC/KA gia đình khác với u sừng gai thông thường, vì không có "vai" rõ rệt và không có áp xe bạch cầu . Về mặt mô học, chúng có vẻ là SCC hung hãn nhưng thường tự lành. [xem [Bệnh lý ung thư biểu mô tế bào vảy](https://dermnetnz.org/topics/squamous-cell-carcinoma-pathology) ] [](https://dermnetnz.org/topics/squamous-cell-carcinoma-pathology)
+Những bệnh nhân khởi phát sớm ung thư biểu mô tế bào vảy có tính xâm lấn về mặt mô học và có tiền sử gia đình có thành viên khác bị ảnh hưởng nên được điều tra khả năng mắc MSSE.
+DNA có thể được chiết xuất từ ​​máu hoặc dịch miệng để thực hiện các nghiên cứu liên kết và phân tích kiểu gen, tìm kiếm đột biến trong gen TGFBR1 trên nhiễm sắc thể 9q22. Đột biến mất chức năng dị hợp tử ở gen này dẫn đến nguy cơ mắc bệnh u biểu mô vảy tự lành đa ổ di truyền.
+
+---
+
+## Chẩn đoán phân biệt của bệnh u biểu mô vảy tự lành gia đình là gì?
+
+- SCC da không có tính chất gia đình và u sừng giác mạc
+- Keratoacanthomas và SCC trong [hội chứng Muir-Torre](https://dermnetnz.org/topics/lynch-syndrome)
+- [Hội chứng Grzybowski bùng phát toàn thể](https://dermnetnz.org/topics/generalised-eruptive-keratoacanthomas)
+- [Xeroderma pigmentosum](https://dermnetnz.org/topics/xeroderma-pigmentosum)
+
+---
+
+## Phương pháp điều trị bệnh MSSE là gì?
+
+Mặc dù các tổn thương giống SCC/KA riêng lẻ thường tự khỏi, việc điều trị có thể đẩy nhanh quá trình này và cải thiện kết quả thẩm mỹ. Phần lớn các tổn thương được loại bỏ bằng phẫu thuật [cắt bỏ](https://dermnetnz.org/topics/excision-of-skin-lesions) hoặc [nạo vét và đốt điện](https://dermnetnz.org/topics/curettage-and-cautery) . Các phương pháp điều trị khác được báo cáo là:
+- [Liệu pháp lạnh](https://dermnetnz.org/topics/cryotherapy)
+- [Bleomycin](https://dermnetnz.org/topics/bleomycin) tiêm nội tổn thương [](https://dermnetnz.org/topics/bleomycin)
+- [Tiêm 5-fluorouracil](https://dermnetnz.org/topics/5-fluorouracil-cream) vào tổn thương . [](https://dermnetnz.org/topics/5-fluorouracil-cream)
+[Tốt nhất nên tránh xạ trị](https://dermnetnz.org/topics/radiotherapy-for-malignant-skin-diseases) trong MSSE vì điều này có thể dẫn đến phát triển thêm các tổn thương mới trong vùng được điều trị.
+[Retinoid đường uống](https://dermnetnz.org/topics/oral-retinoids) như [acitretin](https://dermnetnz.org/topics/acitretin) có thể được sử dụng để giảm số lượng khối u.
+Bệnh nhân mắc MSSE nên được khuyên [bảo vệ da khỏi ánh nắng mặt trời](https://dermnetnz.org/topics/sun-protection) .
+
+---
+
+## Triển vọng của MSSE là gì?
+
+Các tổn thương giống SCC/KA của MSSE lành lại và để lại sẹo, do đó tình trạng này có thể gây biến dạng nghiêm trọng cho những người mắc bệnh nặng. Mặc dù từng tổn thương có thể xâm lấn tại chỗ, nhưng chưa có báo cáo nào về di căn xa .

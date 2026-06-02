@@ -1,0 +1,169 @@
+# Viêm da tay — thông tin bổ sung
+
+Thể loại:
+
+Phát ban
+
+SNOMED CT:
+
+238539001, 238553001, 402224008, 238555008, 238556009, 402567004, 402587003, 402232000, 402225009, 402233005, 402226005, 402227001, 402572008, 238541000, 402291009,402290005, 402254003
+
+**[Phát ban](https://dermnetnz.org/topics/topics?category=Rashes)**
+
+
+# **Viêm da tay**
+
+Tác giả: Tiến sĩAmanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand, 1997.Được cập nhật bởiTiến sĩ Karen Koch, Bác sĩ Da liễu Tư vấn, Phòng khám Y khoa Donald Gordon, Đại học Witwatersrand, Johannesburg, Nam Phi. Tháng 3 năm 2018. Cập nhật nhỏ bởi Ian Coulson, Bác sĩ Da liễu. Biên tập bởi Gus Mitchell. Tháng 7 năm 2024.
+
+---
+
+## Viêm da tay là gì?
+
+Viêm da bàn tay là một rối loạn [chàm](https://dermnetnz.org/topics/dermatitis) cấp tính hoặc mãn tính phổ biến ảnh hưởng đến mặt mu bàn tay và lòng bàn tay do nhiều nguyên nhân khác nhau. [](https://dermnetnz.org/topics/dermatitis)
+Viêm da tay còn được gọi là bệnh chàm tay.
+![Viêm da lòng bàn tay](https://dermnetnz.org/assets/Uploads/dermatitis/palm-derm.jpg)
+![Chàm lòng bàn tay tăng sừng](https://dermnetnz.org/assets/collection-O/Hand-dermatitis/hand-dermatitis-00032.jpg)
+![Dày, khô và đóng vảy ở các ngón tay mu bàn tay](https://dermnetnz.org/assets/collection-O/Hand-dermatitis/hand-dermatitis-00022.jpg)
+[Xem thêm hình ảnh về bệnh viêm da bàn tay](https://dermnetnz-org.translate.goog/topics/hand-dermatitis-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp) .
+
+---
+
+## Ai bị viêm da tay?
+
+Viêm da bàn tay rất phổ biến, đặc biệt là ở phụ nữ trẻ tuổi, và chiếm 20–35% tổng số các dạng [viêm da](https://dermnetnz.org/topics/dermatitis) . Bệnh có thể xảy ra ở mọi lứa tuổi, kể cả thời thơ ấu. Bệnh đặc biệt phổ biến ở những người có tiền sử [viêm da cơ địa](https://dermnetnz.org/topics/atopic-dermatitis) . [xem thêm [Viêm da cơ địa ở bàn tay](https://dermnetnz.org/topics/atopic-hand-dermatitis) ]
+Viêm da tay mãn tính được ước tính ảnh hưởng đến 10–15% dân số và là nguyên nhân phổ biến khiến người ta phải nghỉ làm.
+Viêm da tay đặc biệt phổ biến trong các ngành công nghiệp liên quan đến công việc ướt hoặc tiếp xúc với hóa chất như vệ sinh, phục vụ ăn uống, kim loại, [làm tóc](https://dermnetnz.org/topics/skin-problems-in-hairdressers-and-barbers) , [chăm sóc sức khỏe](https://dermnetnz.org/topics/occupational-skin-disorders-in-medical-and-nursing-personnel) , [làm việc nhà](https://dermnetnz.org/topics/occupational-skin-disorders-in-homemakers) , xây dựng, sơn và [công việc cơ khí](https://dermnetnz.org/topics/skin-problems-in-motor-vehicle-repair-workers) . Điều này chủ yếu là do [tiếp xúc với các chất gây kích ứng , nhưng](https://dermnetnz.org/topics/irritant-contact-dermatitis) [dị ứng tiếp xúc](https://dermnetnz.org/topics/allergic-contact-dermatitis) cụ thể có thể góp phần gây ra [2].
+
+---
+
+## Nguyên nhân nào gây ra bệnh viêm da tay?
+
+Viêm da tay thường là kết quả của sự kết hợp nhiều nguyên nhân, bao gồm:
+- Yếu tố di truyền và chưa rõ (viêm da bàn tay do cơ địa)
+- Chấn thương ( [viêm da tiếp xúc kích ứng](https://dermnetnz.org/topics/irritant-contact-dermatitis) )
+- Phản ứng miễn dịch ( [viêm da tiếp xúc dị ứng](https://dermnetnz.org/topics/allergic-contact-dermatitis) ).
+Viêm da tay thường do công việc gây ra hoặc làm trầm trọng thêm và được gọi là [viêm da nghề nghiệp](https://dermnetnz.org/topics/occupational-skin-disease) .
+Các chất gây kích ứng bao gồm nước, chất tẩy rửa, dung môi, axit, kiềm, nhiệt độ lạnh, nhiệt độ cao, ma sát và bụi khô. Những chất này có thể làm tổn thương lớp sừng bên ngoài , loại bỏ lipid và làm rối loạn chức năng hàng rào bảo vệ da. ​​Mất nước và viêm nhiễm dẫn đến suy giảm chức năng hàng rào bảo vệ da.
+Trong [bệnh viêm da dị ứng](https://dermnetnz.org/cme/dermatitis/atopic-dermatitis) , sự thiếu hụt hoặc chức năng khiếm khuyết của protein filaggrin trong lớp sừng dẫn đến [rối loạn chức năng hàng rào](https://dermnetnz.org/topics/barrier-function-in-atopic-dermatitis) gây mất nước và dễ dàng bị các chất kích ứng và [chất gây dị ứng](https://dermnetnz.org/topics/contact-allergens) xâm nhập [3].
+[Dị ứng tiếp xúc](https://dermnetnz.org/topics/allergic-contact-dermatitis) là phản ứng quá mẫn chậm với các giai đoạn kích thích và ghi nhớ liên quan đến tế bào lympho T và giải phóng cytokine [2].
+
+---
+
+## Các đặc điểm lâm sàng của bệnh viêm da bàn tay là gì?
+
+Viêm da bàn tay có thể ảnh hưởng đến mu bàn tay, lòng bàn tay hoặc cả hai. Bệnh có thể rất ngứa, thường kèm theo cảm giác nóng rát và đôi khi gây đau. Bệnh có các giai đoạn cấp tính, tái phát và mãn tính.
+Viêm da bàn tay cấp tính biểu hiện bằng:
+- Các mảng đỏ , sẩn và mảng bám
+- Sưng tấy
+- Phồng rộp, chảy nước, đóng vảy
+- Nứt nẻ.
+Các đặc điểm của bệnh viêm da tay mãn tính bao gồm:
+- Khô và đóng vảy
+- Sự địa y hóa.
+Có nhiều nguyên nhân và biểu hiện lâm sàng khác nhau của bệnh viêm da bàn tay.
+![Vảy lan tỏa và mẩn đỏ ở lòng bàn tay do bệnh chàm](https://dermnetnz.org/assets/collection-O/Hand-dermatitis/hand-dermatitis-00020.jpg)
+![Viêm da tay bị nhiễm trùng](https://dermnetnz.org/assets/Uploads/infectderm2.jpg)
+![Viêm da bàn tay ở mu bàn tay của một bé trai bị dị ứng](https://dermnetnz.org/assets/Uploads/dermatitis/hand-dermatitis/2824.jpg)
+
+### Viêm da dị ứng ở tay
+[Viêm da cơ địa bàn tay](https://dermnetnz.org/topics/atopic-hand-dermatitis) là do chức năng hàng rào bảo vệ da bị suy giảm và khởi phát khi tiếp xúc với các chất kích ứng. Bệnh thường ảnh hưởng đến mu bàn tay và quanh cổ tay. Bệnh có thể biểu hiện dưới dạng chàm hình đĩa hoặc mụn nước . Bệnh nhân thường có các dấu hiệu viêm da cơ địa ở những vị trí khác, chẳng hạn như ở các nếp gấp.
+
+### Chàm hình đĩa
+[Chàm dạng đĩa](https://dermnetnz.org/topics/discoid-eczema) ( viêm da đồng xu ) có xu hướng ảnh hưởng đến bề mặt mu bàn tay và ngón tay dưới dạng các mảng giới hạn . Các vị trí khác trên cơ thể có thể bị ảnh hưởng hoặc không.
+
+### Viêm da mụn nước ở tay
+[Viêm da mụn nước ở tay](https://dermnetnz.org/topics/dyshidrotic-eczema) còn được gọi là pompholyx. Các mảng mụn nước màu da ngứa dữ dội xuất hiện ở lòng bàn tay, hai bên bàn tay và ngón tay. Các triệu chứng tương tự thường ảnh hưởng đến bàn chân. Dạng viêm da này có khả năng trở nên trầm trọng hơn do đổ mồ hôi quá nhiều ( [tăng tiết mồ hôi](https://dermnetnz.org/topics/hyperhidrosis) ) như trong thời tiết nóng và/hoặc ẩm ướt và khi căng thẳng về mặt cảm xúc.
+
+### Viêm da vảy mụn nước tái phát mãn tính
+Viêm da vảy mụn nước tái phát mãn tính là một dạng viêm da phổ biến ở lòng bàn tay và ngón tay, trong đó các đợt viêm da mụn nước cấp tính tiếp theo là tình trạng bong tróc và nứt nẻ mãn tính.
+
+### Viêm da bàn tay tăng sừng
+[Viêm da tăng sừng ở bàn tay](https://dermnetnz.org/topics/hyperkeratotic-palmar-dermatitis) là một dạng viêm da lòng bàn tay mạn tính, khô, không viêm . Nó có thể biểu hiện tương tự như [bệnh vẩy nến lòng bàn tay](https://dermnetnz.org/topics/psoriasis-of-the-palms-and-soles) nhưng ít đỏ hơn và ít được phân định rõ ràng hơn.
+
+### Viêm da đầu ngón tay
+[Viêm da đầu ngón tay](https://dermnetnz.org/topics/fingertip-dermatitis) có thể xảy ra ở một hoặc nhiều ngón tay.
+
+### Viêm da tiếp xúc kích ứng
+Bàn tay là vị trí phổ biến nhất của [viêm da tiếp xúc kích ứng](https://dermnetnz.org/topics/irritant-contact-dermatitis) và thường do công việc ẩm ướt và tiếp xúc nhiều lần với các chất kích ứng mức độ nhẹ. Lòng bàn tay là nơi đầu tiên bị ảnh hưởng, nhưng tình trạng viêm có thể lan đến ngón tay, mu bàn tay và cổ tay. Viêm da tiếp xúc kích ứng thường không ảnh hưởng đến lòng bàn tay.
+- [Viêm da tiếp xúc kích ứng](https://dermnetnz.org/topics/irritant-contact-dermatitis) cấp tính là do tổn thương do các chất kích ứng mạnh như axit và kiềm, thường xảy ra trong môi trường nghề nghiệp.
+- Tiếp xúc nhiều lần với các chất gây kích ứng mức độ thấp như nước, xà phòng và chất tẩy rửa sẽ dẫn đến viêm da kích ứng tích tụ mãn tính .
+
+### Viêm da tiếp xúc dị ứng
+[Viêm da tiếp xúc dị ứng](https://dermnetnz.org/topics/allergic-contact-dermatitis) có thể khó phân biệt với các dạng viêm da bàn tay thể tạng và viêm da tiếp xúc kích ứng. Có khoảng 30 [chất gây dị ứng](https://dermnetnz.org/topics/contact-allergens) phổ biến và vô số chất gây dị ứng hiếm gặp có thể ảnh hưởng đến bàn tay. Các chất gây dị ứng phổ biến bao gồm [niken](https://dermnetnz.org/topics/nickel-allergy) , [hương liệu](https://dermnetnz.org/topics/fragrance-mix-allergy) , [chất tăng tốc cao su](https://dermnetnz.org/topics/allergy-to-rubber-accelerators) và cromat (trong [găng tay](https://dermnetnz.org/topics/gloves-for-hand-protection) ), và [p-phenylenediamine](https://dermnetnz.org/topics/allergy-to-paraphenylenediamine) ( thuốc nhuộm tóc vĩnh viễn ). Các dấu hiệu dị ứng tiếp xúc phụ thuộc vào chất gây dị ứng , nhưng có thể bao gồm:
+- Các đợt bùng phát định kỳ liên quan đến một số nhiệm vụ hoặc địa điểm nhất định trước đó vài giờ đến vài ngày
+- Sự phân bố không đều, không đối xứng của phát ban
+- Đường viền sắc nét của vết phát ban (ví dụ, ở cổ tay, tương ứng với cổ găng tay cao su).
+
+---
+
+## Biến chứng của bệnh viêm da tay là gì?
+
+- [Nhiễm trùng da do vi khuẩn](https://dermnetnz.org/topics/bacterial-skin-infections) ( [tụ cầu](https://dermnetnz.org/topics/staphylococcal-skin-infection) và/hoặc [liên cầu](https://dermnetnz.org/topics/streptococcal-skin-infections) ) có thể gây ra mụn mủ , đóng vảy, đau và thậm chí là phù bạch huyết ở chân tay.
+- Viêm da ở đầu ngón tay có thể khiến móng tay bị biến dạng.
+- Viêm da có thể lan sang các vị trí khác, đặc biệt là cẳng tay và bàn chân.
+
+---
+
+## Viêm da tay được chẩn đoán như thế nào?
+
+Viêm da bàn tay thường dễ chẩn đoán và phân loại dựa trên tiền sử bệnh và khám lâm sàng, với các yếu tố sau:
+- Quá trình cấp tính, tái phát hoặc mãn tính
+- Tiền sử bệnh ngoài da
+- Viêm da ở các vị trí khác
+- Nghề nghiệp và sở thích.
+Tuy nhiên, việc xác định nguyên nhân gây viêm da tay có thể phức tạp vì nó có thể do nhiều yếu tố gây ra.
+Bệnh nhân bị viêm da tay mãn tính có thể cần phải [xét nghiệm miếng dán](https://dermnetnz.org/topics/patch-tests) để phát hiện chất gây dị ứng tiếp xúc.
+[Có thể cần phải sinh thiết bằng](https://dermnetnz.org/topics/skin-biopsy) kim và cạo da ( [nấm học](https://dermnetnz.org/cme/fungal-infections/mycology) ) để loại trừ các nguyên nhân khác gây viêm ở tay.
+
+---
+
+## Chẩn đoán phân biệt bệnh viêm da bàn tay là gì?
+
+- [Mề đay tiếp xúc](https://dermnetnz.org/topics/contact-urticaria) — ví dụ, với [găng tay cao su](https://dermnetnz.org/topics/latex-allergy) (thường gây đỏ, ngứa và sưng ngay lập tức nhưng sẽ hết trong vòng một giờ)
+- Viêm da tiếp xúc với protein, thường ảnh hưởng đến [người phục vụ ăn uống](https://dermnetnz.org/topics/skin-problems-in-food-handlers-and-the-catering-industry) (kết hợp giữa [nổi mề đay](https://dermnetnz.org/topics/urticaria-an-overview) và viêm da do phản ứng với thịt)
+- [Bệnh vẩy nến](https://dermnetnz.org/topics/psoriasis) ( mảng đối xứng , giới hạn rõ, màu đỏ, có vảy )
+- [Nấm da manuum](https://dermnetnz.org/topics/tinea-manuum) ( một bên hoặc không đối xứng, vảy ngoại biên ).
+![Áp dụng thử nghiệm vá ở lưng](https://dermnetnz.org/assets/Uploads/dermatitis/patch1.jpg)
+![Đọc các thử nghiệm vá - có một số kết quả dương tính](https://dermnetnz.org/assets/Uploads/dermatitis/patch2.jpg)
+![Phản ứng thử nghiệm vá dương tính](https://dermnetnz.org/assets/Uploads/dermatitis/patch3.jpg)
+
+---
+
+## Phương pháp điều trị viêm da tay là gì?
+
+Bệnh nhân mắc mọi dạng viêm da tay nên đặc biệt lưu ý:
+- Giảm thiểu tiếp xúc với chất gây kích ứng — ngay cả nước
+- [Sử dụng chất tẩy rửa](https://dermnetnz.org/topics/soaps-and-cleansers) không chứa xà phòng khi rửa tay, rửa sạch cẩn thận và đảm bảo tay khô hoàn toàn sau đó
+- Lưu ý rằng sữa rửa mặt dạng kem không có tác dụng kháng khuẩn ; cần phải rửa tay bằng xà phòng và nước hoặc chất khử trùng để tiêu diệt các tác nhân gây bệnh như vi-rút SARS-CoV-2 gây ra [COVID-19](https://dermnetnz.org/topics/covid-19)
+- Tránh hoàn toàn [các chất gây dị ứng](https://dermnetnz.org/topics/dermatitis/contact-allergens.html) đã được xác định bằng thử nghiệm vá
+- [Đeo găng tay bảo hộ](https://dermnetnz.org/topics/procedures/gloves-hand-protection.html) phù hợp với công việc [](https://dermnetnz.org/topics/procedures/gloves-hand-protection.html)
+- Thoa [kem làm mềm da](https://dermnetnz.org/topics/treatments/emollients.html) đặc trước khi đi làm/đi học và thoa lại sau khi rửa mặt hoặc khi da khô (có thể thoa từ 10–20 lần một ngày).
+Găng tay vinyl ít có khả năng gây ra phản ứng dị ứng hơn găng tay cao su.
+- Chúng phải được làm sạch kỹ lưỡng và không có lỗ.
+- Không nên đeo chúng trong thời gian dài.
+- Đổ mồ hôi dưới găng tay làm trầm trọng thêm tình trạng viêm da.
+- Găng tay lót hoặc găng tay cotton bên trong sẽ thoải mái hơn.
+- Găng tay cotton có thể hữu ích khi làm việc trong môi trường khô, khó chịu khi không cần dùng đến găng tay chống thấm nước bên ngoài.
+[Thuốc steroid bôi ngoài da](https://dermnetnz.org/topics/treatments/topical-steroids.html) có tác dụng giảm viêm.
+- Sử dụng steroid bôi ngoài da mạnh cho bệnh viêm da ở mu bàn tay và steroid bôi ngoài da cực mạnh cho lòng bàn tay.
+- Dạng kem thường tốt nhất cho bệnh viêm da mụn nước ở tay và dạng thuốc mỡ cho bệnh viêm da mãn tính.
+- Nên bôi thuốc vào vùng da bị viêm da hoạt động một hoặc hai lần mỗi ngày trong vài tuần, sau đó ngừng sử dụng hoặc giảm tần suất/hiệu lực.
+- Việc tắc nghẽn trong thời gian ngắn sẽ làm tăng hiệu lực và được bảo hành nếu các ứng dụng tiêu chuẩn không có hiệu quả.
+[Thuốc ức chế calcineurin](https://dermnetnz.org/cme/dermatitis/topical-calcineurin-inhibitors) ( [tacrolimus](https://dermnetnz.org/topics/tacrolimus) và [pimecrolimus](https://dermnetnz.org/topics/pimecrolimus) ) có một số bằng chứng cho thấy hiệu quả trong điều trị bệnh chàm tay và có thể được sử dụng như một tác nhân thay thế steroid [4].
+Delgocitinib là thuốc ức chế JAK dùng ngoài da đã được chứng minh là làm giảm các dấu hiệu và triệu chứng của bệnh chàm tay mãn tính. Thuốc đang chờ phê duyệt của NICE tại Anh. Một thử nghiệm so sánh delgocitinib dùng ngoài da với alitretinoin uống cho thấy thuốc dùng ngoài da hiệu quả hơn và ít tác dụng phụ hơn.
+[Alitretinoin](https://dermnetnz.org/topics/alitretinoin) đã được chấp thuận để điều trị bệnh viêm da tay dai dẳng ở một số quốc gia.
+[Nhiễm trùng thứ phát do vi khuẩn](https://dermnetnz.org/topics/wound-infections) có thể cần dùng kháng sinh đường uống, thường là [flucloxacillin](https://dermnetnz.org/topics/treatments/penicillin.html) .
+Các đợt bùng phát cấp tính nghiêm trọng của bệnh viêm da bàn tay được điều trị bằng thuốc prednisone uống ( [steroid toàn thân](https://dermnetnz.org/topics/treatments/systemic-steroids.html) ) trong thời gian ngắn từ 2–4 tuần.
+Viêm da tay mãn tính khó chữa có thể được điều trị bằng các thuốc điều trị bậc hai như [azathioprine](https://dermnetnz.org/topics/treatments/azathioprine.html) , [methotrexate](https://dermnetnz.org/topics/treatments/methotrexate.html) , [ciclosporin](https://dermnetnz.org/topics/treatments/cyclosporin.html) , [alitretinoin](https://dermnetnz.org/topics/treatments/alitretinoin.html) hoặc [liệu pháp quang trị liệu](https://dermnetnz.org/topics/procedures/phototherapy.html) .
+
+---
+
+## Làm thế nào để ngăn ngừa viêm da tay?
+
+[Viêm da tiếp xúc kích ứng](https://dermnetnz.org/topics/dermatitis/contact-irritant.html) tay có thể được ngăn ngừa bằng các biện pháp bảo vệ cẩn thận và điều trị tích cực. Điều rất quan trọng là những người bị [viêm da dị ứng](https://dermnetnz.org/topics/dermatitis/atopic.html) cần nhận thức được nguy cơ viêm da tay, đặc biệt là khi cân nhắc lựa chọn nghề nghiệp.
+
+---
+
+## Triển vọng của bệnh viêm da tay là gì?
+
+Nếu được chăm sóc cẩn thận, viêm da tay thường hồi phục hoàn toàn. Nghỉ làm vài ngày có thể hữu ích. Khi viêm da nghề nghiệp nghiêm trọng, có thể phải nghỉ làm trong nhiều tuần hoặc nhiều tháng. Đôi khi cần phải thay đổi nghề nghiệp.

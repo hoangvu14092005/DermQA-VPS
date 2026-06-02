@@ -1,0 +1,107 @@
+# Ban đỏ vòng ly tâm — thông tin bổ sung
+
+Thể loại:
+
+Bệnh toàn thân, Phát ban
+
+SNOMED CT:
+
+399914006
+
+**[Bệnh toàn thân, Phát ban](https://dermnetnz.org/topics/topics?category=Systemic+diseases)**
+
+
+# **Erythema annulare centrifugum**
+
+Tác giả: Tiến sĩ Karen Koch, Bác sĩ Da liễu, Bệnh viện Waikato, Hamilton, New Zealand. Tổng biên tập DermNet: Phó Giáo sư Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand. Biên tập bởi Gus Mitchell. Tháng 6 năm 2019.
+
+---
+
+## Ban đỏ vòng ly tâm là gì?
+
+Ban đỏ vòng ly tâm là dạng [ban đỏ vòng phản ứng](https://dermnetnz.org/topics/annular-erythema) mãn tính đặc trưng bởi các tổn thương ban đỏ , hình tròn, hình cung và đa vòng , với vảy mỏng đặc trưng ở phía sau mép tiến triển ('vảy kéo dài'). [](https://dermnetnz.org/topics/annular-erythema)
+![Erythema annulare centrifugum](https://dermnetnz.org/assets/Uploads/annular-erythema-01.jpg)
+![Ban đỏ hình khuyên](https://dermnetnz.org/assets/Uploads/annular-erythema-02.jpg)
+![Erythema annulare centrifugum](https://dermnetnz.org/assets/Uploads/annular-erythema-03.jpg)
+[Xem thêm hình ảnh của ban đỏ vòng ly tâm.](https://dermnetnz-org.translate.goog/topics/annular-erythema-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+
+---
+
+## Ai mắc bệnh ban đỏ vòng ly tâm?
+
+Ban đỏ vòng ly tâm thường gặp nhất ở người lớn, nhưng mọi lứa tuổi đều có thể bị ảnh hưởng. Độ tuổi khởi phát trung bình là 40 tuổi [1].
+
+---
+
+## Nguyên nhân gây ra ban đỏ vòng ly tâm là gì?
+
+Ban đỏ vòng ly tâm đã được chứng minh là xảy ra liên quan đến các tình trạng bệnh lý tiềm ẩn và thuốc trong 33–72% trường hợp [1,2]. Người ta cho rằng đây là một dạng [phản ứng quá mẫn](https://dermnetnz.org/topics/allergies-explained) .
+Các tình trạng liên quan phổ biến nhất là:
+- [Nhiễm nấm](https://dermnetnz.org/topics/fungal-skin-infections) da ( [tinea pedis](https://dermnetnz.org/topics/tinea-pedis) )
+- [Bệnh ác tính bên trong](https://dermnetnz.org/topics/cutaneous-markers-of-internal-malignancy)
+- [Phản ứng có hại với thuốc](https://dermnetnz.org/topics/drug-eruptions)
+- [Mang thai](https://dermnetnz.org/topics/skin-changes-in-pregnancy)
+- [Rối loạn huyết học](https://dermnetnz.org/topics/skin-manifestations-of-haematological-diseases)
+- Rối loạn nội tiết
+- [Bệnh thấp khớp](https://dermnetnz.org/topics/skin-signs-of-rheumatic-disease) .
+Nguyên nhân gây ban đỏ vòng ly tâm do chế độ ăn uống bao gồm phô mai xanh và cà chua. Căng thẳng cũng có liên quan đến bệnh này [1,3].
+
+---
+
+## Các đặc điểm lâm sàng của ban đỏ vòng ly tâm là gì?
+
+Ban đỏ vòng ly tâm thường ảnh hưởng đến đùi, mông và cánh tay trên. Tuy nhiên, bất kỳ vị trí nào trên cơ thể cũng có thể bị ảnh hưởng.
+Ban đỏ vòng ly tâm thường bắt đầu bằng một sẩn nhỏ màu hồng , dần dần phát triển trong vài tuần, tạo thành các mảng hình vòng với vùng trung tâm trong suốt. Các mảng này có thể có kích thước từ vài mm đến vài cm. Các tổn thương hình vòng có thể không hoàn toàn (hình vòng cung) và hợp nhất thành các dạng đa vòng (hình vòng), hình xoắn ốc (hình gợn sóng) và hình xoắn ốc (hình xoắn).
+Theo kinh điển, các tổn thương hình khuyên hoặc hình cung có rìa ngoài đỏ lan rộng với rìa trong có vảy . Phát ban có thể gây ngứa.
+
+---
+
+## Bệnh ban đỏ vòng ly tâm được chẩn đoán như thế nào?
+
+Đôi khi, hồng ban vòng ly tâm có thể được chẩn đoán chỉ dựa trên các triệu chứng lâm sàng nếu có vảy kéo dài đặc trưng. Chẩn đoán có thể được xác nhận bằng [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) , trong đó các triệu chứng điển hình của hồng ban vòng ly tâm nông hoặc sâu được ghi nhận: thâm nhiễm lympho bào quanh mạch máu dày đặc liên quan đến đám rối mạch máu nông hoặc sâu , được gọi là hình dạng "áo khoác". Những thay đổi thứ phát ở lớp biểu bì có thể bao gồm xốp hóa ( viêm phù nề gian bào ), cận sừng hóa (rối loạn quá trình sừng hóa ) và tăng sừng hóa (lớp ngoài của biểu bì dày lên) [2].
+Việc điều tra nguyên nhân tiềm ẩn nên được hướng dẫn dựa trên tiền sử bệnh và kết quả khám của bệnh nhân. Cần thực hiện sàng lọc ung thư phù hợp với độ tuổi và triệu chứng .
+Nên nộp mẫu móng chân và mẫu da cạo để [xét nghiệm nấm](https://dermnetnz.org/topics/mycology-of-dermatophyte-infections) nếu nghi ngờ bị [nấm móng](https://dermnetnz.org/topics/fungal-nail-infections) , [nấm chân](https://dermnetnz.org/topics/tinea-pedis) hoặc [nấm thân](https://dermnetnz.org/topics/tinea-corporis) .
+
+---
+
+## Chẩn đoán phân biệt bệnh ban đỏ vòng ly tâm là gì?
+
+Một số bệnh lý về da cần được xem xét trong chẩn đoán phân biệt ban đỏ vòng ly tâm. Các bệnh lý cần xem xét bao gồm các dạng [ban đỏ vòng](https://dermnetnz.org/topics/annular-erythema) khác :
+- Ban đỏ dai dẳng — một dạng phát ban cận ung thư liên quan đến bệnh ác tính tiềm ẩn trong đó có các vòng đồng tâm và xoáy
+- [Ban đỏ dạng vòng tròn](https://dermnetnz.org/topics/erythema-gyratum-repens) - một loại phát ban cận ung thư có hình dạng 'vân gỗ' điển hình từ các đường ban đỏ lan rộng nhanh chóng theo kiểu đồng tâm
+- [Ban đỏ di trú hoại tử —](https://dermnetnz.org/topics/necrolytic-migratory-erythema) phát ban đỏ hình nhẫn phồng rộp, xói mòn và đóng vảy theo thời gian; tình trạng này thường xảy ra do u glucagon tiềm ẩn (một khối u sản xuất glucagon phát triển ở các đảo Langerhans)
+- Ban đỏ vòng - phát ban xảy ra trong [bệnh sốt](https://dermnetnz.org/topics/rheumatic-fever) thấp khớp cấp tính ; thường biểu hiện dưới dạng các nốt hoặc sẩn màu hồng hoặc đỏ lan ra ngoài theo hình tròn có đường viền sắc nét [](https://dermnetnz.org/topics/rheumatic-fever)
+- [Ban đỏ đa dạng](https://dermnetnz.org/topics/erythema-multiforme) — tổn thương hình bia bắn ra ở mu bàn tay và mu bàn chân (nhưng có thể xuất hiện ở bất kỳ đâu); tổn thương bao gồm các dát màu hồng đỏ, ranh giới rõ, dần dần mở rộng thành mảng; phần trung tâm của tổn thương đổi màu hoặc trong suốt, tạo thành các vòng tròn
+- Ban đỏ di chuyển (giai đoạn đầu của [bệnh Lyme](https://dermnetnz.org/topics/lyme-disease) ) — một mảng da đỏ lan rộng bắt đầu từ vị trí bị ve cắn và dần dần lan rộng đến kích thước vài chục cm.
+Các rối loạn khác cần được xem xét bao gồm:
+- [Bệnh nấm da](https://dermnetnz.org/topics/tinea) ( [nhiễm nấm ngoài da](https://dermnetnz.org/topics/mycology-of-dermatophyte-infections) ) — tổn thương hình khuyên lan rộng dần, ngứa và có vảy với vùng trung tâm trong suốt
+- [U hạt vòng](https://dermnetnz.org/topics/granuloma-annulare) - một loại phát ban hình vòng có viền ban đỏ nhẵn, nhô lên, dai và trong suốt ở trung tâm
+- Ban đỏ dạng sẩn ly tâm — một tình trạng ngứa liên quan đến mồ hôi, trong đó các sẩn đỏ hình thành các cấu trúc hình khuyên và hình vòng lớn trên thân và chân tay
+- [Bệnh giang mai](https://dermnetnz.org/topics/syphilis) thứ phát — có thể biểu hiện bằng các mảng tròn và mảng đa vòng có vảy không ngứa
+- [Bệnh lupus ban đỏ da](https://dermnetnz.org/topics/cutaneous-lupus-erythematosus) , đặc biệt là lupus ban đỏ bán cấp và [lupus ban đỏ hệ thống](https://dermnetnz.org/topics/systemic-lupus-erythematosus) .
+Mảng vảy hình khuyên cũng thường gặp trong [bệnh chàm dạng đĩa](https://dermnetnz.org/topics/discoid-eczema) , [bệnh vẩy nến mảng mạn tính](https://dermnetnz.org/topics/chronic-plaque-psoriasis) , [viêm da tiết bã](https://dermnetnz.org/topics/seborrhoeic-dermatitis) , [bệnh vảy phấn hồng](https://dermnetnz.org/topics/pityriasis-rosea) , [bệnh rỗ sừng hóa](https://dermnetnz.org/topics/porokeratosis) và [bệnh sarcoidosis](https://dermnetnz.org/topics/sarcoidosis) .
+
+---
+
+## Phương pháp điều trị bệnh ban đỏ vòng ly tâm là gì?
+
+Điều cần thiết là phải xác định và điều trị nguyên nhân cơ bản gây ban đỏ vòng ly tâm nếu có thể, chẳng hạn như [nhiễm nấm](https://dermnetnz.org/topics/fungal-skin-infections) da .
+
+### Liệu pháp tại chỗ
+Các loại thuốc bôi ngoài da được sử dụng để điều trị ban đỏ vòng ly tâm bao gồm:
+- [Corticosteroid tại chỗ](https://dermnetnz.org/topics/topical-steroid)
+- [Thuốc ức chế calcineurin](https://dermnetnz.org/cme/dermatitis/topical-calcineurin-inhibitors) tại chỗ ( [tacrolimus](https://dermnetnz.org/topics/tacrolimus) và [pimecrolimus](https://dermnetnz.org/topics/pimecrolimus) ).
+
+### Liệu pháp toàn thân
+Thuốc toàn thân được sử dụng để điều trị nguyên nhân cơ bản của ban đỏ vòng ly tâm bao gồm:
+- [Fluconazole](https://dermnetnz.org/topics/fluconazole) [4]
+- Azithromycin [5]
+- [Erythromycin](https://dermnetnz.org/topics/erythromycin) [6]
+- [Metronidazol](https://dermnetnz.org/topics/metronidazole) [7].
+Etanercept [8] đã được báo cáo là có thể gây thuyên giảm trong trường hợp ban đỏ lan rộng hình vòng ly tâm.
+
+---
+
+## Kết quả của bệnh ban đỏ vòng ly tâm là gì?
+
+Ban đỏ vòng ly tâm có xu hướng tái phát trong vài tháng hoặc vài năm, nhưng có thể tự khỏi. Kim và cộng sự đã chứng minh rằng 18,5% số người bị ảnh hưởng có tổn thương da dai dẳng trên 1 năm và thời gian trung bình của các tổn thương da là 4,7 tháng [1].

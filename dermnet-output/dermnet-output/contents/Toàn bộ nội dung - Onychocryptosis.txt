@@ -1,0 +1,103 @@
+# Móng chân mọc ngược — thông tin bổ sung
+
+Thể loại:
+
+Thuật ngữ
+
+SNOMED CT:
+
+400097005, 400200009, 25055007, 275146006, 708803008
+
+**[Thuật ngữ](https://dermnetnz.org/topics/topics?category=Terminology)**
+
+
+# **Móng chân mọc ngược**
+
+Tác giả: Vanessa Ngan, Biên tập viên, 2005.
+
+---
+
+## Móng chân mọc ngược là gì?
+
+Móng chân mọc ngược là tình trạng đau ở ngón chân, xảy ra khi hai bên hoặc góc móng chân đâm vào da ở đầu hoặc bên cạnh ngón chân. Bệnh chủ yếu ảnh hưởng đến cạnh ngoài của ngón chân cái, mặc dù móng ở cả hai bên ngón chân, hoặc móng ở bất kỳ ngón chân nào, đều có thể bị mọc ngược.
+Móng chân mọc ngược còn được gọi là bệnh onychocryptosis.
+
+---
+
+## Nguyên nhân nào gây ra tình trạng móng chân mọc ngược?
+
+Nguyên nhân gây ra tình trạng móng chân mọc ngược được liệt kê dưới đây, nhưng hai lý do phổ biến nhất là giày không vừa chân và cắt móng không đúng cách.
+- Những đôi giày không vừa vặn như giày chật, giày cao gót và giày mũi nhọn khiến các ngón chân bị ép lại với nhau khiến móng quăn vào da và không thể phát triển bình thường.
+- Cắt móng chân không đúng cách có thể khiến mép hoặc góc móng đâm vào da. Móng chân nên được cắt ngang sao cho phần trên của móng tạo thành một đường thẳng.
+- Chấn thương gần móng chân như móng bị rách hoặc móng bị bong tróc ở mép có thể gây ra tình trạng móng chân mọc ngược.
+- [Nhiễm trùng nấm móng](https://dermnetnz.org/topics/fungal-nail-infections) có thể khiến móng chân dày lên hoặc rộng ra .
+- Thuốc theo toa, đặc biệt là thuốc retinoid đường uống như [isotretinoin](https://dermnetnz.org/topics/isotretinoin) và [acitretin](https://dermnetnz.org/topics/acitretin) .
+- Hình dạng móng bất thường, chẳng hạn như móng tay hình kẹp hoặc móng tay hình kèn.
+
+---
+
+## Dấu hiệu và triệu chứng của móng chân mọc ngược là gì?
+
+Móng chân mọc ngược có thể được phân loại thành ba giai đoạn tùy theo mức độ nghiêm trọng.
+Giai đoạn 1
+- Đầu ngón chân trở nên đỏ và sưng nhẹ
+- Có thể cảm thấy ấm và đau khi chạm vào
+- Không có mủ hoặc dịch tiết
+Giai đoạn 2
+- Ngón chân ngày càng đỏ, sưng và đau
+- Có thể có mủ hoặc dịch tiết màu trắng hoặc vàng từ khu vực đó
+- Nhiễm trùng có thể đã phát triển
+Giai đoạn 3
+- Các triệu chứng đỏ, sưng và đau tăng lên
+- Mô hạt hình thành và làm tăng thêm tình trạng sưng tấy và chảy mủ
+- Phì đại nếp gấp móng bên (sự phát triển quá mức của mô da xung quanh ngón chân bị ảnh hưởng)
+- Nhiễm trùng nặng hơn có thể kèm theo sốt
+![Móng chân mọc ngược](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/s/ingrown-toenail1.jpg)
+![Móng chân mọc ngược](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/s/ingrown-toenail2.jpg)
+![Móng chân mọc ngược](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/ingrown-toenail3.jpg)
+
+### Móng chân giả mọc ngược ở trẻ sơ sinh
+Khoảng 2% trẻ sơ sinh được ghi nhận có móng chân mọc ngược lúc mới sinh do phiến móng đang phát triển rất ngắn. Tình trạng này hiếm khi gây đau đớn. Tình trạng này sẽ tự khỏi trong vòng một năm hoặc lâu hơn.
+![Sự lệch lạc bẩm sinh của móng chân cái ở trẻ mới biết đi](https://dermnetnz.org/assets/collection/Congenital-malalignment-of-the-great-toenail/congenital-malalignment-of-the-great-toenail-0003.jpg)
+
+---
+
+## Phương pháp điều trị móng chân mọc ngược là gì?
+
+Việc điều trị phụ thuộc vào giai đoạn bệnh. Tuy nhiên, ở bất kỳ giai đoạn nào của tình trạng móng mọc ngược, bệnh nhân nên tránh mang giày chật hoặc giày cao gót. Nếu có thể, hãy mang dép cho đến khi tình trạng khỏi hẳn.
+Móng chân mọc ngược giai đoạn 1 cần được điều trị bảo tồn bằng các phương pháp sau.
+- Ngâm nước ấm – ngâm chân trong nước ấm bốn lần một ngày.
+- Rửa chân, bao gồm cả vùng bị ảnh hưởng, hai lần một ngày bằng xà phòng và nước.
+- Chèn bông gòn vào góc rãnh bên – nhẹ nhàng nhấc cạnh móng đang đâm vào da và đặt một miếng bông gòn cuộn nhỏ, gạc, băng nha khoa hoặc chỉ nha khoa, giữa móng và da để giữ móng nâng lên. Thao tác này có thể gây đau nhưng nên thực hiện sau mỗi lần ngâm.
+Móng chân mọc ngược giai đoạn 2 có thể cần dùng [kháng sinh](https://dermnetnz.org/topics/antibiotics) tại chỗ hoặc uống . Thuốc mỡ kháng sinh tại chỗ kết hợp với thuốc gây tê tại chỗ giúp ngón chân mau lành hơn và cũng giúp giảm đau bằng cách làm tê vùng bị ảnh hưởng. Phẫu thuật cắt bỏ móng chân mọc ngược có thể được yêu cầu nếu tình trạng trở nên nghiêm trọng hơn. [](https://dermnetnz.org/topics/antibiotics)
+Móng chân mọc ngược giai đoạn 3 thường được điều trị bằng phẫu thuật. Kỹ thuật phẫu thuật cắt bỏ móng bên kết hợp cắt bỏ ma trận móng rất thành công. Mô tả ngắn gọn về quy trình này được trình bày dưới đây.
+- [Gây tê tại chỗ](https://dermnetnz.org/topics/local-anaesthesia) bằng vòng gây tê để làm tê ngón chân bị ảnh hưởng.
+- Bất kỳ mủ nào cũng sẽ được dẫn lưu ra khỏi đầu ngón chân.
+- Móng chân mọc ngược sẽ được cắt bỏ để tạo ra một cạnh móng mới thẳng.
+- Đốt điện hoặc cắt bỏ bằng phenol được sử dụng để phá hủy bất kỳ tế bào nào bên dưới vùng móng đã cắt ra để ngăn ngừa móng không mong muốn mọc lại.
+- Bất kỳ mô hạt hoặc mô phì đại quá mức nào cũng cần được loại bỏ.
+- Có thể bôi thuốc mỡ kháng sinh và băng bó ngón chân cho đến khi lành hẳn (thường là trong vòng vài tuần).
+Các quy trình hậu phẫu sau đây cần được thực hiện:
+- Vào ngày thứ hai, tháo băng và rửa vùng bị thương bằng xà phòng và nước.
+- Lau khô nhẹ nhàng vùng da bị thương và bôi lại thuốc mỡ kháng sinh nếu được kê đơn, đồng thời thay băng mới một hoặc hai lần mỗi ngày trong ít nhất một tuần sau phẫu thuật.
+- Có thể dùng Paracetamol hoặc các thuốc giảm đau khác theo khuyến cáo hoặc chỉ định của bác sĩ để giảm đau.
+- Cố gắng giữ ngón chân sạch sẽ và khô ráo. Không đi bơi, tắm bồn hoặc ngâm ngón chân trong ít nhất hai tuần sau phẫu thuật. Có thể tắm vòi sen.
+- Tránh chạy, nhảy hoặc bất kỳ hoạt động mạnh nào trong vòng hai tuần sau phẫu thuật.
+- Hãy gọi cho bác sĩ nếu bạn cảm thấy đau, sưng, đỏ hoặc chảy dịch ở ngón chân ngày càng tăng.
+
+---
+
+## Phương pháp điều trị khác cho móng chân mọc ngược
+
+Móng chân mọc ngược cũng có thể được điều trị bằng cách dùng ống nhựa có rãnh để giữ móng, và phần móng bên sẽ được gấp lại. Chúng được giữ cố định bằng băng dính hoặc keo dán acrylic. Móng giả có thể được tạo hình bằng dung dịch acrylic có thể định hình.
+[Nhổ móng](https://dermnetnz.org/topics/medical-nail-avulsion) bằng hóa chất hoặc y tế là một phương pháp chậm rãi, không đau để loại bỏ móng bị hư. Vì quá trình này phá hủy toàn bộ móng, phương pháp này hiếm khi được sử dụng để điều trị móng mọc ngược.
+Các thủ thuật phẫu thuật thay thế được mô tả, ví dụ, loại bỏ mô mềm xung quanh và cắt ngắn xương đốt ngón xa .
+
+---
+
+## Có thể ngăn ngừa tình trạng móng chân mọc ngược không?
+
+Tuân thủ các quy tắc đơn giản sau đây có thể dễ dàng ngăn ngừa tình trạng móng chân mọc ngược:
+- Cắt móng chân theo đường thẳng – không cắt quá ngắn và không bo tròn các cạnh.
+- Mang giày vừa vặn.
+- Giữ chân sạch sẽ và khô ráo.

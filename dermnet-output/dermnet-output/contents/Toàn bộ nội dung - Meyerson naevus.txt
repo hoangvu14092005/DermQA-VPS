@@ -1,0 +1,55 @@
+# Bớt Meyerson — thông tin bổ sung
+
+Thể loại:
+
+Tổn thương (lành tính), Chàm
+
+SNOMED CT:
+
+254803001
+
+**[Tổn thương (lành tính), Chàm](https://dermnetnz.org/topics/topics?category=Lesions+(benign))**
+
+
+# **Bớt Meyerson**
+
+Tác giả: Vanessa Ngan, Biên tập viên, 2006.
+
+---
+
+## Nốt ruồi Meyerson là gì?
+
+Nốt ruồi Meyerson là [nốt ruồi](https://dermnetnz.org/topics/melanocytic-naevus) được bao quanh bởi bệnh chàm (một loại phát ban ngứa còn được gọi là [viêm da](https://dermnetnz.org/topics/dermatitis) ). Nốt ruồi được gọi chính xác hơn là nốt ruồi hắc tố lành tính .
+Meyerson lần đầu tiên mô tả tình trạng này vào năm 1971, khi ông ghi nhận 2 người đàn ông bị nốt ruồi hắc tố lành tính bao quanh bởi bệnh chàm. Nốt ruồi Meyerson còn được gọi là viêm da quầng, chàm quầng và hiện tượng Meyerson.
+![Bớt Meyerson](https://dermnetnz.org/assets/Uploads/lesions/meyerson1.jpg)
+![Bớt Meyerson](https://dermnetnz.org/assets/Uploads/lesions/meyerson2.jpg)
+
+---
+
+## Ai mắc bệnh nốt ruồi Meyerson?
+
+Bớt Meyerson dường như thường gặp hơn ở nam giới trẻ tuổi (trung bình 30 tuổi). Tỷ lệ mắc bệnh ở nam giới cao gấp gần ba lần so với nữ giới. Bớt Meyerson có thể cùng tồn tại với [bớt halo](https://dermnetnz.org/topics/halo-naevus) . Bớt này cũng có thể xảy ra ở những bệnh nhân bị chàm hoặc các bệnh dị ứng khác (như hen suyễn và sốt cỏ khô ). Tuy nhiên, nó thường xảy ra ở những người khỏe mạnh không có bệnh lý nền nào trước đó.
+
+---
+
+## Nguyên nhân gây ra nốt ruồi Meyerson là gì?
+
+Nguyên nhân gây ra nốt ruồi Meyerson vẫn chưa được biết rõ. Mẫu [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) cho thấy tình trạng viêm da khá giống với tình trạng viêm da ở bệnh vẩy nến và bệnh chàm.
+Việc cắt bỏ nốt ruồi trung tâm sẽ giúp giải quyết phản ứng chàm , điều này cho thấy nốt ruồi chính là nguyên nhân gây ra phản ứng này. Nó có thể là kết quả của việc các tế bào miễn dịch ( tế bào lympho CD4+ ) phản ứng với các kháng nguyên đích trên bề mặt tế bào nốt ruồi (đây là tế bào hắc tố ).
+Các yếu tố được phát hiện có thể gây ra nốt ruồi Meyerson bao gồm:
+- Tiếp xúc với tia cực tím (trong một trường hợp, tổn thương viêm da quầng xuất hiện vài tuần sau khi bệnh nhân bị [cháy nắng](https://dermnetnz.org/topics/sunburn) nghiêm trọng ) [](https://dermnetnz.org/topics/sunburn)
+- Interferon-alfa-2b (tổn thương phát triển ở bệnh nhân mắc [bệnh Behcet](https://dermnetnz.org/topics/behcet-disease) được điều trị bằng thuốc này)
+
+---
+
+## Dấu hiệu và triệu chứng của nốt ruồi Meyerson là gì?
+
+Bớt Meyerson thường phát triển thành một mảng ngứa đơn lẻ , nhưng cũng đã có báo cáo về nhiều tổn thương xuất hiện cùng lúc. Bớt Meyerson bao gồm một bớt nằm ở trung tâm, có viền đều và màu sắc đồng nhất. Bớt này được bao quanh bởi một vùng phát ban đỏ, khô hoặc phồng rộp, có thể ngứa hoặc không ngứa. Bớt (nốt ruồi) ở trung tâm quầng sáng hiếm khi là ung thư ( [u hắc tố](https://dermnetnz.org/topics/melanoma) ).
+Nốt ruồi Meyerson đôi khi bị nhầm lẫn với nốt [ruồi quầng](https://dermnetnz.org/topics/halo-naevus) (nốt ruồi Sutton). Sự khác biệt chính giữa hai tổn thương này nằm ở nốt ruồi trung tâm. Tổn thương ở trung tâm của nốt ruồi Meyerson không bao giờ thay đổi hoặc mờ đi ngay cả khi chàm xung quanh đã khỏi. Ngược lại, nốt ruồi trung tâm của nốt ruồi quầng thường mờ dần màu sắc và cuối cùng biến mất hoàn toàn.
+
+---
+
+## Phương pháp điều trị bệnh nốt ruồi Meyerson là gì?
+
+Chàm quanh nốt ruồi Meyerson thường tự khỏi trong vòng vài tuần. Tuy nhiên, nếu cần, có thể điều trị bằng kem hoặc thuốc mỡ [corticosteroid bôi ngoài da](https://dermnetnz.org/topics/topical-steroid) trong vài ngày hoặc vài tuần.
+Nốt ruồi trung tâm vẫn giữ nguyên. Vì nốt ruồi vô hại nên không cần phải cắt bỏ. Phẫu thuật [cắt bỏ](https://dermnetnz.org/topics/excision-of-skin-lesions) có thể được chỉ định nếu nghi ngờ tổn thương là u hắc tố , hoặc nếu các triệu chứng gây khó chịu.

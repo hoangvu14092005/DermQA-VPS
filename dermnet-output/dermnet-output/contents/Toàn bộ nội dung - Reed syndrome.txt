@@ -1,0 +1,65 @@
+# Hội chứng ung thư tế bào thận và bệnh u cơ trơn di truyền — thông tin bổ sung
+
+Thể loại:
+
+Tổn thương (ung thư)
+
+SNOMED CT:
+
+254767008, 95315005, 702391001
+
+**[Tổn thương (ung thư)](https://dermnetnz.org/topics/topics?category=Lesions+(cancerous))**
+
+
+# **Hội chứng ung thư tế bào thận và u cơ trơn di truyền**
+
+Tác giả: Tiến sĩ Ben Tallon, Bác sĩ da liễu, Bệnh viện Greenlane, Auckland, New Zealand, 2008.
+
+---
+
+## Hội chứng ung thư tế bào thận và u cơ trơn di truyền là gì?
+
+Hội chứng ung thư tế bào thận và u cơ trơn di truyền là một tình trạng hiếm gặp, được chính thức công nhận lần đầu tiên vào năm 2001. Hiện nay, bệnh được báo cáo ảnh hưởng đến hơn 105 gia đình trên toàn thế giới. Các đặc điểm của hội chứng bao gồm:
+- [U cơ trơn da](https://dermnetnz.org/topics/leiomyoma)
+- U cơ trơn tử cung
+- U cơ trơn tử cung
+- Ung thư tế bào thận
+Hội chứng ung thư tế bào thận và u cơ trơn di truyền còn được gọi là hội chứng Reed, u cơ trơn da và tử cung đa dạng loại 1, và u cơ trơn di truyền và ung thư biểu mô tế bào thận.
+![U cơ trơn da](https://dermnetnz.org/assets/Uploads/leiomyomatosis-4.jpg)
+![U cơ trơn da](https://dermnetnz.org/assets/Uploads/leiomyomatosis-3.jpg)
+![U cơ trơn da](https://dermnetnz.org/assets/Uploads/leiomyomatosis-2.jpg)
+
+---
+
+## Đặc điểm lâm sàng của bệnh u cơ trơn di truyền và hội chứng ung thư tế bào thận là gì?
+
+
+### U cơ trơn da
+[U cơ trơn da (piloleiomyoma)](https://dermnetnz.org/topics/leiomyoma) hay u cơ trơn lông [(piloleiomyoma)](https://dermnetnz.org/topics/leiomyoma) xuất hiện dưới dạng các nốt nhỏ (0,5–2 cm) chắc màu da . Chúng xuất phát từ các cơ dựng lông , chịu trách nhiệm làm cho lông dựng đứng. Nhiều tổn thương có thể phát triển , thường thành từng cụm và thường phân bố theo từng đoạn . Những nốt này lành tính , do đó chỉ đáng lo ngại vì hình dạng hoặc xu hướng đau khi gõ.
+Đôi khi, nhiều [khối u cơ trơn da](https://dermnetnz.org/topics/leiomyoma) cũng có thể xuất hiện liên quan đến [hội chứng Gardner](https://dermnetnz.org/topics/gardner-syndrome) , [nhiễm HIV](https://dermnetnz.org/topics/skin-conditions-relating-to-hiv-infection) , bệnh bạch cầu lymphocytic mãn tính và bệnh đa hồng cầu.
+
+### U cơ trơn tử cung
+U cơ trơn tử cung còn được gọi là u xơ và là khối u tiền mãn kinh phổ biến nhất ở phụ nữ. Trong hội chứng u cơ trơn di truyền và ung thư tế bào thận, u xơ xuất hiện sớm hơn bình thường, thường lớn hơn và dễ gây chảy máu và đau khi hành kinh. Mặc dù phần lớn là lành tính, nhưng nguy cơ phát triển thành ác tính (u cơ trơn) cao hơn , và một số u có vẻ bất thường khi nhìn dưới kính hiển vi.
+
+### Ung thư tế bào thận
+Ung thư biểu mô tế bào thận là đặc điểm đáng lo ngại nhất của bệnh u cơ trơn di truyền và hội chứng ung thư biểu mô tế bào thận, mặc dù điều này không xảy ra ở tất cả những người mắc bệnh. Người ta cho rằng chỉ một số đột biến có liên quan đến sự phát triển của ung thư biểu mô tế bào thận. Đáng tiếc là, ung thư biểu mô tế bào thận phát triển trong hội chứng này thường có tính chất xâm lấn và xuất hiện ở độ tuổi sớm. Về mặt mô học, chúng thuộc loại nhú týp 2. Không giống như các hội chứng ung thư biểu mô tế bào thận khác (xem hội chứng von Hippel Lindau và [hội chứng Birt-Hogg-Dubé](https://dermnetnz.org/topics/birt-hogg-dube-syndrome) ), chúng thường chỉ xuất hiện ở một bên và đơn độc.
+
+---
+
+## Nguyên nhân gây ra bệnh u cơ trơn di truyền và hội chứng ung thư tế bào thận là gì?
+
+Gen chịu trách nhiệm cho bệnh u cơ trơn di truyền và hội chứng ung thư tế bào thận đã được xác định là gen fumarate hydratase. Gen này được cho là có chức năng ức chế khối u. Enzym fumarate hydratase hoạt động trong con đường năng lượng tế bào gọi là chu trình Krebs. Cơ chế gây ra các triệu chứng lâm sàng của gen này vẫn chưa được hiểu rõ hoàn toàn.
+Người ta biết rằng có nhiều đột biến ở gen này, tất cả đều dẫn đến hội chứng này được di truyền theo kiểu trội trên nhiễm sắc thể thường . Điều đó có nghĩa là một cá nhân bị ảnh hưởng có thể truyền bệnh cho khoảng một nửa số con trai và con gái của mình. Việc tham khảo ý kiến ​​chuyên gia di truyền học có thể là điều nên làm do tầm quan trọng của việc tham gia của các thành viên khác trong gia đình.
+
+---
+
+## Phương pháp điều trị hội chứng này là gì?
+
+Không có cách nào để sửa chữa đột biến gen. Việc điều trị tập trung vào việc phát hiện và ngăn ngừa ung thư.
+Lời khuyên hiện tại là nên chụp hình ảnh thận thường xuyên. Có ý kiến ​​cho rằng khối u thận trong hội chứng này không được phát hiện sớm trên siêu âm , do đó thường cần chụp MRI .
+Phụ nữ bị ảnh hưởng nên đi khám phụ khoa, đặc biệt nếu bị chảy máu nhiều hoặc đau bụng kinh. Nếu u xơ tử cung lớn, có thể cần phải cắt bỏ vì lý do triệu chứng. Nên khuyến khích tầm soát ung thư tử cung định kỳ. Sau khi sinh con xong, có thể cân nhắc phẫu thuật cắt bỏ tử cung để giảm nguy cơ ung thư tử cung.
+Vì hội chứng ung thư tế bào thận và u cơ trơn di truyền là bệnh di truyền, điều quan trọng là tất cả các thành viên trong gia đình đều được thông báo và được bác sĩ chuyên khoa trong lĩnh vực này thăm khám. Xét nghiệm di truyền có thể được thực hiện bằng mẫu DNA đơn giản (máu hoặc phết tế bào má ).
+Một số trường hợp có thể cần điều trị cơn đau do u cơ trơn da. Các phương pháp sau đây được báo cáo là có hiệu quả:
+- Thuốc chẹn kênh canxi, đặc biệt là nifedipine
+- Thuốc chẹn thụ thể alpha-adrenergic, phenoxybenzamine
+- Thuốc Gabapentin.

@@ -1,0 +1,124 @@
+# U xơ mạch — thông tin bổ sung
+
+Thể loại:
+
+Các vấn đề về mạch máu
+
+SNOMED CT:
+
+302857002, 36025004, 254744006, 110985001, 308006, 400132000
+
+**[Các vấn đề về mạch máu](https://dermnetnz.org/topics/topics?category=Blood+vessel+problems)**
+
+
+# **U xơ mạch**
+
+Tác giả: Claire Jordan Wiggins, Riyad NH Seervai, Sinh viên Y khoa, Trường Y Baylor, Houston, Texas, Hoa Kỳ. Tổng biên tập DermNet: Phó Giáo sư Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand. Biên tập bởi Gus Mitchell. Tháng 4 năm 2020.
+
+---
+
+## U xơ mạch là gì?
+
+U xơ mạch da là khối u mạch máu lành tính bao gồm mô xơ da và mạch máu.
+U xơ mạch được phân loại theo mối liên quan với rối loạn di truyền hoặc theo vị trí cơ thể [1].
+
+---
+
+## Ai mắc bệnh u xơ mạch?
+
+U xơ mạch máu có liên quan đến các rối loạn di truyền sau:
+- [Bệnh xơ củ](https://dermnetnz.org/topics/tuberous-sclerosis)
+- [Hội chứng Birt-Hogg-Dubé](https://dermnetnz.org/topics/birt-hogg-dube-syndrome)
+- Bệnh tân sinh nội tiết đa dạng loại 1 (MEN-1).
+U xơ mạch máu thường gặp hơn.
+
+### Bệnh xơ củ
+[Xơ cứng củ](https://dermnetnz.org/topics/tuberous-sclerosis) là một hội chứng di truyền trội trên nhiễm sắc thể thường , trong đó u xơ mạch máu xuất hiện ở nếp gấp mũi má và giữa mặt từ thời thơ ấu [2]. Bệnh nhân mắc bệnh xơ cứng củ thường phát triển thành u xơ miệng hoặc u xơ mạch máu quanh móng ( u Koenen ) theo thời gian [1]. U xơ mạch máu mặt liên quan đến bệnh xơ cứng củ còn được gọi là u tuyến bã nhờn , u xơ mạch máu trẻ em và u Pringle.
+![U xơ mạch trong bệnh xơ cứng củ](https://dermnetnz.org/assets/Uploads/systemic/angiofibromas-19.jpg)
+![U xơ mạch trong bệnh xơ cứng củ](https://dermnetnz.org/assets/Uploads/facial-angiofibromas-19.jpg)
+![U xơ mạch trong bệnh xơ cứng củ](https://dermnetnz.org/assets/Uploads/systemic/tuberous-sclerosis09.jpg)
+
+### Hội chứng Birt-Hogg-Dubé
+U xơ mạch mặt đã được báo cáo trong [hội chứng Birt-Hogg-Dubé](https://dermnetnz.org/topics/birt-hogg-dube-syndrome) , một bệnh da di truyền hiếm gặp đặc trưng bởi khối u da và thận , cũng như tràn khí màng phổi tự phát [3]. Tuy nhiên, hầu hết các tổn thương trên da là u xơ nang lông, là những khối u bất thường ở nang lông .
+
+### Bệnh tân sinh nội tiết đa dạng loại 1
+Bệnh tân sinh nội tiết đa dạng loại 1 là hội chứng di truyền dẫn đến khối u ở một số cơ quan nội tiết [1].
+
+### U xơ mạch mắc phải
+U xơ mạch cũng có thể mắc phải và không liên quan đến hội chứng di truyền, thường ở dạng:
+- [Sẩn xơ](https://dermnetnz.org/topics/fibrous-papule-of-the-nose) ở mũi/mặt
+- [Sẩn ngọc dương vật](https://dermnetnz.org/topics/pearly-penile-papules) .
+Sẩn xơ thường xuất hiện ở người lớn dưới dạng tổn thương đơn độc , thường ở mũi, thường bị nhầm lẫn với [ung thư biểu mô tế bào đáy](https://dermnetnz.org/topics/basal-cell-carcinoma) hoặc [nốt ruồi hắc tố](https://dermnetnz.org/topics/atypical-melanocytic-naevus) . Người ta cho rằng đây là một dạng nốt ruồi ở da.
+Nhiều sẩn ngọc dương vật xuất hiện ở 10–30% nam giới trưởng thành ở rìa và rãnh quy đầu. Chúng có thể bị nhầm lẫn với [mụn cóc do virus](https://dermnetnz.org/topics/viral-wart) [1,2].
+![Sẩn xơ](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/fibrous-papule.jpg)
+![Sẩn xơ ở mũi](https://dermnetnz.org/assets/Uploads/lesions/fibrous-papule2.jpg)
+![Sẩn xơ ở mũi](https://dermnetnz.org/assets/Uploads/lesions/fibrous-papule1.jpg)
+Xem [hình ảnh sẩn ngọc dương vật](https://dermnetnz-org.translate.goog/topics/pearly-penile-papules-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp) .
+
+---
+
+## Nguyên nhân nào gây ra u xơ mạch?
+
+U xơ mạch máu là tình trạng phát triển quá mức tại chỗ của collagen , nguyên bào sợi và mạch máu.
+- Trong [bệnh xơ cứng củ](https://dermnetnz.org/topics/tuberous-sclerosis) , đột biến xuất hiện ở phức hợp xơ cứng củ 1 (TSC1), mã hóa protein hamartin, và phức hợp xơ cứng củ 2 (TSC2) mã hóa protein tuberin.
+- [Hội chứng Birt-Hogg-Dubé](https://dermnetnz.org/topics/birt-hogg-dube-syndrome) là do gen FLCN đột biến , mã hóa protein folliculin [3].
+- Bệnh tân sinh nội tiết đa dạng loại 1 là kết quả của đột biến ở gen MEN1 sản xuất ra protein menin [1].
+[Khảm](https://dermnetnz.org/topics/cutaneous-mosaicism) di truyền đối với các tình trạng di truyền này cũng phải được xem xét [4]. Nguyên nhân cụ thể gây ra sự phát triển của u xơ mạch vẫn chưa được biết rõ.
+
+---
+
+## Các đặc điểm lâm sàng của u xơ mạch là gì?
+
+U xơ mạch là một sẩn hình vòm, chắc, màu da, đường kính dưới 5 mm. Có thể nhìn thấy các mao mạch nhỏ trên bề mặt tổn thương.
+- U mạch máu trên mặt liên quan đến hội chứng di truyền thường xuất hiện thành từng cụm ở vùng hình cánh bướm trên khuôn mặt.
+- Sẩn [xơ](https://dermnetnz.org/topics/fibrous-papule-of-the-nose) ở mặt thường là tổn thương đơn độc nằm ở mũi ở người lớn.
+- [Sẩn ngọc trai ở dương vật](https://dermnetnz.org/topics/pearly-penile-papules) là những sẩn màu da hoặc màu trắng có kích thước 1–3 mm xếp thành hàng dọc theo rìa dương vật [5].
+
+---
+
+## Biến chứng của u xơ mạch là gì?
+
+U xơ mạch có thể gây ngứa và cũng có thể chảy máu. Những trường hợp liên quan đến hội chứng di truyền có thể gây biến dạng khuôn mặt và kỳ thị [1]. Xem [Các yếu tố tâm lý xã hội trong da liễu](https://dermnetnz.org/topics/psychosocial-factors-in-dermatology) .
+
+---
+
+## U xơ mạch được chẩn đoán như thế nào?
+
+Chẩn đoán u xơ mạch có thể được thực hiện lâm sàng hoặc sau khi [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) . [Mô bệnh học của u xơ mạch](https://dermnetnz.org/topics/angiofibroma-pathology) cho thấy hình ảnh "da hành tây" xung quanh mạch máu và nang lông, tăng sừng và tăng sinh mạch máu [5].
+Nếu nghi ngờ có tình trạng di truyền tiềm ẩn, cần phải sàng lọc và đánh giá di truyền phù hợp [1].
+
+---
+
+## Chẩn đoán phân biệt u xơ mạch là gì?
+
+Chẩn đoán phân biệt u xơ mạch phụ thuộc vào vị trí của nó [1].
+Chẩn đoán phân biệt đối với các tổn thương trên khuôn mặt có thể giống với u xơ mạch có thể bao gồm:
+- [Nốt ruồi hắc tố](https://dermnetnz.org/topics/melanocytic-naevi-pathology) trong da [](https://dermnetnz.org/topics/melanocytic-naevi-pathology)
+- [Mụn trứng cá](https://dermnetnz.org/topics/acne)
+- [Ung thư biểu mô tế bào đáy](https://dermnetnz.org/topics/basal-cell-carcinoma)
+Chẩn đoán phân biệt đối với các tổn thương quanh móng có thể giống u xơ mạch có thể bao gồm:
+- [Mụn cóc do virus](https://dermnetnz.org/topics/viral-wart)
+- [U xương dưới móng](https://dermnetnz.org/topics/subungual-exostosis) .
+Chẩn đoán phân biệt đối với các tổn thương dương vật có thể giống u xơ mạch có thể bao gồm:
+- [U mềm lây](https://dermnetnz.org/topics/molluscum-contagiosum)
+- [Mụn cóc hậu môn sinh dục](https://dermnetnz.org/topics/anogenital-warts) .
+
+---
+
+## Phương pháp điều trị u xơ mạch là gì?
+
+U xơ mạch là lành tính và không phải lúc nào cũng cần phải cắt bỏ. Các lựa chọn điều trị u xơ mạch bao gồm:
+- [Cắt bỏ](https://dermnetnz.org/topics/excision-of-skin-lesions)
+- [Mài mòn da](https://dermnetnz.org/topics/dermabrasion)
+- Sử dụng [các thiết bị laser, điện và tần số vô tuyến](https://dermnetnz.org/topics/lasers-electrical-and-radiofrequency-devices)
+- [Liệu pháp lạnh](https://dermnetnz.org/topics/cryotherapy)
+- Thuốc bôi ngoài da [podophyllotoxin](https://dermnetnz.org/topics/podophyllotoxin)
+- [Rapamycin](https://dermnetnz.org/topics/sirolimus) bôi ngoài da [](https://dermnetnz.org/topics/sirolimus)
+- Thuốc chẹn beta tại chỗ (ví dụ, timolol) [6].
+Nhiều phương pháp điều trị thường là cần thiết [1].
+
+---
+
+## Kết quả của u xơ mạch máu là gì?
+
+Mặc dù u xơ mạch là lành tính, nhưng chúng dai dẳng. U xơ mạch có thể được loại bỏ vì lý do thẩm mỹ hoặc liên quan đến đau. Tỷ lệ tái phát của u xơ mạch liên quan đến bệnh xơ cứng củ có thể lên tới 80% [1].

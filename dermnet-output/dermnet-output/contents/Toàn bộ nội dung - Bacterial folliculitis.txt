@@ -1,0 +1,106 @@
+# Viêm nang lông do vi khuẩn — thông tin bổ sung
+
+Thể loại:
+
+Nhiễm trùng, Rối loạn nang lông
+
+SNOMED CT:
+
+399324007, 721268005, 53396004, 402921005, 399324007, 399008001, 721268005, 40603000, 238380009
+
+**[Nhiễm trùng, Rối loạn nang lông](https://dermnetnz.org/topics/topics?category=Infections)**
+
+
+# **Viêm nang lông do vi khuẩn**
+
+Tác giả: Phó Giáo sư danh dự Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand. Tháng 9 năm 2015. Được xem xét và cập nhật bởi Tiến sĩ Jannet Gomez, Nghiên cứu sinh sau đại học chuyên ngành Da liễu Lâm sàng, Đại học Queen Mary London, Vương quốc Anh. Tháng 1 năm 2016.
+
+---
+
+## Viêm nang lông là gì?
+
+[Viêm nang lông](https://dermnetnz.org/topics/folliculitis) là tình trạng viêm nang lông do nhiễm trùng , kích ứng hóa học hoặc chấn thương vật lý. Viêm nang lông do vi khuẩn là dạng viêm nang lông phổ biến nhất.
+
+---
+
+## Nguyên nhân gây viêm nang lông do vi khuẩn là gì?
+
+Viêm nang lông do vi khuẩn thường do [tụ cầu vàng](https://dermnetnz.org/topics/staphylococcal-skin-infection) gây ra . Ít gặp hơn, do tụ cầu vàng và vi khuẩn gram âm, bao gồm cả vi khuẩn kỵ khí, cũng gây ra. [Viêm nang lông ở hồ bơi spa](https://dermnetnz.org/topics/spa-pool-folliculitis) do [Pseudomonas](https://dermnetnz.org/topics/pseudomonas-skin-infections) gây ra .
+
+---
+
+## Ai có thể mắc bệnh viêm nang lông do vi khuẩn?
+
+Viêm nang lông do vi khuẩn ảnh hưởng đến cả trẻ em và người lớn, trong đó thanh thiếu niên và nam thanh niên thường bị nhiễm bệnh nhiều nhất. Bệnh này phổ biến trên toàn thế giới.
+Các yếu tố sau đây có thể dẫn đến viêm nang lông do vi khuẩn:
+- Ngâm và băng bó (quần áo, băng gạc, thuốc mỡ)
+- Cạo râu, tẩy lông hoặc các hình thức tẩy lông khác thường xuyên
+- Ma sát từ quần áo chật
+- [Viêm da dị ứng](https://dermnetnz.org/topics/atopic-dermatitis)
+- Mụn trứng cá hoặc các rối loạn nang lông khác trên da
+- Sử dụng [corticosteroid tại chỗ](https://dermnetnz.org/topics/topical-steroid)
+- [Sử dụng kháng sinh](https://dermnetnz.org/topics/antibiotics) lâu dài trước đó [](https://dermnetnz.org/topics/antibiotics)
+- Thiếu máu , béo phì, [tiểu đường](https://dermnetnz.org/topics/skin-problems-associated-with-diabetes-mellitus) , vi-rút gây suy giảm miễn dịch ở người ( HIV )/AIDS, [viêm gan vi-rút](https://dermnetnz.org/topics/viral-hepatitis) , ung thư và các bệnh mãn tính khác
+- Tắm trong [bồn nước nóng](https://dermnetnz.org/topics/spa-pool-folliculitis) hoặc hồ bơi không được vệ sinh sạch sẽ.
+
+---
+
+## Các đặc điểm lâm sàng của viêm nang lông do vi khuẩn là gì?
+
+Viêm nang lông do vi khuẩn có thể chỉ ở bề mặt hoặc ảnh hưởng đến toàn bộ nang lông (nhọt [)](https://dermnetnz.org/topics/boil) . Viêm nang lông có thể xuất hiện ở bất kỳ vị trí nào trên cơ thể nhưng thường được chẩn đoán ở da đầu, vùng râu, nách , mông và tứ chi. Các triệu chứng toàn thân không phổ biến. Các loại viêm nang lông do vi khuẩn khác nhau được mô tả dưới đây.
+
+### Viêm nang lông nông
+Viêm nang lông nông do tụ cầu khuẩn biểu hiện bằng một hoặc nhiều mụn mủ ở nang lông. Chúng có thể gây ngứa hoặc hơi đau. Viêm nang lông nông lành mà không để lại sẹo.
+Lẹo mắt là tình trạng viêm nang lông do vi khuẩn gây ra, ảnh hưởng đến lông mi.
+
+### Viêm nhọt/nhọt
+[Viêm nang lông hoặc nhọt](https://dermnetnz.org/topics/boil) biểu hiện dưới dạng một hoặc nhiều nốt đỏ, nóng, cứng hoặc di động , đau hoặc áp xe [có](https://dermnetnz.org/topics/cutaneous-abscess) vách (tụ mủ ). "Nhọt độc" là tên gọi được sử dụng khi ổ nhiễm trùng liên quan đến nhiều nang lông và có nhiều xoang dẫn lưu. Quá trình hồi phục sẽ để lại sẹo. [](https://dermnetnz.org/topics/cutaneous-abscess)
+
+### Viêm nang lông do vi khuẩn Gram âm
+[Viêm nang lông do vi khuẩn Gram âm phát triển ở những người sử dụng](https://dermnetnz.org/topics/gram-negative-folliculitis) [kháng sinh](https://dermnetnz.org/topics/antibiotics-for-acne) dài ngày để điều trị mụn trứng cá. Nhiễm trùng do vi khuẩn Gram âm gây ra mụn mủ ở các vị trí mụn trứng cá trên mặt, cổ và thân trên.
+
+### Viêm nang lông do bồn tắm nước nóng
+Viêm nang lông do ngâm mình trong bồn tắm nước nóng hoặc [hồ bơi spa](https://dermnetnz.org/topics/spa-pool-folliculitis) biểu hiện bằng các nốt sần và mụn mủ đau nhức trên thân vài giờ sau khi ngâm mình trong nước nóng, chủ yếu ở những vùng được che phủ bởi đồ bơi. Bệnh có thể kèm theo các triệu chứng toàn thân nhẹ, bao gồm sốt. Nếu không được điều trị, bệnh sẽ tự khỏi trong vòng khoảng 10 ngày mà không để lại sẹo.
+![Viêm nang lông nông do vi khuẩn](https://dermnetnz.org/assets/Uploads/acne/s/follicul1.jpg)
+![Viêm nang lông nông do vi khuẩn](https://dermnetnz.org/assets/Uploads/acne/s/folliculitis5.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/bacterial/boil1.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/bacterial/boils-6.jpg)
+
+---
+
+## Biến chứng của viêm nang lông do vi khuẩn
+
+
+### Nhiễm trùng mô mềm
+Viêm nang lông do vi khuẩn có thể dẫn đến [viêm mô tế bào](https://dermnetnz.org/topics/cellulitis) và viêm mạch bạch huyết ; nhiễm khuẩn huyết sau đó có thể dẫn đến viêm tủy xương , viêm khớp nhiễm trùng hoặc viêm phổi.
+
+---
+
+## Viêm nang lông do vi khuẩn được chẩn đoán như thế nào?
+
+Viêm nang lông do vi khuẩn thường được chẩn đoán lâm sàng nhưng có thể được xác nhận bằng cách lấy [mẫu vi khuẩn](https://dermnetnz.org/topics/laboratory-tests-for-bacterial-infections) để soi kính hiển vi , nuôi cấy và thử độ nhạy.
+Công thức máu có thể cho thấy tình trạng tăng bạch cầu trung tính khi viêm nang lông lan rộng.
+[Sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) hiếm khi cần thiết. Mô học cho thấy thâm nhiễm bạch cầu trung tính dày đặc trong mô dưới da và phản ứng dị vật xung quanh thân tóc.
+
+---
+
+## Làm thế nào để ngăn ngừa viêm nang lông?
+
+- Giữ da sạch sẽ và nếu da khô thì phải dưỡng ẩm đầy đủ.
+- Hạn chế [cạo](https://dermnetnz.org/topics/shaving) và [tẩy lông](https://dermnetnz.org/topics/waxing) . Khi cạo, hãy sử dụng lưỡi dao mới mỗi lần và dưỡng ẩm cho da sau đó.
+- Không mặc quần áo bó sát.
+- Đảm bảo khử trùng bồn tắm nước nóng đầy đủ.
+- Trong trường hợp viêm nang lông do tụ cầu tái phát, hãy bôi thuốc mỡ [mupirocin](https://dermnetnz.org/topics/mupirocin) vào lỗ mũi để loại trừ tình trạng mang vi khuẩn S. aureus .
+
+---
+
+## Phương pháp điều trị viêm nang lông do vi khuẩn là gì?
+
+- Chườm ấm để giảm ngứa và đau
+- Thuốc giảm đau và thuốc chống viêm để giảm đau
+- [Chất tẩy rửa sát trùng](https://dermnetnz.org/topics/antiseptic) (ví dụ, hydrogen peroxide, chlorhexidine, triclosan)
+- Rạch và dẫn lưu các tổn thương biến dạng và [áp xe](https://dermnetnz.org/topics/cutaneous-abscess)
+- Kháng sinh tại chỗ như [erythromycin](https://dermnetnz.org/topics/erythromycin) , [clindamycin](https://dermnetnz.org/topics/clindamycin) , [mupirocin](https://dermnetnz.org/topics/mupirocin) và axit fusidic. Để giảm [tình trạng kháng thuốc của vi khuẩn](https://dermnetnz.org/topics/methicillin-resistant-staphylococcus-aureus) , nên sử dụng các loại thuốc này trong thời gian không quá một tuần.
+- [Thuốc kháng](https://dermnetnz.org/topics/antibiotics) sinh uống hoặc tiêm tĩnh mạch cho các trường hợp nhiễm trùng nặng hơn hoặc lan rộng hơn
+- [Liệu pháp quang động](https://dermnetnz.org/topics/photodynamic-therapy)
+- [Triệt lông](https://dermnetnz.org/topics/hair-removal-techniques) [bằng laser](https://dermnetnz.org/topics/lasers-in-dermatology) nhiều lần [](https://dermnetnz.org/topics/hair-removal-techniques)

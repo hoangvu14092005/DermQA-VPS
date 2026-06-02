@@ -1,0 +1,101 @@
+# Viêm đa động mạch dạng nút da — thông tin bổ sung
+
+Thể loại:
+
+Các vấn đề về mạch máu
+
+SNOMED CT:
+
+239926000
+
+**[Các vấn đề về mạch máu](https://dermnetnz.org/topics/topics?category=Blood+vessel+problems)**
+
+
+# **Viêm đa động mạch dạng nốt ở da**
+
+Tác giả: Vanessa Ngan, Cán bộ biên tập, 2003. Được cập nhật bởi Trưởng biên tập, Hon A/Giáo sư Amanda Oakley, tháng 1 năm 2016.
+
+---
+
+## Viêm đa động mạch dạng nút ở da là gì?
+
+Viêm đa động mạch dạng nút da (PAN) là một dạng [viêm mạch](https://dermnetnz.org/topics/cutaneous-vasculitis) hiếm gặp ( viêm mạch máu ) liên quan đến các động mạch [nhỏ](https://dermnetnz.org/topics/cutaneous-small-vessel-vasculitis) và vừa ở lớp hạ bì và mô dưới da . Đôi khi tình trạng này còn được gọi là viêm quanh động mạch dạng nút.
+
+---
+
+## Nó liên quan thế nào đến bệnh viêm động mạch hệ thống dạng nút?
+
+Mặc dù các tổn thương da giống hệt nhau thường gặp ở PAN toàn thân , PAN da nên được coi là một bệnh riêng biệt và phân biệt với PAN toàn thân, vì diễn biến lâm sàng và cách điều trị các tình trạng này khác nhau.
+Viêm mạch hệ thống (PAN) là tình trạng viêm mạch gây tổn thương phá hủy các động mạch cơ cỡ trung bình của nhiều hệ thống, bao gồm gan, thận, tim, phổi, đường tiêu hóa, hệ cơ xương và thần kinh. PAN hệ thống là một dạng viêm mạch có khả năng đe dọa tính mạng, trong khi PAN da thường diễn biến mạn tính nhưng tương đối lành tính .
+
+---
+
+## Ai có thể mắc bệnh viêm động mạch nút dưới da?
+
+Viêm đa động mạch dạng nút da thường bắt đầu ở trẻ em hoặc thanh thiếu niên. Bệnh này rất hiếm gặp.
+Trong hầu hết các trường hợp PAN ở da, bệnh được kích hoạt bởi một số bệnh nhiễm trùng , đặc biệt là liên [cầu khuẩn](https://dermnetnz.org/topics/streptococcal-skin-infections) nhóm A , [viêm gan B, viêm gan C](https://dermnetnz.org/topics/viral-hepatitis) , [vi-rút gây suy giảm miễn dịch ở người](https://dermnetnz.org/topics/skin-conditions-relating-to-hiv-infection) , parvovirus B19 (nguyên nhân gây [bệnh thứ năm](https://dermnetnz.org/topics/erythema-infectiosum) ). Các khiếm khuyết về di truyền dẫn đến phản ứng quá mức với bệnh nhiễm trùng.
+
+---
+
+## Nguyên nhân gây ra bệnh viêm động mạch dạng nút ở da là gì?
+
+PAN ở da là kết quả của sự tương tác phức tạp giữa các yếu tố tự miễn dịch , tự viêm và suy giảm miễn dịch.
+Đột biến lặn nhiễm sắc thể thường ở gen CERC1 đã được chứng minh ở một số bệnh nhân bị PAN da. Bất thường di truyền này dẫn đến thiếu hụt protein ADA2 ( DADA2). DADA2 cũng có thể gây suy giảm miễn dịch. ADA2 là một protein huyết tương thiết yếu cho sự phát triển của tế bào nội mô (lớp lót thành mạch máu ) và bạch cầu . DADA2 dẫn đến hoạt động mãn tính, không kiểm soát của bạch cầu trung tính và gây tổn thương tế bào nội mô.
+
+---
+
+## Các đặc điểm lâm sàng của viêm động mạch dạng nút ở da là gì?
+
+Các đặc điểm lâm sàng của viêm đa động mạch dạng nút ở da liên quan đến tình trạng viêm hoặc tắc nghẽn các mạch máu nhỏ và vừa ở da và đôi khi ở các cơ quan khác. Bệnh có xu hướng có giai đoạn hoạt động và thuyên giảm.
+Tổn thương viêm mạch thường gặp nhất ở chân và bàn chân. Các vùng khác có thể bị ảnh hưởng bao gồm cánh tay, thân mình, mông, đầu và cổ. Chúng thường xuất hiện ở các điểm chịu áp lực như đầu gối, mu bàn chân và cẳng chân.
+- Các khối u mềm xuất hiện dưới da, đặc biệt là ở đùi và cẳng chân. Chúng thường có đường kính từ 4–15 mm và chạy dọc theo các động mạch cỡ trung bình.
+- Có thể thấy các mảng viêm lớn hơn . Chúng thường có các nốt sần dọc theo rìa. Khi các mảng viêm lành lại, chúng để lại các mảng [sắc tố sau viêm](https://dermnetnz.org/topics/postinflammatory-hyperpigmentation) . [](https://dermnetnz.org/topics/postinflammatory-hyperpigmentation)
+- Nhồi máu dưới da biểu hiện dưới dạng các mảng màu tím hoặc đen hoặc mụn nước chứa đầy máu. Chúng là những vùng da chết do mạch máu bị tắc nghẽn.
+- [Viêm mạch máu nhỏ](https://dermnetnz.org/topics/cutaneous-small-vessel-vasculitis) có thể biểu hiện bằng ban xuất huyết sờ thấy được
+- Có thể xảy ra hiện tượng phồng rộp và loét .
+- [Có thể xuất hiện hiện tượng Livedo reticularis](https://dermnetnz.org/topics/livedo-reticularis) (sự đổi màu sẫm giống như sao băng).
+![Viêm đa động mạch dạng nốt ở da](https://dermnetnz.org/assets/manualthumbnails/vascular/img/pan2.jpg)
+![Viêm đa động mạch dạng nốt ở da](https://dermnetnz.org/assets/Uploads/vascular/pan1.jpg)
+![Viêm đa động mạch dạng nốt ở da](https://dermnetnz.org/assets/Uploads/vascular/pan3.jpg)
+
+### Triệu chứng toàn thân trong viêm đa động mạch dạng nút ở da
+Ngoài các vấn đề về da, bệnh nhân mắc PAN da cũng có thể có các triệu chứng toàn thân như khó chịu , sốt , đau họng, đau nhức cơ và khớp. Các triệu chứng thần kinh cũng có thể xuất hiện, bao gồm tê, ngứa ran, rối loạn cảm giác, yếu cơ và mất phản xạ.
+
+---
+
+## Viêm động mạch nút da được chẩn đoán như thế nào?
+
+[Sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) của một tổn thương điển hình thường được thực hiện để chẩn đoán chính xác tình trạng PAN ở da. Mẫu bệnh phẩm cho thấy tình trạng viêm toàn bộ động mạch (viêm tất cả các mạch máu trong mẫu da) là bằng chứng xác định duy nhất của PAN.
+Xét nghiệm máu trong phòng thí nghiệm thường không hữu ích trong chẩn đoán hoặc theo dõi PAN da, vì công thức máu và sinh hóa máu thường bình thường. Ban đầu, xét nghiệm máu được yêu cầu để xác định nguyên nhân gây [viêm mạch](https://dermnetnz.org/topics/cutaneous-vasculitis) hoặc loại trừ các tổn thương cơ quan khác như thường gặp trong PAN toàn thân.
+Nồng độ protein ADA2 và/hoặc gen CERC1 có thể được đo tại một số trung tâm.
+
+---
+
+## Phương pháp điều trị viêm động mạch dạng nút ở da là gì?
+
+Do viêm mạch máu ngoài da (PAN) hiếm gặp, nên hiện chưa có thử nghiệm ngẫu nhiên nào hướng dẫn điều trị. Điều trị tiêu chuẩn tuân theo các hướng dẫn cho các dạng viêm mạch khác. Phương pháp điều trị chính thường là [corticosteroid đường uống](https://dermnetnz.org/topics/systemic-steroids) (prednisone).
+Các phương pháp điều trị tích cực khác cho PAN ở da có thể bao gồm:
+- [Colchicin](https://dermnetnz.org/topics/colchicine)
+- [Cyclophosphamide](https://dermnetnz.org/topics/cyclophosphamide)
+- [Globulin miễn dịch tiêm tĩnh mạch](https://dermnetnz.org/topics/intravenous-immunoglobulin)
+- [Penicillin](https://dermnetnz.org/topics/penicillin) để ngăn ngừa bùng phát sau viêm amidan do liên cầu [khuẩn](https://dermnetnz.org/topics/streptococcal-skin-infections) hoặc [viêm mô tế bào](https://dermnetnz.org/topics/cellulitis)
+Warfarin (với tỷ lệ chuẩn hóa quốc tế [INR] là 3) được báo cáo là có hiệu quả trong 3 trường hợp viêm đa động mạch da dạng nút với sự cải thiện trong bệnh viêm mạng lưới livedo và chữa lành vết loét.
+Các liệu pháp mới đang được phát triển cho bệnh nhân mắc PAN da có DADA2. Các phương pháp điều trị chưa được chứng minh này bao gồm:
+- Protein ADA2 tái tổ hợp
+- Huyết tương tươi đông lạnh
+- Ghép tế bào tạo máu
+- Thuốc [sinh học](https://dermnetnz.org/topics/biological-agents-for-psoriasis) chống TNFα (nếu TNFα tăng cao) [](https://dermnetnz.org/topics/biological-agents-for-psoriasis)
+- Kháng thể đơn dòng kháng interleukin 6 ( ví dụ, tocilizumab)
+
+### Điều trị triệu chứng
+- Thuốc kháng viêm không steroid được sử dụng để giảm đau và chống viêm.
+- Cơn đau có thể rất dữ dội, đòi hỏi phải thường xuyên dùng paracetamol, thuốc gây nghiện và thuốc chống co giật .
+- Các tổn thương da loét có thể được điều trị bằng các chế phẩm bôi ngoài da dịu nhẹ như [mật ong](https://dermnetnz.org/topics/honey) manuka hoạt tính và băng bó [đặc biệt](https://dermnetnz.org/topics/synthetic-wound-dressings) để vết thương mau lành.
+- Đôi khi, [ghép da](https://dermnetnz.org/topics/skin-grafting) có thể được khuyên dùng cho các vết loét lâu lành, nhưng phương pháp này có thể không thành công vì làm tổn thương các mạch máu cung cấp dinh dưỡng cho da.
+
+---
+
+## Triển vọng của bệnh viêm động mạch dạng nút ở da là gì?
+
+Viêm da tiếp xúc toàn thân (PAN) thường diễn biến mạn tính, kéo dài từ vài tháng đến vài năm, với các đợt bùng phát và thuyên giảm. Các triệu chứng thần kinh và đau nhức cơ thường thuyên giảm trong vài tháng, trong khi các tổn thương da mất nhiều thời gian hơn để lành.
+Bệnh có thể thuyên giảm một cách tự nhiên hoặc nhờ điều trị.

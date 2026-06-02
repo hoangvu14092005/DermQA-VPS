@@ -1,0 +1,107 @@
+# Bệnh vảy phấn alba – thông tin thêm
+
+Thể loại:
+
+Bệnh chàm
+
+SNOMED CT:
+
+402296004, 402297008, 402298003
+
+**[Bệnh chàm](https://dermnetnz.org/topics/topics?category=Eczemas)**
+
+
+# **Bệnh vảy phấn trắng**
+
+Tác giả: Phó giáo sư Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand, 1997. Cập nhật tháng 1 năm 2016. Sửa đổi tháng 9 năm 2020.
+
+---
+
+## Bệnh vảy phấn trắng là gì?
+
+Bệnh vẩy phấn trắng là một loại [bệnh chàm/viêm da](https://dermnetnz.org/topics/dermatitis) nhẹ , chủ yếu gặp ở trẻ em.
+Tên gọi mô tả hình dạng của nó: pityriasis đề cập đến vảy mịn đặc trưng và alba đề cập đến màu nhạt ( giảm sắc tố ).
+
+---
+
+## Ai mắc bệnh vảy phấn trắng?
+
+Bệnh vảy phấn trắng phổ biến trên toàn thế giới với tỷ lệ mắc bệnh ở trẻ em khoảng 5%.
+- Bệnh vảy phấn trắng chủ yếu ảnh hưởng đến trẻ em và thanh thiếu niên từ 3 đến 16 tuổi, nhưng có thể xảy ra ở cả người lớn tuổi và người trẻ tuổi.
+- Nó ảnh hưởng đến cả bé trai và bé gái như nhau.
+- Tình trạng giảm sắc tố của bệnh vảy phấn trắng thường rõ rệt hơn và có lẽ phổ biến hơn ở người da sẫm màu so với người da trắng.
+
+---
+
+## Nguyên nhân gây ra bệnh vảy phấn trắng là gì?
+
+Nguyên nhân gây bệnh vảy phấn trắng vẫn chưa được biết rõ.
+- Bệnh vảy phấn trắng thường đi kèm với [da khô](https://dermnetnz.org/topics/dry-skin) và [viêm da dị ứng](https://dermnetnz.org/topics/atopic-dermatitis) .
+- Bệnh này thường xuất hiện sau khi tiếp xúc với ánh nắng mặt trời, có lẽ là do tình trạng rám nắng ở vùng da xung quanh khiến vùng da bị ảnh hưởng trở nên rõ hơn.
+Các nhà nghiên cứu vẫn chưa đưa ra kết luận nào về mối liên hệ giữa bệnh vảy phấn trắng với những điều sau:
+- Bức xạ cực tím
+- Tắm quá nhiều hoặc không đủ
+- Nồng độ đồng huyết thanh và các nguyên tố vi lượng khác thấp
+- [Nấm men Malassezia](https://dermnetnz.org/topics/malassezia-infections) (sản xuất ra chất chuyển hóa pityriacitrin có tác dụng ức chế tyrosinase , gây ra tình trạng giảm sắc tố).
+
+---
+
+## Đặc điểm lâm sàng của bệnh vảy phấn trắng là gì?
+
+Bệnh vảy phấn trắng cổ điển thường biểu hiện bằng 1 đến 20 mảng hoặc mảng mỏng.
+- Hầu hết các tổn thương xảy ra ở mặt, đặc biệt là ở má và cằm.
+- Các mảng này cũng có thể xuất hiện ở cổ, vai và cánh tay trên và ít phổ biến ở những nơi khác.
+- Kích thước miếng vá có đường kính từ 0,5 đến 5 cm.
+- Các mảng có hình tròn, hình bầu dục hoặc hình dạng không đều.
+- Bệnh vảy phấn trắng có thể có ranh giới rõ ràng hoặc thường là không rõ ràng.
+- Cảm giác ngứa rất ít hoặc không ngứa.
+- Tình trạng giảm sắc tố da dễ nhận thấy hơn vào mùa hè.
+- Tình trạng khô và bong tróc thường dễ nhận thấy hơn vào mùa đông khi độ ẩm môi trường có xu hướng thấp hơn.
+Thông thường, một mảng vảy phấn trắng sẽ tiến triển qua nhiều giai đoạn.
+- Mảng hoặc mảng màu hồng hơi có vảy với bề mặt sần sờ thấy được .
+- Mảng hoặc mảng giảm sắc tố có vảy bề mặt mịn.
+- Sau đó xuất hiện các vết bớt giảm sắc tố sau viêm không có vảy.
+- Nghị quyết.
+![Vảy phấn trắng ở má](https://dermnetnz.org/assets/collection/Pityriasis-alba/pityriasis-alba-0014.jpg)
+![Vảy phấn trắng ở má](https://dermnetnz.org/assets/collection/Pityriasis-alba/pityriasis-alba-0015.jpg)
+![Bệnh vảy phấn trắng](https://dermnetnz.org/assets/Uploads/dermatitis/pitalba2.jpg)
+![Bệnh vảy phấn trắng](https://dermnetnz.org/assets/Uploads/dermatitis/s/pityriasis-alba-1.jpg)
+[Xem thêm hình ảnh về bệnh vảy phấn trắng](https://dermnetnz-org.translate.goog/images/pityrasis-alba-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp) ...
+
+### Soi da bệnh vảy phấn trắng
+- Vùng nhợt nhạt không được xác định rõ ràng
+- Khu vực không có cấu trúc màu trắng
+- Mạng lưới sắc tố mờ nhạt
+- Vảy trắng nông
+- Màu tóc bình thường
+
+---
+
+## Bệnh vảy phấn trắng được chẩn đoán như thế nào?
+
+Bệnh vảy phấn trắng thường là chẩn đoán lâm sàng nhưng có thể bị nhầm lẫn với [một số rối loạn khác gây ra tình trạng giảm sắc tố](https://dermnetnz.org/topics/skin-pigmentation-problems) .
+Để loại trừ những điều này, cuộc điều tra có thể bao gồm:
+- [Khám đèn Wood](https://dermnetnz.org/topics/wood-lamp-skin-examination) : tình trạng giảm sắc tố của bệnh vảy phấn trắng không tăng lên và không có huỳnh quang
+- Cạo [bệnh nấm](https://dermnetnz.org/topics/mycology-of-dermatophyte-infections) : soi kính hiển vi và nuôi cấy nấm không cho kết quả âm tính ở bệnh vảy phấn trắng
+- [Sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) : hiếm khi cần sinh thiết, nhưng có thể phát hiện tình trạng viêm da xốp nhẹ và giảm melanin.
+
+---
+
+## Phương pháp điều trị bệnh vảy phấn trắng là gì?
+
+Không cần điều trị đối với bệnh vảy phấn trắng không có triệu chứng .
+- Kem [dưỡng ẩm](https://dermnetnz.org/topics/emollients-and-moisturisers) có thể cải thiện tình trạng da khô.
+- [Thuốc steroid bôi ngoài da](https://dermnetnz.org/topics/topical-steroid) nhẹ (hydrocortisone 0,5-1%) có thể làm giảm mẩn đỏ và ngứa nếu có.
+- [Thuốc ức chế calcineurin](https://dermnetnz.org/topics/calcineurin-inhibitors) ( kem [pimecrolimus](https://dermnetnz.org/topics/pimecrolimus) và thuốc mỡ [tacrolimus](https://dermnetnz.org/topics/tacrolimus) ) có thể có hiệu quả như hydrocortisone và được báo cáo là có thể giúp phục hồi màu da nhanh hơn. [](https://dermnetnz.org/topics/tacrolimus)
+
+---
+
+## Làm thế nào có thể ngăn ngừa bệnh vảy phấn alba?
+
+Sự phát triển hoặc mức độ nổi bật của bệnh vảy phấn trắng có thể được giảm bớt bằng cách sử dụng [kem chống nắng](https://dermnetnz.org/topics/topical-sunscreen-agents) để giảm thiểu tình trạng rám nắng.
+
+---
+
+## Triển vọng của bệnh vảy phấn trắng là gì?
+
+Bệnh vảy phấn trắng thường khỏi sau trung bình một năm, có thể kéo dài từ vài tháng đến hai hoặc ba năm. Màu sắc da dần trở lại bình thường.

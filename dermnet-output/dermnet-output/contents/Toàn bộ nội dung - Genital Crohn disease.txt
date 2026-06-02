@@ -1,0 +1,96 @@
+# Bệnh Crohn sinh dục — thông tin bổ sung
+
+Thể loại:
+
+Bệnh hệ thống
+
+SNOMED CT:
+
+402375009, 402376005,726019003, 402377001, 235796008, 726101009
+
+**[Bệnh hệ thống](https://dermnetnz.org/topics/topics?category=Systemic+diseases)**
+
+
+# **Bệnh Crohn sinh dục**
+
+Tác giả: Tiến sĩ Calum Lyon, Bác sĩ da liễu tư vấn tại York Teaching Hospital NHS Foundation Trust và Salford Royal Hospitals NHS Foundation Trust; Gia sư lâm sàng tại Trường Y khoa Hull-York; Giảng viên lâm sàng (danh dự) tại Salford Royal Hospitals (Trường Y khoa Đại học Manchester); Tổng biên tập: Tiến sĩ Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand; Biên tập viên: Clare Morrison, tháng 7 năm 2014.
+
+---
+
+## Bệnh Crohn sinh dục là gì?
+
+[Bệnh Crohn](https://dermnetnz.org/topics/crohn-skin-disease) là một bệnh viêm ruột; bệnh nhân phát triển các khối u hạt và loét trong ruột. Bệnh Crohn sinh dục là tình trạng da phát sinh khi các khối u hạt ảnh hưởng đến bộ phận sinh dục và vùng da lân cận . Bệnh ngoài da có thể liên quan đến bệnh ruột hoặc hoàn toàn tách biệt (trong trường hợp này được gọi là bệnh Crohn di căn ).
+Bệnh Crohn sinh dục dạng u hạt gây ra nhiều vấn đề về da, nhưng thường gặp nhất là nứt da.
+
+---
+
+## Ai mắc bệnh Crohn ở bộ phận sinh dục?
+
+Bệnh Crohn, bao gồm cả bệnh liên quan đến bộ phận sinh dục, có thể xảy ra ở mọi lứa tuổi; bệnh này phổ biến hơn ở phụ nữ (tỷ lệ 2:1).
+Khi bệnh Crohn sinh dục xuất hiện, nó được chẩn đoán cùng lúc với bệnh Crohn đường ruột ở > 50% trường hợp. Tuy nhiên, bệnh có thể xuất hiện nhiều tháng, thậm chí nhiều năm trước khi xuất hiện các triệu chứng đường ruột hoặc bất kỳ lúc nào sau đó.
+Những thay đổi nhẹ ở da vùng sinh dục như nứt nẻ tương đối phổ biến ở những bệnh nhân mắc bệnh Crohn đường ruột từ trung bình đến nặng. Theo kinh nghiệm của tác giả, bệnh sinh dục nặng chỉ ảnh hưởng đến chưa đến 8% số người mắc bệnh đường ruột đáng kể.
+Các vấn đề về da khác liên quan đến bệnh Crohn có thể phát sinh cùng lúc với bệnh Crohn sinh dục dạng u hạt. Phổ biến nhất là:
+- [Viêm da mủ hoại thư](https://dermnetnz.org/topics/pyoderma-gangrenosum)
+- [Bệnh u hạt vùng miệng mặt](https://dermnetnz.org/topics/orofacial-granulomatosis) ( [bệnh Crohn dạng u hạt ở miệng](https://dermnetnz.org/topics/orofacial-crohn-disease) hoặc các vị trí khác trên mặt)
+- [Viêm tuyến mồ hôi mủ](https://dermnetnz.org/topics/hidradenitis-suppurativa)
+- [Ban đỏ nốt](https://dermnetnz.org/topics/erythema-nodosum)
+- Viêm mắt (viêm kết mạc hoặc viêm màng bồ đào trước )
+- Bệnh lý khớp huyết thanh âm tính .
+
+---
+
+## Bệnh Crohn sinh dục có những đặc điểm gì?
+
+Bệnh Crohn sinh dục có thể biểu hiện bằng một hoặc tất cả các triệu chứng sau đây.
+
+### Các vết nứt và xói mòn
+Các vết nứt và vết trợt xuất hiện ở nếp gấp bẹn, quanh hậu môn, giữa mông, ở nếp gấp âm hộ ở nữ giới và trên bao quy đầu hoặc quanh bìu ở nam giới. Chúng được gọi là vết nứt "dao cắt". Những vết nứt và vết trợt này gây đau hoặc khó chịu khi đi tiểu và có thể làm gián đoạn hoặc ngăn cản hoạt động tình dục bình thường. Có thể xảy ra loét toàn bộ lớp da .
+
+### Rò hoặc đường hầm
+Các lỗ rò hoặc đường hầm có thể hình thành, nối ruột bị bệnh với da. Những lỗ rò này thường xuất hiện khi bệnh Crohn ảnh hưởng đến trực tràng (ruột già). Các lỗ rò cũng có thể ảnh hưởng đến da quanh hậu môn , da sinh dục, âm đạo hoặc âm hộ.
+
+### Sưng tấy dai dẳng
+Sưng bộ phận sinh dục trong bệnh Crohn là do u hạt Crohn làm tắc nghẽn các mạch bạch huyết . Tình trạng này được gọi là bệnh lý mạch bạch huyết dạng u hạt hoặc [phù bạch huyết](https://dermnetnz.org/topics/lymphoedema) . Phụ nữ thường bị sưng môi âm hộ ở một hoặc cả hai bên. Nam giới ít gặp hơn bị sưng dương vật và bìu. Phù bạch huyết có xu hướng trở nên nghiêm trọng hơn sau mỗi đợt bùng phát, dẫn đến biến dạng giải phẫu bình thường của bộ phận sinh dục. Tình trạng này có thể kéo dài.
+
+### Các tính năng khác
+- [Thẻ da](https://dermnetnz.org/topics/skin-tag)
+- Bùng phát bệnh Crohn ở bộ phận sinh dục và quanh hậu môn, có thể dẫn đến các nốt sẩn đỏ , mảng bám hoặc loét gây đau đớn.
+- [Nhiễm trùng](https://dermnetnz.org/topics/bacterial-skin-infections) thứ phát do vi khuẩn hoặc nhiễm trùng [Candida albicans](https://dermnetnz.org/topics/candida)
+- Mụn mủ và áp xe tương tự như những mụn mủ và áp xe thấy trong [viêm tuyến mồ hôi mủ](https://dermnetnz.org/topics/hidradenitis-suppurativa)
+[Xem hình ảnh bệnh Crohn ở bộ phận sinh dục](https://dermnetnz-org.translate.goog/topics/genital-crohn-disease-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp) .
+
+---
+
+## Bệnh Crohn sinh dục được chẩn đoán như thế nào?
+
+Bệnh Crohn sinh dục nên được coi là chẩn đoán ở bất kỳ ai có tiền sử bệnh viêm ruột biểu hiện bằng các vết nứt, loét, lỗ rò và sưng ở bộ phận sinh dục.
+Vì các triệu chứng trên da có thể xuất hiện trước bệnh đường ruột, bệnh Crohn sinh dục cũng nên được xem xét ở những người có các triệu chứng này nhưng không có tiền sử bệnh đường ruột; 20–35% bệnh nhân mắc bệnh Crohn sinh dục không có triệu chứng hoặc bệnh lý đường tiêu hóa.
+[Sinh thiết](https://dermnetnz.org/topics/skin-biopsy) da trong bệnh Crohn thường cho thấy [tình trạng viêm mạn tính kèm theo u hạt không hoại tử](https://dermnetnz.org/topics/metastatic-crohn-disease-pathology) . Những u hạt này không phải lúc nào cũng được phát hiện vì chúng có thể nằm khá khu trú và dễ bị bỏ sót.
+Quá trình lành vết thương kém là tình trạng thường gặp ở bệnh Crohn. Vì lý do này, sinh thiết không phải lúc nào cũng được thực hiện. Sinh thiết chỉ hữu ích khi có nghi ngờ về chẩn đoán hoặc không đáp ứng với điều trị.
+Cần lấy mẫu xét nghiệm để xác định xem có nhiễm trùng [do vi khuẩn](https://dermnetnz.org/topics/bacterial-skin-infections) và [nấm men](https://dermnetnz.org/topics/laboratory-tests-for-fungal-infection) hay không .
+
+---
+
+## Chẩn đoán phân biệt bệnh Crohn sinh dục là gì?
+
+Các bệnh lý da khác ảnh hưởng đến vùng sinh dục có thể biểu hiện tương tự bệnh Crohn sinh dục. Bao gồm:
+- [U hạt hậu môn sinh dục](https://dermnetnz.org/topics/anogenital-granulomatosis)
+- [Viêm mô tế bào](https://dermnetnz.org/topics/cellulitis) sinh dục và các bệnh nhiễm trùng khác
+- Phù bạch huyết sinh dục vô căn (có hoặc không có béo phì)
+- [Viêm tuyến mồ hôi mủ](https://dermnetnz.org/topics/hidradenitis-suppurativa)
+- [Viêm da mủ hoại thư](https://dermnetnz.org/topics/pyoderma-gangrenosum)
+- [Bệnh sarcoidosis](https://dermnetnz.org/topics/sarcoidosis) sinh dục (một nguyên nhân khác gây ra u hạt).
+
+---
+
+## Bệnh Crohn sinh dục được điều trị như thế nào?
+
+Bệnh Crohn nhẹ thường được điều trị bằng [thuốc mỡ corticosteroid bôi ngoài da](https://dermnetnz.org/topics/topical-steroid) mạnh hoặc [thuốc ức chế calcineurin](https://dermnetnz.org/topics/calcineurin-inhibitors) ( [thuốc mỡ tacrolimus](https://dermnetnz.org/topics/tacrolimus) hoặc [kem pimecrolimus](https://dermnetnz.org/topics/pimecrolimus) ). Không nên bôi tacrolimus lên mô loét vì thuốc này được cho là có độc.
+[Các chất tẩy rửa sát trùng](https://dermnetnz.org/topics/antiseptic) có chứa chlorhexidine có thể làm giảm nhiễm trùng thứ phát ở bất kỳ nếp gấp hoặc vết nứt da nào còn sót lại. Thuốc kháng sinh được kê đơn cho nhiễm trùng da xâm lấn ( [viêm mô tế bào](https://dermnetnz.org/topics/cellulitis) ). [Kem chống](https://dermnetnz.org/topics/topical-antifungal-medication) [nấm](https://dermnetnz.org/topics/antibiotics) tại chỗ và [thuốc chống nấm đường uống](https://dermnetnz.org/topics/oral-antifungal-medication) được kê đơn cho nhiễm trùng nấm men ( [Candida albicans](https://dermnetnz.org/topics/candida) hoặc tưa miệng). [](https://dermnetnz.org/topics/cellulitis) [](https://dermnetnz.org/topics/topical-antifungal-medication) [](https://dermnetnz.org/topics/oral-antifungal-medication) [](https://dermnetnz.org/topics/candida)
+Bệnh Crohn sinh dục hoạt động kèm [phù bạch huyết](https://dermnetnz.org/topics/lymphoedema) cần điều trị toàn thân . Liệu pháp này có thể được kết hợp vào phác đồ điều trị bệnh Crohn đường ruột tiềm ẩn. Các thuốc được sử dụng bao gồm:
+- [Metronidazole](https://dermnetnz.org/topics/metronidazole) uống [](https://dermnetnz.org/topics/metronidazole)
+- [Azathioprine](https://dermnetnz.org/topics/azathioprine-and-mercaptopurine)
+- [Methotrexate](https://dermnetnz.org/topics/methotrexate)
+- Thuốc ức chế TNF -alpha như [infliximab](https://dermnetnz.org/topics/infliximab-for-psoriasis) hoặc [adalimumab](https://dermnetnz.org/topics/adalimumab-for-psoriasis) ( [liệu pháp sinh học](https://dermnetnz.org/topics/biological-agents-for-psoriasis) ).
+Đồ lót bó sát, chẳng hạn như đồ lót dùng trong thể thao và đạp xe, có thể làm giảm phù bạch huyết. Có thể cần phẫu thuật để loại bỏ các nếp da thừa, đặc biệt là ở môi bé.
+Darvadstrocel, một loại tế bào gốc có nguồn gốc từ mô mỡ mở rộng , đã được cấp phép lưu hành tại Châu Âu để điều trị tình trạng rò hậu môn phức tạp trong một số trường hợp.

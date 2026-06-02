@@ -1,0 +1,133 @@
+# U tế bào plasma — thông tin bổ sung
+
+Thể loại:
+
+Tổn thương (ung thư)
+
+SNOMED CT:
+
+415112005, 188718006, 404142007, 109989006
+
+**[Tổn thương (ung thư)](https://dermnetnz.org/topics/topics?category=Lesions+(cancerous))**
+
+
+# **U tế bào plasma**
+
+Tác giả: Haylee Boyens, Sinh viên Y khoa, Đại học Auckland, New Zealand, tháng 9 năm 2014.
+
+---
+
+## Tế bào plasma là gì?
+
+Tế bào plasma là tế bào bạch cầu được sản xuất trong tủy xương và có trong máu, da và khắp cơ thể. Chức năng của chúng là sản xuất immunoglobulin ( kháng thể ) để chống lại bệnh tật. Chúng là một phần quan trọng của hệ thống miễn dịch.
+
+---
+
+## U tế bào plasma là gì?
+
+U tế bào plasma là khối u được tạo thành từ các tế bào plasma bất thường. Nó thường phát triển bên trong xương. Khi nó phát triển ở vị trí khác ngoài xương, nó được gọi là u tế bào plasma ngoài tủy.
+Có thể có một khối u đơn độc (u nguyên bào sợi đơn độc) hoặc nhiều khối u (u tủy đa)
+
+---
+
+## Ai mắc bệnh u tế bào plasma?
+
+U tế bào plasma rất hiếm gặp. Bệnh này ảnh hưởng đến người trung niên và người cao tuổi, và rất hiếm gặp ở người dưới 30 tuổi. U tế bào plasma ở da rất hiếm gặp.
+
+---
+
+## Nguyên nhân gây ra bệnh u tế bào plasma là gì?
+
+Người ta vẫn chưa biết nguyên nhân gây ra bệnh u tế bào plasma. Bức xạ, dung môi công nghiệp và độc tố trong không khí đã được xác định là những yếu tố nguy cơ tiềm ẩn.
+
+---
+
+## Bệnh u tế bào plasma biểu hiện như thế nào?
+
+
+### U nguyên bào sợi đơn độc ở xương
+U nguyên bào sợi có thể gây ra:
+- Nỗi đau
+- Gãy xương bệnh lý
+- Chèn ép tủy sống
+
+### U nguyên bào sợi ngoài tủy
+U tế bào tương bào ngoài tủy có thể xảy ra ở bất kỳ vị trí nào, nhưng 80–90% u tế bào tương bào ngoài tủy nằm ở vùng đầu và cổ, đặc biệt là ở đường hô hấp trên và khoang miệng. Các triệu chứng có thể bao gồm:
+- Sưng tấy hoặc khối u
+- Đau đầu
+- Chảy nước mũi , chảy máu mũi, nghẹt mũi
+- Đau họng, khàn giọng, khó nói (rối loạn giọng nói)
+- Khó nuốt ( khó nuốt ), đau dạ dày
+- Khó thở (khó thở), ho ra máu (ho ra máu)
+Tổn thương da/da rất hiếm gặp, chiếm 2–4% tổng số u tế bào plasma ngoài tủy. Chúng thường biểu hiện dưới dạng các nốt đỏ hoặc mảng hình vòm , và có thể loét.
+![Không có caption](https://dermnetnz.org/assets/Uploads/plasmacytoma-2.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/plasmacytoma-3.jpg)
+![U tế bào plasma ở da](https://dermnetnz.org/assets/Uploads/immune/w/plasmacytoma.jpg)
+
+---
+
+## Bệnh u tế bào plasma được chẩn đoán như thế nào?
+
+U tế bào plasma được chẩn đoán bằng sinh thiết mô [hoặc](https://dermnetnz.org/topics/skin-biopsy) sinh thiết tủy xương . Sinh thiết này cho thấy sự xâm lấn xương hoặc mô của các tế bào plasma đơn dòng (giống hệt nhau) (xem [bệnh lý u tế bào plasma ở da](https://dermnetnz.org/topics/cutaneous-plasmacytoma-pathology) ). Để chẩn đoán u tế bào plasma đơn độc (ở xương hoặc ngoài tủy), cần loại trừ các khối u tế bào plasma khác hoặc đa u tủy.
+
+---
+
+## Phương pháp điều trị bệnh u tế bào plasma là gì?
+
+U nguyên bào sợi đơn độc được điều trị bằng xạ trị hoặc phẫu thuật.
+
+---
+
+## Tiên lượng của bệnh u tế bào plasma là gì?
+
+Tiên lượng của bệnh u tế bào plasma phụ thuộc vào việc tổn thương là đơn độc hay là dấu hiệu của bệnh đa u tủy.
+Bệnh u tủy đa có thể phát triển sau này ở những bệnh nhân có u tủy xương đơn độc (65–84% sau 10 năm) hoặc các vị trí ngoài tủy (11–30% sau 10 năm).
+Tình trạng tổn thương da ở những bệnh nhân mắc bệnh đa u tủy thường cho thấy tiên lượng xấu bất kể phương pháp điều trị nào.
+
+---
+
+## Bệnh đa u tủy
+
+Thông thường, tế bào plasma chiếm <5% tủy xương. Ung thư tế bào plasma xảy ra khi các tế bào này tăng sinh không kiểm soát . Có hai dạng:
+- Bệnh đa u tủy (>10% tủy xương)
+- Bệnh bạch cầu tế bào plasma (>20% tế bào máu ngoại vi có nhân)
+Bệnh bạch cầu tế bào plasma hiếm gặp và hung hãn. Bệnh có thể là nguyên phát (dấu hiệu đầu tiên của bệnh) hoặc thứ phát sau bệnh đa u tủy tiến triển.
+Khoảng 10–15% bệnh nhân có u tương bào ngoài tủy đơn độc và 50–60% bệnh nhân có u tương bào đơn độc ở xương cuối cùng sẽ phát triển thành bệnh đa u tủy.
+U tế bào tương bào ngoài tủy xuất hiện ở khoảng 7% bệnh nhân mắc bệnh đa u tủy tại thời điểm chẩn đoán và 6% bệnh nhân tiếp theo sẽ phát triển u tế bào tương bào ngoài tủy sau khi được chẩn đoán mắc bệnh đa u tủy.
+Bệnh đa u tủy biểu hiện bằng các dấu hiệu và triệu chứng sau.
+- Đau xương hoặc gãy xương
+- Thiếu máu : yếu, mệt mỏi, khó thở
+- Số lượng bạch cầu thấp ( giảm bạch cầu ) có thể dẫn đến nhiễm trùng tái phát , ví dụ như viêm phổi
+- Máu đặc: lú lẫn, chóng mặt, đột quỵ
+- Tăng canxi huyết : khát nước, mất nước, suy nhược, các vấn đề về ruột và thận
+- Các triệu chứng thần kinh : đau lưng, tê hoặc yếu
+- Triệu chứng thận: yếu, khó thở, ngứa, sưng
+
+### Chẩn đoán
+Các xét nghiệm sau đây được sử dụng để phát hiện và theo dõi bệnh đa u tủy.
+- Công thức máu toàn phần để đánh giá tình trạng thiếu máu, số lượng bạch cầu thấp và số lượng tiểu cầu thấp
+- Lactic dehydrogenase (LDH), canxi, phốt pho, tốc độ lắng hồng cầu ( ESR ) và protein phản ứng C ( CRP )—tăng cao trong ung thư lan tỏa
+- Creatinine và urê để đánh giá chức năng thận
+- Beta-2 microglobulin, được biểu hiện trên bề mặt tế bào u tủy
+- Điện di protein huyết thanh với miễn dịch cố định, để phát hiện và phân loại protein bất thường/đơn dòng trong huyết thanh
+- Globulin miễn dịch huyết thanh tăng cao trong bệnh u tủy
+- Điện di protein nước tiểu với miễn dịch cố định (mẫu nước tiểu 24 giờ), để phát hiện và phân loại chuỗi nhẹ kappa hoặc lambda đơn dòng trong nước tiểu
+- Khảo sát xương để phát hiện tình trạng xương mỏng (loãng xương, giảm mật độ xương) hoặc các lỗ hổng (tổn thương tiêu xương) do u tủy. Chụp MRI , CT và PET cũng có thể được sử dụng trong một số trường hợp.
+
+### Sự đối đãi
+Nếu bị bệnh đa u tủy, có thể điều trị bằng cách:
+- Hóa trị —melphalan, [cyclophosphamide](https://dermnetnz.org/topics/cyclophosphamide) , doxorubicin, liposome doxorubicin
+- [Corticosteroid](https://dermnetnz.org/topics/systemic-steroids) —dexamethasone, prednisone
+- Thuốc mới thêm gần đây— [thalidomide](https://dermnetnz.org/topics/thalidomide) , lenalidomide, bortezomib, carfilzomib, pomalidomide
+- Cấy ghép tế bào gốc
+Các phương pháp điều trị có thể được sử dụng riêng lẻ hoặc kết hợp, tùy thuộc vào chi tiết từng trường hợp và mức độ rủi ro.
+
+### Tiên lượng
+Việc dự đoán tiên lượng bệnh đa u tủy không hề đơn giản, vì một số bệnh nhân không có triệu chứng trong nhiều năm trong khi những người khác thì bệnh tiến triển nhanh chóng.
+- Phân loại giai đoạn (gánh nặng khối u)
+- Đặc điểm của bệnh nhân
+- Đặc điểm bệnh
+- Khả năng tiếp cận và đáp ứng với liệu pháp
+Những ước tính tiên lượng này có thể được điều chỉnh tùy thuộc vào khả năng đáp ứng điều trị, đặc điểm bệnh nhân và di truyền khối u. Một số đột biến khối u có liên quan đến các dạng bệnh ác tính hơn, có thể rút ngắn thời gian sống sót.
+Bệnh nhân được phân loại thành nguy cơ cao, trung bình hoặc tiêu chuẩn bằng cách sử dụng xét nghiệm tế bào di truyền , được thực hiện trên các tế bào khối u để xác định các bất thường về gen có thể góp phần gây ra con đường bệnh tật hung hãn hơn.
+Nhóm nguy cơ tiêu chuẩn và trung bình có thời gian sống trung bình ước tính là 8–10 năm. Bệnh nhân phát hiện một số bất thường di truyền có thể có thời gian sống ngắn hơn, cũng như bệnh nhân ở giai đoạn tiến triển.

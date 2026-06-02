@@ -1,0 +1,61 @@
+# Nhiễm trùng da do Aeromonas — thông tin bổ sung
+
+Thể loại:
+
+Nhiễm trùng
+
+SNOMED CT:
+
+88529008
+
+**[Nhiễm trùng](https://dermnetnz.org/topics/topics?category=Infections)**
+
+
+# **Nhiễm trùng da do Aeromonas**
+
+Tác giả: Phó giáo sư Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand, tháng 4 năm 2014. Biên tập viên, Clare Morrison.
+
+---
+
+## Aeromonas là gì?
+
+Aeromonas là một loại vi khuẩn thủy sinh. Aeromonas là nguyên nhân rất hiếm gặp gây [nhiễm trùng da và mô mềm](https://dermnetnz.org/topics/bacterial-skin-infections) . Loài phổ biến nhất được phân lập là Aeromonas hydrophila.
+Aeromonas cũng có thể gây viêm dạ dày ruột (tiêu chảy khi đi du lịch), viêm màng não và viêm phúc mạc.
+
+---
+
+## Dấu hiệu của nhiễm trùng da do vi khuẩn Aeromonas là gì?
+
+A. hydrophila có thể gây nhiễm trùng da cục bộ nghiêm trọng . Bệnh có thể biểu hiện bằng:
+- [Viêm nang lông](https://dermnetnz.org/topics/folliculitis) ( mụn mủ ) và [áp xe](https://dermnetnz.org/topics/cutaneous-abscess)
+- [](https://dermnetnz.org/topics/impetigo) Phát [ban](https://dermnetnz.org/topics/impetigo) giống bệnh chốc lở có vảy và vết trợt dẫn đến [hoại tử ngoại ban](https://dermnetnz.org/topics/ecthyma-gangrenosum)
+- [Viêm mô tế bào](https://dermnetnz.org/topics/cellulitis) — đỏ và sưng liên quan đến da sâu hơn
+- [Viêm cân hoại tử](https://dermnetnz.org/topics/necrotising-fasciitis) — một bệnh nhiễm trùng mô mềm sâu và cơ có tính phá hủy nhanh chóng
+- Nhiễm trùng huyết (nhiễm trùng máu) — gây sốt , mạch nhanh, khó chịu và bất thường về số lượng tế bào máu (bạch cầu tăng, tiểu cầu giảm ). Nhiễm trùng huyết do Aeromonas có khả năng rất nguy hiểm
+Nhiễm trùng da do Aeromonas có nhiều khả năng dẫn đến các biến chứng nghiêm trọng ở những bệnh nhân có hệ miễn dịch yếu, ví dụ như những người đang dùng thuốc ức chế miễn dịch hoặc đang điều trị ung thư.
+![Vết cắn của đỉa bị nhiễm trùng](https://dermnetnz.org/assets/Uploads/bacterial/leech-bites.jpg)
+![Viêm mô tế bào hoại tử](https://dermnetnz.org/assets/Uploads/bacterial/w/aeromonas.jpg)
+
+---
+
+## Nhiễm trùng xảy ra như thế nào?
+
+Vi khuẩn A. hydrophila được tìm thấy trong nước ngọt hoặc nước mặn như hồ, sông, hồ chứa và cửa sông, và phổ biến hơn ở vùng khí hậu ấm áp. Chúng cũng có thể làm ô nhiễm đất ẩm. Vi khuẩn có khả năng chịu nhiệt, chịu lạnh và chịu clo. Một số chủng A. hydrophila sản sinh ra độc tố aerolysin gây tổn thương mô.
+Nhiễm trùng xảy ra khi vi khuẩn sản sinh ra độc tố aerolysin xâm nhập vào vùng da bị tổn thương, chẳng hạn như vết cắt do cạo râu, vết trầy xước, vết thương do phẫu thuật hoặc [vết côn trùng cắn](https://dermnetnz.org/topics/arthropod-bites-and-stings) .
+[Vết cắn của đỉa](https://dermnetnz.org/topics/leeches) và liệu pháp điều trị bằng đỉa cũng có thể dẫn đến nhiễm trùng A. hydrophila , vì tất cả đỉa đều mang vi khuẩn trong ruột.
+
+---
+
+## Chẩn đoán nhiễm trùng Aeromonas được thực hiện như thế nào?
+
+Chẩn đoán nhiễm trùng Aeromonas có thể được nghi ngờ ở một người bị nhiễm trùng nghiêm trọng làm biến chứng một vết thương ngoài da nhỏ do tiếp xúc với nước (hoặc đỉa).
+Ở những bệnh nhân suy giảm miễn dịch , nhiễm trùng Aeromonas thường được chẩn đoán bằng xét nghiệm trong phòng thí nghiệm và nhiễm trùng thường là do nhiều loại vi khuẩn khác nhau (do nhiều loại vi khuẩn khác nhau).
+A. hydrophila được phân lập trong phòng thí nghiệm từ tăm bông lấy từ mụn mủ hoặc vết thương. Đây là vi khuẩn Gram âm , nghĩa là vi khuẩn có màu hồng khi soi kính hiển vi bằng phương pháp nhuộm Gram. Vi khuẩn được định danh bằng phương pháp nuôi cấy. Cần thực hiện xét nghiệm độ nhạy cảm, vì một số chủng Aeromonas có khả năng kháng đa thuốc.
+
+---
+
+## Phương pháp điều trị nhiễm trùng Aeromonas là gì ?
+
+Nhiễm trùng da do A. hydrophila được điều trị bằng [kháng sinh](https://dermnetnz.org/topics/antibiotics) như [tetracycline](https://dermnetnz.org/topics/tetracycline) , [sulfonamid](https://dermnetnz.org/topics/sulfa-drugs-and-the-skin) , trimethoprim + sulphamethoxazole hoặc ciprofloxacin. Vi khuẩn này thường kháng [penicillin](https://dermnetnz.org/topics/penicillin) .
+Áp [xe do vi](https://dermnetnz.org/topics/cutaneous-abscess) khuẩn Aeromonas được dẫn lưu bằng phẫu thuật. Quá trình hồi phục sẽ để lại sẹo và [rụng tóc](https://dermnetnz.org/topics/hair-loss) tạm thời hoặc vĩnh viễn . [](https://dermnetnz.org/topics/cutaneous-abscess) [](https://dermnetnz.org/topics/hair-loss)
+Những bệnh nhân bị bệnh nặng cần phải nhập viện khẩn cấp.

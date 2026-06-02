@@ -1,0 +1,121 @@
+# Hoại tử mỡ dưới da ở trẻ sơ sinh — thông tin bổ sung
+
+Thể loại:
+
+Viêm
+
+SNOMED CT:
+
+239094006, 237880003, 22125009, 240303007
+
+**[Viêm](https://dermnetnz.org/topics/topics?category=Inflammation)**
+
+
+# **Hoại tử mỡ dưới da ở trẻ sơ sinh**
+
+Tác giả: Tiến sĩ Stanley Leong, Bác sĩ Da liễu và Nhi khoa, Bệnh viện Christchurch, New Zealand (2025)Được bình duyệt bởi: Tiến sĩ Jemima Sellicks,Bệnh viện Hoàng gia Leicester, Vương quốc Anh (2025)Bác sĩ da liễu được đánh giá: Tiến sĩ Ian CoulsonBiên tập bởi Phòng Nội dung DermNet
+
+---
+
+## Hoại tử mỡ dưới da ở trẻ sơ sinh là gì?
+
+Hoại tử mỡ dưới da ở trẻ sơ sinh (SCFN) là một [tình trạng viêm mô mỡ dưới da hiếm gặp,](https://dermnetnz.org/topics/panniculitis) tự giới hạn , thường biểu hiện dưới dạng các nốt sần (cục) cứng, viêm, có màu da đến tím trong vài ngày đầu đời. Các tổn thương thường xuất hiện ở đùi, mông, má, lưng và cánh tay. [](https://dermnetnz.org/topics/panniculitis)
+![Mảng cứng ở lưng trẻ sơ sinh do SCFN](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/fat-necrosis1.jpg)
+![Mảng đỏ cứng ở hông và đùi do SCFN](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/fat-necrosis2.jpg)
+![SCFN trên chân](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/fat-necrosis3.jpg)
+
+---
+
+## Ai bị hoại tử mỡ dưới da ở trẻ sơ sinh?
+
+SCFN thường gặp nhất ở trẻ sơ sinh đủ tháng và quá tháng, tuy nhiên, một số trường hợp đã được ghi nhận ở trẻ sơ sinh non tháng. Các trường hợp này thường được phát hiện trong vòng 4 tuần đầu đời.
+
+---
+
+## Nguyên nhân nào gây ra hoại tử mỡ dưới da ở trẻ sơ sinh?
+
+Sinh lý bệnh của SCFN chưa rõ ràng nhưng người ta cho rằng nó chủ yếu ảnh hưởng đến mỡ nâu, vốn chứa nhiều axit béo bão hòa và có vai trò sinh nhiệt để đáp ứng với tiếp xúc với lạnh. Dưới áp lực, tình trạng thiếu oxy mô kèm theo suy giảm tưới máu sẽ dẫn đến kết tinh các mô mỡ dưới da, gây hoại tử mô và các triệu chứng lâm sàng của SCFN ở trẻ sơ sinh.
+Các yếu tố nguy cơ có thể xảy ra:
+- Nhiệt độ cơ thể thấp ( hạ thân nhiệt )
+- Nồng độ oxy thấp (thiếu oxy và ngạt thở khi sinh)
+- Cân nặng khi sinh lớn (lớn so với tuổi thai )
+- Hít phải phân su
+- Hạ thân nhiệt trị liệu (làm mát toàn bộ cơ thể)
+- Sinh mổ
+- Chấn thương sản khoa (ví dụ sinh bằng kẹp)
+- Bệnh tiểu đường ở mẹ
+- Tăng huyết áp ở mẹ ( tiền sản giật )
+- Suy giáp ở mẹ
+- Bong nhau thai
+- Sự nhiễm trùng
+Điều quan trọng cần lưu ý là hầu hết trẻ sơ sinh tiếp xúc với các yếu tố trên đều không mắc SCFN.
+
+---
+
+## Đặc điểm lâm sàng của hoại tử mỡ dưới da ở trẻ sơ sinh là gì?
+
+Các nốt sần đỏ, mềm, chắc, dai, thường xuất hiện ở lưng, mông, vai, má và tứ chi. Kích thước các nốt sần có thể dao động từ các tổn thương đơn lẻ 1cm đến nhiều tổn thương có đường kính >8cm. Trong một số trường hợp, đặc biệt là ở lưng và mông, có thể xuất hiện các vùng hoại tử mỡ rộng và biểu hiện dưới dạng các mảng lớn.
+Các nốt sần có thể cứng như gỗ khi sờ nắn và khi phát triển có thể chuyển sang màu nâu. Các nốt sần lớn hơn có thể có tính chất dao động . Bệnh nhân thường không sốt và không có triệu chứng toàn thân .
+SCFN ở trẻ sơ sinh ít nghiêm trọng hơn [bệnh sclerema neonatorum](https://dermnetnz.org/topics/sclerema-neonatorum) , một tình trạng khác có thể gây ra tình trạng da cứng ở trẻ sơ sinh.
+
+---
+
+## Các đặc điểm lâm sàng khác nhau ở các loại da khác nhau như thế nào?
+
+Hoại tử mỡ dưới da ở trẻ sơ sinh có thể biểu hiện dưới dạng các nốt hoặc mảng sẫm màu/ sắc tố thay vì ban đỏ .
+
+---
+
+## Biến chứng của hoại tử mỡ dưới da ở trẻ sơ sinh là gì?
+
+Các nốt hoại tử mỡ dưới da ở trẻ sơ sinh thường gây đau và trong một số ít trường hợp có thể kéo dài hàng tháng trước khi khỏi. Đôi khi, trẻ sơ sinh có thể bị mất một vùng mỡ lõm.
+Tăng canxi máu là một biến chứng hiếm gặp nhưng nghiêm trọng của SCFN. Nguyên nhân là do tăng hoạt động prostaglandin, giải phóng canxi từ mô mỡ hoại tử , tăng tiết 1,2-dihydroxycolecalciferol ở đại thực bào và giảm thanh thải canxi ở thận . Tất cả trẻ sơ sinh bị hoại tử dưới da cần được kiểm tra canxi máu định kỳ trong vài tháng đầu đời.
+Các dấu hiệu và triệu chứng của tăng canxi huyết bao gồm:
+- Sự uể oải
+- trương lực cơ thấp
+- Sự cáu kỉnh
+- Táo bón
+- Nôn mửa
+- Đi tiểu thường xuyên
+- Khát nước thường xuyên
+- Tăng cân kém
+- Rối loạn nhịp tim (rất hiếm gặp).
+Hoại tử mỡ dưới da ở trẻ sơ sinh có liên quan đến tình trạng giảm tiểu cầu kéo dài. Trẻ sơ sinh cũng có thể bị tăng tiểu cầu trong một số trường hợp hiếm gặp. Thiếu máu , hạ đường huyết ( hạ đường huyết ) và tăng mỡ máu ( tăng lipid máu ) cũng đã được ghi nhận.
+Trong hầu hết các trường hợp, những bất thường trong xét nghiệm này xảy ra ở giai đoạn đầu của bệnh và ở mức độ nhẹ và thoáng qua.
+
+---
+
+## Làm thế nào để chẩn đoán hoại tử mỡ dưới da ở trẻ sơ sinh?
+
+Hoại tử mỡ dưới da ở trẻ sơ sinh thường được chẩn đoán lâm sàng. Có thể [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) để xác nhận chẩn đoán.
+Kết quả giải phẫu bệnh lý bao gồm:
+- [Viêm mô mỡ](https://dermnetnz.org/topics/panniculitis) tiểu thùy chủ yếu là thâm nhiễm mô bào , bao gồm các tế bào khổng lồ đa nhân và tế bào mỡ
+- Các khe hở hình kim ( tinh thể nội bào từ triglyceride ) trong các tế bào mô cũng như tế bào mỡ
+- Các tế bào mô bọt
+- Hoại tử mỡ kèm viêm hạt
+- Có thể có sự vôi hóa
+![Có tình trạng viêm mô mỡ tiểu thùy và có thể nhìn thấy các tế bào khổng lồ trong mô mỡ](https://dermnetnz.org/assets/Uploads/pathology/e/sfnnfig1.jpg)
+Siêu âm có thể được sử dụng để xác nhận chẩn đoán và không cần dùng thuốc an thần hoặc bức xạ ion hóa.
+
+---
+
+## Chẩn đoán phân biệt bệnh hoại tử mỡ dưới da ở trẻ sơ sinh là gì?
+
+- [Viêm mô mỡ](https://dermnetnz.org/topics/panniculitis) do chấn thương .
+- Viêm mô mỡ lạnh: Thường biểu hiện bằng các mảng đỏ, chắc , có ranh giới rõ ràng tại những vị trí da tiếp xúc trực tiếp với vật lạnh.
+- [Sclerema neonatorum](https://dermnetnz.org/topics/sclerema-neonatorum) : Đây là một tình trạng viêm mô mỡ dưới da cực kỳ hiếm gặp, ảnh hưởng đến trẻ sơ sinh non tháng hoặc nhẹ cân, nguy kịch và có tỷ lệ tử vong cao . Tình trạng này thường xuất hiện trong những ngày đầu sau sinh. Da thường căng đối xứng và có thể dính vào các mô bên dưới. Phát ban da thường lan nhanh, ảnh hưởng đến toàn bộ vùng da có mỡ bên dưới nhưng không ảnh hưởng đến bộ phận sinh dục , lòng bàn tay và lòng bàn chân thiếu mỡ dưới da. Mô bệnh học cho thấy hình ảnh tương tự như hoại tử mỡ dưới da ở trẻ sơ sinh nhưng không có thâm nhiễm tế bào viêm .
+- [Phù cứng bì](https://dermnetnz.org/topics/scleroedema) (scleredema): Đây là một tình trạng hiếm gặp, phát triển ở trẻ sơ sinh tiếp xúc với môi trường lạnh hoặc nhiễm trùng nặng trong tuần đầu tiên sau sinh. Da bị ảnh hưởng có xu hướng dày lên, giống như sáp và phù nề. Phù cứng bì thường ảnh hưởng đến chân. Cần phân biệt phù cứng bì ở trẻ sơ sinh với phù cứng bì ở người lớn.
+- [Ngừng sử dụng steroid](https://dermnetnz.org/topics/topical-corticosteroid-withdrawal) : Điều này có thể dẫn đến các nốt sần dưới da, thường ở má, cánh tay và thân mình.
+
+---
+
+## Phương pháp điều trị hoại tử mỡ dưới da ở trẻ sơ sinh là gì?
+
+SCFN thường tự giới hạn và việc điều trị nên tập trung vào kiểm soát triệu chứng . Tình trạng viêm thường tự khỏi mà không cần điều trị đặc hiệu. Nếu tình trạng viêm nặng, có thể sử dụng [corticosteroid toàn thân](https://dermnetnz.org/topics/systemic-steroids) để kiểm soát tình trạng viêm. [](https://dermnetnz.org/topics/systemic-steroids)
+Tăng canxi máu thứ phát do hoại tử mỡ dưới da ở trẻ sơ sinh có thể cần điều trị bằng cách tăng lượng nước uống, cho trẻ bú sữa ít canxi, dùng furosemid, corticosteroid và bisphosphonat. Khuyến cáo nên theo dõi nồng độ canxi trong máu (ít nhất 4 tháng).
+
+---
+
+## Hậu quả của tình trạng hoại tử mỡ dưới da ở trẻ sơ sinh là gì?
+
+Tiên lượng thường thuận lợi và không cần điều trị.

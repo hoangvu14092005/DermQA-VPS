@@ -1,0 +1,154 @@
+# Keo milium - thông tin bổ sung
+
+Thể loại:
+
+Phản ứng
+
+SNOMED CT:
+
+81995009, 238877001, 238878006, 402684002, 699221007
+
+**[Phản ứng](https://dermnetnz.org/topics/topics?category=Reactions)**
+
+
+# **Mili keo**
+
+Tác giả: Tiến sĩ Frank Po-Chao Chiu, Cán bộ Cấp cao, Bệnh viện Hoàng gia Brisbane và Phụ nữ, Brisbane, QLD, Úc;Tiến sĩ Jim Muir, Bác sĩ Da liễu,Khoa Da liễu Đông Nam,Brisbane, QLD, Úc. Phó Giáo sư Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand. Biên tập bởi Gus Mitchell/Maria McGivern. Tháng 7 năm 2019.
+
+---
+
+## Mili keo là gì?
+
+Milium dạng keo là một nhóm các rối loạn lắng đọng dưới da , thoái hóa hiếm gặp .
+Các rối loạn thoái hóa keo được đặc trưng bởi các chất lắng đọng giống như trong suốt , vô định hình ở lớp hạ bì , thường biểu hiện dưới dạng các sẩn và mảng màu vàng nâu, bán trong suốt trên các vùng tiếp xúc với ánh nắng mặt trời [1].
+![Mili keo trưởng thành](https://dermnetnz.org/assets/Uploads/colloid-milium-03.jpg)
+![Mili keo trưởng thành](https://dermnetnz.org/assets/Uploads/colloid-milium-02.jpg)
+![Mili keo trưởng thành](https://dermnetnz.org/assets/Uploads/colloid-milium-01.jpg)
+
+---
+
+## Mili keo được phân loại như thế nào?
+
+Hiện nay có năm loại milium keo khác nhau:
+- Mili keo trưởng thành
+- Mili dạng keo non
+- Mili keo sắc tố
+- Thoái hóa dạng keo nốt (paracolloid) của da
+- Sừng hóa acral với các chất lắng đọng ở da ưa eosin [2].
+Kể từ khi milium keo được Tiến sĩ Ernst Wagner mô tả lần đầu tiên là “Das Colloid-Milium der Haut” vào năm 1866, nó cũng được gọi là thoái hóa keo, giả milium keo, u keo miliary , u sợi đệm thâm nhiễm keo và elastosis colloidalis conglomerata [3].
+
+---
+
+## Ai bị milium dạng keo?
+
+Mili dạng keo trưởng thành là phân nhóm phổ biến nhất và thường phát triển ở nam giới da trắng, độ tuổi từ 30–60, làm việc ngoài trời, chẳng hạn như làm nông [1]. Nam giới có nguy cơ mắc mili dạng keo trưởng thành cao gấp bốn lần so với nữ giới. Các tình trạng bệnh lý đôi khi liên quan đến mili dạng keo trưởng thành bao gồm đa u tủy và beta-thalassemia [1,2].
+Mili dạng keo vị thành niên cực kỳ hiếm gặp. Bệnh thường xuất hiện ở độ tuổi từ 10 đến 20, nhưng đã có trường hợp trẻ 4 tuổi mắc bệnh này [4]. Các trường hợp gia đình mắc bệnh Mili dạng keo vị thành niên di truyền lặn trên nhiễm sắc thể thường đã được báo cáo [5].
+Mili keo sắc tố thường xuất hiện sau khi sử dụng [kem tẩy trắng](https://dermnetnz.org/topics/bleaching-agents) [hydroquinone](https://dermnetnz.org/topics/hydroquinone) và [tiếp xúc nhiều với ánh nắng mặt trời](https://dermnetnz.org/topics/ultraviolet-radiation-and-human-health) . Một trường hợp mili keo sắc tố không liên quan đến hydroquinone cũng đã được báo cáo ở một [nông dân da trắng tiếp xúc](https://dermnetnz.org/topics/skin-problems-in-farmers) lâu dài với phân bón và ánh nắng mặt trời [6]. [](https://dermnetnz.org/topics/bleaching-agents) [](https://dermnetnz.org/topics/ultraviolet-radiation-and-human-health) [](https://dermnetnz.org/topics/skin-problems-in-farmers)
+Đã có 13 trường hợp thoái hóa keo dạng nốt được báo cáo kể từ khi nó được mô tả lần đầu tiên vào năm 1927; tám trường hợp xảy ra ở nam giới và độ tuổi trung bình là 52 tuổi (dao động: 25–76 tuổi) [7,8].
+Một loạt sáu người da trắng lớn tuổi được báo cáo mắc chứng dày sừng chi với các chất lắng đọng ở da ưa eosin; bốn người là nam giới, với độ tuổi trung bình là 74 (dao động: 59–81 tuổi).
+
+---
+
+## Nguyên nhân gây ra bệnh milium dạng keo là gì?
+
+Milium dạng keo trưởng thành có liên quan đến việc tiếp xúc quá nhiều với ánh sáng mặt trời, dầu mỏ và hóa chất, mặc dù cơ chế bệnh sinh của nó vẫn chưa rõ ràng. Người ta nghi ngờ rằng ánh sáng mặt trời làm đứt các sợi elastin , dẫn đến sự tích tụ protein hoặc các sản phẩm của nguyên bào sợi trong lớp hạ bì. Các yếu tố góp phần có thể bao gồm chấn thương và tác động quang động của phenol trong dầu khí [3].
+Milium dạng keo non có liên quan đến [việc tiếp xúc lâu dài với ánh nắng mặt trời](https://dermnetnz.org/topics/ultraviolet-radiation-and-human-health) và [cháy nắng](https://dermnetnz.org/topics/sunburn) nghiêm trọng , dẫn đến thoái hóa tế bào sừng [4].
+Mili dạng keo sắc tố có liên quan đến [chứng ochronosis](https://dermnetnz.org/topics/alkaptonuria-and-ochronosis) do [hydroquinone](https://dermnetnz.org/topics/hydroquinone) trong [kem tẩy trắng](https://dermnetnz.org/topics/bleaching-agents) và tiếp xúc với ánh nắng mặt trời [1].
+Vai trò của việc tiếp xúc với ánh nắng mặt trời trong quá trình thoái hóa keo dạng nốt vẫn chưa chắc chắn vì một trường hợp liên quan đến dương vật đã được mô tả [7]. Vật liệu keo được nghi ngờ có liên quan đến quá trình thoái hóa actinic của các sợi đàn hồi ( [sự đàn hồi do ánh nắng mặt trời](https://dermnetnz.org/topics/solar-elastosis) ) [7].
+Nguyên nhân gây dày sừng đầu chi với các lắng đọng ở da ưa eosin vẫn chưa được biết rõ. Nguyên nhân có thể liên quan đến việc tiếp xúc với ánh nắng mặt trời và sự thoái triển của [mụn cóc do virus](https://dermnetnz.org/topics/viral-wart) , mặc dù chưa có bằng chứng về [tình trạng nhiễm virus papilloma ở người đang hoạt động [9,10].](https://dermnetnz.org/topics/sexually-acquired-human-papillomavirus)
+
+---
+
+## Đặc điểm lâm sàng của bệnh milium dạng keo là gì?
+
+Milium keo trưởng thành thường biểu hiện bằng nhiều sẩn màu thịt hoặc vàng nâu, bán trong suốt, hình vòm, có đường kính từ 1–4 mm.
+- Sẩn có thể kết hợp thành mảng bám.
+- Chúng có xu hướng xuất hiện ở những vùng da tiếp xúc với ánh nắng mặt trời như mặt, tai, cổ, mu bàn tay và cẳng tay.
+- Sự liên quan đơn phương trên cánh tay tiếp xúc với ánh nắng mặt trời đã được báo cáo ở những tài xế taxi và xe tải [2].
+- Một vật liệu dạng gelatin mềm, màu vàng thường có thể được biểu hiện bằng áp suất [11].
+- Da bên dưới có thể bị phì đại và tăng sắc tố [12].
+- Các tổn thương không có triệu chứng hoặc ngứa tạm thời [1].
+Soi da cho thấy các cục màu vàng nâu .
+![Nội soi da của milium keo trưởng thành](https://dermnetnz.org/assets/Uploads/colloid-milium-04.jpg)
+Mili keo sắc tố được đặc trưng bởi các sẩn màu xám đen tập trung thành từng cụm trên mặt [6].
+Thoái hóa keo dạng nốt biểu hiện dưới dạng một nốt hoặc mảng riêng lẻ , đường kính khoảng 50 mm, trên vùng da tiếp xúc lâu ngày với ánh nắng mặt trời , đặc biệt là mặt. Da đầu, thân và tứ chi cũng có thể bị ảnh hưởng [12].
+Sừng hóa đầu chi với các chất lắng đọng ở da ưa eosin biểu hiện dưới dạng các sẩn sừng hóa không đau , tiến triển chậm ở mặt lòng bàn tay hoặc mu bàn tay [2,10].
+
+---
+
+## Biến chứng của bệnh milium dạng keo là gì?
+
+Không có biến chứng toàn thân nào của bệnh milium dạng keo ở người lớn.
+Milium dạng keo ở trẻ em được báo cáo là gây ra viêm kết mạc dạng gỗ , một căn bệnh hiếm gặp đặc trưng bởi các màng giả giống như gỗ phát triển trên niêm mạc mắt ( niêm mạc mắt và niêm mạc ngoài mắt ) và viêm nha chu , mặc dù cơ chế bệnh sinh của những bệnh này vẫn chưa rõ ràng [1,14].
+
+---
+
+## Mili keo được chẩn đoán như thế nào?
+
+Mili dạng keo được xác nhận bằng [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) [12]; (xem trang DermNet về [bệnh lý mili dạng keo](https://dermnetnz.org/topics/colloid-milium-pathology) ). Mili dạng keo có thể được phân biệt với [bệnh lắng đọng tinh bột](https://dermnetnz.org/topics/cutaneous-amyloidosis) và các tình trạng khác bằng cách sử dụng [các phương pháp nhuộm đặc biệt](https://dermnetnz.org/cme/dermatopathology/special-stains-and-tests) , [miễn dịch mô học](https://dermnetnz.org/topics/immunohistochemistry-stains) và kính hiển vi điện tử [1].
+
+### Bệnh học mô học của milium dạng keo
+Các đặc điểm bệnh lý của milium dạng keo trưởng thành bao gồm:
+- Các chất lắng đọng của vật liệu đồng nhất , vô định hình, hơi ưa eosin với các khe nứt và vết nứt phân chia , kéo dài vào lớp nhú và lớp giữa bì [2,3]
+- Các nguyên bào sợi lót các khe hở, có thể chứa tế bào lympho và tế bào mast [12]
+- Thiếu viêm
+- Phần phụ được bảo tồn ( phần phụ của da , bao gồm tuyến bã nhờn , tuyến mồ hôi và nang lông ) [15]
+- Các mạch máu giãn nở xung quanh các chất lắng đọng keo [1,12]
+- Elastosis mặt trời với vùng Grenz tách các chất lắng đọng keo khỏi lớp biểu bì bên trên [2,12,16]
+- Lớp biểu bì dẹt hoặc tăng sừng [3]
+Ngược lại với milium keo trưởng thành, milium keo vị thành niên không có vùng Grenz và chất keo được tìm thấy trong lớp biểu bì hoặc lớp hạ bì nông [13].
+Trong trường hợp dày sừng đầu chi với lắng đọng ở lớp bì ưa eosin, các lắng đọng vật liệu ưa eosin vô định hình được khu trú ở lớp bì nhú. Loại hạt kê dạng keo này không liên quan đến thoái hóa đàn hồi (sự phá vỡ mô đàn hồi) hoặc nứt nẻ.
+
+### Kính hiển vi điện tử
+Dưới kính hiển vi điện tử , cấu trúc siêu nhỏ của keo xuất hiện dưới dạng vật liệu dạng hạt, vô định hình, mật độ electron trung bình với các sợi nhánh ngắn, không rõ ràng, nhỏ hơn nhiều so với những sợi được thấy trong bệnh lắng đọng tinh bột [1,2]. Người ta cũng quan sát thấy tàn dư desmosome , nguyên bào sợi hoạt động, protein liên kết và protein hạt nhân [2,12].
+
+### Vết bẩn đặc biệt
+Mili keo trưởng thành nhuộm dương tính với thuốc nhuộm tím tinh thể, đỏ Congo và thuốc nhuộm axit định kỳ Schiff (PAS) [2,11]. Mili keo trưởng thành cũng nhuộm 'màu xanh trứng chim cổ đỏ' bằng thuốc nhuộm axit orcein-Giemsa của Pinkus và sẽ phát huỳnh quang với thioflavin T [2].
+Miễn dịch mô hóa học thường cần thiết để phân biệt milium keo với bệnh thoái hóa tinh bột. Cả milium keo trưởng thành và bệnh thoái hóa tinh bột đều nhuộm dương tính với protein amyloid P. Không giống như bệnh thoái hóa tinh bột, milium keo trưởng thành biểu hiện phản ứng âm tính với cytokeratin (bao gồm MNF-116), laminin, collagen loại IV , thuốc nhuộm cotton (bao gồm cả đỏ pagoda) và immunoglobulin chuỗi nhẹ (Ig) [11,17]. Mium keo trưởng thành nhuộm dương tính với kháng nguyên IgG , IgM và NKH-1 (nhuộm protein liên quan đến vi sợi sợi đàn hồi ) [4].
+Milium dạng keo non không nhuộm protein amyloid P nhưng nhuộm dương tính với kháng thể antikeratin và cytokeratin (bao gồm MNF116 và cytokeratin AE1/AE3) [2,13]. Milium dạng keo non cũng nhuộm dương tính với IgG trong các chất lắng đọng dạng keo [18]. Đánh dấu pan-cytokeratin dương tính và sử dụng kính hiển vi điện tử cho thấy các chất lắng đọng dạng keo non có nguồn gốc từ các tế bào sừng thoái hóa ở biểu bì , trái ngược với milium dạng keo trưởng thành, trong đó các chất lắng đọng được nghi ngờ có nguồn gốc từ mô đàn hồi thoái hóa ở lớp hạ bì [5].
+Các đảo keo của cả hai loại thoái hóa keo sắc tố và keo dạng nốt đều được tìm thấy ở lớp hạ bì trên, với các vết nứt và khe hở kéo dài sâu bên trong lớp hạ bì [2,6,19]. Các sợi ochronotic hình quả chuối màu vàng nâu bổ sung cũng được nhìn thấy giữa các bó collagen và elastin của lớp hạ bì sâu trong loại thoái hóa keo sắc tố [6].
+Cả hai loại thoái hóa dạng keo sắc tố và dạng keo nốt đều nhuộm màu dương tính với PAS và nhuộm elastin nhưng lại âm tính với Congo đỏ, trái ngược với loại thoái hóa dạng keo trưởng thành [6,7].
+Trong bệnh sừng hóa đầu chi với các chất lắng đọng ở da ái toan, các chất lắng đọng có kết quả dương tính với nhuộm trichrome và PAS, trong khi có kết quả âm tính với kháng thể đỏ Congo, protein amyloid P, collagen loại IV và cytokeratin [2].
+
+---
+
+## Chẩn đoán phân biệt đối với bệnh milium dạng keo là gì?
+
+Chẩn đoán phân biệt bệnh sẩn dạng keo bao gồm các tình trạng khác biểu hiện bằng nhiều nốt sần [1,11,12]. Điều này có thể bao gồm:
+- [Milium/milia](https://dermnetnz.org/topics/milium)
+- [Tăng sản bã nhờn](https://dermnetnz.org/topics/sebaceous-hyperplasia)
+- [Syringomas](https://dermnetnz.org/topics/syringoma)
+- [U nang giữ lại](https://dermnetnz.org/topics/comedonal-acne)
+- [U mềm lây](https://dermnetnz.org/topics/molluscum-contagiosum)
+- Bệnh lắng đọng tinh bột ở da nguyên phát và [toàn thân](https://dermnetnz.org/topics/cutaneous-amyloidosis)
+- [U nang mỡ đa ổ](https://dermnetnz.org/topics/steatocystoma-multiplex)
+- [Bệnh protein lipid](https://dermnetnz.org/topics/lipoid-proteinosis)
+- [Vôi hóa da](https://dermnetnz.org/topics/calcinosis-cutis)
+- Bệnh [sarcoidosis da](https://dermnetnz.org/topics/sarcoidosis)
+- [Viêm nhầy sẩn](https://dermnetnz.org/topics/lichen-myxoedematosus) .
+
+---
+
+## Phương pháp điều trị bệnh mụn mủ dạng keo là gì?
+
+Điều trị có thể bao gồm sự kết hợp giữa liệu pháp y tế và vật lý [1,11,12].
+
+### Liệu pháp y tế
+Các liệu pháp y tế để điều trị keo milium bao gồm:
+- [Retinoid bôi ngoài da](https://dermnetnz.org/topics/topical-retinoids) (tretinoin, isotretinoin và adapalene)
+- Kem làm bong lớp sừng ( [urê](https://dermnetnz.org/topics/urea) , [axit salicylic](https://dermnetnz.org/topics/salicylic-acid) và [axit alpha hydroxy](https://dermnetnz.org/topics/alpha-hydroxy-acid-facial-treatments) ).
+
+### Vật lý trị liệu
+Các liệu pháp vật lý để điều trị mụn cơm dạng keo bao gồm:
+- [Nạo và phẫu thuật điện](https://dermnetnz.org/topics/curettage-and-cautery)
+- [Liệu pháp lạnh](https://dermnetnz.org/topics/cryotherapy)
+- [Mài mòn da](https://dermnetnz.org/topics/dermabrasion)
+- [Tái tạo bề mặt bằng laser carbon dioxide](https://dermnetnz.org/topics/carbon-dioxide-laser-treatment) hoặc [erbium](https://dermnetnz.org/topics/eryag-laser-treatment)
+- [Liệu pháp quang động](https://dermnetnz.org/topics/photodynamic-therapy) .
+Đốt điện quá mức , liệu pháp lạnh và liệu pháp laser có thể gây ra kết quả thẩm mỹ kém [3].
+
+---
+
+## Kết quả của milium keo là gì?
+
+Mili keo có thể lan rộng hơn theo thời gian, nhưng thường ổn định sau 3 năm [3]. Các tổn thương mới hiếm khi phát triển sau giai đoạn này. Nếu không được điều trị, mili keo thường tồn tại dai dẳng và không tự khỏi [1].

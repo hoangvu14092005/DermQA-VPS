@@ -1,0 +1,80 @@
+# Hồ tĩnh mạch — thông tin bổ sung
+
+Thể loại:
+
+Các vấn đề về mạch máu
+
+SNOMED CT:
+
+402843003, 235052000
+
+**[Các vấn đề về mạch máu](https://dermnetnz.org/topics/topics?category=Blood+vessel+problems)**
+
+
+# **Hồ tĩnh mạch**
+
+Tác giả: Tiến sĩ Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand. Biên tập bởi Maria McGivern/Gus Mitchell. Tháng 12 năm 2017.
+
+---
+
+## Hồ tĩnh mạch là gì?
+
+Hồ tĩnh mạch là một mảng hoặc sẩn mềm màu xanh lam phổ biến do giãn mạch máu . Tình trạng này thường thấy nhất ở môi dưới.
+![Hồ tĩnh mạch](https://dermnetnz.org/assets/Uploads/vascular/ven-lake.jpg)
+![Hồ tĩnh mạch](https://dermnetnz.org/assets/Uploads/vascular/s/ven-lake2.jpg)
+![Hồ tĩnh mạch](https://dermnetnz.org/assets/Uploads/vascular/s/ven-lake3.jpg)
+[Xem thêm hình ảnh về hồ tĩnh mạch.](https://dermnetnz-org.translate.goog/topics/venous-lake-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+
+---
+
+## Ai sẽ nhận được hồ tĩnh mạch?
+
+Hồ tĩnh mạch thường được chẩn đoán ở nam giới và phụ nữ trung niên hoặc lớn tuổi thuộc mọi chủng tộc.
+
+---
+
+## Nguyên nhân gây ra hồ tĩnh mạch là gì?
+
+Nguyên nhân gây ra bệnh hồ tĩnh mạch vẫn chưa được biết rõ.
+
+---
+
+## Đặc điểm lâm sàng của hồ tĩnh mạch là gì?
+
+Hồ tĩnh mạch là một dát hoặc sẩn mềm, dễ vỡ, màu xanh hoặc tím, đường kính 0,2–1 cm. Mặc dù chúng có thể xuất hiện ở bất cứ đâu, hầu hết các hồ tĩnh mạch được chẩn đoán ở môi dưới (trên viền môi son hoặc bề mặt niêm mạc ), trên dái tai, hoặc bất kỳ vị trí nào khác trên mặt, cổ hoặc thân trên.
+
+### Tác động của sự nén lên hồ tĩnh mạch
+![Hồ tĩnh mạch](https://dermnetnz.org/assets/Uploads/ectasia-compression-1.jpg)
+![Nén một hồ tĩnh mạch](https://dermnetnz.org/assets/Uploads/ectasia-compression-2.jpg)
+![Hồ tĩnh mạch sau khi nén](https://dermnetnz.org/assets/Uploads/ectasia-compression-3.jpg)
+
+---
+
+## Hồ tĩnh mạch được chẩn đoán như thế nào?
+
+Hồ tĩnh mạch thường dễ chẩn đoán lâm sàng dựa vào hình dạng. Màu sắc biến mất khi đè lên dát hoặc sẩn do máu từ tĩnh mạch giãn nở được đào thải. Điều này dễ dàng quan sát nhất bằng cách sử dụng lam kính hoặc thấu kính của [máy soi da](https://dermnetnz.org/topics/dermoscopy) tiếp xúc . Hồ tĩnh mạch có màu xanh hoặc tím không có cấu trúc trên da khi [soi da](https://dermnetnz.org/topics/dermoscopy) . [Sinh thiết](https://dermnetnz.org/topics/skin-biopsy) hiếm khi cần thiết và cho thấy tĩnh mạch giãn nở.
+
+---
+
+## Chẩn đoán phân biệt đối với hồ tĩnh mạch là gì?
+
+Hồ tĩnh mạch đôi khi có thể bị nhầm lẫn với:
+- [Nốt ruồi xanh](https://dermnetnz.org/topics/blue-naevus)
+- [U máu anh đào](https://dermnetnz.org/topics/cherry-angioma)
+- [Giãn mao mạch mạng nhện](https://dermnetnz.org/topics/spider-telangiectasis) .
+
+---
+
+## Phương pháp điều trị bệnh hồ tĩnh mạch là gì?
+
+Hồ tĩnh mạch là vô hại và không cần điều trị. Một tổn thương mất thẩm mỹ có thể được loại bỏ bằng cách phá hủy nó. Việc này sẽ tạo ra một lớp vảy tạm thời, và thủ thuật này có thể để lại sẹo. Các phương pháp điều trị để loại bỏ hồ tĩnh mạch bao gồm:
+- [Liệu pháp lạnh](https://dermnetnz.org/topics/cryotherapy)
+- [Đốt điện](https://dermnetnz.org/topics/electrosurgery)
+- [Xơ cứng](https://dermnetnz.org/topics/sclerotherapy)
+- [Ánh sáng xung cường độ cao](https://dermnetnz.org/topics/intense-pulsed-light-therapy)
+- [Laser](https://dermnetnz.org/topics/lasers-in-dermatology) mạch máu .
+Phẫu thuật [cắt bỏ](https://dermnetnz.org/topics/skin-biopsy) hiếm khi cần thiết và chắc chắn sẽ để lại sẹo.
+
+### Hồ tĩnh mạch được điều trị bằng liệu pháp lạnh
+![Hồ tĩnh mạch](https://dermnetnz.org/assets/Uploads/vascular/s/ven-lake4.jpg)
+![Hồ tĩnh mạch](https://dermnetnz.org/assets/Uploads/vascular/s/ven-lake5.jpg)

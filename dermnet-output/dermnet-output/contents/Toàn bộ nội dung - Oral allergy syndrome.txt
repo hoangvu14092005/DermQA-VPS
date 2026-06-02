@@ -1,0 +1,117 @@
+# Hội chứng dị ứng phấn hoa - thực phẩm — thông tin bổ sung
+
+Thể loại:
+
+Phản ứng
+
+SNOMED CT:
+
+432807008
+
+**[Phản ứng](https://dermnetnz.org/topics/topics?category=Reactions)**
+
+
+# **Hội chứng dị ứng phấn hoa-thực phẩm**
+
+Tác giả: Tiến sĩ Emily Ryder, Bác sĩ da liễu, Auckland, New Zealand; tháng 1 năm 2018.Bản cập nhật DermNet tháng 5 năm 2021. Biên tập bởi Gus Mitchell.
+
+---
+
+## Hội chứng dị ứng phấn hoa-thực phẩm là gì?
+
+Hội chứng dị ứng phấn hoa thực phẩm , trước đây gọi là hội chứng dị ứng đường miệng, biểu hiện các triệu chứng sau khi ăn một số loại thực phẩm sống cụ thể có phản ứng chéo với dị ứng phấn hoa hiện có (bệnh phấn hoa).
+
+---
+
+## Ai mắc hội chứng dị ứng phấn hoa-thực phẩm?
+
+Hội chứng dị ứng phấn hoa-thực phẩm (PFAS) ảnh hưởng đến những người bị viêm mũi dị ứng ( sốt cỏ khô ), [viêm da dị ứng](https://dermnetnz.org/topics/atopic-dermatitis) và/hoặc hen suyễn do dị ứng phấn hoa. Bất kỳ nhóm tuổi nào cũng có thể mắc hội chứng dị ứng phấn hoa-thực phẩm sau khi ăn thức ăn đặc .
+Hội chứng dị ứng phấn hoa - thực phẩm là dị ứng thực phẩm thường gặp nhất ở người lớn. Bệnh bắt đầu ở trẻ mẫu giáo và tăng dần theo độ tuổi. Tỷ lệ mắc bệnh thực sự có thể bị đánh giá thấp do không được chẩn đoán. Một nghiên cứu tại Anh báo cáo tỷ lệ mắc bệnh trung bình là 2% (dao động từ 0,8–4,1%) trong dân số nói chung.
+Tỷ lệ mắc hội chứng dị ứng phấn hoa-thực phẩm và các loại thực phẩm liên quan khác nhau tùy theo khu vực và loại phấn hoa. Ví dụ, ở Thụy Điển, 70% số người bị dị ứng phấn hoa bạch dương mắc PFAS trong khi chỉ có 19% số người bị dị ứng phấn hoa khác mắc hội chứng này. Ở Hàn Quốc, PFAS cũng thường liên quan đến dị ứng phấn hoa cây (48%) hơn là dị ứng phấn hoa cỏ (13%). PFAS được báo cáo là ảnh hưởng đến khoảng 50% trẻ em ở Anh và Hàn Quốc bị dị ứng phấn hoa bạch dương, trong đó từ 17–36% trẻ em dưới 5 tuổi và lên đến 70% trẻ em từ 10–18 tuổi. Một nghiên cứu từ Sydney, Úc cho biết 12% trẻ em (4–17 tuổi) bị dị ứng cỏ lúa mạch đen mắc PFAS, chủ yếu là do dưa hấu.
+
+### Thực phẩm phản ứng chéo với phấn hoa
+Phấn hoa bạch dương có phản ứng chéo với nhiều loại thực phẩm bao gồm:
+- Họ Rosaceae — táo, lê, anh đào ngọt, đào, mận, mơ, hạnh nhân
+- Khác — Apiaceae (cần tây, cà rốt), Solanaceaea (khoai tây), Actinidiaceae (kiwi), Betulaceae (hạt phỉ), Anacardiaceae (xoài), ớt.
+Phấn hoa cỏ có thể phản ứng chéo với:
+- Họ bầu bí — dưa hấu, dưa gang
+- Khác — Solanaceae (cà chua, khoai tây), Actinidiaceae (kiwi), Rutaceae (cam), Fabaceae (đậu phộng).
+Phấn hoa cỏ phấn hương phản ứng chéo với:
+- Họ bầu bí — dưa hấu, dưa lưới, dưa lưới, bí xanh, dưa chuột
+- Họ chuối (Musaceae).
+Phấn hoa ngải cứu phản ứng chéo với:
+- Apiaceae – cần tây, cà rốt
+- Khác – Họ Anacardiaceae (xoài), gia vị.
+![Thực phẩm gây dị ứng phấn hoa có liên quan đến dị ứng phấn hoa cỏ](https://dermnetnz.org/assets/Uploads/grass-pollen-oral-allergy-food.jpg)
+![Thực phẩm gây dị ứng phấn hoa có liên quan đến phấn hoa bạch dương](https://dermnetnz.org/assets/Uploads/birch-pollen-food-allergy.jpg)
+![Thực phẩm gây dị ứng phấn hoa có liên quan đến dị ứng phấn hoa cỏ phấn hương](https://dermnetnz.org/assets/Uploads/ragweed-pollen-oral-allergy-food.jpg)
+
+---
+
+## Nguyên nhân nào gây ra hội chứng dị ứng phấn hoa-thực phẩm?
+
+Hội chứng dị ứng phấn hoa thực phẩm là do phản ứng miễn dịch qua trung gian immunoglobulin E ( IgE ) ( quá mẫn loại I, 'tức thì') với các protein đặc hiệu có trong các chất gây dị ứng hít phải (phấn hoa), phản ứng chéo với các protein thực vật có trong một số loại trái cây, rau củ và các loại hạt sống (dị ứng thực phẩm loại II). Quá trình nấu nướng làm thay đổi nhiều (nhưng không phải tất cả) các protein thực phẩm này, vì vậy hầu hết mọi người không xuất hiện triệu chứng khi ăn trái cây và rau củ nấu chín. Ngoại lệ bao gồm các protein chịu nhiệt trong cần tây, đậu nành và đậu phộng.
+Người ta vẫn chưa rõ tại sao một số người bị dị ứng phấn hoa lại mắc bệnh PFAS trong khi nhiều người khác thì không.
+
+---
+
+## Các đặc điểm lâm sàng của hội chứng dị ứng phấn hoa-thực phẩm là gì?
+
+Hội chứng dị ứng phấn hoa-thực phẩm thường ảnh hưởng đến môi, miệng và hầu (những vùng tiếp xúc trực tiếp với thực phẩm), và ít khi gây ra các triệu chứng và dấu hiệu toàn thân , có thể kết hợp với các triệu chứng ở miệng hoặc đơn thuần. Các triệu chứng xuất hiện ngay lập tức hoặc trong vòng 5–10 phút sau khi ăn thực phẩm bị dị ứng và thường hết trong vòng 30 phút. Các triệu chứng có thể xuất hiện với nhiều loại thực phẩm khác nhau do tính đồng nhất của protein trong thực phẩm .
+
+### Miệng
+- Đỏ, sưng, ngứa môi và niêm mạc miệng
+- Ngứa mũi và tai
+- Phù mạch
+- Các mảng đỏ và mụn nước ở miệng
+- Khó nuốt
+- Giọng khàn
+- Cảm giác thắt chặt ở cổ họng.
+
+### Hệ thống
+- Da: nổi mề đay
+- Tiêu hóa: buồn nôn và nôn, đau bụng, tiêu chảy
+- Hô hấp: ho, khó thở, thở khò khè, tức ngực hoặc đau
+- Huyết áp thấp
+- Đau đầu
+- Chóng mặt.
+
+---
+
+## Hội chứng dị ứng phấn hoa và thực phẩm có những biến chứng gì?
+
+Hội chứng dị ứng phấn hoa-thực phẩm hiếm khi gây ra phản vệ (1–2%).
+
+---
+
+## Hội chứng dị ứng phấn hoa-thực phẩm được chẩn đoán như thế nào?
+
+Hội chứng dị ứng phấn hoa-thực phẩm cần được nghi ngờ trên lâm sàng sau khi tìm hiểu tiền sử bệnh chi tiết và có thể được xác nhận bằng xét nghiệm.
+- [Kiểm tra chích da](https://dermnetnz.org/topics/skin-prick-testing) hoặc kiểm tra từng chích: chiết xuất thực phẩm thương mại ít nhạy cảm hơn so với trái cây và rau quả tươi hoặc đông lạnh.
+- Đo kháng thể IgE trong huyết thanh đối với phấn hoa và chất gây dị ứng thực phẩm.
+- Thử thách ăn uống bằng miệng.
+
+---
+
+## Chẩn đoán phân biệt cho hội chứng dị ứng phấn hoa-thực phẩm là gì?
+
+- [Dị ứng thực phẩm](https://dermnetnz.org/topics/food-allergy) — chất gây dị ứng thực phẩm loại I gây ra phản ứng nhạy cảm qua đường tiêu hóa do một loại protein kháng tiêu hóa. Ngược lại, PFAS là do chất gây dị ứng thực phẩm loại II gây ra do mẫn cảm trước đó với phấn hoa và phản ứng chéo.
+- Các tình trạng liên quan đến thực phẩm khác như bệnh celiac và không dung nạp thực phẩm
+- [Viêm miệng tiếp xúc](https://dermnetnz.org/topics/contact-stomatitis) / [viêm môi tiếp xúc dị ứng](https://dermnetnz.org/topics/allergic-contact-cheilitis) — phản ứng quá mẫn loại IV
+
+---
+
+## Phương pháp điều trị hội chứng dị ứng phấn hoa-thực phẩm là gì?
+
+- Tránh thực phẩm gây dị ứng
+- Nấu chín các loại thực phẩm gây dị ứng trước khi ăn: điều này không hiệu quả đối với đậu nành, cần tây, đậu phộng và các loại hạt khác
+- Vô tình nuốt phải: súc miệng bằng nước có thể giúp giảm các triệu chứng
+- Liệu pháp miễn dịch phấn hoa
+- Liệu pháp miễn dịch dưới da cho táo nếu có liên quan
+- Nên mang theo adrenaline tự tiêm ( epinephrine ) nếu có tiền sử phản vệ.
+
+---
+
+## Hậu quả của hội chứng dị ứng phấn hoa-thực phẩm là gì?
+
+Hội chứng dị ứng phấn hoa thực phẩm được báo cáo là sẽ khỏi ở một phần ba số bệnh nhân trưởng thành sau khi tránh hoàn toàn các thực phẩm gây dị ứng trong hai năm.

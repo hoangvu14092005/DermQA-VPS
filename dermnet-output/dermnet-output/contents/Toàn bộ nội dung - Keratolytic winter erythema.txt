@@ -1,0 +1,99 @@
+# Ban đỏ mùa đông do keratinolytic — thông tin bổ sung
+
+Thể loại:
+
+Di truyền
+
+SNOMED CT:
+
+239064000
+
+**[Di truyền](https://dermnetnz.org/topics/topics?category=Genetic)**
+
+
+# **Ban đỏ mùa đông do keratolytic**
+
+Tác giả: Jade Nutting, Sinh viên Y khoa, Đại học Sydney, Sydney, NSW, Úc. Tổng biên tập DermNet: Phó Giáo sư Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand. Biên tập bởi Gus Mitchell/Maria McGivern. Tháng 12 năm 2018.
+
+---
+
+## Ban đỏ mùa đông do keratolytic là gì?
+
+Ban đỏ mùa đông dạng keratinolytic là một rối loạn da di truyền hiếm gặp, đặc trưng bởi tình trạng ban đỏ lòng bàn tay, bàn chân tái phát và bong tróc, thường trở nên tồi tệ hơn vào những tháng mùa đông [1]. Bệnh này còn được gọi là bệnh Oudtshoorn và erythrokeratolysis hiemalis.
+Bệnh ban đỏ mùa đông do keratinolytic lần đầu tiên được các bác sĩ da liễu ở Nam Phi mô tả vào năm 1977 khi họ quan sát thấy một tình trạng da phổ biến ở các gia đình tại khu vực Oudtshoorn thuộc Tây Cape [2].
+![Ban đỏ mùa đông do keratolytic](https://dermnetnz.org/assets/Uploads/keratolytic-winter-erythema-18.jpg)
+![Ban đỏ mùa đông do keratolytic](https://dermnetnz.org/assets/Uploads/keratolytic-winter-erythema-10.jpg)
+![Ban đỏ mùa đông do keratolytic](https://dermnetnz.org/assets/Uploads/keratolytic-winter-erythema-26.jpg)
+Xem thêm [hình ảnh về bệnh ban đỏ mùa đông do keratolytic](https://dermnetnz-org.translate.goog/topics/keratolytic-winter-erythema-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp) .
+
+---
+
+## Ai bị ban đỏ mùa đông do keratolytic?
+
+Tỷ lệ mắc bệnh ban đỏ mùa đông dạng vảy nến ước tính là 1/7.200 người da trắng nói tiếng Afrikaans [1]. Bệnh di truyền theo kiểu trội nhiễm sắc thể thường đơn gen với độ thâm nhập cao nhưng biểu hiện khác nhau. Bệnh thường được chẩn đoán ở trẻ em hoặc giai đoạn đầu của tuổi trưởng thành.
+
+---
+
+## Nguyên nhân gây ra bệnh ban đỏ mùa đông do keratolytic là gì?
+
+Các nghiên cứu phả hệ về các gia đình Nam Phi bị ảnh hưởng đã xác định được một tổ tiên chung, Đại úy François Renier Duminy, một người Pháp thế kỷ 18 đã định cư ở Mũi Hảo Vọng [1]. Các trường hợp lẻ tẻ cũng đã được báo cáo.
+Vị trí gen gây ban đỏ mùa đông keratolytic đã được lập bản đồ trên nhiễm sắc thể 8p23.1–p22 [1]. Một nghiên cứu gần đây về bộ gen người đã đề xuất rằng ban đỏ là kết quả của sự nhân đôi ngẫu nhiên của vùng tăng cường (một phần của DNA giúp gen liền kề có nhiều khả năng được "đọc" để phiên mã ) bên cạnh CTSB , một gen quan trọng trong quá trình biệt hóa và bong tróc tế bào sừng [6].
+Các yếu tố môi trường kích hoạt khác nhau có thể phá vỡ sự cân bằng của CTSB và các yếu tố điều hòa của nó để tăng mức cathepsin B, một loại protease lysosome trong lớp biểu bì và kích hoạt quá trình apoptosis (chết tế bào do cơ thể gây ra) [3].
+
+---
+
+## Các đặc điểm lâm sàng của bệnh ban đỏ mùa đông dạng vảy nến là gì?
+
+Ban đỏ mùa đông do keratolytic thường xuất hiện ở trẻ sơ sinh và đầu tuổi trưởng thành, và tiếp tục theo kiểu không liên tục và tái phát [2]. Mức độ nghiêm trọng của bệnh thay đổi tùy theo chu kỳ bong tróc da và ban đỏ tiềm ẩn ảnh hưởng đến lòng bàn tay và lòng bàn chân [3].
+- Ban đỏ bắt đầu bằng ban đỏ. Ban đỏ có thể hình khuyên và ảnh hưởng đến các kẽ ngón tay, ngón chân hoặc toàn bộ lòng bàn tay hoặc lòng bàn chân. Ban đỏ có thể lan dần lên mu bàn tay và bàn chân.
+- Ban đỏ xuất hiện sau các mụn nước khô nông không đau hoặc da có vẻ mờ đục bong tróc theo hướng ly tâm.
+- Mỗi mảng sẽ mở rộng trong vòng 4–6 tuần trước khi lành lại [1].
+- Ban đỏ vẫn giữ nguyên kiểu [vân tay](https://dermnetnz.org/topics/fingerprints) dạng nhú .
+- Đổ mồ hôi lòng bàn tay và bàn chân có thể gây ra mùi hôi và tăng tình trạng bong tróc.
+Một số bệnh nhân bị ban đỏ mùa đông do keratolytic cũng phát triển ban đỏ hình khuyên ở chân tay, mông hoặc thân mình; đã có một trường hợp được báo cáo về tình trạng liên quan đến mặt [4].
+Các yếu tố làm trầm trọng thêm có thể bao gồm:
+- Mùa đông
+- Tiếp xúc quá nhiều với nước, hóa chất hoặc ma sát [2]
+- Sự ốm yếu
+- Căng thẳng tâm lý
+- Kinh nguyệt
+- [Nhiễm trùng thứ phát do vi khuẩn](https://dermnetnz.org/topics/wound-infections)
+- Một số loại thuốc bao gồm [steroid bôi ngoài da](https://dermnetnz.org/topics/topical-steroid) và gây mê toàn thân.
+Ban đỏ mùa đông do keratinolytic có thể cải thiện vào mùa hè và trong thời kỳ mang thai [3].
+
+---
+
+## Biến chứng của bệnh ban đỏ mùa đông dạng vảy nến là gì?
+
+Các đợt bùng phát của bệnh ban đỏ mùa đông dạng vảy sừng có thể gây tàn tật trong những trường hợp nghiêm trọng.
+
+---
+
+## Bệnh ban đỏ mùa đông dạng vảy sừng được chẩn đoán như thế nào?
+
+Chẩn đoán bệnh ban đỏ mùa đông dạng vảy có thể rõ ràng trên lâm sàng và có thể được hỗ trợ bởi tiền sử gia đình.
+Trên [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) , ban đỏ mùa đông dạng vảy sừng cho thấy bệnh lý mô học đặc trưng với sự tăng sinh tế bào sừng cơ bản và các lớp khiếm khuyết của lớp sừng [5].
+
+---
+
+## Chẩn đoán phân biệt bệnh ban đỏ mùa đông do keratolytic là gì?
+
+Tùy thuộc vào giai đoạn của tổn thương , chẩn đoán phân biệt bệnh ban đỏ mùa đông dạng vảy nến có thể bao gồm [6]:
+- [Keratolysis exfoliativa](https://dermnetnz.org/topics/keratolysis-exfoliativa)
+- [Keratoderma lòng bàn tay và bàn chân](https://dermnetnz.org/topics/palmoplantar-keratoderma)
+- [Ly thượng bì bọng nước đơn giản](https://dermnetnz.org/topics/epidermolysis-bullosa-simplex) cục bộ [](https://dermnetnz.org/topics/epidermolysis-bullosa-simplex)
+- [Thiểu sừng lòng bàn tay giới hạn](https://dermnetnz.org/topics/circumscribed-palmar-hypokeratosis)
+- [Ban đỏ hình khuyên](https://dermnetnz.org/topics/annular-erythema)
+- [Bệnh hồng ban sừng hóa](https://dermnetnz.org/topics/erythrokeratoderma) .
+
+---
+
+## Phương pháp điều trị bệnh ban đỏ mùa đông dạng vảy nến là gì?
+
+Hiện tại vẫn chưa có phương pháp điều trị hiệu quả nào được xác định cho bệnh ban đỏ mùa đông do keratolytic. Thuốc [keratolytic](https://dermnetnz.org/topics/keratolytic-agents) , [retinoid](https://dermnetnz.org/topics/topical-retinoids) và [steroid](https://dermnetnz.org/topics/topical-steroid) bôi ngoài da có thể làm trầm trọng thêm bệnh ban đỏ mùa đông do keratolytic [6]. [Liệu pháp quang động](https://dermnetnz.org/topics/photodynamic-therapy) đã cho thấy kết quả cải thiện bệnh ở một bệnh nhân [5]. [](https://dermnetnz.org/topics/keratolytic-agents) [](https://dermnetnz.org/topics/topical-retinoids) [](https://dermnetnz.org/topics/topical-steroid) [](https://dermnetnz.org/topics/photodynamic-therapy)
+
+---
+
+## Hậu quả của bệnh ban đỏ mùa đông do keratolytic là gì?
+
+Ban đỏ mùa đông do keratolytic thường cải thiện hoặc thậm chí khỏi hẳn vào những tháng mùa hè [4]. Tình trạng này cũng có xu hướng cải thiện theo tuổi tác và có thể chỉ còn rất ít vảy ở các nếp nhăn khi trưởng thành [1]. Ở một số người bị ảnh hưởng nghiêm trọng, tình trạng này sẽ kéo dài [2].

@@ -1,0 +1,128 @@
+# Bệnh Aspergillosis — thông tin bổ sung
+
+Thể loại:
+
+Nhiễm trùng
+
+SNOMED CT:
+
+65553006, 10446001, 89354002, 66821001, 32684000, 111899005, 6042001, 37981002, 240702004
+
+**[Nhiễm trùng](https://dermnetnz.org/topics/topics?category=Infections)**
+
+
+# **Bệnh Aspergillosis**
+
+Tác giả: Tiến sĩ Marie Hartley, Biên tập viên, 2010.
+
+---
+
+## Bệnh aspergillosis là gì?
+
+Bệnh Aspergillosis là bệnh do nấm Aspergillus gây ra.
+
+---
+
+## Aspergillus là gì?
+
+Aspergillus là một loại [nấm mốc](https://dermnetnz.org/topics/non-dermatophyte-mould-onychomycosis) [được](https://dermnetnz.org/topics/fungal-skin-infections) tìm thấy rất nhiều trong môi trường đất, xác thực vật phân hủy, cây cảnh, nước, bụi nhà và vật liệu xây dựng. Hơn 100 loài aspergillus khác nhau đã được xác định, nhưng các loài thường gây bệnh cho người nhất là A. fumigatus , A. flavus và A. niger . [](https://dermnetnz.org/topics/non-dermatophyte-mould-onychomycosis)
+
+---
+
+## Ai mắc bệnh aspergillosis?
+
+Bệnh nấm Aspergillosis thường được chẩn đoán khi các tình trạng gây suy giảm miễn dịch trở nên phổ biến hơn. Ví dụ, bệnh nấm Aspergillosis xâm lấn ước tính xảy ra ở 5–13% bệnh nhân ghép tủy xương, 5–25% bệnh nhân ghép tim hoặc phổi, và 10–20% bệnh nhân đang điều trị hóa trị liệu chuyên sâu cho bệnh bạch cầu.
+Thuật ngữ aspergillosis không được dùng để chỉ tình trạng nhiễm trùng móng mãn tính do aspergillus gây ra, đây là một dạng [bệnh nấm móng](https://dermnetnz.org/topics/fungal-nail-infections) ảnh hưởng đến những người có hệ thống miễn dịch bình thường. [](https://dermnetnz.org/topics/fungal-nail-infections)
+
+---
+
+## Bệnh aspergillosis xảy ra như thế nào?
+
+Aspergillus thường xâm nhập vào cơ thể người qua đường hô hấp. Hầu hết mọi người hít phải bào tử aspergillus mỗi ngày mà không gặp bất kỳ tác dụng phụ nào. Tuy nhiên, ở những bệnh nhân có bệnh lý nền, aspergillus có thể bắt đầu sinh sôi và gây bệnh, chủ yếu là nhiễm trùng phổi. Nhiễm trùng dễ xảy ra hơn nếu hít phải một lượng lớn bào tử, chẳng hạn như khi tiếp xúc với môi trường nhiều bụi hoặc trong quá trình cải tạo tòa nhà.
+Trong một số ít trường hợp, nấm có thể xâm nhập qua da ( bệnh nấm aspergillosis da nguyên phát ), đặc biệt ở những bệnh nhân bị [bỏng nhiệt](https://dermnetnz.org/topics/thermal-burn) hoặc chấn thương. Đôi khi, các đợt bùng phát bệnh nấm aspergillosis da nguyên phát là do thiết bị y sinh bị nhiễm bẩn. [](https://dermnetnz.org/topics/thermal-burn)
+Aspergillus cũng có thể lây lan qua da thông qua đường máu.
+
+---
+
+## Các đặc điểm lâm sàng của bệnh aspergillosis là gì?
+
+Có bốn dạng bệnh lý lâm sàng phổ biến.
+
+### Bệnh aspergillosis xâm lấn cấp tính
+- Bệnh ghẻ Apsergillus xâm lấn cấp tính có diễn biến nhanh và bệnh tiến triển nhanh.
+- Nấm xâm nhập và gây tổn thương các mô cơ thể; phổ biến nhất là phổi và/hoặc xoang , nhưng có thể lây lan khắp cơ thể qua đường máu.
+- Các triệu chứng bao gồm sốt , ho, khó thở, đau ngực, sưng mặt, chảy máu mũi, lồi mắt hoặc các triệu chứng thần kinh . Các triệu chứng khác xuất hiện nếu nhiễm trùng lan ra ngoài phổi và xoang.
+- Tỷ lệ tử vong cao.
+Bệnh Apsergillus xâm lấn cấp tính ảnh hưởng đến những người có hệ miễn dịch suy giảm nghiêm trọng, đặc biệt là những người:
+- những người đã được ghép tủy xương hoặc ghép tạng đặc
+- dùng liều cao [corticosteroid](https://dermnetnz.org/topics/systemic-steroids) hoặc hóa trị liệu cho bệnh ung thư như bệnh bạch cầu
+- với [tình trạng nhiễm HIV](https://dermnetnz.org/topics/skin-conditions-relating-to-hiv-infection) tiến triển .
+
+### Bệnh aspergillosis dị ứng
+- Bệnh dị ứng nấm Aspergillosis là phản ứng dị ứng với nấm Aspergillus trong phổi và/hoặc trong xoang.
+- Các triệu chứng về phổi bao gồm sốt, thở khò khè và ho. Bệnh nhân có thể ho ra máu hoặc đờm .
+- Các triệu chứng của bệnh xoang bao gồm áp lực lên mặt, đau đầu, nghẹt mũi, chảy dịch màu vàng hoặc xanh lá cây từ mũi và ho.
+Bệnh dị ứng aspergillosis có thể ảnh hưởng đến bất kỳ ai, nhưng phổ biến hơn ở những người mắc bệnh hen suyễn hoặc xơ nang .
+
+### U nấm Aspergilloma
+- Aspergilloma là một “búi nấm” phát triển trong khoang phổi đã có từ trước.
+- Bệnh có thể không gây ra triệu chứng hoặc bệnh nhân có thể ho ra máu (có thể rất nhiều và đe dọa đến tính mạng).
+- Aspergilloma cũng có thể phát triển ở các cơ quan khác.
+Bệnh nấm Aspergilloma ảnh hưởng đến những người mắc bệnh phổi tiềm ẩn gây ra lỗ sâu, chẳng hạn như bệnh lao, khí phế thũng hoặc xơ nang.
+
+### Bệnh aspergillosis phổi hoại tử mãn tính
+- Bệnh aspergillosis phổi hoại tử mãn tính là một tình trạng hiếm gặp gây hoại tử mô trong phổi.
+- Dạng bệnh aspergillosis này tiến triển chậm trong nhiều tuần hoặc nhiều tháng.
+- Các triệu chứng thường bao gồm sốt, ho, đổ mồ hôi đêm và sụt cân.
+- Bệnh aspergillosis phổi hoại tử mãn tính thường ảnh hưởng đến những người bị suy giảm miễn dịch nhẹ, chẳng hạn như bệnh phổi tiềm ẩn, nghiện rượu hoặc đang điều trị bằng corticosteroid trong thời gian dài .
+
+---
+
+## Biểu hiện trên da của bệnh aspergillosis là gì?
+
+Những thay đổi về da thường là hậu quả của tình trạng nhiễm nấm aspergillus lan rộng ở những bệnh nhân có hệ miễn dịch suy yếu.
+- Khoảng 5–10% bệnh nhân mắc bệnh aspergillosis xâm lấn sẽ phát triển các tổn thương da.
+- Tổn thương bao gồm một hoặc nhiều mảng hoặc sẩn cứng màu đỏ hoặc tím. Tổn thương có thể đau hoặc không có triệu chứng . Khi tổn thương tiến triển, các mụn nước chứa mủ hoặc máu sẽ hình thành ở trung tâm, cuối cùng trở thành các vết loét hoại tử đen hoặc đóng vảy. Tổn thương thường xuất hiện ở chân tay và đầu, và có thể ảnh hưởng đến một vùng nhỏ hoặc lớn.
+Bệnh nấm da nguyên phát thường phát triển ở vị trí đặt ống thông tĩnh mạch hoặc chọc tĩnh mạch (vết thương do xét nghiệm máu).
+- Băng bó kín có thể làm tăng nguy cơ mắc bệnh aspergillosis da nguyên phát.
+- Suy giảm miễn dịch tại chỗ do [tiêm steroid vào tổn thương](https://dermnetnz.org/topics/intralesional-steroid-injection) có thể liên quan đến bệnh aspergillosis ở da.
+- Các tổn thương ban đầu trông giống như [viêm mô tế bào](https://dermnetnz.org/topics/cellulitis) , sau đó phát triển thành vết loét hoại tử hoặc đóng vảy.
+
+### Bệnh nấm Aspergillosis ở da
+![Tổn thương da do Aspergillus](https://dermnetnz.org/assets/Uploads/fungal/aspergillus.jpg)
+![Bệnh nấm Aspergillosis ở da](https://dermnetnz.org/assets/Uploads/fungal/aspergillosis.jpg)
+![Bệnh nấm Aspergillosis ở da](https://dermnetnz.org/assets/Uploads/fungal/w/aspergillosis1.jpg)
+
+---
+
+## Bệnh aspergillosis được chẩn đoán như thế nào?
+
+- Các mẫu đờm , máu hoặc mô bị ảnh hưởng có thể được nuôi cấy trong phòng thí nghiệm để phát triển nấm aspergillus.
+- Nấm có thể được nhìn thấy dưới kính hiển vi trong [mẫu sinh thiết](https://dermnetnz.org/topics/skin-biopsy) mô bị ảnh hưởng. Có thể cần nhuộm đặc biệt để tìm nấm, nhưng các loại nấm khác có thể trông gần giống hệt.
+- Chụp X-quang ngực hoặc chụp CT phổi có thể phát hiện những bất thường đặc trưng.
+- Một xét nghiệm mới hơn dựa trên kháng nguyên đã có sẵn để phát hiện bằng chứng nhiễm nấm aspergillosis xâm lấn trong máu. Tuy nhiên, độ chính xác của xét nghiệm này dường như không đồng đều.
+
+### Aspergillus trong phòng thí nghiệm
+![Kali hydroxit của nền văn hóa](https://dermnetnz.org/assets/Uploads/fungal/asppas.jpg)
+![Bệnh học mô học](https://dermnetnz.org/assets/Uploads/fungal/aspergillus-01.jpg)
+![Bệnh học mô học](https://dermnetnz.org/assets/Uploads/fungal/aspergillus-02.jpg)
+
+---
+
+## Bệnh aspergillosis được điều trị như thế nào?
+
+- [Voriconazole](https://dermnetnz.org/topics/voriconazole) hiện đang được sử dụng làm phương pháp điều trị đầu tiên cho bệnh nấm aspergillosis xâm lấn.
+- Các loại thuốc khác được sử dụng để điều trị bệnh aspergillosis bao gồm [itraconazole](https://dermnetnz.org/topics/itraconazole) , amphotericin B, caspofungin, micafungin và [posaconazole](https://dermnetnz.org/topics/posaconazole) .
+- Thông thường cần phải điều trị kéo dài.
+- Khi có thể, nên ngừng liệu pháp ức chế miễn dịch , chẳng hạn như [corticosteroid toàn thân .](https://dermnetnz.org/topics/systemic-steroids)
+- Trong trường hợp u nấm aspergilloma, có thể cần phải phẫu thuật cắt bỏ khoang phổi bị nhiễm trùng.
+
+---
+
+## Có thể phòng ngừa bệnh aspergillosis không?
+
+Vì nấm aspergillus hiện diện khắp mọi nơi trong môi trường, nên việc tránh xa hoàn toàn là gần như không thể. Ở những bệnh nhân bị suy giảm miễn dịch nghiêm trọng, các biện pháp sau đây có thể hữu ích:
+- Tránh môi trường bụi bặm, công trường xây dựng, làm vườn và cắt cỏ
+- Đeo khẩu trang bảo vệ khi ở gần môi trường bụi
+- Dùng thuốc chống nấm phòng ngừa nếu được bác sĩ khuyến cáo.
+- Sử dụng bộ lọc không khí hạt hiệu suất cao (HEPA) trong bệnh viện để ngăn ngừa nhiễm trùng phổi mắc phải ở bệnh viện đối với những bệnh nhân có hệ miễn dịch kém.

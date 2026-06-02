@@ -1,0 +1,174 @@
+# Nhiễm trùng nấm móng — thông tin bổ sung
+
+Thể loại:
+
+Nhiễm trùng
+
+SNOMED CT:
+
+414941008, 402134005, 403105006, 403107003, 417583002, 403103004, 403104005, 402137003, 10165000, 23484007, 718526003, 701996000
+
+**[Nhiễm trùng](https://dermnetnz.org/topics/topics?category=Infections)**
+
+
+# **Nhiễm trùng nấm móng**
+
+Tháng 10 năm 2022Tác giả: Tiến sĩ Adeline Hillan, Bệnh viện Hoàng gia Perth, Úc (2022)Những người đóng góp trước đây: Phó Giáo sư Amanda Oakley, Bác sĩ da liễu (2003)Bác sĩ da liễu đánh giá: Tiến sĩ Ian CoulsonĐược biên tập bởi bộ phận nội dung DermNet
+
+---
+
+## Nhiễm trùng nấm móng là gì?
+
+Nhiễm nấm móng , còn được gọi là bệnh nấm móng, chiếm hơn 50% tổng số bệnh về móng với tỷ lệ mắc bệnh ước tính là 5,5 %. Bệnh có thể ảnh hưởng đến móng chân, móng tay hoặc cả hai.
+Nhiễm trùng nấm móng còn được gọi là bệnh nấm móng trong trường hợp nhiễm nấm dermatophyte.
+![Bệnh nấm móng tay toàn thể ở da loại 6](https://dermnetnz.org/assets/collection/Onychomycosis/onychomycosis-0034.jpg)
+![Bệnh nấm móng](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/lat-om2.jpg)
+![Sự đổi màu trắng của phiến móng xa trong bệnh nấm móng trắng nông](https://dermnetnz.org/assets/collection/Onychomycosis/onychomycosis-0001.jpg)
+![Bệnh nấm móng gần](https://dermnetnz.org/assets/collection/Onychomycosis/onychomycosis-0004.jpg)
+![Nấm móng chân, nấm móng](https://dermnetnz.org/assets/Uploads/tin-ung1-v2.jpg)
+![Bệnh nấm móng toàn thể do loài Fusarium](https://dermnetnz.org/assets/collection/Onychomycosis/onychomycosis-0037.jpg)
+[Nhấp vào đây để xem thêm hình ảnh](https://dermnetnz-org.translate.goog/images/onychomycosis-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+
+---
+
+## Ai có thể bị nhiễm nấm móng?
+
+Bệnh nấm móng thường gặp ở người lớn tuổi (trên 65 tuổi), bệnh nhân tiểu đường, bệnh nhân suy giảm miễn dịch (đặc biệt là người mắc [bệnh HIV](https://dermnetnz.org/topics/skin-conditions-relating-to-hiv-infection) ) và vận động viên. Bệnh nấm móng có thể xuất hiện ở các thành viên trong gia đình do di truyền nhiễm sắc thể thường ( HLA -DR8) hoặc các yếu tố môi trường. Bệnh hiếm khi xảy ra ở trẻ em.
+Các bệnh đi kèm khác bao gồm: [bệnh nấm bàn chân](https://dermnetnz.org/topics/tinea-pedis) , [bệnh nấm bàn tay](https://dermnetnz.org/topics/tinea-manuum) , bệnh [vẩy nến, bệnh mạch máu ngoại biên, suy tĩnh mạch](https://dermnetnz.org/topics/venous-insufficiency) [,](https://dermnetnz.org/topics/psoriasis) bệnh ngón chân cái vẹo, hút thuốc, hội chứng móng chân không cân xứng , [hội chứng Down](https://dermnetnz.org/topics/dermatological-manifestations-of-down-syndrome) và béo phì. [](https://dermnetnz.org/topics/venous-insufficiency) [](https://dermnetnz.org/topics/dermatological-manifestations-of-down-syndrome)
+Các yếu tố nguy cơ gây bệnh ở bệnh nhân bao gồm: [viêm quanh móng mãn](https://dermnetnz.org/topics/paronychia) tính , [tăng tiết mồ hôi](https://dermnetnz.org/topics/hyperhidrosis) (ví dụ, do đi giày kín ), chấn thương móng và sử dụng phòng tắm hoặc thay đồ công cộng. [](https://dermnetnz.org/topics/paronychia) [](https://dermnetnz.org/topics/hyperhidrosis)
+
+---
+
+## Nguyên nhân nào gây ra bệnh nhiễm trùng nấm móng?
+
+Bệnh nấm móng có thể do nhiễm nấm [dermatophytes](https://dermnetnz.org/topics/mycology-of-dermatophyte-infections) hoặc [các loại nấm không phải dermatophytes](https://dermnetnz.org/topics/non-dermatophyte-mould-onychomycosis) như nấm mốc và nấm men.
+- Nấm da (chiếm hơn 75% trường hợp): Trichophyton rubrum , Epidermophyton floccosum , loài Microsporum , Trichophyton verrucosum , Trichophyton tonsurans , Trichophyton violaceum , Trichophyton soudanense , Trichophyton krajdenii , Trichophyton equinum và loài Arthoderma .
+- Không phải nấm da Nấm mốc (10% trường hợp): Loài Aspergillus , loài Scopulariopsis , loài Fusarium , loài Acremonium , loài Syncephalastrum , loài Scytalidium , loài Paecilomyces , loài Neoscytalidium , loài Chaetomium , loài Onchocola và loài Alternaria . Nấm men (không phổ biến): [Candida albicans](https://dermnetnz.org/topics/candida) và hiếm khi là [nấm men candida không phải albicans](https://dermnetnz.org/topics/non-albicans-candida-infections) (ví dụ: tropicalis hoặc parapsilosis) Để biết thêm thông tin, hãy xem [bệnh nấm móng không phải do nấm da](https://dermnetnz.org/topics/non-dermatophyte-mould-onychomycosis) .
+- Nấm mốc (10% trường hợp): Loài Aspergillus , loài Scopulariopsis , loài Fusarium , loài Acremonium , loài Syncephalastrum , loài Scytalidium , loài Paecilomyces , loài Neoscytalidium , loài Chaetomium , loài Onchocola và loài Alternaria .
+- Nấm men (không phổ biến): [Candida albicans](https://dermnetnz.org/topics/candida) và hiếm khi là [nấm men candida không phải albicans](https://dermnetnz.org/topics/non-albicans-candida-infections) (ví dụ: tropicalis hoặc parapsilosis)
+- Để biết thêm thông tin, hãy xem [bệnh nấm móng không phải do nấm da](https://dermnetnz.org/topics/non-dermatophyte-mould-onychomycosis) .
+Bằng chứng mới nổi về vai trò của màng sinh học trong bệnh nấm móng có thể là nguyên nhân gây [kháng thuốc chống nấm](https://dermnetnz.org/topics/antifungal-drug-resistance) và tăng độc lực.
+
+---
+
+## Các đặc điểm lâm sàng của bệnh nấm móng là gì?
+
+Bệnh nấm móng có thể ảnh hưởng đến một hoặc nhiều móng, thường ảnh hưởng đến móng chân thứ nhất. Nó cũng có thể ảnh hưởng đến vùng da xung quanh, tuy nhiên rất hiếm khi gây ra tổn thương toàn thân .
+Các loại lâm sàng bao gồm:
+- Bệnh nấm móng dưới móng xa và bên — đầu xa và hai bên móng bị nhấc lên hoặc đổi màu và vỡ vụn.
+- Bệnh nấm móng trắng nông — xuất hiện các mảng trắng, bong tróc và có lỗ ở trên đỉnh móng.
+- Nấm móng dưới móng gần — phần móng gần lưỡi liềm bị đổi màu và dày lên. Kiểu bệnh này thường liên quan đến [nhiễm HIV](https://dermnetnz.org/topics/skin-conditions-relating-to-hiv-infection) tiềm ẩn .
+- Nấm móng nội nhũ — tình trạng đổi màu trắng sữa ở phiến móng phát triển mà không có tình trạng tăng sừng dưới móng hoặc bong móng.
+- [Onychauxis](https://dermnetnz.org/topics/nail-terminology) .
+Các đặc điểm được quan sát bao gồm:
+- [Tăng sừng dưới móng](https://dermnetnz.org/topics/nail-terminology) — bong tróc xảy ra dưới móng
+- Đầu tự do của phiến móng bị lởm chởm và vỡ vụn
+- Sự đổi màu của móng, ví dụ, đổi màu vàng, trắng, xám hoặc xanh lá cây
+- Móng tay bị nứt, vỡ vụn và đôi khi bị phá hủy hoàn toàn
+- Vảy da ở gan bàn chân và các khoảng kẽ ngón chân do [bệnh nấm bàn chân kèm theo](https://dermnetnz.org/topics/tinea-pedis)
+- U móng hoặc u da liễu — vùng nhiễm trùng dày cục bộ ở móng.
+Bệnh nấm móng có thể làm phức tạp thêm các bệnh lý móng khác như chấn thương hoặc [bệnh vẩy nến](https://dermnetnz.org/topics/psoriasis) .
+Nhiễm nấm Candida ở móng thường là do viêm [quanh móng](https://dermnetnz.org/topics/paronychia) và bắt đầu gần nếp gấp móng ( lớp biểu bì ). Nếp gấp móng sưng đỏ, bong ra khỏi móng. Các vết trắng, vàng, xanh lá cây hoặc đen xuất hiện trên móng gần đó và lan rộng. Móng có thể bong ra khỏi gốc móng và đau khi ấn vào.
+[Nhiễm trùng nấm mốc](https://dermnetnz.org/topics/non-dermatophyte-mould-onychomycosis) có hình dạng tương tự như bệnh tinea unguium.
+[Nhấp vào đây để xem hình ảnh](https://dermnetnz-org.translate.goog/images/onychomycosis-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+
+---
+
+## Biến chứng của bệnh nhiễm nấm móng là gì?
+
+Nhiễm nấm móng thường được coi là một vấn đề thẩm mỹ nhỏ. Tuy nhiên, ảnh hưởng của nó đến chất lượng cuộc sống thường bị xem nhẹ vì nó có thể gây đau đớn đáng kể, ảnh hưởng đến khả năng vận động và sinh hoạt, cũng như gây ra sự kỳ thị xã hội.
+
+---
+
+## Bệnh nấm móng được chẩn đoán như thế nào?
+
+Kiểm tra vật lý tất cả các móng tay và kết hợp các công cụ, chẳng hạn như những công cụ được liệt kê dưới đây, có thể được sử dụng để cải thiện tốc độ và độ chính xác của chẩn đoán.
+
+### soi da
+[Nội soi da](https://dermnetnz.org/topics/dermoscopy) có thể phân biệt được bệnh nấm móng, [bong móng](https://dermnetnz.org/topics/onycholysis) do chấn thương và [hoại tử móng](https://dermnetnz.org/topics/melanonychia) . Các phát hiện thường gặp trên nội soi da bao gồm các dải tuyến tính tròn về phía gần và thon dần về phía xa, đổi màu, các hoa văn hình tam giác đồng nhất hoặc ngược chiều dọc, dày sừng dưới móng , các vệt trắng/vàng và vảy móng . [](https://dermnetnz.org/topics/onycholysis) [](https://dermnetnz.org/topics/melanonychia)
+Mô hình xâm nhập của nấm được chia thành:
+- Bệnh nấm móng nông – các mảng trắng ảnh hưởng đến móng xa
+- Nấm móng dưới móng gần – liên quan đến nếp gấp móng gần dưới bề mặt đến xa
+- Nấm móng nội nhũ – nhiễm trùng ở phiến móng nhưng không phải ở nền móng
+- Bệnh nấm móng hỗn hợp.
+
+### Mẫu vật nấm học
+Nên cắt phần móng bị ảnh hưởng ở mép móng không bị gãy.
+- Các vùng gần nhất của móng bị loạn dưỡng cho kết quả tốt nhất khi soi kính hiển vi và nuôi cấy ; chúng có thể dễ dàng thu được bằng cách cạo càng gần càng tốt dưới móng bằng đầu móc của một chiếc dũa móng tay sạch.
+- Các tổn thương do nấm móng trắng nông có thể được cạo bằng lưỡi dao mổ số 15.
+- Có thể lấy mẫu bệnh nấm móng dưới móng gần bằng cách cắt phần móng nằm phía trên.
+Kiểm tra bằng kính hiển vi dưới [kính hiển vi quang học](https://dermnetnz.org/topics/reflectance-confocal-microscopy) sử dụng kali hydroxit (để hòa tan vật liệu tế bào sừng ) là một xét nghiệm nhanh để đánh giá sự hiện diện của sợi nấm , mặc dù xét nghiệm này không có độ nhạy và độ đặc hiệu.
+Đánh giá mô bệnh học mẫu móng bằng phương pháp nhuộm hematoxylin-eosin, periodic acid-Schiff hoặc Grocott methenamine silver để quan sát sợi nấm rất dễ dàng và chính xác. Để biết thêm thông tin, xem [mục nhuộm mô học](https://dermnetnz.org/topics/histology-stains) và [xét nghiệm nhiễm nấm](https://dermnetnz.org/topics/laboratory-tests-for-fungal-infection) .
+![Bệnh lý nấm móng](https://dermnetnz.org/assets/Uploads/pathology/e/tinea-unguium-figure-2.jpg)
+
+### Kiểm tra nuôi cấy nấm
+Nuôi cấy nấm có thể xác định tác nhân gây bệnh và là xét nghiệm chẩn đoán tiêu chuẩn, tuy nhiên, kết quả có thể mất vài tuần và có thể cần thu thập mẫu bệnh phẩm lớn. Kỹ thuật này yêu cầu làm sạch móng bằng cồn isopropyl 70% và nước xà phòng trước khi thu thập mẫu bệnh phẩm.
+Cần lấy mẫu trước khi bắt đầu bất kỳ phương pháp điều trị nào.
+![Nuôi cấy Trichophyton rubrum trên dốc thạch](https://dermnetnz.org/assets/Uploads/Trubrum-front-back-together.jpg)
+![Nấm da T.rubrum phát triển trên môi trường nuôi cấy nấm Sabouraud](https://dermnetnz.org/assets/Non-clinical-images/mycology-culture-plate.jpg)
+
+### Xét nghiệm phản ứng chuỗi polymerase (PCR)
+Xét nghiệm PCR nhanh chóng xác định tác nhân gây bệnh và có độ nhạy và độ đặc hiệu cao. Phương pháp này đang ngày càng phổ biến, tuy nhiên lại tốn kém hơn so với xét nghiệm kính hiển vi hoặc nuôi cấy nấm.
+
+### Khác
+Các kỹ thuật khác như [kính hiển vi cộng hưởng](https://dermnetnz.org/topics/reflectance-confocal-microscopy) , [chụp cắt lớp quang học](https://dermnetnz.org/topics/optical-coherence-tomography) , chụp nhiệt hồng ngoại, đo lưu lượng tế bào, sắc ký miễn dịch và khối phổ hiện đang được nghiên cứu và ít được sử dụng.
+Sinh thiết móng cũng có thể tiết lộ [các đặc điểm bệnh lý đặc trưng của bệnh nấm móng](https://dermnetnz.org/topics/onychomycosis-pathology) .
+
+---
+
+## Chẩn đoán phân biệt bệnh nấm móng là gì?
+
+Nhiều bệnh về móng khác có thể có các dấu hiệu lâm sàng giống bệnh nấm móng, do đó việc xác nhận chẩn đoán là rất quan trọng để đảm bảo không bỏ sót các tình trạng ác tính .
+- Các tình trạng lành tính bao gồm: nhiễm trùng do vi khuẩn như pseudomonas argeuniosa (CAP), [bệnh vẩy nến](https://dermnetnz.org/topics/psoriasis) , [liken phẳng](https://dermnetnz.org/topics/lichen-planus) , mụn cóc dưới móng và quanh móng , [viêm quanh](https://dermnetnz.org/topics/paronychia) móng , [chứng phình xương dưới móng](https://dermnetnz.org/topics/subungual-exostosis) , [u móng](https://dermnetnz.org/topics/onychomatricoma) , [hội chứng móng vàng](https://dermnetnz.org/topics/yellow-nail-syndrome) và chứng bong móng vô căn /chấn thương.
+- Các tình trạng ác tính bao gồm: [ung thư biểu mô tế bào vảy](https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma) dưới móng và [u hắc tố dưới móng](https://dermnetnz.org/topics/melanoma) .
+
+---
+
+## Phương pháp điều trị nhiễm trùng nấm móng là gì?
+
+Việc điều trị nhằm mục đích loại bỏ tác nhân gây bệnh và phục hồi móng khỏe mạnh, trở lại hình dạng bình thường. Nhiễm trùng móng tay thường được chữa khỏi nhanh chóng và hiệu quả hơn nhiễm trùng móng chân.
+Nhiễm trùng nhẹ ảnh hưởng đến dưới 50% một hoặc hai móng có thể đáp ứng với [thuốc chống nấm tại chỗ](https://dermnetnz.org/topics/topical-antifungal-medication) , nhưng để chữa khỏi thường phải dùng [thuốc chống nấm đường uống](https://dermnetnz.org/topics/oral-antifungal-medication) trong vài tháng.
+
+### Các lựa chọn điều trị chống nấm tại chỗ
+- [Sơn mài Ciclopirox](https://dermnetnz.org/topics/topical-antifungal-medication) 8%
+- [](https://dermnetnz.org/topics/topical-antifungal-medication) Dung dịch [Tavaborole](https://dermnetnz.org/topics/topical-antifungal-medication) 5%
+- [Dung dịch Efinaconazole](https://dermnetnz.org/topics/topical-antifungal-medication) 10%
+- [Sơn mài Amorolfine](https://dermnetnz.org/topics/topical-antifungal-medication) 5%.
+Những phương pháp này thường được ưu tiên sử dụng trước khi điều trị toàn thân nếu lo ngại về tương tác thuốc.
+Trong trường hợp móng bị tổn thương hoàn toàn, [việc cắt bỏ móng](https://dermnetnz.org/topics/medical-nail-avulsion) bằng thuốc bôi [urê](https://dermnetnz.org/topics/urea) có thể tăng cường hiệu quả chống nấm toàn thân .
+
+### Các lựa chọn điều trị chống nấm đường uống
+- [Terbinafine](https://dermnetnz.org/topics/terbinafine)
+- [Fluconazole](https://dermnetnz.org/topics/fluconazole)
+- [Itraconazole](https://dermnetnz.org/topics/itraconazole)
+- [Posaconazole](https://dermnetnz.org/topics/posaconazole)
+Những phương pháp này được sử dụng rộng rãi vì dễ thực hiện, chi phí thấp (một số trường hợp) và hiệu quả cao; tuy nhiên, chúng có thể cần một liệu trình kéo dài, đặc biệt là đối với tình trạng móng chân (3-4 tháng).
+
+### Các lựa chọn điều trị không dùng thuốc
+- [Liệu pháp laser hồng ngoại](https://dermnetnz.org/topics/lasers-in-dermatology)
+- [Liệu pháp quang động](https://dermnetnz.org/topics/photodynamic-therapy)
+- [Điện di ion](https://dermnetnz.org/topics/iontophoresis)
+- Siêu âm.
+Tia hồng ngoại phát ra từ laser có thể tiêu diệt nấm móng trong vòng 1-3 lần điều trị, tuy nhiên hiệu quả của laser so với liệu pháp toàn thân vẫn còn hạn chế. Liệu pháp quang động , liệu pháp plasma , điện di ion hoặc siêu âm là những phương pháp bổ sung cho liệu pháp kháng nấm tại chỗ được cho là giúp tăng cường hấp thu thuốc vào móng.
+Việc điều trị phải được cá nhân hóa và bệnh nhân cần được tư vấn về thời gian ước tính để khỏi bệnh.
+
+---
+
+## Làm thế nào để ngăn ngừa nhiễm trùng nấm móng?
+
+Các chiến lược để ngăn ngừa tái phát bao gồm:
+- Giữ chân mát mẻ và khô ráo; tránh sử dụng giày dép bí bách và đổ mồ hôi quá nhiều
+- Sử dụng dép xỏ ngón/dép tông ở phòng tập thể dục và hồ bơi công cộng
+- Vứt bỏ hoặc xử lý giày dép và tất bị nhiễm trùng
+- Tránh chấn thương móng bằng cách cắt móng ngắn
+- Tránh các hoạt động làm móng thẩm mỹ không hợp vệ sinh
+- Sử dụng thuốc chống nấm dự phòng ở chân và màng nhện
+- Tư vấn cho bệnh nhân về liệu pháp điều trị nấm móng tối ưu để cải thiện khả năng tuân thủ điều trị
+- Giải quyết tình trạng bệnh tiểu đường không được kiểm soát tốt.
+
+---
+
+## Hậu quả của bệnh nhiễm nấm móng là gì?
+
+Khoảng 20–25% trường hợp nấm móng đã được điều trị không may tái phát do các yếu tố từ bệnh nhân hoặc tác nhân gây bệnh như tuần hoàn kém, tuổi cao, tiểu đường, suy giảm miễn dịch , các triệu chứng lâm sàng nghiêm trọng của nấm móng, nhiễm trùng hỗn hợp và điều trị không đầy đủ. Chỉ số Mức độ Nghiêm trọng của Nấm móng có thể được sử dụng để dự đoán đáp ứng điều trị.
+[Nhấp vào đây để xem hình ảnh](https://dermnetnz-org.translate.goog/images/onychomycosis-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)

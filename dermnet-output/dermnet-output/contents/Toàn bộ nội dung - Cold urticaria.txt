@@ -1,0 +1,97 @@
+# Mề đay do lạnh — thông tin bổ sung
+
+Thể loại:
+
+Phản ứng, phát ban
+
+SNOMED CT:
+
+74774004, 302165002
+
+**[Phản ứng, phát ban](https://dermnetnz.org/topics/topics?category=Reactions)**
+
+
+# **Mề đay lạnh**
+
+Tác giả: Vanessa Ngan, Biên tập viên, 2006. Sửa đổi nhỏ bởi Ian Coulson, Bác sĩ Da liễu. Biên tập bởi Gus Mitchell. Tháng 7 năm 2024.
+
+---
+
+## Mề đay do lạnh là gì?
+
+Mề đay lạnh là một dạng [mề đay mạn tính](https://dermnetnz.org/topics/chronic-inducible-urticaria) tương đối hiếm gặp . Mề đay xuất hiện sau khi tiếp xúc với nước lạnh, lạnh và các vật lạnh.
+Mề đay do lạnh mắc phải hiện được hiểu là một rối loạn hoàn toàn khác với [hội chứng tự viêm do lạnh gia đình](https://dermnetnz.org/topics/familial-cold-autoinflammatory-syndrome) (FCAS), trước đây được gọi là mề đay do lạnh di truyền . FCAS là một trong [những hội chứng chu kỳ liên quan đến cryopyrin](https://dermnetnz.org/topics/cryopyrin-associated-periodic-syndromes) (CAPS).
+
+---
+
+## Nguyên nhân gây ra bệnh nổi mề đay do lạnh là gì?
+
+Mề đay lạnh là do tiếp xúc với lạnh. Tại sao kích thích lạnh lại kích hoạt tế bào mast và giải phóng histamine cùng các chất trung gian gây viêm khác vẫn chưa được biết rõ.
+Mề đay lạnh có thể là nguyên phát ( vô căn ) hoặc thứ phát do bệnh lý huyết học hoặc bệnh lý nhiễm trùng tiềm ẩn. Hầu hết các trường hợp là loại vô căn (không rõ nguyên nhân).
+
+---
+
+## Ai dễ mắc phải bệnh nổi mề đay do lạnh?
+
+Mề đay do lạnh mắc phải rất hiếm gặp, chỉ ảnh hưởng đến khoảng 0,05% dân số. Bệnh thường được chẩn đoán ở người trẻ và trung niên, nhưng cũng có thể gặp ở [trẻ em](https://dermnetnz.org/topics/urticaria-in-children) hoặc người cao tuổi. Bệnh phổ biến ở phụ nữ gấp đôi nam giới.
+Bệnh thường liên quan đến các loại mề đay vật lý [như mề đay vẽ nổi](https://dermnetnz.org/topics/dermographism) và [mề đay cholinergic](https://dermnetnz.org/topics/cholinergic-urticaria) , và đôi khi là [mề đay](https://dermnetnz.org/topics/urticaria-an-overview) thông thường . Các bệnh lý nền liên quan đến mề đay lạnh thứ phát bao gồm:
+- [Bệnh Cryoglobulinemia](https://dermnetnz.org/topics/cryoglobulinaemia)
+- Bệnh bạch cầu lymphocytic mãn tính
+- U lymphosarcoma
+- [Bệnh thủy đậu (varicella)](https://dermnetnz.org/topics/chickenpox)
+- [Bệnh giang mai](https://dermnetnz.org/topics/syphilis)
+- [Viêm gan siêu vi](https://dermnetnz.org/topics/viral-hepatitis)
+- [Bệnh bạch cầu đơn nhân nhiễm trùng (sốt tuyến) và](https://dermnetnz.org/topics/infectious-mononucleosis) các bệnh nhiễm trùng đường hô hấp khác
+- Tiêm chủng.
+
+---
+
+## Các đặc điểm lâm sàng của bệnh mề đay lạnh là gì?
+
+Các triệu chứng của bệnh mề đay lạnh xuất hiện rõ ràng trong vòng 2–5 phút sau khi tiếp xúc và kéo dài trong 1–2 giờ. Các triệu chứng bao gồm:
+- Các vết sưng ngứa (nổi mề đay) và phù [mạch](https://dermnetnz.org/topics/angioedema) [](https://dermnetnz.org/topics/angioedema) có thể khu trú (ảnh hưởng đến một số bộ phận nhất định của cơ thể) hoặc lan rộng ( phát ban trên toàn bộ cơ thể).
+- Trong một số trường hợp, các triệu chứng toàn thân có thể phát triển ( [sốc phản vệ](https://dermnetnz.org/topics/anaphylaxis) ) Khó thở, thở khò khè Đau bụng, loét đường tiêu hóa Nhịp tim nhanh và không đều
+- Khó thở, thở khò khè
+- Đau bụng, loét đường tiêu hóa
+- Nhịp tim nhanh và không đều
+- Trong những trường hợp rất nghiêm trọng, có thể xảy ra tình trạng hạ huyết áp (huyết áp giảm), sốc, suy sụp và thậm chí tử vong.
+Bơi trong nước lạnh là nguyên nhân phổ biến nhất gây ra phản ứng nổi mề đay lạnh nghiêm trọng. Phản ứng nghiêm trọng cũng có thể xảy ra ở những bệnh nhân tiếp xúc với phòng lạnh hoặc trong quá trình phẫu thuật được gây mê toàn thân.
+![Mề đay lạnh](https://dermnetnz.org/assets/Uploads/reactions/cold-urticaria3.jpg)
+![Mề đay lạnh](https://dermnetnz.org/assets/Uploads/reactions/cold-urticaria4.jpg)
+![Mề đay lạnh](https://dermnetnz.org/assets/Uploads/reactions/cold-urticaria5.jpg)
+
+---
+
+## Chẩn đoán được thực hiện như thế nào?
+
+Mề đay lạnh có thể được chẩn đoán bằng cách chườm một viên đá lạnh lên da cẳng tay trong 1–5 phút. Nếu bệnh nhân bị mề đay lạnh, một vùng phát ban đỏ sưng tấy rõ rệt sẽ xuất hiện trong vòng vài phút tại vị trí tiếp xúc với thử nghiệm kích thích lạnh. Công thức máu toàn phần và xét nghiệm chuyển hóa cũng có thể được thực hiện để xác định các bệnh lý liên quan.
+![Chườm đá lên da bình thường](https://dermnetnz.org/assets/Uploads/reactions/ice1.jpg)
+![Mảng đỏ khi loại bỏ băng](https://dermnetnz.org/assets/Uploads/reactions/ice2.jpg)
+![Vết thương to ra sau 5 phút](https://dermnetnz.org/assets/Uploads/reactions/ice3.jpg)
+
+---
+
+## Phương pháp điều trị bệnh nổi mề đay do lạnh là gì?
+
+Bệnh nhân bị nổi mề đay lạnh nên học cách tự bảo vệ mình khỏi tình trạng hạ thân nhiệt đột ngột. Các hoạt động dưới nước (như bơi lội và lướt sóng) luôn phải được giám sát.
+Bệnh nhân bị [phản ứng phản vệ](https://dermnetnz.org/topics/anaphylaxis) nên mang theo [adrenaline](https://dermnetnz.org/topics/the-physiology-and-pharmacology-of-adrenaline) dự phòng .
+Liều lượng thông thường của [thuốc kháng histamin](https://dermnetnz.org/topics/antihistamines) thông thường thường không hiệu quả. Ban đầu, liều tiêu chuẩn là đủ, nhưng nếu cần, liều cao thuốc kháng histamin không gây buồn ngủ có thể hữu ích (ví dụ: cetirizine lên đến 40 mg mỗi ngày). Một số loại thuốc liên quan đã được chứng minh là có hiệu quả bao gồm cyproheptadine, doxepin và ketotifen.
+Omalizumab ngoài thuốc kháng histamin có thể hữu ích trong bệnh khó chữa , liều ban đầu là 150 mg sau mỗi 4 tuần, nhưng có thể tăng gấp đôi liều nếu không có đáp ứng đầy đủ.
+Đã có báo cáo về việc điều trị thành công bằng [thuốc đối kháng leukotriene](https://dermnetnz.org/topics/leukotriene-antagonists) , [ciclosporin](https://dermnetnz.org/topics/ciclosporin) , [corticosteroid toàn thân](https://dermnetnz.org/topics/systemic-steroids) , [dapsone](https://dermnetnz.org/topics/dapsone) , [kháng sinh đường uống](https://dermnetnz.org/topics/antibiotics) và hormone tổng hợp danazol.
+Việc thận trọng tạo khả năng chịu lạnh có thể thành công ( giảm nhạy cảm ), bằng cách làm cho da dần quen với điều kiện lạnh và sau đó cho da tiếp xúc thường xuyên với điều kiện lạnh, ví dụ như tắm nước lạnh thường xuyên.
+
+### Các biện pháp phòng ngừa được khuyến cáo trong quá trình gây mê toàn thân
+Cần thông báo trước cho bác sĩ gây mê rằng bệnh nhân bị nổi mề đay lạnh. Nhân viên phải thực hiện các biện pháp phòng ngừa để giữ ấm cho bệnh nhân .
+- Theo dõi nhiệt độ cơ thể.
+- Duy trì nhiệt độ ấm áp đồng đều trong phòng phẫu thuật.
+- Đắp chăn giữ ấm.
+- Làm ấm dịch truyền tĩnh mạch trước khi truyền.
+- Kê đơn thuốc kháng histamine không gây buồn ngủ trước khi phẫu thuật.
+- Cân nhắc sử dụng corticosteroid toàn thân.
+- Tránh các loại thuốc giải phóng histamine (như thuốc phiện) và các loại thuốc có nguy cơ cao gây phản vệ.
+
+---
+
+## Kết quả điều trị cho bệnh nhân bị nổi mề đay do lạnh là gì?
+
+Mề đay do lạnh thường kéo dài vài năm. Khoảng 30% báo cáo các triệu chứng thuyên giảm trong vòng 5 đến 10 năm. Một nghiên cứu theo dõi 20 năm trên 41 bệnh nhân được chẩn đoán mắc mề đay do lạnh cho thấy tình trạng này đã thuyên giảm sau 10 năm ở khoảng một phần tư số bệnh nhân. Hầu hết những người bị ảnh hưởng đều dựa vào việc thay đổi lối sống để tránh các đợt bùng phát.

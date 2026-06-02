@@ -1,0 +1,107 @@
+# Bệnh hoại tử mỡ — thông tin bổ sung
+
+Thể loại:
+
+Bệnh hệ thống
+
+SNOMED CT:
+
+9418005, 56391002
+
+**[Bệnh hệ thống](https://dermnetnz.org/topics/topics?category=Systemic+diseases)**
+
+
+# **Bệnh hoại tử mỡ**
+
+Tác giả: Hon A/ProfAmanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand, 2006. Bản cập nhật DermNet tháng 8 năm 2021
+
+---
+
+## Bệnh hoại tử mỡ là gì?
+
+Hoại tử mỡ là một bệnh lý da hạt hiếm gặp thường xuất hiện ở cẳng chân của người bị tiểu đường.
+![Bệnh hoại tử mỡ](https://dermnetnz.org/assets/Uploads/systemic/nld1.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/systemic/s/nld2.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/nld3.jpg)
+
+---
+
+## Ai mắc bệnh hoại tử mỡ?
+
+Bệnh hoại tử mỡ phổ biến ở phụ nữ gấp ba lần so với nam giới và thường phát triển ở người lớn trẻ và trung niên.
+- 1% bệnh nhân tiểu đường sẽ mắc bệnh hoại tử mỡ.
+- Bệnh này có thể xảy ra ở cả bệnh tiểu đường loại 1 và loại 2.
+- 11–65% bệnh nhân mắc bệnh hoại tử mỡ có bệnh tiểu đường hoặc tiền tiểu đường.
+- Bệnh tiểu đường liên quan đến hoại tử mỡ có thể được kiểm soát tốt hoặc kém.
+- Bệnh nhân mắc bệnh tiểu đường loại 1 thường trẻ hơn những người mắc bệnh tiểu đường loại 2 hoặc không mắc bệnh tiểu đường.
+- Các mối liên quan khác bao gồm béo phì, tăng huyết áp , rối loạn lipid máu và bệnh tuyến giáp.
+- Bệnh hoại tử mỡ hiếm gặp ở trẻ em.
+
+---
+
+## Nguyên nhân gây ra bệnh hoại tử mỡ là gì?
+
+Nguyên nhân gây ra bệnh hoại tử mỡ chưa được biết rõ. Các giả thuyết bao gồm những thay đổi về mạch máu như phát triển trong bệnh tiểu đường hoặc viêm mạch do kháng thể .
+
+---
+
+## Đặc điểm lâm sàng của bệnh hoại tử mỡ là gì?
+
+Bệnh hoại tử mỡ bắt đầu bằng một sẩn hoặc mảng màu đỏ xỉn trên cẳng chân, sau đó dần dần phát triển thành một hoặc nhiều mảng màu nâu vàng có viền màu đỏ.
+Các bản vá:
+- Thường xảy ra ở cả hai cẳng chân và hiếm khi được tìm thấy ở các vị trí khác
+- Có thể không có triệu chứng hoặc đau
+- Có thể tròn, hình bầu dục hoặc hình dạng không đều
+- Teo trung tâm - bóng, nhợt nhạt và mỏng, có mạch máu nổi rõ ( [giãn mao mạch](https://dermnetnz.org/topics/telangiectasia) )
+- Có thể biểu hiện giảm tiết mồ hôi và cảm giác.
+
+### Nội soi da bệnh hoại tử mỡ
+- Nền màu vàng không có cấu trúc
+- Mạch máu tuyến tính có phân nhánh đồng đều
+- Các vệt trắng thẳng
+
+### Bệnh hoại tử mỡ biểu hiện như thế nào ở các loại da khác nhau?
+Ở da có màu, các mảng và mảng hoại tử mỡ có thể tăng sắc tố ở ngoại vi với tình trạng giảm sắc tố phát triển ở trung tâm kèm theo teo da và giãn mao mạch.
+
+---
+
+## Biến chứng của bệnh hoại tử mỡ là gì?
+
+- Loét là biến chứng của 1/3 trường hợp hoại tử mỡ, thường xảy ra sau chấn thương nhẹ ở một mảng đã hình thành. Vết loét có thể rất đau hoặc không đau.
+- Loét do hoại tử mỡ có nguy cơ bị nhiễm khuẩn thứ phát và chậm lành.
+- Ung thư biểu mô tế bào vảy được báo cáo là phát triển trong bệnh hoại tử mỡ loét.
+
+### Bệnh hoại tử loét dạng mỡ
+![Bệnh hoại tử mỡ](https://dermnetnz.org/assets/Uploads/doctors/wound-healing/images/nld.jpg)
+![Bệnh hoại tử loét dạng mỡ](https://dermnetnz.org/assets/Uploads/site-age-specific/ulcer-32.jpg)
+![Bệnh hoại tử loét dạng mỡ](https://dermnetnz.org/assets/Uploads/site-age-specific/ulcer-34.jpg)
+
+---
+
+## Chẩn đoán phân biệt bệnh hoại tử mỡ là gì?
+
+- [U hạt tế bào khổng lồ đàn hồi](https://dermnetnz.org/topics/elastolytic-giant-cell-granuloma)
+- [U hạt vàng hoại tử](https://dermnetnz.org/topics/necrobiotic-xanthogranuloma-pathology)
+- [Bệnh sarcoidosis](https://dermnetnz.org/topics/sarcoidosis)
+
+---
+
+## Bệnh hoại tử mỡ được chẩn đoán như thế nào?
+
+Bệnh hoại tử mỡ được chẩn đoán lâm sàng khi có triệu chứng điển hình.
+Sinh [thiết da](https://dermnetnz.org/topics/skin-biopsy) có thể được thực hiện để xác nhận chẩn đoán. Mô bệnh học đặc trưng; nó cho thấy phản ứng viêm dạng hạt xung quanh collagen bị phá hủy (hoại tử). [xem [bệnh lý hoại tử mỡ](https://dermnetnz.org/topics/necrobiosis-lipoidica-pathology) ].
+
+---
+
+## Phương pháp điều trị bệnh hoại tử mỡ là gì?
+
+Không phải tất cả các trường hợp hoại tử mỡ đều cần điều trị và việc điều trị thường không mang lại kết quả như mong đợi. Các phương pháp điều trị sau đây đôi khi có hiệu quả:
+- Corticosteroid — [tại chỗ](https://dermnetnz.org/topics/topical-steroid) hoặc [tiêm vào tổn thương](https://dermnetnz.org/topics/intralesional-steroid-injection)
+- [Tacrolimus](https://dermnetnz.org/topics/tacrolimus) tại chỗ [](https://dermnetnz.org/topics/tacrolimus)
+- [Quang hóa trị (PUVA](https://dermnetnz.org/topics/puva-photochemotherapy) ).
+
+---
+
+## Triển vọng của bệnh hoại tử mỡ là gì?
+
+Bệnh hoại tử mỡ là một tình trạng mãn tính có thể ổn định hoặc tiến triển chậm trong nhiều năm. Đã có báo cáo về tình trạng bệnh tự khỏi.

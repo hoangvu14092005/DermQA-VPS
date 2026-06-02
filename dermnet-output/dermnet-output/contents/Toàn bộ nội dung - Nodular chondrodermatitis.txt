@@ -1,0 +1,110 @@
+# Viêm da sụn nốt — thông tin bổ sung
+
+Thể loại:
+
+Tổn thương (lành tính)
+
+SNOMED CT:
+
+76583009, 402699002, 403432008
+
+**[Tổn thương (lành tính)](https://dermnetnz.org/topics/topics?category=Lesions+(benign))**
+
+
+# **Viêm da sụn nốt**
+
+Tác giả: Tiến sĩ Anita Eshraghi, Bác sĩ Da liễu, Thụy Điển. Tổng Biên tập DermNet. Phó Giáo sư Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand. Trang gốc của Tiến sĩ Oakley được xuất bản năm 1997. Cập nhật tháng 8 năm 2018.
+
+---
+
+## Viêm sụn da cục bộ là gì?
+
+Viêm sụn da nốt là tình trạng viêm phổ biến ảnh hưởng đến da và sụn vành tai hoặc sụn vành tai.
+Viêm sụn da nốt đôi khi được gọi là bệnh Winkler, theo tên [bác sĩ da liễu](https://dermnetnz.org/topics/what-is-a-dermatologist) đã mô tả bệnh này vào năm 1915. Bệnh còn được gọi là viêm sụn da nốt , viêm sụn da nốt xoắn và viêm sụn da nốt xoắn mạn tính.
+
+---
+
+## Ai mắc bệnh viêm sụn da cục bộ?
+
+Viêm da sụn nốt thường gặp ở nam giới da trắng và trung niên, với 10–35% trường hợp được báo cáo ở phụ nữ. Bệnh hiếm khi được báo cáo ở trẻ em.
+
+---
+
+## Nguyên nhân gây ra bệnh viêm sụn da cục bộ là gì?
+
+Nguyên nhân chính xác của bệnh viêm da sụn nốt vẫn chưa được biết rõ. Có một số yếu tố góp phần vào sự phát triển của bệnh.
+- Áp lực lặp đi lặp lại và làm giảm lượng máu cung cấp cho tai (chủ yếu ở những người ngủ nghiêng một bên)
+- Tiếp xúc với lạnh và ánh nắng mặt trời
+- Chấn thương do tai nghe, thiết bị di động hoặc máy trợ thính
+- [Bệnh mô liên kết](https://dermnetnz.org/topics/skin-signs-of-rheumatic-disease) (ví dụ, [lupus ban đỏ](https://dermnetnz.org/topics/cutaneous-lupus-erythematosus) , [viêm da cơ](https://dermnetnz.org/topics/adult-onset-dermatomyositis) và [xơ cứng bì](https://dermnetnz.org/topics/scleroderma) )
+![Viêm sụn da](https://dermnetnz.org/assets/Uploads/lesions/cnh2.jpg)
+![Viêm sụn da](https://dermnetnz.org/assets/Uploads/lesions/cnh3.jpg)
+![Hình ảnh được cung cấp bởi Tiến sĩ Trevor Evans](https://dermnetnz.org/assets/Uploads/lesions/cnh4.jpg)
+
+---
+
+## Các đặc điểm lâm sàng của bệnh viêm sụn da cục bộ là gì?
+
+Viêm da sụn nốt là một nốt đơn độc, chắc và hình bầu dục , đường kính 4–6 mm, có vảy ở giữa và ban đỏ xung quanh.
+- Ở nam giới, vị trí phổ biến nhất của CNH là xoắn ốc, trong khi ở phụ nữ, vị trí này thường được tìm thấy ở xoắn ốc đối diện.
+- Thông thường, nó chỉ xuất hiện ở một bên , nằm ở phía bên kia khi ngủ, nhưng cũng có thể xuất hiện ở cả hai bên.
+- CNH gây đau và nhạy cảm. Đau vào ban đêm có thể khiến bạn không ngủ được khi nằm nghiêng về bên bị ảnh hưởng.
+- Tổn thương có thể chảy máu hoặc tiết ra một lượng nhỏ chất có vảy .
+
+---
+
+## Viêm sụn da cục bộ được chẩn đoán như thế nào?
+
+Trong hầu hết các trường hợp, chẩn đoán viêm sụn da nốt được thực hiện trên lâm sàng, dựa trên vị trí đặc trưng trên xoắn ốc hoặc đối xoắn ốc, và tiền sử đau và nhạy cảm điển hình.
+Đôi khi cần phải sinh [thiết cắt bỏ để xác nhận chẩn đoán (xem](https://dermnetnz.org/topics/excision-of-skin-lesions) [bệnh lý Chondrodermatis nodularis](https://dermnetnz.org/topics/chondrodermatitis-nodularis-pathology) ).
+
+---
+
+## Chẩn đoán phân biệt bệnh viêm sụn da dạng nốt là gì?
+
+Chẩn đoán phân biệt CNH phụ thuộc vào các triệu chứng lâm sàng. Các chẩn đoán khác cần xem xét bao gồm:
+- [Ung thư biểu mô tế bào vảy](https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma-in-skin-of-colour)
+- [U sừng gai](https://dermnetnz.org/topics/keratoacanthoma)
+- [Mụn cóc do virus](https://dermnetnz.org/topics/viral-wart)
+- [Tophi do gút](https://dermnetnz.org/topics/gout)
+- [Vôi hóa da](https://dermnetnz.org/topics/calcinosis-cutis)
+- [Ung thư biểu mô tế bào đáy](https://dermnetnz.org/topics/basal-cell-carcinoma)
+- [Bệnh sừng hóa ánh sáng](https://dermnetnz.org/topics/actinic-keratosis) .
+
+---
+
+## Phương pháp điều trị bệnh viêm sụn da cục bộ là gì?
+
+
+### Các biện pháp chung
+Đệm bảo vệ vào ban đêm có thể làm giảm áp lực lên vùng bị ảnh hưởng bởi CNH.
+- Cố gắng tránh nằm ngủ chỉ một bên.
+- Chọn một chiếc gối mềm.
+- Hãy cân nhắc việc tạo một 'lỗ' trên gối để tránh gây áp lực lên vùng bị đau.
+- Có thể dùng cao su xốp hoặc miếng bọt biển tắm để làm miếng bảo vệ tai khi bị viêm sụn khớp để đeo vào ban đêm, giữ cố định bằng băng đô đàn hồi (hoặc mua miếng bảo vệ tai từ công ty cung cấp vật tư y tế).
+- Đội mũ ấm che tai khi ra ngoài trời lạnh và có gió.
+- Bôi dầu hỏa hoặc thuốc mỡ [sát trùng](https://dermnetnz.org/topics/antiseptic) dưới lớp băng mỏng, đặc biệt nếu viêm sụn da cục bộ bị loét hoặc nhiễm trùng.
+
+### Tiêm steroid vào tổn thương
+Tiêm [steroid](https://dermnetnz.org/topics/intralesional-steroid-injection) triamcinolone acetonide có thể làm giảm tình trạng viêm tại chỗ.
+
+### Cấy ghép
+Chất [làm đầy](https://dermnetnz.org/topics/fillers) như [collagen](https://dermnetnz.org/topics/collagen-replacement-therapy) hoặc [axit hyaluronic](https://dermnetnz.org/topics/hyaluronic-acid-implant) có thể được tiêm dưới da phía trên sụn để tạo thành lớp đệm.
+
+### Nitroglycerin tại chỗ
+Thuốc mỡ nitroglycerin (chứa 1–2% glyceryl trinitrate) gây giãn mạch và thư giãn cơ trơn tiểu động mạch và có thể đảo ngược những thay đổi do thiếu máu cục bộ thấy được trong bệnh viêm sụn da dạng nốt.
+- Bôi lên vùng bị ảnh hưởng hai lần mỗi ngày.
+- Tác dụng phụ bao gồm đau đầu thoáng qua và kích ứng da.
+
+### Ca phẫu thuật
+Các lựa chọn phẫu thuật có thể bao gồm:
+- Loại bỏ da và sụn với biên độ tối thiểu
+- Cắt bỏ bằng [sinh thiết đục lỗ](https://dermnetnz.org/topics/skin-biopsy) , [ghép da toàn bộ độ dày](https://dermnetnz.org/topics/skin-grafting)
+- Nạo vét để loại bỏ mô bị ảnh hưởng, để lại vết thương cho đến khi lành lại theo ý muốn thứ cấp.
+Thật không may, CNH có tỷ lệ tái phát sau phẫu thuật là 10–30%.
+
+---
+
+## Kết quả của bệnh viêm sụn da cục bộ là gì?
+
+CNH thường tự khỏi sau vài tháng. Bệnh có thể tái phát.

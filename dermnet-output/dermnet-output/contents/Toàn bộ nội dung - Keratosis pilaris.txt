@@ -1,0 +1,107 @@
+# Viêm nang lông — thông tin bổ sung
+
+Thể loại:
+
+Rối loạn nang lông
+
+SNOMED CT:
+
+5132005, 400059005, 2736005, 400126005, 400043005
+
+**[Rối loạn nang lông](https://dermnetnz.org/topics/topics?category=Follicular+disorder)**
+
+
+# **Sừng hóa nang lông**
+
+Tác giả: Tiến sĩ Sarah Winter, Thực tập sinh Phẫu thuật, Bệnh viện Royal Glamorgan; Tiến sĩ Richard Motley, Bác sĩ Da liễu Tư vấn, Viện Da liễu xứ Wales, Wales. Biên tập bởi Gus Mitchell. Tháng 3 năm 2022
+
+---
+
+## Bệnh dày sừng nang lông là gì?
+
+Bệnh dày sừng nang lông là một tình trạng da khô rất phổ biến do sự tích tụ keratin trong nang lông .
+Thuật ngữ tiếng Latin keratosis có nghĩa là ' da có vảy ', và pilaris có nghĩa là 'lông'. Keratosis pilaris thường bắt đầu từ thời thơ ấu nhưng trở nên rõ ràng hơn ở tuổi thiếu niên và trưởng thành. Bệnh này vô hại và không lây nhiễm.
+![Sừng hóa nang lông](https://dermnetnz.org/assets/Uploads/acne/keratosis-pilaris/3013.jpg)
+![Sừng hóa nang lông](https://dermnetnz.org/assets/Uploads/acne/keratosis-pilaris/3016.jpg)
+![Sừng hóa nang lông](https://dermnetnz.org/assets/Uploads/acne/keratosis-pilaris/3024.jpg)
+[Nhấp vào đây để xem thêm hình ảnh](https://dermnetnz-org.translate.goog/topics/keratosis-pilaris-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+
+---
+
+## Ai mắc bệnh dày sừng nang lông?
+
+Dày sừng nang lông thường gặp ở trẻ em và thanh thiếu niên. Bệnh ảnh hưởng đến 50–70% thanh thiếu niên và 40% người lớn. Bệnh có liên quan đến các bệnh ngoài da khác như [chàm thể tạng](https://dermnetnz.org/topics/atopic-dermatitis) và [bệnh vảy cá](https://dermnetnz.org/topics/ichthyosis) .
+
+---
+
+## Nguyên nhân nào gây ra bệnh dày sừng nang lông?
+
+Dày sừng nang lông xảy ra do sự sừng hóa bất thường của lớp sừng ở phần trên của nang lông . Keratin lấp đầy nang lông thay vì bong tróc.
+Nguyên nhân gây dày sừng nang lông chưa được hiểu rõ hoàn toàn, nhưng người ta cho rằng nó có liên quan đến di truyền trội trên nhiễm sắc thể thường . Mối tương quan đã được tìm thấy với các đột biến trong filaggrin (một protein quan trọng trong chức năng hàng rào bảo vệ da).
+Bệnh dày sừng nang lông thường xuất hiện vào những tháng mùa đông và có thể là do độ ẩm trong không khí giảm.
+
+---
+
+## Các đặc điểm lâm sàng của bệnh dày sừng nang lông là gì?
+
+Bệnh nhân có thể phàn nàn về tình trạng da nổi "nổi da gà" hoặc "nổi da gà". Những nốt nhỏ này có thể cùng màu da, đỏ hoặc nâu. Da có thể bị sần sùi, khô và đôi khi ngứa. Tình trạng đỏ cũng có thể xuất hiện xung quanh nhiều nốt nhỏ.
+Dày sừng nang lông thường xuất hiện ở mặt duỗi của cánh tay trên và đùi. Mông, thân mình, ngực, mặt và các chi xa cũng có thể bị ảnh hưởng.
+Bệnh sừng hóa nang lông đôi khi có thể liên quan đến tình trạng đỏ và tăng sắc tố da ở má (erythromelanosis follicularis facei et coli và keratosis pilaris rouge), rụng lông mày (ulerythema ophryogenes) và [các vùng teo nhỏ trên má](https://dermnetnz.org/topics/keratosis-pilaris-atrophicans-faciei) ( atrophoderma vermiculatum).
+![Keratosis pilaris rubra faciei](https://dermnetnz.org/assets/Uploads/acne/s/kerapil2.jpg)
+![Ulerythema ophryogenes](https://dermnetnz.org/assets/Uploads/acne/keratosis-pilaris-2.jpg)
+![Atrophoderma vermiculata](https://dermnetnz.org/assets/Uploads/acne/keratosis-pilaris-3.jpg)
+[Nhấp vào đây để xem thêm hình ảnh](https://dermnetnz-org.translate.goog/topics/keratosis-pilaris-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+
+---
+
+## Các đặc điểm lâm sàng khác nhau như thế nào ở các loại da khác nhau?
+
+Các nốt sần thường có màu giống màu da của bệnh nhân. Tuy nhiên, chúng có thể biểu hiện dưới dạng các vùng đỏ trên da trắng hoặc nâu/đen trên da sẫm màu.
+
+---
+
+## Biến chứng của bệnh dày sừng nang lông là gì?
+
+- teo cơ
+- [Sẹo](https://dermnetnz.org/topics/keloid-and-hypertrophic-scar) kèm theo rụng tóc
+
+---
+
+## Bệnh dày sừng nang lông được chẩn đoán như thế nào?
+
+Dày sừng nang lông là một chẩn đoán lâm sàng. Việc đánh giá tổn thương có thể hỗ trợ chẩn đoán:
+- [Soi da](https://dermnetnz.org/topics/dermoscopy) : phát hiện bất thường của thân tóc — mỏng, ngắn, xoắn hoặc bám chặt vào lớp sừng. Cũng có thể xuất hiện tình trạng bong tróc và ban đỏ .
+- [Sinh thiết](https://dermnetnz.org/topics/skin-biopsy) đấm : phát hiện tình trạng tăng sừng biểu bì , tăng sinh hạt , nang lông bị tắc và viêm lympho bào quanh mạch nông nhẹ .
+
+---
+
+## Chẩn đoán phân biệt bệnh dày sừng nang lông là gì?
+
+- [Viêm da dị ứng](https://dermnetnz.org/topics/atopic-dermatitis)
+- [Viêm nang lông](https://dermnetnz.org/topics/folliculitis)
+- [Milia](https://dermnetnz.org/topics/milium)
+- [Lichen nitidus](https://dermnetnz.org/topics/lichen-nitidus)
+- [Địa y gai](https://dermnetnz.org/topics/lichen-spinulosus)
+- [Bệnh Phrynoderma do thiếu hụt dinh dưỡng](https://dermnetnz.org/topics/phrynoderma)
+
+---
+
+## Phương pháp điều trị bệnh dày sừng nang lông là gì?
+
+
+### Các biện pháp chung
+- Sử dụng miếng bọt biển tẩy tế bào chết hoặc tẩy tế bào chết khi tắm vòi sen hoặc bồn tắm
+
+### Các biện pháp cụ thể
+- Kem dưỡng ẩm có chứa [urê](https://dermnetnz.org/topics/urea) , [axit salicylic](https://dermnetnz.org/topics/salicylic-acid) , axit lactic hoặc axit alpha hydroxy (chúng có tác dụng dưỡng ẩm hoặc giúp làm bong lớp vảy bám dính trong nang lông)
+- [Retinoid tại chỗ](https://dermnetnz.org/topics/topical-retinoids)
+- [Có thể sử dụng các liệu trình ngắn hạn steroid bôi ngoài da có hiệu lực vừa phải để giảm ngứa](https://dermnetnz.org/topics/topical-steroid)
+- [Điều trị bằng tia laser nhuộm xung](https://dermnetnz.org/topics/pulsed-dye-laser-treatment) hoặc [ánh sáng xung cường độ cao](https://dermnetnz.org/topics/intense-pulsed-light-therapy) để giúp điều trị ban đỏ
+- [Triệt lông bằng laser](https://dermnetnz.org/topics/hair-removal-techniques) cho lông mọc ngược
+
+---
+
+## Kết quả của bệnh dày sừng nang lông là gì?
+
+Không có cách chữa khỏi bệnh dày sừng nang lông, tuy nhiên, bệnh thường tự khỏi khi trưởng thành. Điều này là do người lớn thường kiểm soát tình trạng da tốt hơn bằng các biện pháp đã thảo luận ở trên. Bất kỳ tình trạng teo da hoặc sẹo nào kèm theo rụng tóc đều có thể tồn tại vĩnh viễn.
+[Nhấp vào đây để xem hình ảnh](https://dermnetnz-org.translate.goog/topics/keratosis-pilaris-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)

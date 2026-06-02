@@ -1,0 +1,52 @@
+# Keratoelastoidosis marginalis — thông tin bổ sung
+
+Thể loại:
+
+Phản ứng
+
+SNOMED CT:
+
+43982006
+
+**[Phản ứng](https://dermnetnz.org/topics/topics?category=Reactions)**
+
+
+# **Keratoelastoidosis marginalis**
+
+Tác giả: DermNet Tổng biên tập: Phó Giáo sư Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand. Tháng 7 năm 2018. Biên tập bởi Maria McGivern/Gus Mitchell.
+
+---
+
+## Bệnh keratoelastoidosis marginalis là gì?
+
+Keratoelastoidosis marginalis là một dạng [dày sừng biên mắc phải](https://dermnetnz.org/topics/marginal-keratoderma) . Bệnh đặc trưng bởi các sẩn nhỏ, cứng, sần sùi hoặc sần sùi hình hạt ngọc trai ở hai bên ngón trỏ và ngón cái ở những bệnh nhân tiếp xúc nhiều với ánh nắng mặt trời. Bệnh này phổ biến hơn [acrokeratoelastoidosis](https://dermnetnz.org/topics/acrokeratoelastoidosis) , một dạng dày sừng biên di truyền .
+Những tên gọi khác của bệnh keratoelastoidosis marginalis là mảng thoái hóa collagen ở bàn tay, bệnh sừng hóa đầu chi dạng sẩn ở rìa , bệnh keratoelastoidosis ở bàn tay, mảng rìa collagen và đàn hồi ở bàn tay, và bệnh vôi hóa đàn hồi dạng sẩn ở ngón tay .
+![Keratoelastoidosis marginalis](https://dermnetnz.org/assets/Uploads/keratoelastoidosis-marginalis-04.jpg)
+![Keratoelastoidosis marginalis](https://dermnetnz.org/assets/Uploads/keratoelastoidosis-marginalis-02.jpg)
+![Keratoelastoidosis marginalis](https://dermnetnz.org/assets/Uploads/keratoelastoidosis-marginalis-03.jpg)
+
+---
+
+## Ai mắc bệnh keratoelastoidosis marginalis và tại sao?
+
+Keratoelastoidosis marginalis xảy ra ở người lớn tuổi, bất kể màu da, chủ yếu làm việc ngoài trời và là một dạng [elastosis](https://dermnetnz.org/topics/solar-elastosis) do ánh nắng mặt trời . Đây là một phần của [quá trình lão hóa da](https://dermnetnz.org/topics/ageing-skin) và là kết quả của sự thoái hóa các lớp sâu hơn của da do chấn thương và [tia cực tím](https://dermnetnz.org/topics/ultraviolet-radiation-and-human-health) .
+
+---
+
+## Dấu hiệu và triệu chứng của bệnh sừng hóa rìa là gì?
+
+Keratoelastoidosis marginalis được chẩn đoán ở những bệnh nhân trên 50 tuổi. Các sẩn sừng hóa không đều, đôi khi có hình dạng như miệng núi lửa, xuất hiện ở mặt ngoài của ngón trỏ và mặt trong của ngón cái, có thể hợp nhất thành mảng. Vùng da xung quanh thường có màu vàng. Bệnh nhân có thể có các dấu hiệu khác của tổn thương do ánh nắng mặt trời, chẳng hạn như chứng [đàn hồi da do ánh nắng mặt trời](https://dermnetnz.org/topics/solar-elastosis) , [mụn đầu đen do ánh nắng mặt trời](https://dermnetnz.org/topics/solar-comedo) và [hội chứng Favre-Racouchot](https://dermnetnz.org/topics/favre-racouchot-syndrome-pathology) .
+Một khi đã phát triển, bệnh keratoelastoidosis marginalis sẽ không thay đổi mãi mãi. Các sẩn thường không gây ra bất kỳ triệu chứng nào.
+
+---
+
+## Chẩn đoán bệnh keratoelastoidosis marginalis được thực hiện như thế nào?
+
+Trong hầu hết các trường hợp, bệnh keratoelastoidosis marginalis là chẩn đoán lâm sàng được xác định dựa trên độ tuổi khởi phát, không có tiền sử gia đình và các dấu hiệu khác của tổn thương do ánh nắng mặt trời.
+Có thể thực hiện sinh thiết da. Mô [bệnh](https://dermnetnz.org/topics/skin-biopsy) [học củabệnh keratoelastoidosismarginalis](https://dermnetnz.org/topics/keratoelastoidosis-marginalis-pathology) cho thấy tình trạng tăng sừng khu trú , tăng sinh gai , tăng sinh hạt và tăng sinh đàn hồi, cũng như các thay đổi thoái hóa do ánh nắng mặt trời khác.
+
+---
+
+## Phương pháp điều trị bệnh keratoelastoidosis marginalis là gì?
+
+Bệnh Keratoelastoidosis marginalis đã được điều trị bằng [liệu pháp laser](https://dermnetnz.org/topics/lasers-in-dermatology) , [thuốc bóc tách sừng](https://dermnetnz.org/topics/keratolytic-agents) tại chỗ (ví dụ: [axit salicylic](https://dermnetnz.org/topics/salicylic-acid) ) [, retinoid tại chỗ](https://dermnetnz.org/topics/topical-retinoids) (ví dụ: tazarotene và tretinoin), [isotretinoin uống](https://dermnetnz.org/topics/isotretinoin) và [liệu pháp lạnh](https://dermnetnz.org/topics/cryotherapy) . Các phương pháp này có thể mang lại hiệu quả giảm đau tạm thời. Khuyến cáo nên sử dụng [kem chống nắng](https://dermnetnz.org/topics/sun-protection) hàng ngày quanh năm suốt đời . [](https://dermnetnz.org/topics/keratolytic-agents) [](https://dermnetnz.org/topics/salicylic-acid) [](https://dermnetnz.org/topics/topical-retinoids) [](https://dermnetnz.org/topics/isotretinoin) [](https://dermnetnz.org/topics/cryotherapy) [](https://dermnetnz.org/topics/sun-protection)

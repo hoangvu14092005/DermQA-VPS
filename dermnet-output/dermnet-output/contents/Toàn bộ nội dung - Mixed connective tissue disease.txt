@@ -1,0 +1,115 @@
+# Bệnh mô liên kết hỗn hợp — thông tin bổ sung
+
+Thể loại:
+
+Bệnh mô liên kết
+
+SNOMED CT:
+
+398049005
+
+**[Bệnh mô liên kết](https://dermnetnz.org/topics/topics?category=Connective+tissue+diseases)**
+
+
+# **Bệnh mô liên kết hỗn hợp**
+
+Tác giả: Tiến sĩ Susannah Fraser, MBChB, FRCP (Edin), Bác sĩ da liễu tư vấn, NHS Fife, Scotland, Vương quốc Anh; Tổng biên tập: Phó giáo sư Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand, tháng 2 năm 2016.
+
+---
+
+## Bệnh mô liên kết hỗn hợp là gì?
+
+Bệnh mô liên kết hỗn hợp là một rối loạn mô liên kết tự miễn hiếm gặp với kháng thể tự thân kháng U1RNP và các đặc điểm lâm sàng của ba bệnh mô liên kết phổ biến hơn:
+- [Bệnh lupus ban đỏ hệ thống](https://dermnetnz.org/topics/systemic-lupus-erythematosus)
+- [Xơ cứng hệ thống](https://dermnetnz.org/topics/systemic-sclerosis)
+- Viêm đa cơ ( [viêm da cơ](https://dermnetnz.org/topics/adult-onset-dermatomyositis) không có dấu hiệu ở da).
+Bệnh mô liên kết hỗn hợp còn được gọi là hội chứng Sharp.
+
+---
+
+## Nguyên nhân nào gây ra bệnh mô liên kết hỗn hợp?
+
+Nguyên nhân gây bệnh mô liên kết hỗn hợp vẫn chưa được biết rõ. Do sự hiện diện của các tự kháng thể , bệnh được phân loại là một [bệnh tự miễn](https://dermnetnz.org/topics/autoimmune-diseases-in-dermatology) .
+Bệnh này phổ biến nhất ở những bệnh nhân có HLA -DR4, cho thấy bệnh có yếu tố di truyền .
+
+---
+
+## Ai mắc bệnh mô liên kết hỗn hợp?
+
+- Bệnh mô liên kết hỗn hợp phổ biến ở phụ nữ gấp khoảng 4 lần so với nam giới
+- Nó thường ảnh hưởng đến phụ nữ dưới 30 tuổi
+- Trẻ em có thể bị ảnh hưởng.
+
+---
+
+## Các đặc điểm lâm sàng của bệnh mô liên kết hỗn hợp là gì?
+
+Diễn biến của bệnh mô liên kết hỗn hợp có thể tương tự như bệnh lupus ban đỏ hệ thống hoặc xơ cứng hệ thống. Tuy nhiên, các triệu chứng lâm sàng có xu hướng tiến triển tuần tự qua nhiều năm, đôi khi gây khó khăn cho việc chẩn đoán.
+- Các triệu chứng ban đầu thường liên quan đến bàn tay, với [hiện tượng Raynaud](https://dermnetnz.org/topics/raynaud-phenomenon) và sưng tấy hình xúc xích ở các ngón tay.
+- Cảm giác khó chịu , viêm cơ và viêm khớp cũng có thể xuất hiện.
+Bệnh mô liên kết hỗn hợp có thể đặc biệt nghiêm trọng ở trẻ em do:
+- Bệnh tim
+- Suy thận
+- Giảm tiểu cầu.
+Biểu hiện da liễu của bệnh mô liên kết hỗn hợp bao gồm:
+- Mao mạch nổi bật ở nếp gấp móng tay hoặc [giãn mạch](https://dermnetnz.org/topics/telangiectasia) quanh móng [](https://dermnetnz.org/topics/telangiectasia)
+- [Viêm mạch máu nhỏ](https://dermnetnz.org/topics/cutaneous-small-vessel-vasculitis) và [xuất huyết](https://dermnetnz.org/topics/purpura) sờ thấy được [](https://dermnetnz.org/topics/purpura)
+- Mảng đỏ giống [bệnh lupus ban đỏ hình đĩa](https://dermnetnz.org/topics/discoid-lupus-erythematosus)
+- Ban đỏ ở mặt
+- [Rụng tóc](https://dermnetnz.org/topics/hair-loss) ( sẹo cục bộ và rụng tóc lan tỏa không sẹo )
+- Các nốt sần da gây đau ở bàn tay và khuỷu tay, thường [bị vôi hóa](https://dermnetnz.org/topics/calcinosis-cutis) . [](https://dermnetnz.org/topics/calcinosis-cutis)
+
+### Dấu hiệu trên da của bệnh mô liên kết hỗn hợp
+![Bệnh mô liên kết hỗn hợp](https://dermnetnz.org/assets/Uploads/immune/mixed-ctd-1.jpg)
+![Bệnh mô liên kết hỗn hợp](https://dermnetnz.org/assets/Uploads/immune/mixed-ctd-2.jpg)
+![Bệnh mô liên kết hỗn hợp](https://dermnetnz.org/assets/Uploads/immune/mixed-ctd-3.jpg)
+![Bệnh mô liên kết hỗn hợp](https://dermnetnz.org/assets/Uploads/immune/w/mixed-ctd-4.jpg)
+
+---
+
+## Biến chứng của bệnh mô liên kết hỗn hợp
+
+Các biến chứng giai đoạn cuối của bệnh mô liên kết hỗn hợp bao gồm viêm thận , viêm màng ngoài tim và viêm cơ tim , và bệnh phổi kẽ .
+Trẻ sơ sinh của những bà mẹ mắc bệnh mô liên kết hỗn hợp và kháng thể tự miễn kháng U1RNP có thể mắc [bệnh lupus ban đỏ ở trẻ sơ sinh](https://dermnetnz.org/topics/neonatal-lupus-erythematosus) và một dạng loạn sản sụn chấm hiếm gặp không gây tử vong.
+
+---
+
+## Những xét nghiệm nào cần được thực hiện ở những bệnh nhân nghi ngờ mắc bệnh mô liên kết hỗn hợp?
+
+Sự hiện diện của nồng độ cao các tự kháng thể kháng phức hợp U1-ribonucleoprotein (RNP) là một đặc điểm xác định của bệnh mô liên kết hỗn hợp. Trước đây, kháng thể này được gọi là kháng thể kháng ' kháng nguyên nhân chiết xuất' (anti-ENA). Hạt ribonucleoprotein nhân nhỏ U1 là mục tiêu của tế bào B và tế bào T tự phản ứng .
+
+### Các xét nghiệm khác
+- Công thức máu có thể cho thấy tình trạng thiếu máu , tăng tiểu cầu và giảm bạch cầu.
+- Chức năng thận có thể bị suy giảm.
+- Nồng độ enzyme cơ có thể tăng cao.
+- Protein C phản ứng và tốc độ lắng hồng cầu ( ESR ) có thể tăng cao.
+- Bệnh nhân cũng có thể bị tăng gammaglobulin máu.
+- Xét nghiệm nước tiểu có thể cho thấy có protein niệu và máu niệu.
+- Chụp X-quang ngực có thể cho thấy màng phổi dày lên và xơ hóa , cũng như các dấu hiệu của tăng áp phổi .
+- Siêu âm tim có thể phát hiện viêm màng ngoài tim và tăng huyết áp động mạch phổi.
+- Vận động thực quản bất thường cũng có thể được phát hiện trên hình ảnh.
+
+---
+
+## Có những phương pháp điều trị nào cho bệnh mô liên kết hỗn hợp?
+
+
+### Tổng quan
+- [Chống nắng](https://dermnetnz.org/topics/sun-protection) là điều cần thiết.
+
+### Điều trị theo toa
+Việc điều trị có thể phụ thuộc vào mức độ nghiêm trọng tương đối của các triệu chứng giống lupus, giống xơ cứng hệ thống và giống viêm đa cơ của bệnh mô liên kết hỗn hợp. Những triệu chứng này có thể bao gồm:
+- [Corticosteroid tại chỗ](https://dermnetnz.org/topics/topical-steroid) cho các triệu chứng về da
+- [Corticosteroid đường uống](https://dermnetnz.org/topics/systemic-steroids)
+- Thuốc chống viêm
+- Thuốc chống sốt rét ( [hydroxychloroquine](https://dermnetnz.org/topics/hydroxychloroquine) ), nếu có các triệu chứng của [bệnh lupus ban đỏ hệ thống](https://dermnetnz.org/topics/systemic-lupus-erythematosus)
+- Thuốc chẹn kênh canxi cho [hiện tượng Raynaud](https://dermnetnz.org/topics/raynaud-phenomenon)
+- Thuốc giãn mạch như sildenafil hoặc bosentan dùng để điều trị tăng huyết áp phổi.
+
+---
+
+## Triển vọng của bệnh mô liên kết hỗn hợp là gì?
+
+- Khoảng một phần ba số bệnh nhân có mô liên kết hỗn hợp có bệnh nhẹ, chỉ cần dùng thuốc chống viêm và có thể thuyên giảm khi không phát hiện thấy kháng thể U1-RNP.
+- Một phần ba số bệnh nhân khác có quá trình tiến triển thành [bệnh xơ cứng hệ thống](https://dermnetnz.org/topics/systemic-sclerosis) tiến triển , có kết quả xấu.
+- Tăng huyết áp phổi là nguyên nhân chính gây tử vong.

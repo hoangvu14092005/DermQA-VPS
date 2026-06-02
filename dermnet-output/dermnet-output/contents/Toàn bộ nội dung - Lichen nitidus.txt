@@ -1,0 +1,115 @@
+# Lichen nitidus – thông tin bổ sung
+
+Thể loại:
+
+Phát ban
+
+SNOMED CT:
+
+41890004, 402353007
+
+**[Phát ban](https://dermnetnz.org/topics/topics?category=Rashes)**
+
+
+# **Lichen nitidus**
+
+Tác giả: Tiến sĩ Delwyn Dyall-Smith FACD, Bác sĩ da liễu, 2011.
+
+---
+
+## Lichen nitidus là gì?
+
+Lichen nitidus [](https://dermnetnz.org/topics/lichen-nitidus) là một tình trạng viêm da hiếm gặp, thường biểu hiện bằng những nốt sần nhỏ cùng màu da ở trẻ em. Mặc dù được coi là một biến thể của [liken phẳng](https://dermnetnz.org/topics/lichen-planus) , nhưng hiện nay liken nitidus được cho là một thực thể riêng biệt và khác biệt.
+![Lichen nitidus](https://dermnetnz.org/assets/Uploads/scaly/w/lichen-nitidus1.jpg)
+![Lichen nitidus](https://dermnetnz.org/assets/Uploads/scaly/w/lichen-nitidus2.jpg)
+![Lichen nitidus](https://dermnetnz.org/assets/Uploads/scaly/s/lichennitid4.jpg)
+
+---
+
+## Ai bị bệnh lichen nitidus và tại sao?
+
+Lichen nitidus thường bắt đầu ở trẻ em, đặc biệt là trẻ mẫu giáo và trẻ em trong độ tuổi đi học, hoặc ở tuổi trưởng thành. Bệnh ảnh hưởng đến cả hai giới như nhau và xảy ra ở mọi chủng tộc.
+Nguyên nhân gây ra bệnh lichen nitidus vẫn chưa được biết rõ.
+Lichen nitidus đã được báo cáo có liên quan đến:
+- [Lichen phẳng](https://dermnetnz.org/topics/lichen-planus)
+- [Bệnh Crohn](https://dermnetnz.org/topics/crohn-skin-disease)
+- [Hội chứng Down](https://dermnetnz.org/topics/dermatological-manifestations-of-down-syndrome)
+- [Viêm da dị ứng](https://dermnetnz.org/topics/atopic-dermatitis)
+- [Nhiễm HIV](https://dermnetnz.org/topics/skin-conditions-relating-to-hiv-infection)
+- Viêm khớp mãn tính ở trẻ em
+- Bệnh phình đại tràng bẩm sinh
+Đôi khi nó mang tính gia đình.
+
+---
+
+## Đặc điểm lâm sàng của bệnh lichen nitidus
+
+Thông thường, bệnh liken nitidus biểu hiện bằng tình trạng phát ban da cục bộ ở các mặt gấp của cẳng tay, mu bàn tay, dương vật, ngực, bụng và mông, mặc dù bất kỳ vị trí nào cũng có thể bị ảnh hưởng, bao gồm cả mặt.
+Các nốt sần (sẩn) có những đặc điểm sau:
+- Xác định chính xác kích thước đầu kim – đường kính 1-2mm
+- Hình tròn hoặc hình đa giác
+- Màu da, ít phổ biến hơn là vàng, nâu đỏ hoặc tím
+- Giảm hoặc tăng sắc tố ở những bệnh nhân da sẫm màu
+- Đầu phẳng
+- Sáng bóng
+- Có vảy
+- Hiếm khi, mụn nước nhỏ ( mụn nước )
+- Hiếm khi, một chỗ lõm trung tâm (rốn)
+- Tập hợp thành từng nhóm, có thể hợp lưu lại tạo thành mảng bám
+- Thường thấy ở khuỷu tay và đầu gối nên có thể giống bệnh vẩy nến
+- Khu trú hoặc hiếm khi lan rộng
+- Thông thường không có triệu chứng nhưng có thể gây ngứa.
+Hiện tượng Köbner hay hiện tượng đồng hình là phổ biến, xuất hiện dưới dạng các sẩn lichen nitidus xếp thành một hàng dọc theo các vị trí có vết xước.
+Lòng bàn tay và lòng bàn chân có thể bị ảnh hưởng. Tình trạng này có thể xảy ra ở một bên hoặc hai bên , khu trú hoặc kết hợp với các tổn thương ở những vị trí điển hình hơn. Lichen nitidus giới hạn ở lòng bàn tay dường như ảnh hưởng đến nhóm tuổi lớn hơn (độ tuổi từ 37-52) và có xu hướng rất dai dẳng.
+Lichen nitidus có thể ảnh hưởng đến niêm mạc miệng, có lẽ phổ biến hơn so với báo cáo. Các đặc điểm lâm sàng ở vị trí này là:
+- Các nốt sần nhỏ màu xám trắng phẳng bên trong má ( niêm mạc má )
+- Mảng trắng trên lưỡi và vòm miệng cứng
+- Có thể giống bệnh liken phẳng ở miệng
+Những thay đổi ở móng tay được ghi nhận ở khoảng 10%, đặc biệt là ở người lớn. Những thay đổi này có thể bao gồm:
+- Rỗ
+- Rặng tuyến tính dọc
+- Tách cạnh móng tay tự do
+- gợn sóng
+- Đỏ ở nếp gấp móng tay gần
+Các biến thể lâm sàng được báo cáo của bệnh lichen nitidus bao gồm:
+- Nichen nitidus tổng quát
+- Lichen xuất huyết / ban xuất huyết : dạng ban xuất huyết toàn thân bắt đầu ở mu bàn chân và quanh mắt cá chân trước khi lan lên chân và lan rộng trong nhiều tháng. Dạng ban xuất huyết lòng bàn tay có thể biểu hiện rõ hơn ở các vị trí chịu áp lực cơ học.
+- Bệnh nấm lichen mụn nước (phồng rộp) ảnh hưởng đến lòng bàn tay và trông giống như [bệnh phồng rộp](https://dermnetnz.org/topics/dyshidrotic-eczema)
+- Lichen nitidus xuất hiện ở những vị trí tiếp xúc với ánh nắng mặt trời thường ở những bệnh nhân da sẫm màu và có xu hướng theo mùa, tái phát vào mùa hè
+- Lichen nitidus tuyến tính – các sẩn phát sinh thành một đường
+- Một dạng keratoderma của bệnh lichen nitidus ảnh hưởng đến lòng bàn tay và lòng bàn chân, giống như bệnh chàm mãn tính với các vết nứt
+- Bệnh lichen nitidus đục lỗ chủ yếu được báo cáo ở bàn tay và cẳng tay; nó có các nốt sần lõm
+
+---
+
+## Lichen nitidus được chẩn đoán như thế nào?
+
+Mặc dù biểu hiện lâm sàng có thể gợi ý chẩn đoán, nhưng lichen nitidus thường cần [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) để xác nhận. [Mô học của lichen nitidus](https://dermnetnz.org/topics/lichen-nitidus-pathology) rất điển hình và được mô tả là hình dạng "móng vuốt và cục":
+- Thâm nhiễm lymphohistiocytic dày đặc cục bộ ở lớp hạ bì trên rất gần với lớp biểu bì.
+- Tế bào khổng lồ Langhans thường có trong dịch thâm nhiễm.
+- Các gờ lưới của lớp biểu bì kéo dài và 'bám chặt' vào lớp thâm nhiễm.
+- Các tế bào hồng cầu được nhìn thấy ngay dưới lớp biểu bì ở dạng xuất huyết/ban xuất huyết.
+- Vật liệu da ưa eosin với một số nhân tế bào có thể được nhìn thấy bên trong lớp biểu bì ở biến thể đục lỗ.
+
+---
+
+## Điều trị bệnh lichen nitidus
+
+Thông thường không cần điều trị, vì lichen nitidus thường không gây ra bất kỳ triệu chứng nào và tự khỏi trong vòng 12 tháng ở hai phần ba trường hợp. Tăng sắc tố sau viêm có thể kéo dài hàng tháng, hoặc trong một số trường hợp là hàng năm.
+Bệnh nhân có thể yêu cầu điều trị khi gặp phải các vấn đề sau:
+- Ngứa
+- Phát ban toàn thân
+- Sự liên quan của các vị trí thẩm mỹ nhạy cảm
+- Khóa học kéo dài.
+Các phương pháp điều trị được báo cáo là có tác dụng giảm đau và/hoặc chữa khỏi bệnh bao gồm:
+- Ánh sáng: bao gồm ánh sáng mặt trời, [liệu pháp quang trị liệu UVB dải hẹp](https://dermnetnz.org/topics/uvb-phototherapy) và [liệu pháp quang hóa trị liệu (PUVA)](https://dermnetnz.org/topics/puva-photochemotherapy)
+- [Corticosteroid tại chỗ](https://dermnetnz.org/topics/topical-steroid)
+- [Thuốc ức chế calcineurin](https://dermnetnz.org/topics/calcineurin-inhibitors) tại chỗ ( [tacrolimus](https://dermnetnz.org/topics/tacrolimus) và [pimecrolimus](https://dermnetnz.org/topics/pimecrolimus) )
+- Tiếp xúc nhạy cảm với DNCB hoặc [dễ bị diphency](https://dermnetnz.org/topics/diphenylcyclopropenone)
+Trong những trường hợp nghiêm trọng, có thể cân nhắc điều trị toàn thân , bao gồm:
+- [Corticosteroid](https://dermnetnz.org/topics/systemic-steroids)
+- [Ciclosporin](https://dermnetnz.org/topics/ciclosporin)
+- Retinoid – [acitretin](https://dermnetnz.org/topics/acitretin)
+- Astemizole ( [thuốc kháng histamin](https://dermnetnz.org/topics/antihistamines) , thuốc đối kháng chọn lọc H1 )
+- [Itraconazole](https://dermnetnz.org/topics/itraconazole)
+- Isoniazid (thuốc kháng sinh thường được dùng để điều trị bệnh lao).

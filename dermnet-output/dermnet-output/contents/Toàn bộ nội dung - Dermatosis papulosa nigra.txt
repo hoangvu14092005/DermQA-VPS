@@ -1,0 +1,62 @@
+# Bệnh sẩn đen da — thông tin bổ sung
+
+Thể loại:
+
+Tổn thương (lành tính), Di truyền
+
+SNOMED CT:
+
+254669003
+
+**[Tổn thương (lành tính), Di truyền](https://dermnetnz.org/topics/topics?category=Lesions+(benign))**
+
+
+# **Bệnh sẩn đen da**
+
+Tác giả: Tiến sĩ Mark Duffill, Bác sĩ da liễu, Hamilton, New Zealand, 2008.
+
+---
+
+## Bệnh sẩn đen da là gì?
+
+Bệnh sẩn đen da là tình trạng xuất hiện nhiều sẩn nhỏ, đường kính 1–5 mm, nhẵn, chắc, màu đen hoặc nâu sẫm trên mặt và cổ.
+
+---
+
+## Ai mắc bệnh sẩn đen da?
+
+Bệnh sẩn đen da thường gặp ở người da màu, với kiểu da Fitzpatrick 4, 5 hoặc 6. Bệnh ảnh hưởng đến 35% người Mỹ da đen. Tỷ lệ mắc bệnh thấp hơn ở người Mỹ gốc Phi có nước da sáng hơn. Bệnh sẩn đen da cũng xảy ra ở người châu Á và người Polynesia da sẫm màu, nhưng tần suất chính xác vẫn chưa được biết. Phụ nữ thường bị ảnh hưởng nhiều hơn nam giới.
+Bệnh sẩn đen da thường bắt đầu ở tuổi vị thành niên. Tỷ lệ mắc bệnh , số lượng và kích thước tổn thương tăng dần theo tuổi.
+
+---
+
+## Nguyên nhân gây ra bệnh sẩn đen da là gì?
+
+Các sẩn của bệnh sẩn đen da giống hệt với [các bệnh sừng hóa tiết bã nhờn](https://dermnetnz.org/topics/seborrhoeic-keratosis) nhỏ .
+Bệnh da sẩn đen có thể do di truyền, với 40–50% bệnh nhân có tiền sử gia đình. Người ta tin rằng nguyên nhân là do khiếm khuyết phát triển nang lông dạng nốt ruồi .
+
+---
+
+## Các đặc điểm lâm sàng của bệnh sẩn đen da là gì?
+
+Các nốt sẩn sẫm màu chủ yếu xuất hiện ở má và trán nhưng cũng có thể xuất hiện ở cổ, lưng trên và ngực. Không có hiện tượng bong tróc , đóng vảy và loét .
+Các nốt sẩn không có triệu chứng nhưng có thể bị coi là mất thẩm mỹ.
+![Bệnh sẩn đen da](https://dermnetnz.org/assets/Uploads/lesions/dpn1.jpg)
+![Bệnh sẩn đen da](https://dermnetnz.org/assets/Uploads/lesions/dpn2.jpg)
+![Bệnh sẩn đen da](https://dermnetnz.org/assets/Uploads/lesions/dpn3.jpg)
+![Bệnh sẩn đen da](https://dermnetnz.org/assets/Uploads/lesions/dpn5.jpg)
+![Bệnh sẩn đen da](https://dermnetnz.org/assets/Uploads/lesions/dpn6.jpg)
+![Bệnh sẩn đen da](https://dermnetnz.org/assets/Uploads/lesions/dpn4.jpg)
+
+---
+
+## Bệnh sẩn đen da được chẩn đoán như thế nào?
+
+Không cần xét nghiệm vì bệnh sẩn đen da được chẩn đoán lâm sàng. Nếu có bất kỳ nghi ngờ nào, có thể sinh [thiết da .](https://dermnetnz.org/topics/skin-biopsy) Mô bệnh học cho thấy dày sừng tiết bã với sự tăng sắc tố rõ rệt ở lớp đáy của biểu bì.
+
+---
+
+## Bệnh sẩn đen da được điều trị như thế nào?
+
+Các tổn thương do bệnh sẩn đen da thường không được điều trị. Các biến chứng của phương pháp điều trị phá hủy tại chỗ có thể bao gồm tăng hoặc giảm sắc tố, sẹo và hình thành [sẹo lồi](https://dermnetnz.org/topics/keloid-and-hypertrophic-scar) .
+Các lựa chọn điều trị bao gồm [nạo](https://dermnetnz.org/topics/curettage-and-cautery) , đông lạnh bằng nitơ lỏng ( [liệu pháp lạnh](https://dermnetnz.org/topics/cryotherapy) ) và đốt điện, sau đó nạo. [Laser Nd:YAG](https://dermnetnz.org/topics/ndyag-laser-treatment) gần đây cũng được báo cáo là mang lại kết quả thẩm mỹ tuyệt vời. Việc điều trị được thực hiện ở bề mặt để giảm thiểu nguy cơ biến chứng.

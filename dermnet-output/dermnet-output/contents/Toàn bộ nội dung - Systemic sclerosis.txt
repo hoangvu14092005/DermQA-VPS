@@ -1,0 +1,397 @@
+# Xơ cứng hệ thống — thông tin bổ sung
+
+Thể loại:
+
+Bệnh tự miễn/tự viêm, Bệnh mô liên kết
+
+SNOMED CT:
+
+89155008, 403517004, 128460000, 299276009, 128461001, 403519001, 403516008, 403515007, 403520007, 403514006, 402713007, 298285004, 31848007, 201051000, 403518009, 14582003, 201048007, 259928007, 40354006, 7513007, 398021003
+
+**[Bệnh tự miễn/tự viêm, Bệnh mô liên kết](https://dermnetnz.org/topics/topics?category=Autoimmune/autoinflammatory)**
+
+
+# **Xơ cứng hệ thống**
+
+Tác giả: Tiến sĩ Amanda Saracino,Bác sĩ Da liễu, Phòng khám Da liễu Alfred Health và Melbourne, Melbourne, VIC, Úc. Giáo sư Christopher Denton, Bác sĩ Tư vấn về Bệnh thấp khớp và Giáo sư về Bệnh thấp khớp Thực nghiệm,Trung tâm Bệnh thấp khớp và Mô liên kết, Đại học College London, Vương quốc Anh. Tổng Biên tập DermNet: Phó Giáo sư Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand. Tháng 1 năm 2018. Được Tiến sĩ Saracino cập nhật vào tháng 7 năm 2020.
+
+---
+
+## Xơ cứng hệ thống là gì?
+
+Xơ cứng hệ thống (SSc) là một tình trạng viêm tự miễn . Bệnh có thể dẫn đến xơ hóa lan rộng và các bất thường về mạch máu , có thể ảnh hưởng đến da, phổi, đường tiêu hóa, tim và thận. Da trở nên dày và cứng ( xơ cứng ).
+Xơ cứng hệ thống được chia thành hai phân nhóm chính, tùy theo sự phân bố của tổn thương da.
+- Xơ cứng hệ thống lan tỏa da (dcSSc)
+- Xơ cứng hệ thống da giới hạn (lcSSc)
+Xơ cứng hệ thống da giới hạn trước đây được gọi là hội chứng CREST để biểu thị các đặc điểm chính:
+- [vôi hóa](https://dermnetnz.org/topics/calcinosis-cutis)
+- [Hiện tượng Raynaud](https://dermnetnz.org/topics/raynaud-phenomenon)
+- (o) Rối loạn vận động thực quản
+- Sclerodactyly
+- [Giãn mao mạch](https://dermnetnz.org/topics/telangiectasia) .
+Thuật ngữ chung ' [xơ cứng bì](https://dermnetnz.org/topics/scleroderma) ' thường được dùng cho cả xơ cứng bì khu trú ( [morphoea](https://dermnetnz.org/topics/morphoea) ) và xơ cứng bì hệ thống (systemic scleroderma). Việc phân biệt hai tình trạng này rất quan trọng, vì chúng rất khác nhau và cần các phương pháp điều trị khác nhau.
+
+### Các đặc điểm chính của bệnh xơ cứng hệ thống
+- Da dày lên ở ngón tay và ngón chân (xơ cứng ngón tay)
+- Các kháng thể tự miễn đặc hiệu trong máu (kháng thể kháng Scl70 hoặc kháng thể kháng centromere và các kháng thể khác)
+- Các mao mạch bất thường ở nếp gấp móng tay
+- Xơ hóa nội tạng và/hoặc tổn thương mạch máu (liên quan đến phổi, tim, đường tiêu hóa và/hoặc thận)
+![Sclerodactyly](https://dermnetnz.org/assets/Uploads/immune/ss4.jpg)
+![Vi phẫu và giãn mạch](https://dermnetnz.org/assets/Uploads/immune/ss5.jpg)
+![Các mao mạch bất thường trên da liễu](https://dermnetnz.org/assets/Uploads/ss-capillaries.jpg)
+
+---
+
+## Ai mắc bệnh xơ cứng hệ thống?
+
+Xơ cứng hệ thống rất hiếm gặp, với tỷ lệ mắc bệnh dao động từ 30–500 ca trên một triệu người.
+- Bệnh này phổ biến ở phụ nữ gấp 5 lần so với nam giới.
+- Mọi chủng tộc và dân tộc đều có thể bị ảnh hưởng, nhưng tỷ lệ có vẻ cao hơn một chút ở một số người Mỹ bản địa và người da đen và thấp hơn ở những người có nguồn gốc châu Á.
+- Độ tuổi khởi phát cao nhất của SSc dao động từ khoảng 35 đến 55 tuổi. Bệnh khởi phát ở tuổi vị thành niên nhưng hiếm gặp hơn so với bệnh khởi phát ở người lớn.
+
+---
+
+## Nguyên nhân nào gây ra bệnh xơ cứng hệ thống?
+
+Xơ cứng hệ thống là một tình trạng tự miễn dịch đặc trưng bởi tình trạng viêm , xơ hóa và bệnh mạch máu.
+Cơ chế chính xác tiềm ẩn rất phức tạp và phần lớn vẫn chưa được biết rõ. Tính nhạy cảm di truyền cộng với một sự kiện kích hoạt dẫn đến một loạt các phản ứng miễn dịch viêm bẩm sinh và thích nghi.
+
+### Tính nhạy cảm di truyền
+- Những người thân cấp độ một của những cá nhân bị ảnh hưởng có thể có nguy cơ mắc bệnh xơ cứng hệ thống cao gấp 10–16 lần so với những người không có tiền sử gia đình mắc bệnh này.
+- Các nghiên cứu đã xác định được các vị trí gen liên quan đến bệnh xơ cứng hệ thống.
+- Các phân nhóm lâm sàng được ánh xạ tới các phân nhóm di truyền cụ thể.
+- Sự khác biệt trong biểu hiện gen xảy ra ở nguyên bào sợi , miễn dịch (T và B), nội mô , cơ trơn và tế bào biểu mô .
+
+### Một sự kiện kích hoạt
+Xơ cứng hệ thống có liên quan đến chấn thương, tiếp xúc với silica, monome vinyl clorua, dung môi clo, trichloroethylene, khói hàn, dung môi thơm, xeton, [bleomycin](https://dermnetnz.org/topics/bleomycin) và có thể là các loại thuốc khác (vitamin K, cocaine, penicillamine, thuốc ức chế sự thèm ăn và một số tác nhân hóa trị liệu).
+
+### Con đường miễn dịch
+Một số con đường có thể liên quan đến quá trình sinh bệnh của bệnh xơ cứng hệ thống, bao gồm các cytokine gây tổn thương mạch máu , các yếu tố tăng trưởng kích thích sản xuất collagen , tín hiệu integrin, con đường hình thái, con đường đồng kích thích và nhiều hơn nữa.
+
+---
+
+## Bệnh xơ cứng hệ thống được phân loại như thế nào?
+
+
+### Xơ cứng hệ thống lan tỏa da
+Hai phần ba bệnh nhân xơ cứng hệ thống bị dcSSc: tổn thương da lan rộng và bao gồm cả các chi gần . DcSSC thường tiến triển nhanh , với tổn thương đáng kể đến các cơ quan nội tạng.
+
+### Xơ cứng hệ thống da giới hạn
+Một phần ba số bệnh nhân xơ cứng hệ thống bị lcSSc: xơ cứng chỉ giới hạn ở các ngón tay , các chi xa (không lan rộng về phía gần hơn khuỷu tay hoặc đầu gối) và mặt. LcSSc tiến triển chậm hơn dcSSc và ít ảnh hưởng đến các cơ quan nội tạng hơn, ngoại trừ nguy cơ tăng huyết áp động mạch phổi , đặc biệt là ở giai đoạn muộn của bệnh.
+
+### Hội chứng chồng chéo
+Có tới 20% bệnh nhân mắc bệnh xơ cứng hệ thống có hội chứng chồng chéo với một bệnh mô liên kết khác và phát triển thành viêm khớp , lupus hoặc viêm cơ.
+
+### Xơ cứng hệ thống không có xơ cứng bì
+Xơ cứng hệ thống không kèm xơ cứng bì là một phân nhóm hiếm gặp không kèm xơ cứng da. Những bệnh nhân này có các biểu hiện nội tạng liên quan đến SSc , hiện tượng Raynaud và tự kháng thể đặc hiệu SSc .
+
+### Phân loại huyết thanh và di truyền
+Các cấu hình tự kháng thể khác nhau có liên quan đến các đặc điểm lâm sàng và tiên lượng cụ thể , đặc biệt là mô hình phản ứng kháng thể kháng nhân (ANA). Các mối liên quan di truyền trong bệnh xơ cứng hệ thống cũng có thể được xác định dựa trên các phân nhóm ANA cụ thể.
+Mẫu hình ANA tâm động (kinetochore)
+- Xơ cứng hệ thống da giới hạn
+- Tăng huyết áp động mạch phổi
+- Loét ngón tay
+- [vôi hóa](https://dermnetnz.org/topics/calcinosis-cutis)
+- Gen liên quan : HLA -DQB1, TNF -863A, NOTCH4
+Mẫu ANA Pm-Scl (nhân con)
+- Viêm cơ chồng chéo
+Mẫu ANA U1RNP (có đốm)
+- Trùng lặp với các đặc điểm của các bệnh mô liên kết khác
+- Gen liên quan: HLA-DQB1
+Mẫu ANA Th-To (nhân con)
+- Xơ cứng hệ thống da giới hạn
+- Tăng huyết áp động mạch phổi
+- Bệnh phổi kẽ
+- Tiên lượng xấu
+Mẫu ANA Topoisomerase-1 / Scl-70 (có đốm)
+- Xơ cứng hệ thống lan tỏa da
+- Bệnh phổi kẽ
+- Xơ cứng tim
+- Gen liên quan: HLA-DPA1, HLA-DRB1
+RNA polymerase (P) III (có đốm nhỏ, nhân con) mẫu ANA
+- Xơ cứng hệ thống lan tỏa da
+- Cơn suy thận do xơ cứng bì
+- Bệnh ác tính
+- Tăng huyết áp động mạch phổi
+- Các gen liên quan: HLA-DRB1, HLA-DRB3, HLA-DRB4, EDNRA
+Fibrillarin / U3RNP (nhân con)
+- Hiệp hội người Phi-Caribbean
+- Tăng huyết áp động mạch phổi
+- Viêm cơ
+- Xơ cứng tim
+- Liên quan đến đường tiêu hóa
+- Gen liên quan: HLA-DQB1
+
+---
+
+## Các đặc điểm lâm sàng của bệnh xơ cứng hệ thống là gì?
+
+Các đặc điểm lâm sàng của bệnh xơ cứng hệ thống liên quan đến bệnh lý mạch máu, viêm và xơ hóa tiềm ẩn . Các triệu chứng toàn thân thường gặp, chẳng hạn như mệt mỏi, đau khớp và đau cơ.
+
+### Đặc điểm da của bệnh xơ cứng hệ thống
+Xơ cứng da
+- Mức độ xơ hóa da được phân loại thành xơ cứng hệ thống 'lan tỏa' và 'giới hạn'.
+- Xơ cứng ngón tay: tình trạng da ở ngón tay (hoặc ngón chân) dày lên và căng cứng. Có thể có hình thoi.
+Bàn tay
+- Ngón tay sưng phồng; giai đoạn viêm sớm của bệnh
+- [Hiện tượng Raynaud](https://dermnetnz.org/topics/raynaud-phenomenon)
+- Các mao mạch bất thường ở nếp gấp móng tay
+- [Ban đỏ lòng bàn tay](https://dermnetnz.org/topics/palmar-erythema) ảnh hưởng đến vùng lồi thenar/hypothenar
+- Móng tay mỏng manh hơn với lớp biểu bì lởm chởm
+- Sẹo rỗ kỹ thuật số
+- Loét ngón tay
+- Loét có thể dẫn đến hoại tử khô và cuối cùng là mất đầu ngón tay (giống như tê cóng).
+Khuôn mặt
+- [giãn](https://dermnetnz.org/topics/telangiectasia) mao mạch ở mặt, ngực, lòng bàn tay
+- Nếp nhăn quanh miệng (mất mỡ)
+- Vi miệng (khe miệng hẹp được xác định là khoảng cách giữa hai môi < 4,5 cm)
+- Mũi khoằm
+Khác
+- [Vôi hóa](https://dermnetnz.org/topics/calcinosis-cutis) ảnh hưởng đến các ngón tay, bề mặt duỗi của các chi. Da có thể bị phá hủy và tiết ra chất phấn (canxi).
+- Rối loạn sắc tố muối và hạt tiêu ( tăng sắc tố và mất sắc tố giống bệnh bạch biến )
+- Ngứa
+Các đặc điểm da hiếm gặp hơn
+- [Morphoea](https://dermnetnz.org/topics/morphoea) Thường gặp nhất là mảng bám , dạng nốt hoặc dạng tuyến tính Phổ biến hơn ở bệnh xơ cứng hệ thống da giới hạn
+- Thường gặp nhất là mảng bám , dạng nốt hoặc dạng tuyến tính
+- Phổ biến hơn ở bệnh xơ cứng hệ thống da giới hạn
+- [Viêm mô mỡ dưới da](https://dermnetnz.org/topics/panniculitis)
+![Bàn tay sưng húp](https://dermnetnz.org/assets/Uploads/puffy-hand.jpg)
+![Sắc tố muối và hạt tiêu](https://dermnetnz.org/assets/Uploads/immune/w/ss-pigmentation-1.jpg)
+![Loét ngón tay](https://dermnetnz.org/assets/Uploads/immune/ss3.jpg)
+![Loét ở chân](https://dermnetnz.org/assets/Uploads/immune/ss8.jpg)
+![Vôi hóa ngón tay](https://dermnetnz.org/assets/Uploads/immune/ss12.jpg)
+![Chụp X-quang vôi hóa](https://dermnetnz.org/assets/Uploads/immune/ss11.jpg)
+
+### Các triệu chứng đường tiêu hóa
+GIT trên
+- Trào ngược dạ dày thực quản/ợ nóng
+- Chứng khó tiêu
+- Khó nuốt
+- Cảm giác no sớm
+- Hút vi thể (làm bệnh phổi nặng hơn)
+Đường tiêu hóa dưới
+- Đầy hơi, chướng bụng
+- Buồn nôn, nôn mửa
+- Nỗi đau
+- Tiêu chảy/táo bón xen kẽ
+- Tiểu không tự chủ ( rối loạn chức năng cơ thắt hậu môn trực tràng )
+
+### Các triệu chứng tim phổi
+- Bệnh phổi kẽ
+- Tăng huyết áp động mạch phổi
+- Xơ cứng tim ( bệnh cơ tim , dẫn truyền) Hụt hơi Giảm khả năng chịu đựng tập thể dục Đau ngực Đánh trống ngực
+- Hụt hơi
+- Giảm khả năng chịu đựng tập thể dục
+- Đau ngực
+- Đánh trống ngực
+
+### Bệnh thận
+Cơn suy thận do xơ cứng bì:
+- Protein niệu
+- Huyết áp cao
+- Suy thận.
+
+### Các triệu chứng khác
+- Mệt mỏi
+- Các triệu chứng khô mắt (khô mắt, khô miệng) và [hội chứng Sjogren](https://dermnetnz.org/topics/sjoegren-syndrome)
+- Các triệu chứng cơ xương : ma sát gây cọ xát các khớp và gân, đặc biệt là đầu gối; đau khớp, đau cơ, yếu và hạn chế vận động dẫn đến co cứng
+- Các triệu chứng về mắt : mí mắt khép chặt, giảm tiết nước mắt, bệnh võng mạc
+
+### Xơ cứng hệ thống cận u
+Bệnh ác tính liên quan đến bệnh xơ cứng hệ thống rất hiếm gặp.
+- Kháng thể anti-RNAP-III được tìm thấy ở 15% bệnh nhân mắc bệnh xơ cứng hệ thống cận u .
+- Bệnh nhân thường có độ tuổi trên 65 khi đến khám.
+- Sự liên quan đến da là không điển hình
+- Căn bệnh này có xu hướng kháng trị.
+- Các bệnh ác tính liên quan bao gồm ung thư vú, ung thư máu và ung thư đường tiêu hóa.
+
+---
+
+## Bệnh xơ cứng hệ thống được chẩn đoán như thế nào?
+
+Chẩn đoán bệnh xơ cứng hệ thống được xác nhận khi có các đặc điểm chính.
+- Sclerodactyly
+- Móng tay bất thường tạo nếp gấp mao mạch trên mao mạch/ da liễu
+- Các kháng thể tự miễn đặc hiệu (đặc biệt là kháng thể kháng Scl70 hoặc kháng thể kháng tâm động)
+- Xơ hóa nội tạng và tổn thương mạch máu
+Các cuộc điều tra có thể bao gồm:
+- Các xét nghiệm máu khác: thiếu máu , tăng tốc độ lắng đọng ( ESR ) và protein phản ứng C ( CRP ), yếu tố dạng thấp dương tính, tăng gamma globulin (tăng gamma globulin máu) và xét nghiệm đông máu bất thường có thể xảy ra.
+- [Sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) : chất nền dư thừa và các tế bào nội mô hình dạng kỳ lạ ở lớp hạ bì ; và sau đó là các lắng đọng collagen. Lớp biểu bì thường bị teo (mỏng).
+- [Soi](https://dermnetnz.org/topics/trichoscopy-of-inflammatory-conditions) da trán bằng máy soi da
+- Kiểm tra chức năng phổi
+- Chụp CT độ phân giải cao
+- Siêu âm tim
+- Ống thông tim phải
+- Điện tâm đồ
+- Chụp MRI tim
+- Nuốt bari, đo áp lực
+- Nội soi kết hợp sinh thiết đường tiêu hóa .
+Tiêu chuẩn phân loại chung của Hội Thấp khớp học Hoa Kỳ (ACR) và Liên đoàn Chống Thấp khớp Châu Âu (EULAR) (2013) được sử dụng để chẩn đoán SSc. Điểm từ 9 trở lên xác nhận chẩn đoán.
+- Da dày lên ở các ngón tay của cả hai bàn tay kéo dài đến gần khớp đốt bàn tay : (điểm 9)
+- Chỉ có da dày ở ngón tay: ngón tay sưng (2); cứng ngón tay (4)
+- Tổn thương đầu ngón tay : loét đầu ngón tay (2); sẹo lõm đầu ngón tay (3)
+- Telangiectases (2)
+- Các mao mạch bất thường ở nếp gấp móng tay (2)
+- Bệnh phổi: tăng huyết áp động mạch phổi (2); bệnh phổi kẽ (2)
+- Hiện tượng Raynaud (3)
+- Kháng thể tự miễn đặc hiệu SSc ACA (3), Anti-scl70 (3), Anti-RNA polymerase III 3() (điểm tối đa 3)
+
+---
+
+## Bệnh xơ cứng hệ thống được theo dõi như thế nào?
+
+Việc theo dõi tiến triển và đáp ứng điều trị là rất quan trọng trong bệnh xơ cứng hệ thống.
+
+### Da
+Da thường được theo dõi lâm sàng bằng cách sử dụng Điểm số da Rodnan đã sửa đổi (mRSS), chỉ ra mức độ và mức độ nghiêm trọng của bệnh xơ cứng da, đồng thời phản ánh mức độ nghiêm trọng và nguy cơ ảnh hưởng đến các cơ quan nội tạng.
+- Điểm từ 0 (da bình thường) đến 3 (da không thể véo được) được chỉ định cho độ căng của da ở 17 vị trí trên cơ thể.
+- Điểm tích lũy được tính trên tổng số 51; tình trạng tổn thương da nghiêm trọng được xác định bằng điểm > 20.
+- mRSS cao là yếu tố nguy cơ độc lập dẫn đến kết quả chung kém hơn.
+- Có thể sử dụng các dụng cụ ít phổ biến hơn để theo dõi độ cứng của da, chẳng hạn như phép đo độ cứng theo chuỗi hoặc phép đo phức tạp hơn thông qua máy đo độ cứng, siêu âm hoặc các biện pháp khác.
+Khoảng cách giữa hai môi (miệng mở) cũng có thể được đo
+- Vi phẫu miệng được định nghĩa là khoảng cách giữa hai môi nhỏ hơn 4,5 cm.
+
+### Các cơ quan nội tạng
+Việc sàng lọc định kỳ hàng năm đối với bệnh phổi kẽ và tăng huyết áp động mạch phổi nên bao gồm:
+- Kiểm tra chức năng phổi
+- Siêu âm tim qua thành ngực
+- Điện tâm đồ
+Điểm DETECT là một công cụ sàng lọc tăng huyết áp động mạch phổi, sử dụng các xét nghiệm chức năng phổi (FVC và DLCO), urat huyết thanh , NTproBNP huyết thanh và các đặc điểm khác để đưa ra điểm dự đoán. Một số trường hợp có thể cần đặt ống thông tim phải.
+- Chụp CT độ phân giải cao có thể được sử dụng để xác định bệnh phổi kẽ.
+- Theo dõi huyết áp và chức năng thận để phát hiện bệnh thận.
+- Việc theo dõi các cơ quan khác được thực hiện tùy theo từng cá nhân và có thể bao gồm chụp MRI tim, đo áp lực thực quản và nội soi đường tiêu hóa.
+
+---
+
+## Phương pháp điều trị bệnh xơ cứng hệ thống là gì?
+
+Các phương pháp điều trị giúp giảm triệu chứng và có thể thay đổi kết quả bệnh, đặc biệt là trong giai đoạn đầu của bệnh. Chúng tập trung vào việc ức chế viêm và làm giãn các mạch máu bất thường/co thắt. Một số phương pháp điều trị mới hơn nhắm vào các con đường miễn dịch và phân tử tín hiệu cụ thể.
+
+### Lời khuyên chung
+- Việc bỏ thuốc lá là điều hoàn toàn cần thiết đối với người hút [thuốc](https://dermnetnz.org/topics/smoking-and-its-effects-on-the-skin) .
+- Tránh dùng thuốc co mạch như thuốc thông mũi, amphetamine, ergotamine.
+Mệt mỏi, suy nhược và các triệu chứng cơ xương khớp nói chung có thể gây suy nhược.
+- [Hydroxychloroquine](https://dermnetnz.org/topics/hydroxychloroquine) có thể giúp cải thiện các triệu chứng cơ địa này.
+- Tập thể dục nhẹ nhàng, có kiểm soát cũng có thể có lợi.
+- Có thể cần phải giảm đau đơn giản hoặc phức tạp hơn .
+
+### Liệu pháp chống xơ hóa
+Liệu pháp tại chỗ
+- Tắm sáp ấm (tay)
+- [](https://dermnetnz.org/topics/tacrolimus) Thuốc mỡ [Tacrolimus](https://dermnetnz.org/topics/tacrolimus)
+- [Corticosteroid](https://dermnetnz.org/topics/topical-steroid) mạnh [](https://dermnetnz.org/topics/topical-steroid)
+- [Calcipotriol](https://dermnetnz.org/topics/calcipotriol)
+Vật lý trị liệu
+- [Liệu pháp quang học](https://dermnetnz.org/topics/phototherapy) , đặc biệt là [UVA1](https://dermnetnz.org/topics/uva1-phototherapy) hoặc [PUVA](https://dermnetnz.org/topics/puva-photochemotherapy)
+Liệu pháp toàn thân
+- [Mycophenolate mofetil](https://dermnetnz.org/topics/mycophenolate-mofetil)
+- [Methotrexate](https://dermnetnz.org/topics/methotrexate)
+- [Cyclophosphamide](https://dermnetnz.org/topics/cyclophosphamide)
+- [Corticosteroid](https://dermnetnz.org/topics/systemic-steroids) (cần thận trọng)
+- [Rituximab](https://dermnetnz.org/topics/rituximab) (liệu pháp làm suy yếu tế bào B) – có thể hữu ích cho phổi và da
+- Nintedanib ( chất ức chế tyrosine kinase ) — hiện đã được chấp thuận cho bệnh phổi kẽ liên quan đến SSc tại Hoa Kỳ và Châu Âu; chưa có bằng chứng về tác động đối với chứng xơ cứng da
+- Tocilizumab (liệu pháp kháng interleukin (IL) 6) — cho thấy xu hướng cải thiện ở phổi và da trong SSc lan tỏa ở da tiến triển sớm và viêm
+- Abatacept ( thuốc ức chế liên kết tế bào lympho T gây độc tế bào [CTLA] 4 — cho thấy xu hướng có thể cải thiện tình trạng da trong bệnh viêm)
+- Ghép tế bào gốc tự thân — cho bệnh tiến triển nặng và cấp tính ở những bệnh nhân được chọn lọc tại các trung tâm chuyên khoa
+- [Globulin miễn dịch tiêm tĩnh mạch](https://dermnetnz.org/topics/intravenous-immunoglobulin) — có thể hữu ích cho da và đường tiêu hóa
+- [Tofacitinib](https://dermnetnz.org/topics/tofacitinib) – dung nạp tốt, ngăn ngừa xơ hóa da do [bleomycin](https://dermnetnz.org/topics/bleomycin) gây ra ở mô hình chuột; một nghiên cứu nhỏ cho thấy không có cải thiện lâm sàng nào về chứng xơ cứng da, nhưng cần có những nghiên cứu lớn hơn
+Giãn mạch
+- Thuốc đối kháng Endothelin 1 (bosentan)
+- Thuốc ức chế phosphodiesterase-5 (tadalafil)
+- Chất chủ vận guanylate cyclase (riociguat)
+- Thuốc chủ vận prostacyclin (epoprostenol; selexipag)
+
+### Điều trị các biểu hiện về da
+Các biện pháp chung như giữ ấm, các bài tập kéo giãn khớp để giảm nguy cơ co cứng và chứng vi miệng trở nên trầm trọng hơn, cũng như vật lý trị liệu liên quan cụ thể đều có thể mang lại lợi ích.
+[Hiện tượng Raynaud](https://dermnetnz.org/topics/raynaud-phenomenon)
+- Tránh các tác nhân gây dị ứng ( bỏ [thuốc lá](https://dermnetnz.org/topics/smoking-and-its-effects-on-the-skin) , tránh lạnh) Các biện pháp chung; găng tay hai lớp, dụng cụ giữ ấm tay/chân tỏa nhiệt
+- Các biện pháp chung; găng tay hai lớp, dụng cụ giữ ấm tay/chân tỏa nhiệt
+- Liệu pháp tự nhiên (chưa được chứng minh)
+- Vitamin C, Vitamin E Axit gamolenic
+- Vitamin C, Vitamin E Axit gamolenic
+- Axit gamolenic
+- Liệu pháp y tế Fluoxetine Losartan Diltiazem, nifedipine Sildenafil, tadalafil Miếng dán Glyceryl trinitrate Prostaglandin
+- Fluoxetine
+- Losartan
+- Diltiazem, nifedipine
+- Sildenafil, tadalafil
+- Miếng dán Glyceryl trinitrate
+- Prostaglandin
+- [Độc tố Botulinum](https://dermnetnz.org/topics/botulinum-toxin)
+Loét ngón tay
+- Phòng ngừa loét [Chất làm mềm](https://dermnetnz.org/topics/emollients-and-moisturisers) Tránh [hút thuốc](https://dermnetnz.org/topics/smoking-and-its-effects-on-the-skin) , lạnh (găng tay lót đôi), chấn thương Điều trị bệnh Raynaud tiềm ẩn Can thiệp sớm
+- [Chất làm mềm](https://dermnetnz.org/topics/emollients-and-moisturisers)
+- Tránh [hút thuốc](https://dermnetnz.org/topics/smoking-and-its-effects-on-the-skin) , lạnh (găng tay lót đôi), chấn thương
+- Điều trị bệnh Raynaud tiềm ẩn
+- Can thiệp sớm
+- Điều trị loét [Băng bó](https://dermnetnz.org/topics/synthetic-wound-dressings) tại chỗ ; bảo vệ và giữ ẩm cho vùng loét sắp hình thành và vùng loét Thuốc giãn mạch toàn thân (xem ở trên) Liệu pháp phối hợp thường được khuyến nghị và hiệu quả nhất, ví dụ như thuốc chẹn kênh canxi, thuốc ức chế phosphodiesterase-5 (ví dụ: sildenafil) +/- prostanoid (Iloprost®) +/- chất đối kháng thụ thể endothelin (ví dụ: Bosentan). Liệu pháp phối hợp thường được khuyến nghị và hiệu quả nhất, ví dụ như thuốc chẹn kênh canxi, thuốc ức chế phosphodiesterase-5 (ví dụ: sildenafil) +/- prostanoid (Iloprost® ) +/- chất đối kháng thụ thể endothelin (ví dụ: bosentan). Resveratrol được cho là có tác dụng hữu ích trong bệnh lý mạch máu SSc; chất này có trong nho, quả việt quất, quả mâm xôi và quả dâu tằm. Ca phẫu thuật Cắt cụt [Tiêm độc tố Botulinum](https://dermnetnz.org/topics/botulinum-toxin) Phẫu thuật cắt dây thần kinh giao cảm Phòng ngừa biến chứng loét Quản lý cơn đau Nhiễm trùng — tỷ lệ nhiễm trùng 10% mỗi năm
+- [Băng bó](https://dermnetnz.org/topics/synthetic-wound-dressings) tại chỗ ; bảo vệ và giữ ẩm cho vùng loét sắp hình thành và vùng loét
+- Thuốc giãn mạch toàn thân (xem ở trên) Liệu pháp phối hợp thường được khuyến nghị và hiệu quả nhất, ví dụ như thuốc chẹn kênh canxi, thuốc ức chế phosphodiesterase-5 (ví dụ: sildenafil) +/- prostanoid (Iloprost®) +/- chất đối kháng thụ thể endothelin (ví dụ: Bosentan). Resveratrol được cho là có tác dụng hữu ích trong bệnh lý mạch máu SSc; chất này có trong nho, quả việt quất, quả mâm xôi và quả dâu tằm.
+- Liệu pháp phối hợp thường được khuyến nghị và hiệu quả nhất, ví dụ như thuốc chẹn kênh canxi, thuốc ức chế phosphodiesterase-5 (ví dụ: sildenafil) +/- prostanoid (Iloprost®) +/- chất đối kháng thụ thể endothelin (ví dụ: Bosentan). Liệu pháp phối hợp thường được khuyến nghị và hiệu quả nhất, ví dụ như thuốc chẹn kênh canxi, thuốc ức chế phosphodiesterase-5 (ví dụ: sildenafil) +/- prostanoid (Iloprost® ) +/- chất đối kháng thụ thể endothelin (ví dụ: bosentan).
+- Resveratrol được cho là có tác dụng hữu ích trong bệnh lý mạch máu SSc; chất này có trong nho, quả việt quất, quả mâm xôi và quả dâu tằm.
+- Ca phẫu thuật Cắt cụt [Tiêm độc tố Botulinum](https://dermnetnz.org/topics/botulinum-toxin) Phẫu thuật cắt dây thần kinh giao cảm
+- Cắt cụt
+- [Tiêm độc tố Botulinum](https://dermnetnz.org/topics/botulinum-toxin)
+- Phẫu thuật cắt dây thần kinh giao cảm
+- Phòng ngừa biến chứng loét Quản lý cơn đau Nhiễm trùng — tỷ lệ nhiễm trùng 10% mỗi năm
+- Quản lý cơn đau
+- Nhiễm trùng — tỷ lệ nhiễm trùng 10% mỗi năm
+[Giãn mao mạch](https://dermnetnz.org/topics/telangiectasia)
+- [Ngụy trang mỹ phẩm](https://dermnetnz.org/topics/cosmetic-camouflage) (trang điểm màu xanh lá cây)
+- [Liệu pháp laser mạch máu](https://dermnetnz.org/topics/lasers-in-dermatology) hoặc [liệu pháp ánh sáng xung cường độ cao](https://dermnetnz.org/topics/intense-pulsed-light-therapy)
+[vôi hóa](https://dermnetnz.org/topics/calcinosis-cutis)
+Vôi hóa da ở bệnh nhân SSc nổi tiếng là khó điều trị và còn thiếu các thử nghiệm có đối chứng. Tình trạng này rất khó kiểm soát và có rất ít bằng chứng cho các liệu pháp được liệt kê dưới đây.
+- Liệu pháp y tế [Thuốc kháng sinh Tetracycline](https://dermnetnz.org/topics/tetracycline) (liệu trình từ 6 đến 12 tuần) Diltiazem Thuốc bisphosphonates Natri thiosulfat (tiêm toàn thân, tiêm vào tổn thương hoặc bôi ngoài da [25%]) Cinacalcet
+- [Thuốc kháng sinh Tetracycline](https://dermnetnz.org/topics/tetracycline) (liệu trình từ 6 đến 12 tuần)
+- Diltiazem
+- Thuốc bisphosphonates
+- Natri thiosulfat (tiêm toàn thân, tiêm vào tổn thương hoặc bôi ngoài da [25%])
+- Cinacalcet
+- Can thiệp vật lý [Cắt bỏ phẫu thuật](https://dermnetnz.org/topics/skin-biopsy) [Nạo và đốt](https://dermnetnz.org/topics/curettage-and-cautery) Tháo máy khoan răng [Laser bóc tách](https://dermnetnz.org/topics/lasers-in-dermatology) Tán sỏi ngoài cơ thể bằng sóng xung kích
+- [Cắt bỏ phẫu thuật](https://dermnetnz.org/topics/skin-biopsy)
+- [Nạo và đốt](https://dermnetnz.org/topics/curettage-and-cautery)
+- Tháo máy khoan răng
+- [Laser bóc tách](https://dermnetnz.org/topics/lasers-in-dermatology)
+- Tán sỏi ngoài cơ thể bằng sóng xung kích
+Ngứa
+Ngứa ảnh hưởng đến 43% bệnh nhân SSc. Ngứa là dấu hiệu của bệnh đang hoạt động, do đó, bản thân SSc cần được điều trị. Ngứa có liên quan đến các tổn thương da và đường tiêu hóa nghiêm trọng hơn. Tuy nhiên, việc kiểm soát triệu chứng cũng có thể cần thiết, bao gồm:
+- [Chất làm mềm](https://dermnetnz.org/topics/emollients-and-moisturisers) , [chất thay thế xà phòng](https://dermnetnz.org/topics/soaps-and-cleansers)
+- [Corticosteroid tại chỗ](https://dermnetnz.org/topics/topical-steroid)
+- [Thuốc kháng histamine](https://dermnetnz.org/topics/antihistamines)
+- [Montelukast](https://dermnetnz.org/topics/leukotriene-antagonists)
+- [Quang hóa trị](https://dermnetnz.org/topics/puva-photochemotherapy) ( [PUVA](https://dermnetnz.org/topics/puva-photochemotherapy) )
+- [Naltrexone liều thấp](https://dermnetnz.org/topics/naltrexone-and-naloxone)
+- Thuốc chống ngứa thần kinh như gabapentin hoặc doxepin
+- [Glucocorticoid toàn thân](https://dermnetnz.org/topics/systemic-steroids) (thận trọng)
+Giảm mỡ mặt
+- [Chuyển mỡ tự thân](https://dermnetnz.org/topics/fat-grafting)
+
+### Điều trị các biểu hiện của cơ quan nội tạng
+Bệnh phổi kẽ
+- [Liệu pháp](https://dermnetnz.org/topics/drug-induced-immunosuppression) chống xơ hóa, ức chế miễn dịch (xem ở trên)
+Tăng huyết áp động mạch phổi
+- Liệu pháp giãn mạch (xem ở trên)
+Bệnh thận
+- Theo dõi huyết áp thường xuyên
+- Tránh dùng [corticosteroid](https://dermnetnz.org/topics/systemic-steroids) (đặc biệt nếu RNAPIII +ve)
+- Thuốc ức chế men chuyển angiotensin
+Đường tiêu hóa
+- Đường tiêu hóa trên: trào ngược dạ dày thực quản, khó tiêu, khó nuốt, sặc Thuốc ức chế bơm protein , chẳng hạn như omeprazole Alginate (như Gaviscon ® ); chúng có hiệu quả như thuốc kích thích nhu động ruột trong các triệu chứng bệnh trào ngược dạ dày thực quản kháng thuốc ức chế bơm proton ở SSc Điều trị vi khuẩn Helicobacter pylori Thuốc kích thích nhu động ruột: domperidone, [erythromycin](https://dermnetnz.org/topics/erythromycin) , metoclopramide N-acetylcysteine
+- Thuốc ức chế bơm protein , chẳng hạn như omeprazole
+- Alginate (như Gaviscon ® ); chúng có hiệu quả như thuốc kích thích nhu động ruột trong các triệu chứng bệnh trào ngược dạ dày thực quản kháng thuốc ức chế bơm proton ở SSc
+- Điều trị vi khuẩn Helicobacter pylori
+- Thuốc kích thích nhu động ruột: domperidone, [erythromycin](https://dermnetnz.org/topics/erythromycin) , metoclopramide
+- N-acetylcysteine
+- Đường tiêu hóa dưới: kém hấp thu, vi khuẩn phát triển quá mức, tiêu chảy, táo bón, đầy hơi, đau, rối loạn chức năng hậu môn trực tràng Thực phẩm bổ sung dinh dưỡng, lời khuyên từ chuyên gia dinh dưỡng Creon Probiotics [Kháng sinh theo](https://dermnetnz.org/topics/antibiotics) chu kỳ (ví dụ, ciprofloxacin trong mười ngày) Thuốc làm mềm phân
+- Thực phẩm bổ sung dinh dưỡng, lời khuyên từ chuyên gia dinh dưỡng
+- Creon
+- Probiotics
+- [Kháng sinh theo](https://dermnetnz.org/topics/antibiotics) chu kỳ (ví dụ, ciprofloxacin trong mười ngày)
+- Thuốc làm mềm phân
+
+---
+
+## Kết quả đối với bệnh nhân mắc bệnh xơ cứng hệ thống là gì?
+
+Không có cách chữa khỏi bệnh xơ cứng hệ thống. Khả năng sống sót được xác định bởi phân nhóm bệnh và các biểu hiện ở các cơ quan nội tạng. Bệnh phổi kẽ và tăng huyết áp động mạch phổi chiếm gần hai phần ba số ca tử vong liên quan đến bệnh xơ cứng hệ thống.
+Việc sàng lọc chủ động và định kỳ hàng năm cho phép can thiệp sớm bằng thuốc điều trị bệnh. Điều này đã dẫn đến cải thiện tiên lượng và kết quả lâu dài trong những năm gần đây.

@@ -1,0 +1,146 @@
+# Bệnh bạch cầu da liễu — thông tin bổ sung
+
+Thể loại:
+
+Tổn thương (ung thư), Bệnh hệ thống
+
+SNOMED CT:
+
+404156009, 188737002
+
+**[Tổn thương (ung thư), Bệnh hệ thống](https://dermnetnz.org/topics/topics?category=Lesions+(cancerous))**
+
+
+# **Bệnh bạch cầu da**
+
+Tác giả: Giáo sư danh dự Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand, 2010.
+
+---
+
+## Bệnh bạch cầu da là gì?
+
+Bệnh bạch cầu da là tình trạng da bị thâm nhiễm các tế bào bạch cầu.
+Bệnh bạch cầu là tên gọi chung của một nhóm các rối loạn máu, trong đó có sự tăng sinh ác tính của các tế bào bạch cầu ( bạch cầu ). Bệnh bạch cầu có thể cấp tính hoặc mãn tính , do sự tăng sinh của các tế bào lympho hoặc phổ biến hơn là các tế bào dòng tủy ( bạch cầu trung tính ). Sự phát triển hoặc tăng sinh vô tính của các tế bào bất thường giống hệt nhau chủ yếu xảy ra ở tủy xương.
+Các loại bệnh bạch cầu phổ biến nhất là:
+- Bệnh bạch cầu lymphoblastic cấp tính (ALL)
+- Bệnh bạch cầu lymphoblastic mãn tính (CLL)
+- Bệnh bạch cầu tủy cấp tính (AML)
+- Bệnh bạch cầu tủy mãn tính (CML)
+- Bệnh bạch cầu tế bào lông
+- Bệnh bạch cầu tế bào T cấp tính (ATLL).
+
+---
+
+## Ai mắc bệnh bạch cầu da?
+
+Bệnh bạch cầu da rất hiếm gặp, chỉ ảnh hưởng đến khoảng 3% số người được chẩn đoán mắc bệnh bạch cầu. Bệnh xảy ra ở cả nam và nữ, ở mọi lứa tuổi, và với hầu hết mọi loại bệnh bạch cầu. Trong hầu hết các trường hợp, bệnh bạch cầu xuất hiện đột ngột. Tuy nhiên, một số loại bệnh bạch cầu có liên quan đến bất thường nhiễm sắc thể , chẳng hạn như nhiễm sắc thể Philadelphia.
+Sự tăng sinh của các tế bào bạch cầu bất thường là do sự hoạt hóa của oncogen ( gen thúc đẩy ung thư ) hoặc sự bất hoạt của gen ức chế khối u . Do đó, bệnh bạch cầu thường gặp hơn ở những hội chứng có đột biến ở các gen này. Những hội chứng này có thể di truyền và bao gồm [hội chứng Bloom](https://dermnetnz.org/topics/bloom-syndrome) . [](https://dermnetnz.org/topics/bloom-syndrome)
+Những nguy cơ khác có thể dẫn đến bệnh bạch cầu bao gồm:
+- Tiếp xúc với benzen
+- Bức xạ ion hóa
+- Các tác nhân alkyl hóa được sử dụng trong hóa trị liệu
+- Nhiễm trùng do vi-rút ví dụ như HTLV-1, [vi-rút Epstein-Barr](https://dermnetnz.org/topics/epstein-barr-virus)
+- Các bệnh về máu khác như hội chứng loạn sản tủy
+Người ta không biết tại sao các tế bào bạch cầu đôi khi lại chọn phát triển ở da.
+
+---
+
+## Các đặc điểm lâm sàng của bệnh bạch cầu da là gì?
+
+Trong hầu hết các trường hợp mắc bệnh bạch cầu da, bệnh nhân đã được biết là mắc bệnh bạch cầu do số lượng tế bào máu bất thường hoặc phát hiện tủy xương.
+Tổn thương da là dấu hiệu đầu tiên của bệnh ác tính về huyết học ở 7% bệnh nhân mắc bệnh bạch cầu da. Tình trạng này đôi khi được gọi là bệnh bạch cầu aleukaemia. Thâm nhiễm tủy xương và các triệu chứng toàn thân xuất hiện muộn hơn.
+Đôi khi bệnh bạch cầu dòng tủy tái phát ở da sau khi điều trị tủy xương thành công. Khi đó, tình trạng này được gọi là bệnh bạch cầu 'ngoài tủy'.
+
+### Thay đổi về da
+Bệnh bạch cầu da có thể biểu hiện bằng nhiều loại tổn thương da khác nhau. Chúng thường không có triệu chứng ; tức là không ngứa hoặc đau.
+- Sẩn cứng (nốt sần nhỏ), nốt sần (nốt sần lớn hơn) và mảng bám (mảng phẳng dày), có thể có màu da, đỏ, nâu hoặc tím
+- [Bệnh chàm](https://dermnetnz.org/topics/dermatitis) lan tỏa - da đỏ khô, dày ( [bệnh đỏ da](https://dermnetnz.org/topics/erythroderma) )
+- Ban đỏ hình thoi hoặc [hình khuyên](https://dermnetnz.org/topics/annular-erythema)
+- [Ban xuất huyết](https://dermnetnz.org/topics/purpura) và xuất huyết dưới da (các mảng và đốm màu tím do chảy máu vào da)
+- Phồng rộp, [xói mòn và loét](https://dermnetnz.org/topics/erosions-and-ulcers)
+- Sưng nướu ( [tăng sản nướu](https://dermnetnz.org/topics/gingival-enlargement) hoặc [viêm nướu](https://dermnetnz.org/topics/gingivitis-and-periodontitis) ) trong bệnh bạch cầu cấp tính.
+- Các tổn thương da thường xuất hiện ở đầu, cổ và thân mình.
+- Họ ưu tiên những vị trí bị thương.
+- Ở trẻ sơ sinh, bệnh bạch cầu da là một trong những nguyên nhân gây ra [hội chứng bánh nướng xốp việt quất](https://dermnetnz.org/topics/blueberry-muffin-syndrome) .
+
+### Chloroma
+'U sắc tố' đôi khi xuất hiện trong bệnh bạch cầu dòng tủy hoặc u hạt sarcoma. Chúng có thể biểu hiện dưới dạng các nốt đơn độc hoặc nhiều. Chúng có màu xanh lam-xanh lục khi cắt vào lúc sinh thiết , do đó có tên gọi như vậy. Màu sắc này là do các hạt myeloperoxidase trong bạch cầu ác tính. Loại bạch cầu da này có thể xuất hiện trước bệnh bạch cầu toàn thân vài tháng.
+![Bệnh bạch cầu da](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/leukaemia-cutis6.jpg)
+![Bệnh bạch cầu da](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/leukaemia-cutis1.jpg)
+![Bệnh bạch cầu da](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/s/leukaemia-cutis2.jpg)
+![Bệnh bạch cầu da](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/leukaemia-cutis5.jpg)
+![Bệnh bạch cầu da](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/leukaemia-cutis3.jpg)
+![Bệnh bạch cầu da](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/leukaemia-cutis4.jpg)
+
+### Bất thường về máu
+Tình trạng giảm toàn thể tế bào máu xảy ra; nghĩa là sự giảm số lượng tế bào hồng cầu, bạch cầu và tiểu cầu — tất cả đều được hình thành bình thường trong tủy xương.
+- Thiếu máu : xanh xao , mệt mỏi, khó thở.
+- Giảm số lượng bạch cầu trung tính : nhiễm trùng [do vi khuẩn](https://dermnetnz.org/topics/bacterial-skin-infections) , [vi-rút](https://dermnetnz.org/topics/viral-skin-infections) , [nấm](https://dermnetnz.org/topics/fungal-skin-infections) thường là do các sinh vật bất thường hoặc cơ hội .
+- Giảm số lượng tiểu cầu ( thrombocytopenia ): dễ bầm tím, chảy máu.
+
+### Các cơ quan khác
+Các triệu chứng phụ thuộc vào cơ quan nào bị tế bào bạch cầu xâm nhập.
+- Sốt , ớn lạnh, uể oải
+- Gan và lá lách to: buồn nôn, đầy bụng, táo bón.
+- Sưng hạch bạch huyết .
+- Hệ thần kinh trung ương: liệt dây thần kinh sọ não , đột quỵ, co giật , đau đầu, mất cảm giác.
+- Hệ thống cơ xương : xương và khớp bị đau hoặc sưng, gãy xương, [bệnh gút](https://dermnetnz.org/topics/gout) .
+
+---
+
+## Chẩn đoán được thực hiện như thế nào?
+
+Bệnh bạch cầu được nghi ngờ thông qua số lượng máu bất thường và được xác nhận bằng cách lấy mẫu tủy xương bằng phương pháp chọc hút hoặc khoan tủy.
+Mặc dù có thể nghi ngờ bệnh bạch cầu da dựa trên tiền sử bệnh và hình ảnh da của bệnh nhân, nhưng [sinh thiết](https://dermnetnz.org/topics/skin-biopsy) da là cần thiết để xác nhận chẩn đoán. Sinh thiết da cho thấy sự thâm nhiễm lan tỏa của bạch cầu ác tính ở lớp hạ bì.
+- Các tế bào có thể tập trung xung quanh mạch máu và tuyến mồ hôi.
+- Chúng có thể lan rộng như những tế bào đơn lẻ qua các bó collagen .
+- Các tế bào tủy non hoặc tiền thân trong bệnh AML thường có các hạt trong tế bào chất .
+- Các tế bào lympho chưa trưởng thành trong bệnh ALL có kích thước lớn và không có hạt.
+- Tiền tủy bào, trung tủy bào, dải và bạch cầu trung tính trưởng thành là các tế bào điển hình trong CML.
+- Trong bệnh CLL, người ta thấy các tế bào lympho tròn nhỏ, đồng nhất và dày đặc.
+- Các tế bào hình thận được nhìn thấy trong bệnh bạch cầu đơn nhân .
+- Tế bào hoa được nhìn thấy trong ATLL.
+- Có thể có chảy máu đáng kể, đặc biệt là ở bệnh AML.
+Xét nghiệm mô học bổ sung (nhuộm miễn dịch và phân loại miễn dịch) có thể tiết lộ loại tế bào cụ thể liên quan. Đôi khi rất khó chẩn đoán bệnh bạch cầu da.
+- ALL và CLL có thể bị nhầm lẫn với bệnh u lympho.
+- AML và CML có thể bị nhầm lẫn với tình trạng tạo máu ngoài tủy.
+- Những đặc điểm tương tự có thể thấy ở bệnh viêm mạch , phát ban do thuốc và thuyên tắc nhiễm trùng.
+- Nếu các tế bào đồng nhất, thâm nhiễm lymphocytic hoặc bạch cầu trung tính có thể có vẻ phản ứng hơn là ác tính.
+Xét nghiệm máu có thể bao gồm:
+- Công thức máu toàn phần
+- Xét nghiệm máu ngoại vi
+- Nghiên cứu tế bào học
+- Xét nghiệm đông máu
+- Xét nghiệm chức năng gan và thận
+- Lactate dehydrogenase
+- Nồng độ axit uric
+- Nồng độ canxi, magie, natri, kali
+- Nuôi cấy máu trong trường hợp sốt.
+Có khả năng sẽ phải chụp hình ảnh để xác định mức độ ảnh hưởng của cơ quan và có thể bao gồm chụp X-quang ngực, siêu âm bụng , chụp CT và chụp MRI .
+
+---
+
+## Phương pháp điều trị là gì?
+
+Việc điều trị tập trung vào bệnh bạch cầu tiềm ẩn, vì vậy bệnh nhân cần được chăm sóc bởi bác sĩ huyết học lâm sàng và/hoặc bác sĩ ung thư giàu kinh nghiệm. Hóa trị toàn thân là lựa chọn thường gặp tùy thuộc vào tình trạng chung của bệnh nhân.
+Các phương pháp điều trị khác bao gồm [liệu pháp chùm tia điện tử](https://dermnetnz.org/topics/electron-beam-radiation-for-cutaneous-lymphoma) , xạ trị tại chỗ và [liệu pháp quang học](https://dermnetnz.org/topics/phototherapy) .
+Sốt thường là dấu hiệu của nhiễm trùng và cần được kiểm tra và điều trị bằng [thuốc kháng sinh](https://dermnetnz.org/topics/antibiotics) toàn thân , [thuốc chống nấm](https://dermnetnz.org/topics/oral-antifungal-medication) và thuốc kháng vi-rút .
+Tiên lượng không tốt.
+
+---
+
+## Các rối loạn da khác liên quan đến bệnh bạch cầu
+
+Bệnh nhân mắc bệnh bạch cầu dễ mắc phải nhiều bệnh về da khác nhau.
+- Bệnh da trung tính : [Bệnh ngọt](https://dermnetnz.org/topics/acute-febrile-neutrophilic-dermatosis) , [viêm da mủ hoại thư](https://dermnetnz.org/topics/pyoderma-gangrenosum) , [viêm tuyến mồ hôi trung tính](https://dermnetnz.org/topics/skin-toxicity-of-chemotherapy-drugs)
+- [Viêm mạch](https://dermnetnz.org/topics/cutaneous-vasculitis) : [viêm đa động mạch nút](https://dermnetnz.org/topics/cutaneous-polyarteritis-nodosa) , [hồng ban nâng cao diutinum](https://dermnetnz.org/topics/erythema-elevatum-diutinum)
+- [Viêm mô mỡ](https://dermnetnz.org/topics/panniculitis) : [ban đỏ nốt](https://dermnetnz.org/topics/erythema-nodosum) , viêm mô mỡ tiểu thùy
+- [Mề đay](https://dermnetnz.org/topics/urticaria-an-overview)
+- [Viêm da](https://dermnetnz.org/topics/dermatitis) không đặc hiệu [](https://dermnetnz.org/topics/dermatitis)
+- [Bệnh da liễu tăng bạch cầu ái toan của bệnh ác tính về huyết học](https://dermnetnz.org/topics/eosinophilic-dermatosis-of-haematological-malignancy)
+- [Ban đỏ đa dạng](https://dermnetnz.org/topics/erythema-multiforme)
+- [Bệnh pemphigus cận u](https://dermnetnz.org/topics/paraneoplastic-pemphigus)
+- Nhiễm trùng do suy giảm miễn dịch : [viêm mô tế bào](https://dermnetnz.org/topics/cellulitis) , [tưa miệng](https://dermnetnz.org/topics/candida) , [herpes zoster](https://dermnetnz.org/topics/herpes-zoster) , [herpes simplex](https://dermnetnz.org/topics/herpes-simplex) và các bệnh nhiễm trùng cơ hội do các vi sinh vật bất thường như [bệnh nấm toàn thân](https://dermnetnz.org/topics/skin-manifestations-of-systemic-mycoses)
+- [Ung thư da](https://dermnetnz.org/topics/skin-cancer) , do suy giảm miễn dịch do bệnh hoặc do điều trị
+- [Sự bùng phát của ma túy](https://dermnetnz.org/topics/drug-eruptions)
+- [Bệnh ghép chống vật chủ sau khi](https://dermnetnz.org/topics/graft-versus-host-disease) ghép tủy xương

@@ -1,0 +1,147 @@
+# Bệnh pemphigoid bọng nước — thông tin bổ sung
+
+Thể loại:
+
+Tự miễn/tự viêm
+
+SNOMED CT:
+
+77090002
+
+**[Tự miễn/tự viêm](https://dermnetnz.org/topics/topics?category=Autoimmune/autoinflammatory)**
+
+
+# **Bọng nước dạng pemphigus**
+
+Tác giả: Phó giáo sư danh dự Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand, 1997. Cập nhật vào tháng 1 năm 2016; bản cập nhật nhỏ của Ian Coulson, Bác sĩ da liễu, tháng 2 năm 2025.
+
+---
+
+## Bệnh pemphigoid bóng nước là gì?
+
+Bệnh pemphigoid bọng nước là dạng phổ biến nhất của bệnh mụn nước dưới biểu bì [tự miễn](https://dermnetnz.org/topics/autoimmune-diseases-in-dermatology) .
+
+---
+
+## Ai mắc bệnh pemphigoid bọng nước?
+
+Bệnh pemphigoid bọng nước thường xuất hiện ở những người trên 80 tuổi và chủ yếu ảnh hưởng đến những người trên 50 tuổi. Bệnh có thể xảy ra ở người trẻ tuổi, nhưng [bệnh pemphigoid bọng nước ở trẻ sơ sinh và trẻ em](https://dermnetnz.org/topics/childhood-bullous-pemphigoid) rất hiếm gặp.
+- Bệnh pemphigoid bọng nước xảy ra ở cả nam và nữ.
+- Có mối liên quan với kháng nguyên bạch cầu người ( HLA ) cho thấy khuynh hướng di truyền mắc bệnh.
+- Tình trạng này phổ biến hơn ở những bệnh nhân lớn tuổi mắc bệnh thần kinh , đặc biệt là đột quỵ, chứng mất trí và bệnh Parkinson.
+- Nguy cơ mắc bệnh pemphigoid bọng nước cao hơn ở những người bị [bệnh vẩy nến](https://dermnetnz.org/topics/psoriasis) và bệnh này có thể bùng phát khi điều trị bệnh vẩy nến bằng [liệu pháp quang trị liệu](https://dermnetnz.org/topics/phototherapy) .
+- Có thể có mối liên quan với bệnh ác tính bên trong ở một số bệnh nhân.
+- Thuốc, chấn thương hoặc [nhiễm trùng](https://dermnetnz.org/topics/skin-infections) da có thể gây ra bệnh.
+- Trong một số trường hợp hiếm gặp, bệnh pemphigoid bọng nước có thể liên quan đến bệnh máu khó đông mắc phải do hình thành kháng thể kháng yếu tố VIII .
+
+### Thuốc liên quan đến bệnh pemphigoid bóng nước
+Các loại thuốc phổ biến nhất liên quan đến bệnh pemphigoid bóng nước là liệu pháp miễn dịch ức chế PD1 (như [pembrolizumab](https://dermnetnz.org/topics/pembrolizumab) , [nivolumab](https://dermnetnz.org/topics/nivolumab) ) được dùng để điều trị [u hắc tố di căn](https://dermnetnz.org/topics/metastatic-melanoma) và các loại ung thư khác. [](https://dermnetnz.org/topics/pembrolizumab) [](https://dermnetnz.org/topics/nivolumab) [](https://dermnetnz.org/topics/metastatic-melanoma)
+Pemphigoid xảy ra ở 0,3% bệnh nhân ung thư được điều trị bằng thuốc ức chế điểm kiểm soát , và có thể phát triển sau 12 tháng điều trị, hoặc thậm chí sau khi ngừng thuốc. [Ngứa](https://dermnetnz.org/topics/pruritus) báo hiệu trước khi nổi mụn nước và mụn nước niêm mạc là phổ biến. Thông thường cần phải ngừng thuốc. [](https://dermnetnz.org/topics/pruritus)
+Các chất ức chế dipeptidyl peptidase-4 (thường được gọi là 'gliptin'), được sử dụng để điều trị bệnh tiểu đường (như sitagliptin, saxagliptin, linagliptin và đặc biệt là vildagliptin), cũng đã được báo cáo là gây ra pemphigoid bóng nước. Thời gian trung bình để khởi phát pemphigoid bóng nước là 11 tháng sau khi bắt đầu điều trị. Một số trường hợp hiếm gặp là tổn thương niêm mạc.
+Các trường hợp pemphigoid bọng nước khác có liên quan đến [thuốc kháng sinh](https://dermnetnz.org/topics/antibiotics) , penicillamine, [kali iodide](https://dermnetnz.org/topics/potassium-iodide) , frusemide, captopril, [vàng](https://dermnetnz.org/topics/chrysiasis) , [penicillin](https://dermnetnz.org/topics/penicillin) , [sulfasalazine](https://dermnetnz.org/topics/sulfasalazine) , [fluorouracil bôi ngoài da](https://dermnetnz.org/topics/5-fluorouracil-cream) và thuốc chống loạn thần thế hệ thứ hai (ví dụ: risperidone, olanzapine).
+
+---
+
+## Nguyên nhân gây ra bệnh pemphigoid bóng nước là gì?
+
+Pemphigoid bọng nước là kết quả của sự tấn công vào màng đáy của lớp biểu bì bởi các globulin miễn dịch IgG +/- IgE ( kháng thể ) và tế bào lympho T hoạt hóa (bạch cầu). Mục tiêu là protein BP180 (còn gọi là collagen loại XVII ), hoặc ít gặp hơn là BP230 (một plakin). Các protein này nằm trong vùng NC16A của collagen XVII. Chúng liên kết với các hemidesmosome , các cấu trúc đảm bảo các tế bào sừng biểu bì bám vào lớp hạ bì để tạo thành một lớp màng chống thấm nước.
+Sự liên kết của các tự kháng thể với protein và giải phóng cytokine từ tế bào T dẫn đến hoạt hóa [bổ thể](https://dermnetnz.org/topics/the-complement-system) , thu hút bạch cầu trung tính ( tế bào viêm cấp tính ) và giải phóng các enzyme phân giải protein . Chúng phá hủy các hemidesmosome và gây ra sự hình thành các mụn nước dưới biểu bì.
+Mối liên quan giữa các bệnh thần kinh với bệnh pemphigoid bọng nước được cho là có liên quan đến sự hiện diện của collagen XVII trong hệ thần kinh trung ương và các hemidesmosome ở da.
+Một biến thể hiếm gặp của bệnh pemphigoid với kháng thể IgG hướng đến protein DEJ 200 kDa đã được mô tả – có mối liên hệ chặt chẽ với bệnh vẩy nến (laminin gamma 1).
+
+---
+
+## Các đặc điểm lâm sàng của bệnh pemphigoid bọng nước là gì?
+
+Bệnh pemphigoid bọng nước gây ngứa dữ dội và (thường) có bọng nước lớn, căng (bọng nước chứa đầy dịch), vỡ ra tạo thành vết loét đóng vảy .
+Các tính năng thay đổi khác bao gồm:
+- Phát ban không đặc hiệu trong vài tuần trước khi mụn nước xuất hiện
+- [](https://dermnetnz.org/topics/eczema-dermatitis-and-allergies) Các vùng [chàm giống như](https://dermnetnz.org/topics/eczema-dermatitis-and-allergies) [viêm da đồng xu](https://dermnetnz.org/topics/discoid-eczema)
+- [](https://dermnetnz.org/topics/urticaria-an-overview) Da đỏ [giống như nổi mề đay](https://dermnetnz.org/topics/urticaria-an-overview)
+- Tổn thương hình khuyên (hình nhẫn)
+- Các mụn nước nhỏ hơn ( viêm )
+- [](https://dermnetnz.org/topics/nodular-prurigo) Các nốt [sần](https://dermnetnz.org/topics/nodular-prurigo) ( [pemphigoid nodularis](https://dermnetnz.org/topics/pemphigoid) )
+- Chất dịch phồng rộp trong hoặc đục, màu vàng hoặc có máu
+- [Sắc tố sau viêm](https://dermnetnz.org/topics/postinflammatory-hyperpigmentation)
+- [Milia](https://dermnetnz.org/topics/milium) ở vùng đã lành
+Pemphigoid bọng nước thường ảnh hưởng đến các mặt gấp của chi. Nó có thể khu trú ở một vùng hoặc lan rộng trên thân và các chi gần .
+- Bệnh thường ảnh hưởng đến vùng da xung quanh nếp gấp da.
+- [Các vết phồng rộp bên trong miệng](https://dermnetnz.org/topics/oral-blistering-diseases) và ở bộ phận sinh dục là không phổ biến.
+Một số bệnh nhân được chẩn đoán mắc bệnh pemphigoid bọng nước mặc dù không có bọng nước nào (pemphigoid không bọng nước). Bệnh này có thể ảnh hưởng đến bất kỳ vị trí nào trên cơ thể.
+![Không có caption](https://dermnetnz.org/assets/Uploads/immune/bulpem4.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/immune/s/bulpem6.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/immune/s/bulpem5.jpg)
+![Bọng nước pemphigoid ở bàn chân, da có màu](https://dermnetnz.org/assets/collection-O/Bullous-pemphigoid/bullous-pemphigoid-00095.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/immune/bulpem1.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/immune/bulpem2.jpg)
+[Xem thêm hình ảnh về bệnh pemphigoid bọng nước](https://dermnetnz-org.translate.goog/topics/bullous-pemphigoid-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp) .
+
+---
+
+## Biến chứng của bệnh pemphigoid bóng nước là gì?
+
+Bệnh pemphigoid bọng nước có thể là một bệnh nghiêm trọng, đặc biệt là khi lan rộng hoặc kháng trị. Bệnh có thể gây ra bệnh tật và tử vong do:
+- Nhiễm trùng da [do vi khuẩn tụ](https://dermnetnz.org/topics/staphylococcal-skin-infection) cầu và [liên cầu](https://dermnetnz.org/topics/streptococcal-skin-infections) , và nhiễm trùng huyết
+- [](https://dermnetnz.org/topics/viral-skin-infections) Nhiễm trùng do [virus](https://dermnetnz.org/topics/viral-skin-infections) [herpes simplex](https://dermnetnz.org/topics/herpes-simplex) , [varicella](https://dermnetnz.org/topics/chickenpox) hoặc [herpes zoster](https://dermnetnz.org/topics/herpes-zoster)
+- Biến chứng của điều trị
+- Bệnh tiềm ẩn và bệnh liên quan.
+
+---
+
+## Bệnh pemphigoid bóng nước được chẩn đoán như thế nào?
+
+Khi xuất hiện các bọng nước điển hình, chẩn đoán được nghi ngờ trên lâm sàng. Trong hầu hết các trường hợp, chẩn đoán sẽ được xác nhận bằng [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) ở giai đoạn sớm của mụn nước. Chẩn đoán cũng có thể được thực hiện trên vùng da bị viêm, không bị mụn nước.
+[Khám bệnh lý của pemphigoid bọng nước](https://dermnetnz.org/topics/bullous-pemphigoid-pathology) cho thấy một vết nứt dưới lớp biểu bì. Thâm nhiễm bạch cầu trung tính ở da thường gặp nhưng không phải lúc nào cũng có. Bạch cầu ái toan có thể nổi bật.
+[Nhuộm miễn dịch huỳnh quang trực tiếp](https://dermnetnz.org/topics/direct-immunofluorescence) trên mẫu [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) lấy gần vết phồng rộp sẽ làm nổi bật các kháng thể dọc theo màng đáy nằm giữa lớp biểu bì và lớp hạ bì.
+Xét nghiệm máu bao gồm xét nghiệm [miễn dịch huỳnh quang gián tiếp](https://dermnetnz.org/topics/indirect-immunofluorescence) để tìm kháng thể BP180 pemphigoid lưu hành.
+Phương pháp miễn dịch blotting.
+Các xét nghiệm khác sẽ liên quan đến việc lập kế hoạch và theo dõi điều trị.
+
+---
+
+## Phương pháp điều trị bệnh pemphigoid bóng nước là gì?
+
+Nếu bệnh pemphigoid lan rộng, có thể phải nhập viện để băng bó vết phồng rộp và vết trợt.
+Điều trị y tế bao gồm:
+- [Steroid bôi ngoài da](https://dermnetnz.org/topics/topical-steroid) cực mạnh để điều trị bệnh giới hạn < 10% diện tích cơ thể (ví dụ, kem clobetasol propionate )
+- [Thuốc steroid](https://dermnetnz.org/topics/topical-steroid) và [chất làm mềm](https://dermnetnz.org/topics/emollients-and-moisturisers) tại chỗ có hiệu lực vừa phải để giảm ngứa và khô
+- [Steroid toàn thân](https://dermnetnz.org/topics/systemic-steroids) (ví dụ, prednisone) – tuy nhiên, chúng có liên quan đến nguy cơ cao gây ra các tác dụng phụ có hại và có khả năng gây tử vong.
+- [Thuốc kháng sinh Tetracycline](https://dermnetnz.org/topics/tetracycline) , thường là doxycycline 200 mg/ngày; doxycycline có ít tác dụng phụ hơn corticosteroid đường uống và có hiệu quả khi dùng riêng đối với bệnh nhẹ
+- Các loại thuốc thay thế steroid khác dùng riêng lẻ hoặc kết hợp với steroid
+- [Thuốc kháng sinh](https://dermnetnz.org/topics/antibiotics) cho [nhiễm trùng thứ phát do vi khuẩn](https://dermnetnz.org/topics/bacterial-skin-infections)
+- Giảm đau.
+Hầu hết bệnh nhân bị pemphigoid bọng nước được điều trị bằng viên steroid, prednisone hoặc prednisolone với liều khởi đầu 0,5 mg/kg/ngày. Liều được điều chỉnh cho đến khi mụn nước ngừng xuất hiện, thường mất vài tuần. Sau đó, liều prednisone được giảm dần khi số lượng mụn nước đáng kể ít hơn 3, trong nhiều tháng hoặc nhiều năm. Do steroid toàn thân có nhiều [tác dụng phụ](https://dermnetnz.org/topics/prophylaxis-systemic-steroid) không mong muốn , nên các loại thuốc khác được bổ sung để đảm bảo liều thấp nhất có thể (nhắm đến 5–10 mg prednisone mỗi ngày). Các loại thuốc này có thể bao gồm doxycycline hoặc:
+- [Dapsone](https://dermnetnz.org/topics/dapsone)
+- [Nicotinamide](https://dermnetnz.org/topics/nicotinamide)
+- [Methotrexate](https://dermnetnz.org/topics/methotrexate)
+- [Azathioprine](https://dermnetnz.org/topics/azathioprine-and-mercaptopurine)
+- [Mycophenolate](https://dermnetnz.org/topics/mycophenolate-mofetil)
+- [Globulin miễn dịch tiêm tĩnh mạch](https://dermnetnz.org/topics/intravenous-immunoglobulin)
+- [Rituximab](https://dermnetnz.org/topics/rituximab)
+- [Dupilumab](https://dermnetnz.org/topics/dupilumab)
+- [Omalizumab](https://dermnetnz.org/topics/omalizumab-for-urticaria) .
+Những người dùng steroid toàn thân cũng có thể dùng thêm thuốc để giảm bớt các tác dụng phụ tiềm ẩn (như viêm dạ dày, tăng huyết áp , đái tháo đường và loãng xương).
+Các kháng thể đơn dòng nhắm vào IgE (như [omalizumab](https://dermnetnz.org/topics/omalizumab-for-urticaria) ), IL-17 (như [secukinumab](https://dermnetnz.org/topics/secukinumab) ), IL-4, IL-13, IL-5 (mepolixumab), eotaxin-1 (bertilumumab), serine protease C1 đặc hiệu bổ thể (sutimlimab), [chất ức chế JAK](https://dermnetnz.org/topics/janus-kinase-inhibitors) và các chất trung gian khác đang được nghiên cứu để điều trị bệnh pemphigoid bóng nước. [](https://dermnetnz.org/topics/janus-kinase-inhibitors)
+
+### Đánh giá và giám sát
+Vì bệnh pemphigoid bọng nước có thể cần điều trị toàn thân trong thời gian dài, nên cần ghi chép cẩn thận mức độ và mức độ nghiêm trọng của bệnh khi khám ban đầu và tái khám. Có thể cân nhắc các khía cạnh sau.
+- Các vị trí trên cơ thể bị ảnh hưởng (da và niêm mạc )
+- Loại tổn thương : thoáng qua và không thoáng qua
+- Số lượng tổn thương: mụn nước, vết loét nổi mề đay , mảng chàm
+- Mức độ ngứa
+- Điểm quan sát: giai đoạn đầu, điều trị tích cực, điều trị giảm, giai đoạn duy trì điều trị tối thiểu hoặc thuyên giảm hoàn toàn khi ngừng điều trị
+- Điều trị hiện tại
+Chỉ số khu vực bệnh Pemphigoid bọng nước (BPDAI) có điểm số riêng cho hoạt động của da và niêm mạc .
+Cần phải đo huyết áp, cân nặng, chụp xương DEXA và xét nghiệm máu để theo dõi liệu pháp, vì thuốc dùng cho bệnh pemphigoid bọng nước có thể gây ra tác dụng phụ nghiêm trọng ở một số bệnh nhân.
+
+---
+
+## Làm thế nào để ngăn ngừa bệnh pemphigoid bóng nước?
+
+Người ta không biết cách ngăn ngừa bệnh pemphigoid bọng nước.
+
+---
+
+## Triển vọng của bệnh pemphigoid bọng nước là gì?
+
+Việc điều trị bệnh pemphigoid bọng nước thường cần nhiều năm. Trong nhiều trường hợp, bệnh pemphigoid cuối cùng sẽ khỏi hoàn toàn và có thể ngừng điều trị. Nếu mụn nước tái phát , có thể bắt đầu điều trị lại.

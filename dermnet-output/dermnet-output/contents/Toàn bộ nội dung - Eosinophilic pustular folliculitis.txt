@@ -1,0 +1,73 @@
+# Viêm nang lông mủ ái toan — thông tin bổ sung
+
+Thể loại:
+
+Rối loạn nang lông
+
+SNOMED CT:
+
+95333004, 403845000
+
+**[Rối loạn nang lông](https://dermnetnz.org/topics/topics?category=Follicular+disorder)**
+
+
+# **Viêm nang lông mủ ái toan**
+
+Tác giả: Tiến sĩ Scott Barker và Tiến sĩ Amanda Oakley, Hamilton, New Zealand, 2005. Được xem xét và cập nhật bởi Tiến sĩ Amanda Oakley; Vanessa Ngan, Biên tập viên; và Clare Morrison, Biên tập viên; Tháng 4 năm 2014.
+
+---
+
+## Viêm nang lông mủ ái toan là gì?
+
+Viêm nang lông mủ ái toan là một bệnh lý da tái phát chưa rõ nguyên nhân. Bệnh còn được gọi là viêm nang lông ái toan và bệnh Ofuji. Sinh thiết da của bệnh lý này cho thấy bạch cầu ái toan xung quanh nang lông - do đó có tên gọi như vậy.
+Có một số biến thể của viêm nang lông mủ ái toan. Tất cả đều biểu hiện bằng các nốt sẩn ngứa hoặc mụn mủ. Viêm nang lông mủ ái toan hiếm gặp và thường ảnh hưởng đến nam giới nhiều hơn nữ giới. Các biến thể bao gồm:
+- Viêm nang lông mủ ái toan loại cổ điển — loại này thường xảy ra nhất ở Nhật Bản
+- Viêm nang lông ái toan liên quan đến [nhiễm trùng vi-rút gây suy giảm miễn dịch ở người (HIV) giai đoạn tiến triển](https://dermnetnz.org/topics/skin-conditions-relating-to-hiv-infection)
+- [Viêm nang lông mủ ái toan ở trẻ sơ sinh](https://dermnetnz.org/topics/eosinophilic-pustular-folliculitis-of-infancy)
+- Viêm nang lông mủ ái toan liên quan đến ung thư
+- Viêm nang lông mủ tăng bạch cầu ái toan liên quan đến thuốc.
+
+---
+
+## Viêm nang lông mủ ái toan trông như thế nào?
+
+Viêm nang lông mủ ái toan biểu hiện bằng các sẩn và mụn mủ hình vòm màu đỏ hoặc màu da, ngứa. Tình trạng này có thể trông giống như [mụn trứng cá hoặc các dạng](https://dermnetnz.org/topics/acne-and-other-follicular-disorders) [viêm nang lông](https://dermnetnz.org/topics/folliculitis) khác . Các sẩn này chủ yếu xuất hiện trên mặt, da đầu, cổ và thân mình và có thể kéo dài hàng tuần hoặc hàng tháng. Ít gặp hơn, có thể thấy các tổn thương dạng mề đay (đây là những mảng đỏ lớn, dễ kích ứng, tương tự như [mề đay](https://dermnetnz.org/topics/urticaria-an-overview) ). Lòng bàn tay và lòng bàn chân hiếm khi xuất hiện các sẩn và mụn mủ tương tự, nhưng trong những trường hợp như vậy, tình trạng này không nên được gọi là viêm nang lông, vì không có nang lông ở những vùng này. [](https://dermnetnz.org/topics/urticaria-an-overview)
+Các trường hợp kéo dài có thể phát triển thành [viêm da](https://dermnetnz.org/topics/dermatitis) hoặc một dạng [ngứa](https://dermnetnz.org/topics/prurigo) , có lẽ là do ngứa và gãi.
+![Viêm nang lông ái toan](https://dermnetnz.org/assets/Uploads/acne/eos-folliculitis1.jpg)
+![Viêm nang lông ái toan](https://dermnetnz.org/assets/Uploads/acne/eos-folliculitis3.jpg)
+![Viêm nang lông ái toan](https://dermnetnz.org/assets/Uploads/acne/eos-folliculitis2.jpg)
+[Xem thêm hình ảnh viêm nang lông mủ ái toan](https://dermnetnz-org.translate.goog/images/eosinophilic-pustular-folliculitis-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+
+---
+
+## Viêm nang lông ái toan được chẩn đoán như thế nào?
+
+[Sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) cho thấy bạch cầu ái toan dưới bề mặt da và xung quanh nang lông và tuyến bã nhờn (xem [bệnh lý viêm nang lông ái toan](https://dermnetnz.org/topics/eosinophilic-pustular-folliculitis-pathology) ). Trong nhiều trường hợp, xét nghiệm máu cho thấy sự gia tăng nhẹ các tế bào bạch cầu ái toan và immunoglobulin -E ( IgE ), đồng thời giảm nồng độ IgG và IgA . [](https://dermnetnz.org/topics/eosinophilic-pustular-folliculitis-pathology)
+Viêm nang lông mủ ái toan thường là một triệu chứng của [suy giảm miễn dịch](https://dermnetnz.org/topics/immunodeficiency) . Viêm nang lông mủ ái toan liên quan đến nhiễm HIV xuất hiện khi nồng độ tế bào lympho CD4 giảm xuống dưới 300 tế bào/mm3 , mức độ làm tăng nguy cơ nhiễm trùng cơ hội thứ phát. Các trường hợp viêm nang lông mủ ái toan cũng đã được báo cáo sau khi ghép tủy xương trước khi hệ miễn dịch trở lại hoạt động bình thường, và ở một số cá nhân bị suy giảm miễn dịch di truyền.
+
+---
+
+## Nguyên nhân gây viêm nang lông mủ ái toan ở HIV là gì?
+
+Nguyên nhân gây viêm nang lông mủ ái toan ở người nhiễm HIV vẫn chưa được biết rõ. Suy giảm miễn dịch dường như làm tăng nguy cơ mắc các bệnh da liễu dị ứng. Không có bằng chứng nào cho thấy nhiễm trùng thứ phát do vi khuẩn , nấm hoặc virus là nguyên nhân, mặc dù một số nhà nghiên cứu đã đưa ra giả thuyết rằng sự phát triển quá mức của [Malassezia](https://dermnetnz.org/topics/malassezia-infections) hoặc Demodex ( mạt nang lông ) có thể liên quan. Một giả thuyết khác là có sự thay đổi trong hệ thống miễn dịch khiến bạch cầu ái toan tấn công [bã nhờn](https://dermnetnz.org/topics/sebum) do các tế bào tuyến bã nhờn sản xuất . [](https://dermnetnz.org/topics/sebum)
+
+---
+
+## Phương pháp điều trị viêm nang lông mủ ái toan là gì?
+
+Ở những bệnh nhân nhiễm HIV, viêm nang lông mủ ái toan có khả năng cải thiện hoặc khỏi hẳn nhờ HAART (Điều trị kháng vi-rút hoạt tính cao), khi số lượng tế bào CD4 tăng lên trên 250/mm 3 .
+Các phương pháp điều trị khác có thể có hiệu quả bao gồm:
+- Indomethacin và các thuốc chống viêm không steroid khác được báo cáo là có hiệu quả trong 70% các trường hợp viêm nang lông ái toan
+- [Dapsone](https://dermnetnz.org/topics/dapsone)
+- [Thuốc kháng sinh Tetracycline](https://dermnetnz.org/topics/tetracycline)
+- Các loại kháng sinh khác bao gồm [metronidazole](https://dermnetnz.org/topics/metronidazole)
+- [Liệu pháp quang học](https://dermnetnz.org/topics/phototherapy)
+- [Steroid tại chỗ](https://dermnetnz.org/topics/topical-steroid)
+- [Thuốc ức chế calcineurin](https://dermnetnz.org/topics/calcineurin-inhibitors) như [thuốc mỡ tacrolimus](https://dermnetnz.org/topics/tacrolimus)
+- [Thuốc kháng histamine đường uống](https://dermnetnz.org/topics/antihistamines) như cetirizine
+- [Colchicin](https://dermnetnz.org/topics/colchicine)
+- [Itraconazole](https://dermnetnz.org/topics/itraconazole)
+- Kem Permethrin ( [thuốc diệt côn trùng](https://dermnetnz.org/topics/insecticides-and-the-skin) tại chỗ ) [](https://dermnetnz.org/topics/insecticides-and-the-skin)
+- Miếng dán nicotine
+- [Tofacitinib](https://dermnetnz.org/topics/tofacitinib)
+- [Isotretinoin](https://dermnetnz.org/topics/isotretinoin) và [acitretin](https://dermnetnz.org/topics/acitretin) .

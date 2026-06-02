@@ -1,0 +1,108 @@
+# Dị ứng niken — thông tin bổ sung
+
+Thể loại:
+
+Phản ứng
+
+SNOMED CT:
+
+419788000, 420091004, 33396006, 85512009
+
+**[Phản ứng](https://dermnetnz.org/topics/topics?category=Reactions)**
+
+
+# **Dị ứng niken**
+
+Đánh giá lần cuối: Tháng 4 năm 2023Tác giả: Tiến sĩ Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand(1997)Đánh giá bác sĩ da liễu: Tiến sĩ Ian Coulson (2023)
+
+---
+
+## Dị ứng niken là gì?
+
+Dị ứng niken là một trong những nguyên nhân phổ biến nhất gây [viêm da dị ứng tiếp xúc](https://dermnetnz.org/topics/allergic-contact-dermatitis) . Ở những người bị ảnh hưởng, [viêm da](https://dermnetnz.org/topics/dermatitis) (còn gọi là chàm ) phát triển ở những nơi kim loại chứa niken tiếp xúc với da.
+Các vị trí phổ biến nhất bị viêm da do niken là dái tai (từ khuyên tai), cổ tay (từ dây đeo đồng hồ) và bụng dưới (từ đinh quần jean); các vùng bị ảnh hưởng sẽ ngứa dữ dội và có thể bị đỏ và phồng rộp ( viêm da cấp tính ) hoặc khô, dày và tăng sắc tố ( viêm da mãn tính ).
+Hiệp hội Viêm da tiếp xúc Hoa Kỳ (ACDS) đã công bố niken là chất gây dị ứng tiếp xúc của năm 2008.
+
+---
+
+## Ai bị dị ứng với niken?
+
+Viêm da dị ứng tiếp xúc với niken có thể xảy ra ở mọi lứa tuổi, ở cả nam và nữ. Một khi dị ứng niken đã phát triển, nó sẽ kéo dài trong nhiều năm, thường là suốt đời.
+Dị ứng niken phổ biến hơn ở phụ nữ, có lẽ vì họ thường xỏ khuyên hơn nam giới, mặc dù điều này đang thay đổi. Mức độ dị ứng khác nhau. Một số người bị viêm da ngay cả khi tiếp xúc ngắn với các vật dụng chứa niken, trong khi những người khác chỉ bị sau nhiều năm tiếp xúc với niken.
+
+---
+
+## Dị ứng niken có thể ảnh hưởng đến những vùng không tiếp xúc với kim loại không?
+
+Các bác sĩ da liễu đã tranh luận về vấn đề này .
+Một số người bị chàm từng đợt hoặc dai dẳng ở tay và chân. Đây thường là một loại chàm phồng rộp, được gọi là [pompholyx](https://dermnetnz.org/topics/dyshidrotic-eczema) hoặc [viêm da tay](https://dermnetnz.org/topics/hand-dermatitis) tổ đỉa . Đôi khi nguyên nhân là do tiếp xúc với các vật dụng kim loại có chứa niken, nhưng thường không có lý do rõ ràng.
+Người ta cho rằng bệnh pompholyx ở những người dị ứng niken có thể là do niken trong chế độ ăn uống. Đáng tiếc là không thể tránh khỏi việc ăn phải niken vì nó có trong hầu hết các loại thực phẩm. [Chế độ ăn ít niken](https://dermnetnz.org/topics/nickel-allergy) hiếm khi có tác dụng.
+![Dị ứng niken](https://dermnetnz.org/assets/Uploads/dermatitis/ni1.jpg)
+![Dị ứng niken](https://dermnetnz.org/assets/Uploads/dermatitis/ni2.jpg)
+![Dị ứng niken](https://dermnetnz.org/assets/Uploads/dermatitis/ni5.jpg)
+![Dị ứng niken](https://dermnetnz.org/assets/Uploads/dermatitis/s/ecz-nose.jpg)
+![Dị ứng niken](https://dermnetnz.org/assets/Uploads/dermatitis/ni4.jpg)
+![Dị ứng niken](https://dermnetnz.org/assets/Uploads/dermatitis/ni6.jpg)
+
+---
+
+## Dị ứng niken được chẩn đoán như thế nào?
+
+Dị ứng niken được chẩn đoán dựa trên tiền sử bệnh lý và các xét nghiệm dị ứng đặc biệt, [xét nghiệm miếng dán.](https://dermnetnz.org/topics/patch-tests)
+Các đối tượng trải qua [các xét nghiệm vá chuỗi ban đầu](https://dermnetnz.org/topics/baseline-series-of-patch-test-allergens) được kiểm tra cụ thể với niken sunfat -hexahydrat. Công thức hóa học của chất này là NiO4S.6H2O .
+
+---
+
+## Phương pháp điều trị dị ứng niken là gì?
+
+Viêm da do niken thường cần phải điều trị.
+- Đắp gạc: Làm khô mụn nước bằng gạc giấm pha loãng. Không sử dụng gạc này nếu da bị khô.
+- [Thuốc steroid bôi ngoài da](https://dermnetnz.org/topics/topical-steroid) Bôi thuốc steroid bôi ngoài da lên vùng viêm da theo chỉ dẫn của bác sĩ.
+- Thuốc kháng sinh [Thuốc](https://dermnetnz.org/topics/antibiotics) kháng sinh có thể cần thiết cho nhiễm trùng thứ phát của bệnh viêm da do niken ( [chốc lở](https://dermnetnz.org/topics/impetigo) ).
+- Thuốc làm mềm Thoa kem [làm mềm da](https://dermnetnz.org/topics/emollients-and-moisturisers) thường xuyên để giảm ngứa và khô da.
+Thật không may, việc giảm nhạy cảm bằng cách tiêm hoặc uống thuốc là không thể nên tình trạng dị ứng có xu hướng kéo dài trong thời gian dài.
+
+---
+
+## Tránh tiếp xúc da với niken
+
+Điều cần thiết là tránh để da tiếp xúc với kim loại có chứa niken.
+
+### Kiểm tra các vật dụng bằng kim loại của bạn
+Bạn có thể mua bộ dụng cụ thử niken từ bác sĩ da liễu , dược sĩ hoặc nhà cung cấp trực tuyến. Công thức 2 chai hoặc dung dịch đơn chứa 1% dimethylglyoxime và 10% amoni hydroxit.
+Nhỏ một giọt từ mỗi lọ (hoặc từ một lọ duy nhất) lên vật kim loại cần thử nghiệm – trước tiên hãy thử trên một đồng xu. Dùng tăm bông chà nhẹ – quan sát màu sắc trên tăm bông. Nếu màu vẫn trong suốt, vật đó không có niken tự do và sẽ không gây viêm da. Nếu tăm bông bị ố màu hồng, vật đó có chứa niken và có thể gây viêm da nếu tiếp xúc với da của người bị dị ứng với niken. Các hóa chất này sẽ không gây hại cho đồ trang sức.
+
+### Đồ trang sức
+[Trang sức](https://dermnetnz.org/topics/jewellery-allergy) như vòng cổ, kẹp vòng cổ, hoa tai, vòng tay, dây đồng hồ và nhẫn có thể chứa niken. Thép không gỉ "ít gây dị ứng", vàng nguyên khối (12 carat trở lên) và trang sức bạc nên an toàn. Vàng chín carat và vàng trắng có chứa niken. Có thể dùng vỏ nhựa cho khuyên tai dạng đinh tán. Không nên phủ đinh tán bằng sơn móng tay vì sơn sẽ nhanh bong tróc.
+
+### Niken trong quần áo
+Khóa kéo kim loại, móc áo ngực, kẹp quần, kẹp tóc , cúc áo, đinh tán, gọng kính, v.v. có thể chứa niken. Hãy sử dụng vật liệu thay thế làm bằng nhựa, kim loại phủ hoặc sơn hoặc một số vật liệu khác.
+
+### Niken trong các vật dụng cá nhân
+Các vật dụng cá nhân có chứa niken có thể chạm vào da gây viêm da bao gồm điện thoại di động, hộp đựng [son môi , hộp](https://dermnetnz.org/topics/contact-reactions-to-lipsticks-and-other-lipcare-products) phấn phủ , móc khóa túi xách, bật lửa, dao cạo râu, chìa khóa, móc chìa khóa, dao và bút. Những vật dụng này đôi khi có thể gây viêm da khi để trong túi.
+
+### Các vật dụng bằng kim loại trong nhà
+Tay nắm tủ, dụng cụ nhà bếp, dao kéo, máy nướng bánh mì, ấm trà kim loại, kéo, kim, ghim, đê, máy hút bụi, đèn khò, nút bịt bồn tắm và nhiều vật dụng khác có thể chứa niken. Hãy chọn dụng cụ có tay cầm bằng nhựa.
+Thép không gỉ thường không gây viêm da trừ khi được mạ niken.
+
+### Tiền bạc
+Tiền xu màu bạc được làm từ đồng-niken. Nhân viên thu ngân bị dị ứng niken có thể bị viêm da tay do nguồn niken này. Hãy đeo [găng tay](https://dermnetnz.org/topics/gloves-for-hand-protection) khi cầm tiền hoặc thanh toán bằng thẻ tín dụng hoặc séc.
+
+### Kim loại đang hoạt động
+Viêm da do niken có thể trở nên trầm trọng hơn khi tiếp xúc với kẹp giấy, phím máy đánh chữ, dụng cụ, mảnh kim loại từ máy tiện hoặc máy cưa xích.
+
+### Chế độ ăn ít niken
+Chế độ ăn ít thực phẩm chứa niken này đã được đề xuất cho những bệnh nhân bị dị ứng tiếp xúc nặng với niken. Hiệu quả của nó vẫn chưa được biết rõ. Không thể loại bỏ hoàn toàn niken khỏi chế độ ăn. Tránh sử dụng dụng cụ mạ niken và nồi nấu bằng kim loại. Tránh uống nước chảy ra từ vòi kim loại.
+Thực phẩm được phép
+- Thịt, gia cầm, hầu hết các loại cá, trứng, sữa, sữa chua, phô mai, phô mai quark, bơ, bơ thực vật
+- Ngũ cốc, bánh mì, bột mì, gạo, mì ống
+- Khẩu phần nhỏ bột mì nguyên cám, ngũ cốc nguyên hạt, cám lúa mì và mầm lúa mì
+- Hầu hết các loại rau
+- Khẩu phần nhỏ gồm củ cải đường, bắp cải, súp lơ, tỏi tây, củ cải vàng, khoai tây, rau bina
+- Trái cây như chuối, thỉnh thoảng là táo và trái cây họ cam quýt, sống và hầm
+- Trà, cà phê, nước ngọt, nước giải khát
+Thực phẩm cần tránh
+- Thực phẩm đóng hộp, đặc biệt là mì Ý và đậu nướng
+- Đậu xanh, đậu nành, bông cải xanh, đậu Hà Lan bao gồm đậu Hà Lan tách đôi, rau đóng hộp
+- Trái cây đóng hộp, trái cây sấy khô, các loại hạt, yến mạch
+- Ca cao, sô cô la uống, sô cô la

@@ -1,0 +1,140 @@
+# Bệnh lao da — thông tin bổ sung
+
+Thể loại:
+
+Nhiễm trùng
+
+SNOMED CT:
+
+66986005, 240381007, 10528009, 33893009, 82796002, 441770001
+
+**[Nhiễm trùng](https://dermnetnz.org/topics/topics?category=Infections)**
+
+
+# **Bệnh lao da**
+
+Tác giả: Vanessa Ngan, Biên tập viên (2003). Được cập nhật bởi Giáo sư Amanda Oakley (2015). Bản cập nhật DermNet (2023)
+
+---
+
+## Bệnh lao da là gì?
+
+Lao da (TB) là bệnh nhiễm trùng da do vi khuẩn Mycobacterium tuberculosis (M. tuberculosis) , cùng loại vi khuẩn gây bệnh lao phổi ( lao phổi ). Mycobacterium bovis gây bệnh lao ở gia súc, và hiện là nguyên nhân hiếm gặp gây bệnh lao da trên toàn thế giới sau các chương trình thanh toán bệnh lao ở gia súc. Tiêm vắc-xin BCG có thể trở nên phức tạp do nhiễm trùng da với trực khuẩn Calmette-Guerin (BCG), một chủng M. tuberculosis giảm độc lực .
+
+---
+
+## Ai có thể mắc bệnh lao da?
+
+Lao da là một dạng lao ngoài phổi (nhiễm trùng lao ở các cơ quan và mô khác ngoài phổi) hiếm gặp. Ngay cả ở những nơi lao phổ biến, chẳng hạn như tiểu lục địa Ấn Độ, châu Phi cận Sahara và Trung Quốc, lao da cũng rất hiếm (<0,1%).
+Các yếu tố nguy cơ phát triển bệnh lao bao gồm:
+- Tiếp xúc gần với bệnh nhân mắc bệnh lao hoạt động
+- Sống hoặc đến thăm một quốc gia hoặc cộng đồng nơi bệnh lao phổ biến
+- Sống trong một cộng đồng đông đúc, bao gồm các cơ sở như viện dưỡng lão, bệnh viện lưu trú dài hạn và nhà tù
+- Làm việc tại bệnh viện và môi trường chăm sóc sức khỏe.
+Không phải tất cả mọi người tiếp xúc với M. tuberculosis đều sẽ phát triển bệnh vì yếu tố di truyền (MIM 607948) ảnh hưởng đến sự phát triển của bệnh nhiễm trùng; người ta ước tính rằng 10% số người bị nhiễm sẽ phát triển bệnh lao hoạt động.
+
+---
+
+## Nguyên nhân gây ra bệnh lao da là gì?
+
+Lao da gần như luôn do Mycobacterium tuberculosis , trực khuẩn lao, gây ra. Đây là một loại mycobacterium kháng axit; các ví dụ khác về nhiễm trùng da do mycobacteria bao gồm [bệnh phong](https://dermnetnz.org/topics/leprosy) ( M. leprae ) và [các bệnh nhiễm trùng mycobacteria không điển hình](https://dermnetnz.org/topics/atypical-mycobacterial-infection) như M. marinum .
+Bệnh lao da có thể xảy ra sau:
+- Tiêm trực tiếp vi khuẩn lao vào da
+- Lan truyền đến da qua đường máu
+- Mở rộng vào da từ ổ nhiễm trùng bên dưới.
+Phản ứng miễn dịch với trực khuẩn lao ảnh hưởng đến các biểu hiện lâm sàng của nhiễm trùng. Nhiễm trực khuẩn lao hoặc tiêm vắc-xin BCG trước đó dẫn đến khả năng miễn dịch từ trung bình đến cao. Ức chế miễn dịch do thuốc , sử dụng [thuốc ức chế TNF-alpha](https://dermnetnz.org/topics/tumour-necrosis-factor-inhibitors) và các bệnh toàn thân như HIV /AIDS hoặc bệnh bạch cầu có thể dẫn đến tái phát bệnh lao tiềm ẩn .
+
+---
+
+## Các đặc điểm lâm sàng của bệnh lao da là gì?
+
+
+### Bệnh lao da nguyên phát
+Việc tiêm trực tiếp trực khuẩn lao từ nguồn bên ngoài vào da hoặc niêm mạc sẽ gây ra săng lao . Trẻ em là đối tượng chủ yếu bị ảnh hưởng. Nhiễm trùng có thể xảy ra sau khi xỏ khuyên, xăm mình hoặc các tổn thương da khác. Mặt, tay và chân là những vị trí thường gặp nhất. Săng lao xuất hiện 1-4 tuần sau khi tiêm, ban đầu là một nốt sẩn đỏ cứng, sau đó trở thành một vết loét nông không đau , có đáy hạt và bờ lõm. Tổn thương dạng Sporotrichoid và hạch bạch huyết khu vực sưng to có thể phát triển.
+Nhiễm trùng hiếm khi xảy ra sau khi sử dụng vắc-xin BCG được dùng để tiêm chủng phòng bệnh lao, gây ra bệnh lupus thông thường do tiêm vắc-xin BCG. Đột biến STAT1 có thể dẫn đến nhiễm trùng BCG nhạy cảm. Những người đang dùng thuốc ức chế TNF alpha và trẻ sơ sinh có mẹ tiếp xúc với thuốc ức chế TNF alpha trong thai kỳ không được tiêm BCG vì họ có nguy cơ bị nhiễm trùng BCG lan tỏa .
+
+### Tái chủng/tái nhiễm lao da
+Lupus ban đỏ là biểu hiện thường gặp nhất của bệnh lao da tái nhiễm. Bất kỳ vị trí da nào cũng có thể bị ảnh hưởng, nhưng vùng đầu và cổ là những vị trí thường được báo cáo bị ảnh hưởng nhất.
+
+### Bệnh lupus ban đỏ
+![Bệnh lupus ban đỏ](https://dermnetnz.org/assets/Uploads/bacterial/lupus-vulgaris.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/bacterial/tb1.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/bacterial/tb2.jpg)
+Bệnh lao verrucosa cutis (bệnh lao mụn cóc) xảy ra sau khi trực khuẩn lao xâm nhập trực tiếp vào da của người đã từng bị nhiễm bệnh và có khả năng miễn dịch tốt. Bệnh này được gọi là "mụn cóc của luật sư" khi nó xuất hiện sau một chấn thương ngoài ý muốn trong phòng khám nghiệm tử thi .
+
+### Bệnh lao da mụn cóc
+![Bệnh lao da/bệnh lao mụn cóc](https://dermnetnz.org/assets/Uploads/bacterial/warty-tb.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/bacterial/tb3.jpg)
+Bệnh lao nhân tạo (tuberculosis cutis orificialis) xảy ra sau khi tự nhiễm trùng từ bệnh nội khoa tiến triển, lắng đọng trực khuẩn lao tại các điểm giao nhau giữa niêm mạc và da như quanh mũi và miệng.
+[Xem thêm hình ảnh về bệnh lao](https://dermnetnz-org.translate.goog/topics/cutaneous-tuberculosis-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp) ...
+
+### Lây lan qua đường máu đến da
+Lao kê là tình trạng trực khuẩn lao lan truyền rộng rãi qua đường máu từ ổ lao hoạt động bên trong. Bệnh chủ yếu gặp ở trẻ em và bệnh nhân suy giảm miễn dịch . Tổn thương da được gọi là lao da lan tỏa hoặc lao kê da cấp tính .
+![Bệnh lao kê da](https://dermnetnz.org/assets/Uploads/bacterial/miliary-tb.jpg)
+![Gumma lao](https://dermnetnz.org/assets/Uploads/bacterial/tb-gumma.jpg)
+Áp xe lao di căn (gôm lao) cũng do lây lan qua đường máu đến da ở trẻ em và người lớn suy giảm miễn dịch, nhưng biểu hiện dưới dạng nốt dưới da hoặc áp xe lạnh ở một chi. Da bên trên bị vỡ ra tạo thành vết loét với các đường rò và lỗ rò.
+
+### Mở rộng vào da từ ổ nhiễm trùng tiềm ẩn
+Bệnh lao hạch là tình trạng lao xâm lấn trực tiếp vào da, vào hạch bạch huyết hoặc xương bên dưới, thường kết hợp với lao phổi. Vị trí thường gặp nhất là quanh cổ và dưới xương hàm.
+
+### Bệnh tràng nhạc
+![Không có caption](https://dermnetnz.org/assets/Uploads/scrofuloderma-2-v2.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/bacterial/scrofuloderma.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/bacterial/scrofuloderma2.jpg)
+Các loại bệnh lao da Đặc trưng Bệnh lao da mụn cóc Biểu hiện là một khối u sần màu tím hoặc đỏ nâu Tổn thương thường xảy ra ở đầu gối, khuỷu tay, bàn tay, bàn chân và mông Các tổn thương có thể kéo dài trong nhiều năm nhưng có thể tự khỏi ngay cả khi không cần điều trị Bệnh lupus ban đỏ Dạng lao da dai dẳng và tiến triển Các sẩn nhỏ màu nâu đỏ có ranh giới rõ ràng hợp nhất thành các mảng có độ sệt giống như thạch (gọi là các nốt sần giống thạch táo ) Các tổn thương kéo dài trong nhiều năm, dẫn đến biến dạng và đôi khi là ung thư da Bệnh tràng nhạc Tổn thương chắc, không đau, cuối cùng loét với nền dạng hạt Có thể tự lành mà không cần điều trị nhưng phải mất nhiều năm và để lại sẹo xấu xí Bệnh lao kê Tổn thương da là những đốm đỏ nhỏ (bằng hạt kê) bị hoại tử , phát triển thành loét và [áp xe](https://dermnetnz.org/topics/cutaneous-abscess) Bệnh nhân thường bị bệnh Tiên lượng kém (nhiều bệnh nhân tử vong ngay cả khi được chẩn đoán và điều trị) Bệnh lao nhân tạo Tổn thương da ở các điểm nối niêm mạc da, ví dụ như quanh hậu môn Liên quan đến bệnh nội khoa tiến triển Loét nông
+
+### Nội soi da bệnh lao da
+Lupus ban đỏ thể thông thường: nền hồng đỏ, các vùng không có cấu trúc màu trắng, các hạt cầu vàng trắng, vảy trắng, các mạch máu dài và ngắn , và các giãn mao mạch phân nhánh. Không thấy nút sừng nang , giúp phân biệt lupus ban đỏ thể thông thường với lupus ban đỏ thể mi (miliaris disseminatus faciei) .
+
+---
+
+## Biến chứng của bệnh lao da là gì?
+
+Một số dạng bệnh lao da có liên quan đến khả năng miễn dịch thấp với M. tuberculosis và có thể chỉ ra tình trạng suy giảm miễn dịch hoặc nhiễm trùng tiềm ẩn nghiêm trọng có thể gây tử vong.
+Trong một số trường hợp hiếm gặp, bệnh lao da nguyên phát có thể lan rộng hoặc sau khi lành, bệnh lupus thông thường hoặc bệnh lao mụn cóc da có thể xuất hiện ở cùng một vị trí.
+[Bệnh lao](https://dermnetnz.org/topics/tuberculids) là phản ứng quá mẫn thường phát triển ở những bệnh nhân có mức độ miễn dịch từ trung bình đến cao với trực khuẩn lao.
+Lupus ban đỏ và bệnh hạch có thể gây tổn thương và để lại sẹo xấu xí khi lành. Lupus ban đỏ có thể phức tạp hơn do phát triển thành ung thư biểu mô tế bào vảy hoặc các loại ung thư da khác ở vết sẹo sau 25–30 năm ở 10% bệnh nhân.
+![Bệnh lupus thông thường với ung thư biểu mô tế bào vảy](https://dermnetnz.org/assets/Uploads/bacterial/lupus-vulgaris-scc.jpg)
+
+---
+
+## Bệnh lao da được chẩn đoán như thế nào?
+
+Chẩn đoán lao da thường được thực hiện hoặc xác nhận bằng [các đặc điểm mô bệnh học đặc trưng](https://dermnetnz.org/topics/cutaneous-tuberculosis-pathology) trên [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) . Các nốt lao điển hình là các u hạt biểu mô hoại tử chứa trực khuẩn kháng axit (AFB). Tuy nhiên, ở một số dạng lao da, việc xác định vị trí các nốt lao này có thể rất khó khăn do số lượng trực khuẩn trong da rất thấp.
+Vi khuẩn lao có thể được phát hiện trên da bằng các phương pháp nhuộm mô đặc biệt như Ziehl-Neelsen, phản ứng chuỗi polymerase ( PCR ) và nuôi cấy trong phòng thí nghiệm.
+Các xét nghiệm khác có thể cần thiết bao gồm:
+- Xét nghiệm da Tuberculin (xét nghiệm Mantoux hoặc PPD)
+- Xét nghiệm máu giải phóng interferon-gamma (IGRA) như QuantiFERON-TB vàng
+- Nuôi cấy đờm (có thể mất một tháng hoặc lâu hơn để có kết quả)
+- Chụp X-quang ngực và các xét nghiệm hình ảnh khác để phát hiện nhiễm trùng ngoài phổi.
+
+### Phản ứng xét nghiệm Mantoux nghiêm trọng (bệnh lao hoạt động)
+![Phản ứng thử nghiệm Mantoux](https://dermnetnz.org/assets/Uploads/bacterial/mantoux3.jpg)
+![Phản ứng thử nghiệm Mantoux](https://dermnetnz.org/assets/Uploads/bacterial/mantoux2.jpg)
+![Phản ứng thử nghiệm Mantoux](https://dermnetnz.org/assets/Uploads/bacterial/mantoux4.jpg)
+
+---
+
+## Chẩn đoán phân biệt bệnh lao da là gì?
+
+- Săng lao: nhiễm trùng mycobacteria không điển hình , các bệnh nhiễm trùng cơ hội khác
+- Bệnh lupus thông thường: bệnh phong, bệnh sarcoidosis
+- Bệnh lao da: mụn cóc do virus, sừng hóa
+- Lao nhân tạo: Bệnh Crohn, giang mai
+- Bệnh hạch: nhiễm trùng do vi khuẩn mycobacteria không điển hình, áp xe.
+
+---
+
+## Phương pháp điều trị bệnh lao da là gì?
+
+Bệnh nhân lao phổi hoặc lao ngoài phổi cần được điều trị bằng phác đồ đa thuốc kháng lao phù hợp. Phác đồ này thường bao gồm phối hợp isoniazid, [rifampicin](https://dermnetnz.org/topics/rifampicin) , pyrazinamid và ethambutol trong sáu tháng theo một liệu trình chuẩn. Lao kháng đa thuốc đã trở thành một vấn đề đáng kể trên toàn thế giới. Các loại thuốc chống lao mới đang được phát triển, bao gồm bedaquiline, đã được FDA chấp thuận.
+Bệnh nhân bị nhiễm lao tiềm ẩn nhưng không có bệnh hoạt động cũng có thể được điều trị bằng thuốc chống lao để ngăn ngừa sự phát triển của bệnh hoạt động. [Xem [Sàng lọc bệnh lao]](https://dermnetnz.org/topics/tuberculosis-screening) .
+Không khuyến khích dùng liệu pháp dùng một loại thuốc.
+Đôi khi, phẫu thuật cắt bỏ các tổn thương lao da khu trú như lupus thông thường hoặc bệnh hạch được khuyến cáo. Phẫu thuật tái tạo thẩm mỹ có thể cần thiết cho một số bệnh nhân bị biến dạng do lupus thông thường.
+
+---
+
+## Hậu quả của bệnh lao da là gì?
+
+Các vết loét do lao, hạch lao và lao mụn cóc da có thể tự lành. Lupus ban đỏ thường tiến triển nếu không được điều trị, tương tự như hầu hết các trường hợp lao mụn cóc da và hạch lao. Một số biểu hiện của lao da, chẳng hạn như lao kê, cho thấy bệnh lý toàn thân nghiêm trọng có thể gây tử vong.
+Việc điều trị thường thành công khi áp dụng đủ liệu trình thuốc thích hợp, mặc dù một số tổn thương da chậm lành.

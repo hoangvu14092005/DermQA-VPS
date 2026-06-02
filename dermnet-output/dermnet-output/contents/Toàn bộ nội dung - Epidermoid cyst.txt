@@ -1,0 +1,111 @@
+# U nang biểu bì — thông tin bổ sung
+
+Thể loại:
+
+Tổn thương (lành tính)
+
+SNOMED CT:
+
+419893006, 419603000
+
+**[Tổn thương (lành tính)](https://dermnetnz.org/topics/topics?category=Lesions+(benign))**
+
+
+# **U nang biểu bì**
+
+Tác giả: Megan Lam, Trường Y Michael G. DeGroote, Đại học McMaster, Canada. Tổng biên tập DermNet NZ: Phó Giáo sư Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand, tháng 4 năm 2020. Sửa đổi nhỏ: Tiến sĩ Ian Coulson, Bác sĩ Da liễu và Tổng biên tập, tháng 3 năm 2024.
+
+---
+
+## U nang biểu bì là gì?
+
+U nang biểu bì là một [u nang](https://dermnetnz.org/topics/cutaneous-cysts-and-pseudocysts) lành tính bắt nguồn từ phễu hoặc phần trên của nang lông , được bao bọc trong một lớp biểu mô mỏng giống biểu bì . U nang biểu bì thường chứa đầy keratin và các mảnh vụn giàu lipid [1,2]. [](https://dermnetnz.org/topics/cutaneous-cysts-and-pseudocysts)
+Từ đồng nghĩa của u nang biểu bì bao gồm:
+- U nang biểu bì
+- U nang biểu bì
+- U nang biểu mô
+- U nang phễu nang
+- U nang phễu
+- U nang keratin
+- U nang bã nhờn (đây là cách gọi sai phổ biến vì các u nang này không liên quan đến tuyến bã nhờn và cũng không chứa [bã nhờn](https://dermnetnz.org/topics/sebum) ).
+![U nang biểu bì](https://dermnetnz.org/assets/Uploads/cyst2.jpg)
+![U nang biểu bì có điểm lõm rõ ràng](https://dermnetnz.org/assets/Uploads/ateroma.jpg)
+![Sờ nắn u nang biểu bì - lưu ý điều này làm nổi bật điểm lệ](https://dermnetnz.org/assets/Uploads/lesions/cyst41.jpg)
+
+---
+
+## Ai có thể mắc u nang biểu bì?
+
+U nang biểu bì thường gặp nhất ở người lớn, đặc biệt là ở độ tuổi từ trẻ đến trung niên. Chúng xảy ra ở nam giới gấp đôi so với nữ giới [3]. Chúng có thể thường xuyên xảy ra trong [bệnh to đầu chi](https://dermnetnz.org/topics/acromegaly) . Nhiều u nang biểu bì nhỏ trên má được phát hiện có liên quan đến [chứng tăng đàn hồi do ánh nắng mặt trời](https://dermnetnz.org/topics/solar-elastosis) trong [hội chứng Favre-Racouchot](https://dermnetnz.org/topics/favre-racouchot-syndrome-pathology) .
+Các rối loạn di truyền có thể làm tăng nguy cơ phát triển nhiều u nang biểu bì bao gồm [1]:
+- [Hội chứng Gardner](https://dermnetnz.org/topics/gardner-syndrome)
+- [Pachyonychia congenita type 2](https://dermnetnz.org/topics/pachyonychia-congenita)
+- [Hội chứng nốt ruồi tế bào đáy](https://dermnetnz.org/topics/basal-cell-naevus-syndrome) .
+![Hội chứng Gardner](https://dermnetnz.org/assets/Uploads/doctors/systemic/images/gardner.jpg)
+
+---
+
+## Nguyên nhân nào gây ra u nang biểu bì?
+
+U nang biểu bì thường là kết quả của một đơn vị tuyến bã nhờn bị tắc nghẽn .
+Ở những vùng không có lông trên cơ thể, chẳng hạn như mông, lòng bàn tay hoặc lòng bàn chân, u nang biểu bì có thể là do tế bào biểu bì cấy ghép vào lớp hạ bì do chấn thương , nơi keratin tích tụ trong túi lót biểu mô [2].
+
+---
+
+## Đặc điểm lâm sàng của u nang biểu bì là gì?
+
+Các đặc điểm lâm sàng của u nang biểu bì bao gồm [4]:
+- Một nốt sần hoặc nốt sần tròn màu thịt hoặc vàng, cứng, cố định trên bề mặt da nhưng thường di chuyển qua các lớp sâu hơn
+- Đường kính 1–3 cm
+- Một điểm trung tâm
+- Có thể tiết ra các mảnh vụn phô mai có mùi hôi thối từ điểm giữa.
+U nang biểu bì thường gặp nhất ở vùng thân giữa (ví dụ: ngực và vai) và mặt, nhưng có thể xuất hiện ở hầu hết mọi nơi trên cơ thể. U nang biểu bì thường gặp ở bìu và [âm hộ](https://dermnetnz.org/topics/vulval-cysts) . Chúng có thể đơn độc hoặc nhiều u, và thường không có triệu chứng.
+![Nội dung của một nang biểu bì nhỏ được rạch bằng kim màu xanh lá cây](https://dermnetnz.org/assets/Uploads/lesions/cyst10.jpg)
+![U nang biểu bì tái phát - lưu ý vết sẹo từ lần cắt bỏ không hoàn toàn trước đó](https://dermnetnz.org/assets/Uploads/lesions/cyst39.jpg)
+
+---
+
+## Biến chứng của u nang biểu bì là gì?
+
+Việc vỡ nội dung nang vào lớp hạ bì gây ra sưng, đỏ và đau. Điều này có thể do chấn thương hoặc [nhiễm trùng do vi khuẩn](https://dermnetnz.org/topics/bacterial-skin-infections) , thường là do [tụ cầu vàng](https://dermnetnz.org/topics/methicillin-resistant-staphylococcus-aureus) , Escherichia coli và liên [cầu khuẩn](https://dermnetnz.org/topics/streptococcal-skin-infections) nhóm A [1].
+[Phẫu thuật cắt bỏ](https://dermnetnz.org/topics/excision-of-skin-lesions) có thể dẫn đến chảy máu, [nhiễm trùng thứ phát](https://dermnetnz.org/topics/bacterial-skin-infections) và sẹo. Nếu u nang bị vỡ hoặc bao nang không được loại bỏ hoàn toàn, u nang có thể tái phát.
+[Ung thư biểu mô tế bào vảy da](https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma) rất hiếm khi xuất hiện trong nang biểu bì [5].
+![Một u nang bị viêm trên mí mắt](https://dermnetnz.org/assets/Uploads/lesions/cyst14.jpg)
+![Một u nang bị viêm làm nổi bật điểm vàng](https://dermnetnz.org/assets/Uploads/lesions/cyst11.jpg)
+
+---
+
+## U nang biểu bì được chẩn đoán như thế nào?
+
+Chẩn đoán u nang biểu bì thường được thực hiện trên lâm sàng.
+[Sinh](https://dermnetnz.org/topics/skin-biopsy) thiết thường không cần thiết nhưng tổn thương có thể được cắt bỏ vì lý do thẩm mỹ hoặc do biến chứng. [Các đặc điểm mô học của u nang biểu bì](https://dermnetnz.org/topics/epidermoid-cyst-pathology) bao gồm [1]:
+- Cấu trúc nang ở lớp hạ bì
+- Một khoang đơn (đơn ngăn)
+- Lớp biểu mô lót không có gờ lưới và có lớp hạt chứa các hạt keratinohyaline .
+Siêu âm có thể được sử dụng trong đánh giá ban đầu về khối mô mềm nhưng thường không cần thiết đối với u nang biểu bì thông thường.
+
+---
+
+## Chẩn đoán phân biệt đối với u nang biểu bì là gì?
+
+Chẩn đoán phân biệt đối với u nang biểu bì bao gồm:
+- [U mỡ](https://dermnetnz.org/topics/lipoma-and-liposarcoma) - một khối u dưới da hình vòm hoặc hình trứng di động có kích thước 2–10 cm , có độ đàn hồi như cao su hoặc mềm và mịn
+- [U nang Trichilemmal](https://dermnetnz.org/topics/trichilemmal-cyst) — một nốt sần dưới da chắc, di động, kích thước 0,5–5 cm, không có điểm giữa, thường xuất hiện trên da đầu; u nang này có lớp bao dày và thường không dễ vỡ.
+- Mụn nang giả - loại mụn này không có nang và có liên quan đến các dấu hiệu khác của [mụn trứng cá](https://dermnetnz.org/topics/acne) như [mụn đầu đen](https://dermnetnz.org/topics/solar-comedo) , mụn viêm , mụn mủ và nốt sần
+- [U nang giả nhầy](https://dermnetnz.org/topics/digital-myxoid-pseudocyst) — một sẩn bóng xuất hiện ở cuối ngón tay
+- [U nang bì](https://dermnetnz.org/topics/dermoid-cyst) — loại u nang này có thành phần biểu bì và hạ bì và xuất hiện ở thời thơ ấu
+- [U nang biểu bì liên quan đến virus u nhú ở người (HPV)](https://dermnetnz.org/topics/sexually-acquired-human-papillomavirus) — một tổn thương có bề mặt cứng, sừng.
+
+---
+
+## Phương pháp điều trị u nang biểu bì là gì?
+
+Hầu hết các u nang biểu bì nhỏ không biến chứng sẽ không cần điều trị.
+Phương pháp điều trị hiệu quả nhất cho u nang biểu bì là [phẫu thuật cắt bỏ](https://dermnetnz.org/topics/excision-of-skin-lesions) hoàn toàn nang với bao nang còn nguyên vẹn. Việc loại bỏ toàn bộ lớp niêm mạc nang làm giảm tỷ lệ tái phát [6]. Điều này có thể khó thực hiện sau khi u nang vỡ. Khuyến cáo nên xét nghiệm mô học mẫu phẫu thuật do nguy cơ biến đổi ác tính và chẩn đoán sai thấp [6].
+Trong trường hợp nhiễm trùng , có thể chỉ định dùng kháng sinh ban đầu, rạch và dẫn lưu.
+
+---
+
+## Hậu quả của u nang biểu bì là gì?
+
+U nang biểu bì thường lành tính và phát triển chậm, hiếm khi chuyển thành ác tính. Đôi khi, chúng tự khỏi mà không cần can thiệp [1].

@@ -1,0 +1,123 @@
+# Bệnh u xơ thần kinh — thông tin bổ sung
+
+Thể loại:
+
+Di truyền
+
+SNOMED CT:
+
+92824003, 92503002, 19133005, 425327002, 403818001, 403815003, 403816002, 403817006, 248513002
+
+**[Di truyền](https://dermnetnz.org/topics/topics?category=Genetic)**
+
+
+# **Bệnh u xơ thần kinh**
+
+Tác giả: Vanessa Ngan, Biên tập viên, 2003. Cập nhật bởi Tiến sĩ Ebtisam Elghblawi, Bác sĩ Da liễu, Tripoli, Libya. Tổng Biên tập DermNet: Phó Giáo sư Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand. Tháng 10 năm 2017.
+
+---
+
+## Bệnh u xơ thần kinh là gì?
+
+Bệnh u xơ thần kinh (NF) là một rối loạn di truyền thần kinh da ảnh hưởng đến xương, mô mềm , da và hệ thần kinh.
+
+### Nhiều u xơ thần kinh da
+![](https://dermnetnz.org/assets/collection/Neurofibromatosis/neurofibromatosis-0001.jpg)
+![Bệnh u xơ thần kinh](https://dermnetnz.org/assets/Uploads/systemic/w/nf05.jpg)
+![U xơ thần kinh](https://dermnetnz.org/assets/Uploads/neurofibromatosis-02.jpg)
+Ít nhất 8 kiểu hình lâm sàng khác nhau của NF đã được xác định. Bệnh được phân loại thành 2 loại riêng biệt:
+- Bệnh u xơ thần kinh 1 (NF1)
+- Bệnh u xơ thần kinh 2 (NF2).
+
+### Bệnh u xơ thần kinh 1
+NF1 xảy ra ở khoảng 1/3000 ca sinh. Bệnh còn được gọi là bệnh von Recklinghausen. Bệnh được đặc trưng bởi sự hiện diện của:
+- 6 hoặc nhiều hơn [các vết bớt màu cà phê sữa](https://dermnetnz.org/topics/cafe-au-lait-macule) — vết bớt phẳng màu nâu nhạt
+- Tàn nhang ở nếp gấp da
+- Các nốt Lisch ở mống mắt.
+- [U sợi thần kinh](https://dermnetnz.org/topics/solitary-neurofibroma) đa ổ - khối u treo trên da
+
+### Bệnh u xơ thần kinh 2
+NF2 xảy ra ở khoảng 1/50.000 ca sinh. Bệnh còn được gọi là u xơ thần kinh thính giác hai bên hoặc u xơ thần kinh trung ương. Bệnh đặc trưng bởi nhiều khối u và tổn thương ở não và tủy sống.
+[U xơ thần kinh đơn độc](https://dermnetnz.org/topics/solitary-neurofibroma) không liên quan đến NF1 hoặc NF2.
+
+---
+
+## Nguyên nhân gây ra bệnh u xơ thần kinh là gì?
+
+NF1 và NF2 xảy ra do khiếm khuyết ở các gen khác nhau.
+- NF1 là do đột biến trên gen neurofibromin nằm ở vùng quanh tâm động của nhiễm sắc thể 17.
+- NF2 là do đột biến ở nhiễm sắc thể 22.
+Gen đột biến có thể được di truyền từ cha mẹ mắc NF theo cơ chế di truyền trội trên nhiễm sắc thể thường , hoặc có thể là gen khởi đầu do đột biến tự phát. Cha mẹ mắc NF có 50% khả năng truyền gen này cho mỗi đứa con.
+
+### Di truyền của bệnh u xơ thần kinh 1 và 2*
+![Bệnh u xơ thần kinh loại 1](https://dermnetnz.org/assets/Uploads/Neurofibromatosis-Type-1.jpg)
+![Bệnh u xơ thần kinh loại 2](https://dermnetnz.org/assets/Uploads/Neurofibromatosis-Type-2.jpg)
+*Hình ảnh được cung cấp bởi Genetics 4 Medics
+
+---
+
+## Các đặc điểm lâm sàng của bệnh u xơ thần kinh là gì?
+
+Mức độ và mức độ nghiêm trọng của các biểu hiện của NF rất khác nhau ở mỗi người và trong cùng một gia đình.
+
+### Bệnh u xơ thần kinh 1
+
+#### Các đốm màu cà phê sữa
+Các đốm màu cà phê sữa là những mảng màu nâu nhạt, hình bầu dục hoặc không đều, có đường kính lớn hơn 0,5 cm. Chúng có thể xuất hiện từ khi sinh ra và tăng dần về số lượng trong vài năm đầu đời.
+Mặc dù có thể tìm thấy các đốm màu cà phê sữa riêng lẻ ở nhiều người không mắc NF, nhưng những người có hơn 5 đốm màu này có nhiều khả năng cũng mắc NF1, đặc biệt nếu chúng xuất hiện trên da trong vòng 5 năm đầu đời.
+Có hơn 5 đốm màu cà phê sữa được tìm thấy ở 1,8% trẻ sơ sinh, 25–40% trẻ em và 14% người lớn mắc NF1.
+
+#### Tàn nhang ở nách
+Tàn nhang ở nách, được gọi là dấu hiệu Crowe , là đặc trưng của bệnh u xơ thần kinh loại 1. Tàn nhang xuất hiện trong giai đoạn dậy thì, sau khi phát triển các mảng màu cà phê sữa và trước khi xuất hiện u xơ thần kinh. Chúng cũng có thể xuất hiện ở các nếp gấp da khác như bẹn.
+![Đốm màu cà phê sữa](https://dermnetnz.org/assets/Uploads/doctors/systemic/images/nf1.jpg)
+![Đốm màu cà phê sữa](https://dermnetnz.org/assets/Uploads/systemic/s/nf6.jpg)
+![Tàn nhang ở nách](https://dermnetnz.org/assets/Uploads/systemic/nf3.jpg)
+
+#### Các nốt Lisch
+Các nốt Lisch là những khối u nhỏ trên mống mắt. Sau [tuổi dậy thì](https://dermnetnz.org/topics/skin-changes-at-puberty) , các nốt Lisch xuất hiện ở 97–100% bệnh nhân mắc NF1. Về mặt lâm sàng, chúng không gây ra bất kỳ vấn đề nào nhưng giúp xác nhận chẩn đoán.
+
+#### U xơ thần kinh
+U xơ thần kinh bao gồm tế bào Schwann, nguyên bào sợi , tế bào mast và các thành phần mạch máu , và có thể phát triển ở bất kỳ điểm nào dọc theo dây thần kinh. Có ba loại: u xơ da , u xơ dưới da và u xơ đám rối. U xơ thần kinh ở da và dưới da không đặc hiệu cho bệnh u xơ thần kinh, nhưng u xơ thần kinh đám rối chỉ gặp ở bệnh nhân NF1.
+- [U sợi thần kinh da](https://dermnetnz.org/topics/solitary-neurofibroma) là những nốt sần nông , giới hạn rõ, mềm, màu nâu, hồng hoặc màu da, có độ đặc chắc hoặc mềm. Khi ấn bằng ngón tay, chúng có thể biểu hiện lõm vào lỗ khuy áo đặc trưng . Chúng không có khả năng ác tính .
+- U xơ thần kinh dưới da tương tự u xơ thần kinh ở da, ngoại trừ nguồn gốc sâu hơn. Chúng có thể gây đau hoặc nhạy cảm tại chỗ .
+- U xơ thần kinh đám rối biểu hiện dưới dạng khối u giống như túi bên trong da. U xơ thần kinh đám rối dạng nốt ảnh hưởng đến rễ thần kinh lưng , còn u xơ thần kinh đám rối lan tỏa là khối u xâm lấn có thể ảnh hưởng đến tất cả các lớp da, cơ, xương và mạch máu.
+![U xơ thần kinh](https://dermnetnz.org/assets/Uploads/systemic/nf5.jpg)
+![U xơ thần kinh](https://dermnetnz.org/assets/Uploads/systemic/nf2.jpg)
+![U xơ thần kinh đám rối](https://dermnetnz.org/assets/Uploads/systemic/nf4.jpg)
+[Xem thêm hình ảnh về bệnh u xơ thần kinh](https://dermnetnz-org.translate.goog/topics/neurofibromatosis-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp) ...
+
+#### Các tính năng khác của NFI
+Mức độ nghiêm trọng của tổn thương da trong NF1 không phải là chỉ số đánh giá mức độ của bệnh vì các biểu hiện bên trong thường phổ biến và nghiêm trọng hơn. Các vấn đề ở các bộ phận khác của cơ thể bao gồm:
+- Sự biến dạng của xương dài (dưới đầu gối và khuỷu tay) và độ cong của cột sống ( vẹo cột sống )
+- Chiều cao thấp và thiếu hụt hormone tăng trưởng
+- Khó khăn trong học tập, vấn đề về lời nói và vấn đề về hành vi: 25–40% có khuyết tật học tập, 5–10% có thể bị khuyết tật trí tuệ
+- Khối u ở dây thần kinh thị giác; chúng có thể gây mất thị lực
+- Huyết áp cao và các vấn đề về máu khác
+- Khối u ở cột sống và não; những khối u này làm tăng nguy cơ mắc bệnh động kinh
+- Khối u hoặc tổn thương ở đường tiêu hóa có thể gây chảy máu hoặc tắc nghẽn
+- Khuyết tật thính giác.
+Mặc dù hầu hết các khối u đều lành tính (không phải ung thư), nhưng ước tính người mắc NF1 có nguy cơ mắc khối u ung thư cao hơn 3–15%.
+
+### Bệnh u xơ thần kinh 2
+NF2 không có nhiều dấu hiệu bên ngoài như NF1. Bệnh được đặc trưng bởi nhiều khối u và tổn thương ở não và tủy sống. Triệu chứng đầu tiên thường là mất thính lực do khối u phát triển trên một hoặc cả hai dây thần kinh thính giác. Triệu chứng này thường không rõ ràng cho đến cuối tuổi thiếu niên hoặc đầu tuổi 20.
+Khối u trong NF2 thường lành tính. Tuy nhiên, sự phát triển khối u lành tính ở não và tủy sống có thể ảnh hưởng đến các chức năng sống.
+
+---
+
+## Theo dõi bệnh nhân mắc bệnh u xơ thần kinh
+
+Vai trò chính của việc theo dõi là theo dõi sự phát triển của khối u và can thiệp khi cần thiết.
+- Trẻ em khỏe mạnh mắc NF nên được bác sĩ nhi khoa theo dõi và khám định kỳ 6–12 tháng một lần.
+- Những người có triệu chứng và dấu hiệu về mắt nên được bác sĩ nhãn khoa đánh giá và theo dõi.
+- Các khiếm khuyết về thính giác cần được bác sĩ chuyên khoa tai mũi họng (ENT) đánh giá và theo dõi.
+- Bác sĩ thần kinh có thể cần kiểm tra bệnh nhân về bất kỳ triệu chứng và dấu hiệu thần kinh nào như vụng về, tê liệt hoặc yếu ớt.
+Có thể tiến hành chụp siêu âm , chụp CT và chụp MRI để xác định vị trí của khối u nghi ngờ.
+
+---
+
+## Có những phương pháp điều trị nào?
+
+Không có cách chữa khỏi bệnh NF.
+U xơ thần kinh phát triển lớn và gây đau có thể được cắt bỏ để giảm nguy cơ ác tính và các biến chứng khác. Biến dạng khuôn mặt có thể được cải thiện bằng phẫu thuật thẩm mỹ.
+Tư vấn di truyền và giáo dục về NF rất quan trọng. Một mối quan tâm không nên bỏ qua là nguy cơ bị cô lập hoặc cô đơn ở những người mắc NF. Người mắc NF thường lo lắng về các biến chứng trong tương lai và đôi khi các tổn thương biến dạng có thể dẫn đến việc họ xa lánh xã hội.
+Các liệu pháp phân tử nhắm mục tiêu cho thấy triển vọng trong điều trị u xơ thần kinh trong tương lai. Các chất ức chế MEK như selumetinib có thể mang lại hy vọng trong việc giảm kích thước u xơ thần kinh dạng đám rối, làm mờ các vết bớt màu cà phê sữa và giảm đau.

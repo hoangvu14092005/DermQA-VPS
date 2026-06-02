@@ -1,0 +1,64 @@
+# Viêm mô mỡ dưới da thực bào — thông tin bổ sung
+
+Thể loại:
+
+Viêm
+
+SNOMED CT:
+
+238883003
+
+**[Viêm](https://dermnetnz.org/topics/topics?category=Inflammation)**
+
+
+# **Viêm mô mỡ dưới da thực bào**
+
+Tác giả: Tiến sĩ Mark Duffill, Hamilton, New Zealand, 2008.
+
+---
+
+## Viêm mô mỡ dưới da là gì?
+
+[Viêm mô mỡ dưới da](https://dermnetnz.org/topics/panniculitis) là thuật ngữ thường dùng để chỉ tình trạng rối loạn của lớp mỡ dưới da .
+
+---
+
+## Viêm mô mỡ dưới da thực bào là gì?
+
+Viêm mô mỡ thực bào là tình trạng viêm mô mỡ dưới da. Tình trạng này được chẩn đoán sau khi sinh thiết phát hiện các tế bào mô bất thường đang nuốt các tế bào khác (như hồng cầu và bạch cầu).
+Viêm mô mỡ thực bào cũng ảnh hưởng đến các cơ quan khác và là tình trạng đe dọa đến tính mạng.
+![Viêm mô mỡ dưới da thực bào](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/cytophagic-panniculitis1.jpg)
+![Viêm mô mỡ dưới da thực bào](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/cytophagic-panniculitis2.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/cytophagic-panniculitis3.jpg)
+
+---
+
+## Các đặc điểm lâm sàng của viêm mô mỡ thực bào là gì?
+
+Viêm mô mỡ dưới da thực bào biểu hiện bằng các nốt đau dưới da ở nhiều vị trí và các triệu chứng toàn thân .
+- Bệnh nhân cảm thấy không khỏe và bị sốt.
+- Có sự giảm sút số lượng tế bào và tiểu cầu trong máu.
+- Gan và lá lách to ra.
+- Suy gan tiến triển.
+Khi tử vong, thường liên quan đến chảy máu từ đường tiêu hóa, đường tiết niệu, đường hô hấp và vào da.
+
+---
+
+## Nguyên nhân gây ra viêm mô mỡ thực bào là gì?
+
+Viêm mô mỡ thực bào (cytophagic histiocytic panniculitis) xảy ra do nhiễm trùng ở khoảng 50% trường hợp. Nhiễm trùng thường là do virus herpes. Bệnh xảy ra ở những bệnh nhân có chức năng miễn dịch bị suy giảm do [suy giảm miễn dịch](https://dermnetnz.org/topics/immunodeficiency) , một [bệnh tự miễn](https://dermnetnz.org/topics/autoimmune-diseases-in-dermatology) hoặc bệnh về huyết học .
+[U lympho tế bào T](https://dermnetnz.org/topics/cutaneous-t-cell-lymphoma) dưới da cũng có thể biểu hiện bằng viêm mô mỡ dưới da thực bào.
+
+---
+
+## Viêm mô mỡ dưới da do tế bào thực bào được chẩn đoán như thế nào?
+
+[Sinh thiết](https://dermnetnz.org/topics/skin-biopsy) một nốt dưới da cho thấy các tế bào mô bào thực bào và các tế bào viêm liên quan đến sự phân hủy và xuất huyết ở mô mỡ dưới da. Các tế bào lympho bất thường có thể dẫn đến chẩn đoán u lympho tế bào T.
+Các xét nghiệm sâu hơn có thể cho thấy tổn thương các cơ quan khác và xu hướng chảy máu. Có thể có bằng chứng về tình trạng nhiễm trùng trước đó, chẳng hạn như virus herpes, và rối loạn chức năng miễn dịch. Nếu chẩn đoán u lympho tế bào T, việc phân giai đoạn bệnh có thể tìm thấy bằng chứng u lympho ở các hạch bạch huyết và các nơi khác.
+
+---
+
+## Điều trị viêm mô mỡ dưới da do histiocytic thực bào là gì?
+
+Viêm mô mỡ dưới da thực bào thường gây tử vong nếu không được điều trị.
+Điều trị triệu chứng bao gồm truyền máu và [liệu pháp corticosteroid](https://dermnetnz.org/topics/systemic-steroids) . Etoposide và [ciclosporin đã được báo cáo là có hiệu quả trong một số trường hợp. Một số tác giả khuyến cáo nên điều trị viêm mô mỡ dưới da do histiocytic bằng liệu pháp đa hóa trị liệu giống CHOP.](https://dermnetnz.org/topics/ciclosporin) [Immunoglobulin tiêm tĩnh mạch](https://dermnetnz.org/topics/intravenous-immunoglobulin) liều cao đã đạt được kết quả tốt .

@@ -1,0 +1,91 @@
+# Reticulohistiocytosis — thông tin bổ sung
+
+Thể loại:
+
+Tổn thương (lành tính)
+
+SNOMED CT:
+
+404161006, 404162004, 184241008
+
+**[Tổn thương (lành tính)](https://dermnetnz.org/topics/topics?category=Lesions+(benign))**
+
+
+# **Reticulohistiocytosis**
+
+Tác giả: Vanessa Ngan, Biên tập viên; và Tiến sĩ Amy Stanway, Chuyên gia đăng ký da liễu, Nottingham, Vương quốc Anh, 2004.
+
+---
+
+## Reticulohistiocytosis là gì?
+
+Bệnh reticulohistiocytosis là một dạng hiếm gặp của [bệnh histiocytosis](https://dermnetnz.org/topics/histiocytosis) có thể ảnh hưởng đến da và các cơ quan khác.
+Bệnh lý võng mạc hồng cầu có nhiều mức độ nghiêm trọng khác nhau. Nó có thể là một bệnh giới hạn với một khối u da màu vàng đỏ đơn lẻ cho đến nhiều tổn thương da có liên quan đến các cơ quan nội tạng. Bệnh thường xảy ra ở người lớn.
+
+---
+
+## U tế bào lưới đơn độc
+
+U tế bào lưới đơn độc là một tổn thương da đơn độc (còn được gọi là 'bệnh tế bào lưới đơn độc' hoặc 'u tế bào mô đơn độc'). Bệnh có xu hướng tự khỏi sau vài tháng đến vài năm và người bệnh vẫn khỏe mạnh.
+Phẫu thuật cắt bỏ các tổn thương da đơn độc thường có thể chữa khỏi.
+![Không có caption](https://dermnetnz.org/assets/Uploads/Reticulohistiocytoma.jpg)
+![Chế độ xem da liễu](https://dermnetnz.org/assets/Uploads/reticulohistiocytoma-dermoscopy.jpg)
+
+---
+
+## Nhiều tổn thương da trong bệnh lý võng mạc
+
+Bệnh hồng cầu lưới có thể biểu hiện bằng nhiều tổn thương da, trong trường hợp này, khả năng cao là các cơ quan khác cũng bị ảnh hưởng. Những tổn thương này có thể bao gồm:
+- Trái tim
+- Mắt
+- Phổi
+- Tuyến giáp
+- Gan
+- Quả thận
+- Cơ bắp
+- Tuyến nước bọt
+- Tủy xương
+Các triệu chứng có thể bao gồm sụt cân và sốt. Xét nghiệm máu có thể phát hiện thiếu máu và tăng cholesterol ở một phần ba số bệnh nhân. Biến chứng tim có thể gây tử vong.
+
+---
+
+## Reticulohistiocytosis đa trung tâm là gì?
+
+[Bệnh lý lưới mô bào đa trung tâm](https://dermnetnz.org/topics/reticulohistiocytosis) đôi khi còn được gọi là ' viêm da khớp dạng mỡ ', ' thấp khớp dạng mỡ ' và ' bệnh lưới mô bào tế bào khổng lồ '.
+Bệnh lý tăng sinh tế bào lưới mô bào đa trung tâm là một tình trạng rất hiếm gặp và ác tính hơn, đặc trưng bởi các tổn thương da, tổn thương niêm mạc và viêm khớp. Bệnh thường xảy ra ở phụ nữ trung niên. Ở một nửa số bệnh nhân, dấu hiệu đầu tiên của bệnh là viêm khớp, trong khi một phần tư ban đầu xuất hiện các sẩn da (nốt sần nhỏ) và nốt sần (nốt sần lớn), và số còn lại đồng thời xuất hiện các biểu hiện ở da và khớp . Bệnh được phân loại cùng với các rối loạn tăng sinh khác của tế bào mô bào (một loại tế bào miễn dịch ).
+Đặc điểm của tổn thương da bao gồm:
+- Các nốt sần và nốt sần màu da hoặc nâu đỏ có đường kính từ 1-2 mm đến vài cm
+- Các tổn thương có thể xuất hiện riêng lẻ hoặc thành từng cụm hoặc thành từng đám có hình dạng giống đá cuội
+- Các nốt sần và cục u thường xuất hiện ở nửa trên của cơ thể, đặc biệt là mặt, tai, bề mặt niêm mạc (môi, lưỡi, nướu, lỗ mũi, họng, mí mắt), bàn tay và cẳng tay
+- Tổn thương da có thể gây phá hủy sụn quanh tai và mũi dẫn đến hình dạng biến dạng
+- Có thể xuất hiện nhiều cục u nhỏ xung quanh móng . Hiện tượng này được mô tả là "hạt san hô".
+- Các tổn thương thường không có triệu chứng nhưng khoảng một phần ba số bệnh nhân phàn nàn về tình trạng ngứa.
+Viêm khớp thường ảnh hưởng đến ngón tay, bàn tay, đầu gối và vai, nhưng bất kỳ khớp nào cũng có thể bị ảnh hưởng. Các triệu chứng của viêm khớp có thể tăng rồi giảm, nhưng cũng có thể nhanh chóng trở nên nghiêm trọng và dẫn đến phá hủy và biến dạng khớp. Khoảng 45% bệnh nhân bị viêm khớp nặng.
+![Bệnh lý võng mạc đa trung tâm: Quỹ từ thiện Swinfen](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/reticulocytosis1.jpg)
+![Bệnh lý võng mạc đa trung tâm: Quỹ từ thiện Swinfen](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/reticulocytosis2.jpg)
+![Bệnh lý võng mạc đa trung tâm: Quỹ từ thiện Swinfen](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/reticulocytosis3.jpg)
+
+---
+
+## Nguyên nhân gây ra bệnh lưới mô bào đa trung tâm là gì?
+
+Nguyên nhân của bệnh lý [tăng sinh tế bào lưới mô bào đa trung tâm](https://dermnetnz.org/topics/reticulohistiocytosis) vẫn chưa được biết rõ, nhưng trong khoảng 20-30% trường hợp, bệnh có liên quan đến một bệnh lý ác tính tiềm ẩn. Nếu có nhiều tổn thương da nhưng không có viêm khớp thì không liên quan đến ung thư. Hiện vẫn còn nhiều tranh cãi về việc liệu bệnh lý tăng sinh tế bào lưới mô bào đa trung tâm có phải là một rối loạn cận ung thư thực sự hay không (rối loạn cận ung thư là rối loạn xảy ra do các yếu tố tuần hoàn do ung thư tiềm ẩn sản sinh ra). Các lý do bao gồm:
+- Không có loại ung thư nhất quán nào liên quan đến bệnh lý lưới mô bào đa trung tâm;
+- Bởi vì bệnh lý lưới mô bào đa trung tâm rất hiếm gặp, điều này đặt ra câu hỏi liệu các mối liên quan có phải chỉ là ngẫu nhiên hay không.
+- Chưa xác định được mối tương quan giữa việc loại bỏ ung thư và sự biến mất và/hoặc cải thiện các triệu chứng viêm khớp và da của bệnh lý lưới mô bào đa trung tâm.
+Bệnh lý võng mạc đa trung tâm cũng liên quan đến:
+- [Viêm mạch](https://dermnetnz.org/topics/cutaneous-vasculitis) ( viêm mạch máu )
+- Bệnh tự miễn
+
+---
+
+## Phương pháp điều trị bệnh tăng sinh lưới mô bào đa trung tâm là gì?
+
+Không có phương pháp điều trị đặc hiệu cho bệnh lý tăng sinh lưới mô bào đa trung tâm. Ở nhiều bệnh nhân, sau một quá trình trung bình 8 năm, bệnh có thể thuyên giảm , tuy nhiên, đến lúc này, tình trạng hủy hoại khớp đáng kể có thể đã xảy ra. Bệnh nhân bị liệt, biến dạng khớp và biến dạng khuôn mặt.
+Vì khoảng 30% trường hợp có thể bắt nguồn từ bệnh lý ác tính tiềm ẩn, việc đánh giá khả năng mắc bệnh lý ác tính là điều cần thiết. Việc khai thác bệnh sử kỹ lưỡng và khám lâm sàng kết hợp tầm soát ung thư phù hợp với độ tuổi được khuyến cáo nếu có các triệu chứng của bệnh lý tăng sinh lưới mô bào đa trung tâm.
+Có thể sử dụng các phương pháp điều trị sau:
+- [Methotrexate](https://dermnetnz.org/topics/methotrexate)
+- Liệu trình ngắn ngày dùng [corticosteroid đường uống](https://dermnetnz.org/topics/systemic-steroids) (prednisolone/prednisone)
+- [Ciclosporin](https://dermnetnz.org/topics/ciclosporin)
+- [Azathioprine](https://dermnetnz.org/topics/azathioprine-and-mercaptopurine)
+- [Cyclophosphamide](https://dermnetnz.org/topics/cyclophosphamide)

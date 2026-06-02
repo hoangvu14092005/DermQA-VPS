@@ -1,0 +1,78 @@
+# Bệnh porphyria rải rác — thông tin bổ sung
+
+Thể loại:
+
+Di truyền
+
+SNOMED CT:
+
+58275005, 22031009, 89900006, 81655005
+
+**[Di truyền](https://dermnetnz.org/topics/topics?category=Genetic)**
+
+
+# **Bệnh porphyria loang lổ**
+
+Tác giả: Vanessa Ngan, Biên tập viên, 2007.
+
+---
+
+## Bệnh porphyria rải rác là gì?
+
+Porphyria Variegate là một phân nhóm của porphyria. Đây là một rối loạn di truyền đặc trưng bởi tình trạng da [nhạy cảm với ánh sáng](https://dermnetnz.org/topics/photosensitivity) (phản ứng với ánh sáng), các triệu chứng toàn thân phát sinh từ các vấn đề thần kinh, hoặc cả hai. Bệnh này được coi là rất hiếm gặp trên toàn thế giới, ngoại trừ Nam Phi, nơi ước tính cứ 300 người da trắng ở Nam Phi thì có 1 người mắc bệnh. Đột biến gen này có thể bắt nguồn từ những người nhập cư Hà Lan kết hôn với họ vào năm 1680.
+
+---
+
+## Nguyên nhân nào gây ra bệnh porphyria rải rác?
+
+Bệnh porphyria variegate là do đột biến gen của protein enzyme protoporphyrinogen oxidase (PPOX). Enzyme này đóng vai trò quan trọng trong quá trình hóa học dẫn đến sản xuất hem. Hem là sắc tố đỏ trong tế bào máu và là thành phần quan trọng của hemoglobin , phân tử vận ​​chuyển oxy trong máu. Ở những người mắc bệnh porphyria variegate, hoạt động của enzyme PPOX giảm 50%. Điều này có nghĩa là có sự tích tụ porphyrin độc hại , đặc biệt là uroporphyrin và coproprophyrin, dẫn đến phồng rộp.
+Bệnh porphyria Variegate là một rối loạn di truyền trội trên nhiễm sắc thể thường . Điều này có nghĩa là một người đàn ông hoặc phụ nữ mang gen này sẽ truyền nó cho một nửa số con của họ.
+Ở hầu hết những người mắc bệnh porphyria thể đốm, các dấu hiệu và triệu chứng chỉ có thể xuất hiện rõ ràng khi họ tiếp xúc với các yếu tố không di truyền như một số loại thuốc, căng thẳng, chế độ ăn kiêng hoặc nhịn ăn, và một số hormone. Những yếu tố này làm tăng nhu cầu về hem và các enzyme tạo hem. Sự kết hợp giữa nhu cầu tăng và hoạt động giảm của PPOX làm gián đoạn quá trình sản xuất hem và gây ra cơn porphyria thể đốm cấp tính .
+
+---
+
+## Những dấu hiệu và triệu chứng của bệnh porphyria rải rác là gì?
+
+Khoảng 60% bệnh nhân mang đột biến gen PPOX sẽ không có triệu chứng. Ở những bệnh nhân có triệu chứng, nhạy cảm ánh sáng ở da xảy ra thường xuyên hơn 3-5 lần so với các triệu chứng toàn thân do rối loạn chức năng thần kinh . Trong một số ít trường hợp, cả triệu chứng da và triệu chứng toàn thân đều xuất hiện đồng thời. Trong hầu hết các trường hợp, các cơn cấp tính thường bắt đầu ở tuổi trưởng thành và thường có thể liên quan đến tiền sử dùng thuốc mới.
+Các dấu hiệu và triệu chứng của bệnh porphyria thể vân hiếm khi xuất hiện ở trẻ em, tuy nhiên, nếu có, bệnh thường nghiêm trọng hơn và thậm chí gây suy nhược. Trẻ em mắc bệnh này có thể bị khuyết tật trí tuệ và chậm phát triển.
+![Bệnh porphyria loang lổ](https://dermnetnz.org/assets/Uploads/systemic/vp1.jpg)
+![Bệnh porphyria loang lổ](https://dermnetnz.org/assets/Uploads/systemic/vp2.jpg)
+
+### Độ nhạy cảm của da với ánh sáng
+Hầu hết những người mắc bệnh porphyria thể đốm có làn da quá nhạy cảm với ánh nắng mặt trời. Những vùng da tiếp xúc với ánh nắng mặt trời thường bị phồng rộp, sẹo, đổi màu da và mọc lông nhiều hơn .
+
+### Các triệu chứng toàn thân
+Các cơn cấp tính gây đau bụng dữ dội, nôn mửa không kiểm soát, tiêu chảy và táo bón. Các biểu hiện thần kinh bao gồm yếu cơ và chân tay, có thể tiến triển thành liệt tứ chi mất phản xạ (tay và chân yếu), co giật và các thay đổi về tinh thần như lo lắng và ảo giác. Các triệu chứng khác bao gồm thay đổi nhịp tim và huyết áp, và khó thở. Mất cân bằng điện giải như nồng độ natri và magie thấp có thể xảy ra.
+
+---
+
+## Cần phải tiến hành những cuộc điều tra nào?
+
+Trong các đợt cấp tính, chẩn đoán bệnh porphyria thể đốm được xác nhận bằng:
+- Nồng độ porphyrin trong nước tiểu cao (axit aminolevulinic, porphobilinogen, coproporphyrin và ở mức độ thấp hơn là uroporphyrin). Giữa các đợt bệnh, kết quả xét nghiệm nước tiểu có thể bình thường.
+- Nồng độ porphyrin trong phân cao (coproporphyrin, protoporphyrin và porphyrin X)
+- Huỳnh quang huyết tương cho thấy đỉnh ở 625-7 nm ở người mang bệnh có triệu chứng và nhiều người không có triệu chứng .
+Những xét nghiệm này phải được thực hiện bởi phòng thí nghiệm có kinh nghiệm và đảm bảo chất lượng vì độ chính xác là rất quan trọng.
+Có bộ dụng cụ xét nghiệm nhanh để xác định nồng độ porphobilinogen tăng cao nếu cần trong trường hợp khẩn cấp.
+Các đặc điểm của [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) có thể tương tự như bệnh porphyria cutanea tarda. Vết phồng rộp là do nứt dưới lớp biểu bì và không liên quan nhiều đến tình trạng viêm. Thành mạch máu và màng đáy dày lên.
+Các xét nghiệm khác sẽ phụ thuộc vào tình trạng sức khỏe tổng quát và các triệu chứng của từng cá nhân.
+
+---
+
+## Bệnh porphyria rải rác được điều trị như thế nào?
+
+Việc xử trí cơn cấp tính của bệnh porphyria thể đa dạng cũng giống như các cơn cấp tính của tất cả các rối loạn porphyria khác. Việc xử trí cơn cấp tính bao gồm:
+- Kiểm soát sự mất cân bằng chất lỏng và điện giải
+- Kiểm soát cơn co giật bằng benzodiazepin, magie sulfat hoặc [gabapentin](https://dermnetnz.org/topics/gabapentin)
+- Kiểm soát nhịp tim nhanh và tăng huyết áp nghiêm trọng bằng thuốc chẹn beta
+- Kiểm soát cơn đau dữ dội bằng thuốc giảm đau opioid
+- Giảm buồn nôn và nôn bằng phenothiazin
+- Tiêm tĩnh mạch chất tương tự huyết sắc tố , đặc biệt trong những trường hợp nặng không đáp ứng với việc điều trị triệu chứng, truyền dịch và carbohydrate trong vòng một ngày.
+Bệnh nhân mắc bệnh porphyria thể đa sắc cần được thông báo về các yếu tố có thể gây ra các triệu chứng cấp tính của bệnh. Mặc dù hầu hết các tác nhân gây bệnh porphyria thể đa sắc dường như là thuốc, nhưng trong một số trường hợp, yếu tố gây bệnh vẫn chưa được biết rõ. Do đó, việc giảm thiểu tiếp xúc với các yếu tố nguy cơ là điều hợp lý. Bệnh nhân nên tuân thủ các điểm quản lý sau đây càng nhiều càng tốt.
+- Tránh chế độ ăn hạn chế carbohydrate; glucose trong thức ăn hoặc đồ uống có thể ngăn chặn cơn đau.
+- [Uống rượu](https://dermnetnz.org/topics/cutaneous-adverse-effects-of-alcohol) vừa phải (tốt nhất là tránh uống rượu hoàn toàn) và bỏ [hút thuốc](https://dermnetnz.org/topics/smoking-and-its-effects-on-the-skin)
+- Tiến hành bất kỳ liệu pháp hormone cần thiết nào một cách thận trọng
+- Thoa [kem chống nắng](https://dermnetnz.org/topics/topical-sunscreen-agents) không màu như loại có chứa kẽm hoặc titan dioxit và che chắn khi ra ngoài; ánh sáng chịu trách nhiệm là dải Soret ở bước sóng 400 nm, nhưng không may là hầu hết các loại kem chống nắng đều không chặn được.
+- Sử dụng kem rám nắng có chứa [dihydroxyacetone](https://dermnetnz.org/topics/dihydroxyacetone) : chất này có thể chặn ánh sáng gây hại ở một mức độ nào đó.
+Việc xác định loại thuốc nào nên tránh cho người mắc bệnh porphyria thể variegate có thể khó khăn, và khả năng dung nạp thuốc của mỗi bệnh nhân có thể khác nhau. Hãy hạn chế sử dụng thuốc và tham khảo danh sách các loại thuốc an toàn và không an toàn (xem liên kết đến các trang web khác bên dưới).
+Một loại thuốc đang được nghiên cứu, givosiran, là một liệu pháp RNAi nhắm vào aminolevulinic acid synthase 1 và đang cho thấy triển vọng trong việc điều trị bệnh porphyria variegate.

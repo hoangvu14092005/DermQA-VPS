@@ -1,0 +1,171 @@
+# U hắc tố mắt — thông tin bổ sung
+
+Thể loại:
+
+Tổn thương (ung thư)
+
+SNOMED CT:
+
+274087000, 255021005, 255012009, 255004001
+
+**[Tổn thương (ung thư)](https://dermnetnz.org/topics/topics?category=Lesions+(cancerous))**
+
+
+# **U hắc tố mắt**
+
+Tác giả: Tiến sĩ Giri Raj, Bác sĩ da liễu, New Plymouth, New Zealand; Tiến sĩ Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand, 2013.
+
+---
+
+## Giải phẫu bình thường của mắt
+
+- Kết mạc – lớp màng ở mặt ngoài của mắt.
+- Củng mạc – phần trắng của mắt, một lớp bảo vệ dạng sợi mờ đục bao quanh mắt. Nó tiếp giáp với giác mạc.
+- Giác mạc – bề mặt trong suốt phía trước của mắt.
+- Mống mắt – phần có màu của mắt. Nó có thể kiểm soát lượng ánh sáng đi vào mắt bằng cách đóng mở.
+- Thể mi – cơ giúp mắt có thể tập trung bằng cách thay đổi hình dạng của thủy tinh thể.
+- Màng mạch – lớp mô ở phía sau mắt, giữa củng mạc và võng mạc.
+
+### Tế bào hắc tố
+Tế bào hắc tố là tế bào sản xuất sắc tố ( melanin ). Da sẫm màu có nhiều tế bào hắc tố hoạt động hơn da sáng. Melanin được sản xuất nhiều hơn bởi tế bào hắc tố để đáp ứng với ánh nắng mặt trời và có thể dẫn đến tình trạng sắc tố không đồng đều trên bề mặt mắt, được gọi là chứng hắc tố.
+
+### Nốt ruồi hắc tố
+Tế bào hắc tố thường tập trung thành từng cụm dưới dạng [nốt](https://dermnetnz.org/topics/melanocytic-naevus) ruồi sắc tố trên da, được gọi đúng là nốt ruồi hắc tố . Chúng vô hại. Nốt ruồi hắc tố cũng có thể xuất hiện trên kết mạc. Đôi khi chúng xuất hiện ngay từ khi sinh ( [nốt ruồi hắc tố bẩm sinh](https://dermnetnz.org/topics/congenital-melanocytic-naevi) ). [](https://dermnetnz.org/topics/melanocytic-naevus) [](https://dermnetnz.org/topics/congenital-melanocytic-naevi)
+Các tập hợp tế bào hắc tố ở các mô sâu hơn của mắt được gọi là tăng sinh hắc tố mắt. [Nốt ruồi Ota](https://dermnetnz.org/topics/naevus-of-ota-ito-hori) là một dạng tăng sinh hắc tố ở da có thể ảnh hưởng đến mắt.
+
+---
+
+## Những bộ phận nào của mắt bị ảnh hưởng bởi bệnh ung thư hắc tố?
+
+U hắc tố nguyên phát ở mắt có thể được chia thành 2 loại:
+- U hắc tố màng mạch: phát sinh ở mống mắt, màng mạch và thể mi. Đây là dạng u hắc tố mắt phổ biến nhất, với tỷ lệ mắc ổn định được báo cáo là 7/1.000.000 mỗi năm tại Hoa Kỳ. Phần lớn các trường hợp (trên 90%) liên quan đến màng mạch. Khoảng 6% liên quan đến thể mi và 4% liên quan đến mống mắt.
+- U hắc tố kết mạc. Bệnh này ít gặp hơn mặc dù tỷ lệ mắc bệnh đang gia tăng. U hắc tố kết mạc có tỷ lệ mắc bệnh dưới 5 ca trên một triệu người mỗi năm.
+
+### U hắc tố màng mạch nhìn qua đèn khe* (4 màng mạch, 1 mống mắt)
+![U ác tính màng mạch/màng mạch](https://dermnetnz.org/assets/Uploads/lesions/w/uveal-melanoma1.jpg)
+![U ác tính màng mạch/màng mạch](https://dermnetnz.org/assets/Uploads/lesions/w/uveal-melanoma2.jpg)
+![U ác tính màng mạch/màng mạch](https://dermnetnz.org/assets/Uploads/lesions/w/uveal-melanoma3.jpg)
+![U ác tính màng mạch/màng mạch](https://dermnetnz.org/assets/Uploads/lesions/w/uveal-melanoma4.jpg)
+![U ác tính màng bồ đào/mống mắt](https://dermnetnz.org/assets/Uploads/lesions/w/uveal-melanoma5.jpg)
+*Hình ảnh được cung cấp bởi Tiến sĩ Stephen Guest
+U hắc tố da cũng có thể ảnh hưởng đến [mí mắt](https://dermnetnz.org/topics/eyelid-skin-problems) , nhưng chúng không được coi là u hắc tố mắt.
+
+### U hắc tố ảnh hưởng đến mí mắt**
+![U hắc tố mí mắt](https://dermnetnz.org/assets/Uploads/lesions/w/eyelid-melanoma-1.jpg)
+![U hắc tố mí mắt](https://dermnetnz.org/assets/Uploads/lesions/eyelid-melanoma-2.jpg)
+![U hắc tố mí mắt](https://dermnetnz.org/assets/Uploads/lesions/w/eyelid-melanoma-3.jpg)
+![U hắc tố mí mắt](https://dermnetnz.org/assets/Uploads/lesions/w/eyelid-melanoma-4.jpg)
+![U hắc tố mí mắt](https://dermnetnz.org/assets/Uploads/lesions/eyelid-melanoma-5.jpg)
+**Hình ảnh được cung cấp bởi Tiến sĩ Stephen Ng
+
+---
+
+## Nguyên nhân gây ra bệnh u hắc tố mắt là gì?
+
+[Giống như các dạng u hắc tố](https://dermnetnz.org/topics/melanoma) khác , u hắc tố mắt xảy ra do những thay đổi di truyền bên trong tế bào hắc tố khiến các tế bào tăng sinh. Những thay đổi tiếp theo trong tế bào khiến chúng xâm lấn các mô xung quanh và lan rộng khắp cơ thể ( di căn ).
+Nhiều báo cáo cho rằng việc tiếp xúc với ánh sáng mặt trời có thể là một yếu tố quan trọng trong sự phát triển của bệnh u hắc tố mắt.
+
+---
+
+## Ai mắc bệnh ung thư hắc tố mắt?
+
+Cả nam và nữ dường như có tỷ lệ mắc ung thư hắc tố mắt ngang nhau. Tỷ lệ mắc bệnh cao nhất là ở độ tuổi gần 62.
+Những người có nguy cơ mắc ung thư hắc tố mắt cao nhất là người da trắng, có làn da sáng và màu mống mắt nhạt. Tuy nhiên, ung thư hắc tố cũng có thể ảnh hưởng đến những người có làn da và màu mắt sẫm hơn.
+Bệnh hắc tố, bệnh hắc tố bẩm sinh ở mắt và [bệnh u xơ thần kinh](https://dermnetnz.org/topics/neurofibromatosis) cũng có liên quan đến nguy cơ gia tăng.
+Bệnh nhân mắc bệnh u hắc tố kết mạc thường có nhiều nốt [ruồi](https://dermnetnz.org/topics/melanocytic-naevus) hắc tố . Người ta cho rằng khoảng 20% ​​xuất phát từ nốt ruồi và khoảng 60-75% xuất phát từ bệnh hắc tố kết mạc.
+
+---
+
+## Chẩn đoán bệnh u hắc tố mắt được thực hiện như thế nào?
+
+Chẩn đoán u hắc tố mắt thường được thực hiện bằng cách khám lâm sàng chính xác. Các chỉ số chính của bệnh ở 90 bệnh nhân được mô tả trong một nghiên cứu ở Canada là:[3]
+- mất một phần thị trường (ở 33% bệnh nhân)
+- độ nhạy cảm với ánh nắng mặt trời (trong 20%)
+- mờ mắt (ở 20%)
+- phát hiện tình cờ khi khám mắt (ở 17%)
+U hắc tố kết mạc biểu hiện là tổn thương sắc tố ngày càng bất thường ở mắt ngoài.
+Các triệu chứng khác có thể bao gồm mắt lồi, thay đổi màu sắc mống mắt, mắt đỏ hoặc đau và bong võng mạc.
+
+---
+
+## Tiến triển của bệnh u hắc tố mắt
+
+Một nửa số bệnh nhân phát triển bệnh di căn trong vòng 15 năm sau khi khối u nguyên phát được điều trị. Đáng tiếc là hiện nay vẫn chưa có phương pháp chữa khỏi bệnh di căn.
+Di căn xảy ra do lan rộng tại chỗ hoặc lan truyền qua đường máu. Di căn xuyên củng mạc có thể xảy ra qua dây thần kinh mi , tĩnh mạch, động mạch hoặc các kênh dẫn lưu thủy dịch. Không có mạng lưới bạch huyết trong đường dẫn truyền màng bồ đào. Di căn xa xảy ra ở gan trong hơn 80% trường hợp. Đôi khi cũng có thể di căn đến phổi, xương và da.
+Tiên lượng kém có liên quan đến:
+- kích thước khối u lớn
+- sự tham gia của thể mi
+- tuổi bệnh nhân lớn hơn.
+Khi được điều trị sớm, u ác tính mống mắt ít có khả năng làm suy giảm thị lực hoặc di căn hơn so với các loại u ác tính màng bồ đào khác.
+Các đặc điểm mô học liên quan đến nguy cơ di căn cao hơn bao gồm:
+- sự hiện diện của các tế bào có hình thái biểu mô
+- tăng cường thâm nhiễm với các tế bào miễn dịch
+- tỷ lệ nguyên phân cao
+- mật độ vi mạch tăng lên
+- mất màu nhuộm protein 1 liên quan đến BRCA.
+
+### Thay đổi nhiễm sắc thể trong u hắc tố mắt
+Những tiến bộ trong việc phát hiện [những thay đổi di truyền ở bệnh ung thư hắc tố](https://dermnetnz.org/topics/genetics-of-melanoma) cho phép chẩn đoán các khối u có khả năng di căn cao.
+- Đột biến BRAF thường gặp ở u hắc tố mống mắt (giống như u hắc tố da) nhưng cực kỳ hiếm gặp ở các loại u hắc tố màng bồ đào khác.
+- Đột biến GNA11 hoặc GNAQ được tìm thấy ở 80-85% u hắc tố màng bồ đào và là những biến cố sớm trong quá trình phát triển của u hắc tố không phải da. Sự hiện diện của những đột biến này không có giá trị tiên lượng cho khả năng di căn sau này. Đột biến GNAQ/GNA11 cũng được phát hiện trong bệnh tăng sản hắc tố mắt, [nốt ruồi xanh](https://dermnetnz.org/topics/blue-naevus) và [nốt ruồi Ota](https://dermnetnz.org/topics/naevus-of-ota-ito-hori) .[4,5]
+- [Đột biến ở protein-1 liên kết BRCA1](https://dermnetnz.org/topics/germline-bap1-mutation) (BAP-1) và tiểu đơn vị 1 của yếu tố ghép nối 3B (SF3B1) xảy ra muộn hơn trong quá trình tiến triển của bệnh. Sự hiện diện của đột biến BAP-1 có liên quan chặt chẽ với bệnh di căn. Kết quả khả quan hơn có liên quan đến sự hiện diện của đột biến SF3B1.
+Những biến đổi di truyền liên quan đến tiên lượng kém hơn ở bệnh u hắc tố màng bồ đào bao gồm:
+- [Vô hiệu hóa protein-1 liên quan đến BRCA1](https://dermnetnz.org/topics/germline-bap1-mutation) (BAP1);
+- Mất một bản sao của nhiễm sắc thể số 3 (Monosomy 3) sau đó, làm giảm 50% khả năng sống sót sau 5 năm;
+- Tăng thêm nhiễm sắc thể số 8.
+Sự gia tăng nhiễm sắc thể 6p có liên quan đến tiên lượng tốt hơn và có thể có tác dụng trì hoãn hoặc ngăn ngừa mất nhiễm sắc thể 3.
+
+---
+
+## Những xét nghiệm nào được thực hiện để phát hiện bệnh u hắc tố mắt?
+
+Việc lựa chọn xét nghiệm nào phụ thuộc vào biểu hiện lâm sàng và những xét nghiệm hiện có. Chúng có thể bao gồm:
+- Chụp ảnh đáy mắt
+- Siêu âm mắt
+- Sinh thiết khối u
+- Chụp CT mắt và não
+- Siêu âm gan
+- Chụp PET -CT.
+
+---
+
+## Phương pháp điều trị bệnh u hắc tố mắt là gì?
+
+Các phương pháp điều trị tại chỗ cho bệnh u hắc tố mắt đã được cải thiện, với khả năng bảo tồn mô mắt bình thường ngày càng tăng, tuy nhiên tỷ lệ sống sót vẫn không thay đổi.
+
+### U ác tính màng bồ đào
+Xạ trị mảng bám
+- Hạt phóng xạ (thường là Iodine-125) chứa trong một đĩa nhỏ hoặc mảng bám được đặt lên mặt ngoài của mắt, nằm trên khối u. Sau vài ngày, mảng bám sẽ được loại bỏ.
+Phẫu thuật cắt bỏ
+- Phẫu thuật cắt mống mắt
+- Cắt màng mạch
+- Cắt bỏ nhãn cầu (loại bỏ mắt bị ảnh hưởng) nếu khối u dày hơn 8 mm hoặc lan rộng vào hốc mắt
+Khác
+- Quang trị liệu/nhiệt trị liệu xuyên đồng tử: tia laser hồng ngoại làm nóng khối u vài độ để phá vỡ quá trình chuyển hóa tế bào . Phương pháp điều trị này thường được sử dụng kết hợp với xạ trị để giảm tỷ lệ tái phát tại chỗ.
+- Xạ trị bằng chùm tia proton ngoài có thể mang lại tỷ lệ kiểm soát tại chỗ cao, tuy nhiên cũng có thể gây mất thị lực đáng kể.
+- Phẫu thuật xạ trị định vị bằng dao gamma .
+
+### U hắc tố kết mạc
+U hắc tố kết mạc được điều trị bằng cách:
+- cắt bỏ cục bộ rộng rãi , và;
+- liệu pháp bổ trợ , chẳng hạn như xạ trị gần, liệu pháp lạnh hoặc sử dụng thuốc hóa trị tại chỗ .
+
+### U hắc tố mắt di căn
+Tiên lượng ở những bệnh nhân bị di căn vẫn còn kém. Các lựa chọn điều trị di căn từ u hắc tố mắt có thể bao gồm:
+- Hóa trị sử dụng melphalan tiêm trực tiếp vào di căn gan
+- Phẫu thuật cắt bỏ phần gan bị ảnh hưởng
+- [Liệu pháp miễn dịch Ipilumumab](https://dermnetnz.org/topics/ipilimumab) . Kháng thể đơn dòng này ngăn chặn kháng nguyên trên tế bào lympho T gây độc để hệ thống miễn dịch có thể nhắm mục tiêu vào các tế bào ung thư hắc tố.
+- Liệu pháp xạ trị nội chọn lọc , bao gồm truyền các hạt yttrium phóng xạ vào gan, nơi chúng tích tụ trong các tế bào ung thư hắc tố.
+
+---
+
+## Quá trình theo dõi bệnh ung thư hắc tố mắt diễn ra như thế nào?
+
+Sau khi điều trị khối u nguyên phát, việc theo dõi thường xuyên là rất quan trọng để kiểm tra tình trạng tái phát tại chỗ hoặc di căn toàn thân .
+Vì gan là vị trí đầu tiên phổ biến nhất của sự lây lan toàn thân nên gan thường là mục tiêu của các cuộc điều tra theo dõi như xét nghiệm chức năng gan, siêu âm bụng và chụp cộng hưởng từ bụng ( MRI ).
+
+---
+
+## Triển vọng của bệnh nhân mắc bệnh u hắc tố mắt là gì?
+
+Thật không may, ung thư hắc tố di căn vẫn là nguyên nhân gây tử vong hàng đầu ở bệnh nhân ung thư hắc tố mắt. Mức độ lan rộng toàn thân và gánh nặng khối u quyết định thời gian sống trung bình sau khi phát hiện di căn gan.

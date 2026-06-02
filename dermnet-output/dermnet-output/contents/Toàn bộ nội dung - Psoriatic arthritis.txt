@@ -1,0 +1,209 @@
+# Viêm khớp vảy nến — thông tin bổ sung
+
+Thể loại:
+
+Bệnh hệ thống, Tự miễn/tự viêm
+
+SNOMED CT:
+
+156370009, 10629311000119107, 239812005, 200956002, 239813000, 359643005
+
+**[Bệnh hệ thống, Tự miễn/tự viêm](https://dermnetnz.org/topics/topics?category=Systemic+diseases)**
+
+
+# **Viêm khớp vẩy nến**
+
+Tác giả: Tiến sĩ Amy Stanway, Chuyên viên đăng ký da liễu, Bệnh viện Waikato, 2005. Cập nhật bởi Tiến sĩ Shivani Fox-Lewis, Chuyên viên đăng ký bệnh thấp khớp, Tiến sĩ Eileen McManus, Chuyên viên đăng ký bệnh thấp khớp, Tiến sĩ Douglas White, Bác sĩ chuyên khoa thấp khớp; Hội đồng Y tế Quận Waikato. Tháng 6 năm 2019.
+
+---
+
+## Viêm khớp vảy nến là gì?
+
+Viêm khớp vảy nến là tình trạng viêm đau ở các khớp có thể xảy ra ở 30% bệnh nhân bị [vảy nến](https://dermnetnz.org/topics/psoriasis) .
+
+---
+
+## Ai bị viêm khớp vảy nến?
+
+Viêm khớp vảy nến có tỷ lệ mắc khoảng 6/100.000 người mỗi năm và tỷ lệ lưu hành khoảng 1–2/1000 người trong dân số nói chung. Ước tính tỷ lệ lưu hành viêm khớp vảy nến ở bệnh nhân [vảy nến](https://dermnetnz.org/topics/psoriasis) dao động từ 4 đến 30%. Ở hầu hết bệnh nhân, viêm khớp xuất hiện 10 năm sau khi xuất hiện những dấu hiệu đầu tiên của bệnh vảy nến da. Các dấu hiệu đầu tiên của viêm khớp vảy nến thường xuất hiện ở độ tuổi từ 30 đến 50. Trong khoảng 13–17% trường hợp, viêm khớp xuất hiện trước bệnh ngoài da.
+Cả nam và nữ đều bị ảnh hưởng như nhau. Các triệu chứng của viêm khớp vảy nến có thể xuất hiện rồi biến mất nhưng đây là tình trạng bệnh lý suốt đời và thường tiến triển.
+Những bệnh nhân bị bệnh vẩy nến có nhiều khả năng bị viêm khớp bao gồm những người có các đặc điểm sau:
+- [Bệnh vẩy nến móng tay](https://dermnetnz.org/topics/nail-psoriasis)
+- [Vảy nến ở nếp gấp](https://dermnetnz.org/topics/flexural-psoriasis) , [vảy nến da đầu](https://dermnetnz.org/topics/scalp-psoriasis) hoặc vảy nến sau tai
+- Béo phì
+- [Người hút thuốc](https://dermnetnz.org/topics/smoking-and-its-effects-on-the-skin)
+- Protein C phản ứng ( CRP ) tăng cao ở mức cơ bản.
+
+---
+
+## Phân loại viêm khớp vẩy nến
+
+Viêm khớp vảy nến là một dạng [viêm cột](https://dermnetnz.org/topics/spondyloarthropathy) sống dính khớp . Viêm cột sống dính khớp là một thuật ngữ chung dùng để mô tả một nhóm các rối loạn, bao gồm viêm cột sống dính khớp, viêm cột sống dính khớp trục không có hình ảnh X-quang , viêm khớp vảy nến, [viêm khớp phản ứng](https://dermnetnz.org/topics/reactive-arthropathy) , viêm khớp ruột và viêm cột sống dính khớp không phân biệt. Các dạng viêm cột sống dính khớp khác nhau này có chung một số đặc điểm lâm sàng:
+- Viêm khớp trục (đặc biệt là khớp cùng chậu)
+- Viêm khớp không đối xứng (đặc biệt là ở các chi dưới)
+- [Viêm ngón tay](https://dermnetnz.org/topics/dactylitis) : 'ngón tay hoặc ngón chân sưng to trông giống như xúc xích'
+- Viêm gân : đau và sưng ở vị trí bám gân và dây chằng, thường ở gót chân, củ xương chày và xương cánh tay; tình trạng này ảnh hưởng đến 53% bệnh nhân bị viêm khớp vảy nến
+- Yếu tố dạng thấp âm tính
+- HLA -B27 dương tính: HLA-B27 là một protein đặc hiệu liên quan đến điều hòa miễn dịch. 57% bệnh nhân viêm khớp vảy nến có tổn thương trục dương tính với HLA-B27.
+- Yếu tố di truyền dễ mắc bệnh/tiền sử gia đình
+- Đặc điểm phóng xạ đặc biệt .
+
+---
+
+## Nguyên nhân gây ra bệnh viêm khớp vảy nến là gì?
+
+Các yếu tố chính góp phần gây ra bệnh viêm khớp vảy nến là yếu tố di truyền , yếu tố miễn dịch và môi trường.
+
+### Khuynh hướng di truyền
+Tương tự như [bệnh vẩy nến](https://dermnetnz.org/topics/psoriasis) da, nhiều bệnh nhân bị viêm khớp vẩy nến có thể có yếu tố di truyền . Một nghiên cứu trên các cặp song sinh cho thấy viêm khớp phổ biến ở cả hai cặp song sinh khác trứng (dizygotic) và cùng trứng (monozygotic), do đó các yếu tố môi trường chưa được biết đến cũng có thể đóng vai trò quan trọng. Họ hàng cấp độ một của bệnh nhân bị viêm khớp vẩy nến có nguy cơ mắc viêm khớp vẩy nến cao gấp 50 lần so với dân số nói chung. Hiện vẫn chưa rõ liệu điều này chỉ do bệnh vẩy nến di truyền hay còn do một yếu tố di truyền đặc biệt nào khác gây viêm khớp.
+
+### Các yếu tố miễn dịch
+Viêm khớp vảy nến xảy ra do sự tương tác bất thường giữa hệ miễn dịch và khớp. Người bị viêm khớp vảy nến dường như có hệ miễn dịch hoạt động quá mức, biểu hiện bằng sự gia tăng các dấu hiệu viêm, tăng kháng thể và tăng tế bào lympho T.
+Tế bào T hoạt hóa (đặc biệt là tế bào T CD8+) thường được tìm thấy trong da và khớp của bệnh nhân viêm khớp vảy nến. Một số nghiên cứu đã chứng minh rằng các cytokine tiền viêm tiết ra từ tế bào T hoạt hóa (đặc biệt là yếu tố hoại tử khối u alpha ( TNF -α), IL-17, IL-18 và IL-23) kích thích sự tăng sinh và hoạt hóa các nguyên bào sợi biểu bì và hoạt dịch . Các tế bào CD8+, IL-17+, tế bào diệt tự nhiên (NK) và tế bào lympho bẩm sinh (ILC3) hiện diện với nồng độ cao trong dịch hoạt dịch và các tổn thương da ở bệnh nhân viêm khớp vảy nến.
+
+### Môi trường
+Các yếu tố môi trường liên quan đến quá trình sinh bệnh của viêm khớp vảy nến bao gồm nhiễm trùng ( nhiễm khuẩn như [liên cầu khuẩn](https://dermnetnz.org/topics/streptococcal-skin-infections) và Borrelia burgdorferi , nguyên nhân gây [bệnh Lyme](https://dermnetnz.org/topics/lyme-disease) ; và [nhiễm vi-rút](https://dermnetnz.org/topics/viral-skin-infections) như [rubella](https://dermnetnz.org/topics/rubella) ), chấn thương ( [hiện tượng Koebner](https://dermnetnz.org/topics/the-koebner-phenomenon) ), chuyển đến nhà mới, [loét miệng](https://dermnetnz.org/topics/mouth-ulcer) tái phát , béo phì và gãy xương. [](https://dermnetnz.org/topics/mouth-ulcer)
+Một mối liên hệ nghịch đảo với [việc hút thuốc](https://dermnetnz.org/topics/smoking-and-its-effects-on-the-skin) cũng đã được báo cáo ở những bệnh nhân âm tính với alen HLA-C*06 .
+
+---
+
+## Các dấu hiệu và triệu chứng của bệnh viêm khớp vảy nến là gì?
+
+![Viêm khớp vẩy nến](https://dermnetnz.org/assets/Uploads/scaly/ps-arth2.jpg)
+![Viêm khớp vẩy nến](https://dermnetnz.org/assets/Uploads/scaly/ps-arth1.jpg)
+![Viêm khớp vẩy nến](https://dermnetnz.org/assets/Uploads/scaly/ps-arth3.jpg)
+
+### Biểu hiện khớp
+Có 5 kiểu chính về sự tham gia của khớp:
+- Viêm khớp xa
+- Viêm khớp không đối xứng (60%)
+- Viêm đa khớp đối xứng
+- Viêm cột sống dính khớp (liên quan trục)
+- Viêm khớp hoại tử (5%).
+Các khớp lớn và nhỏ đều có thể bị ảnh hưởng.
+- Tổn thương liên đốt xa là dấu hiệu đặc trưng của viêm khớp vảy nến và có thể khó phân biệt với viêm xương khớp.
+- Các triệu chứng bao gồm đau khớp, sưng và cứng khớp.
+- Các vấn đề cụ thể bao gồm khó khăn khi sử dụng tay, đứng trong thời gian dài và đi bộ.
+- Viêm khớp vảy nến có thể gây tổn thương nghiêm trọng cho các khớp và có thể nghiêm trọng như viêm khớp dạng thấp.
+
+### Bệnh vẩy nến móng tay
+Tổn thương móng xảy ra ở 90% bệnh nhân viêm khớp vảy nến. Mức độ nghiêm trọng của tổn thương móng vảy nến có thể tương quan với mức độ và mức độ nghiêm trọng của cả bệnh lý da và khớp. [Loạn dưỡng móng vảy nến](https://dermnetnz.org/topics/nail-psoriasis) có thể khó phân biệt với [nhiễm nấm móng](https://dermnetnz.org/topics/fungal-nail-infections) . Các đặc điểm đặc trưng bao gồm:
+- Rỗ móng: các vết lõm được xác định trên phiến móng do các tế bào phiến móng bị bong ra
+- Bong móng : móng tách khỏi nền móng
+- Tăng sừng hóa nền móng xa
+- [Xuất huyết do mảnh dằm](https://dermnetnz.org/topics/splinter-haemorrhage) .
+
+### Các đặc điểm khác của viêm khớp vẩy nến
+- Viêm gân
+- Viêm ngón tay
+- Mệt mỏi
+- Loét miệng
+Các bệnh đi kèm liên quan đến viêm khớp vảy nến bao gồm:
+- Liên quan đến mắt : viêm màng bồ đào (7%) và viêm kết mạc (20%).
+- Bệnh tim mạch
+- Bệnh viêm ruột
+- Hội chứng chuyển hóa
+- Tăng huyết áp
+- Bệnh tiểu đường
+- Xơ vữa động mạch
+- Trầm cảm và lo âu.
+
+---
+
+## Bệnh vẩy nến da có liên quan gì đến bệnh này?
+
+Những người bị viêm khớp vảy nến thường có một số dấu hiệu trên da theo thời gian.
+Viêm khớp vảy nến phát triển sau vảy nến da ở khoảng 75% bệnh nhân. Những bệnh nhân còn lại có thể khởi phát đồng thời vảy nến da và khớp (10%) hoặc các triệu chứng ở khớp xuất hiện trước bất kỳ vấn đề nào về da (15%). Mức độ nghiêm trọng của bệnh da không dự đoán được mức độ nghiêm trọng của bệnh khớp.
+[Vảy nến mảng bám](https://dermnetnz.org/topics/chronic-plaque-psoriasis) là dạng vảy nến da phổ biến nhất thường gặp ở viêm khớp vảy nến. Các triệu chứng ở khớp có thể trầm trọng hơn do bệnh vảy nến da bùng phát, nhưng thông thường các triệu chứng ở da không liên quan đến triệu chứng ở khớp. Hầu hết những người bị viêm khớp vảy nến đều bị vảy nến nhẹ.
+
+---
+
+## Viêm khớp vảy nến được chẩn đoán như thế nào?
+
+Chẩn đoán viêm khớp vảy nến dựa trên các triệu chứng, khám da và khớp, và kết quả chụp X-quang tương thích. Việc chẩn đoán viêm khớp vảy nến có thể khó khăn do biểu hiện lâm sàng đa dạng. Viêm khớp vảy nến có thể biểu hiện bằng viêm gân, viêm điểm bám gân hoặc viêm ngón tay, thay vì sưng khớp.
+Các phát hiện trên phim X-quang đặc trưng của bệnh viêm khớp vảy nến bao gồm:
+- Những thay đổi ảnh hưởng đến các khớp ở đầu ngón tay và ngón chân
+- Sự liên quan của khớp không đối xứng (đặc biệt là khớp cùng chậu)
+- Xói mòn : Sự phá hủy xương và sụn liền kề với các khoảng khớp
+- Biến dạng “bút chì trong cốc” : là kết quả của tình trạng xói mòn quanh khớp và tiêu xương, tạo nên hình dạng giống như một cây bút chì trong cốc.
+- Trật khớp bán phần: sự trượt khỏi vị trí thẳng hàng của khớp
+- Dính khớp: sự hợp nhất của các xương với nhau qua không gian khớp
+- Các phần xương mọc ra thưa thớt và dày đặc xung quanh các khớp (tương ứng là 'râu ria' và 'cựa')
+- Tăng lắng đọng muối canxi xung quanh điểm bám của dây chằng và gân vào xương và các đặc điểm khác của bệnh lý gân.
+- Đốt xương ngà : mật độ tia X của toàn bộ đốt xương tăng lên do sự hình thành xương màng xương và xương nội cốt.
+
+### Chụp X-quang trong viêm khớp vảy nến
+![AP Chậu](https://dermnetnz.org/assets/Uploads/ap-pelvis-psa.JPG)
+![Tay phải](https://dermnetnz.org/assets/Uploads/r-hand-psa.JPG)
+![Tay trái](https://dermnetnz.org/assets/Uploads/l-hand-psa.JPG)
+Các tình trạng khác có kết quả lâm sàng và X-quang tương tự như viêm khớp vảy nến bao gồm:
+- Viêm khớp dạng thấp
+- [Bệnh gout](https://dermnetnz.org/topics/gout)
+- Viêm xương khớp
+- [Viêm khớp phản ứng](https://dermnetnz.org/topics/reactive-arthropathy)
+- [Viêm cột sống dính khớp](https://dermnetnz.org/topics/spondyloarthropathy) .
+MRI và siêu âm cũng có thể hỗ trợ chẩn đoán bằng cách xác định tình trạng viêm gân, viêm gân và viêm dây chằng.
+Không có xét nghiệm máu chẩn đoán bệnh viêm khớp vảy nến nhưng có thể thực hiện các xét nghiệm để giúp xác nhận chẩn đoán và loại trừ các nguyên nhân khác.
+- Các dấu hiệu viêm, ESR ( tốc độ lắng hồng cầu ) và CRP, có thể phản ánh mức độ nghiêm trọng của tình trạng viêm ở khớp.
+- Yếu tố dạng thấp thường âm tính nhưng có thể dương tính ở 10% bệnh nhân bị viêm khớp vảy nến.
+- Anti-CCP ( anti- cyclic citrullinated peptide ) thường có kết quả âm tính nhưng có thể có kết quả dương tính ở 7% bệnh nhân bị viêm khớp vảy nến.
+- Xét nghiệm HLA-B27
+Tiêu chuẩn phân loại, chẳng hạn như tiêu chuẩn CASPAR, chủ yếu được sử dụng cho mục đích nghiên cứu. Một số bảng câu hỏi sàng lọc cũng đã được phát triển, chẳng hạn như Bảng sàng lọc Viêm khớp vảy nến Toronto (ToPAS2), để giúp xác định bệnh nhân bị viêm khớp vảy nến.
+
+---
+
+## Có phương pháp điều trị nào cho bệnh viêm khớp vảy nến?
+
+Một số phương pháp điều trị bệnh vẩy nến khớp cũng có hiệu quả đối với bệnh vẩy nến da, do đó, phác đồ điều trị có thể tính đến cả bệnh về da và khớp.
+Nguyên tắc điều trị bao gồm điều trị sớm và tích cực để ngăn ngừa biến dạng khớp và bệnh tật phát sinh. Việc lựa chọn phương pháp điều trị phụ thuộc vào biểu hiện bệnh (mô hình tổn thương khớp, mức độ tổn thương khớp so với da, tổn thương không liên quan đến khớp) cùng với các yếu tố về an toàn (liên quan đến bệnh lý đi kèm), khả năng dung nạp và sở thích của bệnh nhân.
+Các chiến lược quản lý không dùng thuốc rất quan trọng; bao gồm vật lý trị liệu và liệu pháp nghề nghiệp, tập thể dục, kê đơn chỉnh hình, và giáo dục về bệnh, về bảo vệ khớp, quản lý bệnh và sử dụng thuốc hợp lý. Bệnh nhân nên được hỗ trợ giảm cân và kiểm soát các yếu tố nguy cơ tim mạch và các bệnh lý đi kèm khác.
+Nhìn chung, phương pháp điều trị dược lý theo từng bước được áp dụng:
+
+### Bước một
+Nếu viêm khớp nhẹ và chỉ giới hạn ở một vài khớp và bệnh về da không nghiêm trọng, da sẽ được điều trị bằng liệu pháp tại chỗ hoặc [liệu pháp quang học](https://dermnetnz.org/topics/phototherapy) và bệnh về khớp sẽ được kiểm soát bằng cách giảm đau ( thuốc chống viêm không steroid , chườm nóng và chườm đá) và có thể tiêm corticosteroid vào khớp.
+
+### Bước hai
+Thuốc chống thấp khớp không sinh học làm thay đổi bệnh (DMARD) giúp cải thiện các triệu chứng đau và cứng khớp, nhưng chưa có loại nào được chứng minh là có thể ngăn ngừa tổn thương khớp tiến triển và tất cả đều có khả năng gây ra tác dụng phụ nghiêm trọng. Các loại thuốc sau đây có tác dụng có lợi đối với bệnh khớp và bệnh vẩy nến:
+- [Methotrexate](https://dermnetnz.org/topics/methotrexate)
+- [Ciclosporin](https://dermnetnz.org/topics/ciclosporin)
+- [Leflunomide](https://dermnetnz.org/topics/leflunomide)
+- [Apremilast](https://dermnetnz.org/topics/apremilast) .
+Steroid toàn thân có thể giúp điều trị viêm khớp nhưng thường có thể gây bùng phát bệnh vẩy nến khi giảm liều hoặc ngừng thuốc.
+
+### Bước ba
+[Thuốc ức chế TNF-alpha](https://dermnetnz.org/topics/tumour-necrosis-factor-inhibitors) sinh học [](https://dermnetnz.org/topics/tumour-necrosis-factor-inhibitors)
+[Các chất điều chỉnh phản ứng sinh học](https://dermnetnz.org/topics/biologics) được cấp phép sử dụng trong viêm khớp vảy nến là:
+- [Adalimumab](https://dermnetnz.org/topics/adalimumab-for-psoriasis)
+- [Etanercept](https://dermnetnz.org/topics/etanercept-for-psoriasis)
+- [Infliximab](https://dermnetnz.org/topics/infliximab-for-psoriasis)
+- Golimumab.
+
+### Bước bốn
+Các tác nhân khác đang được điều tra hoặc có sẵn bao gồm:
+- Abatacept: (CTLA4-Ig) một chất điều biến đồng kích thích tế bào T có chọn lọc
+- [Tofacitinib :](https://dermnetnz.org/topics/tofacitinib) chất ức chế Janus kinase (JAK1 và 3)
+- [Secukinumab](https://dermnetnz.org/topics/secukinumab) , [brodalumab](https://dermnetnz.org/topics/brodalumab) , [ixekizumab](https://dermnetnz.org/topics/ixekizumab) : liệu pháp kháng IL-17
+- [Ustekinumab](https://dermnetnz.org/topics/ustekinumab-for-psoriasis) : kháng thể đơn dòng của con người đối với tiểu đơn vị p40 chung của IL-13 và IL-23
+- Filgotinib: chất ức chế JAK1
+- [Guselkumab](https://dermnetnz.org/topics/guselkumab) : kháng thể đơn dòng kháng leukin (IL)-23
+- [Upadacitinib](https://dermnetnz.org/topics/upadacitinib) : Thuốc ức chế JAK.
+
+### Bước năm
+Trong một số trường hợp, bệnh khớp có thể cần phải phẫu thuật chỉnh hình .
+
+---
+
+## Tiên lượng lâu dài của bệnh viêm khớp vảy nến là gì?
+
+Hầu hết những người bị viêm khớp vảy nến sẽ phải chịu đựng các vấn đề viêm khớp dai dẳng trong suốt quãng đời còn lại. Tình trạng thuyên giảm bệnh rất hiếm gặp; chỉ xảy ra ở dưới 20% số bệnh nhân, trong đó dưới 10% số bệnh nhân có tình trạng thuyên giảm hoàn toàn sau khi ngừng dùng tất cả các loại thuốc mà không có dấu hiệu tổn thương khớp trên phim chụp X-quang. Những người bị viêm khớp vảy nến nặng được báo cáo là có tuổi thọ ngắn hơn mức trung bình.
+Các đặc điểm liên quan đến tiên lượng tương đối tốt là:
+- Giới tính nam
+- Ít khớp bị ảnh hưởng
+- Tình trạng chức năng tốt khi trình bày
+- Đã thuyên giảm các triệu chứng trước đó.
+Các đặc điểm liên quan đến tiên lượng xấu bao gồm:
+- ESR > 15 mm/giờ hoặc CRP tăng khi khám
+- Thất bại của các thử nghiệm thuốc trước đó
+- Không có sự thay đổi ở móng tay
+- Tổn thương khớp (lâm sàng hoặc chụp X-quang)
+- Tình trạng dương tính với HLA-B27-, -B39- hoặc -DQw3.

@@ -1,0 +1,112 @@
+# Pemphigoid thai kỳ — thông tin bổ sung
+
+Thể loại:
+
+Tự miễn/tự viêm
+
+SNOMED CT:
+
+86081009
+
+**[Tự miễn/tự viêm](https://dermnetnz.org/topics/topics?category=Autoimmune/autoinflammatory)**
+
+
+# **Pemphigoid thai kỳ**
+
+Tác giả: Vanessa Ngan, Biên tập viên, 2003. Cập nhật: Bác sĩ Amy Stanway, Bác sĩ Da liễu, Tauranga, New Zealand. Biên tập bởi Gus Mitchell. Tháng 9 năm 2021.
+
+---
+
+## Bệnh pemphigoid thai kỳ là gì?
+
+Bệnh pemphigoid thai kỳ là một [tình trạng da phồng rộp](https://dermnetnz.org/topics/blistering-skin-conditions) tự miễn hiếm gặp liên quan đến [thai kỳ](https://dermnetnz.org/topics/skin-changes-in-pregnancy) . [](https://dermnetnz.org/topics/blistering-skin-conditions)
+![Không có caption](https://dermnetnz.org/assets/Uploads/immune/pemgest1.jpg)
+![Không có caption](https://dermnetnz.org/assets/collection/Pemphigoid-gestationis/pemphigoid-gestationis-00017.jpg)
+![Không có caption](https://dermnetnz.org/assets/collection/Pemphigoid-gestationis/pemphigoid-gestationis-00019.jpg)
+
+---
+
+## Ai mắc bệnh pemphigoid thai kỳ?
+
+Bệnh pemphigoid thai kỳ ảnh hưởng đến phụ nữ thuộc mọi chủng tộc trong thời kỳ mang thai hoặc ngay sau khi sinh. Độ tuổi khởi phát trung bình là 26–32 tuổi (dao động từ 17–41 tuổi). Bệnh có thể phát triển trong lần mang thai đầu tiên hoặc xuất hiện lần đầu ở phụ nữ sinh nhiều con .
+Bệnh pemphigoid thai kỳ xảy ra ở khoảng 1/50.000 ca mang thai. Bệnh hiếm khi xuất hiện kết hợp với các khối u nuôi dưỡng như ung thư biểu mô màng đệm hoặc chửa trứng.
+Bệnh pemphigoid thai kỳ thường phát triển trong tam cá nguyệt thứ hai và thứ ba của thai kỳ hoặc ngay sau sinh . Bệnh có thể khởi phát sớm hơn ở những lần mang thai tiếp theo.
+
+---
+
+## Nguyên nhân gây ra bệnh pemphigoid thai kỳ là gì?
+
+Bệnh pemphigoid thai kỳ là một [bệnh tự miễn](https://dermnetnz.org/topics/autoimmune-diseases-in-dermatology) , có nghĩa là hệ thống miễn dịch của phụ nữ tấn công vào một thành phần bình thường trên da của chính họ.
+Trong bệnh pemphigoid thai kỳ, yếu tố PG, một loại immunoglobulin G ( IgG ) đặc hiệu trong máu, liên kết với protein BP-180 nằm trong màng đáy của da, gây tổn thương mô và phồng rộp. Chức năng thông thường của BP-180 là giúp lớp biểu bì và lớp hạ bì dính chặt vào nhau, do đó vết nứt phồng rộp nằm ở màng đáy [xem [Cấu trúc da bình thường](https://dermnetnz.org/topics/the-structure-of-normal-skin) ].
+Protein BP-180 cũng được tìm thấy trong nhau thai. Dường như chính nhau thai, chứ không phải da, kích hoạt phản ứng tự miễn dịch trong bệnh pemphigoid thai kỳ, điều này giải thích tại sao tình trạng này bắt đầu trong thai kỳ.
+Bệnh pemphigoid thai kỳ có liên quan chặt chẽ với các haplotype kháng nguyên MHC lớp II của mẹ là HLA -DR3 và HLA-DR4. Giống như các bệnh tự miễn khác, bệnh pemphigoid thai kỳ có liên quan đến việc tăng nguy cơ mắc các bệnh tự miễn đặc hiệu cơ quan khác, đặc biệt là bệnh Graves [xem [Phù niêm trước xương chày](https://dermnetnz.org/topics/pretibial-myxoedema) ].
+
+---
+
+## Các đặc điểm lâm sàng của bệnh pemphigoid thai kỳ là gì?
+
+Bệnh pemphigoid thai kỳ thường biểu hiện bằng phát ban ngứa dữ dội giống như [mề đay](https://dermnetnz.org/topics/urticaria-an-overview) vào giữa đến cuối thai kỳ (tuần thứ 13–40 của thai kỳ ).
+- Ban đầu, xung quanh rốn xuất hiện những nốt đỏ ngứa.
+- Trong vòng vài ngày đến vài tuần, phát ban sẽ lan sang các vùng khác trên cơ thể, bao gồm thân mình, mông và cánh tay. Mặt, da đầu, lòng bàn tay, lòng bàn chân và niêm mạc thường không bị ảnh hưởng.
+- Sau 2-4 tuần, các mụn nước lớn, căng, chứa đầy dịch màu vàng trong có thể hình thành. Một số bệnh nhân có thể không có mụn nước mà chỉ có các mảng da bị viêm.
+
+### Phân bố phát ban ở bệnh pemphigoid thai kỳ
+![Không có caption](https://dermnetnz.org/assets/collection/Pemphigoid-gestationis/pemphigoid-gestationis-00018.jpg)
+![Không có caption](https://dermnetnz.org/assets/collection/Pemphigoid-gestationis/pemphigoid-gestationis-00020.jpg)
+![Không có caption](https://dermnetnz.org/assets/collection/Pemphigoid-gestationis/pemphigoid-gestationis-00003.jpg)
+
+### Đặc điểm của phát ban pemphigoid thai kỳ
+![Không có caption](https://dermnetnz.org/assets/Uploads/pemgest6.jpg)
+![Không có caption](https://dermnetnz.org/assets/collection/Pemphigoid-gestationis/pemphigoid-gestationis-00004.jpg)
+![Không có caption](https://dermnetnz.org/assets/collection/Pemphigoid-gestationis/pemphigoid-gestationis-00009.jpg)
+
+### Bệnh pemphigoid thai kỳ ở da màu
+![Không có caption](https://dermnetnz.org/assets/collection/Pemphigoid-gestationis/pemphigoid-gestationis-00025.jpg)
+![Không có caption](https://dermnetnz.org/assets/collection/Pemphigoid-gestationis/pemphigoid-gestationis-00002.jpg)
+![Không có caption](https://dermnetnz.org/assets/collection/Pemphigoid-gestationis/pemphigoid-gestationis-00023.jpg)
+
+---
+
+## Biến chứng của bệnh pemphigoid thai kỳ là gì?
+
+- Sinh non hoặc trẻ sinh ra nhỏ so với tuổi thai — nguy cơ này tương quan với mức độ nghiêm trọng của bệnh pemphigoid ở thai kỳ.
+- Sự truyền yếu tố PG từ mẹ sang thai nhi qua nhau thai gây ra tình trạng phồng rộp thoáng qua ở trẻ sơ sinh ở khoảng 10% trường hợp mang thai bị ảnh hưởng. Tình trạng phồng rộp ở trẻ sơ sinh sẽ tự khỏi khi kháng thể từ mẹ đào thải tự nhiên (3–4 tháng).
+- Nhiễm trùng thứ phát do [vi khuẩn ở da](https://dermnetnz.org/topics/bacterial-skin-infections) , có thể để lại sẹo.
+
+---
+
+## Bệnh pemphigoid thai kỳ được chẩn đoán như thế nào?
+
+Pemphigoid thai kỳ thường được chẩn đoán lâm sàng khi các triệu chứng điển hình, nhưng ở giai đoạn đầu, bệnh có thể không phân biệt được với các đợt phát ban thai kỳ khác. Có thể cần xét nghiệm máu và [sinh thiết da .](https://dermnetnz.org/topics/skin-biopsy)
+- Mô học — thâm nhiễm viêm quanh mạch máu ở da , mụn nước dưới biểu bì
+- [Miễn dịch huỳnh quang trực tiếp](https://dermnetnz.org/topics/direct-immunofluorescence) — nhuộm C3 tuyến tính dọc theo đường nối hạ bì - biểu bì xuất hiện trong tất cả các trường hợp. Nhuộm da bị bong tróc do muối cho thấy kháng thể tập trung ở đỉnh mụn nước (mặt biểu bì).
+- Xét nghiệm máu — [miễn dịch huỳnh quang gián tiếp](https://dermnetnz.org/topics/indirect-immunofluorescence) để tìm kháng thể tự động lưu hành có thể được sử dụng để phân biệt bệnh pemphigoid thai kỳ với các bệnh lý phồng rộp tự miễn khác
+
+---
+
+## Chẩn đoán phân biệt bệnh pemphigoid thai kỳ là gì?
+
+- [Phát ban đa hình của thai kỳ](https://dermnetnz.org/topics/polymorphic-eruption-of-pregnancy)
+- [Bệnh vẩy nến mủ ở phụ nữ mang thai](https://dermnetnz.org/topics/pustular-psoriasis-of-pregnancy)
+- [Bọng nước dạng pemphigus](https://dermnetnz.org/topics/bullous-pemphigoid)
+- [Ly thượng bì bọng nước mắc phải](https://dermnetnz.org/topics/epidermolysis-bullosa-acquisita)
+
+---
+
+## Phương pháp điều trị bệnh pemphigoid thai kỳ là gì?
+
+Mục đích của việc điều trị bệnh pemphigoid thai kỳ là giảm ngứa, ngăn ngừa hình thành mụn nước và điều trị nhiễm trùng thứ phát.
+- [Steroid tại chỗ](https://dermnetnz.org/topics/topical-steroid) được sử dụng trong trường hợp bệnh nhẹ, trong khi [corticosteroid toàn thân](https://dermnetnz.org/topics/systemic-steroids) là cần thiết trong trường hợp bệnh nặng hơn. Nên sử dụng liều tối thiểu có hiệu quả để giảm nguy cơ tác dụng phụ cho cả mẹ và thai nhi. Khi bệnh cải thiện, thường có thể giảm liều, nhưng nên tăng liều kịp thời để ngăn ngừa bùng phát sau sinh.
+- [Thuốc kháng histamine](https://dermnetnz.org/topics/antihistamines) đường uống có thể được sử dụng để giảm ngứa.
+- Nếu không đáp ứng với corticosteroid đường uống , phương pháp điều trị thứ ba bao gồm: [Azathioprine](https://dermnetnz.org/topics/azathioprine-and-mercaptopurine) , [ciclosporin](https://dermnetnz.org/topics/ciclosporin) [Globulin miễn dịch tiêm tĩnh mạch](https://dermnetnz.org/topics/intravenous-immunoglobulin) , [lọc huyết tương](https://dermnetnz.org/topics/plasmapheresis-for-skin-disease) .
+- [Azathioprine](https://dermnetnz.org/topics/azathioprine-and-mercaptopurine) , [ciclosporin](https://dermnetnz.org/topics/ciclosporin)
+- [Globulin miễn dịch tiêm tĩnh mạch](https://dermnetnz.org/topics/intravenous-immunoglobulin) , [lọc huyết tương](https://dermnetnz.org/topics/plasmapheresis-for-skin-disease) .
+- Sau khi sinh, có thể sử dụng nhiều [biện pháp điều trị ức chế miễn dịch](https://dermnetnz.org/topics/drug-induced-immunosuppression) hơn nếu cần.
+- Điều trị bệnh lý nuôi dưỡng thai kỳ liên quan có thể làm thuyên giảm bệnh pemphigoid thai kỳ.
+
+---
+
+## Kết quả của bệnh pemphigoid thai kỳ là gì?
+
+Bệnh pemphigoid thai kỳ có diễn biến thất thường với các đợt bùng phát và thuyên giảm trong suốt thai kỳ. Bệnh thường cải thiện vào cuối thai kỳ, sau đó bùng phát vào thời điểm sinh ở 75% bệnh nhân. Sau khi sinh, các tổn thương thường tự khỏi trong vòng vài tuần hoặc vài tháng. Hiếm khi, bệnh pemphigoid thai kỳ có thể kéo dài trong vài năm. Một đánh giá hệ thống cho thấy 80% phụ nữ đã thuyên giảm hoàn toàn 9 tháng sau sinh, nhưng một nửa vẫn cần điều trị.
+Bệnh pemphigoid thai kỳ thường tái phát ở những lần mang thai tiếp theo, mặc dù có thể có những lần mang thai không bị ảnh hưởng. Thay đổi da có thể tái phát khi hành kinh và dùng [thuốc tránh thai nội tiết tố](https://dermnetnz.org/topics/oral-contraceptive) .

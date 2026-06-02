@@ -1,0 +1,110 @@
+# Nổi mề đay – thông tin thêm
+
+Thể loại:
+
+Phản ứng
+
+SNOMED CT:
+
+55608001, 736256005, 40175007
+
+**[Phản ứng](https://dermnetnz.org/topics/topics?category=Reactions)**
+
+
+# **Mề đay sẩn**
+
+Tác giả: Tiến sĩ Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand, 1997. Cập nhật:Tiến sĩ Oakley và Tiến sĩ Karen Koch, Bác sĩ da liễu tư vấn, WITS Donald Gordon Mediclinic, Johannesburg, Nam Phi. Tháng 3 năm 2018. Bản sửa đổi DermNet tháng 8 năm 2021.
+
+---
+
+## Mề đay sẩn là gì?
+
+Mày đay sẩn là phản ứng dạng sẩn mụn nước do [côn trùng và nhện cắn,](https://dermnetnz.org/topics/arthropod-bites-and-stings) thường gặp ở trẻ em hơn người lớn. Bệnh xuất hiện vào những tháng mùa hè hoặc mùa thu. Bệnh còn được gọi là phản ứng côn trùng cắn dai dẳng .
+![Không có caption](https://dermnetnz.org/assets/Uploads/arthropods/papurt1.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/arthropods/papurt2.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/arthropods/papurt3.jpg)
+
+---
+
+## Ai bị nổi mề đay sẩn?
+
+Mề đay sẩn thường xảy ra ở trẻ em. Nguyên nhân là do trẻ chưa có khả năng tự phục hồi sau khi bị côn trùng cắn.
+Bệnh này cũng có thể xảy ra ở người lớn, đặc biệt là những người đi du lịch đến những môi trường mới.
+
+---
+
+## Nguyên nhân gây ra bệnh mề đay sẩn là gì?
+
+Mề đay sẩn được cho là một phản ứng miễn dịch với vết côn trùng cắn. Phản ứng sẽ tự khỏi sau vài tháng hoặc vài năm, khi người bệnh trở nên mất cảm giác với vết cắn. Vết cắn ban đầu hiếm khi được nhận thấy.
+[Bọ chét](https://dermnetnz.org/topics/topics/flea-bite/) và ve sống trên mèo và chó thường là nguyên nhân gây bệnh.
+- Bọ chét dễ dàng nhìn thấy bằng mắt thường nhưng lại khó diệt trừ. Bọ chét đẻ nhiều trứng, sau đó phát triển thành ấu trùng và nhộng. Trung bình một con mèo chỉ có khoảng hai mươi con bọ chét, nhưng có thể bị bao vây bởi khoảng 20.000 con.
+- Ve quá nhỏ để có thể dễ dàng nhìn thấy nhưng cũng là nguyên nhân phổ biến gây ra bệnh mề đay sẩn.
+- Động vật thường xuyên bị nhiễm bệnh và phải được xử lý bằng thuốc trừ sâu lưu hành vài tuần một lần.
+Không phải ai bị mề đay sẩn cũng nuôi thú cưng, và đôi khi rất khó xác định bệnh nhân đang phản ứng với loại côn trùng nào. Đã có báo cáo về phản ứng với muỗi, [rệp giường](https://dermnetnz.org/topics/bed-bugs) , ruồi muỗi, [mạt chim](https://dermnetnz.org/topics/bird-mite-infestation) , bọ thảm, [sâu bướm](https://dermnetnz.org/topics/topics/skin-problems-due-to-caterpillars-and-moths/) và các loại côn trùng khác.
+
+---
+
+## Đặc điểm lâm sàng của bệnh mề đay sẩn là gì?
+
+Mề đay sẩn biểu hiện bằng các cụm mụn đỏ ngứa ( sẩn ) không có triệu chứng toàn thân .
+- Thường gặp nhất ở chân và các vùng da hở khác như cẳng tay và mặt
+- Đôi khi rải rác thành từng nhóm nhỏ khắp cơ thể
+- Xuất hiện vài ngày một lần trong những tháng mùa hè hoặc mùa thu
+- Đường kính từ 0,2–2 cm
+- Mỗi sẩn có một điểm trung tâm
+- Có thể biểu hiện dưới dạng các mụn nước chứa đầy dịch
+- Các tổn thương mới phát triển ngay khi các tổn thương cũ bắt đầu lành
+- Một vết cắn mới có thể kích hoạt lại vết cắn cũ
+Các đốm này sẽ tồn tại trong nhiều ngày đến nhiều tuần và có thể để lại [sẹo tăng sắc tố sau viêm](https://dermnetnz.org/topics/postinflammatory-hyperpigmentation) hoặc sẹo giảm sắc tố , đặc biệt nếu chúng bị trầy xước sâu.
+
+### Mề đay sẩn ở chân
+![](https://dermnetnz.org/assets/collection-O/Papularurticaria/papular-urticaria-00001.jpg)
+
+---
+
+## Biến chứng của bệnh mề đay sẩn là gì?
+
+- [Nhiễm trùng thứ phát do vi khuẩn sau khi gãi gây ra](https://dermnetnz.org/topics/wound-infections) mụn mủ và vảy đau ( chốc lở )
+- Vết cắn của côn trùng bị nhiễm trùng có thể dẫn đến [viêm mô tế bào](https://dermnetnz.org/topics/cellulitis) và hiếm khi là nhiễm trùng huyết ( nhiễm trùng huyết ).
+- [Viêm mạch da](https://dermnetnz.org/topics/cutaneous-vasculitis) khu trú [](https://dermnetnz.org/topics/cutaneous-vasculitis)
+
+---
+
+## Chẩn đoán phân biệt bệnh mề đay sẩn là gì?
+
+- [Bệnh ghẻ](https://dermnetnz.org/topics/scabies)
+- [Viêm da dị ứng](https://dermnetnz.org/topics/atopic-dermatitis)
+- Các dạng khác của [bệnh prurigo](https://dermnetnz.org/topics/prurigo) như prurigo simplex
+
+---
+
+## Bệnh mề đay sẩn được chẩn đoán như thế nào?
+
+Mề đay sẩn thường là chẩn đoán lâm sàng. [Sinh thiết](https://dermnetnz.org/topics/skin-biopsy) có thể hỗ trợ chẩn đoán, vì vết côn trùng cắn có hình dạng vi thể đặc trưng .
+Bệnh lý mô học của mề đay sẩn bao gồm phù nề da nhẹ , thoát mạch hồng cầu , bạch cầu ái toan kẽ và xuất bào lympho . Có thể thấy các triệu chứng viêm mạch .
+
+---
+
+## Phương pháp điều trị bệnh mề đay sẩn là gì?
+
+
+### Các biện pháp phòng ngừa
+- Mặc quần áo bảo hộ
+- [Thuốc chống côn trùng](https://dermnetnz.org/topics/topics/insect-repellents/) có thể được bôi lên vùng da hở để ngăn ngừa côn trùng cắn khi ở ngoài trời
+- Thuốc diệt côn trùng có thể tiêu diệt côn trùng trong nhà, nơi làm việc hoặc trường học. Nếu cần, hãy tìm sự trợ giúp chuyên nghiệp từ một công ty diệt côn trùng.
+- Tìm kiếm lời khuyên của bác sĩ thú y về động vật bị nhiễm bệnh Giữ thú cưng ở bên ngoài Sử dụng chuồng trại chứa pyrethroid và bình xịt thảm sau đó hút bụi Bôi thuốc điều hòa sinh trưởng côn trùng lâu dài vào cổ chó mèo
+- Giữ thú cưng ở bên ngoài
+- Sử dụng chuồng trại chứa pyrethroid và bình xịt thảm sau đó hút bụi
+- Bôi thuốc điều hòa sinh trưởng côn trùng lâu dài vào cổ chó mèo
+
+### Các biện pháp triệu chứng
+- [](https://dermnetnz.org/topics/topics/topical-steroids/) Kem [steroid bôi ngoài da](https://dermnetnz.org/topics/topics/topical-steroids/) – nên bôi ngay khi các vết ngứa xuất hiện
+- [Viên thuốc kháng histamine](https://dermnetnz.org/topics/topics/antihistamines/) – có thể làm giảm kích thước và mức độ nghiêm trọng của các đốm và giảm ngứa
+- [Kem sát trùng](https://dermnetnz.org/topics/topics/antiseptics/) có thể làm giảm hoặc tránh [nhiễm trùng thứ cấp](https://dermnetnz.org/topics/wound-infections)
+
+---
+
+## Hậu quả của bệnh mề đay sẩn là gì?
+
+Mề đay sẩn thường tự khỏi. Cơ sở miễn dịch của phản ứng này có nghĩa là trẻ em có thể mất nhiều tháng, thậm chí nhiều năm mới trở nên mất nhạy cảm với côn trùng gây bệnh. Mề đay sẩn có thể tự khỏi sau kỳ nghỉ hoặc sau khi chuyển nhà.
+Đôi khi, tình trạng phun trào có thể chấm dứt trong nhiều năm rồi tái phát bất ngờ.

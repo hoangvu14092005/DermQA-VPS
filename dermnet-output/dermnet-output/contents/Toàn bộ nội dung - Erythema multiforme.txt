@@ -1,0 +1,158 @@
+# Ban đỏ đa dạng — thông tin bổ sung
+
+Thể loại:
+
+Phát ban
+
+SNOMED CT:
+
+36715001, 123571000119104, 402971008, 403441003, 707314000, 403212009, 762375006, 238818000, 297942002
+
+**[Phát ban](https://dermnetnz.org/topics/topics?category=Rashes)**
+
+
+# **Ban đỏ đa dạng**
+
+Tác giả: Bác sĩ Claudia King, Chuyên viên Y tế, Adelaide, Úc. Biên tập bởi Gus Mitchell. Tháng 2 năm 2022
+
+---
+
+## Ban đỏ đa dạng là gì?
+
+Hồng ban đa dạng là một tình trạng da niêm mạc do miễn dịch, thường tự khỏi , đặc trưng bởi [các tổn thương "đích"](https://dermnetnz.org/topics/target-and-targetoid-lesions) . Sự tổn thương niêm mạc đáng kể giúp phân biệt hồng ban đa dạng thể nặng với hồng ban đa dạng thể nhẹ. Các đợt có thể đơn độc, tái phát hoặc dai dẳng. [](https://dermnetnz.org/topics/target-and-targetoid-lesions)
+Trong hầu hết các trường hợp, hồng ban đa dạng là do nhiễm virus [herpes simplex (HSV)](https://dermnetnz.org/topics/herpes-simplex) ; các tác nhân khác bao gồm các bệnh nhiễm trùng khác , thuốc men và tiêm chủng. Các tổn thương "mục tiêu" điển hình biểu hiện dưới dạng các vòng tròn đồng tâm có màu sắc thay đổi, phát triển đối xứng theo hướng từ đỉnh , có hoặc không liên quan đến niêm mạc .
+Ban đỏ đa dạng là một thực thể riêng biệt với [hội chứng Steven Johnson (SJS) và hoại tử thượng bì nhiễm độc (TEN)](https://dermnetnz.org/topics/stevens-johnson-syndrome-toxic-epidermal-necrolysis) .
+![Phản ứng có hại trên da với thuốc chống co giật, tổn thương đích ban đỏ đa dạng](https://dermnetnz.org/assets/Uploads/reactions/ac-em.jpg)
+![Ban đỏ đa dạng nhẹ](https://dermnetnz.org/assets/Uploads/doctors/systemic/images/em2.jpg)
+![Ban đỏ đa dạng](https://dermnetnz.org/assets/Uploads/reactions/ermulti1.jpg)
+![Ban đỏ đa dạng](https://dermnetnz.org/assets/manualthumbnails/erythema-multiforme-034.jpg)
+![Môi bị ảnh hưởng bởi ban đỏ đa dạng](https://dermnetnz.org/assets/Uploads/reactions/em-lips4.jpg)
+![Ban đỏ đa dạng ở mắt](https://dermnetnz.org/assets/Uploads/reactions/em-eyes1.jpg)
+
+---
+
+## Ai mắc bệnh hồng ban đa dạng?
+
+Hồng ban đa dạng ảnh hưởng đến dưới 1% dân số. Bệnh phổ biến nhất ở người trẻ tuổi (20–40 tuổi) và có tỷ lệ mắc thấp ở nam giới. Không liên quan đến chủng tộc.
+Dường như có một khuynh hướng di truyền ở những người mang alen HLA -DQB1*0301 , có mối liên hệ thậm chí còn chặt chẽ hơn với bệnh hồng ban đa dạng liên quan đến herpes. Nhiều alen khác cũng được cho là có liên quan đến dạng tái phát của bệnh này.
+
+---
+
+## Nguyên nhân gây ra bệnh hồng ban đa dạng là gì?
+
+Nhiễm trùng là nguyên nhân gây ra 90% các trường hợp, trong đó HSV týp 1 là nguyên nhân chủ yếu. Các tác nhân gây nhiễm trùng khác bao gồm:
+- HSV loại 2
+- [Vi-rút cự bào](https://dermnetnz.org/topics/cytomegalovirus-infection-pathology)
+- [Virus Epstein-Barr](https://dermnetnz.org/topics/epstein-barr-virus)
+- Virus cúm
+- [Bệnh nấm candida âm hộ-âm đạo](https://dermnetnz.org/topics/vulvovaginal-candidiasis)
+- [SARS-CoV-2](https://dermnetnz.org/topics/covid-19)
+- [Orf](https://dermnetnz.org/topics/orf) .
+[Nhiễm trùng Mycoplasma pneumoniae](https://dermnetnz.org/topics/mycoplasma-pneumoniae-infection) thường được liệt kê là tác nhân gây ra ban đỏ đa dạng, tuy nhiên các biểu hiện niêm mạc da liên quan đến nhiễm trùng này gần đây đã được phân loại thành một thực thể độc lập, phát ban và viêm niêm mạc do Mycoplasma pneumoniae gây ra (MIRM).
+Các loại thuốc có thể gây ra bệnh hồng ban đa dạng bao gồm:
+- Thuốc kháng sinh (bao gồm erythromycin, nitrofurantoin, penicillin, [sulfonamid](https://dermnetnz.org/topics/sulfa-drugs-and-the-skin) và tetracyclin)
+- Thuốc chống động kinh
+- Thuốc chống viêm không steroid
+- Tiêm chủng (nguyên nhân phổ biến nhất ở trẻ sơ sinh).
+Các tình trạng khác liên quan đến ban đỏ đa dạng (thường ở bệnh dai dẳng) bao gồm:
+- Bệnh viêm ruột
+- Viêm gan C
+- Bệnh bạch cầu
+- [U lympho](https://dermnetnz.org/topics/lymphoma)
+- Ung thư ác tính ở cơ quan rắn .
+Trong nhiều trường hợp, yếu tố kích thích vẫn chưa được biết rõ.
+Hầu hết các nghiên cứu về cơ chế bệnh sinh đều tập trung vào biểu hiện liên quan đến herpes. Virus herpes bị thực bào bởi các tế bào đơn nhân biểu hiện kháng nguyên tế bào lympho da (một thụ thể định vị trên da ). DNA virus sau khi được hấp thụ sẽ được chuyển đến lớp biểu bì và vào tế bào sừng. Bên trong lớp tế bào sừng , sự biểu hiện của các mảnh DNA virus sẽ kích thích phản ứng miễn dịch qua trung gian tế bào, bao gồm sản xuất interferon-γ, giúp tăng cường quá trình viêm.
+
+---
+
+## Các đặc điểm lâm sàng của bệnh hồng ban đa dạng là gì?
+
+Nhiều bệnh nhân báo cáo các triệu chứng tiền triệu bao gồm mệt mỏi, khó chịu , đau cơ hoặc sốt. Những triệu chứng này có thể là biểu hiện của quá trình khởi phát bệnh chứ không phải là tiền triệu thực sự.
+
+### Đặc điểm da
+- Tổn thương da phát triển ở ngoại vi trước khi lan vào trung tâm.
+- Phân bố thường đối xứng và ưu tiên bề mặt duỗi .
+- Có thể gây đau, ngứa hoặc sưng.
+- Các tổn thương ban đầu biểu hiện dưới dạng các nốt sẩn tròn, ban đỏ sau đó phát triển thành các tổn thương đích.
+- Tổn thương mục tiêu bao gồm ba vòng tròn đồng tâm có màu sắc thay đổi: Một vùng trung tâm, sẫm màu của hoại tử biểu bì Được bao quanh bởi một vùng phù nề nhẹ hơn Có viền ban đỏ ở ngoại vi .
+- Một vùng trung tâm, sẫm màu của hoại tử biểu bì
+- Được bao quanh bởi một vùng phù nề nhẹ hơn
+- Có viền ban đỏ ở ngoại vi .
+- Tổn thương không điển hình có thể xuất hiện cùng với tổn thương điển hình. Tổn thương không điển hình nổi lên với ranh giới không rõ ràng và/hoặc ít vùng biến đổi màu sắc hơn.
+- Ở bệnh nặng, có thể có tới hàng trăm tổn thương ở các giai đoạn phát triển khác nhau , đôi khi gây khó khăn cho việc xác định các tổn thương đặc trưng.
+
+### Đặc điểm niêm mạc
+- Các tổn thương phát triển thành mụn nước, sau đó vỡ ra để lộ các vết loét nông có lớp màng giả màu trắng bên trên.
+- Ban đỏ đa dạng thường xuất hiện ở niêm mạc miệng, nhưng cũng có thể xuất hiện ở niệu sinh dục và hiếm khi ở mắt .
+- Tổn thương niêm mạc có thể gây đau và hạn chế đáng kể khả năng ăn uống qua đường miệng; tổn thương có thể xảy ra trước hoặc sau tổn thương da.
+Các triệu chứng dự kiến ​​sẽ tự khỏi trong vòng 4 tuần kể từ khi phát bệnh (hoặc tối đa 6 tuần đối với bệnh nặng).
+
+---
+
+## Các đặc điểm lâm sàng khác nhau như thế nào ở các loại da khác nhau?
+
+- Không có tài liệu nào ghi nhận sự khác biệt giữa các loại da.
+- Không có mối liên hệ nào được biết đến với chủng tộc.
+
+---
+
+## Biến chứng của bệnh hồng ban đa dạng là gì?
+
+Các tổn thương trên da sẽ tự khỏi mà không để lại sẹo, mặc dù [tình trạng tăng sắc tố](https://dermnetnz.org/topics/acquired-dermal-macular-hyperpigmentation) có thể kéo dài trong vài tháng.
+Sự liên quan đến mắt có thể dẫn đến những biến chứng nghiêm trọng hơn bao gồm:
+- Viêm giác mạc
+- Sẹo kết mạc
+- Viêm màng bồ đào
+- Suy giảm thị lực vĩnh viễn.
+
+---
+
+## Bệnh hồng ban đa dạng được chẩn đoán như thế nào?
+
+Chẩn đoán thường được đưa ra dựa trên bệnh sử và khám lâm sàng.
+Khi có nghi ngờ về chẩn đoán, hãy cân nhắc:
+- Xét nghiệm máu toàn diện
+- Xét nghiệm chức năng gan
+- ESR
+- Xét nghiệm huyết thanh tìm nguyên nhân truyền nhiễm
+- Chụp X-quang ngực.
+[Sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) kết hợp mô bệnh học và [miễn dịch huỳnh quang trực tiếp](https://dermnetnz.org/topics/direct-immunofluorescence) có thể không đặc hiệu nhưng giúp phân biệt hồng ban đa dạng với các bệnh lý nghiêm trọng hơn, chẳng hạn như bệnh mụn nước tự miễn . Phù nề thượng bì và hoại tử tế bào sừng biểu bì riêng lẻ là những đặc điểm bệnh lý gợi ý .
+Tất cả bệnh nhân bị hồng ban đa dạng tái phát nên được xét nghiệm virus herpes simplex , bao gồm cả việc lấy mẫu tổn thương da hoặc niêm mạc. Trong trường hợp hồng ban đa dạng tái phát hoặc dai dẳng mà không có yếu tố khởi phát rõ ràng, hãy cân nhắc tầm soát ung thư cơ quan đặc hoặc ung thư máu .
+
+---
+
+## Chẩn đoán phân biệt bệnh hồng ban đa dạng là gì?
+
+- [Mề đay](https://dermnetnz.org/topics/urticaria-an-overview)
+- [Bài ca virus](https://dermnetnz.org/topics/exanthems)
+- [Hội chứng Stevens-Johnson](https://dermnetnz.org/topics/stevens-johnson-syndrome-toxic-epidermal-necrolysis)
+- [Đã sửa lỗi phun trào thuốc](https://dermnetnz.org/topics/fixed-drug-eruption)
+- [Bọng nước dạng pemphigus](https://dermnetnz.org/topics/bullous-pemphigoid)
+- [Bệnh pemphigus cận u](https://dermnetnz.org/topics/paraneoplastic-pemphigus)
+- [Sự phun trào ánh sáng đa hình](https://dermnetnz.org/topics/polymorphic-light-eruption)
+- [Hội chứng Rowell](https://dermnetnz.org/topics/rowell-syndrome) (tổn thương giống ban đỏ đa dạng trong [bệnh lupus ban đỏ hệ thống](https://dermnetnz.org/topics/systemic-lupus-erythematosus) )
+
+---
+
+## Phương pháp điều trị bệnh hồng ban đa dạng là gì?
+
+Thường không cần điều trị vì các đợt bệnh thường tự khỏi và không có biến chứng kéo dài. Tuy nhiên, nếu có tổn thương ở mắt, bệnh nhân nên đến khám bác sĩ nhãn khoa để được tư vấn vì nguy cơ di chứng nghiêm trọng hơn.
+Điều trị các trường hợp nhẹ có triệu chứng:
+- Ngứa — [thuốc kháng histamine](https://dermnetnz.org/topics/antihistamines) đường uống và/hoặc [steroid bôi ngoài da](https://dermnetnz.org/topics/topical-steroid) để giảm ngứa hoặc khó chịu liên quan đến tổn thương da
+- Đau — đối với trường hợp niêm mạc bị tổn thương nhẹ, có thể sử dụng nước súc miệng có chứa [chất sát trùng](https://dermnetnz.org/topics/antiseptic) hoặc [thuốc gây tê tại chỗ](https://dermnetnz.org/topics/local-anaesthesia) .
+Các phương pháp điều trị khác phụ thuộc vào nguyên nhân:
+- Nhiễm trùng khởi phát — điều trị thích hợp (lưu ý điều trị HSV không làm thay đổi đáng kể quá trình của một đợt ban đỏ đa dạng)
+- Thuốc gây hại — hãy ngừng và tránh sử dụng trong tương lai.
+Bệnh niêm mạc nặng:
+- Có thể cần phải nhập viện để hỗ trợ ăn uống qua đường miệng
+- Mặc dù bằng chứng còn hạn chế, [prednisone](https://dermnetnz.org/topics/systemic-steroids) được cho là có thể làm giảm mức độ nghiêm trọng và thời gian kéo dài của các triệu chứng trong những trường hợp này.
+Bệnh tái phát:
+- Ít nhất 6 tháng điều trị kháng vi-rút đường uống liên tục (thường là [acyclovir/aciclovir](https://dermnetnz.org/topics/aciclovir) ), ngay cả khi chưa xác định được nguyên nhân rõ ràng
+- Việc thuyên giảm có thể khó đạt được; có thể cần phải thử liệu pháp kéo dài hơn hoặc thuốc kháng vi-rút thay thế.
+- Các tác nhân toàn thân khác được sử dụng (với bằng chứng khác nhau) cho các trường hợp kháng thuốc kháng vi-rút bao gồm [azathioprine](https://dermnetnz.org/topics/azathioprine-and-mercaptopurine) , [dapsone](https://dermnetnz.org/topics/dapsone) , [mycophenolate mofetil](https://dermnetnz.org/topics/mycophenolate-mofetil) và [thuốc chống sốt rét](https://dermnetnz.org/topics/antimalarial) .
+
+---
+
+## Kết quả của bệnh hồng ban đa dạng là gì?
+
+Hồng ban đa dạng tự giới hạn, hầu như không có biến chứng kéo dài ở hầu hết bệnh nhân. Bệnh tái phát hoặc dai dẳng đi kèm với những thách thức điều trị bổ sung, nhưng có thể đạt được sự thuyên giảm.

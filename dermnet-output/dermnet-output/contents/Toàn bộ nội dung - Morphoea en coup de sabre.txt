@@ -1,0 +1,110 @@
+# Morphoea en đảo chính saber - thông tin bổ sung
+
+Thể loại:
+
+Bệnh mô liên kết
+
+SNOMED CT:
+
+51156002, 22784002, 201048007
+
+**[Bệnh mô liên kết](https://dermnetnz.org/topics/topics?category=Connective+tissue+diseases)**
+
+
+# **Morphoea en coup de sabre**
+
+Tác giả: Elaine Luther, Sinh viên Y khoa, Trường Y Đại học Ross, Barbados, Tây Ấn. Tổng biên tập DermNet: Phó Giáo sư Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand. Biên tập bởi Gus Mitchell. Tháng 4 năm 2020.
+
+---
+
+## Morphoea en coup de sabre là gì?
+
+Morphoea en coup de sabre là một biến thể của [morphoea](https://dermnetnz.org/topics/morphoea) tuyến tính (một dạng [xơ cứng bì](https://dermnetnz.org/topics/scleroderma) khu trú ) giới hạn ở vùng trán đỉnh (trán). Tên gọi 'en coup de sabre' (vết chém của kiếm) bắt nguồn từ vết sẹo đặc trưng hằn sâu trên da đầu và xương bên dưới. Morphoea en coup de sabre cũng có thể cắt vào não, gây ra các bất thường về thần kinh và các vấn đề về thị lực. [](https://dermnetnz.org/topics/morphoea) [](https://dermnetnz.org/topics/scleroderma)
+Morphoea en coup de sabre còn được gọi là morphoea tuyến tính trán-nguyệt (cách viết của người Mỹ là morphea), morphoea tuyến tính en coup de sabre hoặc chỉ đơn giản là 'en coup de sabre'.
+![Không có caption](https://dermnetnz.org/assets/Uploads/morphoea-en-coup-de-sabre-01.jpg)
+![Rụng tóc có sẹo tuyến tính ở morphoea và cuộc đảo chính](https://dermnetnz.org/assets/Uploads/morphoea-en-coup-de-sabre-05.jpg)
+
+---
+
+## Ai sẽ nhận được morphoea en coup de sabre?
+
+Morphoea en coup de sabre chủ yếu xảy ra ở trẻ em (67%), với tỷ lệ hơi cao hơn ở trẻ em gái (khoảng 2:1). Bệnh thường xuất hiện lần đầu trong hai thập kỷ đầu đời. Độ tuổi khởi phát trung bình là 13,6 tuổi trong một nghiên cứu gồm 41 bệnh nhân được báo cáo từ Phòng khám Mayo trong khoảng thời gian 20 năm, so với 32 bệnh nhân ở Wisconsin xuất hiện ở độ tuổi 6,9 tuổi (dao động từ 1-15 tuổi).
+
+---
+
+## Điều gì gây ra morphoea en đảo chính?
+
+Nguyên nhân chính xác của bệnh zona thần kinh chưa được biết rõ. Người ta tin rằng đây là một bệnh viêm tự miễn . Có thể có yếu tố di truyền , mặc dù các yếu tố di truyền cụ thể chưa được biết rõ. Nguyên nhân gây viêm thường chưa được biết rõ, nhưng đã được báo cáo bao gồm chấn thương , xạ trị và zona [mắt](https://dermnetnz.org/topics/herpes-zoster) . Phản ứng viêm sau đó gây ra tổn thương đặc trưng. [](https://dermnetnz.org/topics/herpes-zoster)
+
+---
+
+## Đặc điểm lâm sàng của bệnh morphoea en coup de sabre là gì?
+
+Các đặc điểm lâm sàng của morphoea en coup de sabre phát triển trong nhiều tháng đến nhiều năm. En coup de sabre bắt đầu bằng một vệt tăng hoặc giảm sắc tố nhẹ trên trán. Các vị trí khác cũng có thể bị ảnh hưởng bao gồm mũi, má, môi và cổ. Mặc dù morphoea en coup de sabre thường chỉ xảy ra ở một bên , nhưng những thay đổi có thể ảnh hưởng đến cả hai bên mặt. Thông thường, da chuyển sang màu ngà với viền màu tím . Vệt trở nên cứng , phát triển thành sẹo. Da đầu bên dưới và đôi khi thậm chí cả hộp sọ lõm có thể dẫn đến mất cân xứng khuôn mặt. Khi sẹo phát triển, nó sẽ lan qua đường chân tóc vào da đầu, gây ra tình [trạng rụng](https://dermnetnz.org/topics/alopecia-areata) tóc sẹo tuyến tính .
+![Không có caption](https://dermnetnz.org/assets/Uploads/morphoea-en-coup-de-sabre-03.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/morphoea-en-coup-de-sabre-04.jpg)
+
+---
+
+## Biến chứng của bệnh morphoea en coup de sabre là gì?
+
+Các biến chứng của morphoea en coup de sabre bao gồm:
+- [Rụng tóc](https://dermnetnz.org/topics/hair-loss)
+- Teo da đầu hoặc teo xương bên dưới
+- Teo nửa mặt tiến triển ( hội chứng Parry-Romberg )
+- Các vấn đề về mắt cùng bên (bất thường về cấu trúc và thị giác)
+- Bất thường về thần kinh (ví dụ, co giật và đau đầu)
+- Biến dạng khuôn mặt
+- Nướu, lưỡi và các vấn đề về răng miệng khác
+- Giảm lòng tự trọng Xem [các yếu tố tâm lý xã hội trong da liễu](https://dermnetnz.org/topics/psychosocial-factors-in-dermatology) .
+
+---
+
+## Bệnh morphoea en coup de sabre được chẩn đoán như thế nào?
+
+Chẩn đoán morphoea en coup de sabre thường được thực hiện lâm sàng bằng cách ghi nhận các đặc điểm đặc trưng ở trán và da đầu. [Soi da cho thấy các mạch máu](https://dermnetnz.org/topics/dermoscopy) giãn mao mạch dày lên do viêm, xơ hóa và mất nang lông.
+Nếu cần thiết, [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) có thể phân biệt en coup de sabre với các tình trạng tương tự. Mô học cho thấy các đặc điểm bệnh lý điển hình của xơ cứng bì.
+Các xét nghiệm âm tính với kháng thể kháng nội mô , kháng thể kháng nhân và kháng thể kháng Scl-70 có thể loại trừ [các bệnh mô liên kết](https://dermnetnz.org/topics/connective-tissue-diseases) khác . [](https://dermnetnz.org/topics/connective-tissue-diseases)
+Chẩn đoán hình ảnh có thể bao gồm siêu âm , chụp X-quang thường quy và chụp cắt lớp vi tính ( CT ). Chụp cộng hưởng từ ( MRI ) có thể cho thấy các bất thường ở hộp sọ, teo não khu trú , vôi hóa và tổn thương chất trắng.
+
+---
+
+## Chẩn đoán phân biệt cho bệnh morphoea en coup de sabre là gì?
+
+Chẩn đoán có thể khó khăn trong giai đoạn đầu khi morphoea chỉ là một đường sắc tố . Các tình trạng khác bị nhầm lẫn với morphoea en coup de sabre có thể bao gồm:
+- Chấn thương do tai nạn
+- Một [vết bớt](https://dermnetnz.org/topics/congenital-melanocytic-naevi)
+- Chấn thương khi sinh
+- [Nám](https://dermnetnz.org/topics/melasma) da dạng dải [](https://dermnetnz.org/topics/melasma)
+- [Bệnh lupus ban đỏ da](https://dermnetnz.org/topics/cutaneous-lupus-erythematosus) dạng tuyến tính [](https://dermnetnz.org/topics/cutaneous-lupus-erythematosus)
+- [Bệnh xơ cứng lichen](https://dermnetnz.org/topics/lichen-sclerosus) tuyến tính ở mặt [](https://dermnetnz.org/topics/lichen-sclerosus)
+- [Hội chứng Parry-Romberg (teo nửa mặt tiến triển)](https://dermnetnz.org/topics/parry-romberg-syndrome) .
+
+---
+
+## Phương pháp điều trị bệnh morphoea en coup de sabre là gì?
+
+Mục tiêu điều trị là ngăn ngừa sự tiến triển của bệnh. Phương pháp điều trị phổ biến nhất là phối hợp [methotrexate](https://dermnetnz.org/topics/methotrexate) với [corticosteroid đường uống](https://dermnetnz.org/topics/oral-medications-for-skin-diseases) . Hiện chưa có hướng dẫn điều trị bệnh morphoea en coup de sabre và cũng chưa có tiêu chuẩn chăm sóc nào được công bố. Nhiều phương pháp điều trị khác đã được báo cáo trong các báo cáo ca bệnh riêng lẻ.
+
+### Phẫu thuật tái tạo
+Khi morphoea en coup de sabre bị đốt cháy, da teo và các cấu trúc bên dưới có thể được phẫu thuật để sửa chữa. Các kỹ thuật có thể bao gồm:
+- [Ghép mỡ](https://dermnetnz.org/topics/fat-grafting) dưới da [](https://dermnetnz.org/topics/fat-grafting)
+- [Cấy](https://dermnetnz.org/topics/dermal-fillers-and-augmentation-procedures) ghép xương hoặc vật liệu tổng hợp
+- Sự mở rộng mô
+- Phẫu thuật cắt bỏ
+- [Vạt](https://dermnetnz.org/topics/flaps) da và cơ .
+
+---
+
+## Kết quả của morphoea en coup de sabre là gì?
+
+Diễn biến tự nhiên của bệnh morphoea en coup de sabre là tiến triển chậm trong nhiều năm, sau đó tự giới hạn. Có ba giai đoạn.
+
+### Giai đoạn hoạt động
+Giai đoạn hoạt động của morphoea en coup de sabre (xơ cứng bì toàn thể) đặc trưng bởi các vùng xơ cứng hoạt động với viền đỏ hoặc tím, có hoặc không có mảng xơ vữa mở rộng. Mục tiêu điều trị trong giai đoạn hoạt động là làm chậm hoặc ngăn chặn sự tiến triển bằng [thuốc ức chế miễn dịch](https://dermnetnz.org/topics/drug-induced-immunosuppression) .
+
+### Giai đoạn hồi quy
+Giai đoạn thoái triển của morphoea en coup de sabre vẫn duy trì tình trạng xơ cứng dai dẳng mà không có ban đỏ hoặc viền tím. Việc mất màu đỏ cho thấy sự thoái triển.
+
+### Giai đoạn cháy hết
+Giai đoạn cháy hết của morphoea en coup de sabre không biểu hiện xơ cứng hay ban đỏ. Giai đoạn cháy hết báo hiệu quá trình en coup de sabre đã hoàn tất và sẽ không còn tổn thương nào nữa.

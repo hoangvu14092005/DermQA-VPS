@@ -1,0 +1,83 @@
+# Notalgia paraesthetica – thông tin thêm
+
+Thể loại:
+
+Viêm
+
+SNOMED CT:
+
+45781009, 277802001
+
+**[Viêm](https://dermnetnz.org/topics/topics?category=Inflammation)**
+
+
+# **Notalgia paraesthetica**
+
+Tác giả: Tiến sĩ Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand, 1998. Cập nhật vào tháng 7 năm 2016.
+
+---
+
+## Notalgia paraesthetica là gì?
+
+Notalgia paraesthetica là một dạng [loạn cảm giác da](https://dermnetnz.org/topics/cutaneous-dysaesthesia) , trong đó ngứa và/hoặc thay đổi cảm giác xuất hiện ở vùng da ở mặt trong xương bả vai ở hai bên lưng. Notalgia nghĩa là đau lưng, còn paraesthetica là đau rát, ngứa ran hoặc ngứa.
+Nó còn được gọi là hội chứng chèn ép dây thần kinh da ngực .
+Da ngứa nhưng không nổi mẩn ; tuy nhiên, việc gãi và chà xát có thể dẫn đến những thay đổi thứ cấp như [bệnh chàm](https://dermnetnz.org/topics/dermatitis) .
+
+---
+
+## Nguyên nhân gây ra chứng đau nửa đầu là gì?
+
+Các dây thần kinh chi phối cảm giác cho phần lưng trên xuất phát từ tủy sống ( đoạn ngực thứ 2 đến thứ 6) và chạy dài lên các cơ dày ở lưng. Chúng uốn cong vuông góc trước khi chạm đến da. Các dây thần kinh dường như dễ bị chèn ép hoặc kéo giãn. Chèn ép hoặc chấn thương một phần sẽ dẫn đến các triệu chứng.
+Chấn thương ban đầu ở dây thần kinh có thể bao gồm:
+- Chấn thương lưng
+- Thoát vị đĩa đệm hoặc 'trượt' đĩa đệm
+- [Bệnh zona](https://dermnetnz.org/topics/herpes-zoster) (herpes zoster)
+- [Cháy nắng](https://dermnetnz.org/topics/sunburn)
+- Bệnh tủy sống
+- Bệnh lý thần kinh sợi nhỏ
+
+---
+
+## Các đặc điểm lâm sàng của bệnh đau tai ngoài là gì?
+
+Đau dây thần kinh thị giác thường bắt đầu sau một thời gian tập luyện cường độ cao dẫn đến cứng cơ, hoặc sau một thời gian không vận động. Có thể nhớ lại một chấn thương cụ thể.
+Bệnh đặc trưng bởi [ngứa](https://dermnetnz.org/topics/pruritus) dữ dội ở bờ trong của một hoặc cả hai xương bả vai, tức là giữa hai xương bả vai. Cơn ngứa có thể ngắt quãng hoặc liên tục. Gãi không đỡ, mặc dù việc gãi và chà xát có thể mang lại cảm giác dễ chịu.
+Vùng bị ảnh hưởng có thể lan ra cả hai bả vai và lan rộng hơn ra lưng và vai. Ở nhiều bệnh nhân, không có dấu hiệu rõ ràng nào.
+Những thay đổi rõ rệt thường xuất hiện khi chà xát và gãi vùng bị ảnh hưởng. Những thay đổi này bao gồm:
+- Vết xước
+- Tăng sắc tố (vết nâu)
+- > Giảm sắc tố (vết trắng)
+- [Lichen simplex](https://dermnetnz.org/topics/lichen-simplex) (một loại [bệnh chàm](https://dermnetnz.org/topics/dermatitis) )
+- Sẹo
+Cảm giác ở vùng da bị ảnh hưởng có thể thay đổi khi kiểm tra bằng cách châm kim, dùng bông gòn hoặc chườm nóng lạnh. Có thể giảm hoặc không tiết mồ hôi ở vùng da bị ảnh hưởng.
+![Vết xước](https://dermnetnz.org/assets/Uploads/systemic/notalgia2.jpg)
+![Tăng sắc tố](https://dermnetnz.org/assets/Uploads/systemic/notalgia.jpg)
+![Sẹo](https://dermnetnz.org/assets/Uploads/systemic/notalgia1.jpg)
+
+---
+
+## Cần phải tiến hành những xét nghiệm gì khi mắc chứng đau thần kinh tọa?
+
+Các phương pháp chẩn đoán hình ảnh như chụp X-quang, chụp CT hoặc chụp MRI có thể phát hiện đốt sống thoái hóa hoặc đĩa đệm thoát vị ở khu vực tương ứng với dây thần kinh chi phối vùng da bị ảnh hưởng ( lớp bì ). Trong nhiều trường hợp, không phát hiện ra bất thường nào .
+Sinh thiết da sẽ được báo cáo là bình thường trừ khi có tình trạng viêm da chồng lên.
+
+---
+
+## Điều trị bệnh đau tai ngoài là gì?
+
+Điều trị không phải lúc nào cũng cần thiết và không phải lúc nào cũng thành công. Việc quản lý thông thường có thể bao gồm những điều sau:
+- Kem hoặc sữa dưỡng làm mát khi cần thiết (long não và bạc hà)
+- [Thuốc steroid bôi ngoài da](https://dermnetnz.org/topics/topical-steroid) để điều trị [bệnh liken đơn giản liên quan](https://dermnetnz.org/topics/lichen-simplex)
+- [](https://dermnetnz.org/topics/capsaicin) Kem [capsaicin](https://dermnetnz.org/topics/capsaicin) – chất này làm giảm các đầu dây thần kinh dẫn truyền hóa học nhưng cần phải bôi lại thường xuyên và gây ra các tác dụng phụ khó chịu tại chỗ
+- [Kem gây tê tại chỗ](https://dermnetnz.org/topics/local-anaesthesia) có thể làm giảm tạm thời các triệu chứng
+- [Amitriptyline](https://dermnetnz.org/topics/tricyclic-antidepressants) hoặc thuốc ba vòng uống khác vào ban đêm để giúp ngủ ngon và chống lại các triệu chứng thần kinh
+- [Gabapentin](https://dermnetnz.org/topics/gabapentin) >, pregabalin hoặc thuốc chống co giật khác
+- [Độc tố Botulinum](https://dermnetnz.org/topics/botulinum-toxin) đã được sử dụng nhưng một thử nghiệm mù đôi cho thấy nó không hiệu quả
+- Kích thích thần kinh điện xuyên da (TENS)
+- Phẫu thuật giải nén chèn ép dây thần kinh đốt sống
+Vật lý trị liệu với các bài tập lặp đi lặp lại và kéo giãn cho phần lưng trên được cho là có hiệu quả.
+- Khi ngồi, hãy khoanh tay và cúi người về phía trước để kéo căng phần lưng trên.
+- Đặt hai tay ở hai bên, nâng vai lên và xoay vai về phía trước và phía sau.
+- Duỗi thẳng tay, xoay về phía trước 360 độ và về phía sau 360 độ.
+- >Xoay phần thân trên sang trái và phải cho đến khi cảm thấy căng ra và giữ nguyên.
+- Xoa bóp các cơ ngoài cột sống ở vùng bị ảnh hưởng.

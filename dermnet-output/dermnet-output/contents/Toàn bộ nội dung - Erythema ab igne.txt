@@ -1,0 +1,42 @@
+# Ban đỏ ab igne – thông tin bổ sung
+
+Thể loại:
+
+Phản ứng
+
+SNOMED CT:
+
+238510001
+
+**[Phản ứng](https://dermnetnz.org/topics/topics?category=Reactions)**
+
+
+# **Ban đỏ do ánh sáng**
+
+Tác giả: Vanessa Ngan, Biên tập viên, 2003.
+
+---
+
+## Ban đỏ là gì?
+
+Ban đỏ do ánh sáng (EAI) là một phản ứng da do tiếp xúc lâu dài với bức xạ hồng ngoại dưới dạng nhiệt. Trước đây, đây là tình trạng thường gặp ở người cao tuổi, thường đứng hoặc ngồi gần lò sưởi hoặc lò sưởi điện. Mặc dù sự ra đời của hệ thống sưởi ấm trung tâm đã làm giảm EAI loại này, nhưng nó vẫn được tìm thấy ở những người tiếp xúc với nhiệt từ các nguồn khác.
+
+---
+
+## Dấu hiệu và triệu chứng của bệnh ban đỏ là gì và ai có nguy cơ mắc bệnh này?
+
+Tiếp xúc với nhiệt độ vừa phải, không đủ để gây bỏng trực tiếp, sẽ gây phát ban đỏ nhẹ và thoáng qua giống như ren hoặc lưới đánh cá. Tiếp xúc kéo dài và lặp lại sẽ gây đỏ và đổi màu da rõ rệt (tăng hoặc giảm sắc tố ). Da và mô bên dưới có thể bắt đầu mỏng đi ( teo ) và hiếm khi có thể xuất hiện vết loét. Một số bệnh nhân có thể phàn nàn về cảm giác ngứa nhẹ và nóng rát.
+![Ban đỏ do ánh sáng](https://dermnetnz.org/assets/Uploads/reactions/igne1.jpg)
+![Ban đỏ do ánh sáng](https://dermnetnz.org/assets/Uploads/vascular/igne2.jpg)
+![Ban đỏ do ánh sáng](https://dermnetnz.org/assets/Uploads/vascular/igne3.jpg)
+![Ban đỏ do ánh sáng](https://dermnetnz.org/assets/Uploads/vascular/igne4.jpg)
+Các tổn thương cục bộ được nhìn thấy ngày nay phản ánh các nguồn nhiệt khác nhau mà con người có thể tiếp xúc. Ví dụ bao gồm:
+- Sử dụng nhiều lần túi nước nóng hoặc miếng chườm nóng để điều trị chứng đau mãn tính, ví dụ như đau lưng mãn tính
+- Tiếp xúc nhiều lần với lò sưởi ô tô hoặc đồ nội thất có lò sưởi tích hợp
+- Nguy cơ nghề nghiệp đối với thợ kim hoàn và thợ bạc (khuôn mặt tiếp xúc với nhiệt), thợ làm bánh và đầu bếp (cánh tay)
+
+---
+
+## Có những phương pháp điều trị nào cho bệnh ban đỏ?
+
+Cần tránh nguồn nhiệt tiếp xúc lâu dài. Nếu vùng da chỉ bị ảnh hưởng nhẹ với tình trạng đỏ nhẹ, tình trạng này sẽ tự khỏi sau vài tháng. Nếu tình trạng nghiêm trọng và da bị tăng sắc tố và teo, khả năng khỏi bệnh sẽ thấp. Trong trường hợp này, có khả năng hình thành ung thư biểu mô tế bào vảy. Nếu có vết loét dai dẳng không lành hoặc có khối u phát triển bên trong phát ban, nên sinh thiết da để loại trừ khả năng ung thư da. Tình trạng da tăng sắc tố bất thường có thể kéo dài trong nhiều năm. Điều trị bằng tretinoin bôi ngoài da hoặc laser có thể cải thiện tình trạng này.

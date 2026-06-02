@@ -1,0 +1,96 @@
+# Porphyria cutanea tarda — thông tin bổ sung
+
+Thể loại:
+
+Bệnh hệ thống
+
+SNOMED CT:
+
+61860000, 59229005, 402479002
+
+**[Bệnh hệ thống](https://dermnetnz.org/topics/topics?category=Systemic+diseases)**
+
+
+# **Porphyria cutanea tarda**
+
+Được tạo ra lần đầu tiên vào năm 1997. Được cập nhật bởi Tiến sĩ Gayle Ross, Bác sĩ Da liễu, Bệnh viện Melbourne, Melbourne, VIC, Úc. Tổng Biên tập DermNet, Phó Giáo sư Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand. Tháng 3 năm 2019.
+
+---
+
+## Bệnh porphyria là gì?
+
+Bệnh porphyria là một nhóm các bệnh lý chuyển hóa có thể do di truyền hoặc mắc phải. Con đường porphyrin tham gia vào quá trình tổng hợp hem. Hem là sắc tố đỏ trong hemoglobin của tế bào máu và vận chuyển oxy trong máu. Sự thiếu hụt hoặc tắc nghẽn một trong các enzyme trong con đường porphyrin dẫn đến sự tích tụ protein tiền chất hoặc phân tử trung gian tương ứng.
+Bệnh porphyria có thể được phân loại thành bệnh cấp tính hoặc bệnh ngoài da.
+
+---
+
+## Porphyria cutanea tarda là gì?
+
+Bệnh porphyria da tarda (PCT) là loại bệnh porphyria phổ biến nhất.
+Các triệu chứng của PCT chỉ giới hạn ở da. Nó không khiến người bệnh trở nên ốm yếu cấp tính như các dạng porphyria cấp tính.
+
+---
+
+## Ai mắc phải bệnh porphyria cutanea tarda và nguyên nhân là gì?
+
+PCT là do khiếm khuyết ở enzyme uroporphyrinogen decarboxylase (UROD) của gan.
+Bệnh này có tính di truyền ở một phần ba số bệnh nhân, thường có tiền sử gia đình mắc bệnh và các triệu chứng bắt đầu xuất hiện ở giai đoạn đầu của tuổi trưởng thành.
+Ở những bệnh nhân khác, PCT là do bệnh gan tiềm ẩn và bệnh nhân xuất hiện triệu chứng ở độ tuổi 40 và 50. Các bệnh gan liên quan đến PCT bao gồm:
+- Tiêu thụ quá nhiều [rượu](https://dermnetnz.org/topics/cutaneous-adverse-effects-of-alcohol)
+- [Viêm gan](https://dermnetnz.org/topics/viral-hepatitis) B và C
+- Quá tải sắt do [bệnh nhiễm sắc tố sắt](https://dermnetnz.org/topics/haemochromatosis) , truyền máu nhiều lần hoặc bổ sung sắt
+Các loại hormone như [thuốc tránh thai đường uống](https://dermnetnz.org/topics/oral-contraceptive) hoặc liệu pháp thay thế hormone cũng có thể gây ra PCT.
+Bệnh nhân thẩm phân thận cũng có thể mắc PCT vì họ không thể bài tiết porphyrin.
+Trong một số ít trường hợp, các tình trạng khác như [bệnh lupus ban đỏ hệ thống (SLE)](https://dermnetnz.org/topics/systemic-lupus-erythematosus) và nhiễm [virus gây suy giảm miễn dịch ở người (HIV)](https://dermnetnz.org/topics/skin-conditions-relating-to-hiv-infection) cũng có thể gây ra PCT.
+Nhiều bệnh nhân có nhiều hơn một yếu tố nguy cơ.
+
+---
+
+## Các đặc điểm lâm sàng của bệnh porphyria da muộn là gì?
+
+Lượng porphyrin dư thừa trong da gây ra tình trạng [nhạy cảm với](https://dermnetnz.org/topics/photosensitivity) ánh sáng. Những người mắc PCT có làn da ngày càng mỏng manh ở mu bàn tay và cẳng tay. Các vùng da tiếp xúc với ánh nắng mặt trời khác như mặt, da đầu, cổ và cánh tay cũng có thể bị ảnh hưởng.
+Các tính năng bao gồm:
+- Vết loét đóng vảy chậm lành sau chấn thương nhẹ
+- Các mụn nước chứa đầy chất lỏng hoặc máu
+- Sắc tố sau viêm và u nang ( [mụn kê](https://dermnetnz.org/topics/milium) )
+- Tăng độ nhạy cảm với ánh nắng mặt trời
+- [Những thay đổi giống như bệnh xơ cứng bì](https://dermnetnz.org/topics/scleroderma) ở cổ, mặt hoặc ngực.
+Đặc trưng là nước tiểu sẫm màu hơn bình thường, có màu hơi đỏ hoặc màu trà.
+![Porphyria cutanea tarda](https://dermnetnz.org/assets/Uploads/systemic/s/pct5.jpg)
+![Porphyria cutanea tarda](https://dermnetnz.org/assets/Uploads/systemic/pct7.jpg)
+![Porphyria cutanea tarda](https://dermnetnz.org/assets/Uploads/systemic/pct6.jpg)
+![Porphyria cutanea tarda](https://dermnetnz.org/assets/Uploads/systemic/pct2.jpg)
+![Porphyria cutanea tarda](https://dermnetnz.org/assets/Uploads/systemic/pct3.jpg)
+![Porphyria cutanea tarda](https://dermnetnz.org/assets/Uploads/systemic/pct4.jpg)
+
+---
+
+## Bệnh porphyria da muộn được chẩn đoán như thế nào?
+
+PCT có thể được nghi ngờ về mặt lâm sàng nhưng luôn phải được xác nhận bằng xét nghiệm trong phòng thí nghiệm.
+- Kiểm tra nước tiểu bằng [đèn Wood](https://dermnetnz.org/topics/wood-lamp-skin-examination) có thể phát hiện huỳnh quang màu hồng san hô do lượng porphyrin quá mức.
+- Sinh [thiết da](https://dermnetnz.org/topics/skin-biopsy) có thể hữu ích để phân biệt PCT với các tình trạng phồng rộp khác. Những thay đổi trên da giống hệt với bệnh [porphyria variegate](https://dermnetnz.org/topics/variegate-porphyria) và [coproporphyria di truyền](https://dermnetnz.org/topics/hereditary-coproporphyria) .
+- Máu, nước tiểu và phân cần được gửi đi để phân tích nồng độ porphyrin, nồng độ này sẽ tăng cao. Trong PCT, sự hiện diện của isocoproporphyrin tăng cao trong phân có giá trị chẩn đoán. Các mẫu bệnh phẩm cần được bảo vệ khỏi ánh sáng bằng giấy bạc để đảm bảo xét nghiệm chính xác.
+Các xét nghiệm để xác định nguyên nhân gây bệnh porphyria có thể bao gồm:
+- Xét nghiệm công thức máu, chức năng gan và chức năng thận
+- Xét nghiệm sắt ( mức ferritin )
+- [](https://dermnetnz.org/topics/viral-hepatitis) Xét nghiệm huyết thanh [viêm gan](https://dermnetnz.org/topics/viral-hepatitis) B, C và [virus gây suy giảm miễn dịch ở người (HIV)](https://dermnetnz.org/topics/skin-conditions-relating-to-hiv-infection)
+- Độ bão hòa transferrin và kiểu gen của [bệnh máu nhiễm sắc tố di truyền](https://dermnetnz.org/topics/haemochromatosis)
+- Xét nghiệm [bệnh lupus ban đỏ](https://dermnetnz.org/topics/cutaneous-lupus-erythematosus) và [bệnh tiểu đường](https://dermnetnz.org/topics/skin-problems-associated-with-diabetes-mellitus)
+- Mức độ enzyme Urodecarboxylase (UROD) và xét nghiệm di truyền.
+
+---
+
+## Phương pháp điều trị bệnh porphyria da muộn là gì?
+
+Việc điều trị bệnh gan tiềm ẩn có thể giúp giải quyết PCT và có thể bao gồm việc giảm lượng [rượu](https://dermnetnz.org/topics/cutaneous-adverse-effects-of-alcohol) tiêu thụ , ngừng điều trị bằng estrogen hoặc hormone, tránh bổ sung quá nhiều sắt hoặc điều trị bằng thuốc kháng vi-rút cho bệnh viêm gan C tiềm ẩn.
+- [Trang phục](https://dermnetnz.org/topics/sun-protective-clothing) khi ra ngoài trời phải bao gồm áo dài tay, găng tay và mũ.
+- [Chống nắng](https://dermnetnz.org/topics/sun-protection) bằng [kem chống nắng](https://dermnetnz.org/topics/topical-sunscreen-agents) mờ đục có khả năng chặn ánh sáng nhìn thấy được, chẳng hạn như kẽm. Kem nhuộm da giả (có chứa [dihydroxyacetone](https://dermnetnz.org/topics/dihydroxyacetone) ) cũng có thể mang lại hiệu quả bảo vệ nhất định.
+- Chọc tĩnh mạch là phương pháp điều trị chính cho PCT. Khoảng 500 ml máu được lấy ra mỗi 2–4 tuần cho đến khi lượng sắt dự trữ trở lại bình thường. Phương pháp này sử dụng lượng sắt dư thừa bằng cách sản sinh hồng cầu mới.
+- Nếu không thể thực hiện chọc tĩnh mạch, như ở bệnh nhân cao tuổi hoặc những người bị thiếu máu , thuốc [chống sốt rét](https://dermnetnz.org/topics/antimalarial) như [hydroxychloroquine](https://dermnetnz.org/topics/hydroxychloroquine) được dùng với liều thấp để porphyrin được bài tiết dễ dàng hơn.
+
+---
+
+## Triển vọng của bệnh porphyria cutanea tarda là gì?
+
+Một khi đã khỏi, PCT khó có thể tái phát trừ khi các yếu tố nguy cơ tiềm ẩn chưa được giải quyết. Nếu PCT vẫn tiếp diễn, nguy cơ ung thư gan có thể tăng lên .

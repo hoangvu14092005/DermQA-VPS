@@ -1,0 +1,86 @@
+# Erythema elevatum diutinum – thông tin bổ sung
+
+Thể loại:
+
+Các vấn đề về mạch máu
+
+SNOMED CT:
+
+58872001
+
+**[Các vấn đề về mạch máu](https://dermnetnz.org/topics/topics?category=Blood+vessel+problems)**
+
+
+# **Ban đỏ diutinum**
+
+Tác giả: Vanessa Ngan, Cán bộ viết, 2003. Được cập nhật bởi A/Giáo sư Amanda Oakley, tháng 1 năm 2016.
+
+---
+
+## Ban đỏ elevatum diutinum là gì?
+
+Ban đỏ nổi cao (EED) là một loại [viêm mạch](https://dermnetnz.org/topics/cutaneous-vasculitis) hoại tử hiếm gặp , đặc trưng bởi các nốt sần (đốm nổi) màu đỏ, tím , nâu hoặc vàng , xuất hiện ở mu bàn tay, các bề mặt duỗi khác nằm trên khớp và ở mông. [](https://dermnetnz.org/topics/cutaneous-vasculitis)
+![Ban đỏ diutinum](https://dermnetnz.org/assets/Uploads/vascular/eed1.jpg)
+![Ban đỏ diutinum](https://dermnetnz.org/assets/Uploads/vascular/eed2.jpg)
+![Ban đỏ diutinum](https://dermnetnz.org/assets/Uploads/vascular/eed3.jpg)
+
+---
+
+## Ai mắc bệnh hồng ban elevatum diutinum?
+
+EED có thể xảy ra ở mọi lứa tuổi, nhưng bệnh nhân thường ở độ tuổi từ 30 đến 60. Bệnh xảy ra ở cả nam và nữ như nhau.
+
+---
+
+## Nguyên nhân gây ra ban đỏ elevatum diutinum là gì?
+
+EED được phân loại là [viêm mạch máu nhỏ](https://dermnetnz.org/topics/cutaneous-small-vessel-vasculitis) . Nguyên nhân của EED vẫn chưa được xác định, nhưng nó có liên quan đến các tình trạng sau:
+- [U hạt ở mặt](https://dermnetnz.org/topics/granuloma-faciale)
+- [Nhiễm trùng do vi khuẩn](https://dermnetnz.org/topics/bacterial-skin-infections) tái phát (đặc biệt là [liên cầu khuẩn](https://dermnetnz.org/topics/streptococcal-skin-infections) )
+- [Nhiễm trùng do vi-rút](https://dermnetnz.org/topics/viral-skin-infections) (bao gồm [viêm gan B](https://dermnetnz.org/topics/viral-hepatitis) và [HIV](https://dermnetnz.org/topics/skin-conditions-relating-to-hiv-infection) )
+- Bệnh huyết học
+- Bệnh thấp khớp
+
+---
+
+## Các đặc điểm lâm sàng của ban đỏ elevatum diutinum là gì?
+
+- Các tổn thương thường bắt đầu là các nốt sần hoặc nốt sần ở mu bàn tay.
+- Các bề mặt duỗi khác bị ảnh hưởng bao gồm đầu gối, khuỷu tay, cổ tay, mắt cá chân, ngón tay và ngón chân. Mông, thân mình, cẳng tay, chân, lòng bàn tay và lòng bàn chân cũng có thể bị ảnh hưởng.
+- Các tổn thương xuất hiện trên mặt không thể phân biệt được với [u hạt ở mặt](https://dermnetnz.org/topics/granuloma-faciale) .
+- Các tổn thương thường xuất hiện đối xứng.
+- Màu sắc của các tổn thương sẽ chuyển dần từ vàng hoặc hồng sang đỏ, tím hoặc nâu theo thời gian.
+- Các tổn thương có thể to ra vào ban ngày và trở lại kích thước ban đầu vào ban đêm.
+- Trong một số trường hợp hiếm gặp, có thể hình thành mụn nước và vết loét .
+- Các tổn thương thường có cảm giác chắc và di chuyển dễ dàng trên mô bên dưới.
+- EED có thể không có triệu chứng hoặc gây đau hoặc gây cảm giác ngứa hoặc nóng rát.
+- Các triệu chứng có thể trở nên trầm trọng hơn sau khi tiếp xúc với lạnh.
+- Có thể có đau khớp.
+
+---
+
+## Làm thế nào chẩn đoán được bệnh ban đỏ elevatum diutinum?
+
+[Sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) là xét nghiệm quan trọng nhất để chẩn đoán EED; xét nghiệm này cho thấy [tình trạng viêm mạch bạch cầu](https://dermnetnz.org/topics/leukocytoclastic-vasculitis-pathology) . Xem [bệnh lý ban đỏ diutinum](https://dermnetnz.org/topics/erythema-elevatum-diutinum-pathology) .
+[Miễn dịch huỳnh quang trực tiếp](https://dermnetnz.org/topics/direct-immunofluorescence) có ích trong việc xác nhận sự hiện diện của loại viêm mạch phức hợp miễn dịch.
+
+---
+
+## Điều trị bệnh ban đỏ elevatum diutinum là gì?
+
+Viêm da cơ địa (EED) là một bệnh da mãn tính và tiến triển , có thể kéo dài tới 25 năm. Tuy nhiên, trong một số trường hợp, sau khi tiến triển trong khoảng thời gian 5–10 năm, bệnh có thể tự khỏi.
+Thuốc có thể được sử dụng để hạn chế sự tiến triển của bệnh.
+[Dapsone](https://dermnetnz.org/topics/dapsone) được coi là thuốc lựa chọn hàng đầu cho EED, chủ yếu nhờ tác dụng khởi phát nhanh và kinh nghiệm lâm sàng cho thấy đáp ứng tốt. Tuy nhiên, tổn thương nhanh chóng tái phát sau khi ngừng thuốc.
+Các loại thuốc khác đôi khi được báo cáo là có hiệu quả bao gồm:
+- [Niacinamide](https://dermnetnz.org/topics/nicotinamide)
+- [Colchicin](https://dermnetnz.org/topics/treatments/colchicine.html)
+- [Hydroxychloroquine](https://dermnetnz.org/topics/treatments/hydroxychloroquine.html)
+- [Clofazimine](https://dermnetnz.org/topics/treatments/clofazimine.html)
+- [Cyclophosphamide](https://dermnetnz.org/topics/treatments/cyclophosphamide.html) .
+[Corticosteroid đường uống](https://dermnetnz.org/topics/treatments/systemic-steroids.html) thường không có hiệu quả.
+
+---
+
+## Kết quả của bệnh ban đỏ elevatum diutinum là gì?
+
+EED thường kéo dài trong nhiều tháng, nhiều năm hoặc nhiều thập kỷ. Nó thường tái phát sau khi điều trị thành công.

@@ -1,0 +1,88 @@
+# Rhinophyma — thông tin bổ sung
+
+Thể loại:
+
+Các vấn đề về mạch máu
+
+SNOMED CT:
+
+199877001, 724848006
+
+**[Các vấn đề về mạch máu](https://dermnetnz.org/topics/topics?category=Blood+vessel+problems)**
+
+
+# **Rhinophyma**
+
+Tác giả: Daniel Wong, Thực tập sinh, Trung tâm y tế Monash, Victoria, Úc; Tổng biên tập: Tiến sĩ Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand, tháng 3 năm 2014.
+
+---
+
+## Bệnh mũi sư tử là gì?
+
+Viêm mũi sư tử là một tình trạng da ảnh hưởng đến mũi, trong đó da dày lên và tuyến bã nhờn (dầu) phình to. Da có màu da hoặc đỏ và thường có các mạch máu nổi rõ , có thể mỏng và đỏ ( [giãn mao mạch](https://dermnetnz.org/topics/telangiectasia) ) hoặc lớn hơn và có màu tím ( giãn tĩnh mạch ). Vùng da bị ảnh hưởng có thể phồng lên, rỗ do lỗ chân lông nổi rõ (có thể rỉ [bã nhờn](https://dermnetnz.org/topics/sebum) hoặc chứa nút bịt có vảy ) và sẹo. [](https://dermnetnz.org/topics/telangiectasia) [](https://dermnetnz.org/topics/sebum)
+Thông thường, bệnh u mũi sư tử ảnh hưởng đến chóp mũi, mặc dù hai bên và da trên đỉnh mũi cũng có thể bị ảnh hưởng. U mũi sư tử có thể gây mất thẩm mỹ vì da dày lên có thể dẫn đến sự phát triển bất thường của các nốt sần và biến dạng mũi.
+Rhinophyma là một loại [bệnh trứng cá đỏ](https://dermnetnz.org/topics/rosacea) . Các dạng bệnh trứng cá đỏ khác có thể có hoặc không [1]. Đôi khi, rhinophyma xuất hiện trước [mụn trứng cá](https://dermnetnz.org/topics/acne-vulgaris) .
+![Lớp 1](https://dermnetnz.org/assets/Uploads/acne/s/rhinophyma-01.jpg)
+![Lớp 2](https://dermnetnz.org/assets/Uploads/acne/rhinophyma-04.jpg)
+![Lớp 3](https://dermnetnz.org/assets/Uploads/acne/rhinophyma-06.jpg)
+[Xem thêm hình ảnh về rhophyma](https://dermnetnz-org.translate.goog/topics/rhinophyma-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp) .
+
+---
+
+## Nguyên nhân gây ra bệnh mũi sư tử là gì?
+
+Nguyên nhân gây ra bệnh mũi sư tử vẫn chưa được hiểu rõ hoàn toàn. Các giả thuyết bao gồm:
+- Các mạch máu mở rộng có thể dẫn đến da dày lên [1].
+- Sự bất ổn của mạch máu có thể dẫn đến rò rỉ dịch vào các mô, gây viêm và sẹo [2].
+
+---
+
+## Các dạng khác của bệnh trứng cá đỏ
+
+Bệnh Rhinophyma xảy ra trong một phân nhóm của bệnh trứng cá đỏ được gọi là trứng cá đỏ dạng sợi. Trứng cá đỏ dạng sợi cũng có thể ảnh hưởng đến các vị trí sau:
+- Cằm (gnathophyma)
+- Tai (otophyma)
+- [Mí mắt](https://dermnetnz.org/topics/eyelid-skin-problems) (blepharophyma)
+- Trán (metophyma).
+
+---
+
+## Mức độ nghiêm trọng của bệnh u mũi sư tử được phân loại như thế nào?
+
+Rhinophyma, cùng với các dạng bệnh trứng cá đỏ khác, được phân loại theo thang mức độ nghiêm trọng lâm sàng từ 1 đến 3 [1].
+- Độ 1: lỗ nang lông nổi rõ nhưng không có da dày lên
+- Độ 2: lỗ nang lông nổi rõ kèm theo da dày nhẹ
+- Độ 3: lỗ nang lông to, da dày lên và tuyến bã nhờn hoạt động quá mức , đường viền mũi có nốt sần
+
+---
+
+## Ai mắc bệnh u mũi sư tử?
+
+Bệnh mũi sư tử chủ yếu ảnh hưởng đến bệnh nhân nam. Tỷ lệ nam/nữ ở bệnh nhân mũi sư tử dao động từ 5:1 đến 30:1. Điều này có thể là do androgen (hormone nam) [2].
+
+---
+
+## Có những phương pháp điều trị nào cho bệnh mũi sư tử?
+
+
+### Quản lý không phẫu thuật
+Điều trị bệnh trứng cá đỏ có thể ức chế sự tiến triển của bệnh mũi sư tử nhưng điều này vẫn chưa được xác nhận một cách chắc chắn [2].
+- [Metronidazole bôi ngoài da](https://dermnetnz.org/topics/metronidazole)
+- [Axit azelaic tại chỗ](https://dermnetnz.org/topics/azelaic-acid)
+- [Retinoid tại chỗ](https://dermnetnz.org/topics/topical-retinoids)
+- [Thuốc kháng sinh tetracycline uống](https://dermnetnz.org/topics/tetracycline)
+Phương pháp điều trị y tế hiệu quả nhất có vẻ là [isotretinoin](https://dermnetnz.org/topics/isotretinoin) toàn thân , có thể làm giảm phần lớn bệnh u mũi sư tử [3]. [](https://dermnetnz.org/topics/isotretinoin)
+
+### Điều trị phẫu thuật
+Các kỹ thuật được sử dụng để cải thiện vẻ đẹp thẩm mỹ của bệnh u mũi sư tử bao gồm:
+- Dermaplaning ( cắt bỏ lớp da dày bằng cách cạo bỏ bề mặt)
+- [Mài mòn da](https://dermnetnz.org/topics/dermabrasion) (cạo lớp da trên bề mặt)
+- [Liệu pháp lạnh](https://dermnetnz.org/topics/cryotherapy) (đông lạnh)
+- [Tái tạo bề mặt bằng laser](https://dermnetnz.org/topics/laser-resurfacing) (CO2, [Argon](https://dermnetnz.org/topics/argon-laser-treatment) , [Nd:YAG](https://dermnetnz.org/topics/ndyag-laser-treatment) , [Er:YAG](https://dermnetnz.org/topics/eryag-laser-treatment) )
+- [Phẫu thuật điện](https://dermnetnz.org/topics/electrosurgery)
+
+---
+
+## Bệnh mũi sư tử có biến chứng gì không?
+
+Ung thư biểu mô tế bào đáy là một dạng ung thư da phổ biến được báo cáo là xuất hiện ở bệnh u mũi sư tử. Tuy nhiên, u mũi sư tử không được coi là tiền thân của bệnh ác tính [1].

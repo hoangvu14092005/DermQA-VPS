@@ -1,0 +1,79 @@
+# Tăng sắc tố sau viêm — thông tin bổ sung
+
+Thể loại:
+
+Rối loạn sắc tố
+
+SNOMED CT:
+
+55519009, 238699007
+
+**[Rối loạn sắc tố](https://dermnetnz.org/topics/topics?category=Pigmentary+disorders)**
+
+
+# **Tăng sắc tố sau viêm**
+
+Tác giả: Vanessa Ngan, Biên tập viên, 2005. Cập nhật bởi Phó giáo sư Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand, tháng 12 năm 2015.
+
+---
+
+## Tăng sắc tố sau viêm là gì?
+
+Sắc tố sau viêm là sắc tố tạm thời xuất hiện sau chấn thương (ví dụ, [bỏng nhiệt](https://dermnetnz.org/topics/thermal-burn) ) hoặc rối loạn viêm da (ví dụ, [viêm da](https://dermnetnz.org/topics/dermatitis) , nhiễm trùng ). Tình trạng này thường gặp ở những loại da sẫm màu (xem [da liễu dân tộc](https://dermnetnz.org/topics/ethnic-dermatology) ). Sắc tố sau viêm còn được gọi là bệnh hắc tố mắc phải.
+Chấn thương nghiêm trọng hơn sẽ dẫn đến tình trạng giảm sắc tố sau viêm , thường là vĩnh viễn.
+
+---
+
+## Ai bị tăng sắc tố sau viêm?
+
+Tăng sắc tố sau viêm có thể xảy ra ở bất kỳ ai, nhưng phổ biến hơn ở những người da sẫm màu, những người có màu da này thường đậm hơn và kéo dài hơn so với những người da sáng màu. Tăng sắc tố thường rõ rệt hơn ở các tình trạng da do ánh nắng mặt trời như viêm da tiếp xúc với [ánh sáng thực vật](https://dermnetnz.org/topics/phytophotodermatitis) và [bệnh da dạng liken](https://dermnetnz.org/topics/lichenoid-disorders) (các tình trạng da có tình trạng viêm giống [liken phẳng](https://dermnetnz.org/topics/lichen-planus) , chẳng hạn như [ban đỏ loạn sắc tố perstans](https://dermnetnz.org/topics/erythema-dyschromicum-perstans) ). [](https://dermnetnz.org/topics/erythema-dyschromicum-perstans)
+Một số loại thuốc cũng có thể làm sẫm màu sắc tố sau viêm. Bao gồm thuốc [chống sốt rét](https://dermnetnz.org/topics/antimalarial) , [clofazimine](https://dermnetnz.org/topics/clofazimine) , [tetracycline](https://dermnetnz.org/topics/tetracycline) , thuốc chống ung thư như [bleomycin](https://dermnetnz.org/topics/bleomycin) ( [ban đỏ roi](https://dermnetnz.org/topics/flagellate-erythema) ), doxorubicin, 5-fluorouracil và busulfan.
+
+---
+
+## Nguyên nhân nào gây ra tình trạng tăng sắc tố sau viêm?
+
+Tăng sắc tố sau viêm xảy ra sau tổn thương ở lớp biểu bì và/hoặc lớp hạ bì với sự lắng đọng melanin trong tế bào sừng (tế bào da) và/hoặc lớp hạ bì.
+Viêm ở lớp biểu bì kích thích tế bào hắc tố tăng tổng hợp melanin và vận chuyển sắc tố đến các tế bào sừng xung quanh ( bệnh hắc tố thượng bì ). Nếu lớp đáy bị tổn thương (ví dụ như liken phẳng), sắc tố melanin sẽ được giải phóng và sau đó bị các đại thực bào ở lớp trung bì nhú giữ lại ( bệnh hắc tố thượng bì hoặc chứng són tiểu).
+
+---
+
+## Các đặc điểm lâm sàng của tình trạng tăng sắc tố sau viêm là gì?
+
+Các mảng tăng sắc tố sau viêm xuất hiện tại vị trí ban đầu của bệnh sau khi lành. Các tổn thương có màu từ nâu nhạt đến đen. Các mảng này có thể sẫm màu hơn nếu tiếp xúc với ánh nắng mặt trời ( tia UV ).
+![Lichen planus actinicus](https://dermnetnz.org/assets/Uploads/colour/postinflamm2.jpg)
+![Chơi vĩ cầm (ma sát)](https://dermnetnz.org/assets/Uploads/colour/s/postinflamm4.jpg)
+![Viêm da kích ứng](https://dermnetnz.org/assets/Uploads/colour/postinflamm5.jpg)
+![Tăng sắc tố sau viêm (u nang viêm)](https://dermnetnz.org/assets/Uploads/colour/hyperpig4.jpg)
+![Bỏng lò](https://dermnetnz.org/assets/Uploads/colour/oven-burn.jpg)
+![Liệu pháp quang động](https://dermnetnz.org/assets/Uploads/colour/postinflamm3.jpg)
+![Phản ứng roi với bleomycin](https://dermnetnz.org/assets/Uploads/colour/postinflamm6.jpg)
+![Bệnh chàm đã lành](https://dermnetnz.org/assets/Uploads/colour/w/pih-eczema.jpg)
+
+---
+
+## Tăng sắc tố sau viêm được chẩn đoán như thế nào?
+
+Tăng sắc tố sau viêm được chẩn đoán bằng cách khai thác tiền sử bệnh và kiểm tra da cẩn thận. Tình trạng tăng sắc tố da tạo ra màu sắc đặc trưng cho da (xám-tím-nâu).
+Đôi khi chẩn đoán chỉ được đưa ra sau khi [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) . Giải phẫu bệnh học cho thấy tình trạng hắc tố biểu bì và/hoặc hắc tố trung bì từng mảng.
+
+---
+
+## Phương pháp điều trị tăng sắc tố sau viêm là gì?
+
+Nếu sắc tố ảnh hưởng đến vùng da tiếp xúc, việc thoa [kem chống nắng](https://dermnetnz.org/topics/topical-sunscreen-agents) phổ rộng SPF 50+ hàng ngày là rất quan trọng để giảm thiểu tình trạng sạm da do tia UVR. Có thể sử dụng [kem ngụy trang .](https://dermnetnz.org/topics/cosmetic-camouflage)
+
+### Điều trị tại chỗ cho tình trạng tăng sắc tố sau viêm
+Có nhiều phương pháp điều trị tại chỗ khác nhau để làm sáng/tẩy các tổn thương tăng sắc tố trong chứng tăng sắc tố biểu bì. Mức độ thành công đạt được khác nhau, nhưng thường cần kết hợp các phương pháp điều trị dưới đây để cải thiện đáng kể.
+- [Hydroquinone](https://dermnetnz.org/topics/hydroquinone)
+- [Axit azelaic](https://dermnetnz.org/topics/azelaic-acid)
+- [Kem Cysteamine](https://dermnetnz.org/topics/cysteamine-cream)
+- [](https://dermnetnz.org/topics/topical-vitamin-c) Kem [vitamin C](https://dermnetnz.org/topics/topical-vitamin-c)
+- [Kem Tretinoin](https://dermnetnz.org/topics/topical-retinoids)
+- [Kem corticosteroid](https://dermnetnz.org/topics/topical-steroid)
+- [Lột da bằng axit glycolic](https://dermnetnz.org/topics/chemical-peels)
+- Các thành phần khác: axit kojic, arbutin, chiết xuất cam thảo, mequinol, niacinamide, N-acetyl glucosamine, đậu nành
+
+### Phương pháp điều trị vật lý cho tình trạng tăng sắc tố sau viêm
+[Lột da bằng hóa chất](https://dermnetnz.org/topics/chemical-peels) , [điều trị bằng laser](https://dermnetnz.org/topics/lasers-in-dermatology) và [liệu pháp ánh sáng xung cường độ cao (IPL)](https://dermnetnz.org/topics/intense-pulsed-light-therapy) có thể hữu ích cho tình trạng tăng sắc tố biểu bì, nhưng các phương pháp điều trị vật lý cũng có thể làm tình trạng này trầm trọng hơn do làm tổn thương lớp biểu bì.
+Những phương pháp điều trị này không hiệu quả đối với chứng tăng sắc tố da.

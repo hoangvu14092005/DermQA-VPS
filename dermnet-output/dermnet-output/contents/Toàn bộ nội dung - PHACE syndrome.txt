@@ -1,0 +1,109 @@
+# Hội chứng PHACE — thông tin bổ sung
+
+Thể loại:
+
+Bệnh hệ thống
+
+SNOMED CT:
+
+698765007, 698766008
+
+**[Bệnh hệ thống](https://dermnetnz.org/topics/topics?category=Systemic+diseases)**
+
+
+# **Hội chứng PHACE**
+
+Tác giả: Daniel Jun Yi Wong, Sinh viên Y khoa, Đại học Melbourne, Úc, 2012.
+
+---
+
+## Hội chứng PHACE là gì?
+
+Hội chứng PHACE là sự kết hợp giữa [u máu ở trẻ sơ sinh](https://dermnetnz.org/topics/infantile-haemangioma-definition-and-pathogenesis) và dị tật mắt, tim, động mạch chính và não. PHACE được Tiến sĩ Ilona Freidan mô tả lần đầu tiên vào năm 1996.
+Từ viết tắt PHACE có nghĩa là:
+- Dị tật não hố sau
+- U máu , đặc biệt là các tổn thương lớn, phân đoạn trên khuôn mặt
+- Bất thường động mạch
+- Các dị tật tim và hẹp eo động mạch chủ
+- Bất thường về mắt và bất thường về nội tiết
+Hội chứng PHACES là hội chứng PHACE cộng với:
+- Khe hở xương ức , đường nối trên rốn hoặc cả hai
+![Khe hở xương ức](https://dermnetnz.org/assets/Uploads/phaces-1.jpg)
+![PHACES — u máu cục bộ mặt](https://dermnetnz.org/assets/Uploads/phaces-2.jpg)
+![PHACES — u máu phân đoạn](https://dermnetnz.org/assets/Uploads/phaces-3.jpg)
+
+---
+
+## Hội chứng PHACE phổ biến như thế nào?
+
+Hội chứng PHACE rất hiếm gặp. Hội chứng PHACE ảnh hưởng đến trẻ em gái nhiều gấp chín lần trẻ em trai.[1] Một nghiên cứu cho thấy PHACE có thể phổ biến ngang bằng, nếu không muốn nói là phổ biến hơn, [hội chứng Sturge-Weber.](https://dermnetnz.org/topics/sturgeweber-syndrome) [](https://dermnetnz.org/topics/capillary-vascular-malformation) .[2]
+
+---
+
+## Những dấu hiệu và biến chứng của hội chứng PHACE là gì?
+
+Trẻ sơ sinh mắc PHACE có:
+- U máu cục lớn ở mặt, da đầu hoặc cổ, hoặc hiếm khi ở cánh tay hoặc thân mình. U máu có thể loét, chảy máu và gây đau đớn. U máu gần mắt có thể dẫn đến mất thị lực. U máu trong tai hoặc các cấu trúc thính giác trong não có thể dẫn đến mất thính lực.
+- U máu có thể loét, chảy máu và gây đau đớn.
+- U máu gần mắt có thể dẫn đến mất thị lực.
+- U máu trong tai hoặc các cấu trúc thính giác trong não có thể dẫn đến mất thính lực.
+- Những bất thường của mạch máu hoặc các cấu trúc khác trong não. Những điều này có thể dẫn đến đột quỵ, co giật và chậm phát triển , đặc biệt là chức năng vận động (di chuyển).
+- Những điều này có thể dẫn đến đột quỵ, co giật và chậm phát triển , đặc biệt là chức năng vận động (di chuyển).
+- Các vấn đề về tim bao gồm hẹp cung động mạch chủ , dị tật cung động mạch phức tạp hoặc khuyết tật vách ngăn tim ('lỗ ở tim').
+- Hội chứng PHACE cũng có thể biểu hiện bằng những bất thường về hormone (nội tiết).
+
+---
+
+## Ý nghĩa của u máu phân đoạn là gì?
+
+Vị trí hoặc đoạn cụ thể bị ảnh hưởng bởi u máu có thể chỉ ra những vấn đề có thể xảy ra ở các mô bên dưới.
+U máu trên mặt ảnh hưởng đến bốn phân đoạn chính :
+- Đoạn 1 ( trán thái dương ) bao gồm một phần trán và thái dương. Những người này có nguy cơ cao mắc các dị tật não liên quan.
+- Những người này có nguy cơ cao mắc các dị tật não liên quan.
+- Đoạn 2 (xương hàm trên) bao gồm vùng má.
+- Đoạn 3 (xương hàm dưới) liên quan đến hàm và cằm. U máu ở xương hàm dưới có liên quan đến nguy cơ mắc các dị tật tim và u máu ở đường thở cao hơn, có thể gây khó thở.
+- U máu ở xương hàm dưới có liên quan đến nguy cơ mắc các dị tật tim và u máu ở đường thở cao hơn, có thể gây khó thở.
+- Đoạn 4 (trán mũi) liên quan đến phần giữa trán và mũi.
+U máu vùng thắt lưng-xương cùng ở lưng dưới (xem THẮT LƯNG) hoặc xung quanh hậu môn và bộ phận sinh dục (xem CHẬU CHẬU) có liên quan đến các bất thường ở bộ phận sinh dục, cột sống, hậu môn và thận. Những bất thường này không được phân loại trong phổ PHACE.
+
+---
+
+## Chẩn đoán hội chứng PHACE được thực hiện như thế nào?
+
+Hội chứng PHACE(S) là một chẩn đoán lâm sàng, nghĩa là cần phải có một tập hợp các dấu hiệu và triệu chứng hoặc tiêu chuẩn chẩn đoán để chẩn đoán hội chứng PHACE. Một Tuyên bố Đồng thuận về Tiêu chuẩn Chẩn đoán Hội chứng PHACE được công bố năm 2009 đã đề xuất các tiêu chuẩn chính và phụ trong các hệ cơ quan khác nhau.[3]
+- Hệ thống mạch máu não
+- Bất thường về cấu trúc não
+- Dị tật tim mạch
+- Bất thường về mắt
+- Khuyết tật ở bụng hoặc đường giữa
+Các danh mục Tuyên bố đồng thuận Hội chứng PHACE xác định U máu mặt lớn hơn 5 cm CỘNG VỚI 1 tiêu chuẩn chính HOẶC 2 tiêu chuẩn phụ Hội chứng PHACE có thể xảy ra U máu ở cổ hoặc thân trên CỘNG VỚI 1 tiêu chuẩn chính HOẶC 2 tiêu chuẩn phụ HOẶC 2 tiêu chuẩn chính không có u máu.
+
+---
+
+## Nguyên nhân gây ra hội chứng PHACE là gì?
+
+Nguyên nhân gây ra hội chứng PHACE chưa được biết rõ. Mối liên hệ giữa các bất thường được tìm thấy trong hội chứng PHACE cho thấy đây là một vấn đề trong quá trình phát triển phôi thai tại một thời điểm quan trọng cụ thể, có thể là từ tuần thứ 3 đến tuần thứ 12 của thai kỳ , khi các mạch máu đang phát triển. [3]
+
+---
+
+## Hội chứng PHACE cần được xét nghiệm những gì?
+
+Trẻ sơ sinh có khối u máu lớn ở mặt hoặc da đầu (>24 cm² ) nên được kiểm tra để xác định xem trẻ có mắc hội chứng PHACE hay không. Các xét nghiệm này có thể bao gồm:
+- Chụp cộng hưởng từ ( MRI ) và chụp động mạch cộng hưởng từ (MRA) ở đầu và cổ
+- Chụp cắt lớp vi tính (CTA) mạch máu não, cổ và ngực.
+- Khám mắt
+- Khám tai và kiểm tra thính lực
+- Siêu âm tim , một xét nghiệm siêu âm tim và mạch máu.
+
+---
+
+## Phương pháp điều trị hội chứng PHACE là gì?
+
+Việc điều trị hội chứng PHACE sẽ khác nhau tùy thuộc vào khiếm khuyết được tìm thấy ở từng hệ cơ quan bị ảnh hưởng. Việc chăm sóc đòi hỏi một đội ngũ đa chuyên khoa và có thể bao gồm bác sĩ da liễu , bác sĩ nhãn khoa , bác sĩ huyết học, bác sĩ ung thư , bác sĩ X-quang , bác sĩ thần kinh , bác sĩ tim mạch và bác sĩ tai mũi họng.
+Điều trị u máu có thể bao gồm [propranolol](https://dermnetnz.org/topics/propranolol-for-infantile-hemangioma) đường uống , [steroid toàn thân](https://dermnetnz.org/topics/systemic-steroids) , phẫu thuật và/hoặc [liệu pháp laser](https://dermnetnz.org/topics/lasers-in-dermatology) .
+
+---
+
+## Trẻ sơ sinh mắc hội chứng PHACE có thể được điều trị an toàn bằng propranolol không?
+
+Những bất thường nghiêm trọng về mạch máu ở trẻ em mắc hội chứng PHACE có thể hạn chế việc sử dụng propranolol trong điều trị u máu vì propranolol có thể làm giảm huyết áp ( hạ huyết áp ). Cần đánh giá cẩn thận các mạch máu chính ở não và tim nếu cân nhắc điều trị này.

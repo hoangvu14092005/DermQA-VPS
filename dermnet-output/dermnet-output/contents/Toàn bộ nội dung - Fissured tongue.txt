@@ -1,0 +1,56 @@
+# Lưỡi nứt — thông tin bổ sung
+
+Thể loại:
+
+Thuật ngữ
+
+SNOMED CT:
+
+52368004
+
+**[Thuật ngữ](https://dermnetnz.org/topics/topics?category=Terminology)**
+
+
+# **Lưỡi nứt**
+
+Tác giả: Vanessa Ngan, Biên tập viên, 2005.
+
+---
+
+## Lưỡi nứt là gì?
+
+Lưỡi nứt còn được gọi là 'lưỡi bìu' hoặc 'lingua plicata'. Đây là một tình trạng lành tính , đặc trưng bởi một hoặc nhiều rãnh nông hoặc sâu ( nứt ) trên bề mặt trên của lưỡi.
+
+---
+
+## Dấu hiệu và triệu chứng của tình trạng nứt lưỡi là gì?
+
+Lưỡi nứt ảnh hưởng đến bề mặt trên của lưỡi và thường lan ra đến tận mép lưỡi. Kích thước và độ sâu của các vết nứt rất đa dạng, và khi chúng quá lớn và sâu, các vết nứt hoặc rãnh có thể liên kết với nhau, chia bề mặt trên của lưỡi thành nhiều thùy.
+Tình trạng này thường không gây đau trừ khi có mảnh vụn như thức ăn mắc kẹt trong rãnh hoặc khi nó xảy ra liên quan đến [lưỡi bản đồ](https://dermnetnz.org/topics/geographic-tongue) .
+![Lưỡi nứt](https://dermnetnz.org/assets/Uploads/site-age-specific/fissured-tongue.jpg)
+![Lưỡi nứt](https://dermnetnz.org/assets/Uploads/site-age-specific/fissured-tongue2.jpg)
+
+---
+
+## Nguyên nhân nào gây ra tình trạng nứt lưỡi?
+
+Nguyên nhân gây nứt lưỡi chưa được xác định rõ ràng nhưng có thể xảy ra với một số hội chứng tiềm ẩn hoặc có thể là bệnh di truyền. Đôi khi tình trạng này được thấy trong [bệnh u hạt miệng mặt](https://dermnetnz.org/topics/orofacial-granulomatosis) , [hội chứng Melkersson-Rosenthal](https://dermnetnz.org/topics/granulomatous-cheilitis) và [hội chứng Down](https://dermnetnz.org/topics/dermatological-manifestations-of-down-syndrome) . Tình trạng này thường liên quan đến [lưỡi bản đồ](https://dermnetnz.org/topics/geographic-tongue) và [bệnh vẩy nến](https://dermnetnz.org/topics/psoriasis) , đặc biệt là [bệnh vẩy nến mủ](https://dermnetnz.org/topics/generalised-pustular-psoriasis) .
+Mặc dù tình trạng nứt lưỡi có thể xuất hiện ngay từ khi sinh ra hoặc thời thơ ấu, nhưng các dấu hiệu và triệu chứng của tình trạng này có xu hướng trở nên thường xuyên và nghiêm trọng hơn ở tuổi trưởng thành. Mức độ nghiêm trọng của tình trạng này dường như tăng lên theo tuổi tác.
+
+---
+
+## Biến chứng của nứt lưỡi là gì?
+
+Biến chứng chính của tình trạng nứt lưỡi là sự phát triển của [bệnh u hạt miệng-mặt](https://dermnetnz.org/topics/orofacial-granulomatosis) (sưng mặt) hoặc [hội chứng Melkersson-Rosenthal](https://dermnetnz.org/topics/granulomatous-cheilitis) (bộ ba gồm nứt lưỡi, sưng miệng-mặt và liệt mặt). Nứt lưỡi có thể là dấu hiệu đầu tiên .
+
+---
+
+## Chẩn đoán nứt lưỡi được thực hiện như thế nào?
+
+Chẩn đoán thường được thực hiện bằng đánh giá lâm sàng. [Sinh thiết](https://dermnetnz.org/topics/skin-biopsy) hiếm khi cần thiết do biểu hiện lâm sàng đặc trưng của nó. Bệnh nhân cũng nên được đánh giá các tình trạng bệnh lý liên quan.
+
+---
+
+## Điều trị nứt lưỡi bằng cách nào?
+
+Lưỡi nứt là một tình trạng lành tính, không cần điều trị đặc hiệu. Bệnh nhân nên được khuyến khích chải bề mặt trên của lưỡi để loại bỏ bất kỳ mảnh vụn nào có thể gây kích ứng hoặc nhiễm trùng khi mắc kẹt giữa các rãnh.

@@ -1,0 +1,138 @@
+# Comedo naevus – thông tin bổ sung
+
+Thể loại:
+
+Rối loạn nang lông
+
+SNOMED CT:
+
+35962006
+
+**[Rối loạn nang lông](https://dermnetnz.org/topics/topics?category=Follicular+disorder)**
+
+
+# **Nốt ruồi Comedo**
+
+Tác giả: Bác sĩ Malini Sivasaththivel, Bác sĩ Nội trú, Eastern Health, Melbourne, Úc; Bác sĩ Martin Keefe, Bác sĩ Da liễu Tư vấn, Christchurch, New Zealand. Biên tập bởi Gus Mitchell. Tháng 2 năm 2022
+
+---
+
+## Nốt ruồi comedo là gì?
+
+Nốt ruồi comedo (comedo nevus ), còn được gọi là nốt ruồi comedonicus, là một dị tật da lành tính hiếm gặp , bao gồm các lỗ nang lông giãn nở, tập trung thành nhóm chứa keratin mềm, sẫm màu giống như [mụn đầu đen](https://dermnetnz.org/topics/comedones) .
+Một số tác giả cho rằng đây là u [hamartoma xuất phát từ nang lông tuyến bã](https://dermnetnz.org/topics/congenital-naevi) ; những người khác lại cho rằng đây là nốt ruồi biểu bì liên quan đến nang lông . Chúng thường đơn độc nhưng có thể là một phần của hội chứng nốt ruồi nhân tạo kèm theo các bất thường về xương, hệ thần kinh trung ương, mắt và các bất thường khác về da.
+![Nốt ruồi Comedo](https://dermnetnz.org/assets/Uploads/comedo-naevus.jpg)
+![Nốt ruồi Comedo](https://dermnetnz.org/assets/Uploads/lesions/com-naev1.jpg)
+![Nốt ruồi ở bụng](https://dermnetnz.org/assets/collection/Epidermal-naevus/epidermal-naevus-0001.jpg)
+
+---
+
+## Ai bị mụn trứng cá?
+
+[Nốt ruồi biểu bì](https://dermnetnz.org/topics/epidermal-naevi) này rất hiếm gặp. Tỷ lệ mắc bệnh thực sự chưa được biết rõ nhưng không có sự khác biệt về giới tính hay sắc tộc. Khoảng 50% trường hợp xuất hiện lúc mới sinh và phần còn lại thường xuất hiện trước 10 tuổi.
+Bệnh khởi phát ở người lớn cũng được mô tả, thậm chí muộn nhất là vào thập niên thứ 7, thường là sau chấn thương hoặc bệnh ngoài da như [herpes zoster](https://dermnetnz.org/topics/herpes-zoster) , [liken phẳng](https://dermnetnz.org/topics/lichen-planus) và [mủ da](https://dermnetnz.org/topics/pyoderma-gangrenosum) .
+
+---
+
+## Nguyên nhân nào gây ra mụn đầu đen?
+
+Nốt ruồi comedo là một rối loạn khảm (một số tế bào mang gen bất thường trong khi một số khác thì không) do đột biến thể bào trong quá trình phát triển phôi. Đột biến ở FGFR2 được cho là quan trọng, với biểu hiện tăng IL-1 alpha.
+Gần đây, các đột biến thể khảm ở gen NEK9 đã được mô tả. Điều này dẫn đến hoạt hóa kinase NEK9 và phá vỡ quá trình biệt hóa nang lông bình thường. Mặc dù những thay đổi DNA này đã được tìm thấy trong mô nang lông và mô không phải nang lông, nhưng người ta đã đưa ra giả thuyết về tác động đặc hiệu của NEK9 lên nang lông trong cơ chế sinh bệnh của nốt ruồi nhân mụn.
+Gần đây hơn, sự điều hòa tăng cường của ABCA12 đã được mô tả. Khảm dòng mầm cũng được đưa ra giả thuyết, trong đó các lỗi phát triển càng sớm thì khả năng xuất hiện nốt ruồi ở một cá thể càng cao .
+
+---
+
+## Đặc điểm lâm sàng của nốt ruồi comedo là gì?
+
+Nốt ruồi nhân tạo thường biểu hiện dưới dạng một nhóm các sẩn tăng sừng sẫm màu và các nút sừng có hình dạng tổ ong. Nốt ruồi nhân tạo thường gặp nhất ở mặt, thân, cổ và các chi trên, nhưng có thể ảnh hưởng đến bất kỳ bộ phận nào trên cơ thể.
+Có thể thấy nhiều nốt mụn trứng cá và kiểu phân bố có thể là:
+- Tuyến tính
+- Bị gián đoạn
+- Đơn phương
+- song phương
+- Blaschkoid tức là theo [dòng Blaschko](https://dermnetnz.org/topics/blaschko-lines) .
+Có hai phân nhóm cụ thể được nhìn thấy:
+- Không gây mủ
+- Có liên quan đến [u nang](https://dermnetnz.org/topics/cutaneous-cysts-and-pseudocysts) , mụn mủ và [áp xe](https://dermnetnz.org/topics/cutaneous-abscess) .
+Những bất thường bổ sung liên quan đến hội chứng nốt ruồi có thể ảnh hưởng đến:
+- Bộ xương: dính ngón , ngón thừa , vẹo cột sống và nứt đốt sống
+- Hệ thần kinh trung ương: co giật , chậm phát triển , đầu nhỏ , viêm tủy cắt ngang và bất thường trên điện não đồ
+- Mắt: thường là đục thủy tinh thể
+- Răng: thường là thiểu sản răng
+- Da: [Nốt ruồi biểu bì dạng sùi](https://dermnetnz.org/topics/inflammatory-linear-verrucous-epidermal-naevus) [Viêm tuyến mồ hôi mủ](https://dermnetnz.org/topics/hidradenitis-suppurativa) [Ung thư biểu mô tế bào đáy](https://dermnetnz.org/topics/basal-cell-carcinoma) [Ung thư biểu mô tế bào vảy](https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma) [Hình thái tuyến tính](https://dermnetnz.org/topics/morphoea-en-coup-de-sabre) [Địa y vân](https://dermnetnz.org/topics/lichen-striatus) Mô vú phụ [Tăng sừng biểu bì](https://dermnetnz.org/topics/epidermolytic-ichthyosis) [Tăng sừng Naevoid của quầng vú](https://dermnetnz.org/topics/hyperkeratosis-of-the-nipple-and-areola) [U nang lông dạng nhú](https://dermnetnz.org/topics/hidradenoma-papilliferum-pathology) [Syringocystadenoma papilliform](https://dermnetnz.org/topics/syringofibroadenoma-pathology) [U nang biểu bì](https://dermnetnz.org/topics/epidermoid-cyst) [Bệnh vảy cá](https://dermnetnz.org/topics/ichthyosis) [U bao pilar](https://dermnetnz.org/topics/pilar-sheath-acanthoma) [U biểu mô lông](https://dermnetnz.org/topics/trichoepithelioma) [Các nốt ruồi biểu bì](https://dermnetnz.org/topics/epidermal-naevi) khác .
+- [Nốt ruồi biểu bì dạng sùi](https://dermnetnz.org/topics/inflammatory-linear-verrucous-epidermal-naevus)
+- [Viêm tuyến mồ hôi mủ](https://dermnetnz.org/topics/hidradenitis-suppurativa)
+- [Ung thư biểu mô tế bào đáy](https://dermnetnz.org/topics/basal-cell-carcinoma)
+- [Ung thư biểu mô tế bào vảy](https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma)
+- [Hình thái tuyến tính](https://dermnetnz.org/topics/morphoea-en-coup-de-sabre)
+- [Địa y vân](https://dermnetnz.org/topics/lichen-striatus)
+- Mô vú phụ
+- [Tăng sừng biểu bì](https://dermnetnz.org/topics/epidermolytic-ichthyosis)
+- [Tăng sừng Naevoid của quầng vú](https://dermnetnz.org/topics/hyperkeratosis-of-the-nipple-and-areola)
+- [U nang lông dạng nhú](https://dermnetnz.org/topics/hidradenoma-papilliferum-pathology)
+- [Syringocystadenoma papilliform](https://dermnetnz.org/topics/syringofibroadenoma-pathology)
+- [U nang biểu bì](https://dermnetnz.org/topics/epidermoid-cyst)
+- [Bệnh vảy cá](https://dermnetnz.org/topics/ichthyosis)
+- [U bao pilar](https://dermnetnz.org/topics/pilar-sheath-acanthoma)
+- [U biểu mô lông](https://dermnetnz.org/topics/trichoepithelioma)
+- [Các nốt ruồi biểu bì](https://dermnetnz.org/topics/epidermal-naevi) khác .
+
+---
+
+## Các đặc điểm lâm sàng khác nhau ở các loại da khác nhau như thế nào?
+
+Không có sự khác biệt về các đặc điểm lâm sàng giữa các nhóm dân tộc khác nhau.
+
+---
+
+## Biến chứng của bệnh mụn cóc sinh dục là gì?
+
+Các biến chứng thường biểu hiện trong thời kỳ thanh thiếu niên và bao gồm:
+- [Nhiễm trùng do vi khuẩn](https://dermnetnz.org/topics/bacterial-skin-infections)
+- Viêm mãn tính
+- Sẹo
+- [Sự hình thành nang lớn](https://dermnetnz.org/topics/cutaneous-cysts-and-pseudocysts) .
+
+---
+
+## Nốt ruồi nhân mụn được chẩn đoán như thế nào?
+
+Nốt ruồi comedo thường là chẩn đoán lâm sàng. Soi da có thể hữu ích để làm nổi bật hình ảnh điển hình.
+Đánh giá mô bệnh học hiếm khi cần thiết và sẽ cho thấy các nếp lõm biểu bì với teo vừa phải giống như nang lông to. Các nếp lõm này chứa các thùy tuyến bã nhờn và có gai và phiến đồng tâm liên quan do sản xuất keratin.
+
+---
+
+## Chẩn đoán phân biệt đối với nốt ruồi comedo là gì?
+
+- [Mụn trứng cá ở trẻ sơ sinh](https://dermnetnz.org/topics/infantile-acne)
+- [Sừng hóa nang lông](https://dermnetnz.org/topics/keratosis-pilaris)
+- [Mụn trứng cá](https://dermnetnz.org/topics/comedonal-acne)
+- [Mụn trứng cá do clo](https://dermnetnz.org/topics/chloracne-madish)
+- [Các nốt ruồi biểu bì](https://dermnetnz.org/topics/epidermal-naevi) khác [](https://dermnetnz.org/topics/epidermal-naevi)
+- Mụn đầu đen loạn sản sừng gia đình
+
+---
+
+## Phương pháp điều trị mụn cóc là gì?
+
+Nốt ruồi comedo lành tính và không có triệu chứng nên thường không cần điều trị. Điều trị có thể được cân nhắc vì lý do thẩm mỹ hoặc các biến chứng như u nang và áp xe.
+Các liệu pháp tại chỗ có thể mang lại lợi ích khiêm tốn:
+- [Tretinoin và](https://dermnetnz.org/topics/isotretinoin) [các retinoid bôi ngoài da](https://dermnetnz.org/topics/topical-retinoids) khác +/- [steroid bôi ngoài da](https://dermnetnz.org/topics/topical-steroid) hoặc [calcipotriol](https://dermnetnz.org/topics/calcipotriol)
+- [Axit salicylic](https://dermnetnz.org/topics/salicylic-acid)
+- Sữa dưỡng thể amoni lactat.
+Liệu pháp uống:
+- Thuốc kháng sinh không có hiệu quả, nhưng có thể cần thiết để điều trị nhiễm trùng thứ phát
+- Isotretinoin có thể làm giảm sự hình thành u nang , nhưng cần phải điều trị lâu dài nên thường không được khuyến khích.
+Liệu pháp thủ thuật:
+- [](https://dermnetnz.org/topics/curettage-and-cautery) Có thể sử dụng [phương pháp nạo vét](https://dermnetnz.org/topics/curettage-and-cautery) và [mài da cho](https://dermnetnz.org/topics/dermabrasion) các tổn thương nhỏ hơn
+- [Liệu pháp laser](https://dermnetnz.org/topics/lasers-in-dermatology) có thể hiệu quả nhưng có thể gây ra những khiếm khuyết lớn cần phải [ghép da](https://dermnetnz.org/topics/skin-grafting) [](https://dermnetnz.org/topics/eryag-laser-treatment) [Laser](https://dermnetnz.org/topics/carbon-dioxide-laser-treatment) [Erbium YAG](https://dermnetnz.org/topics/eryag-laser-treatment) và CO2 [](https://dermnetnz.org/topics/carbon-dioxide-laser-treatment) Laser diode 1450nm
+- [](https://dermnetnz.org/topics/eryag-laser-treatment) [Laser](https://dermnetnz.org/topics/carbon-dioxide-laser-treatment) [Erbium YAG](https://dermnetnz.org/topics/eryag-laser-treatment) và CO2 [](https://dermnetnz.org/topics/carbon-dioxide-laser-treatment)
+- Laser diode 1450nm
+- [Thiết bị vi kim tần số vô tuyến phân đoạn](https://dermnetnz.org/topics/lasers-electrical-and-radiofrequency-devices)
+- [Cắt bỏ](https://dermnetnz.org/topics/excision-of-skin-lesions) toàn bộ độ dày phẫu thuật +/- cấy ghép mô mở rộng để đóng khuyết.
+
+---
+
+## Hậu quả của mụn trứng cá là gì?
+
+Nốt ruồi comedo không thay đổi trong suốt cuộc đời của một người nếu không được điều trị. Như đã mô tả trước đây, chúng có thể gây ra biến chứng.

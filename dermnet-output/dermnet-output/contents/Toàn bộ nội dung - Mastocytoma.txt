@@ -1,0 +1,83 @@
+# U tế bào mast — thông tin bổ sung
+
+Thể loại:
+
+Di truyền
+
+SNOMED CT:
+
+404171008, 239147000, 397013007
+
+**[Di truyền](https://dermnetnz.org/topics/topics?category=Genetic)**
+
+
+# **U tế bào mast**
+
+Tác giả: Vanessa Ngân, Cán bộ biên tập, 2003. Được cập nhật bởi PGS. Giáo sư Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand. Tháng 1 năm 2019.
+
+---
+
+## U tế bào mast là gì?
+
+U tế bào mast là tên gọi của một dạng [bệnh tăng sinh tế bào mast](https://dermnetnz.org/topics/mastocytosis) ở da trong đó có sự tích tụ tế bào mast ở da tạo thành một hoặc ba tổn thương đơn độc [1]. [](https://dermnetnz.org/topics/mastocytosis)
+![U tế bào mast](https://dermnetnz.org/assets/Uploads/lesions/masto.jpg)
+![Cùng một tổn thương sau khi chà xát nó](https://dermnetnz.org/assets/Uploads/lesions/mastob.jpg)
+
+---
+
+## Ai có thể mắc bệnh u tế bào mast?
+
+U tế bào mast thường được chẩn đoán ở trẻ sơ sinh từ 0 đến 3 tháng tuổi . Bệnh hiếm khi được chẩn đoán ở người lớn [2]. U tế bào mast thường không có tính chất gia đình.
+
+---
+
+## Nguyên nhân nào gây ra u tế bào mast?
+
+U tuyến vú có liên quan đến đột biến gen KIT , gen mã hóa cho thụ thể tyrosine xuyên màng trên tế bào mast chịu trách nhiệm cho sự phát triển và chức năng của nó [3].
+Sự kích hoạt của tế bào mast khiến chúng giải phóng histamine và các chất hóa học khác, gây ra tình trạng đỏ, sưng, ngứa tại chỗ và đôi khi là phồng rộp.
+
+---
+
+## Đặc điểm lâm sàng của u tế bào mast là gì?
+
+Một đến ba khối u tế bào mast thường xuất hiện ở trẻ nhỏ trong vài tháng đầu đời. Chúng có thể xuất hiện ở bất kỳ vị trí nào trên cơ thể.
+Các đặc điểm điển hình của u tế bào mast là:
+- Mảng cứng, dát hoặc cứng có đường kính 1–5 cm
+- Bề mặt có thể bị rỗ (có vẻ ngoài như vỏ cam)
+- Màu đỏ, hồng, vàng hoặc nâu
+- Ngứa liên tục, đặc biệt là khi cọ xát
+- Việc cọ xát có thể khiến vết thương nổi mề đay (đỏ và sưng) trong khoảng 15 phút ( dấu hiệu Darier dương tính ). Có thể xuất hiện mụn nước.
+Đôi khi tình trạng đỏ bừng cục bộ hoặc toàn thân có thể xảy ra khi tế bào mast giải phóng các chất hóa học như histamine vào da.
+
+### Dấu hiệu Darier trong u tế bào mast
+![U tế bào mast](https://dermnetnz.org/assets/Uploads/mastocytoma-hand.jpg)
+![Dấu hiệu Darier trong u tế bào mast](https://dermnetnz.org/assets/Uploads/mastocytoma-hand-Darier-sign.jpg)
+
+---
+
+## Bệnh u tế bào mast được chẩn đoán như thế nào?
+
+U tế bào mast thường có thể được chẩn đoán lâm sàng, đặc biệt khi có dấu hiệu Darier dương tính. Soi da không đặc hiệu [4], và các hình thái thường thấy ở nốt ruồi hắc tố không có. Không cần xét nghiệm máu.
+Sinh [thiết da](https://dermnetnz.org/topics/skin-biopsy) cho thấy thâm nhiễm tế bào đơn nhân đơn hình nhuộm dương tính với c-KIT và nhuộm miễn dịch peroxidase tryptase [2,3].
+
+---
+
+## Chẩn đoán phân biệt với u tế bào mast là gì?
+
+Ban đầu, u tế bào mast có triệu chứng thường được cho là phản ứng dai dẳng do côn trùng cắn. Nếu tổn thương không ngứa, có thể nghĩ đến tình trạng nốt ruồi hắc tố bẩm sinh hoặc khởi phát sớm.
+Bốn hoặc nhiều tổn thương tế bào mast được mô tả tốt nhất là [bệnh tăng sinh tế bào mast dưới da dạng sẩn](https://dermnetnz.org/topics/maculopapular-cutaneous-mastocytosis) ( [nổi mề đay sắc tố](https://dermnetnz.org/topics/maculopapular-cutaneous-mastocytosis) ).
+Nếu dấu hiệu Darier dương tính ở u mastocytoma khởi phát ở người lớn , cần xem xét khả năng bệnh mastocytosis da lan rộng hơn hoặc bệnh mastocytosis toàn thân , đặc biệt nếu có các triệu chứng toàn thân như đỏ bừng mặt.
+
+---
+
+## Phương pháp điều trị u tế bào mast là gì?
+
+Cần hạn chế tối đa việc gãi hoặc chấn thương vào vết thương để tránh ngứa, sưng và phồng rộp.
+Nếu u tế bào mast gây ngứa nhiều, tình trạng này thường có thể được cải thiện bằng [thuốc kháng histamine](https://dermnetnz.org/topics/antihistamines) đường uống . Thuốc mỡ [tacrolimus](https://dermnetnz.org/topics/tacrolimus) bôi ngoài da cũng được báo cáo là có tác dụng làm giảm các triệu chứng do u tế bào mast gây ra. [](https://dermnetnz.org/topics/tacrolimus)
+U tế bào mast ở vùng nhạy cảm về mặt thẩm mỹ có thể được cắt bỏ [3], nhưng tình trạng nổi mề đay tại chỗ có thể vẫn tồn tại trong sẹo [2].
+
+---
+
+## Kết quả của bệnh u tế bào mast là gì?
+
+U tế bào mast xuất hiện ở trẻ sơ sinh thường biến mất trước tuổi dậy thì [1].

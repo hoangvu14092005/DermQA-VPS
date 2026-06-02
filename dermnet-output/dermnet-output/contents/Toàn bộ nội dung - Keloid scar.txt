@@ -1,0 +1,158 @@
+# Sẹo lồi và sẹo phì đại — thông tin bổ sung
+
+Thể loại:
+
+Phản ứng, Viêm
+
+SNOMED CT:
+
+33659008, 403686008, 309691004, 19843006, 403685009
+
+**[Phản ứng, Viêm](https://dermnetnz.org/topics/topics?category=Reactions)**
+
+
+# **Sẹo lồi và sẹo phì đại**
+
+Tháng 9 năm 2022Tác giả: Tiến sĩ Nicole Kah Mun Yoong, Bệnh viện St George, Úc; Hana Numan, Biên tập viên Y khoa Cấp cao, DermNet (2022)Những người đóng góp trước: Giáo sư danh dự Amanda Oakley, Bác sĩ da liễu, New Zealand (2010)Bác sĩ da liễu đánh giá: Tiến sĩ Ian CoulsonĐược biên tập bởi bộ phận nội dung DermNet
+
+---
+
+## Sẹo lồi và sẹo phì đại là gì?
+
+Sẹo lồi là một khối u cứng, nhẵn, chắc hình thành do sự hình thành sẹo quá mức. Sẹo lồi xuất hiện sau chấn thương da; hiếm khi, sẹo lồi có thể tự phát mà không có bất kỳ tổn thương da đáng kể nào trước đó. Chúng có thể phát triển ở bất kỳ bộ phận nào trên cơ thể và lan rộng ra ngoài ranh giới vết thương ban đầu, mặc dù ngực trên, vai, tai và cổ đặc biệt dễ bị sẹo lồi.
+Không giống như sẹo lồi, sẹo phì đại chỉ giới hạn ở vùng da bị tổn thương. Sẹo phì đại dễ hình thành khi vết thương đang lành chịu nhiều áp lực, khiến vết sẹo dày hơn bình thường. Sẹo phì đại có khả năng tự phục hồi và biến mất cao hơn sẹo lồi vì chúng thường dai dẳng.
+![Một vết sẹo phì đại ở phần lưng trên - độ dày không vượt ra ngoài giới hạn của vết thương](https://dermnetnz.org/assets/collection/Hypertrophic-scar/hypertrophic-scar-0001.jpg)
+![Một vết sẹo lồi lớn ở vùng cơ delta sau khi tiêm vắc-xin đậu mùa](https://dermnetnz.org/assets/collection/Keloid-scar/keloid-scar-0003.jpg)
+![Một vết sẹo lồi hình quả tạ lớn ở dái tai](https://dermnetnz.org/assets/collection/Keloid-scar/keloid-scar-0011.jpg)
+![Sẹo lồi sau mụn](https://dermnetnz.org/assets/collection/Keloid-scar/keloid-scar-0017.jpg)
+![Sẹo lồi sau ghép da](https://dermnetnz.org/assets/collection/Keloid-scar/keloid-scar-0020.jpg)
+![Sẹo lồi ở phần lưng trên](https://dermnetnz.org/assets/collection/Keloid-scar/keloid-scar-0023.jpg)
+[Nhấp vào đây để xem thêm hình ảnh](https://dermnetnz-org.translate.goog/images/keloid-and-hypertrophic-scar-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+
+---
+
+## Ai dễ bị sẹo lồi và sẹo phì đại?
+
+Sẹo phì đại phổ biến và có thể xảy ra ở mọi chủng tộc và lứa tuổi trong khi sẹo lồi ít phổ biến hơn và thường gặp hơn ở những người có [loại da Fitzpatrick](https://dermnetnz.org/topics/skin-phototype) từ III đến VI.
+Sẹo lồi được ghi nhận ở 16% người da đen, và người Trung Quốc có nguy cơ mắc bệnh cao hơn so với người gốc Ấn Độ hoặc Malaysia. Người da trắng và người bạch tạng dường như ít bị ảnh hưởng nhất. Mối liên quan di truyền đã được ghi nhận với một số kiểu gen HLA và nhóm máu A.
+Nhiều vết sẹo lồi tự phát hiếm khi liên quan đến một số tình trạng bao gồm:
+- [Hội chứng Rubinstein-Taybi](https://dermnetnz.org/topics/rubinstein-taybi-syndrome)
+- Hội chứng Dubowitz
+- [Hội chứng Noonan](https://dermnetnz.org/topics/noonan-syndrome)
+- Hội chứng Goeminne
+- Bệnh cơ Bethlem
+- Thoái hóa giác mạc kết mạc
+- Bệnh đa xơ hóa lặn liên kết nhiễm sắc thể X
+- Hội chứng liên kết X mới với đột biến filamin A.
+
+---
+
+## Nguyên nhân nào gây ra sẹo lồi và sẹo phì đại?
+
+Cơ chế bệnh sinh chính xác của sẹo lồi và sự hình thành sẹo phì đại vẫn chưa được biết rõ. Sẹo lồi có thể phát triển sau các chấn thương nhỏ như [chấn thương](https://dermnetnz.org/topics/wounds) , [bỏng](https://dermnetnz.org/topics/thermal-burn) , [côn trùng cắn](https://dermnetnz.org/topics/arthropod-bites-and-stings) , phẫu thuật , liệu [pháp lạnh , liệu pháp](https://dermnetnz.org/topics/cryotherapy) tại chỗ (ví dụ: [imiquimod](https://dermnetnz.org/topics/imiquimod) ), [mụn trứng cá](https://dermnetnz.org/topics/acne) , nhiễm trùng (ví dụ: [zona](https://dermnetnz.org/topics/herpes-zoster) ) và tiêm chủng. Chúng thường gặp hơn ở các vết thương đã được chữa lành bằng phương pháp điều trị thứ phát. Sẹo lồi có thể xuất hiện từ nhiều tháng đến nhiều năm sau chấn thương.
+Cơ chế bệnh sinh được giả thuyết là liên quan đến sự rối loạn quá trình chữa lành bình thường, dẫn đến sản xuất quá mức collagen , elastin , proteoglycan và protein nền ngoại bào . Số lượng nguyên bào sợi và tế bào mast tăng lên. Các yếu tố tăng trưởng và cytokine bị thay đổi trong sẹo lồi, với lượng TNF alpha, interferon-beta và interleukin 6 tăng lên .
+
+---
+
+## Đặc điểm lâm sàng của sẹo lồi và sẹo phì đại là gì?
+
+Sẹo lồi thường là:
+- Đỏ tía
+- Săn chắc, mịn màng và nâng cao
+- Có thể gây khó chịu và ngứa
+- Có thể xảy ra nhiều năm sau chấn thương
+- Phát triển vượt ra ngoài vùng vết thương ban đầu.
+Sẹo phì đại thường là:
+- Hồng sang đỏ
+- Hơi nhô lên hoặc phẳng
+- Có thể gây khó chịu và ngứa
+- Thường xảy ra trong vòng vài tuần sau chấn thương
+- Chỉ giới hạn ở vết thương ban đầu.
+Chúng thường xuất hiện ở những vùng da có độ căng giải phẫu cao:
+- Vai
+- Ngực
+- Dái tai (sẹo lồi)
+- Cánh tay trên
+- Má.
+[Nhấp vào đây để xem hình ảnh](https://dermnetnz-org.translate.goog/images/keloid-and-hypertrophic-scar-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+
+---
+
+## Các đặc điểm lâm sàng khác nhau như thế nào ở các loại da khác nhau?
+
+Sẹo lồi thường gặp hơn ở những người có làn da sẫm màu; các tổn thương ít hồng hơn và có nhiều sắc tố hơn.
+
+---
+
+## Biến chứng của sẹo lồi và sẹo phì đại là gì?
+
+- Biến dạng thẩm mỹ
+- Tác động tiêu cực về mặt xã hội và tâm lý
+- Sẹo lồi dày và chặt có thể hạn chế khả năng vận động và sự phát triển của chân tay ở trẻ em
+- Mủ chảy
+
+---
+
+## Sẹo lồi và sẹo phì đại được chẩn đoán như thế nào?
+
+Sẹo lồi và sẹo phì đại được chẩn đoán lâm sàng dựa trên tiền sử bệnh và các đặc điểm lâm sàng. Có thể cần [sinh thiết da nếu chẩn đoán chưa chắc chắn.](https://dermnetnz.org/topics/skin-biopsy)
+Mặc dù việc phân biệt giữa sẹo lồi và sẹo phì đại có thể khó khăn, nhưng điều này rất quan trọng khi cân nhắc các phương án điều trị chuyên sâu. Các đặc điểm lâm sàng phân biệt bao gồm khởi phát do chấn thương, bề mặt lồi, phát triển ngoài rìa vết thương và thoái triển.
+Cấu trúc mô học của sẹo phì đại có thể cho thấy:
+- Tăng số lượng nguyên bào sợi
+- Tăng mật độ sợi collagen ở lớp hạ bì.
+Sẹo lồi có thể biểu hiện:
+- Các vòng xoáy và nốt sần của các bó collagen đồng nhất đặc biệt dày ( sợi dày đặc ), nằm không đều khắp lớp hạ bì (collagen sẹo lồi)
+- Collagen sẹo lồi có thể không có ở một nửa số trường hợp sẹo lồi.
+
+---
+
+## Chẩn đoán phân biệt sẹo lồi và sẹo phì đại là gì?
+
+Các tổn thương có vẻ ngoài giống sẹo lồi bao gồm:
+- Một số khối u da , ví dụ như [khối u phụ](https://dermnetnz.org/topics/adnexal-tumour) , [nốt ruồi Spitz](https://dermnetnz.org/topics/spitz-naevus) , [u xơ da](https://dermnetnz.org/topics/dermatofibroma) và [u xơ da](https://dermnetnz.org/topics/dermatofibrosarcoma-protuberans)
+- [Ung thư biểu mô tế bào vảy da](https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma)
+- [U lympho giả da](https://dermnetnz.org/topics/cutaneous-pseudolymphoma)
+- [Bệnh nấm lobomycosis](https://dermnetnz.org/topics/lobomycosis)
+- [Morphoea (xơ cứng bì khu trú)](https://dermnetnz.org/topics/morphoea) .
+
+---
+
+## Phương pháp điều trị sẹo lồi và sẹo phì đại là gì?
+
+Sẹo phì đại có thể tự khỏi và có khả năng đáp ứng điều trị tốt hơn sẹo lồi. Ngược lại, sẹo lồi có khả năng tồn tại dai dẳng mà không tự khỏi và kháng trị.
+Mục đích của việc điều trị là làm giảm sự biến dạng về mặt thẩm mỹ và các vấn đề chức năng do sẹo lồi gây ra, đồng thời giảm đau và ngứa.
+Các biện pháp sau đây có ích cho ít nhất một số bệnh nhân:
+- [](https://dermnetnz.org/topics/emollients-and-moisturisers) Kem và dầu [làm mềm](https://dermnetnz.org/topics/emollients-and-moisturisers) được mát-xa thường xuyên vào vết sẹo
+- Miếng dán giảm sẹo bằng polyurethane hoặc [silicone](https://dermnetnz.org/topics/silicone-dressings)
+- Gel silicon
+- Thuốc tranilast uống hoặc bôi ngoài da ( chất ức chế tổng hợp collagen )
+- Băng ép và quần áo
+- [Cắt bỏ](https://dermnetnz.org/topics/excision-of-skin-lesions) bằng phẫu thuật (ở sẹo lồi, cắt bỏ bằng phẫu thuật có thể tạo ra sẹo lồi mới thậm chí còn lớn hơn sẹo lồi ban đầu)
+- [Tiêm corticosteroid vào tổn thương](https://dermnetnz.org/topics/intralesional-steroid-injection) , lặp lại sau mỗi vài tuần
+- Tiêm 5-fluorouracil nội tổn thương
+- [Liệu pháp lạnh](https://dermnetnz.org/topics/cryotherapy)
+- Điều trị bằng X-quang bề mặt (thực hiện trong vòng 48 giờ sau khi cắt bỏ bằng phẫu thuật)
+- [Laser nhuộm xung](https://dermnetnz.org/topics/pulsed-dye-laser-treatment)
+- [Lăn kim da](https://dermnetnz.org/topics/skin-needling)
+- [Băng tẩm steroid](https://dermnetnz.org/topics/steroid-impregnated-tape)
+- [Cắt bỏ](https://dermnetnz.org/topics/subcision)
+- [Axit retinoic](https://dermnetnz.org/topics/isotretinoin)
+- [Tiêm độc tố Botulinum](https://dermnetnz.org/topics/botulinum-toxin) .
+Nên băng vết sẹo trong 12–24 giờ mỗi ngày, trong ít nhất 8 đến 12 tuần hoặc có thể lâu hơn nữa.
+
+---
+
+## Làm thế nào để ngăn ngừa sẹo lồi và sẹo phì đại?
+
+Vì những triệu chứng này thường xảy ra sau chấn thương nên các chiến lược sau đây có thể giúp ngăn ngừa sự hình thành của chúng:
+- Phẫu thuật căng thẳng tối thiểu
+- Lật ngược mép vết thương trong quá trình khâu
+- Hạn chế số lượng mũi khâu được sử dụng
+- Tránh phẫu thuật/thủ thuật thẩm mỹ không cần thiết ở những người và vùng dễ bị sẹo lồi.
+
+---
+
+## Kết quả của sẹo lồi và sẹo phì đại là gì?
+
+Sẹo lồi và sẹo phì đại vô hại và không chuyển thành [ung thư da](https://dermnetnz.org/topics/skin-cancer) . Tuy nhiên, bệnh nhân bị sẹo lồi có nguy cơ mắc ung thư da cao hơn một chút so với người không bị sẹo lồi.
+[Nhấp vào đây để xem hình ảnh](https://dermnetnz-org.translate.goog/images/keloid-and-hypertrophic-scar-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)

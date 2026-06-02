@@ -1,0 +1,77 @@
+# Tân sinh biểu mô dương vật — thông tin bổ sung
+
+Thể loại:
+
+Tổn thương (ung thư)
+
+SNOMED CT:
+
+255148008, 403467008, 398768004, 398831006, 24253004
+
+**[Tổn thương (ung thư)](https://dermnetnz.org/topics/topics?category=Lesions+(cancerous))**
+
+
+# **Tân sinh biểu mô dương vật**
+
+Tác giả: Vanessa Ngan, Biên tập viên, 2003.
+
+---
+
+## Tân sinh biểu mô dương vật là gì?
+
+Bệnh tân sinh biểu mô dương vật là một bệnh tiền ung thư hiếm gặp ở lớp da bên ngoài ( biểu bì ) của dương vật.
+Những tên gọi khác của chứng loạn sản biểu mô dương vật bao gồm:
+- Tổn thương biểu mô vảy
+- Bệnh hồng sản Queyrat
+- Bệnh Bowen ở dương vật
+- Ung thư biểu mô tế bào vảy tại chỗ của dương vật
+- GHIM.
+
+---
+
+## Làm thế nào để nhận biết tình trạng tân sinh biểu mô dương vật?
+
+Chẩn đoán thường bị trì hoãn vì tình trạng tân sinh biểu mô dương vật có thể giống với các tình trạng khác như [viêm quy đầu](https://dermnetnz.org/topics/balanitis) , [bệnh nấm candida](https://dermnetnz.org/topics/candida) , [viêm da](https://dermnetnz.org/topics/dermatitis) và [bệnh vẩy nến](https://dermnetnz.org/topics/psoriasis) .
+Tổn thương là các mảng đỏ đơn lẻ hoặc nhiều mảng trên quy đầu hoặc mặt trong của bao quy đầu. Chúng có thể có bề mặt nhẵn, mịn như nhung, ẩm ướt, có vảy , bị xói mòn hoặc có mụn cóc .
+Các dấu hiệu và triệu chứng sau đây có thể xảy ra:
+- Đỏ và viêm
+- Ngứa
+- Đóng vảy hoặc đóng vảy
+- Nỗi đau
+- Loét
+- Chảy máu
+- Ở giai đoạn cuối, có dịch chảy ra từ dương vật, khó kéo bao quy đầu hoặc khó đi tiểu
+[Hình ảnh của bệnh tân sinh biểu mô dương vật](https://dermnetnz-org.translate.goog/topics/penile-epithelial-neoplasia-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+
+---
+
+## Ai có nguy cơ mắc bệnh tân sinh biểu mô dương vật và nguyên nhân gây ra bệnh này là gì?
+
+Nam giới trên 50 tuổi chưa cắt bao quy đầu có nguy cơ mắc bệnh tân sinh biểu mô dương vật cao nhất, mặc dù bệnh này hiếm khi xảy ra ở nam giới trẻ tuổi.
+Bệnh tân sinh biểu mô dương vật có liên quan đến:
+- Nhiễm trùng mãn tính với các loại virus u nhú ở người (HPV) có nguy cơ cao. HPV-16 là loại phổ biến nhất được xác định [xem [Virus u nhú ở người mắc phải qua đường tình dục](https://dermnetnz.org/topics/sexually-acquired-human-papillomavirus) ]
+- Bệnh ngoài da mãn tính, đặc biệt là [bệnh liken xơ cứng](https://dermnetnz.org/topics/lichen-sclerosus) và [liken phẳng](https://dermnetnz.org/topics/lichen-planus)
+- [Hút thuốc](https://dermnetnz.org/topics/smoking-and-its-effects-on-the-skin)
+- Suy giảm miễn dịch do thuốc hoặc bệnh tật
+- Kích ứng mãn tính do nước tiểu, ma sát hoặc chấn thương ở vùng dương vật.
+Nếu không được điều trị, 10–30% trường hợp sẽ phát triển thành [ung thư biểu mô tế bào vảy xâm](https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma) lấn ( ung thư ) dương vật. [](https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma)
+
+---
+
+## Phương pháp điều trị bệnh tân sinh biểu mô dương vật là gì?
+
+[Cần sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) để xác nhận chẩn đoán, vì nó có thể giống với các dạng viêm quy đầu mạn tính khác. Sinh thiết cũng rất cần thiết để loại trừ ung thư biểu mô tế bào vảy xâm lấn, loại ung thư đòi hỏi điều trị tích cực hơn.
+Việc duy trì vệ sinh bộ phận sinh dục tốt là rất quan trọng . U tân sinh biểu mô dương vật có thể được điều trị theo nhiều cách khác nhau. Có thể cần phải điều trị đa chuyên khoa .
+- [Kem 5-fluorouracil](https://dermnetnz.org/topics/5-fluorouracil-cream)
+- [Kem Imiquimod](https://dermnetnz.org/topics/imiquimod)
+- [Liệu pháp lạnh](https://dermnetnz.org/topics/cryotherapy)
+- [Nạo và đốt](https://dermnetnz.org/topics/curettage-and-cautery)
+- [Sự bốc hơi bằng tia laser](https://dermnetnz.org/topics/lasers-in-dermatology)
+- [Liệu pháp quang động](https://dermnetnz.org/topics/photodynamic-therapy)
+- [Xạ trị](https://dermnetnz.org/topics/radiotherapy-for-malignant-skin-diseases)
+- [Cắt bỏ](https://dermnetnz.org/topics/excision-of-skin-lesions)
+- Interferon alpha
+[Phẫu thuật vi phẫu Mohs](https://dermnetnz.org/topics/mohs-micrographic-surgery) dường như rất hiệu quả và là phương pháp điều trị phẫu thuật được lựa chọn trong các trường hợp tân sinh biểu mô dương vật nặng hoặc tái phát .
+Bệnh tái phát ở 3–10% bệnh nhân, do đó cần theo dõi chặt chẽ để đảm bảo khỏi bệnh hoàn toàn.
+Bạn tình của bệnh nhân mắc chứng tân sinh biểu mô dương vật nên được sàng lọc các dạng tân sinh biểu mô khác do vi rút u nhú ở người gây ra ở vùng hậu môn sinh dục ( ung thư cổ tử cung , [âm hộ](https://dermnetnz.org/topics/vulval-cancer) và hậu môn ).
+Nhiều chương trình tiêm chủng quốc gia hiện nay đã bao gồm [vắc-xin](https://dermnetnz.org/topics/vaccines-against-human-papillomavirus) phòng ngừa hai loại virus gây u nhú ở người là HPV-16 và HPV-18. Việc tiêm chủng cho trẻ em trai và nam thanh niên nên được đưa vào chương trình để giảm nguy cơ phát triển ung thư biểu mô dương vật liên quan đến HPV trong tương lai. Nam giới bị tân sinh biểu mô dương vật đôi khi được điều trị bằng vắc-xin HPV; hiệu quả của vắc-xin trong trường hợp này vẫn chưa được biết rõ.

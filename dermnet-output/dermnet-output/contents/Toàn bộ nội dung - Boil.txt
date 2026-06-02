@@ -1,0 +1,74 @@
+# Đun sôi — thông tin bổ sung
+
+Thể loại:
+
+Nhiễm trùng, Rối loạn nang lông
+
+SNOMED CT:
+
+416675009, 416893007, 399008001, 3092008
+
+**[Nhiễm trùng, Rối loạn nang lông](https://dermnetnz.org/topics/topics?category=Infections)**
+
+
+# **Đun sôi**
+
+Tác giả: Tiến sĩ Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand. Cập nhật bởi Tiến sĩ Amanda Oakley; Vanessa Ngan, Biên tập viên; tháng 6 năm 2014. Cập nhật mới nhất bởi Tiến sĩ Jannet Gomez, Nghiên cứu sinh sau đại họcchuyên ngành Da liễu Lâm sàng, Đại học Queen Mary, London, Vương quốc Anh, tháng 1 năm 2016.
+
+---
+
+## Nhọt là gì?
+
+Nhọt (còn gọi là nhọt nhọt) là dạng [viêm nang lông sâu do vi khuẩn](https://dermnetnz.org/topics/bacterial-folliculitis) ( nhiễm trùng nang lông ) .
+
+---
+
+## Đặc điểm lâm sàng của nhọt là gì?
+
+Nhọt biểu hiện dưới dạng một hoặc nhiều nốt đỏ mềm, cục u hoặc mụn mủ. Quan sát kỹ sẽ thấy nhọt tập trung ở nang lông. Nhọt là một dạng [viêm nang lông do](https://dermnetnz.org/topics/folliculitis) vi khuẩn ở sâu ; đôi khi viêm nang lông nông cũng xuất hiện cùng lúc. Có thể nuôi cấy [tụ cầu vàng](https://dermnetnz.org/topics/staphylococcal-skin-infection) từ các tổn thương da. [](https://dermnetnz.org/topics/folliculitis) [](https://dermnetnz.org/topics/staphylococcal-skin-infection)
+Nếu có nhiều đầu, tổn thương được gọi là nhọt. Nhọt lớn hình thành [áp xe](https://dermnetnz.org/topics/cutaneous-abscess) , được định nghĩa là sự tích tụ mủ trong một khoang. [Viêm mô tế bào](https://dermnetnz.org/topics/cellulitis) cũng có thể xảy ra, tức là nhiễm trùng các mô xung quanh, và điều này có thể gây sốt và ốm.
+![Không có caption](https://dermnetnz.org/assets/Uploads/bacterial/boil1.jpg)
+![Đun sôi](https://dermnetnz.org/assets/Uploads/bacterial/boil2.jpg)
+![Luộc ở nách](https://dermnetnz.org/assets/Uploads/bacterial/boil5.jpg)
+![Viêm mô tế bào xung quanh](https://dermnetnz.org/assets/Uploads/bacterial/s/boil6.jpg)
+![Nhọt độc](https://dermnetnz.org/assets/Uploads/bacterial/carbuncle01.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/carbuncle-02.jpg)
+
+---
+
+## Tại sao lại xuất hiện nhọt?
+
+Hầu hết những người bị nhọt đều khỏe mạnh và vệ sinh cá nhân tốt. Tuy nhiên, họ vẫn mang tụ cầu vàng trên bề mặt da ( tình trạng mang vi khuẩn tụ cầu ). Nguyên nhân thường chưa được biết rõ, nhưng ước tính có khoảng 10–20% dân số là người mang vi khuẩn tụ cầu.
+Tụ cầu vàng thường trú ngụ ở lỗ mũi, nách, giữa hai chân và khe mông. Vi khuẩn có thể lây lan từ lỗ mũi sang các vị trí khác thông qua móng tay .
+Những vết xước nhỏ, vết trầy xước hoặc vật gì đó cọ xát vào da có thể khiến vi khuẩn xâm nhập vào thành nang lông, vốn là điểm yếu trong hệ thống phòng vệ của da. Sau khi xâm nhập, vi khuẩn sẽ gây ra tình trạng nhọt, kéo dài khoảng 10 ngày.
+Mặc dù hầu hết những người bị nhọt đều khỏe mạnh, nhưng đôi khi nhọt có liên quan đến tình trạng suy giảm miễn dịch, thiếu máu , tiểu đường, hút thuốc hoặc [thiếu sắt](https://dermnetnz.org/topics/iron-deficiency) .
+
+---
+
+## Phương pháp điều trị nhọt là gì?
+
+
+### Điều trị y tế các vết nhọt
+Việc điều trị nhọt phụ thuộc vào mức độ nghiêm trọng của bệnh. Bác sĩ có thể đưa ra lời khuyên và phương pháp điều trị cụ thể, một số phương pháp được liệt kê dưới đây:
+- [Dùng xà phòng sát trùng](https://dermnetnz.org/topics/antiseptic) hoặc [kháng khuẩn](https://dermnetnz.org/topics/antibacterial-soap) khi tắm hoặc gội đầu hàng ngày trong một tuần, sau đó dùng hai lần mỗi tuần trong vài tuần. Chất tẩy rửa có thể gây khô da một chút.
+- Sử dụng nước rửa tay khô thường xuyên để giảm nguy cơ tái nhiễm cho bản thân hoặc người khác bằng bàn tay bị nhiễm bẩn.
+- Thuốc mỡ hoặc gel sát trùng hoặc kháng sinh để bôi vào bên trong lỗ mũi.
+- Lau toàn bộ bề mặt da hàng ngày trong một tuần bằng cồn isopropyl 70% pha với nước (điều này sẽ làm da khô).
+- Bôi thuốc sát trùng tại chỗ như povidone [iodine hoặc](https://dermnetnz.org/topics/iodine) kem chlorhexidine vào vết nhọt và băng lại bằng một miếng gạc vuông.
+- Bác sĩ có thể kê đơn [thuốc kháng](https://dermnetnz.org/topics/antibiotics) sinh uống (thường là thuốc kháng sinh [penicillin](https://dermnetnz.org/topics/penicillin) flucloxacillin), đôi khi phải mất vài tuần.
+- Các thành viên khác trong gia đình bị nhọt cũng nên tuân thủ chế độ vệ sinh da. Bác sĩ cũng có thể khuyên gia đình bôi thuốc kháng sinh tại chỗ vào lỗ mũi trong trường hợp họ cũng mang vi khuẩn Staphylococcus aureus .
+- Nếu vết nhọt không khỏi, cần lấy tăm bông để nuôi cấy vi sinh vật trong trường hợp tụ [cầu kháng methicillin (methicillin)](https://dermnetnz.org/topics/methicillin-resistant-staphylococcus-aureus) .
+- Đôi khi, thuốc kháng sinh đặc biệt có thể được kê đơn theo khuyến cáo của bác sĩ chuyên khoa, bao gồm [axit fusidic](https://dermnetnz.org/topics/topical-fusidic-acid) , [clindamycin](https://dermnetnz.org/topics/clindamycin) , [rifampicin](https://dermnetnz.org/topics/rifampicin) và cephalosporin.
+
+### Các biện pháp chung để ngăn ngừa nhọt
+- Tham khảo ý kiến ​​bác sĩ về tình trạng sức khỏe tổng quát của bạn.
+- Nếu bạn thừa cân, hãy cố gắng giảm cân và tập thể dục thường xuyên.
+- Thực hiện chế độ ăn uống cân bằng lành mạnh với thịt, nhiều trái cây và rau.
+- Tránh hút thuốc.
+- Tắm rửa toàn thân mỗi ngày một lần bằng [xà phòng hoặc sữa tắm](https://dermnetnz.org/topics/soaps-and-cleansers) và nước. Rửa tay nhiều lần mỗi ngày hoặc sử dụng [dung dịch](https://dermnetnz.org/topics/hand-rub) sát khuẩn .
+- Không nên dùng chung khăn mặt hoặc khăn tắm với các thành viên khác trong gia đình.
+- Hãy giữ khăn tay sạch sẽ và đừng ngoáy mũi!
+- Thay đồ lót và đồ ngủ thường xuyên.
+- Hãy cân nhắc thay đổi các hoạt động giải trí gây đổ mồ hôi và ma sát từ quần áo, chẳng hạn như chơi bóng quần và chạy bộ.
+- Nếu bạn bị [thiếu sắt](https://dermnetnz.org/topics/iron-deficiency) , uống viên sắt có thể giúp giảm nhiễm trùng.
+- 1000 mg vitamin C mỗi ngày cũng được khuyến cáo là có thể cải thiện chức năng bạch cầu trung tính bị thiếu hụt .

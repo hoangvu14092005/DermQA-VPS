@@ -1,0 +1,80 @@
+# Bệnh sừng hóa dạng lichen — thông tin bổ sung
+
+Thể loại:
+
+Tổn thương (lành tính)
+
+SNOMED CT:
+
+403198004
+
+**[Tổn thương (lành tính)](https://dermnetnz.org/topics/topics?category=Lesions+(benign))**
+
+
+# **Sừng hóa dạng lichen**
+
+Tác giả: Vanessa Ngan, Biên tập viên, 2006. Cập nhật bởi Phó Giáo sư Amanda Oakley, tháng 3 năm 2016. Sửa đổi DermNet tháng 9 năm 2021
+
+---
+
+## Bệnh sừng hóa dạng lichen là gì?
+
+Sừng hóa dạng liken là một mảng nhỏ bị viêm hoặc mảng sắc tố mỏng , thường đơn độc, có phản ứng mô liken trên mô học.
+![Không có caption](https://dermnetnz.org/assets/Uploads/lesions/lichenoid-keratosis7.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/lichenoid-keratosis-46.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/lesions/lichenoid-keratosis3.jpg)
+Dày sừng dạng lichen còn được gọi là dày sừng dạng lichen lành tính , [liken phẳng](https://dermnetnz.org/topics/lichen-planus) đơn độc , dày sừng dạng lichen phẳng và mảng lichen dạng lichen thoái triển. Đây là một trong những nguyên nhân gây ra [chứng lúm đồng tiền do ánh nắng không điển hình](https://dermnetnz.org/topics/atypical-solar-lentigo) .
+
+---
+
+## Ai mắc bệnh dày sừng dạng lichen?
+
+Bệnh dày sừng dạng lichen thường phát triển ở những bệnh nhân da trắng trong độ tuổi 30–80. Bệnh phổ biến ở nữ giới gấp đôi nam giới. Bệnh thường gặp nhất ở người da trắng và hiếm khi ảnh hưởng đến người châu Á, người Mỹ gốc Phi hoặc người gốc Tây Ban Nha.
+
+---
+
+## Nguyên nhân nào gây ra bệnh sừng hóa dạng lichen?
+
+Sừng hóa dạng lichen là phản ứng viêm phát sinh do thoái triển của chứng dày [sừng tiết bã](https://dermnetnz.org/topics/solar-lentigo) hoặc [lentigo do ánh nắng mặt trời. Nguyên nhân gây ra phản ứng này vẫn chưa được biết rõ, nhưng các yếu tố kích hoạt có thể bao gồm](https://dermnetnz.org/topics/seborrhoeic-keratosis) chấn thương nhẹ như ma sát, thuốc, viêm da và tiếp xúc với ánh nắng mặt trời.
+
+---
+
+## Đặc điểm lâm sàng của bệnh sừng hóa dạng lichen là gì?
+
+- 90% trường hợp bị dày sừng dạng lichen chỉ có một tổn thương đơn độc, trong khi những trường hợp khác có nhiều tổn thương.
+- Bệnh thường gặp nhất ở phần thân trên, tiếp theo là phần xa của chi trên và ít gặp hơn ở đầu và cổ.
+- Kích thước dao động từ vài milimét đến một centimet hoặc lớn hơn.
+- Bề mặt da có thể nhẵn, có vảy hoặc có mụn cóc.
+- Tổn thương thường không có triệu chứng. Có thể ngứa hoặc có cảm giác châm chích nhẹ.
+Các đặc điểm lâm sàng của bệnh dày sừng dạng lichen thay đổi tùy thuộc vào giai đoạn viêm của tổn thương.
+Phân nhóm cổ điển, phồng rộp hoặc không điển hình Đặc điểm lâm sàng Tổn thương cấp tính phát triển nhanh (kéo dài trong 3 tháng) Sẩn hoặc mảng đỏ hoặc hồng [Nội soi da](https://dermnetnz.org/topics/dermoscopy) có thể cho thấy tàn dư của mạng lưới sắc tố , các mảng màu nâu mờ, các cụm chấm xám cùng các mạch máu giãn mạch hình chấm, tuyến tính không đều và các hình dạng khác Bệnh học mô học Biến thể cổ điển biểu hiện tăng sinh gai thượng bì với thâm nhiễm lympho bào dạng dải dạng liken . Sự hiện diện của tình trạng sừng hóa thượng bì giúp phân biệt các tổn thương này với [liken phẳng](https://dermnetnz.org/topics/lichen-planus) điển hình . [](https://dermnetnz.org/topics/lichen-planus) Biến thể bọng nước biểu hiện các khoang bọng nước trong hoặc dưới biểu bì với thâm nhiễm lympho bào dày đặc và số lượng tế bào sừng lớp đáy hoại tử tăng lên . Biến thể không điển hình cho thấy mô học tương tự như loại cổ điển với tế bào lympho CD-3, CD-30 (+) to rải rác với nhân tăng sắc , không đều . Kiểu con sớm hoặc giao diện Đặc điểm lâm sàng Tổn thương bán cấp kéo dài từ 3 tháng đến một năm Tổn thương màu đỏ đến đỏ sẫm hoặc nâu tăng sắc tố Tùy thuộc vào độ tuổi của tổn thương, nội soi da có thể cho thấy các đặc điểm của lentigo mặt trời hoặc dày sừng tiết bã nhờn phẳng với viền bị mọt ăn, dấu vân tay, nang giống như mụn kê , lỗ mở giống như mụn đầu đen , cùng với các ổ nhỏ của thực bào hắc tố (các chấm xám). Bệnh học mô học Các tế bào lympho đơn lẻ xếp dọc theo đường nối hạ bì và biểu bì mà không có gai biểu bì và các lentigo liền kề Phân nhóm thoái triển muộn hoặc teo cơ Đặc điểm lâm sàng Các tổn thương đã xuất hiện trong hơn một năm Có thể là các sẩn màu tím hoặc các tổn thương phân bố không đều với các sắc thái màu nâu hoặc xám Bệnh học mô học Teo biểu bì với sẹo nhú bì , thâm nhiễm tế bào lympho từng mảng và không kiểm soát được melanin
+Các tổn thương dạng sừng dạng lichen bùng phát nhiều lần ở những vùng tiếp xúc với ánh nắng mặt trời cũng được mô tả. Màu sắc của chúng thay đổi từ nâu đỏ ban đầu đến tím xám/nâu khi tổn thương tự khỏi sau vài tuần hoặc vài tháng.
+![](https://dermnetnz.org/assets/collection-O/Lichenoid-keratosis-SOC/lichenoid-keratosis-00078.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/lesions/lichenoid-keratosis2.jpg)
+![Sừng hóa dạng lichen](https://dermnetnz.org/assets/Uploads/doctors/lesions/images/sebk6.jpg)
+
+---
+
+## Bệnh sừng hóa dạng lichen được chẩn đoán như thế nào?
+
+Sừng hóa dạng lichen có thể được chẩn đoán lâm sàng và xác nhận bằng [soi da](https://dermnetnz.org/topics/dermoscopy) , cho thấy các cụm chấm xám đồng nhất [xem [soi da dạng hạt hình khuyên](https://dermnetnz.org/topics/annular-granular-pattern) ]. Tùy thuộc vào giai đoạn của tổn thương, có thể có dấu hiệu của một lentigo hoặc sừng hóa tiết bã nhờn ban đầu, những dấu hiệu này sẽ biến mất theo thời gian. Sau đó, các chấm xám cũng biến mất khi tổn thương lành lại.
+Sinh [thiết da](https://dermnetnz.org/topics/skin-biopsy) là cần thiết nếu khám lâm sàng và soi da không thể phân biệt được giữa bệnh dày sừng dạng liken và các tổn thương ban đỏ đơn độc khác.
+Mô bệnh học tương tự như [liken phẳng](https://dermnetnz.org/topics/lichen-planus-pathology) hoặc [phát ban dạng liken](https://dermnetnz.org/topics/lichenoid-drug-reaction-pathology) , với một số khác biệt nhỏ. Có thể thấy dấu vết của [nốt ruồi mặt trời hoặc dày sừng tiết bã nhờn ban đầu.](https://dermnetnz.org/topics/lentigo-pathology)
+![Chấm xám](https://dermnetnz.org/assets/Uploads/lesions/lichenoid-keratosis4.jpg)
+![Mẫu hạt hình khuyên](https://dermnetnz.org/assets/Uploads/lesions/grey-dots-lplk.jpg)
+![Chấm xám](https://dermnetnz.org/assets/Uploads/lesions/lichenoid-keratosis6.jpg)
+
+---
+
+## Phương pháp điều trị bệnh sừng hóa dạng lichen là gì?
+
+Nếu có bất kỳ nghi ngờ nào về chẩn đoán, hình ảnh kỹ thuật số soi da có thể được chụp và sử dụng để theo dõi sau vài tháng.
+Sừng hóa dạng liken có thể được loại bỏ nếu muốn bằng [nitơ lỏng](https://dermnetnz.org/topics/cryotherapy) , [phẫu thuật điện](https://dermnetnz.org/topics/electrosurgery) hoặc [nạo](https://dermnetnz.org/topics/curettage-and-cautery) .
+Có thể điều trị hiệu quả các bệnh sừng hóa dạng lichen dạng phát ban bằng [thuốc retinoid đường uống](https://dermnetnz.org/topics/oral-retinoids) , [acitretin](https://dermnetnz.org/topics/acitretin) .
+
+---
+
+## Hậu quả của bệnh sừng hóa dạng lichen là gì?
+
+Bệnh sừng hóa dạng lichen không gây hại và có thể tự khỏi.
+Cho đến nay vẫn chưa có báo cáo nào về tình trạng dày sừng dạng licheno chuyển thành khối u ác tính ở da .

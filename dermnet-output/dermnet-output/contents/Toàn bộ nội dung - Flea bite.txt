@@ -1,0 +1,114 @@
+# Vết cắn của bọ chét — thông tin bổ sung
+
+Thể loại:
+
+Nhiễm trùng
+
+SNOMED CT:
+
+262551003, 242641002, 242642009, 242643004, 419884005
+
+**[Nhiễm trùng](https://dermnetnz.org/topics/topics?category=Infestations)**
+
+
+# **Vết cắn của bọ chét**
+
+Tác giả: Daniel Jun Yi Wong, Sinh viên Y khoa, Đại học Melbourne. Cập nhật bởi Vanessa Ngân, biên tập viên, ngày 1 tháng 2 năm 2014.
+
+---
+
+## Bọ chét là gì?
+
+Bọ chét là loài côn trùng thuộc bộ Siphonaptera . Chúng là loài ký sinh trùng sống bằng cách hút máu vật chủ. Bọ chét chủ yếu hút máu người bao gồm bọ chét người (Pulex irritans ), bọ chét chó mèo (Ctenocephalides canis) và bọ chét mèo (Ctenocephalides felis) .
+Nhiễm bọ chét có thể khó diệt trừ.
+
+---
+
+## Vòng đời của bọ chét là gì?
+
+Vòng đời của bọ chét bao gồm bốn giai đoạn chính: trứng, ấu trùng , nhộng và bọ chét trưởng thành.
+Bọ chét trưởng thành sống hoàn toàn nhờ hút máu từ vật chủ. Trong quá trình hút máu, bọ chét có một ống miệng đặc biệt, có thể đâm thủng da lành lặn và hút máu. Đồng thời, chúng tiết ra nước bọt, một chất có tính kháng nguyên cao (gây dị ứng). Nước bọt giúp ngăn máu của vật chủ đông lại, tạo điều kiện thuận lợi cho việc hút máu.
+Bọ chét có ba cặp chân, với chân sau dài, lý tưởng cho việc nhảy. Chúng không có cánh. Chúng có thể nhảy cao tới 18 cm. Bọ chét trưởng thành trên vật nuôi thường sống trên cơ thể vật nuôi để dễ dàng hút máu.
+Bọ chét cái đẻ trứng tròn, màu trắng, thường rơi ra khỏi cơ thể động vật xuống ổ nằm, sàn nhà và đất. Ấu trùng mới nở ăn các chất hữu cơ trong môi trường ẩm ướt, bao gồm cả phân của bọ chét trưởng thành. Sau khi sinh trưởng và phát triển đầy đủ , ấu trùng tự tạo kén và hóa nhộng. Kén được tìm thấy trong đất, thảm, dưới đồ nội thất và trên ổ nằm của động vật. Với các kích thích thích hợp, chẳng hạn như nhiệt độ ấm áp, độ ẩm cao hoặc rung động từ chuyển động, nhộng chui ra khỏi kén và trở thành bọ chét trưởng thành. [1]
+Vòng đời của bọ chét có thể kéo dài từ 2 tuần đến 2 năm, thường là trong vòng 8 tuần. Khả năng sống sót của bọ chét phụ thuộc vào nhiệt độ thích hợp và độ ẩm cao.
+Bọ chét trưởng thành di chuyển về phía nguồn sáng, sau đó nhảy khi ánh sáng bị che khuất, ví dụ như bởi một vật chủ máu nóng thích hợp. Bọ chét bắt đầu hút máu ngay lập tức và ước tính tiêu thụ 13,6 µL máu mỗi ngày. Chúng sẽ sớm chết nếu bị tách khỏi vật chủ, và hiếm khi xâm chiếm một loài động vật khác.
+Bọ chét có thể khó phát hiện. Chúng có màu sẫm và không có cánh. Chúng dễ nhận biết hơn nếu chúng nhảy lên người đi tất trắng. Phân bọ chét ('bụi bọ chét') trông như những hạt tiêu đen, và khi nhìn thấy trên khăn ẩm, chúng có màu đỏ do có máu trong phân.
+
+---
+
+## Làm thế nào để ngăn ngừa bọ chét cắn?
+
+Các yếu tố nguy cơ bị bọ chét cắn bao gồm:
+- tiếp xúc gần với vật nuôi bị nhiễm bệnh ;
+- khi đến thăm một tòa nhà không có người ở trước đây từng nuôi thú cưng bị nhiễm bọ chét – có thể tìm thấy bọ chét trên sàn nhà và thảm.
+Các loài chủ yếu ký sinh trên mèo và chó có thể cắn người nếu họ bị đói sau lần hút máu cuối cùng. Rung động, ví dụ như tiếng bước chân khi vào nhà, cũng có thể kích thích bọ chét trưởng thành chui ra khỏi kén (giai đoạn nhộng) và gây ra vết cắn cho người [2].
+Cách tốt nhất để ngăn ngừa bọ chét cắn người là:
+- hạn chế thú cưng ra vào trong nhà (hoặc ngoài trời)
+- hút bụi thảm và giặt ga trải giường
+- thường xuyên chải lông cho thú cưng bị nhiễm bệnh
+- sử dụng [thuốc trừ sâu](https://dermnetnz.org/topics/insecticides-and-the-skin) thích hợp .
+Trứng bọ chét có thể tồn tại trong vài tuần và thú cưng rất dễ bị tái nhiễm, vì vậy hãy duy trì các biện pháp này lâu dài để ngăn ngừa tình trạng nhiễm trùng tái phát. Những trường hợp nhiễm trùng nghiêm trọng có thể cần đến sự trợ giúp của chuyên gia diệt côn trùng. [3]
+
+---
+
+## Triệu chứng của vết cắn của bọ chét là gì?
+
+Triệu chứng chính của vết cắn của bọ chét là ngứa dữ dội (hoặc ngứa ). Vết cắn cũng có thể gây đau. Gãi có thể dẫn đến nhiễm trùng thứ phát.
+Một số cá thể có phản ứng miễn dịch quá mức ( dị ứng ) với nước bọt của bọ chét , dẫn đến phản ứng cắn rõ rệt hơn hoặc dai dẳng hơn , được gọi là [nổi mề đay sẩn](https://dermnetnz.org/topics/papular-urticaria) , một dạng [ngứa](https://dermnetnz.org/topics/prurigo) . Vị trí vết cắn có thể đỏ và sưng, đôi khi có mụn nước ở giữa, có thể vỡ ra, chảy dịch và đóng vảy. Vết cắn cũ có thể tái phát. Chưa có báo cáo nào [về phản vệ . [4]](https://dermnetnz.org/topics/anaphylaxis)
+Vết cắn của bọ chét thường xuất hiện ở cẳng chân, nơi bọ chét có thể tiếp cận da khi nhảy cao, hoặc ở phần cạp quần, nơi có khoảng hở giữa áo và quần hoặc váy.
+![Vết cắn của bọ chét](https://dermnetnz.org/assets/Uploads/arthropods/flea-bites.jpg)
+![Vết cắn của bọ chét](https://dermnetnz.org/assets/Uploads/arthropods/s/flea-bites2.jpg)
+![Vết cắn của bọ chét](https://dermnetnz.org/assets/Uploads/arthropods/flea-bites3.jpg)
+
+---
+
+## Vết cắn của bọ chét có thể truyền bệnh không?
+
+Bọ chét có thể đóng vai trò là vật trung gian truyền bệnh (gọi là vectơ ) cho các bệnh khác do vi khuẩn và vi-rút gây ra. Ví dụ:
+- Bọ chét chuột ( Xenopsylla cheopis và Xenopsylla braziliensis ) được biết là có thể truyền [bệnh](https://dermnetnz.org/topics/plague) dịch hạch và [sốt phát ban do Rickettsia](https://dermnetnz.org/topics/typhus) .
+- Bọ chét mèo có thể truyền vi khuẩn Bartonella henselae , nguyên nhân gây [sốt mèo cào](https://dermnetnz.org/topics/catscratch-disease) và [bệnh u mạch trực khuẩn](https://dermnetnz.org/topics/bacillary-angiomatosis)
+
+### Bệnh Tungiasis
+Các loài bọ chét cát nhiệt đới ( Tunga penetrans ) đào hang vào da người và gây ra phản ứng viêm được gọi là [bệnh sán dây lợn](https://dermnetnz.org/topics/tungiasis) . Bệnh sán dây lợn thường biểu hiện dưới dạng các nốt sẩn viêm ở bàn chân, đặc biệt là ở các kẽ ngón chân, gây đau, ngứa và [nhiễm trùng da do tụ cầu khuẩn](https://dermnetnz.org/topics/staphylococcal-skin-infection) thứ phát [5].
+
+---
+
+## Cách điều trị vết cắn của bọ chét là gì?
+
+Điều quan trọng là phải cố gắng loại bỏ bọ chét khỏi môi trường – bao gồm cả trên sàn nhà và khăn trải giường (nơi đẻ trứng) và trên vật nuôi trong nhà.
+Điều trị vết cắn của bọ chét có thể bao gồm:
+- [thuốc kháng histamine đường uống](https://dermnetnz.org/topics/antihistamines) để giảm phản ứng [nổi mề đay](https://dermnetnz.org/topics/urticaria-an-overview) (sưng, ngứa)
+- kem chống ngứa dịu nhẹ giúp giảm ngứa và ngăn ngừa nhiễm trùng thứ phát do vi khuẩn
+- [steroid bôi ngoài da](https://dermnetnz.org/topics/topical-steroid) để giảm viêm.
+Đau, đỏ, rỉ dịch, đóng vảy và mụn mủ tại vị trí vết cắn là dấu hiệu của nhiễm trùng thứ phát do vi khuẩn, thường cần phải dùng [thuốc kháng sinh](https://dermnetnz.org/topics/antibiotics) bôi ngoài da hoặc uống . [](https://dermnetnz.org/topics/antibiotics)
+
+---
+
+## Bọ chét được loại bỏ khỏi môi trường như thế nào?
+
+Một số biện pháp đã được đề xuất để giảm số lượng bọ chét trong môi trường gia đình.
+- Giặt bộ đồ giường của thú cưng mỗi tuần một lần, chú ý không để trứng và ấu trùng bọ chét phát tán trong quá trình giặt.
+- Hút bụi thảm, sàn nhà và đồ nội thất thật kỹ để loại bỏ bọ chét trưởng thành, trứng, ấu trùng và phân bọ chét. Niêm phong và vứt bỏ hoặc đốt túi đựng bụi để tránh tái nhiễm.
+- Nên vệ sinh thảm bằng hơi nước trong trường hợp thảm bị nhiễm khuẩn nặng.
+- Cắt cỏ thường xuyên ở những khu vực mà thú cưng thường xuyên ở ngoài trời.
+- Ngăn chặn sự ghé thăm của các loài động vật hoang dã có thể mang theo bọ chét.
+- Trồng một quả bom diệt bọ chét, một loại bình xịt để diệt bọ chét (làm theo hướng dẫn một cách cẩn thận).
+- Tham khảo ý kiến ​​chuyên gia diệt trừ sâu bệnh để đặt bẫy bọ chét và [thuốc diệt côn trùng](https://dermnetnz.org/topics/insecticides-and-the-skin) bên trong và bên ngoài ngôi nhà.
+
+---
+
+## Người ta dùng gì để điều trị và ngăn ngừa bệnh nhiễm trùng ở vật nuôi?
+
+Thú cưng mang theo khoảng 5% tổng số bọ chét và là nguồn chứa bọ chét trưởng thành chính. Để giảm thiểu việc sử dụng thuốc trừ sâu có khả năng gây độc :
+- Kiểm tra bọ chét thường xuyên ở thú cưng. Kiểm tra gốc đuôi, quanh cổ, háng, mặt sau chân và giữa lưng.
+- Thường xuyên vệ sinh thú cưng bằng nước xà phòng.
+- Chải bọ chét thường xuyên bằng lược chải bọ chét; nhúng bọ chét vào nước xà phòng.
+Hãy hỏi ý kiến ​​bác sĩ thú y về loại thuốc diệt côn trùng nào nên dùng cho thú cưng của bạn. Thuốc kê đơn sẽ khác nhau ở chó và mèo. Dưới đây là một số phương pháp diệt bọ chét cho chó và mèo. Nhiều loại thuốc trong số này chỉ có thể mua được từ bác sĩ thú y đã được cấp phép.
+- Các công thức thuốc bôi ngoài da diệt bọ chét trưởng thành an toàn bao gồm imidacloprid, fipronil, dinotefuran, metalfumizone và selamectin.
+- Thuốc diệt côn trùng đường uống nhắm vào bọ chét trưởng thành bao gồm nitenpyram hoặc spinosad.
+- Thuốc điều hòa sinh trưởng côn trùng hàng tháng (IGR) chứa methoprene, pyriproxyfen, alsystin, cyromazine, diflubenzuron và lefenuron không tiêu diệt bọ chét trưởng thành nhưng ngăn chặn sự phát triển của trứng và ấu trùng. IGR có sẵn dưới dạng vòng cổ diệt bọ chét, kem bôi, thuốc xịt, thuốc tiêm và thuốc viên. Chúng được coi là an toàn. [6, 7]
+Sản phẩm kết hợp là loại thuốc trừ sâu hiệu quả nhất nhưng đắt hơn.
+Các loại thuốc diệt bọ chét truyền thống sau đây đều độc hại với người và vật nuôi, tốt nhất nên tránh sử dụng (ngoại trừ permethrin, có thể dùng cho chó). Ngoài ra, khả năng kháng thuốc của côn trùng đang ngày càng tăng.
+- Thuốc trừ sâu organophosphate (chlorpyrifos, dichlorvos, phosmet, naled, tetrachlorvinphos, diazinon và malathion), carbamate (carbaryl, propoxur)
+- Clo hữu cơ
+- Pyrethrin và pyrethroid (permethrin, allethrin, tetramethrin, resmethrin, fenvalerate và cypermethrin).

@@ -1,0 +1,77 @@
+# Ấu trùng di chuyển qua da — thông tin bổ sung
+
+Thể loại:
+
+Nhiễm trùng
+
+SNOMED CT:
+
+19362000, 359762003
+
+**[Nhiễm trùng](https://dermnetnz.org/topics/topics?category=Infestations)**
+
+
+# **Ấu trùng di chuyển trên da**
+
+Tác giả: Vanessa Ngan, Biên tập viên, 2003.
+
+---
+
+## Ấu trùng di chuyển qua da là gì?
+
+Bệnh ấu trùng di chuyển ngoài da là một bệnh nhiễm trùng da do ấu trùng [giun móc](https://dermnetnz.org/topics/hookworm-infections) gây ra , thường ký sinh trên mèo, chó và các động vật khác. Con người có thể bị nhiễm ấu trùng khi đi chân trần trên bãi biển đầy cát hoặc tiếp xúc với đất mềm ẩm bị nhiễm phân động vật. Bệnh này còn được gọi là phát ban lan tỏa vì một khi bị nhiễm, ấu trùng sẽ di chuyển xuống dưới bề mặt da và gây ra các đường hoặc rãnh đỏ ngứa. [](https://dermnetnz.org/topics/hookworm-infections)
+Hiện tượng sưng tấy di trú được gọi là ấu trùng di chuyển sâu được mô tả trên trang DermNet về [bệnh gnathostomiasis](https://dermnetnz.org/topics/gnathostomiasis) .
+![Ấu trùng di chuyển trên da](https://dermnetnz.org/assets/Uploads/arthropods/larva-mig1.jpg)
+![Ấu trùng di chuyển trên da](https://dermnetnz.org/assets/Uploads/arthropods/larva-migrans.jpg)
+![Ấu trùng di chuyển trên da](https://dermnetnz.org/assets/Uploads/arthropods/larva-mig2.jpg)
+
+---
+
+## Nguyên nhân nào gây ra hiện tượng ấu trùng di chuyển qua da?
+
+Nhiều loại giun móc có thể gây ra tình trạng ấu trùng di chuyển dưới da. Các nguyên nhân phổ biến là:
+- Ancylostoma braziliense : giun móc ở chó và mèo hoang dã và nhà được tìm thấy ở miền trung và miền nam Hoa Kỳ, Trung và Nam Mỹ, và vùng Caribe
+- Ancylostoma caninum : giun móc chó được tìm thấy ở Úc
+- Uncinaria stenocephala : giun móc chó được tìm thấy ở Châu Âu
+- Bunostomum phlebotomum : giun móc gia súc
+
+---
+
+## Ai có nguy cơ mắc bệnh ấu trùng di chuyển qua da?
+
+Mọi người ở mọi lứa tuổi, giới tính và chủng tộc đều có thể bị ảnh hưởng bởi ấu trùng di chuyển qua da nếu họ đã tiếp xúc với ấu trùng giun móc. Bệnh thường gặp nhất ở các vùng địa lý nhiệt đới hoặc cận nhiệt đới. Các nhóm có nguy cơ bao gồm những người có nghề nghiệp hoặc sở thích khiến họ tiếp xúc với đất cát ấm, ẩm. Những nhóm này có thể bao gồm:
+- Những người đi dạo trên bãi biển và tắm nắng chân trần
+- Trẻ em trong hố cát
+- Nông dân
+- Người làm vườn
+- Thợ sửa ống nước
+- Thợ săn
+- Thợ điện
+- Thợ mộc
+- Người diệt trừ sâu bệnh.
+Hầu hết ấu trùng di cư được nhìn thấy ở New Zealand xuất hiện trong các kỳ nghỉ ở nước ngoài, nhưng hiếm khi được báo cáo ở những người chưa bao giờ ra nước ngoài.
+
+---
+
+## Nhiễm giun móc xảy ra như thế nào?
+
+Trứng ký sinh trùng được truyền qua phân của động vật bị nhiễm bệnh đến đất cát ấm, ẩm, nơi ấu trùng nở ra. Khi tiếp xúc với da người, ấu trùng có thể xâm nhập qua nang lông , vết nứt hoặc thậm chí da nguyên vẹn để lây nhiễm cho vật chủ . Vài ngày đến vài tháng sau khi nhiễm trùng ban đầu, ấu trùng di chuyển xuống dưới da. Ở vật chủ động vật, ấu trùng có thể xâm nhập vào các lớp sâu hơn của da (lớp hạ bì ) và lây nhiễm vào máu và hệ bạch huyết . Khi vào ruột, chúng trưởng thành về mặt sinh dục để tạo ra nhiều trứng hơn, sau đó được bài tiết ra ngoài để bắt đầu lại chu kỳ.
+Tuy nhiên, ở vật chủ là con người, ấu trùng hiếm khi có thể xuyên qua màng đáy để xâm nhập vào lớp hạ bì nên bệnh thường chỉ giới hạn ở các lớp ngoài của da. Xem [bệnh lý ấu trùng di chuyển](https://dermnetnz.org/topics/larva-migrans-pathology) .
+
+---
+
+## Dấu hiệu và triệu chứng của bệnh ấu trùng di chuyển qua da là gì?
+
+Một vết phát ban không đặc hiệu xuất hiện tại vị trí ấu trùng giun móc xâm nhập. Có thể có cảm giác ngứa ran hoặc châm chích trong vòng 30 phút sau khi ấu trùng xâm nhập. Sau đó, ấu trùng có thể nằm im trong nhiều tuần hoặc nhiều tháng, hoặc ngay lập tức bắt đầu hoạt động bò trườn, tạo ra những đường mòn hình rắn rộng 2–3 mm, kéo dài 3–4 cm từ vị trí xâm nhập. Những đường mòn này hơi nhô lên, có màu da hoặc màu hồng và gây ngứa dữ dội. Các đường mòn tiến triển từ vài mm đến vài cm mỗi ngày và nếu có nhiều ấu trùng xâm nhập, một loạt các đường mòn ngoằn ngoèo và lộn xộn có thể hình thành.
+Những vị trí thường bị ảnh hưởng nhất bởi ấu trùng di chuyển qua da là bàn chân, khoảng cách giữa các ngón chân, bàn tay, đầu gối và mông.
+
+---
+
+## Có phương pháp điều trị nào cho bệnh ấu trùng di chuyển qua da?
+
+Ấu trùng di chuyển qua da có tính chất tự giới hạn. Con người là vật chủ ngẫu nhiên và "ngõ cụt" nên ấu trùng giun móc cuối cùng sẽ chết. Thời gian mắc bệnh tự nhiên thay đổi đáng kể tùy thuộc vào loài ấu trùng. Trong hầu hết các trường hợp, các tổn thương sẽ tự khỏi mà không cần điều trị trong vòng 4–8 tuần.
+Tuy nhiên, vẫn có phương pháp điều trị hiệu quả giúp rút ngắn thời gian mắc bệnh.
+- Thuốc tẩy giun sán như tiabendazole, albendazole, [mebendazole](https://dermnetnz.org/topics/mebendazole) và [ivermectin](https://dermnetnz.org/topics/ivermectin) được sử dụng. Thiabendazole bôi ngoài da được coi là lựa chọn điều trị cho các tổn thương sớm, khu trú . Điều trị bằng đường uống được chỉ định khi ấu trùng di chuyển qua da lan rộng hoặc điều trị tại chỗ không hiệu quả. Ngứa giảm đáng kể trong vòng 24–48 giờ sau khi bắt đầu điều trị bằng thuốc tẩy giun sán và hầu hết các tổn thương/vùng bị ảnh hưởng sẽ khỏi trong vòng 1 tuần.
+- Nếu không có những phương pháp này, có thể sử dụng các phương pháp điều trị vật lý như [liệu pháp đông lạnh bằng nitơ lỏng](https://dermnetnz.org/topics/cryotherapy) hoặc [tia laser carbon dioxide](https://dermnetnz.org/topics/carbon-dioxide-laser-treatment) để tiêu diệt ấu trùng.
+- [Thuốc kháng histamin](https://dermnetnz.org/topics/antihistamines) và [corticosteroid bôi ngoài da](https://dermnetnz.org/topics/topical-steroid) cũng có thể được sử dụng cùng với thuốc tẩy giun để giảm triệu chứng ngứa.
+- [Nhiễm trùng](https://dermnetnz.org/topics/bacterial-skin-infections) thứ phát do vi khuẩn có thể cần phải điều trị bằng [kháng sinh](https://dermnetnz.org/topics/antibiotics) thích hợp .

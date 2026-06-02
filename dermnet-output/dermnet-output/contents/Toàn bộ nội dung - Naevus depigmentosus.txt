@@ -1,0 +1,65 @@
+# Nốt ruồi không sắc tố — thông tin bổ sung
+
+Thể loại:
+
+Tổn thương (lành tính)
+
+SNOMED CT:
+
+403541001
+
+**[Tổn thương (lành tính)](https://dermnetnz.org/topics/topics?category=Lesions+(benign))**
+
+
+# **Nốt ruồi không sắc**
+
+Tác giả: Daniel Jun Yi Wong, Sinh viên Y khoa, Đại học Melbourne, Úc, 2013.
+
+---
+
+## Nốt ruồi không sắc là gì?
+
+Nốt ruồi không sắc tố là một loại bớt bẩm sinh hiếm gặp ( [nốt ruồi](https://dermnetnz.org/topics/congenital-naevi) ) đặc trưng bởi một mảng nhạt màu rõ nét . Nốt ruồi này thường có đường kính vài cm, với đường viền không đều nhưng rõ nét. Hình dạng và kích thước rất đa dạng. Thông thường, các mảng giảm sắc tố nhỏ hơn xuất hiện xung quanh các cạnh, trông giống như một vệt sơn.
+Naevus vô sắc (viết theo tiếng Mỹ là nevus ) còn được gọi là naevus depigmentosus và naevus không sắc tố . Tên gọi này không hoàn toàn đúng, vì các mảng giảm sắc tố của naevus vô sắc không hoàn toàn trắng, không giống như các vùng mất sắc tố trong [bệnh bạch biến](https://dermnetnz.org/topics/vitiligo) , là các vùng không có sắc tố và hoàn toàn không có tế bào hắc tố. Naevus vô sắc thường đơn độc, trái ngược với [bệnh xơ cứng củ](https://dermnetnz.org/topics/tuberous-sclerosis) , nơi xuất hiện nhiều mảng nhạt màu và được gọi là đốm lá tro.
+Nốt ruồi không sắc tố thường được phát hiện khi mới sinh hoặc thời thơ ấu, mặc dù các tổn thương có thể không biểu hiện rõ ràng cho đến giữa thời thơ ấu ở những người có làn da sáng màu. Nốt ruồi vẫn ổn định theo thời gian, ngoại trừ việc phát triển cùng trẻ. Nốt ruồi không sắc tố thường xuất hiện ở thân mình, nhưng cũng có thể xuất hiện ở chân tay và các vị trí khác. 50% trường hợp, nó đơn độc và có thể theo [đường Blaschko](https://dermnetnz.org/topics/blaschko-lines) .
+![Nốt ruồi không sắc](https://dermnetnz.org/assets/Uploads/lesions/naevus-depigmentosus-1.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/lesions/naevus-depigmentosus-2.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/lesions/naevus-depigmentosus-3.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/lesions/naevus-depigmentosus-4.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/lesions/naevus-depigmentosus-5.jpg)
+![Một tổn thương mất sắc tố một bên trên cánh tay - đứa trẻ vẫn khỏe mạnh. Hiện nay được gọi là rối loạn sắc tố từng vùng.](https://dermnetnz.org/assets/collection/Segmental-pigmentation-disorder/segmental-pigmentation-disorder-0004.jpg)
+
+---
+
+## Nguyên nhân gây ra nốt ruồi không sắc tố là gì?
+
+Nốt ruồi bất sắc là một dạng [khảm da](https://dermnetnz.org/topics/cutaneous-mosaicism) . Tình trạng này do sự biến đổi của dòng tế bào hắc tố ( tế bào sắc tố ) làm giảm khả năng sản xuất melanin (sắc tố nâu). Số lượng tế bào hắc tố bình thường hoặc giảm, các thể melanosome có thể giảm trong tế bào hắc tố và/hoặc tế bào sừng , cho thấy sự vận chuyển bị suy yếu.
+
+---
+
+## Các biến thể của nốt ruồi không sắc là gì?
+
+Các biến thể của nốt ruồi không sắc bao gồm:
+- Nốt ruồi đơn độc không màu
+- Nốt ruồi không sắc phân đoạn, còn được gọi là rối loạn mất sắc tố phân đoạn, có ranh giới đường giữa và ranh giới bên không rõ ràng ; nó được coi là dạng giảm sắc tố của “ [rối loạn sắc tố phân đoạn](https://dermnetnz.org/topics/segmental-pigmentation-disorder) ”. [](https://dermnetnz.org/topics/segmental-pigmentation-disorder)
+- Nốt ruồi không sắc dạng tuyến tính hoặc 'có hệ thống' có các biểu hiện trên da chồng lấn với [chứng giảm sắc tố da Ito](https://dermnetnz.org/topics/hypomelanosis-of-ito) .
+Đôi khi, nốt ruồi vô sắc có liên quan đến các rối loạn thần kinh da khác . Các nốt ruồi đồng khu trú đã được báo cáo và được thấy trong hình 3 (phía trên bên phải) ở trên. Chúng có thể là biểu hiện của một đột biến ngược. Các nốt ruồi hình lá tro thấy trong bệnh xơ cứng củ là các nốt ruồi hình bầu dục, giảm sắc tố và trông giống như nốt ruồi vô sắc nhưng thường biểu hiện dưới dạng nhiều tổn thương.
+
+---
+
+## Nốt ruồi không sắc được chẩn đoán như thế nào?
+
+Coupe đã xác định tiêu chuẩn chẩn đoán cho nốt ruồi vô sắc vào năm 1976:
+- Mảng da nhợt nhạt xuất hiện khi mới sinh hoặc khi còn nhỏ
+- Nó vẫn ở cùng một vị trí trong suốt vòng đời
+- Không có sự thay đổi về kết cấu hoặc thay đổi cảm giác ở các tổn thương
+- Không có đường viền tối xung quanh vùng da bị ảnh hưởng
+[Kiểm tra bằng đèn Wood](https://dermnetnz.org/topics/wood-lamp-skin-examination) : nốt ruồi không sắc có màu trắng đục, trái ngược với vùng trắng phấn nổi bật ở [bệnh bạch biến](https://dermnetnz.org/topics/vitiligo) .
+[Soi da nốt ruồi không sắc:](https://dermnetnz.org/topics/dermoscopy-of-achromic-naevus) viền răng cưa, nhợt nhạt và mạng lưới sắc tố mờ nhạt.
+[Sinh thiết da:](https://dermnetnz.org/topics/skin-biopsy) số lượng tế bào hắc tố bình thường hoặc giảm nhẹ với lượng melanin giảm.
+
+---
+
+## Phương pháp điều trị bệnh nốt ruồi vô sắc là gì?
+
+Điều trị nốt ruồi vô sắc thường không cần thiết. [Ngụy trang thẩm mỹ](https://dermnetnz.org/topics/cosmetic-camouflage) có thể hữu ích. Một số phương pháp đã được sử dụng để tái tạo sắc tố bao gồm: [laser excimer](https://dermnetnz.org/topics/excimer-308-nm-light-treatment) , [liệu pháp quang trị liệu](https://dermnetnz.org/topics/phototherapy) ( [PUVA](https://dermnetnz.org/topics/puva-photochemotherapy) ) và [ghép da](https://dermnetnz.org/topics/skin-grafting) .

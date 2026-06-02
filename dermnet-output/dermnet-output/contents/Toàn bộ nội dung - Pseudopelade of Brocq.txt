@@ -1,0 +1,91 @@
+# Pseudopelade của Brocq — thông tin bổ sung
+
+Thể loại:
+
+Rối loạn nang lông
+
+SNOMED CT:
+
+238731001
+
+**[Rối loạn nang lông](https://dermnetnz.org/topics/topics?category=Follicular+disorder)**
+
+
+# **Pseudopelade của Brocq**
+
+Tác giả: Tiến sĩ Delwyn Dyall-Smith FACD, Bác sĩ da liễu, 2011.
+
+---
+
+## Pseudopelade của Brocq là gì?
+
+Rụng tóc giả Brocq là một dạng [rụng tóc](https://dermnetnz.org/topics/hair-loss) vĩnh viễn bất thường ở da đầu, nguyên nhân chưa được biết rõ. Đây là chẩn đoán cụ thể được đưa ra sau khi loại trừ các nguyên nhân đã biết của rụng tóc từng mảng (rụng tóc giả) như [liken phẳng](https://dermnetnz.org/topics/lichen-planopilaris) và [lupus ban đỏ dạng đĩa](https://dermnetnz.org/topics/cutaneous-lupus-erythematosus) .
+
+---
+
+## Ai mắc phải bệnh Pseudopelade của Brocq và tại sao?
+
+Bệnh giả Brocq thường ảnh hưởng đến phụ nữ trung niên và lớn tuổi. Tuy nhiên, nó có thể xuất hiện ở cả hai giới và mọi lứa tuổi, bao gồm cả trẻ em. Hiếm khi có báo cáo về việc ảnh hưởng đến nhiều hơn một thành viên trong gia đình.
+Nguyên nhân cũng như cơ chế gây rụng tóc vẫn chưa được biết rõ . Các nghiên cứu gần đây đã chỉ ra rằng các tế bào trong thâm nhiễm viêm và các gen được kích hoạt ở bệnh giả Brocq khác với bệnh liken phẳng lông và lupus ban đỏ dạng đĩa , do đó cung cấp thêm bằng chứng cho thấy đây là một bệnh lý riêng biệt.
+Bệnh rụng tóc giả Brocq không phải là dạng rụng tóc do viêm và tình trạng rụng tóc có vẻ là do teo nang tóc chứ không phải do sẹo.
+
+---
+
+## Đặc điểm lâm sàng của bệnh giả mạc Brocq là gì?
+
+Giả da đầu Brocq thường được phát hiện tình cờ dưới dạng một mảng rụng tóc nhỏ trên da đầu. Một vài sợi tóc đơn lẻ có thể tồn tại ở vùng da không có tóc. Rụng tóc thường bắt đầu ở đỉnh đầu , điểm cao nhất trên da đầu. Hai bên da đầu (da đầu đỉnh) là một vùng thường bị ảnh hưởng. Tuy hiếm gặp, tình trạng này cũng được ghi nhận ở vùng râu.
+Các đặc điểm lâm sàng của các mảng rụng tóc là:
+- Đơn hoặc nhiều
+- Trơn tru
+- Mềm mại
+- Hơi chán nản
+- Hình tròn hoặc hình bầu dục
+- Bé nhỏ
+- Có thể hợp nhất để trở nên lớn hơn và có hình dạng không đều
+- Không có triệu chứng
+- Không có vảy
+- Màu da
+- Ban đầu có thể thấy màu đỏ nhạt/hồng xung quanh từng sợi lông
+- Tóc có thể dễ dàng bị kéo ra khỏi mép nếu hoạt động
+Những vùng trọc được mô tả trông giống như 'dấu chân trên tuyết'.
+Tiến triển của bệnh Pseudopelade Brocq không thể đoán trước, tuy nhiên nhìn chung đây là một quá trình chậm. Một số bệnh nhân chỉ bị rụng tóc một vùng nhỏ, trong khi những người khác bị rụng tóc kéo dài nhiều năm, gây mất thẩm mỹ đáng kể.
+![Pseudopelade của Brocq](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/w/pseudopelade1.jpg)
+![Pseudopelade của Brocq](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/w/pseudopelade2.jpg)
+![Pseudopelade của Brocq](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/w/pseudopelade3.jpg)
+![Pseudopelade của Brocq](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/w/pseudopelade4.jpg)
+![Pseudopelade của Brocq](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/w/pseudopelade5.jpg)
+![Pseudopelade của Brocq](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/w/pseudopelade6.jpg)
+
+---
+
+## Bệnh giả Brocq được chẩn đoán như thế nào?
+
+Bệnh giả Brocq cần được phân biệt với 'giả bệnh', một thuật ngữ chung cho bất kỳ dạng rụng tóc có sẹo loang lổ nào như bệnh liken phẳng nang lông hoặc bệnh lupus ban đỏ dạng đĩa.
+[Sinh thiết](https://dermnetnz.org/topics/skin-biopsy) da đầu từ một mảng da nhẵn cho thấy lớp biểu bì mỏng và lớp hạ bì xơ cứng với các sợi xơ hóa kéo dài xuống lớp mỡ. Không thấy tình trạng viêm . Sinh thiết sớm trong quá trình này có thể cho thấy một số lượng nhỏ tế bào lympho xung quanh 2/3 trên của nang tóc.
+Braun-Falco (1986) đã đề xuất các tiêu chí lâm sàng và mô học để đưa ra chẩn đoán.
+
+### Tiêu chuẩn lâm sàng
+- Các mảng rụng tóc không đều và hợp lưu
+- Teo cơ vừa phải (giai đoạn cuối)
+- Đỏ nhẹ xung quanh nang lông (giai đoạn đầu)
+- Sự chiếm ưu thế của nữ giới (3:1)
+- Một khóa học dài hơn 2 năm
+- Tiến triển chậm
+- Có thể chấm dứt tự phát
+
+### Tiêu chuẩn mô học
+- Không có dấu hiệu viêm nhiễm rõ rệt
+- Không có sẹo lan rộng
+- Không có sự tắc nghẽn đáng kể của nang tóc
+- Không có tuyến bã nhờn (dầu)
+- Biểu bì bình thường
+- Các sợi xơ hóa ở lớp hạ bì
+
+### Miễn dịch mô hóa học
+- Tiêu cực
+
+---
+
+## Phương pháp điều trị bệnh giả mạc Brocq là gì?
+
+Hiện vẫn chưa có phương pháp điều trị nào có thể ngăn chặn quá trình này hoặc phục hồi tóc đã rụng. Phẫu thuật có thể giúp cải thiện thẩm mỹ khi tình trạng này không còn hoạt động nữa.

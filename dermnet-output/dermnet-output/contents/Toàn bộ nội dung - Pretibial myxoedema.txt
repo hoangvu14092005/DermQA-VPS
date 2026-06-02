@@ -1,0 +1,122 @@
+# Phù niêm trước xương chày — thông tin bổ sung
+
+Thể loại:
+
+Bệnh hệ thống
+
+SNOMED CT:
+
+78146007, 40246006, 402467002, 402465005
+
+**[Bệnh hệ thống](https://dermnetnz.org/topics/topics?category=Systemic+diseases)**
+
+
+# **Phù niêm trước xương chày**
+
+Tác giả: Tiến sĩ Kerry Gardner, Chuyên gia da liễu, Saskatchewan; Biên tập viên: Clare Morrison; Tổng biên tập: Tiến sĩ Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand; Tháng 3 năm 2014. Biên tập bởi Gus Mitchell.
+
+---
+
+## Phù niêm trước xương chày là gì?
+
+Phù niêm trước xương chày là một dạng [viêm nhầy](https://dermnetnz.org/topics/cutaneous-mucinoses) lan tỏa , trong đó có sự tích tụ glycosaminoglycan dư thừa ở lớp trung bì và hạ bì. Glycosaminoglycan, còn được gọi là mucopolysaccharides, là carbohydrate phức hợp quan trọng cho quá trình hydrat hóa và bôi trơn mô. Glycosaminoglycan chính trong phù niêm trước xương chày là axit hyaluronic, được sản xuất bởi các tế bào gọi là nguyên bào sợi. [](https://dermnetnz.org/topics/cutaneous-mucinoses)
+Phù niêm trước xương chày còn được gọi là phù niêm khu trú , bệnh lý da tuyến giáp và bệnh lý da thâm nhiễm .
+Bệnh này thường xuất hiện ở cẳng chân (vùng trước xương chày) và có biểu hiện là sưng và nổi cục ở cẳng chân.
+
+---
+
+## Nguyên nhân nào gây ra phù niêm trước xương chày?
+
+Cơ chế chính xác của quá trình lắng đọng glycosaminoglycan ở da cẳng chân vẫn chưa được biết rõ.
+Phù niêm trước xương chày có thể là do sự kết hợp của các nguyên nhân sau đây.
+- Một quá trình miễn dịch trong đó kháng thể thụ thể hormone kích thích tuyến giáp (TSH-R) liên kết với và kích thích nguyên bào sợi để tăng sản xuất glycosaminoglycan.
+- Một quá trình tế bào trong đó nguyên bào sợi được kích hoạt gián tiếp thông qua tế bào lympho T nhạy cảm ( tế bào miễn dịch ). Tế bào T nhạy cảm với một kháng nguyên chung (có thể là kháng thể TSH-R) có thể xâm nhập vào mô da và giải phóng cytokine ( protein truyền tin của tế bào ), kích hoạt nguyên bào sợi da để sản xuất glycosaminoglycan.
+- Một quá trình cơ học, trong đó phù niêm tích tụ ở các vùng chấn thương , sau khi đứng lâu, và ở các vị trí phụ thuộc . Lý thuyết này có thể giải thích tại sao nó xảy ra ở vùng trước xương chày. Sưng phụ thuộc có thể dẫn đến sự tích tụ các tế bào và protein miễn dịch, làm tăng tác động của bệnh.
+
+---
+
+## Ai bị phù niêm trước xương chày?
+
+Phù niêm trước xương chày gần như luôn liên quan đến bệnh Graves. Bệnh Graves là một rối loạn tự miễn ảnh hưởng đến tuyến giáp [,](https://dermnetnz.org/topics/skin-problems-associated-with-thyroid-disease) trong đó kháng thể kháng TSH-R kích hoạt thụ thể, thường gây tăng hormone tuyến giáp lưu hành. Đây là cường giáp hoặc cường giáp. Các triệu chứng của cường giáp bao gồm sụt cân, hồi hộp, đổ mồ hôi ( [tăng tiết mồ hôi](https://dermnetnz.org/topics/hyperhidrosis) ) và run. [](https://dermnetnz.org/topics/hyperhidrosis)
+Bộ ba dấu hiệu điển hình của bệnh Graves là:
+- Phù niêm trước xương chày
+- Bệnh về mắt (mắt lồi do phù niêm lắng đọng phía sau hốc mắt)
+- Acropachy (sưng ở các ngón xa với các phiến móng phát triển quá mức có thể bong ra khỏi nền móng; tương tự như [tình trạng móng tay dùi trống](https://dermnetnz.org/topics/hypertrophic-osteoarthropathy-and-digital-clubbing) ) [](https://dermnetnz.org/topics/hypertrophic-osteoarthropathy-and-digital-clubbing)
+Phù niêm trước xương chày:
+- Ảnh hưởng đến 0,5–4,3% bệnh nhân mắc bệnh Graves; bệnh này xuất hiện ở 13% những người mắc bệnh về mắt nghiêm trọng
+- Cũng đã được thấy ở những bệnh nhân bị viêm tuyến giáp Hashimoto, suy giáp nguyên phát (tuyến giáp hoạt động kém) và bình giáp (chức năng tuyến giáp bình thường)
+- Có liên quan đến nồng độ kháng thể TSH-R trong huyết thanh cao
+- Phổ biến nhất ở những người trong độ tuổi từ 40 đến 60
+- Bệnh thường ảnh hưởng đến phụ nữ nhiều hơn, với tỷ lệ nữ:nam là 3,5:1.
+![Phù niêm trước xương chày](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/w/pretibial-myxoedema-01.jpg)
+![Bệnh lý nhãn khoa tuyến giáp](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/thyroid-ophthalmopathy.jpg)
+![Tuyến giáp acropachy](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/thyroid-acropachy.jpg)
+
+---
+
+## Các đặc điểm lâm sàng của phù niêm trước xương chày là gì?
+
+Phù niêm trước xương chày có thể xuất hiện trước, trong hoặc sau giai đoạn nhiễm độc giáp. Tình trạng này không liên quan đến chức năng tuyến giáp. Nó thường xuất hiện sau 12–24 tháng kể từ khi chẩn đoán.
+- Tình trạng này thường gặp nhất ở vùng trước xương chày, mu bàn chân hoặc ở vị trí chấn thương trước đó.
+- Bệnh này thường không có triệu chứng và chỉ gây lo ngại về mặt thẩm mỹ, nhưng có thể gây ngứa hoặc đau.
+- Các tổn thương sớm là các mảng hoặc nốt sần chắc, không lõm , không đối xứng , ở cả hai bên ; chúng có thể hợp nhất lại thành các vùng da có vảy , dày và cứng.
+- Các nang tóc thường nổi rõ tạo nên kết cấu giống như vỏ cam.
+- Lớp da bên trên có thể bị đổi màu, có màu từ ánh tím đến hơi vàng nâu
+- Có thể có tình trạng [tăng tiết mồ hôi](https://dermnetnz.org/topics/hyperhidrosis) cục bộ (đổ mồ hôi nhiều hơn) và/hoặc [tăng lông](https://dermnetnz.org/topics/hypertrichosis) ( lông mọc nhiều hơn) trên vùng da bị ảnh hưởng.
+![Phù niêm trước xương chày trong bệnh Graves](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/w/pretibial-myxoedema-04.jpg)
+![Phù niêm trước xương chày trong bệnh Graves](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/pretibial-myxoedema-13.jpg)
+![Phù niêm trước xương chày trong bệnh Graves](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/pretibial-myxoedema-15.jpg)
+[Xem thêm hình ảnh về phù niêm trước xương chày](https://dermnetnz-org.translate.goog/images/pretibial-myxoedema-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp) ...
+
+### Các loại phù niêm trước xương chày
+Các loại phù niêm trước xương chày có thể bao gồm những loại sau.
+- Phù nề lan tỏa, không lõm ( sưng) — dạng phổ biến nhất
+- Dạng mảng bám — các mảng bám nổi lên trên nền phù nề không lõm
+- Dạng nốt - tổn thương dạng ống hoặc dạng nốt có ranh giới rõ nét
+- Thể voi hóa — tổn thương dạng nốt sần kèm [phù bạch huyết](https://dermnetnz.org/topics/lymphoedema) rõ rệt (sưng do tích tụ dịch mô bạch huyết ). Các tổn thương có thể hợp nhất lại khiến toàn bộ chi trông to và sần sùi . Thể này hiếm gặp.
+
+---
+
+## Phù niêm trước xương chày được chẩn đoán như thế nào?
+
+Chẩn đoán phù niêm trước xương chày được thực hiện bằng cách khai thác bệnh sử và tìm kiếm các triệu chứng lâm sàng đặc trưng khi khám bệnh nhân.
+[Sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) hiếm khi cần thiết để chẩn đoán, đặc biệt nếu có tiền sử cường giáp hoặc bệnh lý mắt Graves.
+Nếu thực hiện sinh thiết , kết quả giải phẫu bệnh lý thường cho thấy sự lắng đọng của mucin (glycosaminoglycan) khắp lớp hạ bì và mô dưới da.
+
+### Bệnh lý mô học của phù niêm trước xương chày
+![vết bẩn H&E](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/pretibial-myxoedema-09.jpg)
+![Nhuộm mucin dương tính](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/pretibial-myxoedema-10.jpg)
+Chất nhầy lắng đọng thúc đẩy phù nề da bằng cách giữ nước trong da, dẫn đến chèn ép/ tắc nghẽn các mạch bạch huyết ngoại vi nhỏ và phù bạch huyết.
+Sinh thiết cũng cho thấy sự suy yếu của các sợi collagen ; chúng có thể bị sờn, phân mảnh và tách rời rộng. Nguyên bào sợi hình sao (hình sao) thường được quan sát thấy, nhưng số lượng nguyên bào sợi vẫn bình thường. Thường thấy thâm nhiễm lympho bào nông, nhẹ xung quanh mạch máu , và lớp biểu bì bên trên có thể bị tăng sừng ( vảy tăng lên ).
+
+---
+
+## Phương pháp điều trị phù niêm trước xương chày là gì?
+
+Phù niêm trước xương chày thường không có triệu chứng và nhẹ, có thể không cần điều trị gì cả.
+Nếu có triệu chứng, các phương án điều trị bao gồm:
+- Giảm thiểu các yếu tố rủi ro Tránh thuốc lá Giảm cân Bình thường hóa chức năng tuyến giáp
+- Tránh thuốc lá
+- Giảm cân
+- Bình thường hóa chức năng tuyến giáp
+- [Vớ nén](https://dermnetnz.org/topics/compression-therapy) , có thể được sử dụng để cải thiện tình trạng phù bạch huyết
+- [Corticosteroid bôi ngoài da](https://dermnetnz.org/topics/topical-steroid) có hiệu lực trung bình đến cao , thường được khuyến cáo sử dụng dưới dạng che phủ (ví dụ, bọc bằng màng bọc thực phẩm) vào ban đêm hoặc cách đêm để tăng hiệu quả.
+Các liệu pháp khác được báo cáo là thành công bao gồm:
+- [Corticosteroid tiêm vào tổn thương](https://dermnetnz.org/topics/intralesional-steroid-injection)
+- [Steroid toàn thân](https://dermnetnz.org/topics/systemic-steroids)
+- Pentoxifylline
+- Octreotide
+- [Rituximab](https://dermnetnz.org/topics/rituximab)
+- Huyết tương tách
+- [Globulin miễn dịch tiêm tĩnh mạch](https://dermnetnz.org/topics/intravenous-immunoglobulin)
+- Teprotumumab
+- [Phẫu thuật cắt bỏ](https://dermnetnz.org/topics/excision-of-skin-lesions) đã thành công trong một số trường hợp được báo cáo, nhưng nhìn chung không được khuyến khích vì nguy cơ phù niêm trước xương chày phát triển ở vùng da bị thương.
+
+---
+
+## Tiên lượng của bệnh phù niêm trước xương chày là gì?
+
+Tiên lượng nhìn chung khá tốt. Hầu hết bệnh nhân bị phù niêm trước xương chày không triệu chứng đều không cần điều trị hoặc theo dõi.
+Bệnh phù niêm sẽ khỏi hoàn toàn ở phần lớn bệnh nhân mắc bệnh nhẹ.
+Ngay cả với những bệnh nặng hơn, hơn một nửa số bệnh nhân vẫn khỏi bệnh sau vài năm. Thể voi là dạng khó điều trị nhất và cũng ít có khả năng khỏi bệnh nhất.
+Khả năng thuyên giảm phụ thuộc vào mức độ nghiêm trọng của bệnh ban đầu hơn là phương pháp điều trị.

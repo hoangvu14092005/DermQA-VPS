@@ -1,0 +1,89 @@
+# Madarosis — thông tin bổ sung
+
+Thể loại:
+
+Thuật ngữ
+
+SNOMED CT:
+
+34887006, 422441003
+
+**[Thuật ngữ](https://dermnetnz.org/topics/topics?category=Terminology)**
+
+
+# **Madarosis**
+
+Tác giả: Tiến sĩ Stephen Thomas, Chuyên viên Đăng ký Y khoa, Gold Coast, kiêm Chuyên viên Đăng ký Da liễu Danh dự và Nghiên cứu viên, Bệnh viện Princess Alexandra, Brisbane, Úc; Tiến sĩ Priyam Sobarun, Chuyên viên Đăng ký Da liễu, Viện Da liễu Queensland, Brisbane, Úc. Tổng Biên tập DermNet: Phó Giáo sư Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand. Tháng 12 năm 2016.
+
+---
+
+## Madarosis là gì?
+
+Madarosis là tình trạng rụng lông mi hoặc lông mày. Tình trạng này có thể là:
+- Đơn phương hoặc song phương
+- Không đầy đủ hoặc đầy đủ
+- Không để lại sẹo hoặc có sẹo.
+Trong trường hợp madarosis không sẹo, cấu trúc nang lông vẫn được giữ lại và có khả năng hồi phục. Madarosis sẹo là do tình trạng viêm và xơ hóa sâu hơn , và có nhiều khả năng dẫn đến rụng lông mi và tóc vĩnh viễn .
+Chỉ riêng tình trạng rụng lông mi cũng được gọi là chứng milphosis.
+
+---
+
+## Ai mắc bệnh Madarosis?
+
+Bệnh Madarosis có thể gặp ở cả hai giới và ở mọi lứa tuổi nhưng tùy thuộc vào nguyên nhân cơ bản, bệnh này phổ biến hơn ở người lớn tuổi.
+
+---
+
+## Nguyên nhân gây ra bệnh Madarosis là gì?
+
+Bệnh rụng tóc là do bất kỳ quá trình nào làm tổn thương nang tóc hoặc thân tóc, dẫn đến [rụng tóc](https://dermnetnz.org/topics/hair-loss) tạm thời hoặc vĩnh viễn .
+Các nguyên nhân phổ biến gây ra bệnh Madarosis bao gồm:
+- [Nhiễm trùng tụ cầu](https://dermnetnz.org/topics/staphylococcal-skin-infection)
+- [Herpes simplex](https://dermnetnz.org/topics/herpes-simplex)
+- [Bệnh trứng cá đỏ](https://dermnetnz.org/topics/rosacea)
+- [Rụng tóc từng vùng](https://dermnetnz.org/topics/alopecia-areata)
+- [Suy giáp](https://dermnetnz.org/topics/hypothyroidism) (thường ảnh hưởng đến một phần ba ngoài của lông mày)
+- [Cường giáp](https://dermnetnz.org/topics/hyperthyroidism)
+- [Viêm da dị ứng](https://dermnetnz.org/topics/atopic-dermatitis)
+- [Bệnh vẩy nến](https://dermnetnz.org/topics/psoriasis)
+- Tổn thương
+- Bệnh madarosis do điều trị, chẳng hạn như do [hóa trị](https://dermnetnz.org/topics/skin-toxicity-of-chemotherapy-drugs) , [xạ trị](https://dermnetnz.org/topics/radiotherapy-for-malignant-skin-diseases) , [điều trị bằng tia laser](https://dermnetnz.org/topics/lasers-in-dermatology) và tiêm [độc tố botulinum](https://dermnetnz.org/topics/botulinum-toxin) .
+![Rụng tóc từng vùng](https://dermnetnz.org/assets/Uploads/madarosis-02.jpg)
+![Rụng tóc từng vùng](https://dermnetnz.org/assets/Uploads/madarosis-03.jpg)
+![Bệnh chàm dị ứng](https://dermnetnz.org/assets/Uploads/madarosis-04.jpg)
+Các nguyên nhân ít gặp gây ra bệnh Madarosis bao gồm:
+- [Bệnh lupus ban đỏ dạng đĩa (DLE)](https://dermnetnz.org/topics/discoid-lupus-erythematosus)
+- [Xơ cứng bì](https://dermnetnz.org/topics/scleroderma)
+- [Lichen phẳng lông](https://dermnetnz.org/topics/lichen-planopilaris) và [rụng tóc xơ hóa trán](https://dermnetnz.org/topics/frontal-fibrosing-alopecia)
+- Các loại [ung thư da](https://dermnetnz.org/topics/skin-cancer) khác nhau , chẳng hạn như [ung thư biểu mô trong biểu bì](https://dermnetnz.org/topics/intraepidermal-squamous-cell-carcinoma) , [ung thư biểu mô tế bào đáy](https://dermnetnz.org/topics/basal-cell-carcinoma) , [ung thư biểu mô tế bào vảy](https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma) hoặc [u ác tính](https://dermnetnz.org/topics/melanoma)
+- [Bệnh nấm liên quan đến nhiễm trùng](https://dermnetnz.org/topics/skin-infections) , chẳng hạn như bệnh do [nấm dermatophyte (bệnh hắc lào)](https://dermnetnz.org/topics/tinea) , [vi khuẩn lao không điển hình](https://dermnetnz.org/topics/atypical-mycobacterial-infection) , [bệnh phong](https://dermnetnz.org/topics/leprosy) và [vi-rút gây suy giảm miễn dịch ở người (HIV)](https://dermnetnz.org/topics/skin-conditions-relating-to-hiv-infection)
+- [Ngộ độc vitamin A](https://dermnetnz.org/topics/vitamin-a-toxicity)
+- Độc tính của thuốc (ví dụ, thallium và cocaine)
+- Rối loạn di truyền hoặc bẩm sinh (ví dụ, [bệnh đỏ da dạng vảy cá](https://dermnetnz.org/topics/ichthyosis) , [loạn sản ngoại bì](https://dermnetnz.org/topics/ectodermal-dysplasia) , bệnh mắt ẩn và [hội chứng Ehlers–Danlos](https://dermnetnz.org/topics/ehlers-danlos-syndrome) )
+- Nguyên nhân tâm thần (ví dụ như [chứng nhổ tóc](https://dermnetnz.org/topics/trichotillomania) và [viêm da giả](https://dermnetnz.org/topics/dermatitis-artefacta) ).
+![Bệnh lupus ban đỏ dạng đĩa](https://dermnetnz.org/assets/Uploads/madarosis-01.jpg)
+![Rụng tóc xơ hóa trán](https://dermnetnz.org/assets/Uploads/madarosis-6.jpg)
+[Xem thêm hình ảnh về bệnh madarosis](https://dermnetnz-org.translate.goog/topics/madarosis-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp) .
+
+---
+
+## Bệnh Madarosis được chẩn đoán như thế nào?
+
+Bệnh Madarosis có thể được chẩn đoán lâm sàng dựa trên tiền sử và thăm khám đầy đủ. Các xét nghiệm hữu ích có thể bao gồm:
+- Trichoscopy ( [soi da](https://dermnetnz.org/topics/dermoscopy) tóc)
+- Tăm bông da để [nuôi cấy vi khuẩn](https://dermnetnz.org/topics/bacterial-skin-infections) và [xét nghiệm trong phòng thí nghiệm để tìm nhiễm trùng do vi-rút](https://dermnetnz.org/topics/laboratory-tests-for-viral-infections) , chẳng hạn như xét nghiệm phản ứng chuỗi polymerase ( PCR )
+- Cạo nấm để soi [kính hiển vi và nuôi cấy](https://dermnetnz.org/topics/laboratory-tests-for-fungal-infection)
+- Sinh thiết [da](https://dermnetnz.org/topics/skin-biopsy)
+- Xét nghiệm máu (ví dụ, chức năng tuyến giáp và mức vitamin A).
+
+---
+
+## Phương pháp điều trị bệnh Madarosis là gì?
+
+Phương pháp điều trị cụ thể được khuyến nghị cho bệnh Madarosis phụ thuộc vào nguyên nhân cơ bản (ví dụ, [thuốc kháng sinh](https://dermnetnz.org/topics/antibiotics) được khuyến nghị cho bệnh Madarosis do [nhiễm trùng vi khuẩn](https://dermnetnz.org/topics/bacterial-skin-infections) ). Các biện pháp không đặc hiệu có thể được sử dụng trong bệnh Madarosis bao gồm:
+- [Ngụy trang mỹ phẩm](https://dermnetnz.org/topics/cosmetic-camouflage)
+- [Lông mi giả và lông mày](https://dermnetnz.org/topics/false-eyelashes-and-eyebrows)
+- Xăm hình
+- [](https://dermnetnz.org/topics/minoxidil-solution) Dung dịch [Minoxidil](https://dermnetnz.org/topics/minoxidil-solution)
+- Thuốc prostaglandin bôi ngoài da (ví dụ: [bimatoprost](https://dermnetnz.org/topics/bimatoprost) )
+- [Cấy tóc](https://dermnetnz.org/topics/hair-replacement-surgery) và ghép mi.

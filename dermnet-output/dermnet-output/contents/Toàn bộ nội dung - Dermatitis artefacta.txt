@@ -1,0 +1,54 @@
+# Viêm da giả — thông tin bổ sung
+
+Thể loại:
+
+Phản ứng
+
+SNOMED CT:
+
+27720003
+
+**[Phản ứng](https://dermnetnz.org/topics/topics?category=Reactions)**
+
+
+# **Viêm da dị vật**
+
+Tác giả: Vanessa Ngan, Biên tập viên, 2003.
+
+---
+
+## Viêm da giả là gì?
+
+Viêm da dị vật là tình trạng tổn thương da do chính hành động của bệnh nhân gây ra hoặc gây ra. Tình trạng này thường xảy ra do hậu quả hoặc biểu hiện của một [vấn đề tâm lý](https://dermnetnz.org/topics/psychosocial-factors-in-dermatology) . Nó có thể là một hình thức giải tỏa cảm xúc trong những tình huống căng thẳng hoặc một phần của hành vi tìm kiếm sự chú ý. Trong một số trường hợp rất hiếm, có thể có một nỗ lực tiềm ẩn để đảm bảo yêu cầu bồi thường bảo hiểm.
+Tình trạng này còn được gọi là viêm da thực thể.
+
+---
+
+## Ai có nguy cơ?
+
+Viêm da dị vật thường gặp ở phụ nữ hơn nam giới. Phụ nữ bị ảnh hưởng thường ở độ tuổi thiếu niên hoặc đầu tuổi trưởng thành và thường chưa trưởng thành về mặt cảm xúc hoặc gặp khó khăn về tâm lý xã hội hoặc giao tiếp. Trí tuệ của bệnh nhân rất đa dạng, nhưng nhiều người có kiến ​​thức y khoa khá hời hợt.
+
+---
+
+## Đặc điểm của viêm da giả
+
+Bệnh nhân có các tổn thương khó nhận biết và không giống với các bệnh lý da liễu đã biết. Các đặc điểm của viêm da giả bao gồm:
+- Các tổn thương thường có hình dạng kỳ lạ với đường viền không đều theo kiểu tuyến tính hoặc hình học.
+- Tổn thương thường được phân định rõ ràng với vùng da bình thường xung quanh.
+- Hình dạng của tổn thương sẽ khác nhau tùy thuộc vào phương pháp gây tổn thương da.
+- Các tổn thương có thể là các mảng đỏ, sưng, phồng rộp, vùng da bị trầy xước, đóng vảy, vết cắt, vết bỏng và sẹo.
+- Tổn thương có thể được gây ra bởi nhiều tác nhân cơ học hoặc hóa học, bao gồm móng tay, vật sắc nhọn hoặc cùn, thuốc lá đang cháy và hóa chất ăn da.
+- Đôi khi rất khó để phân biệt viêm da nhân tạo với các bệnh tự nhiên, đặc biệt nếu các tổn thương gây ra giống với các tổn thương có nguyên nhân bệnh lý .
+- Các tổn thương không tiến triển dần dần mà xuất hiện gần như chỉ sau một đêm mà không có bất kỳ dấu hiệu hoặc triệu chứng nào trước đó.
+- Chúng thường xuất hiện ở những vị trí mà tay bệnh nhân dễ dàng chạm tới, ví dụ như mặt, bàn tay, cánh tay hoặc chân.
+- Bệnh nhân thường phủ nhận rằng phát ban là do chính mình gây ra.
+![Viêm da dị vật](https://dermnetnz.org/assets/Uploads/dermatitis/d-a.jpg)
+![Viêm da dị vật](https://dermnetnz.org/assets/Uploads/dermatitis/d-a2.jpg)
+![Viêm da dị vật](https://dermnetnz.org/assets/Uploads/dermatitis/d-a3.jpg)
+
+---
+
+## Có những phương pháp điều trị nào?
+
+Khi nghi ngờ viêm da dị vật, nên tránh đối đầu trực tiếp. Thay vào đó, bác sĩ nên tạo một môi trường chấp nhận, đồng cảm và không phán xét. Việc giám sát chặt chẽ và chăm sóc triệu chứng các tổn thương da hy vọng sẽ dẫn đến mối quan hệ bác sĩ - bệnh nhân, trong đó các vấn đề tâm lý có thể dần được giải quyết. Nếu cần thiết, có thể đề nghị chuyển bệnh nhân đến chuyên khoa tâm thần , mặc dù điều này thường bị từ chối.
+Việc giải quyết vấn đề tâm lý tiềm ẩn hiện tại sẽ tạm thời mang lại hiệu quả chữa trị, nhưng tình trạng viêm da dị ứng có xu hướng tăng hoặc giảm tùy thuộc vào hoàn cảnh sống của bệnh nhân. Để giảm thiểu nguy cơ viêm da dị ứng, bệnh nhân nên tiếp tục đến gặp bác sĩ thường xuyên để được theo dõi hoặc hỗ trợ, bất kể có tổn thương hay không.

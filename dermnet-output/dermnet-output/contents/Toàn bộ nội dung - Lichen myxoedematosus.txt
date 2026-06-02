@@ -1,0 +1,110 @@
+# Lichen myxoedematosus — thông tin bổ sung
+
+Thể loại:
+
+Bệnh hệ thống
+
+SNOMED CT:
+
+111197009, 238949006, 717259002, 717258005, 717257000, 725148000, 402468007, 424114000
+
+**[Bệnh hệ thống](https://dermnetnz.org/topics/topics?category=Systemic+diseases)**
+
+
+# **Lichen myxoedematum**
+
+Tác giả: Tiến sĩ Julie Smith MBChB, Khoa Da liễu, Bệnh viện Greenlane, Auckland, New Zealand, 2005. Cập nhật bởi Tiến sĩ Eugene Tan, Khoa Da liễu, Bệnh viện Waikato, Hamilton, New Zealand, 2008.
+
+---
+
+## Bệnh liken myxoedematosus là gì?
+
+Lichen myxedematosus (lichen myxedematosus) còn được gọi là bệnh sẩn nhầy . Đây là một bệnh lý da hiếm gặp, đặc trưng bởi sự lắng đọng chất nhầy trên da.
+Bệnh liken myxoedematosus có dạng khu trú và dạng toàn thân . Dạng khu trú có diễn biến thuận lợi hơn so với dạng toàn thân, phù cứng cơ (scleromyxoedema), có thể ảnh hưởng đến các cơ quan khác và đôi khi gây tử vong.
+Mặc dù thuật ngữ scleromyxoedema và liken myxoedema thường được sử dụng thay thế cho nhau, nhưng scleromyxoedema đề cập đến dạng tổng quát.
+
+### Phân loại bệnh nấm da lichen (LM)
+Dạng tổng quát:
+- Phù cứng cơ
+Các dạng bản địa hóa:
+- LM dạng sẩn rời rạc
+- Viêm nhầy sẩn dai dẳng ở acral
+- Các biến thể ở trẻ vị thành niên và người lớn của bệnh nhầy sẩn tự lành
+- Viêm nhầy sẩn ở trẻ sơ sinh
+- LM dạng nốt .
+Các dạng không điển hình :
+- Phù cứng cơ không có bệnh lý gammopathy đơn dòng
+- LM khu trú với bệnh lý gammopathy đơn dòng
+- LM cục bộ với các đặc điểm hỗn hợp của các phân nhóm khác nhau
+- Không có quy định cụ thể khác.
+
+---
+
+## Nguyên nhân nào gây ra bệnh liken myxoedematosus?
+
+Chưa tìm ra nguyên nhân cụ thể gây ra bệnh liken myxoedematosus.
+Phù cứng cơ gần như luôn liên quan đến bệnh lý gamma đơn dòng, trong đó nồng độ paraprotein , một loại globulin miễn dịch, thường là IgG-lambda, tăng cao bất thường trong máu. Thông thường, đây là các phân tử chuỗi nhẹ IgG -lambda . Có thể thấy sự gia tăng nhỏ về số lượng tế bào plasma trong tủy xương.
+Trong những trường hợp khác, phù nề cứng cơ đã được báo cáo có liên quan đến các bệnh ung thư tủy xương như u tủy, u lympho và bệnh bạch cầu.
+Một số trường hợp bị bệnh liken myxoedematosus tại chỗ có liên quan đến [nhiễm HIV](https://dermnetnz.org/topics/skin-conditions-relating-to-hiv-infection) , [vi-rút viêm gan C](https://dermnetnz.org/topics/viral-hepatitis) , tiếp xúc với dầu độc hại và L-tryptophan bị ô nhiễm.
+
+---
+
+## Phù cứng cơ
+
+Phù cứng cơ thường ảnh hưởng đến người lớn từ 30–50 tuổi. Nam và nữ đều bị ảnh hưởng như nhau.
+Phù cứng cơ niêm đặc trưng bởi các sẩn màu da lan rộng trên mặt, thân và tứ chi. Niêm mạc và da đầu không bị ảnh hưởng.
+Các nốt sẩn (nốt sần nhỏ) có đường kính 2–3 mm, dạng sáp và xếp thành hàng sát nhau. Chúng có thể chuyển sang màu nâu đỏ.
+Khi bệnh tiến triển, các rãnh sâu có thể xuất hiện trên trán. Da cứng, ngón tay ( xơ cứng ngón tay ) và giảm khả năng vận động miệng có thể xảy ra, tương tự như [tình trạng xơ cứng bì](https://dermnetnz.org/topics/scleroderma) của [bệnh xơ cứng hệ thống](https://dermnetnz.org/topics/systemic-sclerosis) nhưng không có [giãn mao mạch](https://dermnetnz.org/topics/telangiectasia) hoặc [vôi hóa](https://dermnetnz.org/topics/calcinosis-cutis) .
+![Không có caption](https://dermnetnz.org/assets/Uploads/immune/scleromyxoedema1.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/immune/scleromyxoedema2.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/immune/scleromyxoedema3.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/immune/scleromyxoedema4.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/immune/scleromyxoedema5.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/immune/scleromyxoedema6.jpg)
+
+### Sự tham gia của các cơ quan khác
+Bệnh phù nề cứng cơ có thể ảnh hưởng đến các cơ quan khác ngoài da, gây ra những hậu quả nghiêm trọng.
+Thực quản Việc nuốt trở nên khó khăn Cơ xương Cơ yếu bị viêm Phổi Giảm lượng oxy hấp thụ Khớp Viêm khớp Mạch máu [Hiện tượng Raynaud](https://dermnetnz.org/topics/raynaud-phenomenon) Thận Suy thận Tủy xương Giảm số lượng máu Hệ thần kinh Tổn thương não và thần kinh ngoại biên
+
+---
+
+## Bệnh nấm myxoedematum cục bộ
+
+Ở dạng khu trú của liken myxoedematosus, các sẩn nhỏ, chắc, dạng sáp chỉ giới hạn ở một vài vị trí. Mỗi phân nhóm của dạng khu trú có sự phân bố và diễn biến khác nhau.
+Da không bị cứng lại và bệnh thường ổn định. Không có nồng độ protein bất thường trong máu.
+
+---
+
+## Nghiên cứu về bệnh nấm da lichen
+
+[Sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) là xét nghiệm chẩn đoán chính để đánh giá bệnh nghi ngờ phù niêm do liken và cho thấy [các đặc điểm bệnh lý đặc trưng](https://dermnetnz.org/topics/papular-mucinosis-pathology) .
+Các xét nghiệm khác có thể bao gồm:
+- Điện di protein huyết thanh và nước tiểu để tìm paraprotein
+- Chức năng tuyến giáp
+- Tự kháng thể bao gồm yếu tố kháng nhân
+Nếu có paraprotein, có thể cân nhắc chuyển đến bác sĩ chuyên khoa huyết học và sinh thiết tủy xương .
+Bệnh nhân bị tổn thương da lan rộng có thể được chuyển đến bác sĩ đa khoa để đánh giá tình trạng tổn thương các cơ quan nội tạng.
+
+---
+
+## Phương pháp điều trị bệnh liken myxoedematosus là gì?
+
+Điều trị phù cứng cơ rất khó khăn và gây thất vọng. Nhiều phương pháp điều trị đã được thử nghiệm, bao gồm:
+- [isotretinoin](https://dermnetnz.org/topics/isotretinoin)
+- [corticosteroid](https://dermnetnz.org/topics/systemic-steroids)
+- [methotrexate](https://dermnetnz.org/topics/methotrexate)
+- Liệu pháp quang học UVA1
+- [PUVA](https://dermnetnz.org/topics/puva-photochemotherapy)
+- [immunoglobulin tiêm tĩnh mạch](https://dermnetnz.org/topics/intravenous-immunoglobulin)
+- huyết tương tách chiết
+- [bức xạ chùm electron](https://dermnetnz.org/topics/electron-beam-radiation-for-cutaneous-lymphoma)
+- [mài da](https://dermnetnz.org/topics/dermabrasion)
+Các tác nhân hóa trị liệu can thiệp vào sự phát triển của các tế bào tiền thân của tủy xương đã được thử nghiệm nhưng thường chỉ dành cho những bệnh nhân mắc bệnh nặng và tiến triển nhanh . Các thuốc này bao gồm [ciclophosphamide](https://dermnetnz.org/topics/cyclophosphamide) , melphalan và chlorambucil.
+Trong những năm gần đây, [thalidomide](https://dermnetnz.org/topics/thalidomide) nổi lên như một phương pháp điều trị tiềm năng nhờ tác dụng điều hòa miễn dịch. Lenalinomide, một chất tương tự với ít tác dụng phụ hơn, kết hợp với immunoglobulin tiêm tĩnh mạch và dexamethasone đã cho thấy những kết quả ban đầu đầy hứa hẹn.
+Bệnh liken myxoedematosus khu trú không cần điều trị. [Kem bôi corticosteroid tại chỗ](https://dermnetnz.org/topics/topical-steroid) và [isotretinoin](https://dermnetnz.org/topics/isotretinoin) uống có thể có tác dụng làm giảm tình trạng chai cứng (cứng) của da.
+
+---
+
+## Bệnh lý da xơ hóa thận
+
+[Bệnh lý da xơ hóa nguồn gốc thận](https://dermnetnz.org/topics/nephrogenic-fibrosing-dermopathy) là một rối loạn xơ hóa mới được phát hiện, ban đầu được xác định là một bệnh lý da giống phù nề xơ cứng ở bệnh nhân mắc bệnh thận. Nó cũng có thể gây xơ hóa các cơ quan nội tạng, được gọi là xơ hóa hệ thống nguồn gốc thận , cuối cùng có thể dẫn đến tử vong. Tình trạng này có liên quan đến việc tiếp xúc với chất cản quang chứa gadolinium trong quá trình chụp cộng hưởng từ.

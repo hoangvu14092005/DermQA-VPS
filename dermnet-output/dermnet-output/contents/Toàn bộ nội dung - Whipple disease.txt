@@ -1,0 +1,96 @@
+# Bệnh Whipple — thông tin bổ sung
+
+Thể loại:
+
+Nhiễm trùng
+
+SNOMED CT:
+
+41545003, 417060007, 402725007
+
+**[Nhiễm trùng](https://dermnetnz.org/topics/topics?category=Infections)**
+
+
+# **Bệnh Whipple**
+
+Tác giả: Tiến sĩ Eugene Tan, Bác sĩ da liễu, Bệnh viện Waikato, Hamilton, New Zealand, 2009.Bản cập nhật DermNet tháng 6 năm 2021
+
+---
+
+## Bệnh Whipple là gì?
+
+Bệnh Whipple là một bệnh nhiễm trùng do vi khuẩn rất hiếm gặp , có thể ảnh hưởng đến nhiều hệ cơ quan trong cơ thể. Bệnh được đặt theo tên của George Hoyt Whipple, người đã mô tả một trường hợp bệnh vào năm 1907, nhưng mãi đến năm 1961, nguyên nhân gây bệnh mới được xác định là do nhiễm trùng.
+
+---
+
+## Nguyên nhân gây ra bệnh Whipple là gì?
+
+Nguyên nhân gây bệnh Whipple là vi khuẩn Tropheryma whipplei ( T. whipplei ), một loại trực khuẩn gram dương, phổ biến khắp nơi. T. whipplei phân bố rộng rãi ; nó đã được phát hiện trong đất, nước thải và phân. Đây là một loại vi khuẩn nội bào gây nhiễm trùng đại thực bào, gây tiết interleukin (IL)-16, gây chết tế bào đại thực bào và mất điện thế màng ty thể. Vi khuẩn này thường tích tụ trong đại thực bào ở niêm mạc tá tràng. Bệnh lây lan qua đường phân-miệng.
+
+---
+
+## Ai mắc bệnh Whipple?
+
+Bệnh Whipple thường được mô tả ở nam giới da trắng với độ tuổi trung bình là 50 tại thời điểm chẩn đoán. Bệnh rất hiếm gặp với tỷ lệ mắc bệnh trên toàn cầu ước tính khoảng 12 ca mỗi năm. Tỷ lệ mắc bệnh cao nhất ở công nhân nhà máy xử lý nước thải, nông dân, công nhân nông nghiệp, hoặc những người có thói quen vệ sinh kém như người vô gia cư.
+Trong một số nghiên cứu, có tới 35% người khỏe mạnh không bị ảnh hưởng mang T. whipplei trong ruột. Không phải tất cả người nhiễm bệnh đều có triệu chứng. Các triệu chứng của bệnh Whipple liên quan đến hệ thống miễn dịch và sự tương tác của hệ thống này với vi khuẩn.
+Những khiếm khuyết cụ thể trong hệ thống miễn dịch có thể khiến T. whipplei phát tán rộng rãi khắp cơ thể và gây bệnh.
+
+---
+
+## Các đặc điểm lâm sàng của bệnh Whipple là gì?
+
+Bốn đặc điểm lâm sàng cổ điển của bệnh Whipple là:
+- Đau khớp
+- Giảm cân
+- Tiêu chảy – do kém hấp thu (không có khả năng hấp thụ chất dinh dưỡng qua đường tiêu hóa)
+- Đau bụng
+Tuy nhiên, bệnh Whipple có thể ảnh hưởng đến bất kỳ hệ cơ quan nào và có nhiều biểu hiện lâm sàng khác nhau. Các dạng bệnh Whipple khu trú mạn tính ngày càng được phát hiện nhiều hơn.
+Đặc điểm lâm sàng của bệnh Whipple Hệ thần kinh trung ương Rối loạn chuyển động mắt Mất trí nhớ hoặc suy giảm trí nhớ Mức độ ý thức đang giảm dần Lú lẫn Mất ngủ Động kinh và co giật Mất cân bằng chuyển động Đau đầu Hệ thống cơ xương Viêm khớp (sưng khớp) Đau khớp (đau khớp) Hệ tim mạch Viêm nội tâm mạc (viêm tim hoặc van tim) Đau ngực Các triệu chứng không đặc hiệu Sốt Tuyến bạch huyết mở rộng
+
+---
+
+## Đặc điểm da của bệnh Whipple là gì?
+
+Các dấu hiệu trên da của bệnh Whipple rất hiếm gặp. Chúng có thể là do [suy dinh dưỡng](https://dermnetnz.org/topics/malnutrition-including-anorexia-nervosa) hoặc phản ứng miễn dịch với nhiễm trùng.
+Các dấu hiệu trên da liên quan đến suy dinh dưỡng là do kém hấp thu và tiêu chảy.
+- [Tăng sắc tố](https://dermnetnz.org/topics/pigmentation-disorders) – do [bệnh pellagra](https://dermnetnz.org/topics/pellagra) (thiếu niacin/vitamin B3), thiếu vitamin B12 hoặc nồng độ cortisol thấp
+- Xuất huyết hoặc [ban xuất huyết](https://dermnetnz.org/topics/purpura) – do thiếu vitamin C hoặc vitamin K
+- [Bệnh sừng hóa lòng bàn tay bàn chân](https://dermnetnz.org/topics/acquired-keratoderma) thứ phát hoặc [bệnh vảy cá](https://dermnetnz.org/topics/ichthyosis) – do thiếu cholesterol
+- Phù nề – do mất protein từ đường tiêu hóa
+Những thay đổi về da do viêm là do phản ứng miễn dịch với T. whipplei . Chúng có thể giống như:
+- [Bệnh chàm](https://dermnetnz.org/topics/dermatitis)
+- [Bệnh vẩy nến](https://dermnetnz.org/topics/psoriasis)
+- [Bệnh lupus ban đỏ](https://dermnetnz.org/topics/cutaneous-lupus-erythematosus)
+- [Mề đay](https://dermnetnz.org/topics/urticaria-an-overview)
+- [Ban đỏ nốt](https://dermnetnz.org/topics/erythema-nodosum)
+- [Ngứa dạng nốt sần.](https://dermnetnz.org/topics/nodular-prurigo)
+![Các nốt sần](https://dermnetnz.org/assets/Uploads/systemic/whipple1.jpg)
+![Mảng chàm](https://dermnetnz.org/assets/Uploads/systemic/whipple2.jpg)
+![Sẩn tăng sắc tố](https://dermnetnz.org/assets/Uploads/systemic/whipple3.jpg)
+
+---
+
+## Bệnh Whipple được chẩn đoán như thế nào?
+
+Các triệu chứng và dấu hiệu không đặc hiệu của bệnh Whipple cùng với tính hiếm gặp của nó khiến căn bệnh này rất khó chẩn đoán.
+Sinh thiết mô thường là cần thiết. Các xét nghiệm sau đây có thể phát hiện T. whipplei trong mô:
+- Phản ứng chuỗi polymerase ( PCR ) – thu thập một lượng nhỏ vi khuẩn
+- Periodic-Acid Schiff (PAS) – nhuộm vi khuẩn màu hồng
+- Kính hiển vi điện tử (EM) – độ phóng đại cao cho thấy vi khuẩn
+- [Nhuộm miễn dịch mô học](https://dermnetnz.org/topics/immunohistochemistry-stains) – nhuộm kháng thể đặc hiệu T. whipplei .
+
+---
+
+## Phương pháp điều trị bệnh Whipple là gì?
+
+Người bị nhiễm trùng thường cần dùng [kháng sinh](https://dermnetnz.org/topics/antibiotics) liều cao trong trường hợp não bị nhiễm T. whipplei . Phác đồ khởi đầu là tiêm tĩnh mạch ceftriaxone 2 g, mỗi ngày một lần, trong hai tuần.
+Viêm nội tâm mạc và tổn thương hệ thần kinh trung ương cần phải dùng ceftriaxone hoặc penicillin G trong thời gian dài hơn.
+Sau đó, nên tiếp tục sử dụng kháng sinh dài hạn như trimethoprim + sulphamethoxazole trong tối đa một năm để đảm bảo loại bỏ hoàn toàn T. Khuyến cáo nên nội soi đường tiêu hóa trên để theo dõi trước khi ngừng điều trị.
+
+---
+
+## Hậu quả của bệnh Whipple là gì?
+
+Trước khi xác định được nguyên nhân do vi khuẩn và sử dụng thuốc kháng sinh, bệnh Whipple thường gây tử vong.
+Việc điều trị có thể trở nên phức tạp do phản ứng Jarisch-Herxheimer trong vài giờ đầu hoặc [hội chứng viêm phục hồi miễn dịch](https://dermnetnz.org/topics/immune-reconstitution-inflammatory-syndrome) (IRIS) trong hai tuần đầu.
+Sau khi điều trị, có thể phải mất 4-5 năm (hoặc lâu hơn) trước khi bệnh tái phát ở 10-15% trường hợp nếu tình trạng nhiễm trùng không được loại bỏ hoàn toàn, đặc biệt là ở những bệnh nhân bị ảnh hưởng đến hệ thần kinh trung ương.

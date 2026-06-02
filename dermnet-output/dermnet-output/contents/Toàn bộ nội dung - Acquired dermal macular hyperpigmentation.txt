@@ -1,0 +1,113 @@
+# Tăng sắc tố điểm vàng mắc phải ở da — thông tin bổ sung
+
+Thể loại:
+
+Rối loạn sắc tố
+
+SNOMED CT:
+
+58942006, 49765009, 238698004, 717061002,
+
+**[Rối loạn sắc tố](https://dermnetnz.org/topics/topics?category=Pigmentary+disorders)**
+
+
+# **Tăng sắc tố điểm da mắc phải**
+
+Tác giả: Ko Jin Quek, Cán bộ Y tế, Khu Y tế Địa phương Tây Nam Sydney, Sydney, NSW, Úc; Tiến sĩ Monisha Gupta, Bác sĩ Da liễu, Sydney, Úc. Tổng Biên tập DermNet: Phó Giáo sư Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand. Biên tập bởi Gus Mitchell. Tháng 1 năm 2020.
+
+---
+
+## Tăng sắc tố da ở dạng chấm trung bì là gì?
+
+Tăng sắc tố da dạng chấm trung gian mắc phải , còn gọi là tăng sắc tố da dạng chấm trung gian mắc phải có nguyên nhân chưa rõ , bao gồm ba tình trạng:
+- [Ban đỏ dyschromicum perstans](https://dermnetnz.org/topics/erythema-dyschromicum-perstans)
+- [Lichen phẳng sắc tố](https://dermnetnz.org/topics/lichen-planus)
+- [Tăng sắc tố điểm vàng phát ban tự phát](https://dermnetnz.org/topics/idiopathic-eruptive-macular-hyperpigmentation) .
+Thuật ngữ tăng sắc tố da mắc phải (ASC) hữu ích vì ba tình trạng này chồng chéo lên nhau. Các phân nhóm có thể biểu hiện ở cùng một bệnh nhân và không có sự khác biệt rõ ràng về lâm sàng và mô học .
+![Lichen phẳng sắc tố ở lưng dưới](https://dermnetnz.org/assets/Uploads/scaly/lp-pigmentosus2.jpg)
+![Tăng sắc tố điểm da mắc phải](https://dermnetnz.org/assets/Uploads/acquired-dermal-macular-hyperpigmentation-021.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/acquired-dermal-macular-hyperpigmentation-008.jpg)
+[Xem thêm hình ảnh về tình trạng tăng sắc tố điểm vàng mắc phải](https://dermnetnz-org.translate.goog/topics/acquired-dermal-macular-hyperpigmentation-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp) .
+
+---
+
+## Ai mắc phải tình trạng tăng sắc tố da ở dạng chấm ở da?
+
+Dịch tễ học của tình trạng tăng sắc tố da mắc phải ở da thay đổi tùy thuộc vào tình trạng bệnh lý tiềm ẩn.
+Ban đỏ loạn sắc tố dai dẳng có thể ảnh hưởng đến mọi lứa tuổi, giới tính và sắc tộc, và thường ảnh hưởng đến những bệnh nhân có làn da sẫm màu. Phụ nữ châu Á, Trung Đông và Mỹ Latinh trong độ tuổi từ 20 đến 40 là những người thường xuyên bị ảnh hưởng nhất. Trong khi đó, tăng sắc tố điểm vàng phát ban tự phát phát triển trong hai thập kỷ đầu đời. Lichen phẳng sắc tố ảnh hưởng đến những người trung niên gốc Nam Á và châu Phi/Trung Đông.
+
+---
+
+## Nguyên nhân nào gây ra tình trạng tăng sắc tố da ở da?
+
+Nguyên nhân chính xác gây ra tình trạng tăng sắc tố da ở da vẫn chưa được biết rõ.
+Các lý thuyết được đề xuất về cơ chế sinh bệnh của chứng tăng sắc tố da mắc phải bao gồm:
+- Tính nhạy cảm di truyền
+- Tiếp xúc với tia cực tím ( UV )
+- Phản ứng tiếp xúc với hóa chất (lên đến 36% bệnh nhân được báo cáo có phản ứng [thử nghiệm miếng dán](https://dermnetnz.org/topics/patch-tests) dương tính với [thuốc nhuộm tóc](https://dermnetnz.org/topics/allergy-to-paraphenylenediamine) ), mặc dù hiện nay tình trạng này được gọi là viêm da tiếp xúc sắc tố
+- Tiếp xúc với một loại thuốc như [hydroxychloroquine](https://dermnetnz.org/topics/hydroxychloroquine) , tuy nhiên hiện nay điều này sẽ được dán nhãn là [tăng sắc tố do thuốc](https://dermnetnz.org/topics/drug-induced-pigmentation)
+- Nhiễm trùng do vi-rút .
+Sự tăng sắc tố trong tình trạng tăng sắc tố da mắc phải ở da thường là do các tế bào thực bào hắc tố tồn tại dai dẳng ở lớp hạ bì. Nguyên nhân khiến các tế bào thực bào hắc tố không tự đào thải như thường lệ vẫn chưa được biết rõ.
+
+---
+
+## Các đặc điểm lâm sàng của tình trạng tăng sắc tố da mắc phải là gì?
+
+Tăng sắc tố da mắc phải biểu hiện bằng các mảng màu xanh, nâu, xám đá phiến hoặc đen nâu , có thể thay đổi kích thước và hình thái theo thời gian.
+- [Bệnh liken phẳng sắc tố](https://dermnetnz.org/topics/lichen-planus) và [tăng sắc tố điểm vàng phát ban tự phát](https://dermnetnz.org/topics/idiopathic-eruptive-macular-hyperpigmentation) ảnh hưởng đến mặt, cổ và các chi gần .
+- [Bệnh ban đỏ loạn sắc tố perstans](https://dermnetnz.org/topics/erythema-dyschromicum-perstans) ảnh hưởng đến thân mình và những vùng da được che chắn khỏi ánh nắng mặt trời, ban đầu thường có viền ban đỏ .
+- Các đốm lớn có đường kính lớn hơn 5 cm được thấy ở bệnh liken phẳng sắc tố và ban đỏ loạn sắc tố dai dẳng.
+- Các đốm nhỏ có kích thước 0,5–2 cm xuất hiện trong tình trạng tăng sắc tố dát đỏ phát ban tự phát và bệnh liken phẳng sắc tố.
+- Bệnh liken phẳng sắc tố hiếm khi được báo cáo ở những bệnh nhân hiện tại hoặc trước đây mắc bệnh liken phẳng cổ điển.
+Tăng sắc tố da mắc phải thường không có triệu chứng , mặc dù bệnh liken phẳng sắc tố đôi khi gây ngứa ở giai đoạn đầu.
+
+---
+
+## Biến chứng của tình trạng tăng sắc tố da ở da là gì?
+
+Tăng sắc tố da điểm vàng mắc phải không gây ra biến chứng y khoa nghiêm trọng lâu dài. Tuy nhiên, tình trạng này ảnh hưởng đến chất lượng cuộc sống của người da màu do tính thẩm mỹ và khả năng phục hồi chậm.
+
+---
+
+## Làm thế nào để chẩn đoán tình trạng tăng sắc tố da ở dạng chấm ở da?
+
+Chẩn đoán tình trạng tăng sắc tố da mắc phải và các phân nhóm của nó dựa trên các đặc điểm trên da và tiền sử bệnh chi tiết.
+Cần phải có bệnh sử chi tiết để loại trừ thuốc men, nhiễm virus và tình trạng viêm da.
+[Có thể cần phải thử nghiệm miếng dán](https://dermnetnz.org/topics/patch-tests) để loại trừ viêm da tiếp xúc dị ứng nếu có yếu tố tiếp xúc nào đó.
+[Soi da](https://dermnetnz.org/topics/dermoscopy) hữu ích trong việc chẩn đoán và theo dõi tình trạng tăng sắc tố da mắc phải. Các phát hiện có thể bao gồm:
+- Các chấm sắc tố, các khối cầu và các vùng khuếch tán không ảnh hưởng đến các lỗ mở của nang lông và tuyến mồ hôi
+- Mạng lưới sắc tố giả lưới bình thường nổi bật
+- Giãn mạch
+- Cấu trúc mắt của cú.
+Các đặc điểm mô học của tình trạng tăng sắc tố da mắc phải trên [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) có thể bao gồm và giúp xác định chẩn đoán:
+- Melanin và tế bào hắc tố ở lớp hạ bì
+- Biến đổi dạng liken kèm theo viêm da giao diện.
+
+---
+
+## Chẩn đoán phân biệt cho tình trạng tăng sắc tố da ở da là gì?
+
+Một số tình trạng da khác có biểu hiện tương tự như tình trạng tăng sắc tố da mắc phải, chẳng hạn như:
+- [Tăng sắc tố sau viêm](https://dermnetnz.org/topics/postinflammatory-hyperpigmentation)
+- [Tăng sắc tố do thuốc](https://dermnetnz.org/topics/drug-induced-pigmentation)
+- Nhiều tổn thương của [phát ban do thuốc cố định](https://dermnetnz.org/topics/fixed-drug-eruption)
+- [Bệnh lắng đọng tinh bột dạng dát](https://dermnetnz.org/topics/cutaneous-amyloidosis)
+- [Bệnh tăng sinh tế bào mast ở da dạng sẩn dát](https://dermnetnz.org/topics/maculopapular-cutaneous-mastocytosis) .
+
+---
+
+## Phương pháp điều trị chứng tăng sắc tố da ở da là gì?
+
+Việc điều trị tình trạng tăng sắc tố da ở da phụ thuộc vào từng loại và thời gian kéo dài của bệnh, nhưng nhiều liệu pháp đã được thử nghiệm nhưng không mang lại hiệu quả hoặc ít hiệu quả.
+- Cần tránh bất kỳ [chất gây dị ứng tiếp xúc nào đã xác định được.](https://dermnetnz.org/topics/contact-allergens)
+- [Colchicine](https://dermnetnz.org/topics/colchicine) đã được sử dụng để cải thiện hoạt động của đại thực bào và do đó làm sạch sắc tố da.
+- Trong giai đoạn viêm cấp tính của bệnh [liken phẳng sắc tố](https://dermnetnz.org/topics/lichen-planus) , có thể cân nhắc dùng [steroid tại chỗ](https://dermnetnz.org/topics/topical-steroid) , [thuốc ức chế calcineurin](https://dermnetnz.org/topics/calcineurin-inhibitors) tại chỗ và [corticosteroid đường uống](https://dermnetnz.org/topics/systemic-steroids) . [](https://dermnetnz.org/topics/calcineurin-inhibitors) [](https://dermnetnz.org/topics/systemic-steroids)
+- Ở giai đoạn muộn hơn hoặc khi không có tình trạng viêm cấp tính , việc điều trị nhằm mục đích giảm sắc tố; khuyến cáo nên [bảo vệ da kỹ lưỡng trước ánh nắng mặt trời .](https://dermnetnz.org/topics/sun-protection) [Retinoid bôi ngoài da](https://dermnetnz.org/topics/topical-retinoids) có thể làm giảm melanin tích tụ trong lớp biểu bì.
+- Các phương pháp điều trị được đề xuất cho bệnh ban đỏ loạn sắc tố bao gồm [dapsone](https://dermnetnz.org/topics/dapsone) , [clofazimine](https://dermnetnz.org/topics/clofazimine) , [corticosteroid](https://dermnetnz.org/topics/systemic-steroids) và [thuốc ức chế miễn dịch](https://dermnetnz.org/topics/drug-induced-immunosuppression) nhưng không có nhiều bằng chứng về hiệu quả. [Tăng sắc tố điểm vàng phát ban tự phát](https://dermnetnz.org/topics/idiopathic-eruptive-macular-hyperpigmentation) thường tự khỏi nên thường không cần điều trị.
+- [Tăng sắc tố điểm vàng phát ban tự phát](https://dermnetnz.org/topics/idiopathic-eruptive-macular-hyperpigmentation) thường tự khỏi nên thường không cần điều trị.
+
+---
+
+## Hậu quả của tình trạng tăng sắc tố da ở da là gì?
+
+Tăng sắc tố điểm vàng phát ban tự phát có xu hướng tự khỏi trong vòng vài tháng đến vài năm. Ngược lại, sắc tố của liken phẳng sắc tố có thể kéo dài hàng thập kỷ, còn ban đỏ loạn sắc tố dai dẳng thường mạn tính và tiến triển.

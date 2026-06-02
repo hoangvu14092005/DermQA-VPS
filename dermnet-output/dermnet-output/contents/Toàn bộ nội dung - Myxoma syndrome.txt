@@ -1,0 +1,52 @@
+# Hội chứng u nhầy — thông tin bổ sung
+
+Thể loại:
+
+Di truyền
+
+SNOMED CT:
+
+404082003, 733491005
+
+**[Di truyền](https://dermnetnz.org/topics/topics?category=Genetic)**
+
+
+# **Hội chứng u nhầy**
+
+Tác giả: Vanessa Ngan, Biên tập viên, 2006.
+
+---
+
+## Hội chứng u nhầy là gì?
+
+Hội chứng u nhầy là tên gọi chung của một nhóm bệnh lý đặc trưng bởi sự xuất hiện của u nhầy nhĩ ( khối u mô tim) và [các nốt sắc tố](https://dermnetnz.org/topics/lentigo) ( đốm sắc tố trên da). Thông thường, các bất thường khác cũng đi kèm với các rối loạn khác nhau, và trong một số trường hợp, điều này đã dẫn đến cách đặt tên chung cho các tình trạng này.
+Hội chứng u nhầy bao gồm:
+- LAMB ( lentigines , u nhầy nhĩ, u nhầy niêm mạc và nốt ruồi xanh )
+- TÊN (nốt ruồi, u nhầy nhĩ, u xơ thần kinh dạng nhầy và tàn nhang))
+- Hội chứng Carney (u nhầy nhĩ, da và vú, u sắc tố, nốt ruồi xanh, rối loạn nội tiết và khối u tinh hoàn)
+Người ta cho rằng tất cả những tình trạng này có thể là một phần của nhiều biểu hiện của cùng một rối loạn.
+
+---
+
+## Các đặc điểm lâm sàng của hội chứng u nhầy là gì?
+
+Các đặc điểm lâm sàng của hội chứng u nhầy khác nhau giữa các loại tùy theo các bất thường liên quan.
+Hội chứng u nhầy Đặc điểm lâm sàng CỪU NON Lentigines – thường xuất hiện ở môi, mặt, củng mạc và âm hộ. Tổn thương có màu nâu và có thể có đường kính lên tới 1cm. U nhầy nhĩ – khối u mô tim thường bắt nguồn từ tâm nhĩ (buồng trên của tim). U nhầy nhĩ có thể cản trở lưu lượng máu qua tim và gây ngất xỉu, khó thở, đau ngực và các triệu chứng tim mạch khác. U nhầy niêm mạc – xuất hiện dưới dạng sẩn hoặc cục ở nhiều vị trí khác nhau trên cơ thể, bao gồm vú, vai, niêm mạc miệng và lưỡi. [Nốt ruồi xanh](https://dermnetnz.org/topics/blue-naevus) – nốt ruồi màu xanh đậm xuất hiện ở bất kỳ vị trí nào trên cơ thể TÊN Các đặc điểm tương tự như hội chứng LAMB. Đặc điểm bổ sung là u xơ thần kinh dạng nhầy, thường là tổn thương đơn độc xuất hiện ở các chi. Tàn nhang (ephelides [)](https://dermnetnz.org/topics/brown-spots-and-freckles) thường xuất hiện khi mới sinh và trở nên rõ ràng hơn vào mùa hè. Các tổn thương có màu từ nhạt đến nâu sẫm và thường gặp nhất ở vùng cổ, thân và đùi. Carney U nhầy da thường xuất hiện ở mí mắt, núm vú, da đầu, mặt, tai, cổ, niêm mạc miệng, thân và chi. U nhầy có màu nâu đến đen, đường kính 0,2-2 mm. Chúng lan rộng khắp cơ thể và thường kết hợp với nhau tạo thành các mảng màu nâu. Tổn thương tuyến vú bao gồm chứng vú to ở nam giới (vú to) và phì đại mô đệm dạng u nhầy . U nhầy nhĩ có thể đơn độc hoặc nhiều u và thường dẫn đến xơ hóa hoặc vôi hóa .
+              Các đặc điểm khác bao gồm khối u tinh hoàn và hoạt động quá mức của tuyến nội tiết (ví dụ: u tuyến yên và hội chứng Cushing).
+![U nhầy da](https://dermnetnz.org/assets/Uploads/systemic/w/myxoma-01.jpg)
+![U nhầy da](https://dermnetnz.org/assets/Uploads/systemic/w/myxoma-02.jpg)
+
+---
+
+## Nguyên nhân nào gây ra hội chứng u nhầy?
+
+Một số trường hợp hội chứng u nhầy được di truyền theo kiểu trội trên nhiễm sắc thể thường , nghĩa là nếu một trong hai cha mẹ bị ảnh hưởng, con cái có 50% khả năng bị di truyền gen đột biến này. Các đột biến trong gen PRKAR1A được mô tả. Gen này mã hóa tiểu đơn vị điều hòa loại 1A của protein kinase A. Phân tử này dường như có vai trò trong việc điều hòa chu kỳ tế bào, tăng trưởng và/hoặc tăng sinh.
+Nhiều trường hợp hội chứng u nhầy xuất hiện lẻ tẻ và dường như không có đột biến gen này. Nguyên nhân chính xác vẫn chưa được biết rõ.
+
+---
+
+## Có những phương pháp điều trị nào?
+
+Một nhóm bác sĩ chuyên khoa bao gồm bác sĩ tim mạch, bác sĩ nội tiết và bác sĩ da liễu sẽ điều trị hội chứng u nhầy.
+Nếu cần thiết, các tổn thương da (lentigines, naevi, u da) có thể được loại bỏ bằng cách sử dụng [lột da hóa học](https://dermnetnz.org/topics/chemical-peels) , [liệu pháp lạnh](https://dermnetnz.org/topics/cryotherapy) , [điều trị bằng laser](https://dermnetnz.org/topics/lasers-in-dermatology) hoặc [phẫu thuật cắt bỏ](https://dermnetnz.org/topics/excision-of-skin-lesions) . Đối với một số bệnh nhân, điều trị bằng [retinoid tại chỗ](https://dermnetnz.org/topics/topical-retinoids) và kem [hydroquinone](https://dermnetnz.org/topics/hydroquinone) có thể hữu ích.
+U nhầy nhĩ có thể được cắt bỏ bằng phẫu thuật. Phẫu thuật này an toàn, với tỷ lệ tử vong là 2,2%. Đôi khi, một phần khối u có thể vỡ ra trong quá trình phẫu thuật và mắc kẹt trong các mạch máu khác , gây ra các vấn đề khác như đột quỵ hoặc thuyên tắc phổi .

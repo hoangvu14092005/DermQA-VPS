@@ -1,0 +1,251 @@
+# Bệnh sarcoidosis — thông tin bổ sung
+
+Thể loại:
+
+Bệnh hệ thống
+
+SNOMED CT:
+
+31541009, 55941000, 238680003, 238679001, 111937006, 238677004, 80941006, 54515008, 72470008, 21787007, 238675007, 238676008, 21323007, 24369008, 187233002, 234526006
+
+**[Bệnh hệ thống](https://dermnetnz.org/topics/topics?category=Systemic+diseases)**
+
+
+# **Bệnh sarcoidosis**
+
+Tác giả: Tiến sĩ Sarah Elyoussfi, Chuyên viên Đăng ký Da liễu; Tiến sĩ Ian Coulson, Bác sĩ Da liễu Tư vấn, Quỹ Tín thác Dịch vụ Y tế Quốc gia Đông Lancashire, Vương quốc Anh. Biên tập bởi Gus Mitchell. Tháng 3 năm 2022
+
+---
+
+## Bệnh sarcoidosis là gì?
+
+Bệnh sarcoidosis là một bệnh lý đa hệ thống , đặc trưng bởi [các khối u hạt](https://dermnetnz.org/topics/granuloma) ở nhiều cơ quan khác nhau. Đặc điểm chung của chúng là các khối u hạt biểu mô không hoại tử (một mô tả bệnh lý phân biệt u hạt sarcoid với u hạt hoại tử hoặc u hạt dạng phô mai thường thấy trong [bệnh lao](https://dermnetnz.org/topics/cutaneous-tuberculosis) ). [](https://dermnetnz.org/topics/cutaneous-tuberculosis)
+Bệnh sarcoidosis có thể ảnh hưởng đến nhiều cơ quan với tần suất khác nhau, bao gồm:
+- Phổi
+- Da
+- Mắt
+- Gan
+- Trái tim
+- Hệ thần kinh
+- Cơ xương.
+![Sốt và phát ban](https://dermnetnz.org/assets/Uploads/figure-3-fever+rash.jpg)
+![Bệnh hạch bạch huyết hai rốn phổi trong bệnh sarcoidosis](https://dermnetnz.org/assets/Uploads/doctors/systemic/images/sarc5.jpg)
+![Mảng sarcoid trên má và mũi](https://dermnetnz.org/assets/collection/Sarcoidosis/sarcoidosis-0048.jpg)
+![Bệnh sarcoidosis](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/sarc-face.jpg)
+![Bệnh lupus ban đỏ ở da do bệnh sarcoidosis](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/lupus-pernio.jpg)
+![Sẹo sarcoid giống sẹo lồi trên dái tai bị xỏ khuyên](https://dermnetnz.org/assets/collection/Sarcoidosis/sarcoidosis-0002.jpg)
+[Nhấp vào đây để xem thêm hình ảnh](https://dermnetnz-org.translate.goog/images/sarcoidosis-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+
+---
+
+## Ai có nguy cơ mắc bệnh sarcoidosis?
+
+Bệnh sarcoidosis xảy ra trên toàn thế giới, ảnh hưởng đến mọi người thuộc mọi chủng tộc, lứa tuổi và giới tính.
+- Người Mỹ gốc Phi và người Scandinavia có tỷ lệ mắc bệnh cao hơn.
+- Bệnh sarcoidosis chủ yếu ảnh hưởng đến những người trong độ tuổi từ 30-50.
+- Bệnh này phổ biến hơn ở phụ nữ, người không hút thuốc và cộng đồng nông thôn.
+- Tỷ lệ mắc bệnh ước tính từ 2,3 đến 11 trên 100.000 người/năm.
+
+---
+
+## Nguyên nhân gây ra bệnh sarcoidosis là gì?
+
+Chưa xác định được nguyên nhân đơn lẻ. Nhiều nhà nghiên cứu đã đưa ra giả thuyết về vai trò của di truyền, các yếu tố môi trường và tự miễn dịch trong sự phát triển của bệnh sarcoidosis.
+
+### Di truyền học
+Mười một vị trí gen nguy cơ mắc bệnh sarcoidosis (BTNL2, HLA -B, HLA-DPB1, ANXA11, IL23R, SH2B3/ATXN2, IL12B, NFKB1/MANBA, FAM177B, nhiễm sắc thể 11q13.1 và RAB23) đã được xác định.
+Một số alen HLA và không phải HLA có liên quan đến sự phát triển của bệnh này, chẳng hạn như HLA-DRB1*0301/DQB1*0201, yếu tố tăng trưởng chuyển dạng β (TGF-β), yếu tố hoại tử khối u α ( TNF -α) và thụ thể giống Toll 4 (TLR-4). Những cặp song sinh cùng trứng mắc bệnh sarcoidosis có nguy cơ mắc bệnh sarcoidosis cao gấp 80 lần .
+
+### Các yếu tố môi trường và bệnh tự miễn
+Tiếp xúc với các chất như bếp củi, đất, phấn hoa cây, các hạt vô cơ, thuốc trừ sâu và silica có liên quan đến việc tăng nguy cơ mắc bệnh sarcoidosis.
+Người ta cho rằng một số loại vi khuẩn có thể gây ra bệnh sarcoidosis bao gồm các loài Mycoplasma , các loài Leptospira , virus herpes, retrovirus, Chlamydia pneumoniae , Borrelia burgdorferi , Pneumocystis jirovecii và các loài Propionibacterium .
+Các phản ứng giống bệnh sarcoidosis do thuốc đã được báo cáo với một số loại thuốc, bao gồm thuốc ức chế điểm kiểm soát , thuốc kháng TNF và thuốc kháng interleukin sinh học. Bệnh sarcoidosis dường như phổ biến hơn ở những người mắc [bệnh bạch biến](https://dermnetnz.org/topics/vitiligo) .
+
+---
+
+## Các dấu hiệu và triệu chứng của bệnh sarcoidosis là gì?
+
+Bệnh sarcoidosis có thể ảnh hưởng đến bất kỳ cơ quan nào do đó bệnh nhân có thể biểu hiện nhiều triệu chứng khác nhau.
+Bệnh sarcoidosis có thể không biểu hiện triệu chứng và bệnh có thể tự khỏi mà bệnh nhân hoặc bác sĩ không hề hay biết. Các triệu chứng có thể xuất hiện đột ngột rồi tự khỏi. Tuy nhiên, đôi khi chúng có thể kéo dài suốt đời.
+Các triệu chứng chung không đặc hiệu như mệt mỏi được ghi nhận ở gần 70% bệnh nhân. Các triệu chứng toàn thân khác có thể bao gồm:
+- Giảm cân
+- Mất cảm giác thèm ăn
+- Sốt
+- Ớn lạnh và đổ mồ hôi đêm.
+Hơn 20% bệnh nhân bị [viêm hạch ngoại vi](https://dermnetnz.org/topics/lymphoedema) . Các hạch bị ảnh hưởng sưng vừa phải và thường không đau.
+Bệnh sarcoidosis có thể ảnh hưởng đến một hoặc nhiều hệ cơ quan.
+
+---
+
+## Các triệu chứng và dấu hiệu của sự liên quan đến cơ quan cụ thể
+
+
+### Phổi
+- Các triệu chứng về hô hấp được phát hiện khi khám bệnh ở 30-53%.
+- Những triệu chứng này bao gồm ho, khó thở và đau ngực. Gần một nửa số bệnh nhân mắc bệnh sarcoid phổi có thể không có triệu chứng.
+- Ở một số bệnh nhân, tình trạng liên quan đến đường hô hấp trên gây ra tình trạng khàn giọng, nghẹt mũi và viêm xoang tái phát hoặc dai dẳng .
+- Có thể thấy hạch bạch huyết quanh rốn phổi hai bên và các nốt phổi trên phim chụp X-quang ngực và CT ngực. Cũng có thể thấy các thay đổi xơ hóa phổi.
+
+### Da (bệnh sarcoid da) và niêm mạc
+- Có tới một phần ba số bệnh nhân bị tổn thương da.
+- Khoảng 30% bệnh nhân mắc bệnh sarcoidosis da không bị ảnh hưởng đến các cơ quan khác.
+- Tổn thương có thể không đặc hiệu hoặc đặc hiệu dựa trên sự có mặt hoặc vắng mặt của u hạt không hoại tử khi xét nghiệm mô bệnh học.
+Các tổn thương không đặc hiệu bao gồm:
+- [Ban đỏ nốt :](https://dermnetnz.org/topics/erythema-nodosum) tổn thương không đặc hiệu phổ biến nhất Bệnh này biểu hiện bằng các nốt ban đỏ mềm chủ yếu ở cẳng chân; thường kèm theo viêm khớp ở mắt cá chân, khuỷu tay, cổ tay và bàn tay ( [hội chứng Löfgren](https://dermnetnz.org/topics/loefgren-syndrome) ).
+- Bệnh này biểu hiện bằng các nốt ban đỏ mềm chủ yếu ở cẳng chân; thường kèm theo viêm khớp ở mắt cá chân, khuỷu tay, cổ tay và bàn tay ( [hội chứng Löfgren](https://dermnetnz.org/topics/loefgren-syndrome) ).
+- Chàm đồng tiền
+- [Ban đỏ đa dạng](https://dermnetnz.org/topics/erythema-multiforme)
+- [Canxi hóa da](https://dermnetnz.org/topics/calcinosis-cutis) ( sự lắng đọng muối canxi trong da)
+- [Ngứa](https://dermnetnz.org/topics/pruritus) (ngứa).
+Các tổn thương cụ thể cho thấy u hạt trên mô học ( kiểm tra bằng kính hiển [vi sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) ) và bao gồm:
+- [Lupus ban đỏ](https://dermnetnz.org/topics/lupus-pernio) : các nốt sần lớn màu đỏ xanh và tím sẫm thâm nhiễm và các tổn thương giống mảng bám trên mũi, má, tai, ngón tay và ngón chân (không phải [chứng tê cóng](https://dermnetnz.org/topics/chilblains) ), liên quan đến quá trình mãn tính và kháng trị của bệnh sarcoidosis
+- Mảng da : tổn thương da hình tròn, dày, màu đỏ tía hoặc nâu, liên quan đến quá trình mãn tính của bệnh
+- Sẩn và nốt sần – cứng và không có vảy , có thể có màu da, vàng nâu, đỏ nâu, tím nâu hoặc giảm sắc tố
+- Các nốt dưới da ( [bệnh Darier-Roussy](https://dermnetnz.org/topics/darier-roussy-subcutaneous-sarcoidosis) )
+- Sự thâm nhiễm (làm dày) của các vết sẹo cũ (bệnh sarcoidosis sẹo) và sarcoid trong hình xăm
+- Ichthyosiform
+- Tổn thương giống hoại tử
+- Tổn thương niêm mạc — niêm mạc má , nướu , vòm miệng cứng , lưỡi, hầu sau và tuyến nước bọt
+- [Bệnh đỏ da](https://dermnetnz.org/topics/erythroderma)
+- [Rụng tóc](https://dermnetnz.org/topics/hair-loss)
+- Bệnh sarcoidosis móng tay — móng mỏng, giòn và dày , rỗ , có gờ, [viêm móng](https://dermnetnz.org/topics/trachyonychia) , tăng sắc tố , móng dùi trống hoặc giả dùi trống, phá hủy phiến móng và sẹo.
+
+### Mắt
+Bất kỳ bộ phận nào của mắt cũng có thể bị ảnh hưởng:
+- Viêm màng bồ đào : dạng tổn thương mắt phổ biến nhất , có thể ảnh hưởng đến 20–30% bệnh nhân mắc bệnh sarcoidosis, dẫn đến mờ mắt, chảy nước mắt và sợ ánh sáng
+- Viêm củng mạc /viêm thượng củng mạc
+- Các nốt sần mống mắt
+- Viêm võng mạc
+- Viêm kết mạc
+- Sự liên quan của tuyến lệ — có thể gây ra hội chứng khô mắt
+- Sự liên quan của dây thần kinh thị giác dẫn đến bệnh lý thần kinh thị giác , tiên lượng không thuận lợi và thị lực suy giảm vĩnh viễn xảy ra ở khoảng một phần ba số bệnh nhân.
+- Liệt dây thần kinh thị giác có thể xảy ra do sự xâm nhập của u hạt vào dây thần kinh sọ não thứ 3, thứ 4 và thứ 6
+- Lồi mắt (nhãn cầu lồi ra ngoài).
+Trong một số trường hợp hiếm gặp, bệnh đục thủy tinh thể , tăng nhãn áp và mù lòa có thể xảy ra.
+
+### Gan
+- Có đến một phần ba bệnh nhân có sự thay đổi nồng độ men gan . Phosphatase kiềm tăng cao hơn aminotransferase trong bệnh sarcoidosis gan .
+- Bệnh gan có thể biểu hiện bằng gan to , mệt mỏi, đau bụng trên bên phải kèm theo ngứa (5–15%), sốt, vàng da và sụt cân (dưới 5%).
+
+### Trái tim
+- Khoảng 3–39% bệnh nhân mắc bệnh sarcoidosis toàn thân được báo cáo có liên quan đến tim .
+- Có thể biểu hiện bằng suy tim, loạn nhịp tim hoặc ngất xỉu.
+- Bệnh sarcoidosis tim phổ biến hơn nhiều ở người Nhật so với các chủng tộc khác. Tại Nhật Bản, nguyên nhân chính gây tử vong ở bệnh nhân sarcoidosis là tổn thương tim, chiếm 77% số ca tử vong ở những người mắc bệnh sarcoidosis.
+
+### Hệ thần kinh
+- Có báo cáo về tình trạng liên quan đến thần kinh ở 3–10%.
+- Các vị trí bị ảnh hưởng thường xuyên nhất bao gồm các dây thần kinh sọ (55%), nhu mô não (20–45%), màng não (12–40%) và tủy sống ( 18–26,5%).
+- Có thể dẫn đến các khiếm khuyết về thần kinh, co giật , bệnh não , đau đầu, lú lẫn và khó chịu.
+
+### Hệ thống cơ xương
+- Tình trạng liên quan đến khớp, còn được gọi là bệnh khớp dạng sarcoid , xảy ra ở 6–35%.
+- Có 3–13% trường hợp bị tổn thương xương không có triệu chứng.
+- Bệnh cơ sarcoid xảy ra ở <3%.
+- Viêm khớp thường là cấp tính , gây sưng ở cẳng chân và đau ở mắt cá chân, đầu gối và ngón tay.
+- Viêm khớp sarcoid mãn tính (dài hạn) rất hiếm gặp (7%).
+- Sưng ngón tay ( [viêm ngón tay](https://dermnetnz.org/topics/dactylitis) ).
+
+### Chuyển hóa canxi
+- Tăng canxi huyết ảnh hưởng đến 7–18% bệnh nhân mắc bệnh sarcoidosis do u hạt sarcoid sản xuất quá nhiều [vitamin D.](https://dermnetnz.org/topics/vitamin-d)
+- Sỏi thận (sỏi thận) có thể là kết quả của quá trình chuyển hóa canxi bất thường (10–14%) và tăng canxi niệu.
+
+### Thận
+- Viêm kẽ thận hạt là dạng bệnh thận điển hình của bệnh sarcoidosis
+- Viêm kẽ thận có biểu hiện lâm sàng rõ ràng được quan sát thấy ở 0,7 đến 4,3% trong các nghiên cứu lâm sàng.
+![Mảng sarcoid ở mu bàn tay](https://dermnetnz.org/assets/collection/Sarcoidosis/sarcoidosis-0003.jpg)
+![Bệnh sarcoidosis da lan rộng](https://dermnetnz.org/assets/Uploads/doctors/systemic/images/sarc3.jpg)
+![Các mảng sarcoid trên má giống với ung thư biểu mô tế bào đáy](https://dermnetnz.org/assets/collection/Sarcoidosis/sarcoidosis-0013.jpg)
+![Sẩn sarcoid vành mũi](https://dermnetnz.org/assets/collection/Sarcoidosis/sarcoidosis-0044.jpg)
+![U hạt sẩn ở mí mắt](https://dermnetnz.org/assets/collection/Sarcoidosis/sarcoidosis-0043.jpg)
+![Bệnh loạn dưỡng móng Sarcoid](https://dermnetnz.org/assets/collection/Sarcoidosis/sarcoidosis-0006.jpg)
+![Bệnh lý bệnh Sarcoidosis](https://dermnetnz.org/assets/Uploads/pathology/t/sarcoidosisfigure3.jpg)
+[Nhấp vào đây để xem thêm hình ảnh](https://dermnetnz-org.translate.goog/images/sarcoidosis-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+
+---
+
+## Bệnh sarcoidosis được chẩn đoán như thế nào?
+
+Chẩn đoán bệnh sarcoidosis dựa trên ba tiêu chí chính:
+- Biểu hiện lâm sàng nhất quán và đầy đủ
+- Chứng minh sự hiện diện của các khối u hạt không hoại tử trong một hoặc nhiều mẫu mô
+- Loại trừ các nguyên nhân khác gây ra bệnh u hạt.
+Không có cuộc điều tra “tiêu chuẩn vàng” nào được thiết lập, tuy nhiên có thể thực hiện các xét nghiệm sau khi nghi ngờ mắc bệnh sarcoidosis; kết quả phải được thực hiện kết hợp với bệnh sử và khám lâm sàng.
+- Chụp X-quang ngực Viêm hạch bạch huyết rốn phổi hai bên , các nốt lan tỏa trong phổi.
+- Viêm hạch bạch huyết rốn phổi hai bên , các nốt lan tỏa trong phổi.
+- Chức năng phổi Đánh giá tình trạng phổi bị ảnh hưởng và mức độ nghiêm trọng của bệnh. U hạt và xơ hóa mô phổi làm giảm dung tích phổi và làm gián đoạn dòng khí bình thường.
+- Đánh giá tình trạng phổi bị ảnh hưởng và mức độ nghiêm trọng của bệnh.
+- U hạt và xơ hóa mô phổi làm giảm dung tích phổi và làm gián đoạn dòng khí bình thường.
+- Máu Thiếu máu nhẹ xảy ra do tình trạng u hạt ở tủy xương hoặc tình trạng bệnh mãn tính. Bệnh giảm bạch cầu lympho. Tăng nồng độ canxi huyết thanh và xét nghiệm chức năng gan bất thường thường đi kèm với bệnh sarcoidosis. Men chuyển angiotensin (ACE) trong huyết thanh cho biết tổng lượng hạt. Nồng độ này cao hơn ở bệnh nhân sarcoidosis nhưng không đặc hiệu với bệnh sarcoidosis.
+- Thiếu máu nhẹ xảy ra do tình trạng u hạt ở tủy xương hoặc tình trạng bệnh mãn tính.
+- Bệnh giảm bạch cầu lympho.
+- Tăng nồng độ canxi huyết thanh và xét nghiệm chức năng gan bất thường thường đi kèm với bệnh sarcoidosis.
+- Men chuyển angiotensin (ACE) trong huyết thanh cho biết tổng lượng hạt. Nồng độ này cao hơn ở bệnh nhân sarcoidosis nhưng không đặc hiệu với bệnh sarcoidosis.
+- Sinh thiết mô (để tìm sự hiện diện của u hạt) Phổi, hạch bạch huyết , da, tuyến nước bọt, kết mạc Sinh thiết phế quản — phát hiện tổn thương phổi, ( Sinh thiết kim xuyên phế quản dưới hướng dẫn của siêu âm nội phế quản [EBUS-TBNA], Sinh thiết xuyên phế quản và nội phế quản) Kiểm tra bằng kính hiển vi các mẫu mô cơ quan có thể phát hiện u hạt và xác nhận chẩn đoán. Có thể cần phải sinh thiết nhiều lần. Các đặc điểm bệnh lý cụ thể [của bệnh sarcoidosis](https://dermnetnz.org/topics/sarcoidosis-pathology) thường xuất hiện trong các mẫu [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) của bệnh này.
+- Phổi, hạch bạch huyết , da, tuyến nước bọt, kết mạc
+- Sinh thiết phế quản — phát hiện tổn thương phổi, ( Sinh thiết kim xuyên phế quản dưới hướng dẫn của siêu âm nội phế quản [EBUS-TBNA], Sinh thiết xuyên phế quản và nội phế quản)
+- Kiểm tra bằng kính hiển vi các mẫu mô cơ quan có thể phát hiện u hạt và xác nhận chẩn đoán. Có thể cần phải sinh thiết nhiều lần.
+- Các đặc điểm bệnh lý cụ thể [của bệnh sarcoidosis](https://dermnetnz.org/topics/sarcoidosis-pathology) thường xuất hiện trong các mẫu [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) của bệnh này.
+- Khám mắt Được sử dụng để phát hiện u hạt hốc mắt và mí mắt
+- Được sử dụng để phát hiện u hạt hốc mắt và mí mắt
+- Các xét nghiệm khác CT độ phân giải cao — phân biệt bệnh sarcoidosis với các bệnh phổi khác FDG- PET — độ nhạy cao để phát hiện tổn thương tim và phổi Điện tâm đồ — nhịp ngoại tâm thu , loạn nhịp tim MRI — phát hiện tổn thương thần kinh, tủy sống, màng não, vòm sọ và tuyến yên Xét nghiệm Kveim — tiêm vào lách sarcoidal, sinh thiết để xác định xem có hình thành u hạt hay không (không có sẵn ở một số quốc gia) Xét nghiệm chức năng gan và thận Bài tiết canxi qua nước tiểu 24 giờ Enzym chuyển angiotensin [Xét nghiệm lao](https://dermnetnz.org/topics/tuberculosis-screening) : âm tính trong bệnh sarcoidosis [Sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) bệnh sarcoidosis — các tổn thương da cụ thể có độ nhạy tốt để chứng minh u hạt không hoại tử (90% trong một nghiên cứu)
+- CT độ phân giải cao — phân biệt bệnh sarcoidosis với các bệnh phổi khác
+- FDG- PET — độ nhạy cao để phát hiện tổn thương tim và phổi
+- Điện tâm đồ — nhịp ngoại tâm thu , loạn nhịp tim
+- MRI — phát hiện tổn thương thần kinh, tủy sống, màng não, vòm sọ và tuyến yên
+- Xét nghiệm Kveim — tiêm vào lách sarcoidal, sinh thiết để xác định xem có hình thành u hạt hay không (không có sẵn ở một số quốc gia)
+- Xét nghiệm chức năng gan và thận
+- Bài tiết canxi qua nước tiểu 24 giờ
+- Enzym chuyển angiotensin
+- [Xét nghiệm lao](https://dermnetnz.org/topics/tuberculosis-screening) : âm tính trong bệnh sarcoidosis
+- [Sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) bệnh sarcoidosis — các tổn thương da cụ thể có độ nhạy tốt để chứng minh u hạt không hoại tử (90% trong một nghiên cứu)
+
+---
+
+## Chẩn đoán phân biệt là gì?
+
+Chẩn đoán phân biệt bao gồm:
+- Rối loạn tăng sinh lympho như [u lympho Hodgkin](https://dermnetnz.org/topics/hodgkin-lymphoma)
+- Các bệnh truyền nhiễm bao gồm [bệnh leishmaniasis](https://dermnetnz.org/topics/leishmaniasis) , [bệnh toxoplasma](https://dermnetnz.org/topics/toxoplasmosis) và [bệnh lao](https://dermnetnz.org/topics/cutaneous-tuberculosis)
+- [U hạt kèm viêm đa mạch](https://dermnetnz.org/topics/granulomatosis-with-polyangiitis) , [u hạt kèm tăng bạch cầu ái toan và viêm đa mạch](https://dermnetnz.org/topics/eosinophilic-granulomatosis-with-polyangiitis) (hội chứng Churg-Strauss).
+
+---
+
+## Phương pháp điều trị bệnh sarcoidosis là gì?
+
+Đối với hầu hết bệnh nhân mắc bệnh sarcoidosis, không cần điều trị. Các triệu chứng thường không gây tàn tật và có xu hướng tự biến mất. Thông thường, nên theo dõi trong 3–12 tháng để xác định diễn biến tổng thể của bệnh. Điều trị chỉ được chỉ định khi các triệu chứng gây tàn tật và/hoặc tình trạng viêm hạt gây tổn thương các cơ quan đe dọa tính mạng.
+- [Corticosteroid đường uống](https://dermnetnz.org/topics/systemic-steroids) là phương pháp điều trị đầu tay; chúng giúp giảm triệu chứng và đảo ngược tình trạng rối loạn chức năng cơ quan , nhưng cần phải lưu ý đến những rủi ro khi điều trị. Prednisolon thường được khởi đầu với liều 0,5–0,75 mg/kg mỗi ngày trong 4 tuần và giảm dần 10 mg sau mỗi 4 tuần, tùy thuộc vào đáp ứng của bệnh. Tuy nhiên, liều này có thể quá cao, và có thể dùng prednisolon 20 mg thay thế.
+- Prednisolon thường được khởi đầu với liều 0,5–0,75 mg/kg mỗi ngày trong 4 tuần và giảm dần 10 mg sau mỗi 4 tuần, tùy thuộc vào đáp ứng của bệnh. Tuy nhiên, liều này có thể quá cao, và có thể dùng prednisolon 20 mg thay thế.
+- Phác đồ không dùng corticosteroid cũng có thể được sử dụng như liệu pháp điều trị bậc hai. Ví dụ, [azathioprine](https://dermnetnz.org/topics/azathioprine-and-mercaptopurine) , [methotrexate](https://dermnetnz.org/topics/methotrexate) , [mycophenolate mofetil](https://dermnetnz.org/topics/mycophenolate-mofetil) , [cyclosporin](https://dermnetnz.org/topics/ciclosporin) , [cyclophosphamide](https://dermnetnz.org/topics/cyclophosphamide) , [leflunomide](https://dermnetnz.org/topics/leflunomide) và [hydroxychloroquine](https://dermnetnz.org/topics/hydroxychloroquine) để giảm triệu chứng.
+- [Các tác nhân sinh học](https://dermnetnz.org/topics/biologics) được coi là liệu pháp điều trị bậc ba cho bệnh nhân mắc bệnh khó chữa. Việc sử dụng kháng thể kháng TNF như [infliximab](https://dermnetnz.org/topics/infliximab-for-psoriasis) hoặc [adalimumab](https://dermnetnz.org/topics/adalimumab-for-psoriasis) đã cho thấy một số lợi ích điều trị . Ustekinumab và canakinumab gần đây đã được đánh giá với kết quả trái chiều. Trong một nghiên cứu gần đây, cả ustekinumab và golimumab đều không chứng minh được hiệu quả trong điều trị bệnh sarcoidosis phổi. Tuy nhiên, xu hướng cải thiện đã được ghi nhận với golimumab trong điều trị bệnh sarcoidosis da.
+- Việc sử dụng kháng thể kháng TNF như [infliximab](https://dermnetnz.org/topics/infliximab-for-psoriasis) hoặc [adalimumab](https://dermnetnz.org/topics/adalimumab-for-psoriasis) đã cho thấy một số lợi ích điều trị .
+- Ustekinumab và canakinumab gần đây đã được đánh giá với kết quả trái chiều. Tuy nhiên, xu hướng cải thiện đã được ghi nhận với golimumab trong điều trị bệnh sarcoidosis da.
+- Thành công trong từng trường hợp đã được báo cáo với allopurinol, [isotretinoin](https://dermnetnz.org/topics/isotretinoin) , [leflunomide](https://dermnetnz.org/topics/leflunomide) , pentoxifylline, [thalidomide](https://dermnetnz.org/topics/thalidomide) và [chất ức chế JAK](https://dermnetnz.org/topics/janus-kinase-inhibitors) (ví dụ, [tofacitinib](https://dermnetnz.org/topics/tofacitinib) ).
+- Các tác nhân khác như [roflumilast](https://dermnetnz.org/topics/roflumilast) , [apremilast](https://dermnetnz.org/topics/apremilast) và miếng dán nicotine hiện đang được nghiên cứu thông qua các thử nghiệm lâm sàng đang diễn ra.
+Hầu hết sẽ hồi phục trong thời gian ngắn, trong khi một số ít không hồi phục sau 2–5 năm. Những bệnh nhân mãn tính này thường cần điều trị lâu dài.
+
+---
+
+## Phương pháp điều trị bệnh sarcoidosis ở da là gì?
+
+[Ban đỏ nốt](https://dermnetnz.org/topics/erythema-nodosum) , một tổn thương da không đặc hiệu thường gặp, thường tự khỏi. Thuốc kháng viêm không steroid ( NSAID ) hoặc glucocorticoid dùng ngắn ngày có thể được kê đơn để điều trị đau và khó chịu.
+Các tổn thương da đặc hiệu của bệnh sarcoidosis có thể tự khỏi. Các tổn thương da chỉ được điều trị nếu chúng gây biến dạng thẩm mỹ đáng kể, ảnh hưởng tâm lý, hoặc nếu các tổn thương tiến triển. Phương pháp điều trị như sau:
+- Điều trị glucocorticoid tại chỗ : có thể [dùng tại chỗ](https://dermnetnz.org/topics/topical-steroid) hoặc [tiêm nội tổn thương](https://dermnetnz.org/topics/intralesional-steroid-injection) , là liệu pháp đầu tay. Các chế phẩm cực mạnh , chẳng hạn như clobetasol và halobetasol propionate, thường được yêu cầu. Các trường hợp mắc bệnh [lupus pernio đã cải thiện đáng kể khi dùng](https://dermnetnz.org/topics/lupus-pernio) thuốc mỡ halobetasol propionate 0,05% hai lần mỗi ngày trong 10 tuần.
+- Các trường hợp mắc bệnh [lupus pernio đã cải thiện đáng kể khi dùng](https://dermnetnz.org/topics/lupus-pernio) thuốc mỡ halobetasol propionate 0,05% hai lần mỗi ngày trong 10 tuần.
+- Glucocorticoid đường uống hoặc hydroxychloroquine: dùng cho bệnh ngoài da lan rộng hoặc là liệu pháp điều trị thứ hai. Phản ứng thường khả quan, hầu hết bệnh nhân sẽ khỏi hoàn toàn trong vòng 2 năm. [Hydroxychloroquine](https://dermnetnz.org/topics/hydroxychloroquine) được cho là khá hiệu quả đối với bệnh sarcoidosis ở da, nhưng không được coi là có hiệu quả cao đối với bệnh phổi.
+- Phản ứng thường khả quan, hầu hết bệnh nhân sẽ khỏi hoàn toàn trong vòng 2 năm.
+- [Hydroxychloroquine](https://dermnetnz.org/topics/hydroxychloroquine) được cho là khá hiệu quả đối với bệnh sarcoidosis ở da, nhưng không được coi là có hiệu quả cao đối với bệnh phổi.
+- Bổ sung thuốc uống toàn thân thay thế: cân nhắc nếu không đáp ứng với glucocorticosteroid toàn thân. Phổ biến nhất: [hydroxychloroquine](https://dermnetnz.org/topics/hydroxychloroquine) , [chloroquine](https://dermnetnz.org/topics/chloroquine) và [methotrexate.](https://dermnetnz.org/topics/methotrexate)
+- Phổ biến nhất: [hydroxychloroquine](https://dermnetnz.org/topics/hydroxychloroquine) , [chloroquine](https://dermnetnz.org/topics/chloroquine) và [methotrexate.](https://dermnetnz.org/topics/methotrexate)
+- Thuốc sinh học: dành cho những bệnh nhân đã áp dụng mọi phương pháp điều trị khác nhưng không hiệu quả. Phổ biến nhất: Infliximab, có dữ liệu đáng tin cậy nhất.
+- Phổ biến nhất: Infliximab, có dữ liệu đáng tin cậy nhất.
+- [Phẫu thuật bằng tia laser](https://dermnetnz.org/topics/lasers-in-dermatology) đã được sử dụng để điều trị các mảng da biến dạng và [bệnh lupus ban đỏ](https://dermnetnz.org/topics/lupus-pernio) .
+
+---
+
+## Bệnh sarcoidosis nghiêm trọng đến mức nào và tiên lượng ra sao?
+
+Hai phần ba số bệnh nhân báo cáo bệnh tự thuyên giảm trong vòng 12 đến 36 tháng. Số bệnh nhân còn lại có thể tiến triển thành mạn tính (10 đến 30% cần điều trị kéo dài). Với chẩn đoán chính xác và quản lý phù hợp, hầu hết bệnh nhân mắc bệnh sarcoidosis vẫn có thể sống một cuộc sống bình thường.
+Bệnh sarcoidosis da thường có diễn biến kéo dài hơn. Các sẩn và nốt sần có xu hướng tự khỏi sau nhiều tháng hoặc nhiều năm. Các mảng bám có thể khó điều trị hơn. Lupus ban đỏ thường xuất hiện ở những bệnh nhân bị sarcoidosis mạn tính và có liên quan đến tổn thương đường hô hấp trên, xơ phổi tiến triển, u nang xương và bệnh về mắt.
+Các yếu tố liên quan đến tiên lượng xấu bao gồm: chủng tộc (đặc biệt là người Mỹ gốc Phi và người gốc Phi Caribe), tuổi trên 40 khi phát hiện bệnh, bệnh lupus ban đỏ, viêm màng bồ đào mãn tính, ảnh hưởng đến hệ thần kinh trung ương , ảnh hưởng đến tim, tăng canxi huyết nặng, canxi hóa thận và giai đoạn III và IV trên X-quang.
+Ở các nước phương Tây, hầu hết các trường hợp tử vong do bệnh sarcoidosis là do xơ phổi tiến triển dẫn đến suy hô hấp và/hoặc tăng áp phổi , và ít phổ biến hơn là bệnh sarcoidosis tim và hệ thần kinh trung ương hoặc tăng áp lực tĩnh mạch cửa. Ngoài tử vong liên quan đến điều trị, các nguyên nhân tử vong ít phổ biến hơn bao gồm u lympho và ho ra máu do u nấm.
+[Nhấp vào đây để xem hình ảnh](https://dermnetnz-org.translate.goog/images/sarcoidosis-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)

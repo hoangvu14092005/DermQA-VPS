@@ -1,0 +1,93 @@
+# Naevus simplex — thông tin bổ sung
+
+Thể loại:
+
+Tổn thương (lành tính)
+
+SNOMED CT:
+
+254211001
+
+**[Tổn thương (lành tính)](https://dermnetnz.org/topics/topics?category=Lesions+(benign))**
+
+
+# **Nốt ruồi đơn giản**
+
+Tác giả: Wei Wu, Sinh viên Y khoa, Đại học Auckland, Auckland, New Zealand. Tổng biên tập DermNet: Phó Giáo sư Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand. Biên tập bởi Gus Mitchell/Maria McGivern. Tháng 1 năm 2019.
+
+---
+
+## Nốt ruồi đơn là gì?
+
+Nốt ruồi đơn giản là một [dị dạng mạch máu mao mạch](https://dermnetnz.org/topics/capillary-vascular-malformation) lành tính thường gặp. Nó biểu hiện khi sinh dưới dạng một mảng màu hồng hoặc đỏ và thường được quan sát thấy ở gáy, mí mắt hoặc lông mày [1,2]. [](https://dermnetnz.org/topics/capillary-vascular-malformation)
+Naevus simplex còn được gọi là:
+- Ruộng cá hồi
+- Cò cắn (khi cắn vào gáy)
+- Nụ hôn của thiên thần (khi ở giữa glabella và mí mắt)
+- Nốt ruồi flammeus đơn giản.
+
+### Naevus simplex — vết bớt hình con cò
+![Nốt ruồi đơn giản](https://dermnetnz.org/assets/Uploads/naevus-simplex-02.jpg)
+![Nốt ruồi đơn giản](https://dermnetnz.org/assets/Uploads/naevus-simplex-01.jpg)
+![Nốt ruồi đơn ở người lớn](https://dermnetnz.org/assets/Uploads/vascular/stork.jpg)
+
+---
+
+## Ai bị nốt ruồi đơn?
+
+Nốt ruồi đơn giản ảnh hưởng đến trẻ sơ sinh thuộc mọi chủng tộc; nó xảy ra ở khoảng 40% trẻ sơ sinh da trắng và ít gặp hơn ở trẻ sơ sinh da sẫm màu [1,3]. Nó ảnh hưởng đến trẻ sơ sinh nam và nữ như nhau [4].
+
+---
+
+## Nguyên nhân nào gây ra nốt ruồi đơn?
+
+Nốt ruồi đơn là kết quả của sự chậm trễ trong quá trình trưởng thành của các tế bào da trong quá trình phát triển phôi thai , sau khi các tế bào di cư và hợp nhất trong hệ thần kinh da (ngoại bì thần kinh). Điều này dẫn đến sự giãn nở đặc trưng của các mao mạch da , tạo nên mảng da nốt ruồi đơn. Sự suy giảm điều hòa của các dây thần kinh tự chủ có thể là một yếu tố góp phần gây ra nốt ruồi đơn [2,3].
+
+---
+
+## Các đặc điểm lâm sàng của nốt ruồi đơn là gì?
+
+Nốt ruồi đơn xuất hiện khi mới sinh dưới dạng các mảng phẳng, màu hồng hoặc đỏ, đơn lẻ hoặc nhiều mảng, thường có viền không rõ ràng, không đều và chuyển sang màu trắng khi bị đè ép [1,2]. Nốt ruồi đơn trở nên đỏ hơn khi trẻ khóc, sốt, nín thở, rặn, hoạt động thể chất mạnh và thay đổi nhiệt độ môi trường [1,2,5]. Chúng có xu hướng mờ dần khi trẻ lớn lên.
+Các tổn thương da thường xuất hiện ở đường giữa [4] và có thể ở cả hai bên và đối xứng [6]. Chúng thường xuất hiện nhiều nhất ở gáy, mí mắt và glabella, nhưng chúng cũng có thể xuất hiện ở trán, da đầu, mũi, môi và lưng [1,2]. Nốt ruồi đơn không gây đau hoặc ngứa [7].
+Thuật ngữ 'phức hợp nốt ruồi đơn giản' đã được đề xuất cho các tổn thương lan rộng xảy ra ngoài các vị trí phổ biến [2].
+
+### Bệnh liên quan đến nốt ruồi đơn giản
+Nốt ruồi đơn giản ở đường giữa thắt lưng- xương cùng đôi khi được gọi là 'vết hình con bướm' và đôi khi được quan sát thấy ở trẻ sơ sinh bị loạn sản tủy sống. Các xét nghiệm hình ảnh tìm loạn sản tủy sống (sự hợp nhất bất thường của ống thần kinh ) có thể được thực hiện nếu có các thay đổi da tại chỗ khác như lông mọc quá nhiều ( [tăng sinh lông cục](https://dermnetnz.org/topics/hypertrichosis) bộ ), xoang hoặc hố da , [u mỡ](https://dermnetnz.org/topics/lipoma-and-liposarcoma) , khe mông lệch , hoặc nhiều tổn thương tương tự ở nơi khác. Trẻ sơ sinh có nốt ruồi đơn giản ở đường giữa thắt lưng-xương cùng thường cũng có các tổn thương tương tự khác xuất hiện ở nơi khác [2,4]. [](https://dermnetnz.org/topics/hypertrichosis) [](https://dermnetnz.org/topics/lipoma-and-liposarcoma)
+Đôi khi, nốt ruồi đơn được quan sát thấy ở trẻ sơ sinh mắc một tình trạng khác, chẳng hạn như:
+- Hội chứng Beckwith–Wiedemann [2]
+- [Hội chứng dị dạng mao mạch đầu to](https://dermnetnz.org/topics/megalencephaly-capillary-malformation-polymicrogyria) [2]
+- Loạn sản răng [2]
+- Hội chứng Nova [2]
+- Hội chứng Roberts [2]
+- [Hội chứng Rubinstein–Taybi](https://dermnetnz.org/topics/rubinstein-taybi-syndrome) [1].
+Người ta không chắc chắn liệu có mối liên hệ thực sự giữa nốt ruồi đơn giản với các hội chứng này hay không [1,4].
+
+---
+
+## Nốt ruồi đơn được chẩn đoán như thế nào?
+
+Nốt ruồi đơn giản có thể được chẩn đoán bằng biểu hiện lâm sàng và thường không cần xét nghiệm thêm [7].
+
+---
+
+## Chẩn đoán phân biệt đối với nốt ruồi đơn là gì?
+
+Đôi khi, nốt ruồi đơn bị nhầm lẫn với [nốt ruồi rượu vang (](https://dermnetnz.org/topics/capillary-vascular-malformation) [naevus flammeus](https://dermnetnz.org/topics/capillary-vascular-malformation) ) hoặc với [u máu ở trẻ sơ sinh](https://dermnetnz.org/topics/infantile-haemangioma-definition-and-pathogenesis) (nốt ruồi dâu tây) vì [những tổn thương mạch máu](https://dermnetnz.org/topics/vascular-proliferations-and-abnormalities-of-blood-vessels) này cũng xuất hiện ở trẻ sơ sinh. [](https://dermnetnz.org/topics/capillary-vascular-malformation) [](https://dermnetnz.org/topics/infantile-haemangioma-definition-and-pathogenesis) [](https://dermnetnz.org/topics/vascular-proliferations-and-abnormalities-of-blood-vessels)
+
+### Naevus flammeus
+[Nốt ruồi lửa](https://dermnetnz.org/topics/capillary-vascular-malformation) là dị dạng mạch máu mao mạch được tìm thấy ở 0,3% trẻ sơ sinh [1,6]. Các tổn thương biểu hiện dưới dạng các mảng màu hồng, đỏ hoặc tím và có thể khu trú, lan rộng hoặc nhiều [1,6]. Không giống như nốt ruồi đơn, nốt ruồi lửa có xu hướng ở một bên , thường dai dẳng, sẫm màu và dày lên theo độ tuổi [1,6].
+
+### U máu ở trẻ sơ sinh
+[U máu ở trẻ sơ sinh](https://dermnetnz.org/topics/infantile-haemangioma-definition-and-pathogenesis) là một khối u mạch máu được tìm thấy ở 1,1–2,6% trẻ sơ sinh, và xuất hiện ở 10% trẻ sơ sinh trước 1 tuổi. Bệnh này ảnh hưởng đến trẻ sơ sinh nữ nhiều hơn trẻ sơ sinh nam. U máu bắt đầu là một mảng màu hồng và sau đó lan rộng. U máu thường gặp nhất ở đầu và cổ trẻ sơ sinh, nhưng cũng có thể xuất hiện ở các vị trí khác trên cơ thể. U máu ở trẻ sơ sinh thường tự khỏi sau khi sinh, nhưng có thể để lại di chứng [1,6].
+
+### Tổn thương mạch máu ở trẻ sơ sinh
+![Nốt ruồi đơn giản](https://dermnetnz.org/assets/Uploads/vascular/stork2.jpg)
+![Naevus flammeus](https://dermnetnz.org/assets/Uploads/vascular/pws6.jpg)
+![U máu ở trẻ sơ sinh](https://dermnetnz.org/assets/Uploads/angioma-028.jpg)
+
+---
+
+## Phương pháp điều trị và kết quả của bệnh nốt ruồi đơn giản là gì?
+
+Ở hầu hết các vị trí trên cơ thể, nốt ruồi đơn sẽ mờ dần và biến mất trong vòng 1–2 năm đầu đời [2]. Tổn thương ở gáy mờ dần chậm hơn và không hoàn toàn, và có 50% khả năng tồn tại vô thời hạn [1,5]. Vì vị trí này thường được che phủ bởi lông, nên có thể không phải là vấn đề thẩm mỹ.
+[Liệu pháp laser nhuộm xung](https://dermnetnz.org/topics/pulsed-dye-laser-treatment) có thể được xem xét để làm sáng màu của tổn thương dai dẳng [6].

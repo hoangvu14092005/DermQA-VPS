@@ -1,0 +1,89 @@
+# Hội chứng Ross — thông tin bổ sung
+
+Thể loại:
+
+Bệnh hệ thống
+
+SNOMED CT:
+
+230662008, 39659002, 403378004, 24225004, 37280007
+
+**[Bệnh hệ thống](https://dermnetnz.org/topics/topics?category=Systemic+diseases)**
+
+
+# **Hội chứng Ross**
+
+Tác giả: Tiến sĩ Monique Mackenzie, Chuyên viên Đăng ký Da liễu, Bệnh viện Thành phố Auckland, Auckland, New Zealand; Tiến sĩ Marc Lawrence, Chuyên viên Đăng ký Da liễu, Bệnh viện Thành phố Auckland, Auckland, New Zealand. Biên tập bởi Gus Mitchell. Tháng 10 năm 2020.
+
+---
+
+## Hội chứng Ross là gì?
+
+Hội chứng Ross là một rối loạn hệ thần kinh tự chủ ngoại biên hiếm gặp , đặc trưng bởi ba đặc điểm: đồng tử co cứng (Adie), giảm hoặc mất phản xạ gân sâu (giảm phản xạ hoặc mất phản xạ) và chứng mất tiết mồ hôi từng đoạn .
+
+---
+
+## Ai mắc hội chứng Ross?
+
+Hội chứng Ross có thể xảy ra ở mọi lứa tuổi, giới tính hoặc chủng tộc. Độ tuổi mắc bệnh phổ biến nhất là 25–50. Nam giới chiếm ưu thế nhẹ trong các trường hợp được báo cáo, mặc dù số lượng còn ít.
+
+---
+
+## Nguyên nhân gây ra hội chứng Ross là gì?
+
+Nguyên nhân chính xác của hội chứng Ross vẫn chưa được biết rõ. Rối loạn chức năng sợi giao cảm da là cơ chế chính được đề xuất gây bệnh. Các nghiên cứu đã chỉ ra rằng da gần như không có sợi giao cảm tiết mồ hôi , mặc dù bản thân các tuyến mồ hôi trông vẫn bình thường. Ngoài ra, dường như cũng có sự mất điều hòa lưu lượng máu dưới da, dẫn đến các mạch máu ở lớp hạ bì trên bị giãn nở và to ra.
+Đồng tử co cứng là kết quả của tổn thương hạch mi hoặc sợi thần kinh phó giao cảm sau hạch . Nguyên nhân gây giảm hoặc mất phản xạ vẫn chưa được biết rõ.
+Kết quả xét nghiệm ANA dương tính đã được báo cáo trong một tỷ lệ nhỏ các trường hợp mắc hội chứng Ross, làm dấy lên khả năng tình trạng này có thể liên quan đến bệnh tự miễn , nhưng tính liên quan của phát hiện này vẫn đang bị nghi ngờ.
+Di truyền cũng có thể đóng vai trò trong cơ chế sinh bệnh của tình trạng này, đã được báo cáo ở một cặp song sinh giống hệt nhau.
+Một nghiên cứu năm 2020 cho thấy hội chứng Ross là bệnh lý α-synuclein sau khi phát hiện sự tích tụ α-Syn ở các đầu dây thần kinh tự chủ.
+
+---
+
+## Hội chứng Ross có những đặc điểm lâm sàng nào?
+
+Dấu hiệu đầu tiên của hội chứng Ross thường là rối loạn tiết mồ hôi, và đây là yêu cầu bắt buộc để chẩn đoán. Hầu hết bệnh nhân biểu hiện [tăng tiết mồ hôi cục bộ](https://dermnetnz.org/topics/hyperhidrosis) từng mảng , không nhận biết được vùng bị giảm tiết mồ hôi. Tăng tiết mồ hôi trong hội chứng Ross là một cơ chế bù trừ, thường liên quan đến các phân đoạn một bên, thường gặp nhất là ở thân giữa [các đốt sống](https://dermnetnz.org/topics/dermatomes) T5 và T12 . Đổ mồ hôi quá nhiều cũng có thể xảy ra ở mông, chân và mặt. Tăng tiết mồ hôi dễ nhận thấy nhất trong môi trường ẩm ướt hoặc nóng hoặc trong khi hoạt động thể chất. [](https://dermnetnz.org/topics/hyperhidrosis) [](https://dermnetnz.org/topics/dermatomes)
+Tuy nhiên, một số bệnh nhân đến khám vì họ nhận thấy một vùng da không tiết mồ hôi. Đã có báo cáo về sự thay đổi sắc tố da , chẳng hạn như tăng sắc tố ở vùng tăng tiết mồ hôi và giảm sắc tố ở vùng da ít tiết mồ hôi. Sự chênh lệch nhiệt độ bề mặt da cũng có thể được phát hiện. Trong một số trường hợp hiếm gặp, bệnh nhân có thể mô tả tình trạng mất cảm giác da gà và không thể rùng mình khi hỏi bệnh; bệnh nhân có thể mô tả rằng họ không bao giờ cảm thấy lạnh.
+Dấu hiệu thứ hai đáng chú ý nhất là tình trạng giảm hoặc mất phản xạ gân sâu khi khám thần kinh .
+Hội chứng Ross không hoàn toàn có thể không biểu hiện đồng tử co thắt khi mới phát hiện, mặc dù đôi khi đây là lý do cần đi khám. Đặc điểm này có thể biểu hiện lâm sàng dưới dạng đồng tử không đều (anisocoria). Đồng tử co thắt thường ảnh hưởng đến một đồng tử trước, sau đó trở thành đồng tử hai bên theo thời gian. Đồng tử không thay đổi kích thước khi tiếp xúc với ánh sáng nhưng có sự thay đổi kích thước bình thường khi điều chỉnh từ nhìn xa sang nhìn gần. Thị lực thường bình thường.
+![Đồng tử không đều trong hội chứng Ross](https://dermnetnz.org/assets/Uploads/ross-syndrome-anisocoria.jpg)
+![Tăng tiết mồ hôi](https://dermnetnz.org/assets/Uploads/ross-syndrome-hyperhidrosis-05.jpg)
+![Tăng tiết mồ hôi từng vùng được biểu hiện bằng hiện tượng đổi màu xanh trên thử nghiệm Minor](https://dermnetnz.org/assets/Uploads/ross-syndrome-hyperhidrosis-06.jpg)
+
+---
+
+## Hội chứng Ross có những biến chứng gì?
+
+Đổ mồ hôi quá nhiều ảnh hưởng đến chất lượng cuộc sống và có thể ảnh hưởng nghiêm trọng đến khả năng lao động thể chất hoặc tập thể dục. Bệnh nhân thường cho biết cần phải thay quần áo nhiều lần trong ngày và tìm kiếm các biện pháp làm mát như tắm nước lạnh hoặc chườm đá để hạ nhiệt. Tăng thân nhiệt do giảm tiết mồ hôi lan rộng là một biến chứng y khoa đáng kể dẫn đến kiệt sức do nhiệt và say nắng; mức độ giảm tiết mồ hôi có thể tiến triển theo thời gian trong hội chứng Ross.
+Bệnh tiến triển có thể dẫn đến rối loạn chức năng tự chủ nặng hơn, bao gồm các triệu chứng tim mạch như nhịp tim nhanh không phù hợp và hạ huyết áp tư thế . Bệnh lý thần kinh ngoại biên , tiêu chảy, táo bón, tiểu gấp và tiểu không tự chủ cũng được báo cáo.
+
+---
+
+## Hội chứng Ross được chẩn đoán như thế nào?
+
+Chẩn đoán thường dựa trên lâm sàng, dựa trên bộ ba đặc điểm điển hình, mặc dù hội chứng Ross không hoàn chỉnh chỉ biểu hiện bằng những bất thường về đổ mồ hôi và mất phản xạ thường gặp ở giai đoạn đầu của bệnh.
+Các xét nghiệm để xác nhận chẩn đoán có thể bao gồm xét nghiệm mồ hôi bằng tinh bột ngô-iốt (xét nghiệm nhỏ), sinh thiết da để tìm phức hợp tuyến mồ hôi giảm và nghiên cứu điện sinh lý phản ứng da giao cảm (SSR).
+Có thể cần phải tiến hành xét nghiệm để loại trừ các chẩn đoán khác.
+
+---
+
+## Chẩn đoán phân biệt cho hội chứng Ross là gì?
+
+Nguyên nhân toàn thân gây ra đồng tử trương lực bao gồm [đái tháo đường](https://dermnetnz.org/topics/skin-problems-associated-with-diabetes-mellitus) , rối loạn chức năng tuyến giáp, [hội chứng Sjögren](https://dermnetnz.org/topics/sjoegren-syndrome) và [giang mai](https://dermnetnz.org/topics/syphilis) . Rối loạn tiết mồ hôi cũng có thể tương tự hội chứng Ross.
+Những tình trạng này có những đặc điểm trùng lặp với hội chứng Ross:
+- Hội chứng Harlequin ( giảm tiết mồ hôi từng vùng , đồng tử và phản xạ bình thường)
+- Hội chứng Holmes-Adie (đồng tử co cứng, mất phản xạ, đổ mồ hôi bình thường)
+- Hội chứng Horner (đồng tử co lại, giảm tiết mồ hôi, phản xạ bình thường).
+
+---
+
+## Phương pháp điều trị hội chứng Ross là gì?
+
+Các lựa chọn điều trị cho hội chứng Ross tương tự như tăng tiết mồ hôi nguyên phát hoặc thứ phát. Các biện pháp làm mát chung bao gồm mặc quần áo rộng rãi và tránh môi trường nóng hoặc gắng sức nặng. Mặc quần áo ướt có thể giảm thiểu nguy cơ tăng thân nhiệt do giảm tiết mồ hôi nếu không thể tránh được nhiệt độ quá cao hoặc hoạt động thể chất.
+[Thuốc chống mồ hôi](https://dermnetnz.org/topics/antiperspirant) có chứa nhôm clorua 10–25% được sử dụng để ngăn ngừa đổ mồ hôi quá nhiều.
+[Thuốc kháng cholinergic](https://dermnetnz.org/topics/anticholinergic-medications) , bao gồm oxybutynin và glycopyrrolate, ức chế tác dụng của acetylcholine lên tuyến mồ hôi. Mặc dù có thể hữu ích trong việc giảm tiết mồ hôi, nhưng chúng cũng có tác dụng phụ, bao gồm khô miệng, mờ mắt, táo bón và bí tiểu. Tiêm [độc tố Botulinum ,](https://dermnetnz.org/topics/botulinum-toxin) [điện di ion](https://dermnetnz.org/topics/iontophoresis) và cắt thần kinh giao cảm cũng đã được sử dụng để điều trị chứng tăng tiết mồ hôi nặng.
+
+---
+
+## Hậu quả của hội chứng Ross là gì?
+
+Việc chẩn đoán chậm trễ thường xảy ra, do không trình bày hoặc không xem xét chẩn đoán. Hội chứng Ross là một tình trạng lành tính , không đe dọa tính mạng, nhưng các triệu chứng thần kinh thực vật có thể tiến triển chậm.

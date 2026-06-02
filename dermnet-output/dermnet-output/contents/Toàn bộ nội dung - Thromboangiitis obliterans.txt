@@ -1,0 +1,61 @@
+# Viêm tắc nghẽn huyết khối — thông tin bổ sung
+
+Thể loại:
+
+Các vấn đề về mạch máu
+
+SNOMED CT:
+
+52403007, 162746008, 300919005, 65568007, 767146004
+
+**[Các vấn đề về mạch máu](https://dermnetnz.org/topics/topics?category=Blood+vessel+problems)**
+
+
+# **Viêm tắc nghẽn mạch huyết khối**
+
+Tác giả: Todd Gunson, Bác sĩ da liễu, Bệnh viện Greenlane, Auckland, New Zealand, 2007.
+
+---
+
+## Viêm tắc mạch huyết khối là gì?
+
+Viêm tắc nghẽn mạch huyết khối là một tình trạng liên quan đến [hút thuốc lá](https://dermnetnz.org/topics/smoking-and-its-effects-on-the-skin) , dẫn đến hình thành cục máu đông ( huyết khối ) trong các động mạch nhỏ và vừa , và ít gặp hơn là tĩnh mạch. Các vùng bị ảnh hưởng thường là bàn tay và bàn chân. Viêm tắc nghẽn mạch huyết khối còn được gọi là bệnh Buerger.
+![Viêm tắc nghẽn mạch huyết khối](https://dermnetnz.org/assets/Uploads/thromboangiitis-obliterans-01.jpg)
+![Viêm tắc nghẽn mạch huyết khối](https://dermnetnz.org/assets/Uploads/thromboangiitis-obliterans-02.jpg)
+
+---
+
+## Ai mắc bệnh viêm tắc mạch huyết khối?
+
+Viêm tắc nghẽn huyết khối mạch máu hầu như chỉ xảy ra ở người hút thuốc. Bệnh phổ biến nhất ở Đông Âu, Trung Đông và Châu Á. Hầu hết bệnh nhân ở độ tuổi từ 20–45, hút thuốc lá tự chế. Tỷ lệ mắc bệnh dường như đã giảm trong những năm gần đây do việc hút thuốc lá giảm. Thống kê của Hoa Kỳ ước tính khoảng 10–20 ca trên 100.000 dân.
+Viêm tắc nghẽn huyết khối cũng được báo cáo là ảnh hưởng đến những người hút cần sa lâu dài.
+
+---
+
+## Các triệu chứng của bệnh viêm tắc mạch huyết khối là gì?
+
+Biểu hiện phổ biến nhất của viêm tắc mạch huyết khối là các vùng đau màu tím/xanh lam trên ngón tay hoặc ngón chân ( [hội chứng ngón chân xanh](https://dermnetnz.org/topics/blue-toe-syndrome) ). Tình trạng này thường xảy ra ở một bên và có thể ảnh hưởng đến các ngón tay hoặc ngón chân riêng lẻ. Cơn đau thường trở nên tồi tệ hơn vào ban đêm, khi tập thể dục và trong thời tiết lạnh. Theo thời gian, các vùng này có thể loét hoặc chuyển sang màu đen do da bị hoại tử ( [hoại thư](https://dermnetnz.org/topics/dry-gangrene) ). Bệnh tiến triển ở những bệnh nhân tiếp tục hút thuốc và có thể dẫn đến mất hoàn toàn các ngón tay hoặc chân. Khi khám, mạch ở tay và chân thường bị mất ở giai đoạn đầu. Các vấn đề liên quan khác có thể bao gồm huyết khối tĩnh mạch tái phát (tĩnh mạch nông hoặc sâu), [ban đỏ nốt](https://dermnetnz.org/topics/erythema-nodosum) và hiếm khi ảnh hưởng đến nguồn cung cấp máu cho các cơ quan nội tạng như thận, tim và não. [](https://dermnetnz.org/topics/erythema-nodosum)
+
+---
+
+## Nguyên nhân gây ra bệnh viêm tắc mạch huyết khối là gì?
+
+Nguyên nhân gây viêm tắc mạch huyết khối chưa được hiểu rõ hoàn toàn, nhưng có khả năng hút thuốc lá gây ra huyết khối trong mạch máu , dẫn đến thiếu oxy và chất dinh dưỡng cho mô bị ảnh hưởng. Nghiên cứu đã chứng minh sự hiện diện của các globulin miễn dịch và kháng thể tế bào nội mô , cho thấy một cơ chế miễn dịch . Nồng độ các kháng thể này trong máu có thể được sử dụng như một dấu hiệu của hoạt động bệnh. Đáp ứng với acetylcholine (một chất hóa học dẫn đến giãn mạch máu) cũng được chứng minh là giảm ở những bệnh nhân bị viêm tắc mạch huyết khối so với người bình thường.
+Trong một số trường hợp, viêm tắc mạch huyết khối có liên quan đến [ngộ độc asen](https://dermnetnz.org/topics/chronic-arsenic-poisoning) mãn tính . [](https://dermnetnz.org/topics/chronic-arsenic-poisoning)
+
+---
+
+## Những xét nghiệm nào là cần thiết cho bệnh viêm tắc mạch huyết khối?
+
+Sinh thiết [da](https://dermnetnz.org/topics/skin-biopsy) có thể hữu ích mặc dù các đặc điểm không đặc hiệu cho viêm tắc mạch huyết khối. Mô học thường cho thấy huyết khối trong lòng mạch (cục máu đông trong mạch) kèm theo sự hình thành vi áp xe . Có thể thấy thâm nhiễm hỗn hợp bạch cầu và tế bào khổng lồ ở tất cả các lớp của thành mạch, mặc dù màng đàn hồi bên trong thường không bị ảnh hưởng và giúp phân biệt viêm tắc mạch huyết khối với các loại [viêm mạch](https://dermnetnz.org/topics/cutaneous-vasculitis) khác .
+Các xét nghiệm thường được thực hiện để loại trừ các bệnh khác như [tiểu đường](https://dermnetnz.org/topics/skin-problems-associated-with-diabetes-mellitus) , rối loạn đông máu, bệnh mô liên kết , xơ vữa động mạch và thuyên tắc .
+Có thể thực hiện chụp động mạch chi (chụp động mạch) và có thể cho thấy các mạch máu gần bình thường (đây là những mạch máu gần cơ thể nhất) nhưng có nhiều chỗ hẹp và tắc nghẽn ở xa (gần tay và chân nhất). Nhiều mạch máu mới (buồng nối vòng xoắn ốc) thường phát triển để duy trì nguồn cung cấp máu.
+
+---
+
+## Viêm tắc nghẽn huyết khối được điều trị như thế nào?
+
+- Việc bỏ thuốc lá là điều cần thiết.
+- Cần giữ ấm tay và chân và bảo vệ chúng khỏi chấn thương và nhiễm trùng.
+Mặc dù không có phương pháp điều trị đơn lẻ nào được coi là dứt điểm, nhưng có thể cần cân nhắc truyền tĩnh mạch Iloprost (một loại thuốc giúp giãn thành mạch máu và giảm đông máu), cắt thần kinh giao cảm ( cắt bỏ các dây thần kinh gây co thắt mạch máu ) và loại bỏ mô hoại tử.
+Có rất ít bằng chứng cho thấy [steroid toàn thân](https://dermnetnz.org/topics/systemic-steroids) hoặc thuốc chống đông máu có tác dụng.

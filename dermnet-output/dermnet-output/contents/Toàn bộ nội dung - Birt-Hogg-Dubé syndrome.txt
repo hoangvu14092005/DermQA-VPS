@@ -1,0 +1,67 @@
+# Hội chứng Birt-Hogg-Dubé — thông tin bổ sung
+
+Thể loại:
+
+Di truyền
+
+SNOMED CT:
+
+110985001, 274899008, 254700008,31069005
+
+**[Di truyền](https://dermnetnz.org/topics/topics?category=Genetic)**
+
+
+# **Hội chứng Birt-Hogg-Dubé**
+
+Tác giả: Vanessa Ngan, Biên tập viên, 2005.
+
+---
+
+## Hội chứng Birt–Hogg–Dubé là gì?
+
+Hội chứng Birt-Hogg-Dubé là một bệnh lý di truyền trội trên nhiễm sắc thể thường hiếm gặp , đặc trưng bởi sự phát triển của các khối u lành tính ở đầu, mặt và thân trên. Các khối u da lành tính liên quan đến tình trạng này là:
+- U xơ nang lông — khối u phát triển trong nang lông
+- Trichodiscoma — khối u ở đĩa tóc
+- [U xơ mạch máu](https://dermnetnz.org/topics/angiofibroma) - một khối u mạch máu
+- Acrochordon — [các nốt da thừa](https://dermnetnz.org/topics/skin-tag) (lưu ý rằng chúng rất phổ biến và hiếm khi liên quan đến hội chứng Birt-Hogg-Dubé)
+Những người mắc hội chứng Birt-Dogg-Dubé có nguy cơ mắc ung thư ruột kết hoặc thận cao hơn (ở mức 15%) cũng như tràn khí màng phổi tự phát (xẹp phổi ) do u nang phổi .
+Hội chứng Birt–Hogg–Dubé còn được gọi là u xơ nang lông kèm theo chứng trichodiscoma và acrochordon. Các bác sĩ người Canada Birt, Hogg và Dubé lần đầu tiên mô tả hội chứng này vào năm 1977.
+
+---
+
+## Những dấu hiệu và triệu chứng của hội chứng Birt–Hogg–Dubé là gì?
+
+Các tổn thương da nhỏ, không đau, dạng sẩn, phát triển dần dần trên da đầu, mặt, cổ, ngực và lưng. Tổn thương thường xuất hiện ở độ tuổi khoảng 30 hoặc 40, mặc dù chúng cũng được phát hiện ở những bệnh nhân trẻ tuổi hơn, và không phải lúc nào cũng xuất hiện ở những người mang gen BHD bất thường.
+- U xơ nang lông (còn gọi là trichodiscomas) là những cục u nhỏ (2–4 mm), màu trắng đến thịt, nhẵn, hình vòm.
+- Acrochordons hay còn gọi là mụn thịt là những nốt sần nhỏ, mềm, có kích thước 1–2 mm, trông giống như mụn cóc có cổ mỏng.
+- Có thể có từ hai đến hàng trăm tổn thương.
+- Một khi đã phát triển, tổn thương da sẽ tồn tại vĩnh viễn.
+Polyp niêm mạc miệng , [u collagen](https://dermnetnz.org/topics/connective-tissue-naevi) , u mạch mỡ và [u mỡ](https://dermnetnz.org/topics/lipoma-and-liposarcoma) biến dạng cũng có thể hình thành.
+![U xơ nang lông](https://dermnetnz.org/assets/Uploads/lesions/fibrofollic2.jpg)
+![Hội chứng Birt–Hogg–Dubé](https://dermnetnz.org/assets/Uploads/birt-hogg-dube-06.jpg)
+![U xơ nang lông trong hội chứng Birt–Hogg–Dubé](https://dermnetnz.org/assets/Uploads/birt-hogg-dube-09.jpg)
+[Xem thêm hình ảnh về hội chứng Birt–Hogg–Dubé](https://dermnetnz-org.translate.goog/topics/fibrofolliculomas-in-birthoggdube-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp) .
+
+---
+
+## Nguyên nhân gây ra hội chứng Birt–Hogg–Dubé là gì?
+
+Hội chứng Birt–Hogg–Dubé là do đột biến gen BHD hoặc FLCN trên nhiễm sắc thể 17p12-q11.2 mã hóa một protein gọi là folliculin. Nguyên nhân gây ra đột biến này vẫn chưa được biết rõ. Hội chứng này là một bệnh di truyền trội trên nhiễm sắc thể thường, nghĩa là một nửa số con của người mắc bệnh có nguy cơ di truyền đột biến này.
+
+---
+
+## Chẩn đoán được thực hiện như thế nào?
+
+Vì gen BHD đã được xác định, xét nghiệm gen là phương pháp chẩn đoán xác định tốt nhất cho BHDS. Xét nghiệm này có sẵn tại các trung tâm y tế chính.
+[Sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) tổn thương cũng có thể được thực hiện để xác định bản chất của tổn thương; các sẩn trên mặt là u xơ nang lông hoặc u xơ tử cung. Người lớn có kết quả xét nghiệm gen dương tính với hội chứng Birt-Hogg-Dubé cũng nên được siêu âm thận và chụp CT / MRI bụng để xác định xem có bất kỳ vấn đề hoặc bệnh lý ác tính nào đi kèm hay không. Họ cũng có thể được chụp X-quang ngực và nội soi đại tràng.
+
+---
+
+## Phương pháp điều trị hội chứng Birt-Hogg-Dubé là gì?
+
+Bệnh nhân mắc hội chứng Birt–Hogg–Dubé nên được khám sức khỏe và làm các xét nghiệm cận lâm sàng và chụp X-quang thường xuyên để kiểm tra các biến chứng bên trong như ung thư thận , u nang phổi và tràn khí màng phổi.
+Hiện chưa có phương pháp điều trị y tế cụ thể nào cho các tổn thương da của hội chứng Birt-Hogg-Dubé. Mặc dù các khối u da là lành tính, nhưng chúng có thể gây biến dạng nếu xuất hiện nhiều tổn thương. Các thủ thuật điều trị da sau đây có thể giúp loại bỏ các tổn thương, mặc dù tình trạng tái phát thường xuyên xảy ra.
+- [Cắt bỏ các tổn thương da](https://dermnetnz.org/topics/excision-of-skin-lesions)
+- [Mài mòn da](https://dermnetnz.org/topics/dermabrasion)
+- [Liệu pháp laser](https://dermnetnz.org/topics/lasers-in-dermatology)
+- [Nạo và đốt](https://dermnetnz.org/topics/curettage-and-cautery)

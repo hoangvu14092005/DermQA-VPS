@@ -1,0 +1,86 @@
+# Hội chứng Noonan với nhiều lentigine — thông tin bổ sung
+
+Thể loại:
+
+Di truyền
+
+SNOMED CT:
+
+111306001
+
+**[Di truyền](https://dermnetnz.org/topics/topics?category=Genetic)**
+
+
+# **Hội chứng Noonan với nhiều lentigine**
+
+Tác giả: Vanessa Ngan, Cán bộ biên tập, 2006. Cập nhật bởi Tiến sĩ Jonathan Chan, RMO, Bệnh viện Waikato, 2017.
+
+---
+
+## Hội chứng Noonan với nhiều lentigine là gì?
+
+Hội chứng Noonan với nhiều lentigines (NSML), trước đây gọi là hội chứng LEOPARD, là một rối loạn di truyền rất hiếm gặp, đặc trưng bởi các bất thường về da, tim, tai, bộ phận sinh dục , đầu và mặt . Đây là một trong nhóm các hội chứng được gọi chung là RASopathies.
+Từ viết tắt LEOPARD mô tả những bất thường đặc trưng liên quan đến chứng rối loạn này.
+- L – nốt ruồi (nhiều đốm nâu đen trên da)
+- E – khiếm khuyết dẫn truyền điện tâm đồ ( ECG )
+- O – chứng tăng nhãn áp
+- P – hẹp động mạch phổi
+- A – bất thường ở bộ phận sinh dục
+- R – chậm phát triển dẫn đến vóc dáng thấp bé
+- D – Điếc hoặc mất thính lực do rối loạn chức năng tai trong
+![Hội chứng LEOPARD](https://dermnetnz.org/assets/Uploads/systemic/leopard1.jpg)
+![Hội chứng LEOPARD](https://dermnetnz.org/assets/Uploads/systemic/leopard3.jpg)
+![Hội chứng LEOPARD](https://dermnetnz.org/assets/Uploads/systemic/leopard2.jpg)
+
+---
+
+## Các đặc điểm lâm sàng của NSML là gì?
+
+Hội chứng Noonan với nhiều lentigines tương tự như tình trạng hội chứng Noonan, hai hội chứng này khó phân biệt với nhau trong giai đoạn đầu đời của trẻ. Các đặc điểm da liễu đặc trưng của mỗi biến thể phát triển từ cuối thời thơ ấu đến đầu tuổi thiếu niên.
+Các đặc điểm lâm sàng của hội chứng Noonan với nhiều lentigines rất khác nhau giữa các bệnh nhân, hầu hết chỉ biểu hiện 3-5 bất thường. [Lentigines](https://dermnetnz.org/topics/lentigo) là đặc điểm phổ biến nhất của hội chứng này và xuất hiện ở hơn 90% bệnh nhân. Tuy nhiên, không nhất thiết phải có lentigines mới chẩn đoán được hội chứng.
+Các vết nám là những tổn thương nhỏ, sẫm màu, phẳng hoặc hơi nổi lên với đường viền rõ ràng.
+- Thường có đường kính 2–5 mm, một số lentigine có thể phát triển tới kích thước 1–1,5 cm.
+- Chúng có hình tròn hoặc hình bầu dục không đều.
+- Không giống như tàn nhang, những đốm này không bị ảnh hưởng bởi ánh nắng mặt trời.
+- Chúng thường xuất hiện ở mặt, cổ và phần trên của thân mình, nhưng cũng có thể xuất hiện ở lòng bàn tay, lòng bàn chân và lòng trắng của mắt.
+Những bất thường khác về da bao gồm:
+- Tàn nhang quanh vùng nách
+- [Café au lait macules (](https://dermnetnz.org/topics/cafe-au-lait-macule) dát phẳng màu cà phê )
+- Giảm sắc tố cục bộ (làm sáng màu da)
+- Bệnh loạn dưỡng móng ( dị dạng móng )
+- Màng giữa các ngón tay (màng giữa các ngón tay)
+- Da tăng độ đàn hồi (da co giãn)
+Các đặc điểm không phải da của hội chứng Noonan với nhiều lentigine bao gồm:
+- Mất thính lực ở khoảng 25% bệnh nhân
+- Khoảng 1/3 bệnh nhân có vóc dáng thấp bé
+- Mức độ khuyết tật trí tuệ nhẹ ở khoảng 30% bệnh nhân
+- Bất thường về sọ mặt (ví dụ, tai thấp, hộp sọ có hình dạng bất thường, bất thường về răng)
+- Bất thường ở bộ phận sinh dục ở khoảng 26% bệnh nhân, chủ yếu ở nam giới
+- Bất thường về tim, thường không có triệu chứng
+
+---
+
+## Nguyên nhân nào gây ra NMSL?
+
+Hội chứng Noonan và hội chứng Noonan kèm nhiều lentigine được phân loại là bệnh RASopathies. Chúng là do đột biến gen liên quan đến con đường truyền tín hiệu tế bào RAS/ MAPK . Những đột biến này dẫn đến rối loạn phân chia và biệt hóa tế bào.
+Khoảng 75% bệnh nhân mắc hội chứng Noonan với nhiều lentigine mang đột biến gen PTPN11 ( protein - tyrosine phosphatase , không phải thụ thể loại 11). Mười phần trăm có đột biến gen RAF1 . Trong một số ít trường hợp, đột biến gen BRAF và MAP2K1 có liên quan.
+Hội chứng Noonan với nhiều lentigine được di truyền theo kiểu trội trên nhiễm sắc thể thường , nghĩa là nếu một trong hai cha mẹ bị ảnh hưởng thì khả năng mỗi đứa con cũng bị ảnh hưởng là 50%. Khoảng 70% trường hợp có tiền sử gia đình. Phần còn lại là các trường hợp lẻ tẻ xảy ra do đột biến mới.
+Các dấu hiệu và triệu chứng mà người mắc hội chứng Noonan với nhiều lentigines gặp phải rất khác nhau. Một số bệnh nhân có thể chỉ mắc một phần hội chứng và có các triệu chứng nhẹ, trong khi những người mắc hội chứng toàn phần lại bị ảnh hưởng nghiêm trọng hơn.
+NSML được chẩn đoán như thế nào?
+Chẩn đoán dựa trên các đặc điểm lâm sàng. Hội chứng Noonan với nhiều lentigines nên được nghi ngờ ở những bệnh nhân có một hoặc nhiều đặc điểm chính sau:
+- Lentigines
+- Bất thường về tim
+- Tầm vóc thấp
+- Biến dạng ngực
+- Rối loạn hình dạng khuôn mặt .
+Tiêu chí tối thiểu được đề xuất là:
+- Sự hiện diện của nhiều lentigine, cộng với 2 đặc điểm chính khác
+- Nếu không có lentigines, cần có người thân cấp độ một được chẩn đoán mắc hội chứng Noonan với nhiều lentigines cộng với 3 đặc điểm chính.
+Chẩn đoán có thể dựa trên xét nghiệm di truyền phân tử . Có thể sử dụng bảng gen đơn hoặc đa gen để xác định đột biến.
+
+---
+
+## Có những phương pháp điều trị nào?
+
+Một nhóm bác sĩ chuyên khoa bao gồm bác sĩ tim mạch, bác sĩ nội tiết , bác sĩ chỉnh hình và bác sĩ da liễu sẽ điều trị hội chứng Noonan với nhiều đốm nâu.
+Nếu cần thiết, có thể loại bỏ các nốt đồi mồi riêng lẻ bằng phương pháp [lột da hóa học](https://dermnetnz.org/topics/chemical-peels) , [liệu pháp lạnh](https://dermnetnz.org/topics/cryotherapy) , [điều trị bằng laser](https://dermnetnz.org/topics/lasers-in-dermatology) hoặc [phẫu thuật cắt bỏ](https://dermnetnz.org/topics/excision-of-skin-lesions) . Đối với một số bệnh nhân, điều trị bằng [retinoid tại chỗ](https://dermnetnz.org/topics/topical-retinoids) và kem [hydroquinone](https://dermnetnz.org/topics/hydroquinone) có thể hữu ích.

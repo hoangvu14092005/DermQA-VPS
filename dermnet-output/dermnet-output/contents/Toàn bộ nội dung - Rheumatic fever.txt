@@ -1,0 +1,87 @@
+# Sốt thấp khớp — thông tin bổ sung
+
+Thể loại:
+
+Nhiễm trùng
+
+SNOMED CT:
+
+58718002, 14175009, 60261000, 26424001, 38933006, 703119002, 240041006, 200951007, 312591002, 24363009, 46826000
+
+**[Nhiễm trùng](https://dermnetnz.org/topics/topics?category=Infections)**
+
+
+# **Sốt thấp khớp**
+
+Tác giả: Marie Hartley, Biên tập viên, 2010.Bản cập nhật mới nhất củaTiến sĩJannetGomez, Sinh viên sau đại học chuyên ngành Da liễu lâm sàng, Đại học Queen Mary London, Vương quốc Anh, tháng 7 năm 2016.
+
+---
+
+## Sốt thấp khớp cấp tính là gì?
+
+Sốt thấp khớp cấp tính (ARF) là do phản ứng với [nhiễm trùng do vi khuẩn liên cầu](https://dermnetnz.org/topics/bacterial-skin-infections) [khuẩn](https://dermnetnz.org/topics/streptococcal-skin-infections) nhóm A. Từ lâu, người ta cho rằng ARF chỉ xảy ra sau viêm họng do liên cầu khuẩn (viêm họng), tuy nhiên, các nghiên cứu gần đây trên cộng đồng thổ dân Úc cho thấy nhiễm trùng da do liên cầu khuẩn có thể xảy ra trước một số trường hợp ARF. Những người đã từng bị ARF một lần có nhiều khả năng bị tái phát các đợt nhiễm trùng liên cầu khuẩn nhóm A sau đó . [](https://dermnetnz.org/topics/bacterial-skin-infections) [](https://dermnetnz.org/topics/streptococcal-skin-infections)
+Dấu hiệu trên da của bệnh thấp khớp cấp tính là ban đỏ vòng.
+
+---
+
+## Ai bị bệnh sốt thấp khớp?
+
+Suy thận cấp (ARF) thường ảnh hưởng đến trẻ em từ 5–15 tuổi. Hầu hết các trường hợp ARF hiện nay xảy ra ở các nước đang phát triển . Ước tính trên toàn thế giới có khoảng 470.000 ca ARF mới mỗi năm (60% trong số đó cuối cùng phát triển thành bệnh thấp tim). Ở hầu hết các nước phát triển, ARF hiện rất hiếm gặp, ngoại trừ một vài trường hợp ngoại lệ đáng chú ý; tỷ lệ ARF được ghi nhận cao nhất trên thế giới là ở người Maori và người Thái Bình Dương ở New Zealand, người Úc bản địa và người dân ở các đảo Thái Bình Dương.
+Sốt thấp khớp có liên quan đến nghèo đói, tình trạng quá tải dân số và điều kiện vệ sinh kém. Người ta nghi ngờ rằng có những gen khiến một số gia đình dễ mắc bệnh hơn.
+
+---
+
+## Các đặc điểm lâm sàng của bệnh thấp khớp cấp tính là gì?
+
+Các triệu chứng của ARF thường xuất hiện vài tuần sau đợt viêm họng liên cầu khuẩn. Tuy nhiên, nhiều bệnh nhân không nhớ mình bị đau họng. Các triệu chứng không đặc hiệu bao gồm:
+- Sốt
+- Đau bụng
+- Đau nhức cơ bắp
+ARF gây ra nhiều triệu chứng lâm sàng cụ thể hơn:
+- Viêm đa khớp (viêm nhiều khớp) — Thường gặp nhất là mắt cá chân, đầu gối, khuỷu tay, cổ tay. Viêm khớp có thể di chuyển từ khớp này sang khớp khác.
+- Viêm tim – Tình trạng này liên quan đến van tim, cơ tim và màng bao quanh tim.
+- Múa giật Sydenham – Đây là một rối loạn của hệ thần kinh đặc trưng bởi những thay đổi về tính cách, yếu cơ và các cử động không tự chủ.
+Các dấu hiệu trên da của ARF có thể bao gồm:
+- Hồng ban vòng dạng thấp – Đây là loại [ban đỏ hình vòng](https://dermnetnz.org/topics/annular-erythema) đặc trưng xảy ra ở khoảng 10% các đợt cấp đầu tiên của ARF ở trẻ em; rất hiếm gặp ở người lớn. Ban có thể khó phát hiện ở những người da sẫm màu. Khi xuất hiện, ban xuất hiện ở thân mình, cánh tay trên và chân, nhưng hầu như không bao giờ ở mặt, lòng bàn tay hoặc lòng bàn chân. Ban xuất hiện dưới dạng các dát màu hồng hoặc đỏ (các đốm phẳng) hoặc sẩn (các cục nhỏ), lan ra ngoài theo hình tròn. Khi các tổn thương tiến triển, các cạnh trở nên nổi lên và đỏ, còn phần giữa trong suốt. Các tổn thương không ngứa hoặc đau, và đôi khi bệnh nhân không nhận thấy. Các tổn thương có thể mờ dần và xuất hiện trở lại trong vòng vài giờ, xuất hiện trở lại trong điều kiện nóng. Hồng ban vòng có thể tồn tại không liên tục trong nhiều tuần đến nhiều tháng, ngay cả sau khi đã điều trị thành công ARF.
+- Nốt dưới da (các cục nhỏ dưới da) – Đây là tình trạng hiếm gặp, chỉ xảy ra ở dưới 2% bệnh nhân suy thận cấp. Các nốt không đau thường xuất hiện ở các khớp (như khuỷu tay, đầu gối, mắt cá chân và khớp ngón tay), phía sau da đầu và đốt sống. Các nốt này chắc, tròn, di động và có kích thước từ 0,5-2 cm. Các nốt này thường chỉ được phát hiện khi có viêm cơ tim nặng. Chúng thường tự khỏi trong vòng một tháng nhưng cũng có thể kéo dài hơn.
+![Ban đỏ vòng](https://dermnetnz.org/assets/Uploads/bacterial/e-marginatum1.jpg)
+![Ban đỏ vòng](https://dermnetnz.org/assets/Uploads/bacterial/e-marginatum2.jpg)
+![Ban đỏ vòng](https://dermnetnz.org/assets/Uploads/bacterial/e-marginatum3.jpg)
+
+---
+
+## Biến chứng của bệnh thấp khớp cấp tính là gì?
+
+Biến chứng nghiêm trọng nhất của suy tim cấp tái phát là tổn thương vĩnh viễn van tim, được gọi là bệnh thấp tim. Bệnh có thể gây tổn thương vĩnh viễn cho:
+- Van tim, đặc biệt là van hai lá và van động mạch chủ , có thể dẫn đến hẹp van và/hoặc trào ngược van tim.
+- Cơ tim, làm giảm khả năng bơm máu tức là gây suy tim.
+- Màng bao quanh tim gây viêm màng ngoài tim.
+- Nhịp tim không đều, chẳng hạn như rung nhĩ.
+
+---
+
+## Bệnh thấp khớp cấp tính được chẩn đoán như thế nào?
+
+Việc chẩn đoán suy tim cấp (ARF) rất khó khăn, vì không có đặc điểm lâm sàng hoặc xét nghiệm chẩn đoán nào có thể xác nhận hoặc loại trừ tình trạng này. Thay vào đó, chẩn đoán được thực hiện bằng cách sử dụng tiêu chuẩn Jones. Tiêu chuẩn này yêu cầu bằng chứng về nhiễm trùng liên cầu khuẩn nhóm A trước đó, và các kết hợp khác nhau của các đặc điểm đặc trưng nêu trên và các đặc điểm lâm sàng không đặc hiệu khác. Giải thích chi tiết về các tiêu chuẩn này (và các sửa đổi cho phù hợp với môi trường New Zealand) có thể được tìm thấy trên [trang web của Quỹ Tim mạch Quốc gia New Zealand](https://translate.google.com/website) .
+Các xét nghiệm để xác nhận bằng chứng nhiễm trùng liên cầu khuẩn nhóm A bao gồm:
+- Xét nghiệm máu để tìm kháng thể chống lại liên cầu khuẩn nhóm A tăng cao hoặc tăng đột biến. Các xét nghiệm thường được sử dụng nhất là xét nghiệm huyết tương antistreptolysin O và antideoxyribonuclease B.
+- Việc nuôi cấy dịch họng và xét nghiệm kháng nguyên nhanh đối với liên cầu khuẩn nhóm A ít chính xác hơn.
+Các xét nghiệm khác được sử dụng để đánh giá bệnh nhân nghi ngờ mắc ARF bao gồm:
+- Xét nghiệm máu – các dấu hiệu viêm nhiễm, chẳng hạn như ESR hoặc CRP , có thể tăng lên
+- Điện tâm đồ và siêu âm tim để xác định tình trạng tim
+- Bản đồ dòng chảy Doppler và màu để phát hiện các khuyết tật van tim nhỏ không rõ ràng về mặt lâm sàng
+
+---
+
+## Phương pháp điều trị bệnh thấp khớp là gì?
+
+Sau khi chẩn đoán mắc bệnh sốt thấp khớp, phương pháp điều trị tiêu chuẩn là điều trị nhiễm trùng liên cầu khuẩn nhóm A dẫn đến bệnh bằng [penicillin](https://dermnetnz.org/topics/penicillin) uống (mặc dù phương pháp này chưa được chứng minh là làm thay đổi kết quả lâu dài).
+Sau đợt cấp đầu tiên, bệnh nhân được điều trị bằng penicillin liên tục để ngăn ngừa sự xâm nhập hoặc nhiễm trùng liên cầu khuẩn và các tổn thương thêm cho tim. Penicillin liên tục cũng được khuyến cáo cho những người mắc bệnh thấp tim đã xác định. Penicillin liên tục thường được tiêm bốn tuần một lần trong tối thiểu 10 năm. Một số bệnh nhân, chẳng hạn như những người bị viêm tim nặng, có thể cần điều trị suốt đời.
+Aspirin hoặc naproxen được thêm vào để giảm viêm, hạ sốt và giảm đau. Trong trường hợp nghiêm trọng, có thể thêm corticosteroid như prednisone.
+Bệnh nhân mắc bệnh tim thấp khớp đôi khi có thể phải phẫu thuật tim để sửa chữa hoặc thay thế van tim bị tổn thương.
+
+---
+
+## Có thể phòng ngừa bệnh thấp khớp không?
+
+Có thể phòng ngừa ARF bằng cách điều trị kịp thời viêm họng do liên cầu khuẩn nhóm A, đặc biệt ở trẻ em từ 5-15 tuổi. Những người bị đau họng và sốt nên đi khám bác sĩ để được tư vấn. Vắc-xin hiện đang được phát triển và rất được mong đợi.

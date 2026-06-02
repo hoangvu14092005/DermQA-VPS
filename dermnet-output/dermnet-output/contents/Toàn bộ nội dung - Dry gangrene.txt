@@ -1,0 +1,145 @@
+# Hoại tử khô — thông tin bổ sung
+
+Thể loại:
+
+Các vấn đề về mạch máu
+
+SNOMED CT:
+
+67087007, 102631000119103, 402861007
+
+**[Các vấn đề về mạch máu](https://dermnetnz.org/topics/topics?category=Blood+vessel+problems)**
+
+
+# **Hoại tử khô**
+
+Tác giả: Haylee Boyens, Sinh viên Y khoa, Đại học Auckland, New Zealand; Tổng biên tập: Tiến sĩ Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand, tháng 12 năm 2014.
+
+---
+
+## Hoại thư là gì?
+
+Hoại tử là tình trạng hoại tử cục bộ của các mô cơ thể. Hoại tử khô là do thiếu máu cục bộ kéo dài ( nhồi máu cơ tim ) hoặc thiếu oxy hoặc thiếu lưu lượng máu. Thiếu máu cục bộ ảnh hưởng đến các mạch máu gần thường ảnh hưởng đến chi dưới. Thiếu máu cục bộ ngoại vi có thể gây hoại tử ngón tay và ngón chân.
+![Hoại tử khô do thiếu máu cục bộ](https://dermnetnz.org/assets/Uploads/vascular/w/gangrene-1.jpg)
+![Hoại tử khô do thiếu máu cục bộ](https://dermnetnz.org/assets/Uploads/vascular/w/gangrene-2.jpg)
+![Hoại tử khô do thiếu máu cục bộ](https://dermnetnz.org/assets/Uploads/vascular/w/gangrene-4.jpg)
+
+---
+
+## Những dấu hiệu ban đầu của tình trạng thiếu máu cục bộ là gì?
+
+Thiếu máu cục bộ cấp tính nặng ở gần biểu hiện bằng chi nhợt nhạt, liệt, mất mạch. Đây là một cấp cứu ngoại khoa vì có thể tiến triển thành hoại tử lan rộng nếu tắc nghẽn không được loại bỏ nhanh chóng.
+Tắc nghẽn mạch máu ngoại vi xa biểu hiện dưới dạng các mảng màu xanh, xám hoặc tím, mụn nước hoặc loét ở đầu ngón tay. Xem [hội chứng ngón chân xanh](https://dermnetnz.org/topics/blue-toe-syndrome) . [](https://dermnetnz.org/topics/blue-toe-syndrome)
+Thiếu máu cục bộ ở những vị trí khác cũng có thể dẫn đến hoại tử cục bộ ở da và các mô sâu hơn.
+![Không có caption](https://dermnetnz.org/assets/Uploads/vascular/w/ischaemia-1.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/vascular/w/ischaemia-2.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/vascular/w/ischaemia-3.jpg)
+
+---
+
+## Nguyên nhân nào gây ra tình trạng thiếu máu cục bộ?
+
+Thiếu máu cục bộ là do tình trạng gián đoạn cấp tính hoặc mãn tính trong việc cung cấp máu và thường là do sự kết hợp của cả hai nguyên nhân.
+Thiếu máu cục bộ cấp tính có thể là do:
+- Thuyên tắc
+- Huyết khối động mạch cấp tính
+- Chấn thương mạch máu
+- [vôi hóa mô liên kết](https://dermnetnz.org/topics/calciphylaxis)
+- Chấn thương do lạnh quá mức ( [tê cóng](https://dermnetnz.org/topics/frostbite) )
+- [Bệnh lý đông máu nội mạch lan tỏa](https://dermnetnz.org/topics/disseminated-intravascular-coagulation) liên quan đến nhiễm trùng hoặc ban xuất huyết.
+
+### Thuyên tắc
+Thuyên tắc là các hạt di chuyển trong dòng máu cho đến khi chúng mắc kẹt tại một điểm nối hoặc chỗ hẹp động mạch. Thuyên tắc có thể bao gồm:
+- [Cholesterol](https://dermnetnz.org/topics/cholesterol-emboli) bị bong ra khỏi tim (80%) hoặc động mạch lớn (động mạch chủ, mạch chậu)
+- Khối u
+- [Thuyên tắc nhiễm trùng](https://dermnetnz.org/topics/septic-emboli) (các hạt truyền nhiễm)
+- Chất béo bị loại bỏ trong quá trình phẫu thuật
+- Vật thể lạ.
+Các cục huyết khối lớn nằm ở chỗ chia đôi động mạch đùi (43%), động mạch chậu (18%), động mạch chủ (15%) và động mạch khoeo (15%). Các cục huyết khối nhỏ nằm ở ngón tay, ngón chân, lòng bàn tay và lòng bàn chân.
+Tắc nghẽn mạch máu cũng có thể là do hội chứng tăng độ nhớt hoặc các protein lưu thông bất thường như [cryoglobulin](https://dermnetnz.org/topics/cryoglobulinaemia) hoặc [macroglobulin](https://dermnetnz.org/topics/waldenstroem-macroglobulinaemia) .
+
+### Huyết khối
+Huyết khối là cục máu đông hình thành trong mạch máu. Các yếu tố nguy cơ bao gồm:
+- Nhiễm trùng huyết
+- Hạ huyết áp (huyết áp thấp)
+- Lưu lượng tim thấp
+- Phình động mạch (một chỗ phình ở thành động mạch bị suy yếu)
+- Bóc tách động mạch chủ (một vết nứt ở thành động mạch chủ)
+- Ghép bắc cầu (một thủ thuật phẫu thuật)
+- Sự hẹp động mạch do xơ vữa động mạch.
+Bất kể nguyên nhân chính gây thiếu máu cục bộ là gì, huyết khối do lưu lượng máu chậm có thể khiến tình trạng trở nên tồi tệ hơn.
+Thiếu máu cục bộ mãn tính có thể là do:
+- Bệnh động mạch ngoại biên
+- [Suy tĩnh mạch](https://dermnetnz.org/topics/venous-insufficiency) .
+
+### Bệnh động mạch ngoại biên
+Bệnh động mạch ngoại biên mạn tính thường là do xơ vữa động mạch. Đây là sự tích tụ cholesterol , fibrin và các protein khác bên trong thành động mạch, khiến mạch máu bị hẹp lại và cuối cùng bị tắc nghẽn hoàn toàn. Quá trình này còn được gọi là tắc nghẽn do xơ vữa động mạch .
+Các yếu tố nguy cơ gây bệnh động mạch ngoại biên bao gồm:
+- Tăng huyết áp (huyết áp cao)
+- Tăng lipid máu (mỡ máu cao)
+- Bệnh tiểu đường
+- Bệnh tim mạch bao gồm nhồi máu cơ tim, rung nhĩ, bệnh van tim
+- Bệnh mạch máu não bao gồm đột quỵ, cơn thiếu máu não thoáng qua
+- [Hút thuốc](https://dermnetnz.org/topics/smoking-and-its-effects-on-the-skin)
+- [Bệnh tự miễn](https://dermnetnz.org/topics/autoimmune-diseases-in-dermatology) : [viêm mạch](https://dermnetnz.org/topics/cutaneous-vasculitis) , viêm khớp , bệnh đông máu
+- Bệnh ác tính ( ung thư ).
+Bệnh động mạch ngoại biên cũng có thể là do:
+- [Bệnh mô liên kết](https://dermnetnz.org/topics/connective-tissue-diseases) , bao gồm cả [xơ cứng hệ thống](https://dermnetnz.org/topics/systemic-sclerosis)
+- [Bệnh Buerger](https://dermnetnz.org/topics/thromboangiitis-obliterans) (viêm tắc mạch huyết khối).
+
+### Suy tĩnh mạch
+Tĩnh mạch có thể không thể dẫn máu ra khỏi mô do suy van ( [giãn tĩnh mạch](https://dermnetnz.org/topics/varicose-veins) ) và tắc nghẽn do huyết khối tĩnh mạch sâu (DVT) hoặc [viêm tắc tĩnh mạch](https://dermnetnz.org/topics/superficial-thrombophlebitis) . Áp lực cao trong tĩnh mạch (tăng huyết áp tĩnh mạch) dẫn đến sự di chuyển của protein và fibrin vào mô mềm. Điều này dẫn đến xơ hóa , hình thành mao mạch bất thường và hoại tử mỡ ( [xơ cứng bì mỡ](https://dermnetnz.org/topics/lipodermatosclerosis) ). Khi nghiêm trọng, những quá trình này có thể gây thiếu máu cục bộ và hoại tử. [](https://dermnetnz.org/topics/lipodermatosclerosis)
+
+---
+
+## Đặc điểm lâm sàng của tắc nghẽn mạch máu
+
+Các dấu hiệu của bệnh mạch máu ngoại biên phụ thuộc vào mô nào bị thiếu máu cục bộ và mức độ nghiêm trọng của bệnh. Bệnh nhân có thể biểu hiện:
+- Đau cách hồi (đau chân từng cơn)
+- Đau khi nghỉ ngơi
+- Da bóng, mỏng, khô, nhợt nhạt, mát
+- Móng tay giòn
+- Bệnh tiến triển hơn có thể được phát hiện bằng [livedo reticularis](https://dermnetnz.org/topics/livedo-reticularis) (hình dạng lưới đánh cá)
+- Vết thương khó lành và loét (thường là [loét chân](https://dermnetnz.org/topics/leg-ulcer) )
+- Hoại thư: vùng mô hoại tử (chết) màu xám hoặc đen.
+
+---
+
+## Điều tra ở bệnh nhân bị thiếu máu cục bộ hoặc hoại tử khô
+
+Khi bệnh nhân có biểu hiện thiếu máu cục bộ ngoại biên hoặc hoại tử không rõ nguyên nhân, cần tiến hành khám lâm sàng toàn diện để đánh giá hệ thống mạch máu, bao gồm tim và mạch ngoại biên. Điện tâm đồ ( ECG ) sẽ đánh giá chức năng tim. Huyết áp được đo bằng siêu âm Doppler ở cả hai chi dưới và hai chi trên để tính Chỉ số Cổ chân Cánh tay (ABI).
+- ABI 1–1,4 là bình thường khi áp lực ở chi dưới bằng hoặc lớn hơn chi trên.
+- ABI 0,5–0,8 cho thấy bệnh động mạch từ nhẹ đến trung bình.
+- ABI >0,5 biểu thị bệnh động mạch nghiêm trọng.
+Chụp ảnh để đánh giá bệnh mạch máu ngoại vi có thể bao gồm:
+- Siêu âm mạch máu – để xác định vị trí tắc nghẽn trong động mạch và tĩnh mạch.
+- Chụp mạch máu – một phương pháp quét sử dụng thuốc nhuộm để xác định loại, vị trí và mức độ tắc nghẽn mạch máu ở chi bị ảnh hưởng.
+- Chụp X-quang ngực.
+- Cộng hưởng từ ( MRI ) – có thể thay thế phương pháp chụp mạch máu truyền thống.
+- Chụp cắt lớp vi tính ( CT ) – có thể phát hiện tình trạng canxi hóa và có thể phát hiện tình trạng tắc nghẽn mạch máu bằng thuốc cản quang.
+- Siêu âm tim – siêu âm van tim để xác định nguồn gốc của thuyên tắc.
+Xét nghiệm máu đánh giá số lượng tế bào máu, chức năng thận, chất điện giải, thành phần lipid , tình trạng đông máu và các dấu hiệu viêm như D dimer và protein phản ứng C.
+
+---
+
+## Phương pháp điều trị bệnh hoại tử thiếu máu cục bộ là gì?
+
+Điều trị hoại thư khác nhau tùy thuộc vào vị trí và nguyên nhân, nhưng chủ yếu xoay quanh phẫu thuật cắt lọc triệt để +/- cắt cụt chi. Các thủ thuật phẫu thuật cũng có thể bao gồm:
+- Loại bỏ cục máu đông hoặc huyết khối
+- Đặt bóng hoặc stent
+- Phẫu thuật bắc cầu động mạch hoặc tĩnh mạch
+- Điều trị bằng oxy cao áp .
+Điều trị y tế có thể bao gồm:
+- [Thuốc chống tiểu cầu](https://dermnetnz.org/topics/anticoagulants-and-antiplatelet-agents) , bao gồm aspirin, clopidogrel, cilostazol và pentoxifylline
+- Thuốc hạ lipid như statin
+- Điều trị các bệnh lý tiềm ẩn như bệnh tiểu đường
+- Ngừng sử dụng thuốc gây co mạch
+- Bỏ [thuốc lá](https://dermnetnz.org/topics/smoking-and-its-effects-on-the-skin)
+- Tránh để vùng bị ảnh hưởng tiếp xúc với lạnh.
+
+---
+
+## Tiên lượng của bệnh hoại thư là gì?
+
+Tiên lượng của bệnh hoại thư thiếu máu cục bộ phụ thuộc vào mức độ bệnh, nguyên nhân cơ bản và thời điểm điều trị thích hợp.
+Sẽ có sẹo và có thể có một số suy giảm chức năng, đặc biệt nếu cần phải cắt lọc hoặc cắt cụt đáng kể. Tình trạng thiếu máu cục bộ tái phát có thể do bệnh lý đi kèm, đặc biệt là bệnh tiểu đường.

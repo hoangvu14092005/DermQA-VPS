@@ -1,0 +1,210 @@
+# Tăng tiết mồ hôi — thông tin bổ sung
+
+Thể loại:
+
+Thuật ngữ
+
+SNOMED CT:
+
+312230002, 303089000, 30309009, 274674005, 274673004, 403375001, 427794001, 42661000119104, 230668002, 723000001, 91480001, 394925004
+
+**[Thuật ngữ](https://dermnetnz.org/topics/topics?category=Terminology)**
+
+
+# **Tăng tiết mồ hôi**
+
+Tác giả: Tiến sĩ Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand, 1997. Cập nhật tháng 7 năm 2015.
+
+---
+
+## Tăng tiết mồ hôi là gì?
+
+Tăng tiết mồ hôi là tình trạng đổ mồ hôi quá nhiều và không kiểm soát được.
+Mồ hôi là dung dịch muối yếu do tuyến mồ hôi ngoại tiết tiết ra . Tuyến mồ hôi ngoại tiết phân bố khắp cơ thể nhưng tập trung nhiều nhất ở lòng bàn tay và lòng bàn chân (với khoảng 700 tuyến trên mỗi cm vuông).
+![Tăng tiết mồ hôi](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/hyper1.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/hyperhidrosis.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/hyperhidrosis4.jpg)
+
+---
+
+## Ai bị chứng tăng tiết mồ hôi?
+
+Tăng tiết mồ hôi nguyên phát được báo cáo ảnh hưởng đến 1–3% dân số Hoa Kỳ và hầu như luôn bắt đầu trong thời thơ ấu hoặc thanh thiếu niên. Xu hướng này có thể do di truyền, và được báo cáo là đặc biệt phổ biến ở người Nhật Bản.
+Tăng tiết mồ hôi thứ phát ít phổ biến hơn và có thể xuất hiện ở mọi lứa tuổi.
+
+---
+
+## Nguyên nhân gây ra chứng tăng tiết mồ hôi là gì?
+
+Tăng tiết mồ hôi nguyên phát dường như là do hoạt động quá mức của trung tâm điều hòa nhiệt độ vùng dưới đồi trong não và được truyền qua hệ thần kinh giao cảm đến tuyến mồ hôi eccrine .
+Các tác nhân gây ra cơn đổ mồ hôi có thể bao gồm:
+- Thời tiết nóng
+- Bài tập
+- Sốt
+- Sự lo lắng
+- Đồ ăn cay
+Nguyên nhân gây tăng tiết mồ hôi cục bộ thứ phát bao gồm:
+- Hội [chứng tai thái dương](https://dermnetnz.org/topics/auriculotemporal-syndrome) ( tăng tiết mồ hôi vị giác )
+- Đột quỵ
+- Tổn thương thần kinh cột sống
+- Tổn thương thần kinh ngoại biên , khi nó có thể liên quan đến [chứng loạn cảm giác da](https://dermnetnz.org/topics/cutaneous-dysaesthesia)
+- Phẫu thuật cắt dây thần kinh giao cảm
+- Bệnh thần kinh
+- Một khối u não
+- Rối loạn lo âu mãn tính
+Nguyên nhân gây ra chứng tăng tiết mồ hôi toàn thân thứ phát bao gồm:
+- Béo phì
+- [Bệnh tiểu đường](https://dermnetnz.org/topics/skin-problems-associated-with-diabetes-mellitus)
+- [Mãn kinh](https://dermnetnz.org/topics/menopause-and-the-skin)
+- [Tuyến giáp hoạt động quá mức](https://dermnetnz.org/topics/hyperthyroidism)
+- Rối loạn tim mạch
+- Suy hô hấp
+- Các khối u nội tiết khác , chẳng hạn như [u tế bào ưa crôm](https://dermnetnz.org/topics/phaeochromocytoma) [](https://dermnetnz.org/topics/phaeochromocytoma)
+- Bệnh Parkinson
+- [U lympho Hodgkin](https://dermnetnz.org/topics/hodgkin-lymphoma)
+- [Thuốc](https://dermnetnz.org/topics/drug-induced-hyperhidrosis) : [rượu](https://dermnetnz.org/topics/cutaneous-adverse-effects-of-alcohol) , caffeine, [corticosteroid ,](https://dermnetnz.org/topics/systemic-steroids) thuốc ức chế cholinesterase , [thuốc chống trầm cảm ba vòng](https://dermnetnz.org/topics/tricyclic-antidepressants) , thuốc ức chế tái hấp thu serotonin có chọn lọc, [nicotinamide](https://dermnetnz.org/topics/nicotinamide) và thuốc phiện
+
+---
+
+## Các đặc điểm lâm sàng của chứng tăng tiết mồ hôi là gì?
+
+Tăng tiết mồ hôi có thể khu trú hoặc lan tỏa.
+- Tăng tiết mồ hôi cục bộ ảnh hưởng đến nách, lòng bàn tay, lòng bàn chân, mặt hoặc các vị trí khác
+- Tăng tiết mồ hôi toàn thân ảnh hưởng đến hầu hết hoặc toàn bộ cơ thể
+Nó có thể là chính hoặc phụ.
+
+### Tăng tiết mồ hôi nguyên phát
+- Bắt đầu từ thời thơ ấu hoặc thanh thiếu niên
+- Có thể tồn tại suốt đời hoặc cải thiện theo tuổi tác
+- Có thể có tiền sử gia đình
+- Có xu hướng liên quan đến nách, lòng bàn tay và hoặc lòng bàn chân một cách đối xứng
+- Thông thường, mồ hôi giảm vào ban đêm và biến mất khi ngủ
+
+### Tăng tiết mồ hôi thứ phát
+- Ít phổ biến hơn chứng tăng tiết mồ hôi nguyên phát
+- Có nhiều khả năng là đơn phương và không đối xứng , hoặc tổng quát
+- Có thể xảy ra vào ban đêm hoặc trong khi ngủ.
+- Do tình trạng nội tiết hoặc thần kinh hoặc [thuốc](https://dermnetnz.org/topics/drug-induced-hyperhidrosis)
+
+---
+
+## Tác động của việc đổ mồ hôi quá nhiều là gì?
+
+Bệnh tăng tiết mồ hôi gây khó chịu và ảnh hưởng đến nhiều hoạt động hàng ngày.
+
+### Tăng tiết mồ hôi nách
+- Quần áo bị ẩm, ố màu và phải thay nhiều lần trong ngày
+- Nếp gấp da ướt dễ bị trầy xước, viêm da kích ứng và nhiễm trùng
+![Đổ mồ hôi quá nhiều ở nách](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/hyperhidrosis5.jpg)
+
+### Tăng tiết mồ hôi lòng bàn tay
+- Tay trơn trượt dẫn đến việc tránh bắt tay
+- Dấu vết còn lại trên giấy và vải
+- Khó khăn trong việc viết gọn gàng
+- Sự cố của các thiết bị điện tử như bàn phím và bàn di chuột
+- Dễ bị viêm da bàn tay phồng rộp ( [pompholyx](https://dermnetnz.org/topics/dyshidrotic-eczema) )
+
+### Tăng tiết mồ hôi ở lòng bàn chân
+- Ảnh hưởng đến lòng bàn chân
+- Mùi khó chịu
+- Giày dép bị hỏng
+- Dễ bị viêm da dạng phồng rộp ( [pompholyx](https://dermnetnz.org/topics/dyshidrotic-eczema) )
+- Dễ bị nhiễm trùng thứ phát ( [nấm da chân](https://dermnetnz.org/topics/tinea-pedis) , [sừng hóa rỗ](https://dermnetnz.org/topics/pitted-keratolysis) )
+
+---
+
+## Bệnh tăng tiết mồ hôi được chẩn đoán như thế nào?
+
+Tăng tiết mồ hôi thường được chẩn đoán lâm sàng. Các xét nghiệm liên quan đến nguyên nhân tiềm ẩn gây tăng tiết mồ hôi và hiếm khi cần thiết cho tăng tiết mồ hôi nguyên phát.
+Vị trí chính xác của chứng tăng tiết mồ hôi cục bộ có thể được xác định bằng xét nghiệm Minor.
+- Iốt (màu cam) được quét lên da và phơi khô.
+- Tinh bột (màu trắng) được rắc lên trên iốt.
+- Việc đổ mồ hôi được phát hiện bằng sự chuyển sang màu xanh đậm/đen.
+Các xét nghiệm sàng lọc trong tình trạng tăng tiết mồ hôi toàn thân thứ phát phụ thuộc vào các đặc điểm lâm sàng khác nhưng tối thiểu phải bao gồm:
+- Đường huyết / hemoglobin glycosyl hóa
+- Chức năng tuyến giáp
+
+---
+
+## Điều trị chứng tăng tiết mồ hôi là gì?
+
+
+### Các biện pháp chung
+- Mặc quần áo rộng rãi, chống bẩn và thấm mồ hôi.
+- Thay quần áo và giày dép khi ẩm ướt.
+- Tất chứa bạc hoặc đồng có tác dụng giảm nhiễm trùng và mùi hôi.
+- Sử dụng miếng lót giày thấm hút và thay thường xuyên.
+- Sử dụng chất tẩy rửa không chứa xà phòng.
+- Thoa bột ngô sau khi tắm.
+- Tránh đồ ăn và đồ uống có chứa caffeine.
+- Ngừng bất kỳ [loại thuốc](https://dermnetnz.org/topics/drug-induced-hyperhidrosis) nào có thể gây ra chứng tăng tiết mồ hôi.
+- Thoa chất chống mồ hôi.
+
+### Thuốc chống mồ hôi tại chỗ
+- Chất khử mùi là [chất tạo mùi](https://dermnetnz.org/topics/fragrances-and-perfumes) hoặc [chất khử trùng](https://dermnetnz.org/topics/treatments/antiseptics.html) để che giấu mùi khó chịu; bản thân chúng không có tác dụng làm giảm tiết mồ hôi.
+- [Thuốc chống mồ hôi](https://dermnetnz.org/topics/antiperspirant) chứa 10–25% muối nhôm giúp giảm tiết mồ hôi; muối nhôm zirconi "độ bền lâm sàng" có hiệu quả hơn muối nhôm clorua.
+- Thuốc kháng cholinergic tại chỗ như glycopyrrolate và gel oxybutynin đã thành công trong việc giảm tiết mồ hôi; các loại khăn vải chứa glycopyrronium tosylate (Qbrexza™) đã được FDA phê duyệt vào tháng 7 năm 2018 để điều trị chứng tăng tiết mồ hôi nách ở người lớn và trẻ em từ 9 tuổi trở lên. Hiện có sẵn bột rắc chứa thuốc kháng cholinergic diphemanil 2%. Gel Sofpironium đã được FDA phê duyệt vào năm 2024 để điều trị chứng tăng tiết mồ hôi nách.
+- Thuốc chống mồ hôi có dạng kem , dạng xịt , dạng thỏi, dạng lăn, dạng lau, dạng bột và dạng sơn.
+- Có sẵn các sản phẩm chuyên biệt cho từng vùng cơ thể khác nhau như nách, các nếp gấp da khác, mặt, tay và chân.
+- Tốt nhất là nên sử dụng khi da khô, sau khi tắm nước mát trước khi đi ngủ.
+- Rửa sạch vào buổi sáng nếu bạn thấy khó chịu.
+- Sử dụng từ một lần một tuần đến hàng ngày nếu cần thiết.
+- Nếu bị kích ứng, hãy bôi kem hydrocortisone trong thời gian ngắn.
+
+### Điện di ion
+- [Phương pháp điện di ion](https://dermnetnz.org/topics/iontophoresis) được sử dụng để điều trị chứng tăng tiết mồ hôi ở lòng bàn tay, lòng bàn chân và nách.
+- Có sẵn loại chạy bằng nguồn điện chính và chạy bằng pin.
+- Vùng bị ảnh hưởng được ngâm trong nước hoặc dung dịch glycopyrronium có tác dụng mạnh hơn.
+- Một dòng điện nhẹ được truyền qua bề mặt da trong 10–20 phút.
+- Lặp lại hàng ngày trong vài tuần sau đó giảm tần suất khi cần thiết
+- Phương pháp điện di có thể gây khó chịu, kích ứng hoặc [viêm da tiếp xúc kích ứng](https://dermnetnz.org/topics/dermatitis/contact-irritant.html) .
+- Việc điều trị đòi hỏi sự cam kết lâu dài.
+- Nó không phải lúc nào cũng hiệu quả.
+
+### Thuốc uống
+Thuốc kháng cholinergic đường uống
+- Các loại thuốc hiện có là propantheline 15–30 mg, dùng tối đa ba lần mỗi ngày, oxybutynin 2,5–7,5 mg mỗi ngày, benztropine, glycopyrrolate (chưa được chấp thuận).
+- Chúng có thể gây khô miệng, ít gặp hơn là mờ mắt, táo bón, chóng mặt, đánh trống ngực và các tác dụng phụ khác.
+- Những người bị bệnh tăng nhãn áp hoặc bí tiểu không nên sử dụng thuốc này.
+- Thận trọng ở bệnh nhân lớn tuổi: có báo cáo về nguy cơ tác dụng phụ tăng lên, bao gồm chứng mất trí.
+- Thuốc kháng cholinergic đường uống có thể tương tác với các loại thuốc khác.
+Thuốc chẹn beta
+- Thuốc chẹn beta ngăn chặn các tác động vật lý của sự lo lắng.
+- Chúng có thể làm trầm trọng thêm bệnh hen suyễn hoặc các triệu chứng của bệnh mạch máu ngoại biên .
+Thuốc chẹn kênh canxi, thuốc chủ vận alpha-adrenergic (clonidine), thuốc chống viêm không steroid và thuốc an thần cũng có thể hữu ích cho một số bệnh nhân.
+
+### Tiêm độc tố Botulinum
+- [Tiêm độc tố Botulinum](https://dermnetnz.org/topics/procedures/botox.html) được chấp thuận để điều trị chứng tăng tiết mồ hôi ở nách.
+- Các mũi tiêm này có tác dụng làm giảm hoặc ngừng tiết mồ hôi trong vòng ba đến sáu tháng.
+- Độc tố Botulinum được sử dụng không theo giấy phép để điều trị chứng tăng tiết mồ hôi cục bộ ở những vị trí khác như lòng bàn tay.
+- Gel độc tố botulinum tại chỗ đang được nghiên cứu để điều trị chứng tăng tiết mồ hôi.
+
+### Phẫu thuật cắt bỏ tuyến mồ hôi nách
+Tuyến mồ hôi hoạt động quá mức ở nách có thể được loại bỏ bằng nhiều phương pháp, thường là dưới gây tê tại chỗ.
+- [Hút mỡ](https://dermnetnz.org/topics/procedures/liposuction.html) tumescent (hút chúng ra)
+- Nạo dưới da (cạo chúng ra)
+- Nhiệt phân vi sóng (hệ thống MiraDry® được FDA chấp thuận vào năm 2011)
+- [Laser Nd:YAG](https://dermnetnz.org/topics/procedures/nd-yag-laser.html) dưới da [](https://dermnetnz.org/topics/procedures/nd-yag-laser.html)
+- Siêu âm vi mô cường độ cao (thử nghiệm)
+- Phẫu thuật cắt bỏ lớp da chứa tuyến mồ hôi ở nách. Nếu cần cắt bỏ một vùng da lớn, có thể sử dụng phương [pháp ghép da.](https://dermnetnz.org/topics/procedures/graft.html)
+
+### Cắt giao cảm
+Việc phân chia các dây thần kinh tủy sống giao cảm bằng phương pháp cắt dây thần kinh giao cảm ngực nội soi (ETS) bằng hóa chất hoặc phẫu thuật có thể làm giảm tiết mồ hôi ở mặt ( hạch T2 ) hoặc nách và tay (hạch T3 hoặc T4) nhưng chỉ dành cho những người bị ảnh hưởng nghiêm trọng nhất do có nguy cơ và biến chứng tiềm ẩn.
+- Bệnh tăng tiết mồ hôi có thể tái phát ở 15% trường hợp.
+- Cắt dây thần kinh giao cảm thường đi kèm với tình trạng da nóng và khô không mong muốn.
+- Tăng tiết mồ hôi mới khởi phát ở các vị trí khác xảy ra ở 50–90% bệnh nhân và ở mức độ nghiêm trọng ở 2%. Tình trạng này được báo cáo là ít xảy ra hơn sau khi cắt hạch giao cảm T4 so với cắt hạch giao cảm T2.
+- Các biến chứng nghiêm trọng bao gồm hội chứng Horner , tràn khí màng phổi (lên đến 10%), viêm phổi và đau dai dẳng (dưới 2%).
+Phẫu thuật cắt dây thần kinh giao cảm thắt lưng không được khuyến khích để điều trị chứng tăng tiết mồ hôi ở bàn chân vì nó có thể ảnh hưởng đến chức năng tình dục.
+
+---
+
+## Triển vọng của chứng tăng tiết mồ hôi là gì?
+
+Tăng tiết mồ hôi nguyên phát khu trú có xu hướng cải thiện theo tuổi tác. Tiên lượng của tăng tiết mồ hôi thứ phát khu trú hoặc toàn thân phụ thuộc vào nguyên nhân.
+
+---
+
+## Các phương pháp điều trị tăng tiết mồ hôi trong tương lai
+
+Một số dự án nghiên cứu đang được tiến hành để tìm ra phương pháp điều trị chứng tăng tiết mồ hôi an toàn và hiệu quả hơn. Các phương pháp này bao gồm:
+- Sự kết hợp của oxybutynin và pilocarpine (để chống lại tác dụng phụ của thuốc kháng cholinergic, oxybutynin) THVD-102

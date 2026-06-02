@@ -1,0 +1,125 @@
+# Nhiễm trùng Mycoplasma pneumoniae — thông tin bổ sung
+
+Thể loại:
+
+Nhiễm trùng
+
+SNOMED CT:
+
+406595002, 58720004, 46970008, 402971008
+
+**[Nhiễm trùng](https://dermnetnz.org/topics/topics?category=Infections)**
+
+
+# **Nhiễm trùng Mycoplasma pneumoniae**
+
+Tác giả: Tiến sĩ Caroline Mahon, Chuyên gia đăng ký da liễu và nhi khoa, Auckland, New Zealand. 2013. Cập nhật:Tiến sĩ Ian Coulson, Bác sĩ tư vấn da liễu, Lancashire, Vương quốc Anh. Tháng 4 năm 2022.
+
+---
+
+## Mycoplasma pneumoniae là gì ?
+
+Mycoplasma pneumoniae là một loại vi khuẩn không có thành tế bào, không giống như [các loại vi khuẩn](https://dermnetnz.org/topics/bacterial-skin-infections) khác . Vi khuẩn này gây nhiễm trùng đường hô hấp. [](https://dermnetnz.org/topics/bacterial-skin-infections)
+
+---
+
+## Mycoplasma gây nhiễm trùng như thế nào?
+
+Nhiễm trùng lây lan qua tiếp xúc với các giọt bắn từ đường hô hấp trên và dưới của người bị nhiễm bệnh. Thời gian ủ bệnh dao động từ 1–3 tuần. M. pneumoniae là nguyên nhân phổ biến gây viêm phổi mắc phải trong cộng đồng trên toàn thế giới. Miễn dịch sau khi nhiễm mycoplasma thường ngắn và có thể tái phát .
+
+---
+
+## Triệu chứng của bệnh nhiễm trùng mycoplasma là gì?
+
+Trong nhiều trường hợp, nhiễm trùng do M. pneumoniae không có triệu chứng hoặc chỉ gây ra các triệu chứng không đặc hiệu như đau đầu, sốt nhẹ , ho khan và khó chịu. Khám hô hấp thường bình thường, mặc dù có thể phát hiện tiếng ran rải rác (rackle) và khò khè khi nghe phổi bằng ống nghe. Tuy nhiên, tình trạng này có thể dẫn đến viêm phổi, một bệnh nhiễm trùng phổi nghiêm trọng.
+M. pneumoniae cũng có thể gây ra các biến chứng ở các hệ cơ quan khác, do vi khuẩn xâm nhập trực tiếp hoặc do phản ứng miễn dịch với nhiễm trùng. Các biến chứng đôi khi còn nghiêm trọng hơn nhiễm trùng đường hô hấp nguyên phát .
+Một số bệnh liên quan đến mycoplasma được liệt kê trong bảng dưới đây.
+Hệ thống cơ quan Các triệu chứng và bệnh do Mycoplasma gây ra Hệ hô hấp Viêm họng Ho khan hoặc ho có đờm nhẹ Khò khè, đặc biệt ở trẻ em và nếu có tiền sử hen suyễn Viêm phổi Hệ thần kinh Viêm não Viêm màng não vô khuẩn Rối loạn tiểu não Viêm tủy cắt ngang Hội chứng Guillain-Barré Gan Viêm gan được cho là do tình trạng viêm do kháng thể gây ra . Xét nghiệm máu cho thấy chức năng gan bất thường nhẹ là phổ biến. Trái tim Viêm cơ tim Viêm màng ngoài tim và tràn dịch màng ngoài tim Hệ thống máu Thiếu máu tan máu ở 60%; thường nhẹ nhưng có thể nặng ở những người mắc bệnh hồng cầu hình liềm. Có thể phát hiện ra các agglutinin lạnh . Hệ thống cơ xương Đau cơ và khớp là tình trạng phổ biến. Viêm đa khớp rất hiếm gặp, được cho là do phản ứng miễn dịch. Trong một số trường hợp, M. pneumoniae đã được phân lập từ dịch khớp. Hệ tiêu hóa Buồn nôn và nôn Đau bụng Tiêu chảy
+
+---
+
+## Phát ban liên quan đến nhiễm trùng M. pneumoniae
+
+Phát ban ảnh hưởng đến một phần ba số bệnh nhân bị nhiễm trùng đường hô hấp do M. pneumoniae .
+Phát ban thường gặp nhất là [ban đỏ](https://dermnetnz.org/topics/exanthems) không đặc hiệu , trong đó các mảng đỏ ngắn hạn xuất hiện trên thân và chân tay. Các vùng ban đỏ này tự khỏi và không cần điều trị đặc hiệu.
+Các mụn nước và bọng nước , ban xuất huyết (các đốm nhỏ màu tím do chảy máu vào da) và [phát ban dạng nổi mề đay](https://dermnetnz.org/topics/urticaria-and-urticaria-like-conditions) (giống như phát ban) cũng đã được mô tả có liên quan đến nhiễm trùng M. pneumoniae .
+![Bọng nước do Mycoplasma](https://dermnetnz.org/assets/Uploads/mycoplasma-05.jpg)
+![Bọng nước do Mycoplasma](https://dermnetnz.org/assets/Uploads/mycoplasma-06.jpg)
+
+### Ban đỏ đa dạng
+M. pneumoniae đôi khi có thể gây [ban đỏ đa dạng bọng](https://dermnetnz.org/topics/erythema-multiforme) nước (EM; EM chính). Một số triệu chứng đặc trưng thường gặp. [](https://dermnetnz.org/topics/erythema-multiforme)
+- Các tổn thương nổi lên, màu đỏ, giống như mục tiêu có ba vùng riêng biệt bao gồm một bọng nước ở giữa .
+- Phát ban thường bắt đầu ở các chi, sau đó lan xuống thân mình.
+- Viêm niêm mạc : viêm kết mạc và loét môi, miệng ( [viêm miệng](https://dermnetnz.org/topics/stomatitis) ) và bộ phận sinh dục là phổ biến.
+![Ban đỏ đa dạng không điển hình do mycoplasma](https://dermnetnz.org/assets/Uploads/bacterial/w/mycoplasma1.jpg)
+![Ban đỏ đa dạng không điển hình do mycoplasma](https://dermnetnz.org/assets/Uploads/bacterial/w/mycoplasma2.jpg)
+![Tổn thương mục tiêu liên quan đến nhiễm trùng mycoplasma](https://dermnetnz.org/assets/Uploads/bacterial/sjs-mycoplasma.jpg)
+
+### Hội chứng Stevens-Johnson / hoại tử biểu bì nhiễm độc
+[Hội chứng Stevens-Johnson (SJS) / hoại tử thượng bì nhiễm độc (TEN)](https://dermnetnz.org/topics/stevens-johnson-syndrome-toxic-epidermal-necrolysis) hiện được coi là biểu hiện của cùng một phản ứng da cấp tính, hiếm gặp và nghiêm trọng, trong đó da và niêm mạc bị mất dạng tấm. Thuật ngữ thông thường mô tả SJS với tình trạng bong tróc da <10% diện tích bề mặt cơ thể (BSA), TEN khi bong tróc da >30% diện tích bề mặt cơ thể, và chồng chéo khi bong tróc da từ 10% đến 30%. Hầu hết các trường hợp là do thuốc.
+M. pneumoniae là nguyên nhân nhiễm trùng phổ biến nhất gây ra hội chứng SJS, đặc biệt là ở trẻ em và thanh thiếu niên. Trong một đánh giá hồi cứu gần đây về tất cả các trường hợp SJS được ghi nhận tại phòng khám Mayo ở Hoa Kỳ trong khoảng thời gian 8 năm, 22% trường hợp được phát hiện có liên quan đến nhiễm trùng M. pneumoniae . Độ tuổi trung bình của nhóm này là 14 tuổi, dao động từ 10–36 tuổi.
+Trong một số trường hợp hiếm gặp, M. pneumoniae có liên quan đến hoại tử biểu bì nhiễm độc .
+
+### Viêm niêm mạc liên quan đến Mycoplasma
+M. pneumoniae hiếm khi liên quan đến viêm niêm mạc miệng ( [viêm miệng](https://dermnetnz.org/topics/stomatitis) ), viêm kết mạc và loét niêm mạc sinh dục , mà không kèm theo phát ban da. Biểu hiện này được gọi bằng nhiều tên khác nhau là SJS 'không điển hình' hoặc 'không đầy đủ' (hội chứng Fuchs), mặc dù người ta cho rằng thuật ngữ chính xác hơn cho hội chứng này là 'viêm niêm mạc liên quan đến mycoplasma'. Bệnh thường ảnh hưởng đến trẻ em và thanh thiếu niên.
+![Viêm niêm mạc do Mycoplasma](https://dermnetnz.org/assets/Uploads/mycoplasma-04.jpg)
+
+### Phát ban do Mycoplasma kèm viêm niêm mạc (MIRM)
+Nhiễm trùng M. pneumoniae có liên quan đến phát ban niêm mạc , thường kèm theo những thay đổi nhỏ trên da, khác với [hội chứng Stevens-Johnson](https://dermnetnz.org/topics/sjs-ten-nursing) và [hồng ban đa dạng](https://dermnetnz.org/topics/erythema-multiforme) . Trong một nghiên cứu tổng quan về 202 trường hợp, bệnh nhân bị ảnh hưởng còn trẻ, trung bình 12 tuổi, và các tổn thương da không có (34%) hoặc thưa thớt (47%). Tổn thương ở miệng, mắt và niệu sinh dục (lần lượt là 94%, 82% và 63%) chiếm ưu thế. Các tổn thương da có dạng mụn nước hoặc hình bia bắn, và thường nằm ở phía đầu chi.
+Phản ứng có thể được phân loại như sau:
+- MIRM cổ điển - viêm phổi không điển hình có viêm niêm mạc, cộng với phát ban không phải niêm mạc có thể có các triệu chứng: tổn thương mụn nước (77%), tổn thương mục tiêu rải rác (48%), sẩn (14%), dát (12%) và phát ban dạng sởi (9%).
+- tổn thương mụn nước (77%), tổn thương mục tiêu rải rác (48%), sẩn (14%), dát (12%) và phát ban dạng sởi (9%).
+- MIRM sine rash - viêm phổi không điển hình kèm viêm niêm mạc nhưng không có phát ban đáng kể trên da , không phải niêm mạc. Mặc dù có thể có "một vài tổn thương dạng sởi thoáng qua hoặc một vài mụn nước".
+- MIRM nặng - viêm phổi không điển hình kèm viêm niêm mạc (đã báo cáo có hơn 2 vị trí), - phát ban trên da lan rộng với các mụn nước không phải niêm mạc hoặc tổn thương mục tiêu phẳng không điển hình.
+Các tác giả nhấn mạnh rằng sự khác biệt quan trọng so với virus herpes hoặc hội chứng Stevens-Johnson do thuốc hoặc hoại tử biểu bì nhiễm độc là mức độ thưa thớt tương đối của các tổn thương da.
+- Các tổn thương da lan rộng, đặc biệt là các mụn nước ở trung tâm và các tổn thương đích, có nhiều khả năng là do thuốc hoặc [herpes simplex](https://dermnetnz.org/topics/herpes-simplex) gây ra .
+- Bệnh niêm mạc đơn thuần có nhiều khả năng liên quan đến tác nhân gây bệnh Mycoplasma.
+Mặc dù các tổn thương niêm mạc có thể để lại sẹo, nhưng tiên lượng chung là tốt.
+
+### Các dấu hiệu da ít phổ biến hơn
+Nhiễm trùng M. pneumoniae cũng được báo cáo có liên quan đến một số vấn đề về da khác, bao gồm:
+- [Ban đỏ nốt](https://dermnetnz.org/topics/erythema-nodosum) (được báo cáo là có tới 8% trẻ em bị nhiễm bệnh)
+- [Sự phát triển của roi](https://dermnetnz.org/topics/flagellate-erythema)
+- [Bệnh Kawasaki](https://dermnetnz.org/topics/kawasaki-disease)
+- [Hiện tượng Raynaud](https://dermnetnz.org/topics/raynaud-phenomenon) và [bệnh xơ cứng bì](https://dermnetnz.org/topics/chilblains)
+- [Viêm mạch bạch cầu](https://dermnetnz.org/topics/cutaneous-vasculitis)
+- [Xuất huyết](https://dermnetnz.org/topics/purpura) giảm tiểu cầu huyết khối [](https://dermnetnz.org/topics/purpura)
+- [Viêm da mủ dưới giác mạc](https://dermnetnz.org/topics/subcorneal-pustular-dermatosis)
+- [Hội chứng ngọt ngào](https://dermnetnz.org/topics/acute-febrile-neutrophilic-dermatosis) .
+
+---
+
+## Chẩn đoán nhiễm trùng M. pneumoniae
+
+Nghi ngờ lâm sàng về nhiễm trùng M. pneumoniae phát sinh ở bệnh nhân mắc bệnh về đường hô hấp và bất kỳ loại phát ban nào, nhưng đặc biệt là phát ban giống ban đỏ đa dạng.
+Xét nghiệm chẩn đoán nhanh nhất là phản ứng chuỗi polymerase ( PCR ) của dịch họng tìm M. pneumoniae , có độ nhạy và độ đặc hiệu là 78–100%.
+Huyết thanh học Mycoplasma (xét nghiệm máu) phát hiện kháng thể IgM và IgG sau 7–10 ngày và 3 tuần tương ứng. Độ nhạy và độ đặc hiệu của xét nghiệm huyết thanh học thấp hơn PCR (50–66%) nhưng có thể tăng lên bằng cách sắp xếp xét nghiệm thứ hai trong giai đoạn hồi phục của bệnh. Xét nghiệm dương tính được xác nhận nếu nồng độ IgG hoặc IgM đơn độc > 1:32 hoặc nồng độ IgG hoặc IgM tăng gấp bốn lần so với ban đầu khi xét nghiệm lại. Nồng độ IgM vẫn tăng trong nhiều tuần, và IgG vẫn tăng trong nhiều tháng sau khi nhiễm mycoplasma.
+Kết quả chụp X-quang ngực trong nhiễm trùng M. pneumoniae không đặc hiệu. Phổ biến nhất là tình trạng đông đặc từng mảng ở một hoặc cả hai phổi. Có thể thấy tràn dịch màng phổi lượng nhỏ (dịch trong niêm mạc phổi) ở 20% trường hợp.
+Kết quả xét nghiệm máu thường quy cũng không đặc hiệu. Tổng số lượng bạch cầu và số lượng bạch cầu biệt hóa có thể nằm trong giới hạn bình thường. Xét nghiệm dấu ấn viêm có thể cho thấy nồng độ CRP và ESR bình thường hoặc tăng cao . Có thể có những bất thường nhẹ, không đặc hiệu trong kết quả xét nghiệm chức năng gan.
+Xét nghiệm công thức máu có thể cho thấy:
+- Tan máu với tình trạng thiếu máu đẳng sắc hồng cầu nhẹ, số lượng hồng cầu lưới tăng và nồng độ haptoglobin giảm và/hoặc xét nghiệm Combs dương tính
+- Agglutinin lạnh, tức là nồng độ kháng thể IgM cao trong máu liên kết với các tế bào hồng cầu ở nhiệt độ thấp hơn cơ thể (21–28 độ)
+- Số lượng tiểu cầu tăng cao (tăng tiểu cầu)
+- Giảm toàn thể tế bào máu (giảm số lượng hồng cầu, bạch cầu và tiểu cầu), nhưng tình trạng này rất hiếm gặp.
+
+---
+
+## Điều trị nhiễm trùng mycoplasma
+
+Nhiễm trùng Mycoplasma thường được điều trị bằng [kháng sinh](https://dermnetnz.org/topics/antibiotics) nhóm macrolide , thường là [erythromycin](https://dermnetnz.org/topics/erythromycin) hoặc roxithromycin. Các loại kháng sinh này làm giảm khả năng lây nhiễm cho người khác và có thể cải thiện các triệu chứng hô hấp cũng như phát ban da kèm theo.
+Clarithromycin và azithromycin đắt hơn và có thể cần được bác sĩ chuyên khoa truyền nhiễm chấp thuận mới được sử dụng ở New Zealand. Chúng cần liều dùng ít thường xuyên hơn erythromycin hoặc roxithromycin và ít có khả năng gây ra tác dụng phụ ở đường tiêu hóa.
+Các lựa chọn thay thế cho bệnh nhân bị dị ứng hoặc không dung nạp được macrolide, hoặc có khả năng tương tác thuốc là [doxycyline](https://dermnetnz.org/topics/tetracycline) hoặc moxifloxacin.
+Không có vắc-xin nào có thể phòng ngừa nhiễm trùng M. pneumoniae .
+
+---
+
+## Điều trị các biểu hiện trên da của nhiễm trùng M. pneumoniae
+
+Phát ban không đặc hiệu do nhiễm trùng mycoplasma có thể được điều trị bằng [thuốc làm mềm](https://dermnetnz.org/topics/emollients-and-moisturisers) da nhẹ để giảm khó chịu.
+[Thuốc kháng histamine](https://dermnetnz.org/topics/antihistamines) đường uống có thể có tác dụng điều trị [bệnh nổi mề đay](https://dermnetnz.org/topics/urticaria-an-overview) .
+Cần tìm lời khuyên chuyên môn nếu có mụn nước hoặc tổn thương niêm mạc . Ở những bệnh nhân bị [hồng ban đa dạng](https://dermnetnz.org/topics/erythema-multiforme) , việc chăm sóc hỗ trợ và theo dõi chặt chẽ là điều cần thiết.
+- Chăm sóc da miệng, mắt và bộ phận sinh dục
+- Cấp nước và chú ý đến nhu cầu dinh dưỡng
+- Tham khảo ý kiến ​​bác sĩ nhãn khoa nếu mắt đỏ hoặc đau hoặc có rối loạn thị giác
+- Việc sử dụng corticosteroid thường quy trong các trường hợp phát ban liên quan đến M. pneumoniae và SJS không được hỗ trợ bởi bằng chứng y tế hiện có
+- Kết quả, đặc biệt là ở trẻ em và thanh thiếu niên khỏe mạnh, thường rất tốt.

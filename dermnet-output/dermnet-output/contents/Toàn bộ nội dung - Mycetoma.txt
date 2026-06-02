@@ -1,0 +1,167 @@
+# Mycetoma — thông tin bổ sung
+
+Thể loại:
+
+Nhiễm trùng
+
+SNOMED CT:
+
+410039003, 187089001, 410038, 95881004
+
+**[Nhiễm trùng](https://dermnetnz.org/topics/topics?category=Infections)**
+
+
+# **Mycetoma**
+
+Tác giả:Cập nhật mới nhất bởi Tiến sĩ Alexis Daniel Lara Rivero, Bác sĩ Da liễu, Bệnh viện Đại học Caracas, Venezuela.Được đánh giá bởi Tiến sĩ Margot Whitfeld, Bác sĩ Da liễu, Sydney, Úc. Tổng biên tập DermNet: Phó Giáo sư Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand.Tháng 12 năm 2017.
+
+---
+
+## U nấm là gì?
+
+U nấm là tình trạng nhiễm trùng mãn tính ở da và mô dưới da . Đôi khi, nó cũng có thể ảnh hưởng đến cơ, xương, gân và khớp.
+Mycetoma được đặc trưng bởi các nốt sần và đường xoang tiết ra chất lỏng dạng nước hoặc mủ chứa các hạt [1].
+Mycetoma được phân loại như sau:
+- Eumycetoma — khi nguyên nhân là do nấm;
+- Bệnh Actinomycetoma—do vi khuẩn dạng sợi thuộc bộ Actinomycetes gây ra .
+![Chân Mycetoma](https://dermnetnz.org/assets/Uploads/mycetoma-foot.jpg)
+![Được phép của Tiến sĩ Sriyani Samaraweera](https://dermnetnz.org/assets/Uploads/Mycetoma-foot-2.jpg)
+![Actinomycetoma do nocardia](https://dermnetnz.org/assets/Uploads/fungal/mycfoot.jpg)
+
+---
+
+## Ai bị bệnh u nấm?
+
+Vi [khuẩn](https://dermnetnz.org/topics/bacterial-skin-infections) và [nấm](https://dermnetnz.org/topics/fungal-skin-infections) gây bệnh mycetoma phân bố rộng rãi trong đất và vật liệu thực vật trên toàn thế giới, nhưng mycetoma chủ yếu được tìm thấy ở các vùng nhiệt đới ở Nam và Đông Nam Á, Mỹ Latinh và Châu Phi. Hầu hết các trường hợp được báo cáo ở "Vành đai mycetoma xuyên châu Phi" từ Tây Phi, bao gồm Senegal và Sierra Leone, đến Đông Phi, bao gồm Somalia và Sudan [2,3].
+Nhiễm trùng thường xảy ra sau chấn thương tại chỗ.
+- Bệnh Eumycetoma chủ yếu ảnh hưởng đến những người đàn ông trung niên làm nghề chăn gia súc hoặc làm nông, đặc biệt là khi đi chân trần.
+- Mycetoma cũng có thể ảnh hưởng đến nam giới và phụ nữ trẻ tuổi.
+- Actinomycetoma cũng có thể liên quan đến nhiễm trùng miệng , răng hoặc bệnh nướu răng.
+Mycetoma không có vật chủ trung gian hoặc động vật chứa bệnh nào được biết đến và không có báo cáo nào về các bệnh nhiễm trùng lây truyền từ người sang người [1,3].
+
+---
+
+## Nguyên nhân gây ra bệnh u nấm là gì?
+
+Có thể nghi ngờ tác nhân gây bệnh thông qua màu sắc của hạt.
+
+### Eumycetoma
+Hạt tối hoặc đen
+- Madurella mycetomatis
+- Trematosphaeria grisea (trước đây là Madurella grisea )
+- Exophiala jeanselmei
+- Medicopsis romeroi (trước đây là Pyrenochaeta romeroi )
+- Falciformispora senegalensis (trước đây là Leptosphaeria senegalensis )
+- Falciformispora thompkinsii
+- Curvularia lunata
+Hạt màu trắng, màu nâu hoặc không có vết bẩn
+- Các loài Acremonium
+- Fusarium spp
+- Neotestudina rosatii
+- Aspergillus nidulans
+- Aspergillus flavus
+- Microsporum ferrugineum
+- Microsporum audouinii
+- Microsporum langeronii
+- Scedosporium apiospermum
+- Scedosporium boydii (trước đây là Pseudallescheria boydii )
+
+### Actinomycetoma
+Hạt màu trắng đến vàng
+- Nocardia brasiliensis
+- *Nocardia otitidiscaviarum (*trước đây là Nocardia caviae)
+- Actinomadura madurae
+- Pleurostomophora ochracea
+Hạt nâu
+- Streptomcyes somaliensis
+Hạt màu đỏ đến hồng
+- Actinomadura pelletieri
+
+---
+
+## Đặc điểm lâm sàng của bệnh u nấm là gì?
+
+Thời gian ủ bệnh sau khi tiêm vi sinh vật cho đến khi chẩn đoán được bệnh u nấm có thể kéo dài từ vài tháng đến vài năm [2].
+Actinomycetoma và eumycetoma có các đặc điểm lâm sàng tương tự nhau. Tuy nhiên, actinomycetoma có xu hướng hung hãn và phá hủy xương hơn, xâm lấn xương sớm hơn.
+- U nấm bắt đầu bằng một khối sưng cục bộ ở vùng da hở; hai phần ba xuất hiện ở bàn chân.
+- Vùng da bị ảnh hưởng có nhiệt độ da bình thường và thường bị tăng sắc tố.
+- Nhiều nốt sần cứng xuất hiện và bắt đầu chảy ra tự nhiên hoặc sau khi ấn.
+- Chất lỏng chảy ra từ đường xoang có thể chứa các hạt dạng hạt đặc trưng .
+- Đau tại chỗ nhẹ hoặc không đau, và chỉ trở nên tồi tệ hơn ở giai đoạn sau với tổn thương mô dưới da nhiều hơn hoặc nhiễm trùng thứ phát do vi khuẩn .
+Mycetoma ít ảnh hưởng đến tình trạng chung của bệnh nhân bị ảnh hưởng và sốt rất hiếm [2].
+![Chân và bàn chân Actinomycetoma](https://dermnetnz.org/assets/Uploads/actinomycetoma-foot-and-legs-v2.jpg)
+
+---
+
+## Biến chứng của bệnh u nấm là gì?
+
+Biến chứng của bệnh u nấm bao gồm:
+- [Nhiễm trùng thứ phát do vi khuẩn](https://dermnetnz.org/topics/wound-infections)
+- Sưng tấy lớn kỳ lạ kèm theo biến dạng
+- Dính khớp và mất chức năng
+- Phù mãn tính
+- Teo chi không sử dụng (giảm kích thước và sức mạnh)
+- Nỗi đau.
+Những điều này có thể được ngăn ngừa bằng cách chẩn đoán sớm và điều trị thích hợp [4].
+
+---
+
+## Bệnh u nấm được chẩn đoán như thế nào?
+
+Người ta nghi ngờ mắc bệnh u nấm khi có bộ ba triệu chứng và dấu hiệu điển hình:
+- Một khối u dưới da chắc không đau
+- Nhiều đường dẫn xoang
+- Dịch mủ hoặc dịch mủ thanh dịch có chứa hạt.
+[Nội soi da](https://dermnetnz.org/topics/dermoscopy) có thể hữu ích trong giai đoạn đầu của bệnh bằng cách phát hiện các hạt trong tổn thương da [5]. Các hạt là tập hợp các hạt nấm hoặc vi khuẩn phân bố theo hướng xuyên tâm (giống như tia nắng mặt trời).
+Mô dùng cho kính hiển vi và nuôi cấy được thu thập bằng cách:
+- Rạch một đường nhỏ và hút dịch tiết ra;
+- Sử dụng kim và ống tiêm để hút dịch.
+Màu sắc của hạt có thể thu hẹp phạm vi tìm kiếm vi khuẩn hoặc nấm gây bệnh. Các hạt được xử lý bằng kali hydroxit (KOH) và sau đó nhuộm bằng thuốc nhuộm Gram và PAS. Trên kính hiển vi:
+- Các hạt xạ khuẩn có sợi rất mịn
+- Các hạt Eumycotic chứa các sợi phân nhánh dày hơn.
+Vì một số là sinh vật phát triển chậm , nên nuôi cấy ở nhiệt độ 25–30°C và 37°C trong tối đa 6 tuần đối với cả vi khuẩn và nấm [1,6]. Khi khó xác định được sinh vật gây bệnh , có thể sử dụng các kỹ thuật phân tử như PCR ( phản ứng chuỗi polymerase ) [2].
+[Sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) có thể cho thấy [các đặc điểm bệnh lý điển hình của u nấm](https://dermnetnz.org/topics/mycetoma-pathology) .
+Chụp ảnh có thể được sử dụng để đánh giá độ sâu của nhiễm trùng [6].
+- Chụp X-quang thường Siêu âm Chụp cắt lớp vi tính ( CT ) Chụp cộng hưởng từ hạt nhân ( MRI ).
+- Chụp X-quang thường Siêu âm Chụp cắt lớp vi tính ( CT ) Chụp cộng hưởng từ hạt nhân ( MRI ).
+- Siêu âm
+- Chụp cắt lớp vi tính ( CT )
+- Chụp cộng hưởng từ hạt nhân ( MRI ).
+![Nhuộm H&E các hạt actinomycosis](https://dermnetnz.org/assets/Uploads/actinomadura-grain-HE.jpg)
+
+---
+
+## Chẩn đoán phân biệt bệnh u nấm là gì?
+
+Bệnh truyền nhiễm
+- [Nhiễm trùng do vi khuẩn](https://dermnetnz.org/topics/bacterial-skin-infections) : [bệnh phong](https://dermnetnz.org/topics/leprosy) , [bệnh lao da](https://dermnetnz.org/topics/cutaneous-tuberculosis) , [nhiễm trùng do vi khuẩn mycobacteria không phải lao](https://dermnetnz.org/topics/atypical-mycobacterial-infection) , [bệnh botryomycosis](https://dermnetnz.org/topics/botryomycosis-pyoderma-vegetans) (vi khuẩn không phải actinomycetic gây nhiễm trùng da có cấu trúc giống hạt), [bệnh giang mai](https://dermnetnz.org/topics/syphilis) , viêm tủy xương
+- [Nhiễm nấm](https://dermnetnz.org/topics/fungal-skin-infections) : [bệnh nấm chromoblastomycosis](https://dermnetnz.org/topics/chromoblastomycosis) , [bệnh nấm sporotrichosis](https://dermnetnz.org/topics/sporotrichosis) và bệnh u giả [nấm da](https://dermnetnz.org/topics/mycology-of-dermatophyte-infections)
+Bệnh không lây nhiễm
+- [Bệnh chân voi](https://dermnetnz.org/topics/podoconiosis) hoặc các dạng bệnh chân rêu khác do [phù bạch huyết](https://dermnetnz.org/topics/lymphoedema)
+- Một số bệnh ung thư: ung thư mô liên kết ở da, mô mềm hoặc xương, [ung thư Kaposi](https://dermnetnz.org/topics/kaposi-sarcoma)
+- [Phản ứng dị vật](https://dermnetnz.org/topics/foreign-body-granuloma)
+
+---
+
+## Phương pháp điều trị bệnh u nấm là gì?
+
+U nấm không thể chữa khỏi nếu không điều trị tích cực. Bệnh cần [dùng kháng sinh](https://dermnetnz.org/topics/antibiotics) (đối với actinomycetoma) hoặc [thuốc kháng nấm đường uống](https://dermnetnz.org/topics/oral-antifungal-medication) (đối với eumycetomas) trong nhiều tuần, nhiều tháng hoặc nhiều năm. Tổn thương mô dưới da (cơ, xương, khớp hoặc gân) thường dai dẳng, do đó có thể cần phẫu thuật tại chỗ (bao gồm cắt cụt chi) và vật lý trị liệu [1,2].
+Actinomycetoma (đơn lẻ hoặc kết hợp)
+- Trimethoprim + sulphamethoxazole
+- Amoxicillin + axit clavulanic
+- Amikacin hoặc gentamicin
+- [Doxycycline hoặc minocycline](https://dermnetnz.org/topics/tetracycline)
+- [Penicillin](https://dermnetnz.org/topics/penicillin)
+- [Dapsone](https://dermnetnz.org/topics/dapsone)
+- Streptomycin
+- [Rifampicin](https://dermnetnz.org/topics/rifampicin)
+Eumycetoma (thường chỉ dùng một loại)
+- [Ketoconazole](https://dermnetnz.org/topics/ketoconazole)
+- [Itraconazole](https://dermnetnz.org/topics/itraconazole)
+- [Terbinafine](https://dermnetnz.org/topics/terbinafine)
+
+---
+
+## Kết quả của bệnh u nấm là gì?
+
+Mặc dù cần điều trị kéo dài, tiên lượng thường tốt nếu được điều trị đúng cách. Nhiễm trùng càng kéo dài trước khi điều trị thì khả năng xảy ra biến chứng và tàn tật càng cao [4].

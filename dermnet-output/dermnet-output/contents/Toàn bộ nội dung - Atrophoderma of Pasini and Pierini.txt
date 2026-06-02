@@ -1,0 +1,110 @@
+# Atrophoderma của Pasini và Pierini – thông tin bổ sung
+
+Thể loại:
+
+Tổn thương (lành tính)
+
+SNOMED CT:
+
+43398005, 711524008, 400190005
+
+**[Tổn thương (lành tính)](https://dermnetnz.org/topics/topics?category=Lesions+(benign))**
+
+
+# **Atrophoderma của Pasini và Pierini**
+
+Tác giả: Tiến sĩ Karen Koch, Bác sĩ Da liễu Tư vấn, Đại học Wits, Trung tâm Y tế Donald Gordon, Johannesburg, Nam Phi, tháng 11 năm 2017; Bản cập nhật DermNet. Biên tập bởi Gus Mitchell. Tháng 6 năm 2021
+
+---
+
+## Bệnh teo da Pasini và Pierini là gì?
+
+Teo da Pasini và Pierini là một dạng teo da hiếm gặp , đặc trưng bởi các vùng lõm nhẹ không có triệu chứng với mép hình "vách đá" rõ ràng .
+![Không có caption](https://dermnetnz.org/assets/Uploads/atrophoderma-pierini-pasini-1.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/atrophoderma-pierini-pasini-2.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/atrophoderma-pierini-pasini-3.jpg)
+
+---
+
+## Ai mắc bệnh teo da Pasini và Pierini?
+
+Bệnh teo da ở Pasini và Pierini rất hiếm khi được báo cáo, chỉ có khoảng 100 trường hợp được ghi nhận trong tài liệu y khoa.
+Teo da Pasini và Pierini thường xuất hiện lần đầu ở tuổi vị thành niên hoặc đầu tuổi trưởng thành (thập niên thứ hai và thứ ba). Khởi phát ở trẻ sơ sinh, trẻ em và cuối tuổi trưởng thành đã được báo cáo, cũng như biểu hiện bẩm sinh .
+Tỷ lệ nữ giới mắc bệnh cao (2-6:1) và hầu hết các báo cáo đều ở người da trắng. Các trường hợp có tính chất gia đình đã được mô tả.
+
+### Bệnh teo da Pierini và Pasini ở trẻ sơ sinh*
+![Em bé 10 tháng tuổi](https://dermnetnz.org/assets/Uploads/APP10months.jpg)
+![Em bé 20 tháng tuổi](https://dermnetnz.org/assets/Uploads/APP20months.jpg)
+![Các mạch máu dưới da có thể nhìn thấy](https://dermnetnz.org/assets/Uploads/APP-visible-vv.jpg)
+*Hai hình ảnh đầu tiên được sao chép với sự cho phép của John Wiley and Sons. Liu S. Oliver F, Agnew K. Một dạng phát ban bất thường ở trẻ sơ sinh. Clin Exp Dermatol. 2018;43:835–8. doi:10.1111/ced.13541
+
+---
+
+## Nguyên nhân gây bệnh teo da Pasini và Pierini?
+
+Teo da ở Pasini và Pierini thường được coi là một biến thể của [morphoea](https://dermnetnz.org/topics/morphoea) ( [xơ cứng bì](https://dermnetnz.org/topics/scleroderma) khu trú ) do các đặc điểm lâm sàng và mô học chồng chéo và trong một số trường hợp có liên quan đến morphoea điển hình. [](https://dermnetnz.org/topics/scleroderma)
+Một nhóm bệnh nhân bị teo da Pasini và Pierini có kháng thể chống lại Borrelia burgdorferi và việc điều trị bằng doxycycline đã được báo cáo là cải thiện các tổn thương da trong một số trường hợp có kháng thể IgM .
+
+---
+
+## Đặc điểm lâm sàng của bệnh teo da Pasini và Pierini là gì?
+
+- Các vùng lõm không có triệu chứng thường thấy ở thân mình, đặc biệt là phần lưng dưới
+- Tổn thương có thể đơn độc hoặc nhiều, hình bầu dục hoặc tròn, đường kính 1–2 cm (có thể lên tới 15 cm), sâu 1–8 mm
+- Được mô tả là có hình dạng giống như 'dấu chân trên tuyết', giống như pho mát Thụy Sĩ hoặc giống như 'bị bướm đêm ăn'
+- Không có dấu hiệu viêm nhiễm trước đó
+- Mẫu tổn thương có thể là đơn phương , song phương và đối xứng , tuyến tính , hình zona hoặc hình Blaschkoid [xem [đường Blaschko](https://dermnetnz.org/topics/blaschko-lines) ]
+- Da bên trên có thể bị tăng sắc tố , giảm sắc tố hoặc có màu bình thường
+- Bề mặt da không nhăn nheo và không sờ thấy được tình trạng cứng
+- Cạnh 'vách đá' phân định rõ ràng tổn thương với vùng da bình thường xung quanh — tốt nhất nên quan sát bằng ánh sáng từ một góc
+![Tổn thương tăng sắc tố](https://dermnetnz.org/assets/Uploads/atrophoderma-pierini-pasini-05.jpg)
+![mép vực thẳm](https://dermnetnz.org/assets/Uploads/atrophoderma-pierini-pasini-04.jpg)
+
+### Nội soi da teo da Pasini và Pierini
+- Mạng lưới sắc tố nổi bật — hoa văn lượn sóng, phân bố không đều
+- Các vùng trắng quanh nang lông đều đặn
+- Giữ lại lông
+
+---
+
+## Các đặc điểm lâm sàng khác nhau ở các loại da khác nhau như thế nào?
+
+Các tổn thương teo da ở Pasini và Pierini thường được mô tả là tăng sắc tố, nhưng ở da cùng màu, các tổn thương thường giảm sắc tố hoặc cùng màu da.
+
+---
+
+## Biến chứng của bệnh teo da Pasini và Pierini là gì?
+
+Teo da Pasini và Pierini có thể liên quan đến bệnh xơ cứng bì toàn thân (morphoea) hoặc [xơ cứng bì hệ thống](https://dermnetnz.org/topics/systemic-sclerosis) . Những thay đổi xơ cứng bì, được phát hiện lâm sàng dưới dạng các vùng cứng, có thể phát triển trong các vùng teo da đã có từ trước với mô học giống với bệnh xơ cứng bì toàn thân.
+
+---
+
+## Bệnh teo da ở Pasini và Pierini được chẩn đoán như thế nào?
+
+Teo da ở Pasini và Pierini cần được xem xét dựa trên tiền sử và các triệu chứng lâm sàng. Teo da có thể được phát hiện trên siêu âm. Ở những vùng lưu hành bệnh , nên xét nghiệm huyết thanh tìm B. burgdorferi .
+Nếu cần phải [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) , cần lấy một phần sâu ở ranh giới để bao gồm cả da bị ảnh hưởng và không bị ảnh hưởng xuống lớp dưới da vì những thay đổi về mô học rất khó phát hiện:
+- Biểu bì bình thường với tăng sắc tố lớp đáy
+- Teo da
+- Sợi collagen và sợi đàn hồi bình thường
+- Thâm nhiễm lympho bào quanh mạch máu
+- Không có hoặc có tình trạng xơ cứng bì sâu nhẹ.
+
+---
+
+## Chẩn đoán phân biệt bệnh teo da Pasini và Pierini là gì?
+
+- [Anetoderma](https://dermnetnz.org/topics/anetoderma)
+- [Morphoea](https://dermnetnz.org/topics/morphoea) , đặc biệt là teo da tuyến tính của Moulin
+- [Tăng sắc tố sau viêm](https://dermnetnz.org/topics/postinflammatory-hyperpigmentation)
+
+---
+
+## Phương pháp điều trị bệnh teo da ở Pasini và Pierini là gì?
+
+Hiện chưa có phương pháp điều trị nào được công nhận cho bệnh teo da Pasini và Pierini. Các trường hợp liên quan đến kháng thể B. burgdorferi có thể cải thiện bằng doxycycline. [Hydroxychloroquine](https://dermnetnz.org/topics/hydroxychloroquine) và [methotrexate](https://dermnetnz.org/topics/methotrexate) đã được báo cáo là có hiệu quả đồng thời trong một số trường hợp hiếm gặp có các rối loạn đi kèm như [lupus ban đỏ](https://dermnetnz.org/topics/cutaneous-lupus-erythematosus) hoặc [vẩy nến](https://dermnetnz.org/topics/psoriasis) . Điều trị bằng [laser Alexandrite](https://dermnetnz.org/topics/alexandrite-laser-treatment) Q-switched (bước sóng 755nm) có thể giúp làm mờ tình trạng tăng sắc tố. [](https://dermnetnz.org/topics/alexandrite-laser-treatment)
+
+---
+
+## Kết quả của bệnh teo da ở Pasini và Pierini là gì?
+
+Teo da Pasini và Pierini có thể không thay đổi hoặc tiến triển chậm qua nhiều năm, kích thước và số lượng tổn thương tăng dần, có thể hợp nhất lại. Cuối cùng, tình trạng thường ổn định. Đặc điểm của tổn thương là không thoái triển, nhưng đã có báo cáo về sự cải thiện tự nhiên.

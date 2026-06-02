@@ -1,0 +1,67 @@
+# Giãn mạch bạch huyết mắc phải — thông tin bổ sung
+
+Thể loại:
+
+Tổn thương (lành tính)
+
+SNOMED CT:
+
+402829008
+
+**[Tổn thương (lành tính)](https://dermnetnz.org/topics/topics?category=Lesions+(benign))**
+
+
+# **Giãn mạch bạch huyết mắc phải**
+
+Tác giả: Tiến sĩ Amanda Oakley, Da liễu, Hamilton, New Zealand, 2011.
+
+---
+
+## Giãn mạch bạch huyết là gì?
+
+Giãn mạch bạch huyết, còn gọi là giãn mạch bạch huyết, là tình trạng các mạch bạch huyết bị sưng . Tình trạng này có thể do bẩm sinh hoặc mắc phải.
+- [Dị tật bạch huyết bẩm sinh](https://dermnetnz.org/topics/lymphatic-malformation) đôi khi được gọi là u mạch bạch huyết.
+- Bệnh giãn mạch bạch huyết mắc phải xảy ra sau khi các tuyến bạch huyết bị tắc nghẽn hoặc bị tổn thương.
+
+---
+
+## Nguyên nhân nào gây ra chứng giãn mạch bạch huyết mắc phải?
+
+Bệnh giãn mạch bạch huyết mắc phải có thể liên quan đến:
+- Chấn thương làm gián đoạn dẫn lưu bạch huyết
+- Phẫu tích hạch bạch huyết
+- Cắt bỏ tuyến bạch huyết do ung thư
+- Sự phá hủy các tuyến bạch huyết do ung thư.
+
+---
+
+## Bệnh giãn mạch bạch huyết mắc phải trông như thế nào?
+
+Giãn mạch bạch huyết mắc phải biểu hiện bằng các sẩn trong suốt hoặc xuất huyết, thường được mô tả giống như trứng ếch. Các nốt nhỏ này có xu hướng rỉ ra dịch trong suốt hoặc trắng đục sau chấn thương nhẹ.
+Giãn mạch bạch huyết có thể ảnh hưởng đến các vị trí sau:
+- Nách sau phẫu thuật cắt bỏ vú toàn bộ
+- Đùi sau khi cắt bỏ hạch bạch huyết để điều trị ung thư
+- Âm hộ sau phẫu thuật hoặc xạ trị ung thư cổ tử cung
+- Dương vật và bìu sau khi cắt bỏ khối u ở gốc cột sống
+![Giãn mạch bạch huyết mắc phải](https://dermnetnz.org/assets/Uploads/doctors/lesions/images/lymphangiectasia1.jpg)
+![Viêm mạch bạch huyết thứ phát](https://dermnetnz.org/assets/Uploads/vascular/w/lymphangiectasia5.jpg)
+![Quan sát da liễu](https://dermnetnz.org/assets/Uploads/vascular/w/lymphangiectasia6.jpg)
+
+---
+
+## Bệnh giãn mạch bạch huyết mắc phải có thể gây ra những vấn đề gì?
+
+Giãn mạch bạch huyết mắc phải có thể gây đau. Hệ thống bạch huyết kém dẫn lưu có thể dẫn đến nhiễm trùng do vi khuẩn ( [viêm mô tế bào](https://dermnetnz.org/topics/cellulitis) ). [](https://dermnetnz.org/topics/cellulitis)
+
+---
+
+## Có cần phải làm xét nghiệm nào không?
+
+Trong hầu hết các trường hợp, tiền sử và kết quả khám lâm sàng sẽ đủ để giải thích các tổn thương. Có thể cần [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) để xác nhận sự hiện diện của các mạch bạch huyết thành mỏng .
+Có thể cần phải chụp ảnh và các xét nghiệm khác để xác định xem có rò rỉ hoặc tắc nghẽn ở hệ thống bạch huyết hay không.
+
+---
+
+## Có những phương pháp điều trị nào?
+
+U mạch bạch huyết mắc phải có thể khó điều trị. Vùng bị ảnh hưởng phải được giữ sạch sẽ để giảm nguy cơ nhiễm trùng. Băng ép có thể hữu ích để giảm sưng do phù bạch huyết. Đôi khi, có thể thử [phẫu thuật điện](https://dermnetnz.org/topics/electrosurgery) , [liệu pháp laser](https://dermnetnz.org/topics/lasers-in-dermatology) , [liệu pháp xơ hóa](https://dermnetnz.org/topics/sclerotherapy) , [liệu pháp lạnh](https://dermnetnz.org/topics/cryotherapy) hoặc phẫu thuật [cắt bỏ](https://dermnetnz.org/topics/excision-of-skin-lesions) .

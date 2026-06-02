@@ -1,0 +1,73 @@
+# Nhiễm trùng bạch huyết da do Sporotrichoid — thông tin bổ sung
+
+Thể loại:
+
+Nhiễm trùng
+
+SNOMED CT:
+
+87603003, 7066000, 78973009
+
+**[Nhiễm trùng](https://dermnetnz.org/topics/topics?category=Infections)**
+
+
+# **Nhiễm trùng bạch huyết da do Sporotrichoid**
+
+Tác giả: Phó giáo sư Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand, 2013.
+
+---
+
+## Nhiễm trùng bạch huyết da do sporotrichoid là gì?
+
+Nhiễm trùng da lympho dạng Sporotrichoid đặc trưng bởi sự xuất hiện của các nốt dưới da tiến triển dọc theo các mạch máu ở da và bạch huyết . Tình trạng này còn được gọi là viêm mạch bạch huyết dạng nốt .
+Biểu hiện lâm sàng thường được mô tả là sự lây lan của nấm sporotrichoid. Tên gọi 'sporotrichoid' xuất phát từ bệnh nhiễm trùng phổ biến nhất là [bệnh nấm sporotrichosis](https://dermnetnz.org/topics/sporotrichosis) .
+![Nhiễm nấm sâu](https://dermnetnz.org/assets/Uploads/sporotrichoid-deep-fungal-infection.jpg)
+![Nocardia](https://dermnetnz.org/assets/Uploads/sporotrichoid-spread-01.jpg)
+![Nocardia](https://dermnetnz.org/assets/Uploads/sporotrichoid-spread-02.jpg)
+
+---
+
+## Sự lây lan của nấm sporotrichoid trông như thế nào?
+
+Sự lan rộng dạng Sporotrichoid chủ yếu được quan sát thấy ở chi trên. Tổn thương đầu tiên bắt đầu ở xa, ví dụ, trên bàn tay, cổ tay hoặc cẳng tay. Các tổn thương tiếp theo xuất hiện ở gần, tức là xa hơn trên cánh tay, theo phân bố không đều, gần như tuyến tính .
+Mỗi tổn thương là một nốt sưng, không đều, chắc , có thể mưng mủ hoặc loét.
+
+---
+
+## Nguyên nhân gây nhiễm trùng bạch huyết da do sporotrichoid là gì?
+
+Nhiễm trùng da lympho dạng Sporotrichoid thường là do nhiễm trùng không phổ biến lây truyền qua đường tiêm chủng ban đầu thông qua vết thương nhỏ hoặc [vết côn trùng cắn](https://dermnetnz.org/topics/arthropod-bites-and-stings) : [](https://dermnetnz.org/topics/arthropod-bites-and-stings)
+- [Sporothrix schenckii](https://dermnetnz.org/topics/sporotrichosis)
+- [Mycobacteria marinarum](https://dermnetnz.org/topics/atypical-mycobacterial-infection)
+- [Leishmania brasiliensis](https://dermnetnz.org/topics/leishmaniasis) .
+Bệnh này cũng được mô tả với các bệnh nhiễm trùng sau đây.
+- Nhiễm nấm: [bệnh nấm coccidioidomycosis](https://dermnetnz.org/topics/coccidioidomycosis) , [bệnh nấm cryptococcus](https://dermnetnz.org/topics/cryptococcosis) , [bệnh nấm blastomycosis](https://dermnetnz.org/topics/blastomycosis) , [bệnh nấm histoplasma](https://dermnetnz.org/topics/histoplasmosis) , bệnh nấm Pseudallescheria boydii , bệnh nhiễm nấm Paecilomyces
+- Nhiễm trùng do vi khuẩn : bệnh than, [Pseudomonas](https://dermnetnz.org/topics/pseudomonas-skin-infections) pseudomallei, [bệnh](https://dermnetnz.org/topics/leprosy) phong thể u , bệnh lupus thông thường ( [lao da](https://dermnetnz.org/topics/cutaneous-tuberculosis) ), Nocardia brasiliensis và N asteroides , Pasteurella tularensis
+- Nhiễm trùng do virus: Virus [đậu bò .](https://dermnetnz.org/topics/cowpox)
+Mặc dù [Staphylococcus aureus](https://dermnetnz.org/topics/staphylococcal-skin-infection) và [Streptococcus pyogenes](https://dermnetnz.org/topics/streptococcal-skin-infections) là nguyên nhân rất phổ biến gây [nhiễm trùng da do vi khuẩn](https://dermnetnz.org/topics/bacterial-skin-infections) , nhưng chúng hiếm khi dẫn đến nhiễm trùng bạch huyết da do sporotrichoid.
+
+---
+
+## Chẩn đoán nhiễm trùng bạch huyết da do sporotrichoid được thực hiện như thế nào?
+
+Chẩn đoán chính xác đòi hỏi phải xác định được tác nhân gây bệnh. Việc này có thể được thực hiện bằng cách:
+- [Kính hiển vi và nuôi cấy vi khuẩn](https://dermnetnz.org/topics/laboratory-tests-for-bacterial-infections)
+- [Xét nghiệm nấm và nuôi cấy nấm](https://dermnetnz.org/topics/laboratory-tests-for-fungal-infection) [](https://dermnetnz.org/topics/laboratory-tests-for-bacterial-infections)
+- [Sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) để [xét nghiệm mô bệnh học](https://dermnetnz.org/topics/dermatopathology) (sẽ cho thấy sự hình thành các khối u hạt và [áp xe](https://dermnetnz.org/topics/cutaneous-abscess) ) và nhuộm đặc biệt để xác định vị trí và nhận dạng các vi sinh vật.
+
+---
+
+## Nhiễm trùng da lympho do sporotrichoid được điều trị như thế nào?
+
+Việc điều trị phụ thuộc vào nguyên nhân, vì vậy việc xác định tác nhân gây bệnh trước khi bắt đầu liệu trình dùng [kháng sinh](https://dermnetnz.org/topics/antibiotics) hoặc [thuốc chống nấm đường uống](https://dermnetnz.org/topics/oral-antifungal-medication) là rất quan trọng . Ví dụ:
+- [Bệnh nấm Sporotrichosis](https://dermnetnz.org/topics/sporotrichosis) có thể được điều trị bằng [itraconazole](https://dermnetnz.org/topics/itraconazole) hoặc kali iodide
+- Nocardia có thể được điều trị bằng trimethoprim + sulphamethoxazole hoặc [minocycline](https://dermnetnz.org/topics/tetracycline)
+- [Nhiễm trùng mycobacteria không điển hình](https://dermnetnz.org/topics/atypical-mycobacterial-infection) có thể được điều trị bằng [rifampicin](https://dermnetnz.org/topics/rifampicin) hoặc [minocycline](https://dermnetnz.org/topics/tetracycline)
+- [Bệnh Leishmania](https://dermnetnz.org/topics/leishmaniasis) có thể được điều trị bằng stibogluconate hoặc amphotericin.
+
+---
+
+## Các tình trạng khác có sự lây lan của sporotrichoid
+
+Các tổn thương của [bệnh sarcoidosis da](https://dermnetnz.org/topics/sarcoidosis) đôi khi cũng được ghi nhận là có sự lan rộng của nấm sporotrichoid.
+[Di căn](https://dermnetnz.org/topics/skin-metastasis) trong quá trình vận chuyển đôi khi được xem xét trong chẩn đoán phân biệt nhiễm trùng bạch huyết, trong đó khối u thứ phát – thường là [u ác tính](https://dermnetnz.org/topics/melanoma) – xuất hiện ở da giữa vị trí cắt bỏ u ác tính nguyên phát và hạch bạch huyết gần nhất .

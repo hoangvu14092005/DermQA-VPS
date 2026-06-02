@@ -1,0 +1,90 @@
+# Bệnh Still khởi phát ở người lớn — thông tin bổ sung
+
+Thể loại:
+
+Bệnh hệ thống
+
+SNOMED CT:
+
+239920006
+
+**[Bệnh hệ thống](https://dermnetnz.org/topics/topics?category=Systemic+diseases)**
+
+
+# **Bệnh Still khởi phát ở người lớn**
+
+Tác giả: Vanessa Ngan, Biên tập viên, 2006. Cập nhật bởi Hon A/Prof Amanda Oakley, Bác sĩ da liễu, Hamilton, tháng 9 năm 2015.
+
+---
+
+## Bệnh Still khởi phát ở người lớn là gì?
+
+Bệnh Still khởi phát ở người lớn (AOSD) là một rối loạn thấp khớp , đặc trưng bởi:
+- Viêm khớp (đau và sưng khớp)
+- Sốt cao đột ngột một hoặc hai lần mỗi ngày
+- Phát ban da màu hồng .
+Các triệu chứng toàn thân khác bao gồm:
+- Đau họng
+- Tuyến bạch huyết ở cổ sưng to
+- Đau cơ
+- Gan và lách to
+- Viêm phổi và tim.
+Bệnh Still được đặt theo tên của một bác sĩ người Anh, George Still (1861–1941). Dạng bệnh ở trẻ em hiện nay được gọi là viêm khớp tự phát thiếu niên khởi phát toàn thân (SOJIA).
+![Bệnh Still khởi phát ở người lớn](https://dermnetnz.org/assets/Uploads/immune/stills.jpg)
+![Bệnh Still khởi phát ở người lớn](https://dermnetnz.org/assets/Uploads/adult-onset-still-disease-4.jpg)
+![Bệnh Still khởi phát ở người lớn](https://dermnetnz.org/assets/Uploads/adult-onset-still-disease-5.jpg)
+
+---
+
+## Ai mắc bệnh Still ở người lớn?
+
+Bệnh Still khởi phát ở người lớn rất hiếm gặp, với tỷ lệ mắc bệnh dưới 1/100.000 người. Bệnh thường bắt đầu ở độ tuổi từ 16 đến 35.
+
+---
+
+## Nguyên nhân gây ra bệnh Still ở người lớn là gì?
+
+Nguyên nhân chính xác gây ra bệnh Still ở người lớn vẫn chưa được biết rõ. Một giả thuyết cho rằng bệnh này là do nhiễm trùng. Một giả thuyết khác cho rằng bệnh Still là một [rối loạn](https://dermnetnz.org/topics/autoimmune-diseases-in-dermatology) tự miễn hoặc quá mẫn cảm (khi hệ miễn dịch của cơ thể, vốn thường chống lại nhiễm trùng hoặc bệnh tật, đột nhiên tấn công các tế bào và mô của cơ thể, vốn được cho là có chức năng bảo vệ).
+
+---
+
+## Những dấu hiệu và triệu chứng của bệnh Still khởi phát ở người lớn là gì?
+
+Sốt cao từng cơn xảy ra ở tất cả bệnh nhân. Nhiệt độ có thể lên tới 39 hoặc 40°C trước khi nhanh chóng trở lại mức bình thường. Những cơn sốt này thường xảy ra gần như cùng một thời điểm mỗi ngày và có thể kèm theo cảm giác mệt mỏi tột độ.
+Phát ban da xuất hiện ở khoảng 95% bệnh nhân. Đặc điểm của phát ban là:
+- Phát ban xuất hiện rồi biến mất cùng với sốt
+- Các đốm hoặc mảng nhỏ, không ngứa có đường kính lên tới 5cm
+- Màu hồng cá hồi
+- Thường xuất hiện ở chân tay và thân mình, nhưng có thể xuất hiện ở mặt hoặc cổ.
+Các triệu chứng toàn thân khác bao gồm:
+- Sưng hạch bạch huyết và/hoặc lách/gan to ở 85% bệnh nhân
+- Đau cơ kèm theo sốt
+- Viêm phổi (viêm màng phổi) và/hoặc viêm tim xung quanh ( viêm màng ngoài tim ) ở 60% bệnh nhân
+- Tăng đáng kể số lượng tế bào bạch cầu
+- Thiếu máu nặng
+- Đau bụng
+Trong nhiều trường hợp, phát ban da và sốt có thể xuất hiện từng đợt trong nhiều tháng, thậm chí nhiều năm trước khi đau khớp và sưng khớp xuất hiện. Tất cả bệnh nhân mắc bệnh Still khởi phát ở người lớn cuối cùng đều bị viêm khớp mãn tính dai dẳng ngay cả khi đã hết sốt và các triệu chứng toàn thân. Cứng khớp, sưng và đau thường ảnh hưởng đến nhiều khớp, nhưng đặc biệt là cổ tay có thể bị biến dạng nghiêm trọng.
+
+---
+
+## Chẩn đoán bệnh Still khởi phát ở người lớn được thực hiện như thế nào?
+
+Chẩn đoán bệnh Still khởi phát ở người lớn được thực hiện dựa trên sự hiện diện của bộ ba triệu chứng: viêm khớp, sốt và phát ban, cùng các triệu chứng khác được mô tả ở trên. Chẩn đoán được hỗ trợ bởi các xét nghiệm trong phòng thí nghiệm:
+- Thiếu máu ở 50%
+- Số lượng bạch cầu trung tính tăng cao ở 85%
+- Yếu tố dạng thấp âm tính.
+
+---
+
+## Phương pháp điều trị bệnh Still ở người lớn là gì?
+
+Không có cách chữa khỏi bệnh Still khởi phát ở người lớn. Mục tiêu chính của điều trị là giảm viêm khớp và tránh biến dạng. Liệu pháp có thể bao gồm cả can thiệp nội khoa và phẫu thuật. Ngoài ra, bệnh nhân và gia đình cần hiểu rõ bản chất của bệnh và cách sống chung với nó suốt đời.
+Liệu pháp dùng thuốc để kiểm soát nhiều triệu chứng của bệnh Still bao gồm:
+- Aspirin
+- Thuốc chống viêm không steroid như ibuprofen, naproxen và indomethacin
+- [Corticosteroid](https://dermnetnz.org/topics/systemic-steroids) (ví dụ prednisone), [hydroxychloroquine](https://dermnetnz.org/topics/hydroxychloroquine) , [methotrexate](https://dermnetnz.org/topics/methotrexate) , [vàng](https://dermnetnz.org/topics/gold) , [azathioprine](https://dermnetnz.org/topics/azathioprine-and-mercaptopurine) có thể được sử dụng cho các triệu chứng nghiêm trọng hơn
+- [Các chất sinh học](https://dermnetnz.org/topics/biological-agents-for-psoriasis) như [anakinra](https://dermnetnz.org/topics/anakinra) và liệu pháp chống yếu tố hoại tử khối u ( [adalimumab](https://dermnetnz.org/topics/adalimumab-for-psoriasis) , [etanercept](https://dermnetnz.org/topics/etanercept-for-psoriasis) , [infliximab](https://dermnetnz.org/topics/infliximab-for-psoriasis) ) và tocilizumab ( thuốc đối kháng thụ thể interleukin -6 ).
+Liệu pháp không dùng thuốc bao gồm vật lý trị liệu, thủy trị liệu và nghỉ ngơi đơn giản. Bệnh nhân mắc bệnh Still sẽ trải qua những ngày "tốt" và "xấu". Số ngày "xấu", tức là các đợt bùng phát hoặc đợt cấp của bệnh, có thể được kiểm soát hoặc giảm bớt bằng cách lên kế hoạch cẩn thận cho các hoạt động và thời gian nghỉ ngơi. Nghiên cứu đã chỉ ra rằng căng thẳng về thể chất và tinh thần có thể làm trầm trọng thêm các triệu chứng của bệnh Still.
+
+### Anakinra
+Có một số báo cáo giai thoại trong y văn về việc điều trị thành công bệnh Still khởi phát ở người lớn bằng [anakinra](https://dermnetnz.org/topics/anakinra) . Kết quả của nghiên cứu mở đầu tiên, so sánh, đa trung tâm, kéo dài 24 tuần trên 22 bệnh nhân được phân ngẫu nhiên dùng anakinra (n=12) hoặc thuốc chống thấp khớp điều trị bệnh (n=10) đã chỉ ra rằng anakinra tạo ra đáp ứng nhanh và bền vững hơn đáng kể.

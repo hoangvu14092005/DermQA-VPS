@@ -1,0 +1,154 @@
+# Bệnh sởi — thông tin bổ sung
+
+Thể loại:
+
+Nhiễm trùng, phát ban
+
+SNOMED CT:
+
+14189004, 52584002, 396427003, 424306000, 271667004, 192685000
+
+**[Nhiễm trùng, phát ban](https://dermnetnz.org/topics/topics?category=Infections)**
+
+
+# **Bệnh sởi**
+
+Tác giả: Tiến sĩ Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand, 2002. Cập nhật bởi Tiến sĩ Jannet Gomez, tháng 10 năm 2016. Cập nhật tháng 10 năm 2020
+
+---
+
+## Bệnh sởi là gì?
+
+[Bạn đã được xác nhận mắc bệnh sởi chưa? Hãy gửi ảnh của bạn cho DermNet.](https://dermnetnz.org/contact-us/submit-a-photo)
+Bệnh sởi, còn được gọi là bệnh sởi Anh, rubeola hoặc morbilli, là một bệnh nhiễm trùng do virus có khả năng lây lan cao gây sốt và phát ban.
+Bệnh sởi là một căn bệnh phải khai báo.
+![Điểm Koplik Ngày 1](https://dermnetnz.org/assets/Uploads/viral/measles01.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/viral/measles03.jpg)
+![Ngày phát ban thứ 3](https://dermnetnz.org/assets/Uploads/viral/measles08.jpg)
+[Xem thêm hình ảnh về bệnh sởi](https://dermnetnz-org.translate.goog/topics/measles-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp) .
+
+---
+
+## Nguyên nhân gây ra bệnh sởi là gì?
+
+Bệnh sởi do virus sởi gây ra, thuộc họ morbillivirus.
+
+---
+
+## Bệnh sởi phổ biến như thế nào?
+
+Trước khi vắc-xin phòng sởi được triển khai rộng rãi ở các nước công nghiệp, sởi là một bệnh rất phổ biến ở trẻ em với tỷ lệ tử vong cao. Ngày nay, ở những quốc gia có chương trình tiêm chủng mở rộng, nguy cơ phơi nhiễm và tỷ lệ mắc bệnh thực tế thấp. Xu hướng gần đây của một số phụ huynh không tiêm chủng cho con em mình đã dẫn đến sự gia tăng số ca mắc sởi và các biến chứng của bệnh.
+Ở các nước đang phát triển , bệnh sởi vẫn thường xuyên xảy ra và có tỷ lệ biến chứng và tử vong cao. Đây vẫn là một căn bệnh phổ biến ngay cả ở một số nước phát triển ở châu Âu và châu Á.
+WHO báo cáo số ca mắc sởi tăng vọt trên toàn thế giới vào năm 2018, với gần 10 triệu ca mắc và hơn 140.000 ca tử vong, chủ yếu ở trẻ em dưới 5 tuổi. Tỷ lệ mắc bệnh cao nhất là ở Ukraine, Somalia, Cộng hòa Dân chủ Congo, Liberia và Madagascar. Hoa Kỳ báo cáo tỷ lệ nhiễm trùng cao nhất trong 25 năm qua, và bốn quốc gia ở châu Âu đã mất vị thế "đã loại trừ bệnh sởi".
+
+---
+
+## Bạn bị bệnh sởi bằng cách nào?
+
+Bệnh sởi có khả năng lây lan rất cao và dễ dàng lây từ người sang người thông qua việc hít phải các giọt hô hấp trong không khí từ người bị nhiễm bệnh khi ho hoặc hắt hơi.
+Người bị nhiễm bệnh có khả năng lây nhiễm 2 ngày trước khi xuất hiện bất kỳ triệu chứng nào và vẫn có khả năng lây nhiễm trong ít nhất 5 ngày sau khi phát ban.
+Nhiễm trùng sởi cấp tính hầu như luôn mang lại khả năng miễn dịch suốt đời.
+
+---
+
+## Ai có nguy cơ mắc bệnh sởi?
+
+Những cá nhân có nguy cơ mắc bệnh sởi đặc biệt bao gồm:
+- Trẻ sơ sinh bị mất khả năng miễn dịch thụ động từ mẹ (có được từ mẹ thông qua việc truyền kháng thể qua nhau thai) và trước khi tiêm chủng lần đầu
+- Những du khách chưa tiêm phòng đến những khu vực có bệnh sởi lưu hành
+- Những người bị [suy giảm miễn dịch](https://dermnetnz.org/topics/immunodeficiency) (ví dụ, do nhiễm [HIV/AIDS](https://dermnetnz.org/topics/skin-conditions-relating-to-hiv-infection) , bệnh bạch cầu , ung thư , [liệu pháp corticosteroid](https://dermnetnz.org/topics/systemic-steroids) ), bất kể tình trạng tiêm chủng của họ
+- Người di cư và người tị nạn.
+Nguy cơ mắc bệnh sởi nặng và các biến chứng của nó cao nhất được ghi nhận ở:
+- Những người bị suy dinh dưỡng (đặc biệt là trẻ em thiếu vitamin A)
+- Những người có tình trạng suy giảm miễn dịch tiềm ẩn
+- Phụ nữ mang thai.
+
+---
+
+## Dấu hiệu và triệu chứng của bệnh sởi là gì?
+
+Bệnh sởi phát triển qua nhiều giai đoạn lâm sàng khác nhau.
+
+#### Thời gian ủ bệnh
+- Thời gian dao động từ 7–14 ngày (trung bình 10–11 ngày).
+- Bệnh nhân thường không có triệu chứng.
+- Một số người có thể gặp các triệu chứng lây lan virus ban đầu (sốt, phát ban và các triệu chứng về hô hấp do virus trong máu) trong vòng 2–3 ngày sau khi tiếp xúc.
+
+#### Tiền triệu
+- Thông thường bắt đầu sau 10–12 ngày kể từ khi tiếp xúc.
+- Biểu hiện là sốt, khó chịu và chán ăn, sau đó là viêm kết mạc (mắt đỏ), ho và sổ mũi (nghẹt mũi hoặc chảy nước mũi).
+- 2–3 ngày sau giai đoạn tiền triệu , các đốm Koplik xuất hiện. Đây là những đốm trắng xanh ở bên trong miệng, đối diện với răng hàm, và xuất hiện 24–48 giờ trước giai đoạn [phát ban](https://dermnetnz.org/topics/exanthems) .
+- Các triệu chứng báo trước thường kéo dài từ 2–5 ngày nhưng trong một số trường hợp có thể kéo dài tới 7–10 ngày.
+
+#### Phát ban (phát ban)
+- Các đốm đỏ phẳng có đường kính từ 0,1–1,0 cm xuất hiện vào ngày thứ 4 hoặc thứ 5 sau khi các triệu chứng bắt đầu xuất hiện.
+- Phát ban không ngứa này bắt đầu ở mặt và sau tai. Trong vòng 24–36 giờ, nó lan ra toàn bộ thân và tứ chi (lòng bàn tay và lòng bàn chân hiếm khi bị ảnh hưởng).
+- Các đốm có thể liên kết với nhau, đặc biệt là ở vùng mặt.
+- Phát ban thường xuất hiện cùng lúc với sốt cao ít nhất 40 độ C.
+- Phát ban bắt đầu mờ dần sau 3-4 ngày kể từ khi xuất hiện lần đầu. Ban đầu, phát ban chuyển sang màu tím, sau đó chuyển sang màu nâu/đồng với các vảy nhỏ .
+
+#### Sự hồi phục
+- Ho có thể kéo dài trong 1–3 tuần.
+- Các biến chứng liên quan đến bệnh sởi có thể là nguyên nhân gây sốt kéo dài sau ngày thứ 3 kể từ khi phát ban.
+
+### Bệnh sởi
+![Không có caption](https://dermnetnz.org/assets/Uploads/viral/w/measles-28.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/viral/w/measles-29.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/viral/measles04.jpg)
+
+---
+
+## Bệnh sởi được chẩn đoán như thế nào?
+
+Chẩn đoán bệnh sởi dựa trên tiền sử bệnh và khám lâm sàng đặc trưng. Vì bệnh này hiện rất hiếm gặp ở các nước phát triển, bất kỳ trường hợp nghi ngờ nào cũng cần được xác nhận bằng xét nghiệm. Điều này đặc biệt hữu ích trong các trường hợp sau:
+- Các trường hợp lẻ tẻ
+- Các trường hợp không điển hình
+- Nhầm lẫn với các bệnh khác.
+Bệnh sởi cấp tính thường được xác nhận bằng xét nghiệm dịch mũi họng hoặc dịch họng bằng phương pháp phản ứng chuỗi polymerase ( PCR ). Mẫu máu và nước tiểu cũng có thể được sử dụng. Xét nghiệm này nên được thực hiện trong vòng 5 ngày kể từ khi phát ban, tuy nhiên, đôi khi kết quả dương tính chỉ có thể đạt được sau 10–14 ngày kể từ khi phát ban đã khỏi.
+Máu cũng được lấy để xét nghiệm kháng thể IgM và IgG của bệnh sởi ( huyết thanh học ). Nồng độ IgM đặc hiệu tăng cao trong giai đoạn nhiễm trùng hoạt động và kháng thể IgG xuất hiện trong giai đoạn phục hồi.
+Nuôi cấy virus từ dịch họng và dịch mũi họng được ưu tiên ở những bệnh nhân suy giảm miễn dịch , khi bằng chứng huyết thanh học có thể không có do đáp ứng miễn dịch giảm. Xét nghiệm miễn dịch huỳnh quang tìm kháng nguyên sởi cũng có thể được cân nhắc ở những bệnh nhân có hệ miễn dịch kém.
+
+---
+
+## Phương pháp điều trị bệnh sởi là gì?
+
+Hiện chưa có phương pháp điều trị đặc hiệu cho bệnh sởi, vì vậy tiêm chủng là rất quan trọng. Điều trị các trường hợp sởi nhẹ chỉ mang tính hỗ trợ. Nghỉ ngơi tại giường là rất quan trọng, vì nó giúp ngăn ngừa biến chứng và ngăn ngừa sự lây lan của virus.
+- Cho trẻ uống paracetamol để hạ sốt. Không nên dùng aspirin cho trẻ bị bệnh do virus vì thuốc này có thể gây ra hội chứng Reyes .
+- Vitamin A cho trẻ em ở các nước đang phát triển hoặc suy dinh dưỡng. WHO khuyến nghị liều 200.000 đơn vị quốc tế (IU) vitamin A trong hai ngày để giảm bệnh sởi và các biến chứng của bệnh. Một đánh giá Cochrane cho thấy điều này làm giảm tỷ lệ tử vong và tỷ lệ tử vong liên quan đến viêm phổi ở trẻ em dưới 2 tuổi.
+- Duy trì lượng nước uống đầy đủ để ngăn ngừa mất nước.
+- Sử dụng máy tạo độ ẩm để giảm ho/đau họng.
+- Cung cấp hỗ trợ dinh dưỡng khi cần thiết.
+- Quan sát cẩn thận những người có nguy cơ cao để ngăn ngừa biến chứng.
+Bệnh nhân bị buồn ngủ, mất nước hoặc khó thở cần phải nhập viện để được chăm sóc hỗ trợ.
+[Thuốc kháng sinh](https://dermnetnz.org/topics/antibiotics) chỉ cần thiết để điều trị các bệnh nhiễm trùng thứ phát do vi khuẩn như viêm tai giữa , tiêu chảy truyền nhiễm, viêm phổi và nhiễm trùng huyết.
+Ribavirin ( thuốc kháng vi-rút ) được sử dụng để điều trị nhiễm trùng sởi ở những bệnh nhân suy giảm miễn dịch và những người bị viêm não bán cấp.
+
+---
+
+## Bệnh sởi có những biến chứng gì?
+
+Khoảng 30% số ca mắc bệnh sởi được báo cáo có một hoặc nhiều biến chứng.
+- Tiêu hóa: tiêu chảy có thể gây tử vong nếu mất nước, [loét miệng](https://dermnetnz.org/topics/mouth-ulcer) , viêm ruột thừa, viêm gan , viêm hạch mạc treo và viêm tụy.
+- Tai: viêm tai giữa (hầu như chỉ xảy ra ở trẻ em) có thể dẫn đến điếc.
+- Đường hô hấp: viêm thanh quản, viêm thanh quản do sởi và viêm phổi (do vi-rút nguyên phát hoặc do vi khuẩn thứ phát) — nguyên nhân gây tử vong phổ biến nhất do bệnh sởi.
+- Tim: viêm cơ tim và viêm màng ngoài tim.
+- Hệ thống huyết học : giảm tiểu cầu , gây chảy máu và [đông máu nội mạch rải rác (DIC).](https://dermnetnz.org/topics/disseminated-intravascular-coagulation)
+- Mắt: viêm kết mạc và/hoặc loét giác mạc dẫn đến mù lòa (đặc biệt nếu thiếu vitamin A) và lác mắt.
+- Thận: viêm cầu thận cấp ( viêm thận) và suy thận .
+- Hệ thần kinh: co giật do sốt và viêm não.
+- [Suy dinh dưỡng](https://dermnetnz.org/topics/malnutrition-including-anorexia-nervosa) (đặc biệt là ở cộng đồng nghèo).
+- Nhiễm trùng sởi trong thời kỳ mang thai làm tăng nguy cơ chuyển dạ và sinh non, sảy thai và tử vong ở bà mẹ.
+Hiếm khi, viêm não bán cấp xơ cứng - một tình trạng gây tử vong - phát triển hàng thập kỷ sau khi nhiễm sởi do vi-rút sởi vẫn tồn tại trong hệ thần kinh trung ương.
+
+---
+
+## Làm thế nào để phòng ngừa bệnh sởi?
+
+Bệnh sởi có thể được phòng ngừa bằng cách tiêm vắc-xin sởi sống giảm độc lực . Vắc-xin này có sẵn dưới dạng chế phẩm kháng nguyên đơn hoặc kết hợp với vắc-xin quai bị và/hoặc rubella sống giảm độc lực. Vắc-xin phối hợp sởi, quai bị và rubella (MMR) hiện đang là một phần của chương trình tiêm chủng thường quy ở hầu hết các nước công nghiệp phát triển, bao gồm cả New Zealand.
+Vắc-xin sởi tạo ra khả năng miễn dịch lâu dài (có thể là suốt đời) ở hầu hết mọi người. Lịch tiêm chủng khuyến nghị tiêm hai liều; liều đầu tiên lúc 12–15 tháng tuổi, liều thứ hai lúc 4–6 tuổi.
+Không nên tiêm vắc-xin sởi trong thời kỳ mang thai. Phụ nữ chưa được tiêm phòng sởi trước đó nên tránh mang thai trong vòng một tháng (28 ngày) sau khi tiêm vắc-xin MMR.
+Globulin miễn dịch không ngăn ngừa bệnh sởi, nhưng có tác dụng làm giảm mức độ nghiêm trọng của bệnh ở những người tiếp xúc với vi-rút. Thuốc được khuyến cáo sử dụng cho:
+- Phụ nữ mang thai
+- Những người bị suy giảm miễn dịch
+- Trẻ sơ sinh.
+Những người được tiêm vắc-xin trước năm 1968 có thể cần tiêm lại vì vắc-xin được sử dụng trước thời điểm này có thể không mang lại khả năng miễn dịch suốt đời.

@@ -1,0 +1,100 @@
+# Nốt ruồi biểu bì — thông tin bổ sung
+
+Thể loại:
+
+Tổn thương (lành tính)
+
+SNOMED CT:
+
+239107007, 400142003, 400100000, 400000002, 400667002, 238631008, 239108002, 399995006,707136009,52298009, 35962006, 5387003, 17608003, 23150001
+
+**[Tổn thương (lành tính)](https://dermnetnz.org/topics/topics?category=Lesions+(benign))**
+
+
+# **Nốt ruồi biểu bì**
+
+Tác giả: Vanessa Ngan, Biên tập viên, 2003.
+
+---
+
+## Nốt ruồi biểu bì là gì?
+
+Nốt ruồi biểu bì là do sự phát triển quá mức của lớp biểu bì. Tổn thương xuất hiện từ khi sinh (50%) hoặc phát triển trong thời thơ ấu (chủ yếu trong năm đầu đời). Bất thường này xuất phát từ khiếm khuyết ở ngoại bì, lớp ngoài cùng của phôi thai, nơi hình thành biểu bì và mô thần kinh .
+
+---
+
+## Các loại nốt ruồi biểu bì
+
+Các tổn thương da thường được gọi là nốt ruồi biểu bì là do sự phát triển quá mức của tế bào sừng (tế bào da sừng).
+- Nốt ruồi biểu bì tuyến tính
+- Nốt ruồi thượng bì ly giải
+- Nốt ruồi biểu bì phân hủy gai ( giống [bệnh](https://dermnetnz.org/topics/darier-disease) [Hailey-Hailey](https://dermnetnz.org/topics/benign-familial-pemphigus) hoặc Darier ) [](https://dermnetnz.org/topics/darier-disease)
+- [Bệnh porokeratosis tuyến tính](https://dermnetnz.org/topics/linear-porokeratosis)
+- Nốt ruồi biểu bì có hệ thống
+Khi một thành phần khác của da chiếm ưu thế, tổn thương này được gọi là nốt ruồi dạng cơ quan.
+
+---
+
+## Nguyên nhân nào gây ra nốt ruồi biểu bì?
+
+Mỗi gen có hai bản sao, một bản sao từ mẹ và một bản sao từ cha. Người ta cho rằng có hai quần thể tế bào da, chứa gen của mẹ hoặc gen của cha (thể khảm). Nếu một trong hai quần thể tế bào da này bất thường, nó có thể dẫn đến một vùng da dày cục bộ , gọi là nốt ruồi biểu bì. Nốt ruồi biểu bì rất hiếm khi ảnh hưởng đến nhiều hơn một thành viên trong gia đình. Các đột biến đã được phát hiện ở FGFR3, PIK3CA và HRAS.
+Nốt ruồi biểu bì phân bố dọc theo [đường Blashko](https://dermnetnz.org/topics/blaschko-lines) . Những đường này là dấu vết của các nhóm tế bào giống hệt nhau về mặt di truyền trong phôi đang phát triển . Các tế bào da mang gen bất thường hoạt động sẽ lan rộng ra tạo thành nốt ruồi biểu bì, trong khi các tế bào da còn lại tạo thành các vùng da bình thường khác.
+Nghiên cứu mới đã phát hiện ra các đột biến điểm trong gen keratin ủng hộ lý thuyết này. Gen bất thường này được tìm thấy trong các tế bào naevus biểu bì nhưng không có trong da bình thường. Các bất thường tương tự của gen keratin 1 và keratin ten đã được tìm thấy ở cha mẹ bị naevus biểu bì ly giải và ở con cái của họ bị đỏ da dạng bóng nước (một dạng [bệnh vảy cá](https://dermnetnz.org/topics/ichthyosis) hiếm gặp ). Vì vậy, naevus biểu bì ly giải được cho là dạng khảm của loại bệnh vảy cá này. [](https://dermnetnz.org/topics/ichthyosis)
+Bất thường gen ATP2A2 phát sinh trong [bệnh Darier](https://dermnetnz.org/topics/darier-disease) đã được phát hiện trong các tế bào bị ảnh hưởng của một bệnh nhân bị nốt ruồi biểu bì ly gai, do đó loại này có thể là dạng khảm của bệnh Darier. Chứng [porokeratosis tuyến tính](https://dermnetnz.org/topics/linear-porokeratosis) có thể là dạng khảm của [chứng porokeratosis actinic nông lan tỏa](https://dermnetnz.org/topics/disseminated-superficial-actinic-porokeratosis) .
+![Dòng của Blaschko](https://dermnetnz.org/assets/Uploads/blaschko1.jpg)
+![Dòng của Blaschko](https://dermnetnz.org/assets/Uploads/lesions/blaschko2.jpg)
+
+---
+
+## Nốt ruồi thượng bì có đặc điểm gì?
+
+
+### Nốt ruồi biểu bì tuyến tính
+Nốt ruồi biểu bì thường xuất hiện ở thân và chân tay, hiếm khi xuất hiện ở mặt hoặc da đầu. Phần lớn là nốt ruồi biểu bì dạng đường thẳng — chúng tạo thành một đường thẳng, thường chỉ ở một bên cơ thể ( một bên , còn được gọi là nốt ruồi một bên). Khi mới xuất hiện lúc mới sinh hoặc trong giai đoạn sơ sinh, chúng là những vết màu nâu hoặc nâu nhạt, nhưng khi trẻ lớn lên, chúng sẽ dày lên và thường có mụn cóc. Nốt ruồi cũng có thể lan rộng hơn trong vài năm.
+
+### Nốt ruồi biểu bì có hệ thống
+Nốt ruồi biểu bì hệ thống ít phổ biến hơn và đôi khi được gọi là bệnh vảy cá. Có nhiều tổn thương thường xuất hiện theo kiểu xoáy, xuất hiện ở một hoặc cả hai bên cơ thể. Ở một số bệnh nhân, còn có các bất thường bẩm sinh khác , đặc biệt là ở xương và hệ thần kinh trung ương (ENS).
+[Xem hình ảnh của nốt ruồi biểu bì có hệ thống](https://dermnetnz-org.translate.goog/images/systematised-epidermal-naevus-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+
+### Mô học của nốt ruồi biểu bì
+Khi sinh thiết da , nốt ruồi biểu bì cho thấy lớp biểu bì dày lên. Xem [bệnh lý nốt ruồi biểu bì](https://dermnetnz.org/topics/epidermal-naevus-pathology) .
+- Loại nốt ruồi biểu bì ly giải hiếm gặp được đặc trưng bởi kiểu mô học cụ thể gọi là tăng sừng ly giải và giống với kiểu thấy ở bệnh đỏ da dạng vảy cá bóng nước.
+- Nốt ruồi biểu bì dạng gai có bệnh lý tương tự như [bệnh Darier](https://dermnetnz.org/topics/darier-disease) .
+- Bệnh lý porokeratosis tuyến tính có bệnh lý tương tự như bệnh [porokeratosis actinic nông lan tỏa](https://dermnetnz.org/topics/disseminated-superficial-actinic-porokeratosis) .
+![Nốt ruồi biểu bì](https://dermnetnz.org/assets/Uploads/doctors/lesions/images/ep-n1.jpg)
+![Nốt ruồi biểu bì](https://dermnetnz.org/assets/Uploads/lesions/ep-n4.jpg)
+![Nốt ruồi biểu bì](https://dermnetnz.org/assets/Uploads/lesions/ep-n6.jpg)
+![Nốt ruồi biểu bì](https://dermnetnz.org/assets/Uploads/lesions/ep-n5.jpg)
+![Nốt ruồi biểu bì](https://dermnetnz.org/assets/Uploads/lesions/ep-n3.jpg)
+![Nốt ruồi biểu bì](https://dermnetnz.org/assets/Uploads/lesions/ep-n2.jpg)
+
+---
+
+## Hội chứng nốt ruồi thượng bì
+
+Hội [chứng naevus biểu bì](https://dermnetnz.org/topics/epidermal-naevus-syndromes) đề cập đến sự kết hợp của naevus biểu bì dạng tế bào sừng hoặc dạng cơ quan với các bất thường ở các hệ cơ quan khác bắt nguồn từ ngoại bì phôi. Các hội chứng này có thể liên quan đến mắt, xương hoặc hệ thần kinh. Nhiều hội chứng cụ thể đã được mô tả.
+Khiếm khuyết gây ra các tổn thương da cũng có thể dẫn đến rối loạn các cơ quan nội tạng khác như não, mắt và xương. Khi nhiều cơ quan bị ảnh hưởng, tình trạng này được gọi là hội chứng nốt ruồi thượng bì (ENS).
+
+---
+
+## Biến chứng của nốt ruồi biểu bì
+
+Hầu hết các nốt ruồi biểu bì không thay đổi ở tuổi trưởng thành và không gây ra vấn đề gì.
+
+---
+
+## Chẩn đoán phân biệt đối với nốt ruồi biểu bì là gì?
+
+[Bớt biểu bì dạng mụn cóc tuyến tính gây viêm](https://dermnetnz.org/topics/inflammatory-linear-verrucous-epidermal-naevus) [(ILVEN)](http:///topics/sweat-gland-lesions) thường được phân loại riêng biệt với bớt biểu bì.
+Các nốt ruồi dạng cơ quan được đặc trưng bởi sự phát triển quá mức lành tính của các cấu trúc phụ biểu bì .
+- [Nốt ruồi bã nhờn](https://dermnetnz.org/topics/sebaceous-naevus)
+- [Nốt ruồi tuyến mồ hôi](https://dermnetnz.org/topics/sweat-gland-lesions)
+- [Nốt ruồi Comedo](https://dermnetnz.org/topics/comedo-naevus)
+- [Nốt ruồi Becker](https://dermnetnz.org/topics/becker-naevus) .
+[Nốt ruồi hắc tố](https://dermnetnz.org/topics/melanocytic-naevus) được đặc trưng bởi sự tăng sinh lành tính của các tế bào nốt ruồi hắc tố .
+
+---
+
+## Phương pháp điều trị bệnh naevi biểu bì là gì?
+
+Không có phương pháp điều trị y tế thực sự hiệu quả nào cho nốt ruồi biểu bì. [Calcipotriol](https://dermnetnz.org/topics/calcipotriol) bôi ngoài da có thể làm giảm độ dày của da trong một số trường hợp. Nếu cần thiết, có thể thực hiện phẫu thuật hoặc laser để loại bỏ nốt ruồi. [](https://dermnetnz.org/topics/calcipotriol)

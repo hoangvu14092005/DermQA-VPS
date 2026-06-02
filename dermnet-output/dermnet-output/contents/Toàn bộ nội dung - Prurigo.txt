@@ -1,0 +1,130 @@
+# Prurigo — thông tin bổ sung
+
+Thể loại:
+
+Phát ban, Thuật ngữ
+
+SNOMED CT:
+
+64144002, 43118004, 201017004, 55608001, 200773006, 63501000, 238587006, 201016008
+
+**[Phát ban, Thuật ngữ](https://dermnetnz.org/topics/topics?category=Rashes)**
+
+
+# **Ngứa**
+
+Tác giả: Phó Giáo sư Lâm sàng Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand, 2009.
+
+---
+
+## Bệnh ngứa là gì?
+
+Thuật ngữ prurigo dùng để chỉ những nốt ngứa dữ dội. Thuật ngữ này có thể được sử dụng khi nguyên nhân đã được xác định (xem danh sách bên dưới) hoặc để mô tả tình trạng không rõ nguyên nhân, đặc trưng bởi các nốt sần nhỏ ngứa.
+Ngứa cần được phân biệt với [ngứa](https://dermnetnz.org/topics/pruritus) (ngứa không có tổn thương da nguyên phát ) .
+
+---
+
+## Bệnh ngứa trông như thế nào?
+
+Ngứa da có tổn thương da nguyên phát và thứ phát.
+- Tổn thương ngứa nguyên phát là các sẩn hình vòm .
+- Tổn thương ngứa thứ phát là các sẩn do trầy xước, tổn thương có vảy hoặc các vùng da dày, sẫm màu ( [bệnh liken đơn giản](https://dermnetnz.org/topics/lichen-simplex) hoặc viêm da thần kinh). Gãi có thể dẫn đến sẹo.
+![Ngứa gãi](https://dermnetnz.org/assets/Uploads/dermatitis/prurigo4.jpg)
+![Ngứa có vảy](https://dermnetnz.org/assets/Uploads/dermatitis/prurigo8.jpg)
+![Ngứa sắc tố](https://dermnetnz.org/assets/Uploads/dermatitis/prurigo7.jpg)
+
+---
+
+## Bệnh sẩn ngứa đơn giản
+
+Bệnh sẩn ngứa đơn giản biểu hiện bằng các nốt sần hình vòm, nhỏ, ngứa dữ dội, phân bố đối xứng. Đôi khi có các mụn nước nhỏ. Chúng xuất hiện nhiều nhất ở mặt ngoài của chân tay và mông, nhưng có thể xuất hiện ở bất kỳ vị trí nào trên đầu, cổ, thân và chân tay. Ngứa có thể ảnh hưởng đến trẻ em và người lớn.
+Các tên gọi khác của bệnh ngứa đơn giản bao gồm bệnh ngứa mãn tính ở người lớn, bệnh ngứa mitis và bệnh ngứa Hebra. Khi các đốm có màu sẫm, nó có thể được gọi là ngứa sắc tố.
+Thông thường, sẩn ngứa nguyên phát không còn nhìn thấy được nữa vì đã bị gãi mất. Ngứa có thể gây [khó chịu](https://dermnetnz.org/topics/psychosocial-factors-in-dermatology) đáng kể vì ngứa dữ dội có thể khiến bạn mất ngủ.
+![Không có caption](https://dermnetnz.org/assets/Uploads/dermatitis/prurigo3.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/dermatitis/prurigo5.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/dermatitis/prurigo6.jpg)
+
+---
+
+## Ngứa cục
+
+[Ngứa cục](https://dermnetnz.org/topics/nodular-prurigo) biểu hiện bằng các nốt sần cứng , thường tăng sắc tố. Vì rất ngứa, chúng thường bị loét hoặc đóng vảy. Ngứa cục rất khó điều trị.
+
+---
+
+## Prurigo pigmentosa
+
+[Bệnh ngứa sắc tố](https://dermnetnz.org/topics/prurigo-pigmentosa) có đặc điểm là phát ban ngứa với sắc tố dạng lưới.
+
+---
+
+## Các điều kiện liên quan
+
+Ở một số người, ngứa có liên quan đến một tình trạng da hoặc vấn đề sức khỏe khác. Những vấn đề này bao gồm:
+- [Bệnh chàm dị ứng](https://dermnetnz.org/topics/atopic-dermatitis) (Besnier prurigo)
+- [Pemphigoid bóng nước](https://dermnetnz.org/topics/bullous-pemphigoid) ( [pemphigoid nodularis](https://dermnetnz.org/topics/pemphigoid) )
+- [Chàm (hoặc viêm da) hình đĩa (hoặc hình đồng xu)](https://dermnetnz.org/topics/discoid-eczema)
+- [Mề đay sẩn](https://dermnetnz.org/topics/papular-urticaria) ( phản ứng dị ứng với vết côn trùng cắn)
+- [Thiếu sắt](https://dermnetnz.org/topics/iron-deficiency)
+- [Bệnh tuyến giáp](https://dermnetnz.org/topics/skin-problems-associated-with-thyroid-disease)
+- Nhiễm trùng do virus gây suy giảm miễn dịch ở người ( [HIV](https://dermnetnz.org/topics/skin-conditions-relating-to-hiv-infection) ) ( [phát ban sẩn ngứa](https://dermnetnz.org/topics/pruritic-papular-eruption-of-hiv) do HIV )
+- [Mang thai](https://dermnetnz.org/topics/prurigo-of-pregnancy)
+- Suy thận mãn tính
+- [Bệnh tiểu đường](https://dermnetnz.org/topics/skin-problems-associated-with-diabetes-mellitus)
+- Bệnh đa hồng cầu đỏ nguyên phát
+- [U lympho Hodgkin hoặc](https://dermnetnz.org/topics/hodgkin-lymphoma) u lympho không Hodgkin
+- Lạm dụng ma túy, đặc biệt là [amphetamine](https://dermnetnz.org/topics/skin-effects-associated-with-methamphetamine) và cocaine
+- Tổn thương thần kinh cột sống
+
+---
+
+## Điều trị ngứa
+
+Phương pháp điều trị có thể bao gồm nhiều loại thuốc khác nhau sau đây.
+- [Corticosteroid tại chỗ](https://dermnetnz.org/topics/topical-steroid)
+- [Thuốc kháng histamin](https://dermnetnz.org/topics/antihistamines) , đặc biệt là thuốc an thần để giảm ngứa
+- [Corticosteroid tiêm vào tổn thương](https://dermnetnz.org/topics/intralesional-steroid-injection)
+- [Corticosteroid toàn thân](https://dermnetnz.org/topics/systemic-steroids)
+- [Thuốc kháng sinh](https://dermnetnz.org/topics/antibiotics) uống , đặc biệt là dùng [tetracycline kéo dài](https://dermnetnz.org/topics/tetracycline)
+- [Dapsone](https://dermnetnz.org/topics/dapsone)
+- [Liệu pháp quang học](https://dermnetnz.org/topics/phototherapy)
+Bệnh nặng hơn có thể được điều trị bằng thuốc ức chế miễn dịch.
+- [Methotrexate](https://dermnetnz.org/topics/methotrexate)
+- [Azathioprine](https://dermnetnz.org/topics/azathioprine-and-mercaptopurine)
+- [Ciclosporin](https://dermnetnz.org/topics/ciclosporin)
+Ngứa dữ dội có thể được giảm bớt bằng thuốc tác động lên trung ương. Các loại thuốc này bao gồm:
+- Thuốc chống trầm cảm ba vòng như [amitriptyline](https://dermnetnz.org/topics/tricyclic-antidepressants)
+- Thuốc chống co giật như [gabapentin](https://dermnetnz.org/topics/gabapentin) , pregabalin hoặc natri valproate
+- Thuốc đối kháng opioid như naltrexone.
+
+---
+
+## Cần phải tiến hành những cuộc điều tra nào?
+
+Vì có một số bệnh lý về da có biểu hiện ngứa nên cần phải xét nghiệm để chẩn đoán.
+[Sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) thường được thực hiện để tìm kiếm các đặc điểm cụ thể của [viêm da dạng herpes](https://dermnetnz.org/topics/dermatitis-herpetiformis) , giúp chẩn đoán tình trạng này. Miễn dịch huỳnh quang trực tiếp cũng có thể chẩn đoán viêm da dạng herpes. Mô học của các dạng ngứa khác có thể không đặc hiệu, hoặc biểu hiện tăng sừng ( vảy ), tăng sinh gai (da dày lên) và thâm nhiễm viêm ( tế bào lympho ở lớp hạ bì ).
+Xét nghiệm máu có thể bao gồm sàng lọc sức khỏe tổng quát và xét nghiệm miễn dịch huỳnh quang gián tiếp.
+- Công thức máu
+- Chức năng thận
+- Chức năng gan
+- Globulin miễn dịch
+- Điện di protein
+- Kháng thể da
+- Xét nghiệm chức năng tuyến giáp
+Chụp X-quang ngực, chụp CT hoặc chụp MRI cũng có thể được chỉ định. Các xét nghiệm tiếp theo sẽ tùy thuộc vào kết quả sàng lọc ban đầu.
+
+---
+
+## Các loại ngứa khác
+
+Sẩn ngứa có thể xuất hiện ở một số bệnh lý da khác.
+- [Nhiễm ghẻ](https://dermnetnz.org/topics/scabies) hoặc [chấy](https://dermnetnz.org/topics/body-lice) rận
+- [Vết cắn của động vật chân đốt](https://dermnetnz.org/topics/arthropod-bites-and-stings) do muỗi, ruồi cát, rệp giường và bọ chét
+- [Ngứa do ánh sáng](https://dermnetnz.org/topics/actinic-prurigo) (còn gọi là ngứa Hutchinson) – ngứa ở vùng da tiếp xúc với ánh nắng mặt trời như một dạng [nhạy cảm với ánh sáng](https://dermnetnz.org/topics/photosensitivity)
+- [Ngứa khi mang thai](https://dermnetnz.org/topics/skin-changes-in-pregnancy)
+- [Viêm da dạng herpes](https://dermnetnz.org/topics/dermatitis-herpetiformis) – một bệnh mụn nước miễn dịch
+- [Mụn trứng cá nổi mề đay](https://dermnetnz.org/topics/acne-urticata)
+- [Viêm collagen phản ứng xuyên thủng](https://dermnetnz.org/topics/reactive-perforating-collagenosis)
+- [Viêm nang lông](https://dermnetnz.org/topics/folliculitis)
+- [Bắt buộc phải cạy da](https://dermnetnz.org/topics/compulsive-skin-picking)
+- Bệnh tâm thần, trong đó bệnh nhân bị ảo giác (cảm giác bị cắn và bò) hoặc [ảo tưởng về ký sinh trùng](https://dermnetnz.org/topics/delusions-of-parasitosis)

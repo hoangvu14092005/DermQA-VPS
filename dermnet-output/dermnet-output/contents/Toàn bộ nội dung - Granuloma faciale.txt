@@ -1,0 +1,106 @@
+# U hạt trên khuôn mặt – thông tin thêm
+
+Thể loại:
+
+Tổn thương (lành tính)
+
+SNOMED CT:
+
+61137005
+
+**[Tổn thương (lành tính)](https://dermnetnz.org/topics/topics?category=Lesions+(benign))**
+
+
+# **U hạt ở mặt**
+
+Tác giả: Vanessa Ngan, Biên tập viên, 2003; được cập nhật bởi Tiến sĩ Ian Coulson, Bác sĩ da liễu, Vương quốc Anh (2024).Được biên tập bởi bộ phận nội dung DermNet.
+
+---
+
+## U hạt ở mặt là gì?
+
+U hạt ở mặt là một rối loạn da hiếm gặp, không phải ung thư, đặc trưng bởi một hoặc nhiều nốt sần , mảng hoặc nốt sần , thường xuất hiện ở mặt.
+
+---
+
+## Ai có thể mắc bệnh u hạt ở mặt?
+
+U hạt ở mặt thường ảnh hưởng đến nam giới da trắng khỏe mạnh ở độ tuổi trung niên (trung bình 52 tuổi), mặc dù bệnh này cũng xuất hiện ở cả nam và nữ thuộc mọi chủng tộc và lứa tuổi.
+
+---
+
+## Dấu hiệu và triệu chứng của bệnh u hạt ở mặt là gì?
+
+Bệnh nhân thường đến gặp bác sĩ sau khi nhận thấy một đốm hoặc tổn thương trên mặt, sau đó lan rộng hoặc tăng số lượng trong vài tuần hoặc vài tháng. Những tổn thương này thường là:
+- Có nhiều màu sắc khác nhau: màu da, nâu đỏ, xanh hoặc tím
+- Kích thước thay đổi từ vài milimét đến vài centimet
+- Nâng cao và mềm mại
+- Đặc trưng bởi các nang lông nổi bật (lỗ chân lông)
+- Được xác định bằng đường viền
+- Trên mặt, mặc dù các tổn thương tương tự đã được tìm thấy ở các bộ phận khác của cơ thể như da đầu, thân và tứ chi, khi chúng được gọi là u hạt ngoài mặt ở mặt
+U hạt mặt thường không có triệu chứng. Một số bệnh nhân có thể phàn nàn về các tổn thương đau, ngứa hoặc châm chích.
+![Mảng bám màu nâu đỏ trên gò má - mô học xác nhận là u hạt ở mặt](https://dermnetnz.org/assets/Uploads/vascular/granfac.jpg)
+![Mảng u hạt mặt dưới dái tai](https://dermnetnz.org/assets/Uploads/vascular/granfac2.jpg)
+![Mảng u hạt ở mặt trên má](https://dermnetnz.org/assets/Uploads/vascular/granuloma-faciale.jpg)
+![Mảng u hạt màu nâu đỏ ở thái dương](https://dermnetnz.org/assets/Uploads/vascular/granuloma-faciale4.jpg)
+![Mảng u hạt màu nâu đỏ ở thái dương - vảy không bình thường](https://dermnetnz.org/assets/Uploads/vascular/granuloma-faciale5.jpg)
+![Mảng u hạt màu nâu đỏ bóng trên má](https://dermnetnz.org/assets/Uploads/vascular/granuloma-faciale6.jpg)
+
+---
+
+## Nguyên nhân gây ra bệnh u hạt ở mặt là gì?
+
+Nguyên nhân gây ra bệnh u hạt ở mặt vẫn chưa được biết rõ nhưng có liên quan đến việc tiếp xúc với ánh nắng mặt trời:
+- Các tổn thương xuất hiện thường xuyên hơn ở các vùng tiếp xúc với ánh nắng mặt trời
+- Các tổn thương sẫm màu hơn khi tiếp xúc với ánh nắng mặt trời
+
+---
+
+## Bệnh này được chẩn đoán như thế nào?
+
+Chẩn đoán được xác nhận bằng [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) và thường cần thiết để loại trừ các bệnh da khác có biểu hiện tương tự. U hạt mặt đặc trưng bởi các tế bào viêm ở lớp hạ bì, bao gồm cả bạch cầu ái toan ( tế bào dị ứng ). Thường có một vùng grenz ở lớp hạ bì trên không bị ảnh hưởng. Tổn thương mạch máu do [viêm mạch](https://dermnetnz.org/topics/cutaneous-vasculitis) bạch cầu ( mạch máu bị viêm ) thường rõ ràng. Có thể có hemosiderin , dấu hiệu cho thấy hồng cầu thoát mạch do tổn thương mạch máu, làm cho các tổn thương có màu nâu. [](https://dermnetnz.org/topics/cutaneous-vasculitis)
+
+---
+
+## Chẩn đoán phân biệt
+
+Các tình trạng da có thể trông giống như u hạt ở mặt bao gồm:
+- [ban đỏ diutinum](https://dermnetnz.org/topics/erythema-elevatum-diutinum)
+- [bệnh sarcoidosis](https://dermnetnz.org/topics/sarcoidosis)
+- [bệnh lupus ban đỏ da](https://dermnetnz.org/topics/cutaneous-lupus-erythematosus)
+- [phun trào ánh sáng đa hình](https://dermnetnz.org/topics/polymorphic-light-eruption)
+- [thâm nhiễm tế bào lympho Jessner](https://dermnetnz.org/topics/jessner-lymphocytic-infiltrate)
+- [u lympho bào da](https://dermnetnz.org/topics/lymphocytoma-cutis)
+- [bệnh nấm fungoides](https://dermnetnz.org/topics/cutaneous-t-cell-lymphoma)
+- [](https://dermnetnz.org/topics/arthropod-bites-and-stings) phản ứng [khi bị côn trùng cắn](https://dermnetnz.org/topics/arthropod-bites-and-stings)
+- [phun trào thuốc cố định](https://dermnetnz.org/topics/fixed-drug-eruption)
+- [ban đỏ diutinum](https://dermnetnz.org/topics/erythema-elevatum-diutinum)
+
+---
+
+## Điều trị u hạt ở mặt
+
+U hạt mặt là một tình trạng mạn tính với các đợt bùng phát và thuyên giảm. Bệnh hiếm khi tự khỏi. Bệnh dường như không liên quan đến các bệnh lý nội khoa và việc điều trị chủ yếu nhằm cải thiện ngoại hình. Nhiều liệu pháp nội khoa và phẫu thuật đã được áp dụng nhưng chưa có phương pháp nào mang lại hiệu quả điều trị nhất quán. U hạt mặt cũng có xu hướng tái phát sau khi điều trị.
+Các liệu pháp y tế được sử dụng với nhiều kết quả khác nhau bao gồm:
+- [Steroid tại chỗ](https://dermnetnz.org/topics/topical-steroid)
+- Tiêm corticosteroid
+- [Thuốc ức chế calcineurin](https://dermnetnz.org/topics/calcineurin-inhibitors) tại chỗ [](https://dermnetnz.org/topics/calcineurin-inhibitors)
+- [Dapsone](https://dermnetnz.org/topics/dapsone) (uống và bôi ngoài da)
+- [Viên nén chống sốt rét](https://dermnetnz.org/topics/antimalarial) ( [hydroxychloroquine](https://dermnetnz.org/topics/hydroxychloroquine) )
+- [Dapsone](https://dermnetnz.org/topics/dapsone)
+- Clofazamine
+- [Rituximab](https://dermnetnz.org/topics/rituximab) tiêm trong tổn thương [](https://dermnetnz.org/topics/rituximab)
+- Thuốc bôi psoralen UV -A ( [PUVA](https://dermnetnz.org/topics/puva-photochemotherapy) )
+- Xạ trị
+Liệu pháp phẫu thuật cũng có thể được sử dụng. Kết quả có thể khác nhau và có thể để lại sẹo.
+- [Cắt bỏ](https://dermnetnz.org/topics/excision-of-skin-lesions) phẫu thuật [](https://dermnetnz.org/topics/excision-of-skin-lesions)
+- [Mài mòn da](https://dermnetnz.org/topics/dermabrasion)
+- [Phẫu thuật điện](https://dermnetnz.org/topics/electrosurgery)
+- [Liệu pháp lạnh](https://dermnetnz.org/topics/cryotherapy)
+- [Tia laser](https://dermnetnz.org/topics/lasers-in-dermatology) (ví dụ: CO2, KTP, thuốc nhuộm xung, argon)
+
+---
+
+## Kết quả của bệnh u hạt ở mặt là gì?
+
+Bệnh tự khỏi rất hiếm và người bệnh thường yêu cầu điều trị.

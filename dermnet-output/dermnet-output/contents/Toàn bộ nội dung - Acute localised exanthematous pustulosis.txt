@@ -1,0 +1,78 @@
+# Viêm mủ cục bộ cấp tính — thông tin bổ sung
+
+Thể loại:
+
+Phản ứng, phát ban
+
+SNOMED CT:
+
+200893007
+
+**[Phản ứng, phát ban](https://dermnetnz.org/topics/topics?category=Reactions)**
+
+
+# **Viêm mủ cục bộ cấp tính**
+
+Tác giả: Tiến sĩ Emily Ryder, Chuyên gia Đăng ký, Khoa Da liễu, Bệnh viện Đại học Oxford NHS Trust, Oxford, Vương quốc Anh. Tổng biên tập DermNet New Zealand: Phó Giáo sư Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand. Biên tập viên: Maria McGivern. Tháng 5 năm 2017.
+
+---
+
+## Bệnh mụn mủ khu trú cấp tính là gì?
+
+Hội chứng ngoại ban mụn mủ cục bộ cấp tính (ALEP) là dạng khu trú của [hội chứng ngoại ban mụn mủ toàn thân cấp tính (AGEP)](https://dermnetnz.org/topics/acute-generalised-exanthematous-pustulosis) . Nó cũng có thể được gọi là [phát ban mụn](https://dermnetnz.org/topics/drug-eruptions) mủ cục bộ do thuốc hoặc mụn mủ nhiễm độc cục bộ . ALEP là một dạng phản ứng thuốc hiếm gặp. Nó có thể xảy ra vài ngày sau khi bắt đầu dùng thuốc và thường khỏi trong vòng một tuần sau khi ngừng thuốc gây ra hội chứng. [](https://dermnetnz.org/topics/acute-generalised-exanthematous-pustulosis) [](https://dermnetnz.org/topics/drug-eruptions)
+![Viêm mủ cục bộ cấp tính](https://dermnetnz.org/assets/Uploads/alep-1.jpg)
+![Viêm mủ cục bộ cấp tính](https://dermnetnz.org/assets/Uploads/alep-2.jpg)
+
+---
+
+## Ai bị bệnh mụn mủ khu trú cấp tính?
+
+Viêm mủ ngoại ban cục bộ cấp tính rất hiếm gặp và chỉ được báo cáo ở một số ít bệnh nhân. Có ý kiến ​​cho rằng bệnh nhân nữ trẻ tuổi có thể có nguy cơ mắc ALEP cao hơn, nhưng hiện tại chưa có đủ thông tin để xác nhận điều này.
+
+---
+
+## Nguyên nhân nào gây ra bệnh mụn mủ khu trú cấp tính?
+
+Viêm mủ ngoại ban khu trú cấp tính có thể do nhiều loại thuốc gây ra. [Kháng sinh](https://dermnetnz.org/topics/antibiotics) có chứa amoxicillin dường như thường liên quan nhất đến ALEP. Tình trạng này cũng đã được báo cáo từ các loại kháng sinh khác, [thuốc chống viêm không steroid](https://dermnetnz.org/topics/non-steroidal-anti-inflammatory-drugs-and-their-skin-side-effects) , [thuốc chống nấm](https://dermnetnz.org/topics/oral-antifungal-medication) , thuốc đối kháng canxi, thuốc chống loét và [pembrolizumab](https://dermnetnz.org/topics/pembrolizumab) .
+
+---
+
+## Các đặc điểm lâm sàng của bệnh mụn mủ khu trú cấp tính là gì?
+
+Viêm mủ ngoại ban khu trú cấp tính khởi phát đột ngột, biểu hiện là các mụn mủ màu trắng hoặc vàng tập trung thành từng cụm trên bề mặt một mảng da đỏ sưng ( phù nề ), thường ở mặt. Các mụn mủ thường nông, mềm và có hình dạng tương tự như vùng da bị viêm da cơ địa (AGEP) khu trú.
+Bệnh nhân mắc ALEP thường mô tả phát ban là cảm giác căng tức hoặc khó chịu, nhưng thường không ngứa dữ dội. Một số bệnh nhân mắc ALEP cho biết họ cảm thấy mệt mỏi hoặc không khỏe; một số ít bệnh nhân bị sốt nhẹ.
+
+---
+
+## Biến chứng của bệnh mụn mủ khu trú cấp tính là gì?
+
+Viêm mủ cục bộ cấp tính có thể dẫn đến [tăng sắc tố sau viêm](https://dermnetnz.org/topics/postinflammatory-hyperpigmentation) ở vùng bị ảnh hưởng. Người ta chưa biết liệu ALEP có thể gây ra các phản ứng phụ nghiêm trọng với thuốc hay không.
+
+---
+
+## Bệnh mụn mủ khu trú cấp tính được chẩn đoán như thế nào?
+
+Bác sĩ da liễu có thể chẩn đoán ALEP bằng cách nhận biết biểu hiện của phát ban và thời gian phát triển của nó liên quan đến thuốc, chẳng hạn như kháng sinh. Thông thường, bệnh nhân đã từng dùng cùng loại thuốc này trước đó mà không gặp phản ứng phụ.
+Việc phát ban biến mất trong vòng vài ngày sau khi ngừng thuốc gây dị ứng có thể giúp xác nhận chẩn đoán.
+- [Kết quả nuôi cấy vi sinh vật](https://dermnetnz.org/topics/laboratory-tests-for-bacterial-infections) của mủ thường không phát hiện thấy vi khuẩn.
+- [Đôi khi, sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) có thể được sử dụng để giúp xác nhận chẩn đoán nhưng không nhất thiết phải thực hiện.
+- Các đặc điểm mô học không đặc trưng cho ALEP nhưng bao gồm mụn mủ trong biểu bì và dưới giác mạc với phù nhú bì chứa thâm nhiễm bạch cầu trung tính và bạch cầu ái toan .
+- Kết quả [thử nghiệm miếng dán](https://dermnetnz.org/topics/patch-tests) thuốc kích hoạt cho thấy kết quả dương tính ở khoảng một nửa số bệnh nhân mắc ALEP.
+
+---
+
+## Chẩn đoán phân biệt đối với bệnh mụn mủ khu trú cấp tính là gì?
+
+- [Nhiễm trùng](https://dermnetnz.org/topics/skin-infections) , bao gồm [bệnh chốc lở](https://dermnetnz.org/topics/impetigo) ( [nhiễm trùng da](https://dermnetnz.org/topics/bacterial-skin-infections) do [vi khuẩn Staphylococcus aureus](https://dermnetnz.org/topics/staphylococcal-skin-infection) ) hoặc [bệnh chàm herpeticum](https://dermnetnz.org/topics/eczema-herpeticum) ( virus [herpes simplex )](https://dermnetnz.org/topics/herpes-simplex)
+- Giai đoạn đầu của [bệnh mụn mủ toàn thân cấp tính](https://dermnetnz.org/topics/acute-generalised-exanthematous-pustulosis)
+- [Bệnh vẩy nến mủ toàn thân](https://dermnetnz.org/topics/generalised-pustular-psoriasis) [](https://dermnetnz.org/topics/acute-generalised-exanthematous-pustulosis)
+- [Viêm da quanh miệng](https://dermnetnz.org/topics/periorificial-dermatitis)
+- [Bệnh trứng cá đỏ](https://dermnetnz.org/topics/rosacea)
+
+---
+
+## Phương pháp điều trị bệnh mụn mủ khu trú cấp tính là gì?
+
+Việc loại bỏ thuốc kích thích thường giúp cải thiện nhanh chóng tình trạng phát ban. [Thuốc dưỡng ẩm (chất làm mềm da](https://dermnetnz.org/topics/emollients-and-moisturisers) ) [](https://dermnetnz.org/topics/emollients-and-moisturisers) có thể giúp làm dịu da nhưng không cần điều trị đặc hiệu.
+Da có thể lành lại với [những thay đổi sắc tố](https://dermnetnz.org/topics/pigmentation-disorders) còn sót lại ( [tăng sắc tố sau viêm](https://dermnetnz.org/topics/postinflammatory-hyperpigmentation) hoặc giảm sắc tố sau viêm ) thường cải thiện sau nhiều tháng đến nhiều năm.
+Sau khi chẩn đoán ALEP được xác nhận, bệnh nhân nên được khuyên tránh sử dụng thuốc kích hoạt thêm nữa.

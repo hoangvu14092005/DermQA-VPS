@@ -1,0 +1,75 @@
+# Ban đỏ nhiễm trùng — thông tin bổ sung
+
+Thể loại:
+
+Nhiễm trùng, phát ban
+
+SNOMED CT:
+
+34730008, 63603005, 715197005
+
+**[Nhiễm trùng, phát ban](https://dermnetnz.org/topics/topics?category=Infections)**
+
+
+# **Ban đỏ nhiễm trùng**
+
+Tác giả: Giáo sư danh dự Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand, 1998. Cập nhật tháng 9 năm 2015.
+
+---
+
+## Ban đỏ nhiễm trùng là gì?
+
+Ban đỏ nhiễm trùng là một bệnh nhiễm trùng thường gặp ở trẻ em, gây ra tình trạng má bị tát và phát ban. Bệnh này còn được gọi là bệnh thứ năm và nhiễm virus erythrovirus ở người.
+
+---
+
+## Nguyên nhân gây ra bệnh ban đỏ nhiễm trùng là gì?
+
+Ban đỏ nhiễm trùng là bệnh do virus erythrovirus, EVB19 hoặc Parvovirus B19 gây ra. Đây là một loại virus DNA sợi đơn , nhắm vào các tế bào hồng cầu trong tủy xương. Bệnh lây lan qua các giọt bắn đường hô hấp và có thời gian ủ bệnh từ 7–10 ngày.
+
+---
+
+## Ai có thể mắc bệnh ban đỏ nhiễm trùng?
+
+Ban đỏ nhiễm trùng thường ảnh hưởng đến trẻ nhỏ và thường xảy ra ở nhiều thành viên trong gia đình hoặc lớp học. Ba mươi phần trăm người nhiễm bệnh không có triệu chứng. Bệnh cũng có thể ảnh hưởng đến người lớn chưa từng tiếp xúc với vi-rút.
+![Bệnh thứ năm](https://dermnetnz.org/assets/Uploads/viral/fifth1.jpg)
+![Bệnh thứ năm](https://dermnetnz.org/assets/Uploads/viral/s/slap-cheek.jpg)
+![Bệnh thứ năm](https://dermnetnz.org/assets/Uploads/viral/fifth3.jpg)
+[Xem thêm hình ảnh về ban đỏ nhiễm trùng](https://dermnetnz-org.translate.goog/topics/erythema-infectiosum-fifth-disease-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp) ...
+
+---
+
+## Triệu chứng của bệnh ban đỏ nhiễm trùng là gì?
+
+Nhiễm Parvovirus B19 gây ra các triệu chứng virus không đặc hiệu như sốt nhẹ và đau đầu lúc đầu. Ban đỏ nhiễm trùng (erythema infectiosum) xuất hiện vài ngày sau đó với má đỏ cứng, nóng rát. Tình trạng này kéo dài từ 2 đến 4 ngày, sau đó là phát ban hồng ở chân tay và đôi khi ở thân mình. Ban đỏ phát triển thành dạng lưới hoặc dạng ren.
+Mặc dù phát ban rõ nhất trong vài ngày đầu, nhưng có thể kéo dài tới sáu tuần, ít nhất là theo từng đợt và dễ thấy nhất khi trời ấm.
+
+---
+
+## Biến chứng của bệnh ban đỏ nhiễm trùng
+
+Mặc dù thường là một bệnh nhẹ ở trẻ em, nhiễm erythrovirus B19 có thể dẫn đến các biến chứng. Các biến chứng bao gồm:
+- Viêm đa khớp ở người lớn bị nhiễm bệnh (đau, sưng khớp)
+- Khủng hoảng bất sản hoặc số lượng tế bào máu thấp có khả năng nguy hiểm ở những bệnh nhân mắc các bệnh lý tan máu như thiếu máu tan máu tự miễn và bệnh hồng cầu hình liềm
+- Sảy thai tự nhiên, thai chết lưu trong tử cung (9%) hoặc phù thai nhi ở 3% số con của phụ nữ mang thai bị nhiễm bệnh. Điều này có thể xảy ra nếu ban đỏ nhiễm trùng xuất hiện trong nửa đầu thai kỳ. Parvovirus B19 không gây dị tật bẩm sinh . Vì nguy cơ biến chứng thấp, nhiễm trùng này không được sàng lọc thường quy trong thai kỳ.
+- Nhiễm parvovirus mãn tính ở những bệnh nhân suy giảm miễn dịch, chẳng hạn như người nhận ghép tạng , gây ra tình trạng thiếu máu kháng erythropoietin, protein niệu và xơ cứng cầu thận ở ghép thận
+- Hiếm khi, viêm não , viêm gan , nhồi máu ruột không tắc nghẽn , giảm tiểu cầu không có tế bào khổng lồ , viêm cơ và bệnh tim
+
+---
+
+## Chẩn đoán bệnh ban đỏ nhiễm trùng được thực hiện như thế nào?
+
+Trong hầu hết các trường hợp, ban đỏ nhiễm trùng là chẩn đoán lâm sàng ở trẻ em với biểu hiện đặc trưng là má bị tát và phát ban dạng ren. Parvovirus có thể gây ra các phát ban khác như [hội chứng ban xuất huyết sẩn dạng găng tay và tất](https://dermnetnz.org/topics/papular-purpuric-gloves-and-socks-syndrome) . Chẩn đoán có thể được xác nhận bằng xét nghiệm máu.
+- Huyết thanh học Parvovirus : IgG , IgM. Xét nghiệm này có kết quả sau khoảng 7 ngày.
+- Xét nghiệm PCR Parvovirus nhạy hơn. Xét nghiệm này có kết quả sau khoảng 3 ngày.
+- Lai tại chỗ hoặc miễn dịch mô hóa học trên mẫu sinh thiết
+Nếu trẻ không khỏe hoặc bị thiếu máu tan máu, cần xét nghiệm công thức máu toàn phần. Siêu âm và siêu âm Doppler ở những thai kỳ có nguy cơ cao có thể phát hiện phù thai.
+
+---
+
+## Điều trị ban đỏ nhiễm trùng
+
+Ban đỏ nhiễm trùng thường không phải là một tình trạng nghiêm trọng. Không có phương pháp điều trị đặc hiệu. Trẻ em bị ảnh hưởng có thể tiếp tục đi học, vì giai đoạn nhiễm trùng hoặc nhiễm virus huyết xảy ra trước khi phát ban xuất hiện.
+- Đắp khăn lạnh có thể làm dịu cơn nóng rát ở má.
+- Truyền tế bào hồng cầu và [liệu pháp immunoglobulin](https://dermnetnz.org/topics/intravenous-immunoglobulin) có thể thành công trong trường hợp nhiễm parvovirus mãn tính hoặc trong giai đoạn khủng hoảng bất sản.
+- Bệnh phù thai nhi do nhiễm parvovirus được điều trị bằng cách truyền máu trong tử cung.

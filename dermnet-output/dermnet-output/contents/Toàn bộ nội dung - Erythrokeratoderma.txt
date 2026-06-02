@@ -1,0 +1,98 @@
+# Erythrokeratoderma — thông tin bổ sung
+
+Thể loại:
+
+Di truyền
+
+SNOMED CT:
+
+254215005, 70041004, 239063006, 239062001
+
+**[Di truyền](https://dermnetnz.org/topics/topics?category=Genetic)**
+
+
+# **Erythrokeratoderma**
+
+Tác giả: Tiến sĩ Sharnika Abeyakirthi, Bác sĩ da liễu, Bệnh viện Waikato, Hamilton, New Zealand, 2007.
+
+---
+
+## Bệnh hồng ban đỏ là gì?
+
+Erythrokeratoderma, đôi khi được gọi là erythrokeratodermia, là tên gọi mô tả một nhóm rối loạn sừng hóa hiếm gặp. Đây là quá trình hình thành các lớp khác nhau của lớp biểu bì , lớp ngoài cùng của da. Các loại erythrokeratoderma khác nhau được đặc trưng bởi các mảng ban đỏ (đỏ) và tăng sừng ( vảy nến ) có ranh giới rõ ràng .
+![Không có caption](https://dermnetnz.org/assets/Uploads/scaly/erythrokeratoderma1.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/scaly/erythrokeratoderma2.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/scaly/erythrokeratoderma3.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/scaly/erythrokeratoderma4.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/scaly/erythrokeratoderma5.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/scaly/erythrokeratoderma6.jpg)
+
+---
+
+## Ai mắc bệnh hồng ban đỏ?
+
+Bệnh hồng ban sừng hóa là do một số rối loạn di truyền, chủ yếu là trội trên nhiễm sắc thể thường . Điều này có nghĩa là gen này xuất phát từ một trong hai cha mẹ và người mắc bệnh có thể truyền bệnh cho 50% con cái của mình. Các trường hợp lẻ tẻ xảy ra do đột biến gen mới trong quá trình thụ thai.
+Ở hầu hết các loại erythrokeratoderma, khiếm khuyết cơ bản dường như là đột biến ở một trong các gen connexin. Connexin là các protein liên kết khe hở , được tìm thấy trong các kênh kết nối các tế bào liền kề . Các connexin khác nhau được tìm thấy ở các mô khác nhau, giải thích cho sự khác biệt về biểu hiện lâm sàng.
+
+---
+
+## Bệnh hồng ban đỏ được chẩn đoán như thế nào?
+
+Bệnh hồng ban sừng hóa được chẩn đoán dựa trên biểu hiện lâm sàng. Có thể [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) để xét nghiệm mô học , nhưng không có đặc điểm nào đặc biệt.
+
+---
+
+## Có phương pháp điều trị nào cho bệnh hồng ban đỏ không?
+
+Tư vấn di truyền nên được cung cấp cho những người bị ảnh hưởng và gia đình họ trong độ tuổi sinh đẻ. Theo thời gian, các xét nghiệm di truyền cho các rối loạn cụ thể có thể được cung cấp cho một số gia đình.
+Không có phương pháp điều trị đặc hiệu hoặc chữa khỏi bệnh đỏ da toàn thân. Việc giảm thiểu thay đổi nhiệt độ và ma sát cơ học là rất quan trọng. Có thể cải thiện triệu chứng bằng cách:
+- [Chất làm mềm](https://dermnetnz.org/topics/emollients-and-moisturisers)
+- Thuốc tiêu sừng như [urê](https://dermnetnz.org/topics/urea) , [axit salicylic](https://dermnetnz.org/topics/salicylic-acid) hoặc [axit alpha hydroxy](https://dermnetnz.org/topics/alpha-hydroxy-acid-facial-treatments)
+- [Steroid tại chỗ](https://dermnetnz.org/topics/topical-steroid)
+- [Retinoid tại chỗ](https://dermnetnz.org/topics/topical-retinoids)
+- Thuốc retinoid đường uống như [acitretin](https://dermnetnz.org/topics/acitretin) hoặc [isotretinoin](https://dermnetnz.org/topics/isotretinoin) . Chúng làm mỏng các mảng bám và giảm bong tróc nhưng tình trạng đỏ vẫn tiếp diễn. Việc quyết định có nên dùng chúng lâu dài cho bệnh đỏ da toàn thân (erythrokeratoderma) có thể khó khăn vì chúng có thể gây ra một số tác dụng phụ.
+
+---
+
+## Các loại bệnh hồng ban đỏ cụ thể
+
+Vì bệnh hồng ban đỏ da rất hiếm gặp, việc phân loại các loại bệnh khác nhau vẫn đang trong quá trình hoàn thiện. Có một số hội chứng được xác định rõ ràng và một số biến thể không điển hình khác được liệt kê dưới đây.
+- [Erythrokeratoderma variabilis (](https://dermnetnz.org/topics/erythrokeratoderma) hội chứng Mendes da Costa )
+- [Erythrokeratoderma progressiva symmetrica](https://dermnetnz.org/topics/erythrokeratoderma) (hội chứng Gottron)
+- [Bệnh hồng ban đỏ tiến triển một phần đối xứng](https://dermnetnz.org/topics/erythrokeratoderma) với bệnh lý thần kinh ngoại biên và điếc
+- Erythrokeratoderma en cocardes (hội chứng Degos)
+- Bệnh hồng ban sừng hóa kèm chứng mất điều hòa
+- Bệnh hồng ban di cư hình khuyên
+- Tổn thương giống bệnh hồng ban sừng hóa trong hội chứng KID ( viêm giác mạc , [vảy cá](https://dermnetnz.org/topics/ichthyosis) và điếc)
+- Bệnh hồng ban sừng hóa với tổn thương quanh nhân tạo
+- Bệnh hồng ban đỏ khu trú
+
+### Erythrokeratoderma variabilis
+Erythrokeratoderma variabilis là loại erythrokeratoderma phổ biến nhất và di truyền trội trên nhiễm sắc thể thường hoặc ngẫu nhiên. Hơn 50% số người bị ảnh hưởng có biểu hiện tổn thương da khi sinh hoặc trong thời kỳ sơ sinh , và 90% sẽ biểu hiện một số dấu hiệu của bệnh trong năm đầu đời.
+Erythrokeratoderma variabilis gây ra các mảng đỏ, hình tròn hoặc hình bầu dục, có vảy (các mảng dày) có thể liên kết với nhau tạo thành các mô hình giống như bản đồ. Có 2 loại tổn thương da :
+- Mảng bám cố định, thường xuất hiện ở bề mặt ngoài của cánh tay và chân
+- Mảng bám di trú có thể xuất hiện ở bất kỳ vị trí nào, kéo dài trong nhiều giờ đến nhiều ngày và mờ dần hoặc di chuyển đến các khu vực khác.
+Trong những trường hợp nghiêm trọng, bệnh ban đỏ toàn thân có thể lan rộng.
+Một số bệnh nhân bị erythrokeratoderma variabilis có cảm giác nóng rát và ngứa ở vùng da bị ảnh hưởng, trong khi những người khác không có triệu chứng. Các tổn thương da có thể do các yếu tố bên trong và/hoặc bên ngoài gây ra, chẳng hạn như:
+- Căng thẳng về mặt cảm xúc
+- Thay đổi nhiệt độ
+- Ma sát cơ học
+- Thời tiết nóng hoặc lạnh.
+Tóc , răng và móng không bị ảnh hưởng. Bệnh hồng ban sừng hóa không ảnh hưởng đến sự phát triển thể chất và tinh thần , cũng như sức khỏe tổng quát của cá nhân.
+Sau khi tiến triển dần dần trong suốt thời thơ ấu và trẻ em, bệnh có xu hướng ổn định trong thời [kỳ dậy thì](https://dermnetnz.org/topics/skin-changes-at-puberty) .
+
+### Erythrokeratoderma tiến triển đối xứng
+Bệnh hồng ban sừng tiến triển đối xứng là một dạng hồng ban sừng tiến triển rất hiếm gặp, cũng có thể di truyền. Có thể xảy ra các trường hợp lẻ tẻ.
+Tổn thương da không xuất hiện lúc mới sinh và bắt đầu xuất hiện từ khi còn nhỏ hoặc trong giai đoạn đầu đời. Người bệnh xuất hiện các mảng đỏ, có vảy cố định hoặc tiến triển chậm , phân bố đối xứng trên cơ thể. Thường gặp ở các chi, ví dụ như tay và chân, nhưng điều này ít gặp ở bệnh hồng ban đa dạng (erythrokeratoderma variabilis).
+Sự phát triển về thể chất và tinh thần là bình thường.
+Giống như erythrokeratoderma variabilis, các tổn thương da của erythrokeratoderma progressiva symmetrica tiến triển chậm và tăng dần về số lượng và kích thước trong thời thơ ấu, và có xu hướng ổn định sau [tuổi dậy thì](https://dermnetnz.org/topics/skin-changes-at-puberty) . Các trường hợp di truyền có triệu chứng suốt đời, nhưng có báo cáo về sự cải thiện tự nhiên sau nhiều năm ở các trường hợp lẻ tẻ.
+
+### Bệnh hồng ban đỏ tiến triển một phần đối xứng
+Bệnh hồng cầu hình liềm tiến triển một phần đối xứng dẫn đến điếc, yếu cơ, tổn thương thần kinh ngoại biên , khuyết tật về thể chất và trí tuệ ngoài bệnh hồng cầu hình liềm ngoại biên không điển hình.
+
+---
+
+## Các loại erythrokeratoderma khác
+
+Các loại erythrokeratoderma khác rất hiếm gặp và chỉ có một vài trường hợp được báo cáo trên toàn thế giới. Nhiều trường hợp chỉ bị tổn thương da và các triệu chứng khác đều bình thường.
+Bệnh hồng cầu hình liềm tiến triển một phần đối xứng dẫn đến điếc, yếu cơ, tổn thương thần kinh ngoại biên, khuyết tật về thể chất và trí tuệ ngoài bệnh hồng cầu hình liềm ngoại biên không điển hình.

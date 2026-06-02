@@ -1,0 +1,141 @@
+# Bệnh da do cắt cụt chi — thông tin bổ sung
+
+Thể loại:
+
+Viêm
+
+SNOMED CT:
+
+238488003
+
+**[Viêm](https://dermnetnz.org/topics/topics?category=Inflammation)**
+
+
+# **Bệnh da do cắt cụt chi**
+
+Tác giả: Tiến sĩ Beth Wright, Chuyên gia y khoa, Perth, Úc; Tiến sĩ Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand, 2013.
+
+---
+
+## Bệnh da do cắt cụt chi là gì?
+
+Viêm da do cắt cụt chi là các bệnh lý da ảnh hưởng đến gốc chi sau khi cắt cụt chi. Bệnh có thể xảy ra ngay sau phẫu thuật, hoặc nhiều năm sau mới phát triển. Bệnh còn được gọi là viêm da do cắt cụt chi.
+![Chân giả](https://dermnetnz.org/assets/Uploads/reactions/amputation-stump-01.jpg)
+![Loét và viêm da](https://dermnetnz.org/assets/Uploads/reactions/amputation-stump-02.jpg)
+![Ban xuất huyết do áp lực](https://dermnetnz.org/assets/Uploads/reactions/amputation-stump-03.jpg)
+
+---
+
+## Bệnh da do cắt cụt chi phổ biến như thế nào?
+
+Bệnh da gốc chi được báo cáo là ảnh hưởng đến 34–74% số người bị cắt cụt chi [1]. Các số liệu thay đổi tùy theo thiết kế, mẫu dân số và phương pháp được sử dụng trong các nghiên cứu.
+Các vấn đề về da có xu hướng kéo dài trong thời gian dài, như được mô tả ở các cựu chiến binh 38 năm sau khi cắt cụt chi [1].
+
+---
+
+## Tại sao vấn đề về da lại xảy ra ở gốc chi sau khi cắt cụt?
+
+Các yếu tố khiến gốc cây dễ mắc bệnh về da bao gồm:
+- Các tình trạng cơ bản dẫn đến cắt cụt chi, ví dụ như tắc nghẽn các mạch máu nhỏ trong bệnh mạch máu như [bệnh tiểu đường](https://dermnetnz.org/topics/skin-problems-associated-with-diabetes-mellitus) hoặc bệnh huyết khối tắc mạch
+- Sưng tấy thay đổi do phẫu thuật, băng bó, tắc nghẽn tĩnh mạch
+- Sẹo tại vị trí phẫu thuật
+- Chân giả không vừa vặn
+- Thiếu khả năng thích nghi sinh lý với áp lực do chi giả gây ra
+- Mồ hôi bị giữ lại trong ổ cắm khít của chân giả
+- Sự phát triển của vi khuẩn cộng sinh (bình thường) và vi khuẩn gây bệnh
+- Tiếp xúc gần với vật liệu của chi giả có thể gây kích ứng da hoặc hiếm khi gây ra phản ứng dị ứng [2].
+Mặc dù các bệnh lý da liễu có thể phát sinh trước khi lắp và sử dụng chân giả, nhưng các yếu tố góp phần chính là mức độ hoạt động và việc sử dụng chân giả [2]. Mức độ nghiêm trọng cũng phụ thuộc vào:
+- Tuổi của bệnh nhân
+- Lý do cắt cụt
+- Các bệnh về da hiện có như [viêm da dị ứng](https://dermnetnz.org/topics/atopic-dermatitis) hoặc [bệnh vẩy nến](https://dermnetnz.org/topics/psoriasis)
+- Mức độ cắt cụt (dưới hoặc trên đầu gối)
+- Kiểu dáng đi
+- Vật liệu được sử dụng để chế tạo, làm sạch hoặc sửa chữa chân tay giả bao gồm nhựa, chất kết dính, cao su
+- Các sản phẩm bôi lên da như chất tẩy rửa, chất làm mềm da , chất chống mồ hôi
+- Dụng cụ hỗ trợ đi lại.
+
+---
+
+## Những tình trạng da nào ảnh hưởng đến gốc chi bị cắt cụt?
+
+Các vấn đề về da ảnh hưởng đến gốc chi bị cắt cụt được liệt kê dưới đây.
+
+### Tắc nghẽn mạch máu
+- [Ban xuất huyết](https://dermnetnz.org/topics/purpura) , hoại tử (chết mô), loét
+- Tăng sản mụn cóc do tắc nghẽn tĩnh mạch và/hoặc [phù bạch huyết](https://dermnetnz.org/topics/lymphoedema)
+
+### Các vấn đề do cơ học gây ra
+- [Loét do tì đè](https://dermnetnz.org/topics/pressure-ulcer) , xói mòn và trầy xước
+- [U nang biểu bì](https://dermnetnz.org/topics/cutaneous-cysts-and-pseudocysts) và xoang do cọ xát và ma sát liên tục
+- [Mụn cơm và vết chai](https://dermnetnz.org/topics/corn-callus)
+
+### Hiện tượng Koebner (bệnh da liễu phát sinh ở vùng da bị tổn thương)
+- [Bệnh vẩy nến](https://dermnetnz.org/topics/psoriasis)
+- [Lichen phẳng](https://dermnetnz.org/topics/lichen-planus)
+![Bệnh lý mạch máu ảnh hưởng đến việc cắt cụt chi do tiểu đường](https://dermnetnz.org/assets/Uploads/reactions/amputation-stump-04.jpg)
+![Sự hình thành mô sẹo trên gốc chi bị cắt cụt](https://dermnetnz.org/assets/Uploads/reactions/amputation-stump-05.jpg)
+![Bệnh vẩy nến](https://dermnetnz.org/assets/Uploads/reactions/amputation-stump-11-big.jpg)
+
+### Viêm da
+- [Viêm da tiếp xúc kích ứng](https://dermnetnz.org/topics/irritant-contact-dermatitis)
+- Phát ban mồ hôi ở các nếp gấp và vết nhăn trên da ( [hăm da](https://dermnetnz.org/topics/intertrigo) )
+- [Viêm da tiếp xúc dị ứng](https://dermnetnz.org/topics/allergic-contact-dermatitis) với chất tẩy rửa, sản phẩm chăm sóc da hoặc vật liệu giả (cần được xác nhận bằng [xét nghiệm miếng dán](https://dermnetnz.org/topics/patch-tests) )
+- Ứ trệ tĩnh mạch / [viêm da do trọng lực](https://dermnetnz.org/topics/venous-eczema)
+
+### Sự nhiễm trùng
+- [Nhiễm trùng do vi khuẩn](https://dermnetnz.org/topics/bacterial-skin-infections) như [viêm mô tế bào](https://dermnetnz.org/topics/cellulitis) , [nhọt](https://dermnetnz.org/topics/boil) và [viêm nang lông](https://dermnetnz.org/topics/folliculitis)
+- Nhiễm trùng nấm men ( [bệnh nấm candida](https://dermnetnz.org/topics/candida) ) và [nấm da (](https://dermnetnz.org/topics/tinea) [bệnh nấm da)](https://dermnetnz.org/topics/fungal-skin-infections)
+- Nhiễm trùng do vi-rút như [u mềm lây](https://dermnetnz.org/topics/molluscum-contagiosum)
+
+### Các yếu tố vật lý
+- Da lạnh và đổ mồ hôi quá nhiều ( [tăng tiết mồ hôi](https://dermnetnz.org/topics/hyperhidrosis) cục bộ ) [3] [](https://dermnetnz.org/topics/hyperhidrosis)
+
+### Các vấn đề về da ảnh hưởng đến gốc chi bị cắt cụt
+![Viêm da cấp tính ảnh hưởng đến gốc chi bị cắt cụt](https://dermnetnz.org/assets/Uploads/reactions/amputation-stump-06.jpg)
+![U mềm lây ảnh hưởng đến phần cụt cụt](https://dermnetnz.org/assets/Uploads/reactions/amputation-stump-07.jpg)
+![Bệnh hoại tử ảnh hưởng đến gốc chi bị cắt cụt](https://dermnetnz.org/assets/Uploads/reactions/amputation-stump-08.jpg)
+Trong số này, loét do tì đè và tổn thương da (39%) và nhiễm trùng (25%) là phổ biến nhất [1][2][5], với tới một phần tư số người bị cụt chi bị ảnh hưởng hơn 50% thời gian.[1] Trong một số trường hợp, phát ban không rõ nguyên nhân.
+Các tổn thương da thông thường như [mụn cóc](https://dermnetnz.org/topics/viral-wart) , [nốt ruồi](https://dermnetnz.org/topics/melanocytic-naevus) và [ung thư da](https://dermnetnz.org/topics/skin-cancer) cũng có thể xuất hiện ở gốc cây.
+
+### Ung thư da xuất hiện ở chi của người bị cắt cụt
+![Ung thư biểu mô nội biểu mô ở gốc chi bị cắt cụt](https://dermnetnz.org/assets/Uploads/reactions/amputation-stump-12.jpg)
+![Ung thư biểu mô tế bào vảy ở chi của người bị cắt cụt](https://dermnetnz.org/assets/Uploads/reactions/amputation-stump-13.jpg)
+
+---
+
+## Tác động của bệnh da gốc chi lên người bị cắt cụt
+
+Các tác động bất lợi về thể chất, tinh thần và cảm xúc của bệnh viêm da gốc chi có thể ảnh hưởng đến sức khỏe và chất lượng cuộc sống, bao gồm:
+- Giảm sử dụng chi giả, được báo cáo ở 53% người bị cụt chi [5]
+- Giảm khoảng cách đi bộ do đau hoặc kích ứng ở vị trí gốc chân
+- Nhiều lần thay đổi và thay thế các chi giả
+- Bỏ chân tay giả.
+
+---
+
+## Chăm sóc da cho người bị cụt chi
+
+Để ngăn ngừa các biến chứng do chăm sóc da kém, hãy kiểm tra gốc chi bị cắt cụt hàng ngày, giữ cho da khô bằng cách thay tất ẩm kịp thời và bảo vệ các phần xương nhô ra và các vùng nhạy cảm với áp lực khỏi bị thương.
+- Mặc quần áo bó hoặc băng bó để giảm sưng và sẹo.
+- Làm sạch hàng ngày bằng sữa rửa mặt không chứa xà phòng không gây dị ứng, rửa sạch hoàn toàn bằng nước và lau khô nhẹ nhàng, kỹ lưỡng bằng khăn mềm sạch.
+- Dưỡng ẩm cho da khô vào ban đêm bằng kem làm mềm da dịu nhẹ, không mùi .
+- Đảm bảo tất mềm mại và không gây kích ứng, đồng thời thay tất ngay khi bị ẩm, ít nhất là mỗi ngày một lần.
+- Vệ sinh lót và ổ cắm hàng ngày.
+- Tháo bỏ thiết bị và nghỉ ngơi nếu bị lở loét.
+- Hãy tìm kiếm sự trợ giúp từ trung tâm lắp chân tay và bác sĩ ngay lập tức.
+Người bệnh tiểu đường cần phải cảnh giác theo dõi và kiểm soát lượng đường trong máu, đồng thời thường xuyên kiểm tra các vùng da bị tê.
+
+---
+
+## Điều trị bệnh lý da do cắt cụt chi
+
+Việc điều trị bệnh da gốc chi phụ thuộc vào việc đánh giá cẩn thận để xác định các yếu tố góp phần gây bệnh.
+- Có thể sử dụng bột và [chất chống mồ hôi không mùi để giảm tiết mồ hôi.](https://dermnetnz.org/topics/antiperspirant)
+- [Nhiễm trùng do vi khuẩn](https://dermnetnz.org/topics/bacterial-skin-infections) được điều trị bằng thuốc [sát trùng](https://dermnetnz.org/topics/antiseptic) , [kháng sinh](https://dermnetnz.org/topics/antibiotics) .
+- Các vết chai được điều trị bằng các chất làm bong lớp sừng như [kem urê](https://dermnetnz.org/topics/urea) .
+- U nang có thể cần phải phẫu thuật cắt bỏ và lắp lại thiết bị.
+- Lông mọc ngược và [viêm nang lông](https://dermnetnz.org/topics/folliculitis) được điều trị bằng cách không [cạo lông](https://dermnetnz.org/topics/shaving) , dùng thuốc kháng sinh và nếu cần thiết phải [triệt lông](https://dermnetnz.org/topics/epilation) vĩnh viễn .
+- [Nhiễm trùng nấm men và nấm](https://dermnetnz.org/topics/fungal-skin-infections) được điều trị bằng [thuốc chống nấm](https://dermnetnz.org/topics/oral-antifungal-medication) [tại chỗ](https://dermnetnz.org/topics/topical-antifungal-medication) hoặc uống . [](https://dermnetnz.org/topics/oral-antifungal-medication)
+- [Viêm da](https://dermnetnz.org/topics/dermatitis) được điều trị bằng [thuốc làm mềm da](https://dermnetnz.org/topics/emollients-and-moisturisers) và [steroid bôi ngoài da](https://dermnetnz.org/topics/topical-steroid) .
+- Phẫu thuật cắt bỏ các vùng vết thương bị vỡ hoặc sửa lại phần cắt cụt.
+Thật không may, da có thể không thích ứng được với áp lực cơ học, vật liệu và môi trường kín liên quan đến việc sử dụng bộ phận giả [1].

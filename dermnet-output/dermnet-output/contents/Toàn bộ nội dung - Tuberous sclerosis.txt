@@ -1,0 +1,87 @@
+# Bệnh xơ cứng củ — thông tin bổ sung
+
+Thể loại:
+
+Di truyền
+
+SNOMED CT:
+
+7199000, 254243001, 403823001, 36025004, 254244007
+
+**[Di truyền](https://dermnetnz.org/topics/topics?category=Genetic)**
+
+
+# **Bệnh xơ củ**
+
+Tác giả: Vanessa Ngan, Biên tập viên, 2003.
+
+---
+
+## Bệnh xơ củ là gì?
+
+Xơ cứng củ hay phức hợp xơ cứng củ (TSC) là một rối loạn di truyền đặc trưng bởi [u hamartoma](https://dermnetnz.org/topics/hamartoma) ở nhiều cơ quan, đặc biệt là da, não, mắt, thận và tim. U hamartoma là dị tật không phải ung thư, bao gồm sự phát triển quá mức của các tế bào và mô thường xuất hiện ở vùng bị ảnh hưởng, bao gồm cả naevi (bớt bẩm sinh). Xơ cứng củ còn được gọi là epiloia.
+Tổn thương da , co giật động kinh và chậm phát triển /vấn đề về hành vi là những đặc điểm chính của bệnh phức hợp xơ cứng củ. Tuy nhiên, mỗi người mắc bệnh có thể bị ảnh hưởng theo nhiều cách khác nhau và với mức độ nghiêm trọng khác nhau. Một số bệnh nhân có thể có rất ít hoặc không có triệu chứng nào, trong khi những người khác có thể bị ảnh hưởng nghiêm trọng với rất nhiều triệu chứng.
+
+---
+
+## Nguyên nhân gây ra bệnh xơ củ và ai mắc bệnh này?
+
+Bệnh xơ củ là một rối loạn di truyền do đột biến ở một trong hai gen :
+- TSC1, sản xuất ra một loại protein gọi là hamartin (10–30% trường hợp)
+- TSC2, sản xuất ra một loại protein gọi là tuberin
+Khoảng một phần ba số trường hợp xơ cứng củ là do di truyền từ cha mẹ bị bệnh. Tất cả các trường hợp khác là do đột biến mới xuất hiện rải rác trong giai đoạn đầu đời, thường gặp nhất là đột biến gen TSC2.
+Mọi người thuộc mọi chủng tộc và giới tính đều có thể bị ảnh hưởng. Tình trạng này có thể biểu hiện rõ ràng bất cứ lúc nào từ khi còn nhỏ đến khi trưởng thành, nhưng thường xảy ra ở độ tuổi từ 2-6 tuổi.
+![Di truyền của bệnh xơ cứng củ*](https://dermnetnz.org/assets/Uploads/Tuberous-Sclerosis.jpg)
+*Hình ảnh được cung cấp bởi Genetics 4 Medics
+
+---
+
+## Những dấu hiệu trên da của bệnh phức hợp xơ cứng củ là gì?
+
+Tổn thương da được tìm thấy ở 60-70% các trường hợp bệnh xơ cứng củ.
+Tổn thương Đặc trưng [U xơ mạch](https://dermnetnz.org/topics/angiofibroma/) Phát ban trên mặt xuất hiện dưới dạng các đốm nhỏ màu hồng hoặc đỏ lan rộng trên má và mũi theo hình cánh bướm Thường xuất hiện ở độ tuổi từ 3-10 tuổi và tăng về kích thước và số lượng cho đến tuổi vị thành niên Cũng được tìm thấy xung quanh móng tay , da đầu và trán Trước đây gọi không đúng là u tuyến bã nhờn
+
+### U xơ mạch
+![U xơ mạch trong bệnh xơ cứng củ](https://dermnetnz.org/assets/Uploads/systemic/tubscler2.jpg)
+![U xơ mạch trong bệnh xơ cứng củ](https://dermnetnz.org/assets/Uploads/systemic/s/tubscler7.jpg)
+![U xơ mạch trong bệnh xơ cứng củ](https://dermnetnz.org/assets/Uploads/systemic/tubscler1.jpg)
+U xơ móng Các cục u mịn, chắc, màu thịt nổi lên từ các nếp gấp móng tay Các vị trí quanh móng (xung quanh móng) phổ biến hơn các vị trí dưới móng (dưới móng) Thường gặp ở chân hơn ở tay Có thể xuất hiện rãnh dọc ở móng mà không thấy u xơ Các vệt đỏ ngắn ( [xuất huyết dằm](https://dermnetnz.org/topics/splinter-haemorrhage) ) hoặc các vệt trắng ( [bạch móng](https://dermnetnz.org/topics/white-nail) ) trên móng bị ảnh hưởng
+
+### U xơ quanh móng
+![U xơ quanh móng trong bệnh xơ cứng củ](https://dermnetnz.org/assets/Uploads/systemic/tubscler3.jpg)
+![U xơ quanh móng trong bệnh xơ cứng củ](https://dermnetnz.org/assets/Uploads/systemic/s/tubscler8.jpg)
+![U xơ quanh móng trong bệnh xơ cứng củ](https://dermnetnz.org/assets/Uploads/koenentumor2b.jpg)
+Miếng vá Shagreen Nốt ruồi mô liên kết màu da cam có kích thước khác nhau, thường ở lưng dưới
+
+### Miếng vá Shagreen
+![Mảng da cá đuối trong bệnh xơ cứng củ](https://dermnetnz.org/assets/Uploads/systemic/shagreen1.jpg)
+![Mảng da cá đuối trong bệnh xơ cứng củ](https://dermnetnz.org/assets/Uploads/systemic/shagreen2.jpg)
+![Mảng da cá đuối trong bệnh xơ cứng củ](https://dermnetnz.org/assets/Uploads/systemic/shagreen3.jpg)
+Các đốm trắng hình trứng hoặc hình lá tro Có thể xuất hiện khi mới sinh hoặc thời kỳ đầu trẻ sơ sinh 3 hoặc nhiều đốm trắng khi sinh gợi ý chẩn đoán bệnh xơ cứng củ
+
+### Dấu vết lá tần bì
+![Dấu vết lá cây tần bì trong bệnh xơ cứng củ](https://dermnetnz.org/assets/Uploads/systemic/ashleaf1.jpg)
+![Dấu vết lá cây tần bì trong bệnh xơ cứng củ](https://dermnetnz.org/assets/Uploads/systemic/ashleaf2.jpg)
+![Dấu vết lá cây tần bì trong bệnh xơ cứng củ](https://dermnetnz.org/assets/Uploads/systemic/ashleaf3.jpg)
+[Xem thêm hình ảnh về bệnh xơ cứng củ](https://dermnetnz-org.translate.goog/topics/tuberous-sclerosis-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp) .
+
+---
+
+## Sự tham gia của các cơ quan khác
+
+Động kinh xuất hiện ở khoảng 70% bệnh nhân mắc bệnh xơ cứng củ.
+- Thường bắt đầu ở trẻ sơ sinh hoặc thời thơ ấu và có thể xuất hiện trước khi xuất hiện các tổn thương da trong nhiều năm
+- Số lượng khối u (củ não) trong não càng nhiều thì mức độ nghiêm trọng của cơn động kinh càng cao.
+Chậm phát triển và các vấn đề về hành vi cũng có thể xảy ra. Các triệu chứng bao gồm khuyết tật trí tuệ từ nhẹ đến nặng, tự kỷ, rối loạn thiếu tập trung (ADD), lo âu, trầm cảm, hoang tưởng và tâm thần phân liệt. U xơ mạch máu mặt rõ rệt và các mảng giảm sắc tố đều liên quan đến mức độ khuyết tật trí tuệ cao hơn.
+Các dấu hiệu và triệu chứng khác của bệnh xơ cứng củ bao gồm:
+- Liên quan đến mắt: các đốm trắng trên mống mắt và các cục trắng trên võng mạc
+- Khối u tim, đường tiêu hóa và thận
+- Những thay đổi ở phổi.
+
+---
+
+## Có những phương pháp điều trị nào?
+
+Bệnh xơ cứng củ là một rối loạn đa hệ thống , do đó thường cần phải có sự điều trị của một nhóm bác sĩ chuyên khoa.
+Các tổn thương da, đặc biệt là [u xơ mạch](https://dermnetnz.org/topics/angiofibroma) ở mặt , có thể gây ra căng thẳng tâm lý cho một số bệnh nhân. Có thể sử dụng [phương pháp điều trị bằng laser](https://dermnetnz.org/topics/facial-red-vein-and-vascular-birthmark-treatments) hoặc [phẫu thuật điện để loại bỏ u xơ mạch.](https://dermnetnz.org/topics/electrosurgery)
+Gel ức chế mTOR bôi ngoài da [sirolimus](https://dermnetnz.org/topics/sirolimus) 0,2% (còn gọi là rapamycin) đã được chứng minh là hữu ích trong việc làm giảm u [xơ mạch](https://dermnetnz.org/topics/angiofibroma) trong một thử nghiệm lâm sàng với 36 người lớn và trẻ em. Một nghiên cứu cũng đã báo cáo sự cải thiện ở các nốt giảm sắc tố . Một thử nghiệm lớn hơn , đa trung tâm, ngẫu nhiên , mù đôi , có đối chứng với tá dược , đã tuyển chọn 179 bệnh nhân bị u xơ mạch mặt liên quan đến bệnh xơ cứng củ và thấy sự cải thiện ở hơn 80% bệnh nhân được điều trị bằng rapamycin bôi ngoài da 1%, hầu hết xảy ra trong tháng đầu tiên. Thuốc được dung nạp tốt [5–8]. [](https://dermnetnz.org/topics/sirolimus) [](https://dermnetnz.org/topics/angiofibroma)

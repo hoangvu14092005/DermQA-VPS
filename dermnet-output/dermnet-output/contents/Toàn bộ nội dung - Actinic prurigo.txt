@@ -1,0 +1,62 @@
+# Ngứa do ánh sáng — thông tin bổ sung
+
+Thể loại:
+
+Phản ứng
+
+SNOMED CT:
+
+201015007
+
+**[Phản ứng](https://dermnetnz.org/topics/topics?category=Reactions)**
+
+
+# **Ngứa do ánh sáng**
+
+Tác giả: Vanessa Ngan, Biên tập viên, 2006.
+
+---
+
+## Ngứa da do ánh sáng là gì?
+
+Ngứa do ánh sáng là tình trạng da ngứa dữ dội do phản ứng bất thường với ánh sáng mặt trời ( [nhạy cảm với ánh sáng](https://dermnetnz.org/topics/photosensitivity) ). Bệnh biểu hiện bằng các nốt sẩn nhỏ, ngứa dữ dội ( [ngứa](https://dermnetnz.org/topics/prurigo) ) ở những vùng da tiếp xúc với ánh nắng.
+Trong các trường hợp nghiêm trọng và kéo dài, vùng da được che phủ bởi quần áo (ví dụ như mông) cũng có thể bị ảnh hưởng, và do đó, tác động của ánh sáng mặt trời có thể không rõ ràng. Hơn nữa, tình trạng này thường kéo dài quanh năm, mặc dù thường nặng hơn nhiều vào những tháng mùa hè.
+Bệnh ngứa do ánh sáng đôi khi còn được gọi là 'Hutchinson prurigo'.
+![Ngứa do ánh sáng](https://dermnetnz.org/assets/Uploads/reactions/actinic-prurigo1.jpg)
+![Ngứa do ánh sáng](https://dermnetnz.org/assets/Uploads/reactions/actinic-prurigo3.jpg)
+![Ngứa do ánh sáng](https://dermnetnz.org/assets/Uploads/actinic-prurigo2.jpg)
+
+---
+
+## Nguyên nhân nào gây ra bệnh ngứa do ánh sáng?
+
+Ngứa do ánh sáng xảy ra khi người bệnh tiếp xúc với tia cực tím sóng dài và sóng ngắn (UVA và UVB). Nguyên nhân gây ra phản ứng giữa da và ánh sáng mặt trời này vẫn chưa được biết rõ. Nghiên cứu hiện tại cho thấy ngứa do ánh sáng có thể là một bệnh di truyền do miễn dịch , vì tiền sử gia đình mắc bệnh đã được tìm thấy ở một số bệnh nhân. Các nghiên cứu di truyền đã chỉ ra rằng tần suất kháng nguyên bạch cầu người ( HLA ) DRB1*0407 tăng lên ở những người bị ảnh hưởng.
+
+---
+
+## Ai bị ngứa do ánh sáng?
+
+Ngứa do ánh sáng có thể ảnh hưởng đến mọi loại da, nhưng phổ biến hơn ở người Mỹ Latinh và người Mỹ bản địa có [làn da](https://dermnetnz.org/topics/skin-phototype) sẫm màu . Do đó, bệnh này phổ biến ở Mexico và Trung và Nam Mỹ, nơi bệnh thường ảnh hưởng đến những người sống ở vùng cao. Bệnh hiếm khi ảnh hưởng đến người dân ở Châu Âu và Châu Á.
+Bệnh có thể ảnh hưởng đến mọi lứa tuổi. Một phần ba số bệnh nhân là trẻ em; trong nhiều trường hợp, bệnh khởi phát ở trẻ em trước [tuổi dậy thì](https://dermnetnz.org/topics/skin-changes-at-puberty) . Khi bệnh xuất hiện ở trẻ em, cả nam và nữ đều bị ảnh hưởng như nhau. Tuy nhiên, trong trường hợp ngứa do ánh sáng khởi phát ở người lớn, phụ nữ bị ảnh hưởng nhiều gấp đôi so với nam giới.
+
+---
+
+## Các đặc điểm lâm sàng của bệnh ngứa do ánh sáng là gì?
+
+Ngứa do ánh sáng đặc trưng bởi tình trạng phát ban ngứa dữ dội. Ban bao gồm các nốt sẩn nhỏ, đỏ, bị trầy xước, viêm, mảng dày và các nốt sần. Ban thường xuất hiện vài giờ hoặc vài ngày sau khi tiếp xúc với ánh nắng mặt trời. Triệu chứng ngứa mãn tính , loét , rỉ dịch, đóng vảy và bong tróc xuất hiện ở 60–70% bệnh nhân. Ngứa do ánh sáng có thể trông rất giống [viêm da dị ứng](https://dermnetnz.org/topics/atopic-dermatitis) ( eczema ) nhưng nghiêm trọng hơn ở những vùng tiếp xúc với ánh nắng mặt trời. Các vùng bị ảnh hưởng bao gồm:
+- Các vùng da tiếp xúc với ánh nắng mặt trời trên khuôn mặt như má, mũi, trán, cằm và dái tai. Vùng chữ V ở cổ và ngực, mặt trên của cánh tay và bàn tay.
+- Môi bị ảnh hưởng trong 60–70% trường hợp (trong 10% trường hợp, môi là vị trí duy nhất bị ảnh hưởng).
+- Kết mạc mắt bị ảnh hưởng ở 45% bệnh nhân.
+Ngứa do ánh sáng thường bắt đầu hoặc trở nặng hơn vào mùa xuân và mùa hè. Ở nhiều bệnh nhân, các triệu chứng kéo dài quanh năm, đặc biệt là ở các vùng nhiệt đới.
+
+---
+
+## Phương pháp điều trị bệnh ngứa do ánh sáng là gì?
+
+Không có cách chữa khỏi bệnh sẩn ngứa do ánh sáng. Mục tiêu chính là phòng ngừa bằng cách tránh tiếp xúc với ánh nắng mặt trời. Bệnh nhân cần nhận thức được tình trạng của mình sẽ trở nên tồi tệ hơn vào những tháng nắng nhất trong năm và phải tuân thủ các biện pháp [bảo vệ da khỏi ánh nắng mặt trời](https://dermnetnz.org/topics/sun-protection) để tránh hoặc giảm các đợt bùng phát.
+Một số loại thuốc đã được sử dụng để giúp làm giảm các triệu chứng của bệnh ngứa do ánh sáng. Bao gồm:
+- [Thuốc làm mềm da](https://dermnetnz.org/topics/emollients-and-moisturisers) để giảm ngứa.
+- [Corticosteroid tại chỗ](https://dermnetnz.org/topics/topical-steroid) .
+- [Thuốc chống sốt rét](https://dermnetnz.org/topics/antimalarial) như [hydroxychloroquine](https://dermnetnz.org/topics/hydroxychloroquine) có tác dụng chống viêm .
+- [Thalidomide](https://dermnetnz.org/topics/thalidomide) – khi bệnh cải thiện, nên giảm liều dần dần rồi dừng hẳn. Có thể bắt đầu lại nếu tái phát. Vì thalidomide có thể gây dị tật bẩm sinh , cần thận trọng khi sử dụng, đặc biệt là ở phụ nữ trong độ tuổi sinh đẻ.
+Trong một số trường hợp, ngứa do ánh sáng tự khỏi khi trẻ trưởng thành. Tuy nhiên, ở những trường hợp khác, tình trạng này kéo dài suốt đời, tái phát và bùng phát theo mùa.

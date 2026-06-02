@@ -1,0 +1,148 @@
+# U hắc tố dạng lentigin ở Acral — thông tin bổ sung
+
+Thể loại:
+
+Tổn thương (ung thư)
+
+SNOMED CT:
+
+254732008, 403927001
+
+**[Tổn thương (ung thư)](https://dermnetnz.org/topics/topics?category=Lesions+(cancerous))**
+
+
+# **U hắc tố dạng lentigin ở acral**
+
+Đánh giá lần cuối: Tháng 4 năm 2023Tác giả: Tiến sĩ Clare Mahon, Bệnh viện Princess Alexandra, Úc (2023)Những người đóng góp trước: Tiến sĩ Amanda Oakley, Bác sĩ da liễu (2011)Bác sĩ da liễu đánh giá: Tiến sĩ Ian CoulsonĐược biên tập bởi bộ phận nội dung DermNet
+
+---
+
+## U hắc tố dạng lentigin ở đầu chi là gì?
+
+U hắc tố dạng lentigin ở đầu chi (ALM) là một loại [u hắc tố](https://dermnetnz.org/topics/melanoma) hiếm gặp , xuất hiện ở lòng bàn tay, lòng bàn chân hoặc [dưới móng tay](https://dermnetnz.org/topics/melanoma-of-the-nail-unit) . Nó còn được gọi là u hắc tố dạng lentigin ở đầu chi.
+Ở giai đoạn đầu, ALM thường xuất hiện dưới dạng các mảng màu nâu sẫm hoặc đen loang lổ, và có thể hình thành nốt sần và loét ở các trường hợp tiến triển nặng. ALM phát triển chậm và có thể mất hàng tháng đến hàng năm mới trở nên xâm lấn , tức là phát triển vượt ra ngoài màng đáy của biểu bì nơi nó bắt đầu.
+![Tổn thương sắc tố không đều, lan rộng chậm ở gót chân kéo dài trong 3 năm](https://dermnetnz.org/assets/Uploads/acral-lentiginous-melanoma-3.jpg)
+![Tổn thương mở rộng chậm, sắc tố không đều và có ranh giới cho thấy tình trạng giảm sắc tố trung tâm và thoái triển - u hắc tố dạng lentigin ở đầu chi](https://dermnetnz.org/assets/Uploads/melanoma-143.jpg)
+![](https://dermnetnz.org/assets/Uploads/acral-lentiginous-melanoma-2-v2.jpg)
+![Nội soi da của khối u ác tính dạng lentigin ở đầu chi cho thấy sắc tố thay đổi và các vùng thoái triển](https://dermnetnz.org/assets/Uploads/alm-dermoscopy-7.jpg)
+![Đường viền và sắc tố không đều của khối u ác tính dạng lentigin ở đầu chi](https://dermnetnz.org/assets/Uploads/Acral-lentiginous-melanoma-3-v2.jpg)
+![Đường viền và sắc tố không đều của khối u ác tính dạng lentigin ở đầu chi](https://dermnetnz.org/assets/Uploads/alm2.jpg)
+[Thêm hình ảnh](https://dermnetnz-org.translate.goog/images/acral-lentiginous-melanoma-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+
+---
+
+## Ai mắc bệnh ung thư hắc tố lentigin ở đầu chi?
+
+U hắc tố dạng lentigin (ALM) là loại [u hắc tố](https://dermnetnz.org/topics/melanoma) ít phổ biến nhất được chẩn đoán nói chung, chiếm 2–3% trong số các trường hợp chẩn đoán u hắc tố.
+Tuy nhiên, ALM là phân nhóm phổ biến nhất của ung thư hắc tố ở nhóm người da sẫm màu, chiếm 40–60% các trường hợp chẩn đoán ung thư hắc tố ở người châu Á và người Mỹ gốc Phi. Đây là phân nhóm ít phổ biến nhất của ung thư hắc tố ở nhóm người da trắng.
+Tỷ lệ mắc ALM tăng theo tuổi, với độ tuổi chẩn đoán trung bình là 63. Nam và nữ đều bị ảnh hưởng như nhau. Nữ giới có xu hướng được chẩn đoán sớm hơn nam giới.
+
+---
+
+## Nguyên nhân nào gây ra bệnh u hắc tố lentigin ở đầu chi?
+
+U hắc tố dạng lentigin ở đầu chi (ALM) thường xuất hiện mới , nhưng có một số báo cáo hiếm gặp về u hắc tố ở đầu chi phát sinh từ [nốt ruồi hắc tố](https://dermnetnz.org/topics/melanocytic-naevus) đã có từ trước .
+Nguyên nhân gây ra ALM vẫn chưa được hiểu rõ hoàn toàn. Không giống như các phân nhóm [u hắc tố](https://dermnetnz.org/topics/melanoma) khác , tiếp xúc với ánh nắng mặt trời dường như không phải là yếu tố nguy cơ gây ra bệnh này ; tuy nhiên, có những báo cáo trường hợp hiếm gặp cho thấy dấu hiệu [tia cực tím](https://dermnetnz.org/topics/ultraviolet-radiation-and-human-health) như trong các loại u hắc tố da khác .
+Các nguyên nhân được đề xuất gây ra ALM bao gồm:
+- Lực căng/lực cắt lên bàn chân
+- [Đột biến gen](https://dermnetnz.org/topics/genetics-of-melanoma) , bao gồm KIT , BRAF , NRAS , NF1 , cyclin D1 , CDKN2A và MYC .
+Cơ chế sinh bệnh của bệnh u hắc tố bao gồm sự phát triển quá mức của tế bào hắc tố , tế bào sản xuất sắc tố nằm sâu trong lớp biểu bì.
+
+---
+
+## Các đặc điểm lâm sàng của u hắc tố lentigin đầu chi là gì?
+
+Ở giai đoạn đầu, u hắc tố dạng lentigin (ALM) biểu hiện dưới dạng các đốm sắc tố mới màu nâu nhạt đến nâu sẫm ở lòng bàn tay, lòng bàn chân hoặc dưới móng tay , chạy dọc theo các đường gờ da. ALM thường gặp hơn ở bàn chân, có thể là do mật độ tế bào hắc tố cao hơn .
+Đôi khi, ALM có thể biểu hiện dưới dạng tổn thương [không có sắc tố](https://dermnetnz.org/topics/amelanotic-melanoma) hoặc giảm sắc tố . Những tổn thương này rất khó chẩn đoán vì chúng thường giống với các bệnh lành tính như [mụn cóc](https://dermnetnz.org/topics/viral-wart) hoặc [chai sần](https://dermnetnz.org/topics/corn-callus) .
+[U hắc tố dưới móng](https://dermnetnz.org/topics/melanoma-of-the-nail-unit) xuất phát từ mô móng và thường biểu hiện dưới dạng một dải màu nâu hoặc đen dọc theo móng tay hoặc móng chân. Bệnh có thể liên quan đến [chứng loạn dưỡng móng](https://dermnetnz.org/topics/nail-disorders) . Sự xâm lấn của nếp gấp móng gần ( dấu hiệu Hutchinson ) được coi là một dấu hiệu gợi ý chẩn đoán.
+Các đặc điểm đáng ngờ của bệnh ung thư hắc tố xâm lấn:
+- Xuất hiện dạng nốt hoặc có sắc tố sẫm màu
+- Loét
+- [Ngứa](https://dermnetnz.org/topics/pruritus)
+- Số lượng màu sắc ngày càng tăng, đặc biệt là màu xanh và đen
+- Sắc tố kéo dài từ dưới móng đến ngoài nếp gấp móng
+- Kích thước >7mm.
+[Nhấp vào đây để xem hình ảnh](https://dermnetnz-org.translate.goog/images/acral-lentiginous-melanoma-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+
+---
+
+## Các đặc điểm lâm sàng khác nhau ở các loại da khác nhau như thế nào?
+
+Các đặc điểm lâm sàng không khác biệt đáng kể giữa các loại da. Có thể khó hình dung cấu trúc nốt ruồi trên [da liễu](https://dermnetnz.org/topics/dermoscopy) ở những loại da sẫm màu hơn, vì chúng có màu đồng nhất hơn .
+
+---
+
+## Biến chứng của bệnh u hắc tố lentigin đầu chi là gì?
+
+Biến chứng của bệnh không được điều trị:
+- Bệnh tiến triển bao gồm [di căn xa](https://dermnetnz.org/topics/metastatic-melanoma) .
+Biến chứng của phẫu thuật:
+- Sẹo
+- Co thắt da
+- Cắt cụt kỹ thuật số
+- Đau chi ma
+- Suy giảm chức năng
+- Mất móng.
+
+---
+
+## Ung thư hắc tố lentigin đầu chi được chẩn đoán như thế nào?
+
+Chẩn đoán thường được đưa ra dựa trên tiền sử và biểu hiện lâm sàng, được hỗ trợ bởi phương pháp soi da.
+Các đặc điểm sau đây được nhìn thấy trên [da liễu để phát hiện u hắc tố dạng lentigin ở đầu chi (ALM)](https://dermnetnz.org/topics/acral-lentiginous-melanoma-dermoscopy) :
+- Mẫu gờ song song ở giai đoạn đầu
+- Thiếu các đặc điểm điển hình của nốt ruồi acral (các mẫu rãnh song song, dạng sợi, dạng lưới)
+- Các vết loang lổ
+- Sự bất đối xứng
+- Nhiều màu sắc
+- Sắc tố lan tỏa trên móng/các sọc trên móng/loét móng.
+Chẩn đoán xác định được thực hiện bằng mô bệnh học sau khi cắt bỏ hoặc [sinh thiết](https://dermnetnz.org/topics/skin-biopsy) tổn thương. Việc phân giai đoạn được tiến hành như đối với bất kỳ [loại u hắc](https://dermnetnz.org/topics/melanoma) tố da nào khác , với các đặc điểm mô bệnh học như độ sâu Breslow, loét và tình trạng hạch gác .
+Các đặc điểm mô học của ALM bao gồm sự tăng sinh không đối xứng của tế bào hắc tố ở ranh giới hạ bì.
+
+---
+
+## Chẩn đoán phân biệt đối với bệnh u hắc tố lentigin đầu chi là gì?
+
+Chẩn đoán phân biệt đối với u hắc tố dạng lentigin ở đầu chi rất rộng và bao gồm những điều sau:
+- Nốt ruồi Acral ( bẩm sinh hoặc mắc phải)
+- Xuất huyết liên quan đến chấn thương
+- [Đốm xuất huyết Calcaneal](https://dermnetnz.org/topics/calcaneal-petechiae) (Talon noir)
+- [Nấm da đen](https://dermnetnz.org/topics/tinea-nigra)
+- Đất/vết bẩn.
+Lưu ý, [sừng hóa](https://dermnetnz.org/topics/actinic-keratosis) sắc tố và [sừng hóa tiết bã](https://dermnetnz.org/topics/seborrhoeic-keratosis) không xuất hiện trên bề mặt đầu chi.
+Tổn thương không có sắc tố hoặc giảm sắc tố có thể giống với các bệnh lành tính như [mụn cóc](https://dermnetnz.org/topics/viral-wart) , [chai sần](https://dermnetnz.org/topics/corn-callus) hoặc khối u lành tính như [u nang lông](https://dermnetnz.org/topics/sweat-gland-lesions) .
+
+---
+
+## Phương pháp điều trị u hắc tố dạng lentigin ở đầu chi là gì?
+
+
+### Các biện pháp chung
+- Giáo dục cho các chuyên gia y tế và công chúng.
+- Kiểm tra da thường xuyên.
+- Quản lý đa ngành với sự tham gia của bác sĩ chuyên khoa chân và chuyên gia trị liệu nghề nghiệp nếu có thể.
+
+### Các biện pháp cụ thể
+Phương pháp điều trị chính cho u hắc tố dạng lentigin ở đầu chi (ALM) là cắt bỏ rộng tại chỗ. Việc điều trị tiếp theo chủ yếu phụ thuộc vào độ dày Breslow của tổn thương.
+Sau khi [sinh thiết cắt bỏ](https://dermnetnz.org/topics/excision-of-skin-lesions) ban đầu , biên độ cắt bỏ xuyên tâm, được đo lâm sàng từ rìa của khối u ác tính, là:
+- Tổn thương tại chỗ : lề 0,5–1 cm
+- Độ sâu Breslow <1 mm: lề 1 cm
+- Độ sâu Breslow 1–2mm: lề 1–2 cm
+- Độ sâu Breslow >2mm: lề 2 cm.
+Có thể cần phải ghép [da](https://dermnetnz.org/topics/skin-grafting) hoặc vạt da để đóng vết thương, hoặc trong một số trường hợp, phải cắt cụt một phần ngón tay.
+Nếu cần điều trị thêm sau khi cắt bỏ, có thể cần [xạ trị](https://dermnetnz.org/topics/radiotherapy-for-malignant-skin-diseases) hoặc liệu pháp miễn dịch.
+U hắc tố dạng lentigin ở acral dường như phản ứng kém hơn với sự kết hợp [ipilimumab](https://dermnetnz.org/topics/ipilimumab) - [nivolumab](https://dermnetnz.org/topics/nivolumab) (IPI-NIVO; hai chất ức chế điểm kiểm soát miễn dịch ) so với các loại u hắc tố khác .
+
+---
+
+## Làm thế nào để ngăn ngừa u hắc tố dạng lentigin ở đầu chi?
+
+Mặc dù chưa có biện pháp phòng ngừa cụ thể, nhưng việc kiểm tra da thường xuyên và [bảo vệ da khỏi ánh nắng mặt trời](https://dermnetnz.org/topics/sun-protection) là điều được khuyến khích. Bất kỳ tổn thương mới nào được phát hiện ở lòng bàn tay, lòng bàn chân hoặc dưới móng tay đều cần được chuyên gia y tế kiểm tra.
+
+---
+
+## Kết quả của bệnh u hắc tố lentigin đầu chi là gì?
+
+So với u hắc tố da, hầu hết các nghiên cứu đều cho thấy u hắc tố lentiginous đầu chi có tiên lượng kém hơn , với việc chẩn đoán thường diễn ra ở giai đoạn lâm sàng tiến triển hơn. Hiện vẫn chưa rõ liệu điều này chỉ đơn thuần là do sự chậm trễ trong việc phát hiện ALM do khó theo dõi các vị trí này (ví dụ như lòng bàn chân), hay cũng là hậu quả của những khác biệt về di truyền và sinh học thúc đẩy tính hung hãn của khối u .
+Kết quả của ALM chủ yếu phụ thuộc vào độ dày Breslow của tổn thương và giai đoạn bệnh, bao gồm cả tình trạng xâm lấn hạch bạch huyết . Các yếu tố khác có thể ảnh hưởng đến tiên lượng bao gồm tuổi tác và giới tính.
+[Nhấp vào đây để xem hình ảnh](https://dermnetnz-org.translate.goog/images/acral-lentiginous-melanoma-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)

@@ -1,0 +1,79 @@
+# Bệnh lý mô bào nội bạch huyết — thông tin bổ sung
+
+Thể loại:
+
+Bệnh hệ thống
+
+SNOMED CT:
+
+127068004
+
+**[Bệnh hệ thống](https://dermnetnz.org/topics/topics?category=Systemic+diseases)**
+
+
+# **Bệnh lý mô bào nội bạch huyết**
+
+Tác giả: Tiến sĩ Delwyn Dyall-Smith, Bác sĩ Da liễu, Wagga Wagga, NSW, Úc. Tổng Biên tập DermNet: Phó Giáo sư Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand. Biên tập bởi Gus Mitchell/Maria McGivern. Tháng 9 năm 2018.
+
+---
+
+## Bệnh histiocytosis nội bạch huyết là gì?
+
+Bệnh lý mô bào nội bạch huyết là một bệnh lý da mạn tính lành tính hiếm gặp , thường liên quan đến [viêm khớp dạng thấp](https://dermnetnz.org/topics/rheumatoid-arthritis-and-the-skin) , cấy ghép kim loại chỉnh hình hoặc phẫu thuật ung thư . Bệnh được mô tả lần đầu tiên vào năm 1994 với tên gọi là [bệnh lý](https://dermnetnz.org/topics/histiocytosis) mô bào nội mạch . [](https://dermnetnz.org/topics/rheumatoid-arthritis-and-the-skin) [](https://dermnetnz.org/topics/histiocytosis)
+![Bệnh lý mô bào nội bạch huyết](https://dermnetnz.org/assets/Uploads/intralymphatic-histiocytosis.jpg)
+![Bệnh lý mô bào nội bạch huyết](https://dermnetnz.org/assets/Uploads/intralymphatic-histiocytosis-1.jpg)
+![Bệnh lý mô bào nội bạch huyết](https://dermnetnz.org/assets/Uploads/intralymphatic-histiocytosis-2.jpg)
+
+---
+
+## Nguyên nhân nào gây ra bệnh histiocytosis nội bạch huyết?
+
+Nguyên nhân chính xác của bệnh histiocytosis nội bạch huyết vẫn chưa được biết rõ. Ban đầu, người ta cho rằng đây là một bệnh u mạch phản ứng , chẳng hạn như một dạng sớm của bệnh angioendotheliosis phản ứng ( sự tăng sinh của các tế bào nội mô mạch máu ). Các giả thuyết gần đây hơn về nguyên nhân của bệnh bao gồm tình trạng rối loạn bạch huyết do viêm, khiến các mạch bạch huyết giãn ra, ứ đọng bạch huyết và giảm khả năng thanh thải kháng nguyên , dẫn đến sự tích tụ hoặc tăng sinh của các đại thực bào ( histiocyte ). Vai trò của yếu tố hoại tử khối u alpha trong nguyên nhân gây bệnh histiocytosis nội bạch huyết đã được đề xuất sau khi hai bệnh nhân bị [viêm khớp dạng thấp](https://dermnetnz.org/topics/rheumatoid-arthritis-and-the-skin) được điều trị bằng [infliximab](https://dermnetnz.org/topics/infliximab-for-psoriasis) và các tổn thương da đã được phục hồi. [](https://dermnetnz.org/topics/rheumatoid-arthritis-and-the-skin) [](https://dermnetnz.org/topics/infliximab-for-psoriasis)
+
+### Phân loại bệnh histiocytosis nội bạch huyết
+Bệnh lý histiocytosis nội bạch huyết được phân loại thành histiocytosis nội bạch huyết nguyên phát và thứ phát. Histiocytosis nội bạch huyết nguyên phát (hay vô căn ) là tình trạng bệnh nhân trước đó vẫn khỏe mạnh và không xác định được yếu tố khởi phát liên quan. Thể này ít phổ biến hơn nhiều so với dạng histiocytosis nội bạch huyết thứ phát, trong đó có một tình trạng bệnh lý đi kèm, thường gặp nhất là viêm hoặc phẫu thuật.
+
+---
+
+## Những tình trạng nào liên quan đến bệnh histiocytosis nội bạch huyết?
+
+Tình trạng phổ biến nhất được báo cáo liên quan đến bệnh lý histiocytosis nội bạch huyết là [viêm khớp dạng thấp](https://dermnetnz.org/topics/rheumatoid-arthritis-and-the-skin) , ảnh hưởng đến hơn một phần ba số bệnh nhân được báo cáo. Viêm xương khớp cũng được báo cáo liên quan đến bệnh lý histiocytosis nội bạch huyết, nhưng ít phổ biến hơn.
+- Hai mươi lăm phần trăm các trường hợp được báo cáo có liên quan đến cấy ghép kim loại chỉnh hình từ khớp thay thế hoặc sửa chữa sau khi gãy xương.
+- Phẫu thuật ung thư, đặc biệt là phẫu thuật cắt bỏ vú do ung thư vú, đứng thứ ba về mối liên quan với bệnh lý histiocytosis nội bạch huyết và được báo cáo ở 10% bệnh nhân mắc bệnh lý histiocytosis nội bạch huyết.
+Các tình trạng khác đã được báo cáo một hoặc hai lần liên quan đến bệnh histiocytosis nội bạch huyết bao gồm:
+- [Bệnh Crohn](https://dermnetnz.org/topics/crohn-skin-disease)
+- Viêm amidan mãn tính
+- Hoại tử âm hộ
+- [Viêm da cơ](https://dermnetnz.org/topics/adult-onset-dermatomyositis)
+- Bệnh lý gammopathy đơn dòng (sự tích tụ các protein bất thường trong máu)
+- [Ung thư hắc tố](https://dermnetnz.org/topics/melanoma)
+- [Ung thư tế bào Merkel](https://dermnetnz.org/topics/merkel-cell-carcinoma) .
+
+---
+
+## Ai mắc bệnh histiocytosis nội bạch huyết?
+
+Bệnh mô bào nội bạch huyết thường ảnh hưởng đến phụ nữ lớn tuổi. Trong các trường hợp được báo cáo, bệnh ảnh hưởng đến nam giới và nữ giới theo tỷ lệ 3:5, với độ tuổi từ 17–87 tuổi, trung bình là 65 tuổi.
+
+---
+
+## Các triệu chứng và dấu hiệu của bệnh histiocytosis nội bạch huyết là gì?
+
+Thông thường, bệnh histiocytosis nội bạch huyết biểu hiện dưới dạng phát ban ở một chi, nằm trên hoặc liền kề với khớp hoặc sẹo bị ảnh hưởng. Bệnh thường không gây ra bất kỳ triệu chứng nào. Màu sắc của phát ban dao động từ đỏ đến nâu và tím. Phát ban có thể là dạng dát (hoàn toàn phẳng) hoặc có thể tạo thành các mảng hơi nhô lên . Sẩn , nốt hoặc mụn nước có thể hình thành, và đôi khi có thể thấy dạng đường thẳng hoặc dạng đốm .
+Cánh tay là vị trí phổ biến nhất (được báo cáo trong khoảng 50% trường hợp), chân là vị trí phổ biến thứ hai. Nó cũng được báo cáo ở thân mình, đặc biệt là trên vết sẹo cắt bỏ vú, mặt, niêm mạc miệng và âm hộ.
+Có vẻ như không có mối tương quan nào giữa hoạt động của [bệnh viêm khớp dạng thấp](https://dermnetnz.org/topics/rheumatoid-arthritis-and-the-skin) và phát ban trên da, nhưng phát ban có liên quan chặt chẽ đến khớp bị ảnh hưởng.
+Không có phù lõm hoặc các dấu hiệu khác liên quan đến [phù bạch huyết](https://dermnetnz.org/topics/lymphoedema) . [](https://dermnetnz.org/topics/lymphoedema)
+
+---
+
+## Bệnh histiocytosis nội bạch huyết được chẩn đoán như thế nào?
+
+Sinh [thiết](https://dermnetnz.org/topics/skin-biopsy) là cần thiết để chẩn đoán. [Mô học của bệnh mô bào nội bạch huyết](https://dermnetnz.org/topics/intralymphatic-histiocytosis-pathology) có giá trị chẩn đoán và đòi hỏi sự hiện diện của các mạch bạch huyết giãn nở ở lớp hạ bì , với các tế bào mô bào dương tính với CD68 trong lòng mạch. Các tế bào tạo thành thành mạch bạch huyết và trong lòng mạch có hình dạng bình thường. Đôi khi, cũng có thể có tình trạng viêm quanh mạch máu hoặc viêm hạt ở lớp hạ bì của các tế bào lympho nhỏ , tế bào mô bào và tế bào plasma .
+
+---
+
+## Điều trị bệnh histiocytosis nội bạch huyết là gì?
+
+Bệnh histiocytosis nội bạch huyết thường kháng lại tất cả các phương pháp điều trị đã thử, bao gồm cả việc sử dụng [steroid](https://dermnetnz.org/topics/systemic-steroids) [tại chỗ](https://dermnetnz.org/topics/topical-steroid) , [tiêm nội tổn thương](https://dermnetnz.org/topics/intralesional-steroid-injection) và uống . Tình trạng có thể cải thiện tạm thời nhưng bệnh lý da này sẽ nhanh chóng tái phát. [](https://dermnetnz.org/topics/systemic-steroids)
+Việc điều trị tình trạng liên quan có thể dẫn đến việc loại bỏ tình trạng histiocytosis nội bạch huyết và điều này đã được báo cáo sau khi thay khớp gối bị viêm khớp, [dùng thuốc kháng sinh](https://dermnetnz.org/topics/antibiotics) và cắt amidan để điều trị viêm amidan, cũng như dùng [thuốc kháng sinh](https://dermnetnz.org/topics/antibiotics) và phẫu thuật cắt bỏ hoại tử âm hộ.
+[Infliximab](https://dermnetnz.org/topics/infliximab-for-psoriasis) được báo cáo là đã loại bỏ được tình trạng histiocytosis nội bạch huyết ở hai bệnh nhân bị viêm khớp dạng thấp. [Methotrexate](https://dermnetnz.org/topics/methotrexate) dường như làm sạch da chậm trong một trường hợp được báo cáo.

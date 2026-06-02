@@ -1,0 +1,93 @@
+# U xơ xanthoma không điển hình — thông tin bổ sung
+
+Thể loại:
+
+Tổn thương (ung thư)
+
+SNOMED CT:
+
+254754005
+
+**[Tổn thương (ung thư)](https://dermnetnz.org/topics/topics?category=Lesions+(cancerous))**
+
+
+# **U xơ xanthoma không điển hình**
+
+Tác giả: Vanessa Ngan, Biên tập viên, 2005. Được cập nhật bởi Tiến sĩ Ebtisam Elghblawi, Bác sĩ da liễu, Tripoli, Libya và Tổng biên tập DermNet, Phó giáo sư Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand, tháng 11 năm 2017.
+
+---
+
+## U xơ xanthoma bất thường là gì?
+
+U xơ xanthoma không điển hình (AFX) là khối u tế bào hình thoi ở da , thường xuất hiện ở đầu và cổ của người lớn tuổi bị tổn thương do ánh nắng mặt trời. Khối u giống khối u này nên được coi là một loại [ung thư da](https://dermnetnz.org/topics/skin-cancer) , nhưng nó có thể hoạt động theo hướng lành tính . [](https://dermnetnz.org/topics/skin-cancer)
+Một loại u xơ xanthoma không điển hình hiếm gặp xảy ra ở những bệnh nhân trẻ tuổi, trên những vùng cơ thể thường không tiếp xúc nhiều với ánh nắng mặt trời. Những khối u này thường xuất hiện ở thân và tứ chi, có xu hướng lớn hơn và phát triển chậm hơn.
+![U xơ xanthoma không điển hình](https://dermnetnz.org/assets/Uploads/lesions/afx.jpg)
+![U xơ xanthoma không điển hình](https://dermnetnz.org/assets/Uploads/lesions/afx4.jpg)
+![U xơ xanthoma không điển hình](https://dermnetnz.org/assets/Uploads/lesions/w/atypical-fibroxanthoma.jpg)
+
+---
+
+## Nguyên nhân nào gây ra bệnh u xơ xanthoma bất thường?
+
+Sự phát triển của u xơ xanthoma không điển hình có liên quan đến lão hóa, tiếp xúc với ánh nắng mặt trời ( [tia cực tím](https://dermnetnz.org/topics/ultraviolet-radiation-and-human-health) ) và/hoặc bức xạ ion hóa (tia X). Cả hai dạng bức xạ này đều có thể gây ra sự phát triển bất thường của các tế bào thoi không điển hình. Chúng được cho là xuất phát từ các tế bào sợi ở lớp hạ bì hoặc từ các tế bào sừng biểu bì .
+
+---
+
+## Ai mắc bệnh u xơ xanthoma không điển hình?
+
+Các báo cáo đã chỉ ra tỷ lệ mắc bệnh u xơ xanthoma không điển hình tăng cao ở những bệnh nhân mắc hội chứng suy giảm miễn dịch mắc phải (AIDS) và ở những bệnh nhân bị [suy giảm miễn dịch](https://dermnetnz.org/topics/drug-induced-immunosuppression) , ví dụ như do [ghép tạng](https://dermnetnz.org/topics/skin-cancer-in-transplant-recipients) .
+Bệnh u xơ xanthoma không điển hình ảnh hưởng đến cả hai giới như nhau, với độ tuổi trung bình khi được chẩn đoán là 69.
+
+---
+
+## Đặc điểm lâm sàng của bệnh u xơ xanthoma không điển hình là gì?
+
+U xơ xanthoma không điển hình thường xuất hiện ở những vùng da tiếp xúc nhiều với ánh nắng mặt trời, thường là quanh da đầu, tai, mũi, má và gáy, hoặc ở những vùng có thể đã được xạ trị trước đó. U xơ xanthoma cũng được báo cáo là xuất hiện ở thân mình, tứ chi và những vùng da được che chắn khỏi ánh nắng mặt trời.
+- Có thể xuất hiện khối u đơn độc hoặc nhiều khối u.
+- Thông thường, AFX là một nốt sần hình vòm, mọng nước, màu đỏ , có thể chảy máu, loét hoặc đóng vảy.
+- Khối u ban đầu là một nốt nhỏ phát triển nhanh trong vòng 6 tháng đến kích thước khoảng 2–3 cm.
+- Số lượng khối u được chẩn đoán ở đầu và cổ cao gấp bốn lần so với các vị trí khác trên cơ thể.
+Mặc dù hiếm gặp, di căn da từ u xơ xanthoma không điển hình đã được báo cáo.
+![U xơ xanthoma không điển hình](https://dermnetnz.org/assets/Uploads/atypical-fibroxanthoma.jpg)
+
+---
+
+## Bệnh u xơ xanthoma không điển hình được chẩn đoán như thế nào?
+
+Vì u xơ xanthoma không điển hình có thể trông giống như các loại ung thư da khác nên bệnh này thường được bác sĩ giải phẫu bệnh chẩn đoán sau khi sinh thiết hoặc cắt bỏ [da](https://dermnetnz.org/topics/skin-biopsy) .
+Chẩn đoán dựa vào việc tìm thấy các tế bào u anaplastic lớn, đa hình, dạng sợi, hình thoi, xếp chồng lên nhau một cách lộn xộn trong lớp hạ bì. Nên [nhuộm miễn dịch mô học nhưng có thể không đặc hiệu. Nhuộm](https://dermnetnz.org/topics/immunohistochemistry-stains) cytokeratin và nhuộm melanoma cho kết quả âm tính. [](https://dermnetnz.org/topics/immunohistochemistry-stains)
+Các đặc điểm trên da có thể giống với [ung thư biểu mô tế bào đáy](https://dermnetnz.org/topics/basal-cell-carcinoma) hoặc [ung thư biểu mô tế bào vảy](https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma) .
+
+### Đại thể u xơ xanthoma bất thường + soi da
+![](https://dermnetnz.org/assets/Uploads/atypical-fibroxanthoma-01-v3.jpg)
+![](https://dermnetnz.org/assets/Uploads/atypical-fibroxanthoma-dermoscopy-01-v3.jpg)
+
+---
+
+## Chẩn đoán phân biệt đối với bệnh u xơ xanthoma không điển hình là gì?
+
+Các tổn thương khác cần được xem xét trong chẩn đoán phân biệt bao gồm:
+- [U hạt sinh mủ](https://dermnetnz.org/topics/pyogenic-granuloma)
+- Ung thư biểu mô tế [bào vảy tế bào hình thoi](https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma)
+- U hắc tố [tế bào hình thoi](https://dermnetnz.org/topics/melanoma)
+- Phần bề mặt của u mô sợi ác tính
+- U cơ trơn
+- [Sarcoma da đa hình](https://dermnetnz.org/topics/pleomorphic-dermal-sarcoma)
+
+---
+
+## Phương pháp điều trị bệnh u xơ xanthoma không điển hình là gì?
+
+U xơ xanthoma không điển hình được điều trị bằng phẫu thuật [cắt bỏ](https://dermnetnz.org/topics/skin-biopsy) hoàn toàn . Các tổn thương nhỏ có thể được loại bỏ bằng [phương pháp nạo](https://dermnetnz.org/topics/curettage-and-cautery) . [Phẫu thuật vi phẫu Mohs](https://dermnetnz.org/topics/mohs-micrographic-surgery) đang trở thành phương pháp điều trị được lựa chọn cho các tổn thương lớn hoặc tái phát , vì nó loại bỏ hoàn toàn khối u một cách đáng tin cậy trong khi vẫn bảo tồn các mô khỏe mạnh bình thường xung quanh.
+
+---
+
+## Kết quả của bệnh u xơ xanthoma không điển hình là gì?
+
+U xơ xanthoma không điển hình hiếm khi tái phát sau khi cắt bỏ hoàn toàn với ranh giới rõ ràng. Tái phát và di căn dễ xảy ra hơn ở những người bị [suy giảm miễn dịch](https://dermnetnz.org/topics/drug-induced-immunosuppression) .
+
+---
+
+## Làm thế nào để phòng ngừa bệnh u xơ xanthoma không điển hình?
+
+Hầu hết các trường hợp u xơ xanthoma không điển hình có thể được ngăn ngừa bằng cách tránh tiếp xúc quá nhiều với ánh nắng mặt trời. Bệnh nhân được khuyến cáo nên áp dụng các biện pháp [bảo vệ da](https://dermnetnz.org/topics/sun-protection) khỏi ánh nắng mặt trời khi ra ngoài trời.

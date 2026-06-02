@@ -1,0 +1,72 @@
+# Thâm nhiễm lympho bào Jessner — thông tin bổ sung
+
+Thể loại:
+
+Phát ban
+
+SNOMED CT:
+
+19719003
+
+**[Phát ban](https://dermnetnz.org/topics/topics?category=Rashes)**
+
+
+# **thâm nhiễm lympho bào Jessner**
+
+Tác giả: Vanessa Ngân, Cán bộ biên tập, 2003. Được cập nhật bởi Giáo sư Hon A Amanda Oakley, tháng 9 năm 2015.
+
+---
+
+## Thâm nhiễm lympho bào Jessner là gì?
+
+Thâm nhiễm lympho bào Jessner là một tình trạng da hiếm gặp, biểu hiện dưới dạng các mảng đỏ không vảy và các cục u trên mặt, cổ và lưng trên. Chúng thường không đau và không ngứa. Tổn thương có thể trải qua các giai đoạn thuyên giảm và bùng phát trong nhiều tháng hoặc nhiều năm. Một số trường hợp cũng có thể tự khỏi hoàn toàn.
+Tình trạng này còn được gọi bằng nhiều tên khác, bao gồm thâm nhiễm lympho bào lành tính , bệnh Jessner, hội chứng Jessner-Kanof và rối loạn thâm nhiễm tế bào T mạn tính lành tính . Người ta cho rằng nó thuộc cùng phổ bệnh với [lupus ban đỏ](https://dermnetnz.org/topics/cutaneous-lupus-erythematosus) (lupus ban đỏ dạng tumidus), nhưng trên mô học , nhuộm kháng thể đơn dòng Leu 8 cho thấy chúng có thể là hai tình trạng riêng biệt. [](https://dermnetnz.org/topics/cutaneous-lupus-erythematosus)
+
+---
+
+## Nguyên nhân nào gây ra tình trạng thâm nhiễm tế bào lympho Jessner?
+
+Nguyên nhân gây thâm nhiễm lympho bào Jessner vẫn chưa được biết rõ. Bệnh được phân loại là một rối loạn tăng sinh lympho bào T lành tính . Một số trường hợp có liên quan đến nhiễm trùng Borrelia , nguyên nhân gây [bệnh Lyme](https://dermnetnz.org/topics/lyme-disease) .
+Các trường hợp thâm nhiễm tế bào lympho Jessner do thuốc đã được mô tả là do duloxetine, ramipril, leflunomide, glatiramer acetate và [ustekinumab](https://dermnetnz.org/topics/ustekinumab-for-psoriasis) .
+
+---
+
+## Các dấu hiệu và triệu chứng của thâm nhiễm lympho bào Jessner là gì?
+
+Mảng thâm nhiễm lympho bào Jessner thường bắt đầu bằng những đốm đỏ nhỏ, hơi nổi rõ, dần dần lan rộng ra ngoại vi tạo thành mảng đỏ có ranh giới rõ ràng . Đôi khi, trung tâm tổn thương vẫn còn trống, tức là tạo thành hình khuyên hoặc hình vòng cung . Có thể xuất hiện đơn lẻ hoặc nhiều tổn thương, đường kính từ 2 mm đến 2 cm.
+Hoạt động theo mùa của thâm nhiễm lympho bào Jessner rất khác nhau: nhiều bệnh nhân xấu đi vào mùa đông hơn mùa hè, tuy nhiên các đợt bùng phát có thể liên quan đến việc tiếp xúc với ánh nắng mặt trời. Thông thường, chúng không có triệu chứng, nhưng một số bệnh nhân có thể phàn nàn về ngứa hoặc nóng rát.
+![thâm nhiễm lympho bào Jessner](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/jessner.jpg)
+![thâm nhiễm lympho bào Jessner](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/jessner1.jpg)
+![thâm nhiễm lympho bào Jessner](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/jessner2.jpg)
+![thâm nhiễm lympho bào Jessner](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/jessner3.jpg)
+![thâm nhiễm lympho bào Jessner](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/jessner4.jpg)
+![thâm nhiễm lympho bào Jessner](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/s/jessner5.jpg)
+
+---
+
+## Chẩn đoán thâm nhiễm lymphocytic được thực hiện như thế nào?
+
+Chẩn đoán được đưa ra dựa trên lâm sàng và [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) .
+Chẩn đoán phân biệt chính là [lupus ban đỏ dạng sưng](https://dermnetnz.org/topics/cutaneous-lupus-erythematosus) , [u lympho bào da](https://dermnetnz.org/topics/lymphocytoma-cutis) và [phát ban đa dạng do ánh sáng](https://dermnetnz.org/topics/polymorphic-light-eruption) .
+
+---
+
+## Có phương pháp điều trị nào cho tình trạng thâm nhiễm lympho bào Jessner?
+
+Thông thường, không cần điều trị tình trạng thâm nhiễm lympho bào Jessner.
+[Ngụy trang thẩm mỹ](https://dermnetnz.org/topics/cosmetic-camouflage) có thể được sử dụng để che đi các tổn thương và cải thiện vẻ ngoài.
+Có nhiều phản ứng khác nhau với các phương pháp điều trị sau:
+- [](https://dermnetnz.org/topics/topical-steroid) Corticosteroid [tại chỗ](https://dermnetnz.org/topics/topical-steroid) và [tiêm trong tổn thương](https://dermnetnz.org/topics/intralesional-steroid-injection)
+- [Thuốc chống sốt rét](https://dermnetnz.org/topics/antimalarial) , chẳng hạn như [hydroxychloroquine](https://dermnetnz.org/topics/hydroxychloroquine)
+- [](https://dermnetnz.org/topics/uva1-phototherapy) Liệu pháp quang trị liệu hoặc quang hóa trị liệu [UVA1 (](https://dermnetnz.org/topics/uva1-phototherapy) [PUVA](https://dermnetnz.org/topics/puva-photochemotherapy) )
+- [Liệu pháp quang động](https://dermnetnz.org/topics/photodynamic-therapy)
+- [Cyclophosphamide](https://dermnetnz.org/topics/cyclophosphamide)
+- [Thalidomide](https://dermnetnz.org/topics/thalidomide)
+- [Xạ trị](https://dermnetnz.org/topics/radiotherapy-for-malignant-skin-diseases)
+Tất cả bệnh nhân nên được khuyên thực hiện các biện pháp bảo vệ da khỏi ánh nắng mặt trời, bất kể tiền sử bị kích ứng da do ánh nắng mặt trời của họ.
+
+---
+
+## Triển vọng của tình trạng thâm nhiễm lympho bào Jessner là gì?
+
+Sau khi kéo dài vài tháng hoặc vài năm, các tổn thương sẽ tự biến mất mà không để lại sẹo hay gây ra các vấn đề khác. Đôi khi chúng có thể tái phát tại cùng vị trí hoặc ở nơi khác.

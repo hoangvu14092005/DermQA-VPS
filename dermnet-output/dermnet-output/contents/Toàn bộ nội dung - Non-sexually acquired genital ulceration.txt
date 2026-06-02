@@ -1,0 +1,104 @@
+# Loét sinh dục không do quan hệ tình dục — thông tin bổ sung
+
+Thể loại:
+
+Tổn thương (lành tính)
+
+SNOMED CT:
+
+70718000, 95589007, 95595008, 402708008, 427788009
+
+**[Tổn thương (lành tính)](https://dermnetnz.org/topics/topics?category=Lesions+(benign))**
+
+
+# **Loét sinh dục không do quan hệ tình dục**
+
+Tác giả: Phó Giáo sư danh dự Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand, 2010. Bản cập nhật DermNet tháng 4 năm 2021
+
+---
+
+## Loét sinh dục không do quan hệ tình dục là gì?
+
+Loét sinh dục không do quan hệ tình dục (NSGU) là tình trạng loét đau ở cơ quan sinh dục ngoài , thường gặp ở thanh thiếu niên, không liên quan đến hoạt động tình dục.
+NSGU ở nữ giới trước đây được gọi là loét Lipschütz và loét âm hộ acutum. Ở nam giới, NSGU có lẽ là tình trạng trước đây được gọi là viêm mạch hoại tử bìu ở trẻ em .
+
+---
+
+## Ai bị loét sinh dục không do quan hệ tình dục?
+
+Loét sinh dục không do quan hệ tình dục là hậu quả của một bệnh lý toàn thân cấp tính , chẳng hạn như viêm amidan, nhiễm trùng đường hô hấp trên hoặc bệnh tiêu chảy. NSGU chủ yếu ảnh hưởng đến âm hộ của trẻ em gái vị thành niên ( tuổi trung bình 14,5) chưa hoạt động tình dục. Cũng có một số báo cáo hiếm hoi về các vết loét dương vật bìu tương tự ảnh hưởng đến nam giới trẻ tuổi khỏe mạnh.
+[Xem hình ảnh loét âm hộ.](https://dermnetnz-org.translate.goog/topics/vulval-ulcer-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+
+---
+
+## Nguyên nhân gây loét sinh dục không do quan hệ tình dục là gì?
+
+Nguyên nhân gây loét sinh dục không do quan hệ tình dục vẫn chưa được hiểu rõ. Nó có thể phát sinh do phản ứng miễn dịch bẩm sinh hoặc mắc phải quá mức với tác nhân gây nhiễm trùng ở bệnh nhân có nguy cơ cao.
+Như tên gọi của nó, NSGU không phải là bệnh do nhiễm trùng lây truyền qua đường tình dục (STI).
+Phần lớn các trường hợp liên quan đến nhiễm [virus Epstein-Barr](https://dermnetnz.org/topics/epstein-barr-virus) (EBV), loại virus có thể được phân lập từ các vết loét. Các trường hợp nhiễm trùng khác được báo cáo liên quan đến NSGU bao gồm:
+- Virus Cytomegalovirus (CMV)
+- [Mycoplasma pneumoniae](https://dermnetnz.org/topics/mycoplasma-pneumoniae-infection)
+- [Liên cầu khuẩn](https://dermnetnz.org/topics/streptococcal-skin-infections) nhóm A [](https://dermnetnz.org/topics/streptococcal-skin-infections)
+- Virus cúm A
+- Vi khuẩn Salmonella
+- Quai bị.
+
+---
+
+## Các đặc điểm lâm sàng của loét sinh dục không do quan hệ tình dục là gì?
+
+Loét sinh dục không do quan hệ tình dục thường xuất hiện trước khi có bệnh sốt , thường là viêm amidan.
+NSGU biểu hiện bằng một hoặc nhiều (thường là 1-3) vết loét sâu, rõ nét, đục lỗ ở mặt trong (niêm mạc) và vùng da lân cận của âm hộ, hoặc vùng dương vật bìu ở nam giới. Tâm vết loét thường có màu vàng nhưng có thể chuyển sang màu đen do hoại tử mô. Có một viền đỏ xung quanh vết loét, kích thước có thể thay đổi nhưng thường có đường kính ít nhất 1 cm. Tổn thương "hôn" hình ảnh phản chiếu thường thấy ở những nơi tiếp xúc qua một nếp gấp. Có thể có sưng đáng kể.
+Các vết loét thường rất đau và gây khó tiểu hoặc bí tiểu hoàn toàn (bí tiểu cấp tính), cần phải nhập viện và đặt ống thông tiểu. Các hạch bạch huyết tại chỗ có thể sưng to và đau.
+
+---
+
+## Chẩn đoán phân biệt của loét sinh dục không do quan hệ tình dục là gì?
+
+Có nhiều bệnh nhiễm trùng và tình trạng không nhiễm trùng có thể biểu hiện bằng loét ở bộ phận sinh dục. Xem [Chẩn đoán phân biệt loét âm hộ](https://dermnetnz.org/topics/differential-diagnosis-of-vulval-ulcers) .
+
+---
+
+## Làm thế nào để chẩn đoán loét sinh dục không do quan hệ tình dục?
+
+Có thể nghi ngờ chẩn đoán trên lâm sàng sau khi tìm hiểu bệnh sử cẩn thận và tiến hành khám.
+
+### Thuật toán đề xuất để loại trừ các bệnh truyền nhiễm
+- [Bệnh giang mai](https://dermnetnz.org/topics/syphilis) - huyết thanh học , T pallidum trên kính hiển vi trường tối
+- [Herpes simplex](https://dermnetnz.org/topics/genital-herpes) - tăm bông lấy mẫu virus để làm PCR hoặc phết tế bào Tzanck
+- Nếu có hoạt động tình dục - hãy cân nhắc [bệnh lậu](https://dermnetnz.org/topics/gonorrhoea) , [Chlamydia](https://dermnetnz.org/topics/genitourinary-chlamydia) trachomatis, [hạ cam](https://dermnetnz.org/topics/chancroid)
+- Vi khuẩn học
+- Kính hiển vi nấm
+Những cuộc điều tra này đều có kết quả tiêu cực ở NSGU.
+
+### Tiêu chuẩn chẩn đoán loét sinh dục âm hộ không do quan hệ tình dục
+Chẩn đoán đòi hỏi cả tiêu chuẩn chính và ít nhất hai tiêu chuẩn phụ.
+
+#### Tiêu chí chính:
+- Khởi phát cấp tính của một hoặc nhiều vết loét âm hộ đau
+- Loại trừ các trường hợp loét sinh dục do nhiễm trùng và không do nhiễm trùng.
+
+#### Tiêu chuẩn phụ:
+- (Các) vết loét ở tiền đình hoặc môi bé
+- Không có tiền sử quan hệ tình dục trong vòng 3 tháng trở lại đây hoặc chưa bao giờ
+- Các triệu chứng giống cúm ( sốt , ớn lạnh, mệt mỏi, khó chịu )
+- Bệnh toàn thân trong vòng 2-4 tuần trước đó.
+Các xét nghiệm tiếp theo sẽ được chỉ định dựa trên các triệu chứng của bệnh tiềm ẩn nhưng phải bao gồm xét nghiệm [bệnh bạch cầu đơn nhân nhiễm trùng](https://dermnetnz.org/topics/infectious-mononucleosis) .
+[Sinh thiết](https://dermnetnz.org/topics/skin-biopsy) rìa vết loét hiếm khi cần thiết. Kết quả không đặc hiệu ở NSGU.
+
+---
+
+## Điều trị loét sinh dục không do quan hệ tình dục là gì?
+
+Việc trấn an và điều trị triệu chứng là quan trọng nhất.
+- Thuốc giảm đau như paracetamol, thuốc chống viêm không steroid hoặc thuốc giảm đau mạnh hơn
+- Đặt ống thông bàng quang (ngắn hạn) khi đau dữ dội và cản trở việc đi tiểu
+- Thuốc mỡ hoặc thạch [gây tê](https://dermnetnz.org/topics/local-anaesthesia) tại chỗ
+- Các biện pháp vệ sinh tại địa phương và chăm sóc vết thương
+[Đôi khi, steroid bôi ngoài da](https://dermnetnz.org/topics/topical-steroid) mạnh hoặc [corticosteroid đường uống](https://dermnetnz.org/topics/systemic-steroids) được sử dụng trong những trường hợp nặng, nhưng điều này không được khuyến khích rộng rãi. Một liệu trình kéo dài bằng doxycycline hoặc [erythromycin](https://dermnetnz.org/topics/erythromycin) có thể ngăn ngừa tái phát.
+
+---
+
+## Hậu quả của tình trạng loét sinh dục không do quan hệ tình dục là gì?
+
+Các vết loét sẽ lành mà không để lại sẹo trong vòng vài tuần (trung bình 15 ngày) và hiếm khi tái phát.

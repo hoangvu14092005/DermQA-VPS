@@ -1,0 +1,78 @@
+# Viêm môi bong tróc — thông tin bổ sung
+
+Thể loại:
+
+Viêm
+
+SNOMED CT:
+
+235139008, 707243005
+
+**[Viêm](https://dermnetnz.org/topics/topics?category=Inflammation)**
+
+
+# **Viêm môi bong tróc**
+
+Tác giả: Tiến sĩ Delwyn Dyall-Smith FACD, Bác sĩ da liễu, 2010.
+
+---
+
+## Viêm môi là gì?
+
+[Viêm môi](https://dermnetnz.org/topics/cheilitis) có nghĩa là môi bị viêm. Có nhiều nguyên nhân khác nhau.
+
+---
+
+## Viêm môi bong vảy là gì?
+
+Viêm môi bong tróc là một tình trạng phản ứng hiếm gặp biểu hiện bằng tình trạng bong tróc liên tục ở môi.
+Viêm môi thực tế có thể biểu hiện dưới dạng viêm môi bong tróc khi nguyên nhân là do hành vi tìm kiếm sự chú ý hoặc hành vi thực tế hoặc xu hướng ám ảnh cưỡng chế là liếm hoặc nứt môi (bong tróc).
+
+---
+
+## Ai bị viêm môi bong vảy và tại sao?
+
+Viêm môi bong tróc hiếm khi được báo cáo nhưng dường như ảnh hưởng đến cả hai giới như nhau và chủ yếu ảnh hưởng đến những người trẻ tuổi dưới 30 tuổi.
+Một số bệnh nhân được chẩn đoán mắc bệnh viêm môi bong vảy thực chất là bị bệnh [vẩy nến](https://dermnetnz.org/topics/psoriasis) cục bộ . [](https://dermnetnz.org/topics/psoriasis)
+Viêm môi thực tế có thể xảy ra do một sự kiện căng thẳng dẫn đến hành vi tự gây tổn hại.
+Bất kể nguyên nhân cơ bản là gì, viêm môi bong tróc có thể trở nên tồi tệ hơn do:
+- Thở bằng miệng
+- [Liếm môi](https://dermnetnz.org/topics/lip-lickers-dermatitis)
+- Mút môi
+- Ngậm môi
+- Cắn môi
+- [](https://dermnetnz.org/topics/bacterial-skin-infections) Nhiễm trùng [do vi khuẩn](https://dermnetnz.org/topics/bacterial-skin-infections) ( [Staphylococcus aureus](https://dermnetnz.org/topics/staphylococcal-skin-infection) ) hoặc nấm men ( [Candida albicans](https://dermnetnz.org/topics/candida) ) [](https://dermnetnz.org/topics/candida)
+Vệ sinh răng miệng kém cũng được báo cáo có liên quan đến viêm môi tróc vảy và được coi là một yếu tố kích hoạt tiềm ẩn. Một dạng của tình trạng này có liên quan đến [nhiễm HIV](https://dermnetnz.org/topics/skin-conditions-relating-to-hiv-infection) .
+Dù nguyên nhân là gì, sự hình thành keratin quá mức sẽ dẫn đến tình trạng bong tróc bất thường.
+
+---
+
+## Các đặc điểm lâm sàng của viêm môi bong tróc là gì?
+
+Viêm môi bong vảy biểu hiện bằng tình trạng bong tróc liên tục phần son (bên ngoài) của môi. Tình trạng này có thể chỉ ảnh hưởng đến một bên môi, thường là môi dưới. Môi có thể trông bình thường hoặc đỏ trước khi hình thành lớp bề mặt dày lên. Quá trình bong tróc dường như diễn ra theo chu kỳ và diễn ra với tốc độ khác nhau ở các vị trí khác nhau, vì vậy luôn có một phần môi bị bong tróc vào bất kỳ thời điểm nào. Có thể kèm theo chảy máu, dẫn đến hình thành vảy xuất huyết . Khi cả hai môi bị ảnh hưởng, môi dưới thường bị ảnh hưởng nhiều hơn môi trên.
+![Viêm môi bong tróc](https://dermnetnz.org/assets/Uploads/site-age-specific/exfoliative-cheilitis1.jpg)
+![Viêm môi bong tróc](https://dermnetnz.org/assets/Uploads/site-age-specific/exfoliative-cheilitis2.jpg)
+Tình trạng này có thể gây đau đớn, khó khăn khi ăn uống và nói chuyện. Các triệu chứng khác được báo cáo bao gồm cảm giác:
+- Ngứa ran
+- Ngứa
+- Khô
+Có thể xảy ra tình trạng loét hoặc nứt nẻ .
+Trầm cảm và rối loạn nhân cách thường được báo cáo có liên quan đến viêm môi bong tróc thực tế. Tuy nhiên, bản thân tình trạng viêm môi có thể có hình dạng khó chịu đến mức bệnh nhân tránh các hoạt động xã hội, góp phần gây rối loạn tâm trạng.
+Diễn biến điển hình của viêm môi bong tróc là mãn tính trong nhiều năm. Tình trạng có thể dao động, trở nên tồi tệ hơn khi chịu thêm áp lực. Đã có báo cáo về sự cải thiện tự nhiên, nhưng tình trạng này thường tái phát.
+
+---
+
+## Viêm môi bong tróc được chẩn đoán như thế nào?
+
+Vì viêm môi bong tróc có thể trông giống với các tình trạng khác nên cần phải xét nghiệm để loại trừ các tình trạng này và nhiễm trùng thứ phát.
+- Tăm bông nên được sử dụng để đánh giá [nấm candida](https://dermnetnz.org/topics/candida) và [tụ cầu vàng](https://dermnetnz.org/topics/staphylococcal-skin-infection) .
+- Cần phải sinh thiết nhưng kết quả giải phẫu bệnh có thể không đặc hiệu [.](https://dermnetnz.org/topics/skin-biopsy)
+Viêm môi bong tróc là một chẩn đoán loại trừ và không có xét nghiệm chẩn đoán cụ thể nào. Đánh giá tâm thần cẩn thận có thể đặc biệt hữu ích vì việc điều trị rối loạn tâm trạng hoặc lo âu liên quan đã được báo cáo là cũng cải thiện tình trạng viêm môi bong tróc thực tế.
+
+---
+
+## Điều trị viêm môi bong vảy là gì?
+
+Nhiễm trùng, nếu có, cần được điều trị tại chỗ hoặc toàn thân.
+Trừ khi có thể xác định và điều trị được nguyên nhân gây bệnh hoặc tình trạng liên quan, viêm môi tróc vảy thường kháng trị. Việc sử dụng không thành công các loại son dưỡng môi, kem [chống nắng](https://dermnetnz.org/topics/topical-sunscreen-agents) , [kem chống nấm](https://dermnetnz.org/topics/topical-antifungal-medication) , [steroid bôi ngoài da](https://dermnetnz.org/topics/topical-steroid) , [steroid toàn thân](https://dermnetnz.org/topics/systemic-steroids) , [kháng sinh ,](https://dermnetnz.org/topics/antibiotics) các chất tương tự vitamin D ( [calcipotriol](https://dermnetnz.org/topics/calcipotriol) ) và [liệu pháp lạnh](https://dermnetnz.org/topics/cryotherapy) đã được mô tả. Có một báo cáo về việc sử dụng thành công [tacrolimus](https://dermnetnz.org/topics/tacrolimus) bôi ngoài da và thuốc mỡ Calendula officinalis ( [cúc vạn thọ](https://dermnetnz.org/topics/marigold) ) 10%. [](https://dermnetnz.org/topics/tacrolimus) [](https://dermnetnz.org/topics/marigold)
+Việc điều trị rối loạn tâm trạng hoặc lo âu liên quan được báo cáo là có thể cải thiện tình trạng viêm môi thực thể. Rối loạn ám ảnh cưỡng chế đáp ứng tốt nhất với thuốc ức chế tái hấp thu serotonin có chọn lọc.

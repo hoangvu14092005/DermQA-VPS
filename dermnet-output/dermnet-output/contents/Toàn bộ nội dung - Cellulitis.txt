@@ -1,0 +1,162 @@
+# Viêm mô tế bào — thông tin bổ sung
+
+Thể loại:
+
+Nhiễm trùng
+
+SNOMED CT:
+
+128045006, 402929007, 123951002, 762284008, 278037002
+
+**[Nhiễm trùng](https://dermnetnz.org/topics/topics?category=Infections)**
+
+
+# **Viêm mô tế bào**
+
+Tác giả: Tiến sĩ Amy Stanway, Khoa Da liễu, Bệnh viện Waikato, Hamilton, New Zealand, 2001. Được xem xét và cập nhật bởiTiến sĩ Jannet Gomez, Nghiên cứu sinh sau đại học về Da liễu lâm sàng, Đại học Queen Mary London, Vương quốc Anh; Tổng biên tập, Giáo sư danh dự Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand, tháng 7 năm 2016.
+
+---
+
+## Viêm mô tế bào là gì?
+
+Viêm mô tế bào là một bệnh nhiễm trùng da do vi khuẩn thường gặp ở lớp hạ bì và mô dưới da . Bệnh gây ra một vùng da đỏ, đau, sưng tấy và các triệu chứng toàn thân . Nếu không được điều trị, viêm mô tế bào có thể đe dọa tính mạng.
+Các triệu chứng tương tự cũng xuất hiện ở bệnh nhiễm trùng nông hơn, [bệnh hồng ban](https://dermnetnz.org/topics/erysipelas) , do đó viêm mô tế bào và bệnh hồng ban thường được xem xét cùng nhau.
+![Viêm mô tế bào ở chân trái](https://dermnetnz.org/assets/Uploads/cellulitis-012.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/bacterial/s/cellulitis2.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/bacterial/cellulitis4.jpg)
+
+---
+
+## Ai bị viêm mô tế bào?
+
+Viêm mô tế bào ảnh hưởng đến mọi người ở mọi lứa tuổi và chủng tộc.
+Các yếu tố nguy cơ gây viêm mô tế bào bao gồm:
+- Các đợt viêm mô tế bào trước đó
+- Nứt nẻ ngón chân hoặc gót chân, ví dụ do [bệnh nấm da chân](https://dermnetnz.org/topics/fungal/athletes-foot.html) , [bệnh nấm da chân](https://dermnetnz.org/topics/fungal/tinea-pedis.html) hoặc [nứt gót chân](https://dermnetnz.org/topics/cracked-heel)
+- Bệnh tĩnh mạch , ví dụ như [bệnh chàm do trọng lực](https://dermnetnz.org/topics/dermatitis/venous-eczema.html) , [loét chân](https://dermnetnz.org/topics/site-age-specific/leg-ulcers.html) và/hoặc [phù bạch huyết](https://dermnetnz.org/topics/vascular/lymphoedema.html)
+- Chấn thương hiện tại hoặc trước đây, ví dụ như chấn thương , [vết thương](https://dermnetnz.org/topics/wounds) phẫu thuật , [xạ trị](https://dermnetnz.org/topics/procedures/radiotherapy.html) , [sử dụng thuốc tiêm tĩnh mạch](https://dermnetnz.org/topics/skin-infections-in-people-who-inject-recreational-drugs)
+- Suy giảm miễn dịch, ví dụ như [nhiễm virus gây suy giảm miễn dịch ở người (HIV)](https://dermnetnz.org/topics/skin-conditions-relating-to-hiv-infection)
+- Thuốc ức chế miễn dịch
+- [Bệnh tiểu đường](https://dermnetnz.org/topics/systemic/diabetes.html)
+- Bệnh thận mãn tính
+- Bệnh gan mãn tính
+- [Béo phì](https://dermnetnz.org/topics/metabolic-syndrome)
+- [Mang thai](https://dermnetnz.org/topics/skin-changes-in-pregnancy)
+- [Nghiện rượu](https://dermnetnz.org/topics/cutaneous-adverse-effects-of-alcohol)
+Nhiều người lầm tưởng một đợt viêm mô tế bào là do bị [nhện vô tình cắn](https://dermnetnz.org/topics/arthropods/spider-bites.html) . Những vết cắn của nhện được ghi nhận không dẫn đến viêm mô tế bào.
+
+---
+
+## Nguyên nhân gây ra viêm mô tế bào là gì?
+
+Vi khuẩn gây viêm mô tế bào phổ biến nhất là [Streptococcus pyogenes](https://dermnetnz.org/topics/bacterial/streptococcal-disease.html) (hai phần ba số trường hợp) và [Staphylococcus aureus](https://dermnetnz.org/topics/bacterial/staphylococci.html) (một phần ba). Các nguyên nhân hiếm gặp của viêm mô tế bào bao gồm:
+- [Pseudomonas aeruginosa](https://dermnetnz.org/topics/bacterial/staphylococci.html) , thường ở vết thương thủng ở chân hoặc tay
+- Haemophilus influenzae , ở trẻ em bị viêm mô tế bào mặt
+- Vi khuẩn kỵ khí , Eikenella , Streptococcus viridans , do vết cắn của con người
+- Pasteurella multocida , do mèo hoặc chó cắn
+- [Vibrio vulnificus](https://dermnetnz.org/topics/vibrio-vulnificus) , do tiếp xúc với nước mặn, ví dụ như tổn thương san hô
+- [Aeromonas hydrophila](https://dermnetnz.org/topics/bacterial/aeromonas.html) từ tiếp xúc với nước ngọt hoặc nước mặn, ví dụ sau khi [bị đỉa cắn](https://dermnetnz.org/topics/procedures/leeches.html)
+- Erysipelothrix ( [erysipeloid](https://dermnetnz.org/topics/bacterial/erysipeloid.html) ), trong các cửa hàng bán thịt.
+Các dạng tổn thương da khác có thể làm tăng nguy cơ tiếp xúc với vi khuẩn và nhiễm trùng mô tế bào bao gồm vết thương do phẫu thuật và vết côn trùng cắn.
+Viêm mô tế bào thường không lây nhiễm vì nó ảnh hưởng đến các lớp sâu hơn của da.
+
+---
+
+## Các đặc điểm lâm sàng của bệnh viêm mô tế bào là gì?
+
+Viêm mô tế bào có thể ảnh hưởng đến bất kỳ vị trí nào, nhưng thường ảnh hưởng nhất đến các chi
+- Nó thường là một bên ; bệnh song phương thường là do một tình trạng khác
+- Bệnh có thể tự khỏi hoặc làm phức tạp thêm tình trạng da tiềm ẩn hoặc vết thương.
+Dấu hiệu đầu tiên của bệnh thường là cảm giác không khỏe, kèm theo sốt , ớn lạnh và run rẩy (ớn lạnh). Điều này là do vi khuẩn trong máu ( nhiễm khuẩn huyết ). Các triệu chứng toàn thân sớm xuất hiện sau đó là sự phát triển của một vùng da khu trú bị đau, đỏ và sưng. Các dấu hiệu khác bao gồm:
+- Da có vết lõm (peau d'orange)
+- Sự ấm áp
+- Phồng rộp
+- Xói mòn và loét
+- [](https://dermnetnz.org/topics/bacterial/abscess.html) Sự hình thành [áp xe](https://dermnetnz.org/topics/bacterial/abscess.html)
+- [Ban xuất huyết](https://dermnetnz.org/topics/purpura) : đốm xuất huyết , vết bầm tím hoặc bọng nước xuất huyết
+Viêm mô tế bào có thể liên quan đến viêm mạch bạch huyết và viêm hạch bạch huyết , do vi khuẩn trong các mạch bạch huyết và tuyến bạch huyết tại chỗ gây ra. Một đường màu đỏ chạy từ vị trí nhiễm trùng đến các tuyến bạch huyết sưng tấy, mềm gần đó.
+Sau khi điều trị thành công, da có thể bong tróc hoặc nứt nẻ khi lành lại. Tình trạng này có thể gây ngứa.
+
+---
+
+## Biến chứng của bệnh viêm mô tế bào là gì?
+
+Viêm mô tế bào nặng hoặc tiến triển nhanh có thể dẫn đến các biến chứng cần được điều trị kịp thời:
+- [Viêm cân hoại tử](https://dermnetnz.org/topics/bacterial/necrotising-fasciitis.html) (một bệnh nhiễm trùng mô mềm nghiêm trọng hơn được nhận biết bằng các triệu chứng đau dữ dội, da nhợt nhạt , mất cảm giác, xuất huyết , loét và hoại tử )
+- [Hoại tử khí](https://dermnetnz.org/topics/wet-gangrene)
+- Nhiễm trùng huyết nặng (nhiễm trùng máu)
+- Nhiễm trùng các cơ quan khác, ví dụ như viêm phổi, viêm tủy xương , viêm màng não
+- Viêm nội tâm mạc (nhiễm trùng van tim).
+Nhiễm trùng huyết được nhận biết bằng các triệu chứng sốt, khó chịu , chán ăn, buồn nôn, lờ đờ , đau đầu, đau cơ và khớp. Nhiễm trùng nghiêm trọng dẫn đến hạ huyết áp (huyết áp thấp, suy sụp), giảm tuần hoàn mao mạch , suy tim, tiêu chảy, xuất huyết tiêu hóa, suy thận và mất ý thức.
+
+---
+
+## Chẩn đoán viêm mô tế bào được thực hiện như thế nào?
+
+Chẩn đoán viêm mô tế bào chủ yếu dựa trên các đặc điểm lâm sàng bao gồm khám thực thể. Các xét nghiệm có thể phát hiện:
+- Tăng bạch cầu (tăng số lượng tế bào bạch cầu).
+- Protein phản ứng C ( CRP ) tăng cao
+- Tác nhân gây bệnh , dựa vào nuôi cấy máu hoặc mủ , vảy, vết trợt hoặc vết thương.
+Có thể thực hiện chụp ảnh. Ví dụ:
+- Chụp X-quang ngực trong trường hợp suy tim hoặc viêm phổi
+- Siêu âm Doppler để tìm cục máu đông ( huyết khối tĩnh mạch sâu )
+- Chụp MRI trong trường hợp viêm cân hoại tử.
+
+---
+
+## Chẩn đoán phân biệt bệnh viêm mô tế bào là gì?
+
+Viêm mô tế bào thường được chẩn đoán khi một bệnh viêm da khác thực sự gây đỏ và sưng. Các tình trạng gây ra 'viêm mô tế bào giả' bao gồm:
+- [Chàm/viêm](https://dermnetnz.org/topics/dermatitis) da do [ứ trệ](https://dermnetnz.org/topics/venous-eczema) , yếu tố [tiếp xúc](https://dermnetnz.org/topics/contact-dermatitis)
+- [Nhiễm nấm,](https://dermnetnz.org/topics/fungal-skin-infections) ví dụ như [tinea corporis](https://dermnetnz.org/topics/tinea-corporis) , [tinea pedis](https://dermnetnz.org/topics/tinea-pedis)
+- Huyết khối tĩnh mạch sâu
+- [Sự bùng phát của ma túy](https://dermnetnz.org/topics/drug-eruptions)
+- [Bệnh vẩy nến](https://dermnetnz.org/topics/psoriasis)
+- [Xơ vữa động mạch](https://dermnetnz.org/topics/lipodermatosclerosis)
+- [Viêm tắc tĩnh mạch](https://dermnetnz.org/topics/superficial-thrombophlebitis)
+- [Côn trùng cắn và đốt](https://dermnetnz.org/topics/arthropod-bites-and-stings)
+- [](https://dermnetnz.org/topics/arthropod-bites-and-stings) Tổn thương do bức xạ sau [xạ trị](https://dermnetnz.org/topics/procedures/radiotherapy.html)
+- [](https://dermnetnz.org/topics/procedures/radiotherapy.html) Ung thư vú viêm ( carcinoma [erysipeloides](https://dermnetnz.org/topics/systemic/carcinoma-erysipeloides.html) ).
+
+---
+
+## Phương pháp điều trị viêm mô tế bào là gì?
+
+Viêm mô tế bào có khả năng nghiêm trọng. Bệnh nhân nên nghỉ ngơi và nâng cao chi bị ảnh hưởng. Cần đánh dấu mép vùng sưng để theo dõi tiến triển/ thoái lui của nhiễm trùng.
+Kiến thức về các vi khuẩn địa phương và mô hình kháng thuốc là điều cần thiết để lựa chọn [kháng sinh](https://dermnetnz.org/topics/antibiotics) phù hợp . Việc điều trị viêm mô tế bào đang trở nên phức tạp hơn do tỷ lệ gia tăng của [tụ cầu vàng](https://dermnetnz.org/topics/bacterial/methicillin-resistance.html) [kháng methicillin(MRSA) và](https://dermnetnz.org/topics/bacterial/methicillin-resistance.html) [liên cầu khuẩn pyogenes](https://dermnetnz.org/topics/bacterial/streptococcal-disease.html) kháng macrolide hoặc [erythromycin](https://dermnetnz.org/topics/treatments/erythromycin.html) . [](https://dermnetnz.org/topics/bacterial/streptococcal-disease.html)
+
+### Điều trị viêm mô tế bào không biến chứng
+Nếu không có dấu hiệu bệnh lý toàn thân hoặc nhiễm trùng lan rộng, bệnh nhân viêm mô tế bào nhẹ có thể được điều trị bằng [kháng sinh](https://dermnetnz.org/topics/treatments/antibiotics.html) đường uống tại nhà, tối thiểu 5–10 ngày. Trong một số trường hợp, kháng sinh được tiếp tục cho đến khi hết các dấu hiệu nhiễm trùng (đỏ, đau và sưng), đôi khi kéo dài đến vài tháng. Việc điều trị cũng nên bao gồm:
+- Thuốc giảm đau để giảm đau
+- Uống đủ nước/chất lỏng
+- Quản lý các tình trạng da đồng thời như [bệnh chàm tĩnh mạch](https://dermnetnz.org/topics/venous-eczema) hoặc [bệnh nấm da chân](https://dermnetnz.org/topics/tinea-pedis)
+
+### Điều trị viêm mô tế bào có bệnh toàn thân
+Viêm mô tế bào nặng hơn và các triệu chứng toàn thân nên được điều trị bằng truyền dịch, kháng sinh tiêm tĩnh mạch và oxy. Việc lựa chọn kháng sinh phụ thuộc vào phác đồ điều trị tại địa phương dựa trên các vi khuẩn phổ biến và mô hình kháng thuốc của chúng, và có thể được thay đổi tùy theo kết quả nuôi cấy/ nhạy cảm .
+- [Thuốc kháng sinh gốc penicillin](https://dermnetnz.org/topics/penicillin) thường được lựa chọn (ví dụ penicillin G hoặc flucloxacillin)
+- Amoxicillin và axit clavulanic cung cấp phạm vi bao phủ rộng nếu nghi ngờ có vi khuẩn bất thường
+- Cephalosporin cũng thường được sử dụng (ví dụ ceftriaxone, cefotaxime hoặc cefazolin)
+- [Clindamycin](https://dermnetnz.org/topics/treatments/clindamycin.html) , sulfamethoxazole/trimethoprim, [doxycycline và vancomycin được sử dụng ở những bệnh nhân bị](https://dermnetnz.org/topics/treatments/tetracycline.html) dị ứng với penicillin hoặc cephalosporin , hoặc nghi ngờ nhiễm trùng [tụ cầu vàng](https://dermnetnz.org/topics/bacterial/methicillin-resistance.html) [kháng methicillin.](https://dermnetnz.org/topics/bacterial/methicillin-resistance.html)
+- Kháng sinh phổ rộng cũng có thể bao gồm linezolid, ceftaroline hoặc daptomycin
+Đôi khi, người ta còn thêm probenecid đường uống để duy trì nồng độ kháng sinh trong máu.
+Có thể chuyển sang dùng thuốc kháng sinh uống khi cơn sốt đã hạ, tình trạng viêm mô tế bào đã thuyên giảm và CRP đã giảm.
+
+### Chăm sóc đa ngành
+- Bác sĩ nội khoa sẽ được tham vấn để đánh giá và điều trị nhiễm trùng huyết.
+- Dịch vụ bệnh truyền nhiễm có thể tư vấn về vi sinh vật và lựa chọn thuốc kháng sinh.
+- Bác sĩ phẫu thuật được gọi đến để dẫn lưu áp xe , cắt bỏ mô hoại tử và làm giảm các triệu chứng chèn ép, ví dụ như hội chứng khoang.
+- Trường hợp [viêm mô tế bào hốc](https://translate.google.com/website) mắt cần phải có sự can thiệp của bác sĩ nhãn khoa . [](https://translate.google.com/website)
+- Có thể cần phải gọi bác sĩ da liễu để xác nhận chẩn đoán viêm mô tế bào hoặc đề xuất các chẩn đoán thay thế.
+- Y tá chuyên khoa có thể tư vấn về việc băng bó.
+
+---
+
+## Điều trị viêm mô tế bào tái phát như thế nào?
+
+Bệnh nhân bị viêm mô tế bào tái phát nên :
+- Tránh chấn thương, mặc áo dài tay và quần dài khi tham gia các hoạt động có nguy cơ cao, chẳng hạn như làm vườn
+- Giữ da sạch sẽ và đủ ẩm, móng tay được chăm sóc tốt
+- Tránh lấy máu xét nghiệm ở chi bị ảnh hưởng
+- Điều trị sớm [nhiễm trùng nấm](https://dermnetnz.org/topics/fungal-skin-infections) ở tay và chân
+- Giữ các chi bị sưng được nâng cao trong thời gian nghỉ ngơi để hỗ trợ tuần hoàn bạch huyết . Những người bị [phù bạch huyết](https://dermnetnz.org/topics/lymphoedema) mãn tính có thể được hưởng lợi từ việc mặc quần áo [bó](https://dermnetnz.org/topics/compression-therapy) .
+[Bệnh nhân bị 2 hoặc nhiều đợt viêm mô tế bào có thể được hưởng lợi từ phương pháp điều trị kháng sinh ức chế mãn tính bằng penicillin](https://dermnetnz.org/topics/treatments/penicillin.html) V liều thấp hoặc [erythromycin](https://dermnetnz.org/topics/erythromycin) trong một đến hai năm.

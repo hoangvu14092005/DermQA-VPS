@@ -1,0 +1,109 @@
+# Co thắt Dupuytren — thông tin bổ sung
+
+Thể loại:
+
+Bệnh mô liên kết
+
+SNOMED CT:
+
+410812005, 274142002, 203045001, 203049007, 203052004, 398211002, 203047009, 708982000, 203051006, 203046000
+
+**[Bệnh mô liên kết](https://dermnetnz.org/topics/topics?category=Connective+tissue+diseases)**
+
+
+# **Co thắt Dupuytren**
+
+Tác giả: Tae Yeb (Terry) Kim, Sinh viên Y khoa, Đại học Auckland, Auckland, New Zealand. Tổng biên tập DermNet: Phó Giáo sư Amanda Oakley, Bác sĩ Da liễu, New Zealand. Biên tập bởi Gus Mitchell/Maria McGivern. Tháng 4 năm 2019.
+
+---
+
+## Co thắt Dupuytren là gì?
+
+Co cứng Dupuytren , còn được gọi là bệnh Dupuytren, là một rối loạn xơ hóa tiến triển ở các ngón tay và lòng bàn tay. Bệnh này dẫn đến sự phát triển của các nốt sần và dây chằng dày lên ở cân gan tay , có thể dẫn đến co cứng các ngón tay [1]. Ở giai đoạn sau, những thay đổi về cấu trúc cũng bao gồm co cứng gấp các khớp.
+![Co thắt Dupuytren](https://dermnetnz.org/assets/Uploads/dupuytren-contracture-01.jpg)
+![Co thắt Dupuytren](https://dermnetnz.org/assets/Uploads/dupuytren-contracture-02.jpg)
+![Co thắt Dupuytren](https://dermnetnz.org/assets/Uploads/dupuytren-contracture-03.jpg)
+
+---
+
+## Ai mắc phải chứng co cứng Dupuytren?
+
+Co thắt Dupuytren là một rối loạn tương đối phổ biến, xảy ra khi tuổi tác tăng cao. Khoảng 5–15% nam giới da trắng trên 50 tuổi bị ảnh hưởng [2]. Tỷ lệ mắc co thắt Dupuytren ở nam giới trẻ tuổi cao hơn ở nữ giới, nhưng không có sự khác biệt đáng kể về tỷ lệ mắc giữa hai giới tính ở độ tuổi 90. Bệnh này hiếm gặp ở người châu Á và người Mỹ gốc Phi.
+
+---
+
+## Nguyên nhân nào gây ra chứng co cứng Dupuytren?
+
+Nguyên nhân chính xác của co cứng Dupuytren vẫn chưa được biết rõ. Nó liên quan đến các yếu tố sau [3]:
+- Khuynh hướng di truyền
+- [Nghiện rượu](https://dermnetnz.org/topics/cutaneous-adverse-effects-of-alcohol)
+- [Hút thuốc](https://dermnetnz.org/topics/smoking-and-its-effects-on-the-skin)
+- Lao động chân tay
+- [Bệnh tiểu đường](https://dermnetnz.org/topics/skin-problems-associated-with-diabetes-mellitus)
+- Bệnh động kinh
+- Viêm cân gan tay
+- Các xơ hóa cục bộ khác
+- Chấn thương bàn tay .
+Co cứng Dupuytren có thể di truyền theo gia đình hoặc có thể xảy ra lẻ tẻ. Nguyên nhân gây ra mối liên quan phụ thuộc liều lượng giữa nghiện rượu và hút thuốc lá với co cứng Dupuytren vẫn chưa được hiểu rõ.
+Tỷ lệ mắc chứng co cứng Dupuytren cao hơn 2–5 lần ở những người lao động chân tay so với những người làm việc trong văn phòng, có thể là do các chuyển động và rung động lặp đi lặp lại [4]. Mối liên quan với bệnh động kinh đã được báo cáo không nhất quán và có thể là do [thuốc chống động kinh](https://dermnetnz.org/topics/cutaneous-adverse-effects-of-anticonvulsant-drugs) .
+
+---
+
+## Các đặc điểm lâm sàng của bệnh co cứng Dupuytren là gì?
+
+Co cứng Dupuytren khu trú ở một hoặc cả hai lòng bàn tay và ngón tay. Bệnh thường biểu hiện ở nửa lòng bàn tay, bao gồm ngón thứ tư và thứ năm , và cũng có thể ảnh hưởng đến ngón thứ ba.
+Dấu hiệu đầu tiên là một nốt sần ở lòng bàn tay , sau đó có thể tiến triển thành một dây chằng [5]. Các cơn co cứng xuất hiện muộn hơn trong quá trình tiến triển của co cứng Dupuytren, dẫn đến khó duỗi thẳng các ngón tay bị ảnh hưởng. Các đặc điểm bổ sung có thể bao gồm:
+- Rỗ hoặc nhăn da ở lòng bàn tay
+- Giảm chuyển động của các ngón tay
+- Viêm (đỏ, sưng, nóng và đau).
+
+---
+
+## Biến chứng của bệnh co cứng Dupuytren là gì?
+
+Nếu không được điều trị, chứng co cứng Dupuytren có thể dẫn đến tình trạng bất động các ngón tay, gây mất chức năng ở bàn tay bị ảnh hưởng.
+Không có biến chứng toàn thân nào liên quan đến chứng co cứng Dupuytren.
+
+---
+
+## Bệnh co cứng Dupuytren được chẩn đoán như thế nào?
+
+Co cứng Dupuytren được chẩn đoán lâm sàng và không cần phải xét nghiệm.
+
+---
+
+## Chẩn đoán phân biệt bệnh co cứng Dupuytren là gì?
+
+Bệnh co cứng Dupuytren cần được phân biệt với các tình trạng sau:
+- [U xơ](https://dermnetnz.org/topics/fibromatosis) lòng bàn tay (viêm cân mạc) — đặc trưng bởi tình trạng co cứng gập ảnh hưởng đến tất cả các ngón tay; u xơ lòng bàn tay có liên quan đến [bệnh ác tính](https://dermnetnz.org/topics/cutaneous-markers-of-internal-malignancy)
+- Bệnh lý xương khớp do tiểu đường — điều này dẫn đến hạn chế khả năng vận động của tất cả các ngón tay, ngoại trừ ngón cái; không có các nốt sần và dây chằng
+- Camptodactyly — đây là một rối loạn di truyền gây ra biến dạng gấp của khớp liên đốt ngón tay gần
+- [Pachydermodactyly](https://dermnetnz.org/topics/pachydermodactyly) — một dạng xơ hóa lòng bàn tay ảnh hưởng đến các khớp ngón tay
+- Sẹo hoặc khuyết tật do chấn thương trước đó ở bàn tay
+- Co cứng do thiếu máu cục bộ Volkmann — đây là biến dạng giống móng vuốt ở bàn tay, ngón tay và cổ tay, ảnh hưởng đến trẻ em sau khi gãy xương trên lồi cầu xương cánh tay.
+- Các bệnh viêm khớp, chẳng hạn như [viêm khớp dạng thấp](https://dermnetnz.org/topics/rheumatoid-arthritis-and-the-skin) .
+
+---
+
+## Phương pháp điều trị bệnh co cứng Dupuytren là gì?
+
+
+### Điều trị không phẫu thuật
+Điều trị không phẫu thuật cho chứng co cứng Dupuytren nhẹ có thể bao gồm nẹp (cố định bên ngoài), có thể làm giảm khó chịu và kéo dài bó mạch thần kinh. Chưa rõ liệu nẹp, xoa bóp hoặc các bài tập tay có ngăn chặn sự tiến triển của chứng co cứng hay không [6].
+[Tiêm steroid vào tổn thương](https://dermnetnz.org/topics/intralesional-steroid-injection) cùng với lignocaine có thể làm giảm đau và tiến triển của bệnh, nhưng không hiệu quả khi dây chằng và tình trạng co cứng đã phát triển.
+Theo thử nghiệm, 90% bệnh nhân được điều trị bằng tiêm collagenase Clostridium histolyticum được báo cáo là đã đạt được sự mở rộng hoàn toàn của khớp liên đốt gần (PIP) sau một lần điều trị duy nhất [7]. Các vết co cứng có xu hướng tái phát thường xuyên hơn ở khớp PIP so với khớp bàn ngón tay (MCP).
+
+### Điều trị phẫu thuật
+Phẫu thuật là phương pháp điều trị chính cho các trường hợp co cứng lan rộng và suy giảm chức năng bàn tay. Chỉ định phẫu thuật thường là các trường hợp co cứng trên 30–40° tại khớp bàn ngón tay giữa và trên 20° tại khớp bàn ngón tay giữa. Mục đích là phục hồi chức năng bàn tay và đảo ngược tình trạng co cứng ở ngón tay. Các thủ thuật phẫu thuật cho co cứng Dupuytren bao gồm:
+- Phẫu thuật cắt bỏ cân cơ ( cắt bỏ các dây hoặc dải cơ bị bệnh)
+- Phẫu thuật cắt cân ( cắt bỏ mà không cắt bỏ dây/dải bị bệnh).
+Các thủ thuật này có thể được thực hiện công khai hoặc bằng phương pháp xuyên da (kim), có hoặc không [cắt bỏ](https://dermnetnz.org/topics/excision-of-skin-lesions) da bên trên. Phẫu thuật hiệu quả hơn đối với các trường hợp co cứng khớp liên quan đến khớp bàn ngón tay (MCP) so với các trường hợp co cứng khớp ngón tay (PIP). Tỷ lệ tái phát sau phẫu thuật cao, đặc biệt là ở bệnh nhân trẻ tuổi.
+Phẫu thuật cắt cân hạn chế được chỉ định cho những bệnh nhân bị mất chức năng bàn tay do co cứng tiến triển. Tổn thương đơn độc với một dây hoặc một dải đơn lẻ đáp ứng tốt hơn với phẫu thuật so với các dạng bệnh lan tỏa và có thể được phẫu thuật mạnh hơn.
+Phẫu thuật cắt cân cơ qua da bằng kim ít xâm lấn hơn phẫu thuật cắt cân cơ và có thời gian phục hồi nhanh, tỷ lệ biến chứng thấp, nhưng tỷ lệ tái phát lên tới 65% trong vòng 3–4 năm [8].
+Các rủi ro liên quan đến phẫu thuật điều trị co cứng Dupuytren bao gồm tổn thương dây thần kinh và gân gấp cũng như hình thành các túi phình giả (túi máu trong mạch máu).
+
+---
+
+## Hậu quả của bệnh co cứng Dupuytren là gì?
+
+Nếu không được điều trị, tình trạng co cứng Dupuytren sẽ tiến triển chậm ở khoảng một phần ba số bệnh nhân [9]. Không có phương pháp điều trị nào có thể ngăn chặn hoàn toàn sự tiến triển hoặc chữa khỏi tình trạng này.

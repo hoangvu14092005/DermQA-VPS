@@ -1,0 +1,82 @@
+# Poliosis — extra information
+
+SNOMED CT:
+
+14240001, 201175002, 403337001
+
+
+# **Bệnh bại liệt**
+
+Tác giả: Tiến sĩ Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand, 2008. Bản cập nhật DermNet tháng 8 năm 2021
+
+---
+
+## Bệnh bại liệt là gì?
+
+Bệnh bại liệt được định nghĩa là một mảng lông trắng khu trú . Đây là một dấu hiệu lâm sàng chứ không phải là chẩn đoán.
+![Bệnh bại liệt ở rụng tóc từng vùng](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/poliosis2.jpg)
+![Bạch biến ở mí mắt kèm theo chứng rụng lông mi](https://dermnetnz.org/assets/collection/Vitiligo/vitiligo-0001.jpg)
+![Bệnh hói đầu ở người hói đầu](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/poliosis1.jpg)
+
+---
+
+## Ai mắc bệnh bại liệt?
+
+Các tình trạng sau đây có thể liên quan đến bệnh bại liệt:
+- Nguyên nhân di truyền của bệnh bại liệt [Piebaldism](https://dermnetnz.org/topics/piebaldism) [Bệnh xơ củ](https://dermnetnz.org/topics/tuberous-sclerosis) [Hội chứng Waardenburg](https://dermnetnz.org/topics/waardenburg-syndrome) Hội chứng Tietze [Bệnh u xơ thần kinh](https://dermnetnz.org/topics/neurofibromatosis) loại 1 [Hội chứng Marfan](https://dermnetnz.org/topics/marfan-syndrome) [Thiếu hụt prolidase](https://dermnetnz.org/topics/prolidase-deficiency)
+- [Piebaldism](https://dermnetnz.org/topics/piebaldism)
+- [Bệnh xơ củ](https://dermnetnz.org/topics/tuberous-sclerosis)
+- [Hội chứng Waardenburg](https://dermnetnz.org/topics/waardenburg-syndrome)
+- Hội chứng Tietze
+- [Bệnh u xơ thần kinh](https://dermnetnz.org/topics/neurofibromatosis) loại 1
+- [Hội chứng Marfan](https://dermnetnz.org/topics/marfan-syndrome)
+- [Thiếu hụt prolidase](https://dermnetnz.org/topics/prolidase-deficiency)
+- Bệnh bại liệt mắc phải [Bệnh bạch biến](https://dermnetnz.org/topics/vitiligo) [Rụng tóc từng vùng](https://dermnetnz.org/topics/alopecia-areata) [Hạch quầng](https://dermnetnz.org/topics/halo-naevus) [](https://dermnetnz.org/topics/melanoma) Bệnh bạch tạng liên quan đến [u hắc tố](https://dermnetnz.org/topics/melanoma) [Bệnh Vogt-Koyanagi-Harada](https://dermnetnz.org/topics/vogt-koyanagi-harada-syndrome) [Hội chứng Allezandrini](https://dermnetnz.org/topics/alezzandrini-syndrome) Thuốc bôi ngoài da - [imiquimod](https://dermnetnz.org/topics/imiquimod) , chloramphenicol, [bimatoprost](https://dermnetnz.org/topics/bimatoprost) Thuốc toàn thân - [acitretin](https://dermnetnz.org/topics/acitretin) , [chloroquine](https://dermnetnz.org/topics/chloroquine) Đau đầu tự chủ dây thần kinh sinh ba
+- [Bệnh bạch biến](https://dermnetnz.org/topics/vitiligo)
+- [Rụng tóc từng vùng](https://dermnetnz.org/topics/alopecia-areata)
+- [Hạch quầng](https://dermnetnz.org/topics/halo-naevus)
+- [](https://dermnetnz.org/topics/melanoma) Bệnh bạch tạng liên quan đến [u hắc tố](https://dermnetnz.org/topics/melanoma)
+- [Bệnh Vogt-Koyanagi-Harada](https://dermnetnz.org/topics/vogt-koyanagi-harada-syndrome)
+- [Hội chứng Allezandrini](https://dermnetnz.org/topics/alezzandrini-syndrome)
+- Thuốc bôi ngoài da - [imiquimod](https://dermnetnz.org/topics/imiquimod) , chloramphenicol, [bimatoprost](https://dermnetnz.org/topics/bimatoprost)
+- Thuốc toàn thân - [acitretin](https://dermnetnz.org/topics/acitretin) , [chloroquine](https://dermnetnz.org/topics/chloroquine)
+- Đau đầu tự chủ dây thần kinh sinh ba
+Nó cũng có thể xảy ra sau một chấn thương hoặc một sự kiện như [bệnh zona](https://dermnetnz.org/topics/herpes-zoster) hoặc [xạ trị](https://dermnetnz.org/topics/radiotherapy-for-malignant-skin-diseases) .
+
+---
+
+## Nguyên nhân gây ra bệnh bại liệt là gì?
+
+Bệnh hói đầu là do thiếu hụt melanin ( sắc tố ) ở thân tóc tại vùng bị ảnh hưởng.
+Bệnh hói đầu có thể xảy ra do khiếm khuyết di truyền về quá trình tạo sắc tố hoặc do sự phá hủy các tế bào sắc tố ở chân tóc.
+
+---
+
+## Các đặc điểm lâm sàng của bệnh bại liệt là gì?
+
+Bệnh hói đầu là tình trạng các sợi tóc trắng tập trung thành từng cụm, thường gặp nhất ở tóc trên da đầu, nhưng bất kỳ vị trí có lông nào cũng có thể bị ảnh hưởng, bao gồm lông mày, lông mi, râu và lông trên cơ thể.
+Bệnh này có thể liên quan đến [bệnh bạch tạng](https://dermnetnz.org/topics/leukoderma) hoặc da có thể có màu sắc bình thường.
+![Bệnh bại liệt do nốt ruồi quầng](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/poliosis4.jpg)
+![Poliosis of eyebrow and eyelashes in vitiligo](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/poliosis3.jpg)
+![Poliosis in alopecia areata](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/alopecia-areata/1330.jpg)
+
+---
+
+## Bệnh bại liệt được chẩn đoán như thế nào?
+
+Bệnh bại liệt là một chẩn đoán lâm sàng. Có thể cần đánh giá lâm sàng và xét nghiệm để xác định nguyên nhân.
+[Sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) sẽ cho thấy thiếu melanin và/hoặc tế bào hắc tố ở nang tóc. Tế bào hắc tố biểu bì sẽ bình thường trừ khi có kèm theo bệnh bạch biến.
+
+---
+
+## Chẩn đoán phân biệt bệnh bại liệt là gì?
+
+- Thuốc tẩy tóc
+- [Piedra trắng](https://dermnetnz.org/topics/piedra)
+- Tóc bạc lan tỏa , thay vì khu trú, trong [bệnh bạch tạng](https://dermnetnz.org/topics/albinism) , [hội chứng Hermansky-Pudlak](https://dermnetnz.org/topics/hermansky-pudlak-syndrome) , [hội chứng Griscelli](https://dermnetnz.org/topics/griscelli-syndrome) , [hội chứng Chediak-Higashi](https://dermnetnz.org/topics/chediak-higashi-syndrome)
+
+---
+
+## Triển vọng của bệnh bại liệt là gì?
+
+Tình trạng hói đầu có thể ổn định, nhưng tóc có thể tái tạo sắc tố trong một số trường hợp như rụng tóc từng mảng và do dùng thuốc.

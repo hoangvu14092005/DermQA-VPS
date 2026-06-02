@@ -1,0 +1,69 @@
+# Kerion — thông tin bổ sung
+
+Thể loại:
+
+Nhiễm trùng
+
+SNOMED CT:
+
+1908700152983002, 73860009
+
+**[Nhiễm trùng](https://dermnetnz.org/topics/topics?category=Infections)**
+
+
+# **Kerion**
+
+Tác giả: Tiến sĩ Maneka Gnanasegaram, Bác sĩ da liễu, Bệnh viện Greenlane, Auckland, New Zealand, 2012.
+
+---
+
+## Kerion là gì?
+
+Kerion là một [khối áp xe](https://dermnetnz.org/topics/cutaneous-abscess) do nhiễm nấm. Bệnh thường xảy ra ở da đầu ( [bệnh nấm da đầu](https://dermnetnz.org/topics/tinea-capitis) ), nhưng cũng có thể xuất hiện ở bất kỳ vị trí nào tiếp xúc với nấm như mặt ( [bệnh nấm da mặt](https://dermnetnz.org/topics/tinea-faciei) ) và chi trên ( [bệnh nấm da thân](https://dermnetnz.org/topics/tinea-corporis) ). Bệnh thường bị chẩn đoán nhầm là [nhiễm trùng do vi khuẩn](https://dermnetnz.org/topics/bacterial-skin-infections) .
+
+---
+
+## Kerion trông như thế nào?
+
+Kerion biểu hiện là một khối u nhầy nhụa chứa đầy mủ , thường có đường kính vài cm. Đặc điểm của tình trạng này là tình trạng viêm rõ rệt. Các sợi lông bên trong kerion bị lỏng và rụng, thường dẫn đến hói đầu ( [rụng tóc](https://dermnetnz.org/topics/hair-loss) cục bộ ). [](https://dermnetnz.org/topics/hair-loss)
+Hạch bạch huyết khu vực có thể sưng to, và một số người bị bệnh toàn thân với các triệu chứng sốt và khó chịu. Sau đó có thể xuất hiện phát ban ngứa lan rộng giống như chàm ( [dermatophytide](https://dermnetnz.org/topics/dermatophytide-reactions) ). [](https://dermnetnz.org/topics/dermatophytide-reactions)
+![Không có caption](https://dermnetnz.org/assets/Uploads/fungal/kerion01.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/fungal/kerion02.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/fungal/kerion03.jpg)
+[Xem thêm hình ảnh của kerion](https://dermnetnz-org.translate.goog/topics/kerion-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp) ...
+
+---
+
+## Nguyên nhân nào gây ra bệnh kerion?
+
+Kerion là tình trạng phản ứng miễn dịch mạnh mẽ với nhiễm nấm dermatophyte ( [bệnh nấm da](https://dermnetnz.org/topics/tinea) ). Các loại nấm phổ biến nhất được tìm thấy trong kerion là:
+- Microsporum canis
+- Trichophyton tonsurans
+- Trichophyton verrucosum
+- Trichophyton mentagrophytes
+Trichophyton rubrum không phải là nguyên nhân phổ biến gây ra bệnh kerion.
+
+---
+
+## Bệnh Kerion được chẩn đoán như thế nào?
+
+Nghi ngờ được đặt ra do hình dạng điển hình của kerion. Kiểm tra bằng [đèn Wood](https://dermnetnz.org/topics/wood-lamp-skin-examination) phát ra tia UVA bước sóng dài có thể phát hiện huỳnh quang màu vàng lục nếu kerion là do Microsporum canis, nhưng thường âm tính ngay cả khi đây là tác nhân gây bệnh vì tình trạng viêm che khuất sự hiện diện của nấm.
+Để xác nhận chẩn đoán, có thể lấy mẫu cạo và tóc từ vùng bị ảnh hưởng để soi kính hiển vi và nuôi cấy nấm ( [xét nghiệm trong phòng thí nghiệm để tìm nhiễm nấm](https://dermnetnz.org/topics/laboratory-tests-for-fungal-infection) ). Nên xét nghiệm bằng tăm bông lấy vi khuẩn vì nhiễm trùng thứ phát do vi khuẩn thường xảy ra.
+
+---
+
+## Bệnh Kerion có lây không?
+
+Có, nhiễm nấm kerion có thể lây truyền sang các thành viên khác trong gia đình nếu họ tiếp xúc gần, đặc biệt là khi dùng chung chăn ga gối đệm và khăn tắm. Lược và bàn chải tóc nên được khử trùng hoặc bỏ đi để ngăn ngừa lây nhiễm hoặc tái nhiễm.
+Vì nấm gây bệnh kerion (ví dụ M canis) thường trú ngụ trên vật nuôi trong nhà (ví dụ mèo con), nên các thành viên trong gia đình cũng có thể bị nhiễm bệnh do tiếp xúc trực tiếp với con vật.
+
+---
+
+## Phương pháp điều trị bệnh kerion là gì?
+
+Kerion nên được điều trị bằng [thuốc kháng nấm đường uống](https://dermnetnz.org/topics/oral-antifungal-medication) . Thông thường, một liệu trình điều trị tối thiểu kéo dài 6-8 tuần. [Thuốc kháng nấm tại chỗ](https://dermnetnz.org/topics/topical-antifungal-medication) không hiệu quả do nấm xâm nhập sâu vào nang lông.
+- [Terbinafine](https://dermnetnz.org/topics/terbinafine)
+- [Itraconazole](https://dermnetnz.org/topics/itraconazole)
+- [Griseofulvin](https://dermnetnz.org/topics/griseofulvin) (không còn được bán ở New Zealand)
+[Có thể cần dùng kháng sinh](https://dermnetnz.org/topics/antibiotics) nếu có nhiễm trùng do vi khuẩn. Dầu gội chống nấm có chứa [ketoconazole](https://dermnetnz.org/topics/ketoconazole) hoặc ciclopirox giúp giảm nguy cơ lây nhiễm sang người khác.
+Tóc thường sẽ mọc lại sau khi nhiễm trùng được điều trị, nhưng đôi khi tình trạng rụng tóc là vĩnh viễn, đặc biệt nếu tình trạng nhiễm trùng đã kéo dài.

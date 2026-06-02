@@ -1,0 +1,91 @@
+# Ngôn ngữ địa lý — thông tin bổ sung
+
+Thể loại:
+
+Thuật ngữ
+
+SNOMED CT:
+
+59032001
+
+**[Thuật ngữ](https://dermnetnz.org/topics/topics?category=Terminology)**
+
+
+# **Ngôn ngữ địa lý**
+
+Tác giả: Vanessa Ngan, Nhân viên viết, 2003.Cập nhật bởi Tiến sĩ AnitaEshraghi, Bác sĩ Da liễu, Thụy Điển.Tháng 3 năm 2018.
+
+---
+
+## Ngôn ngữ địa lý là gì?
+
+Lưỡi bản đồ là tình trạng viêm lành tính ở miệng , đặc trưng bởi tình trạng mất biểu mô , đặc biệt là các gai chỉ ở mặt sau của lưỡi.
+Lưỡi bản đồ còn được gọi là viêm lưỡi di trú lành tính vì các dấu hiệu di chuyển xung quanh.
+![Ngôn ngữ địa lý](https://dermnetnz.org/assets/Uploads/site-age-specific/geog-tongue1.jpg)
+![Ngôn ngữ địa lý](https://dermnetnz.org/assets/Uploads/site-age-specific/geog-tongue2.jpg)
+![Ngôn ngữ địa lý](https://dermnetnz.org/assets/Uploads/site-age-specific/s/geog-tongue4.jpg)
+![Ngôn ngữ địa lý](https://dermnetnz.org/assets/Uploads/site-age-specific/s/geog-tongue3.jpg)
+![Ngôn ngữ địa lý](https://dermnetnz.org/assets/Uploads/site-age-specific/s/geog-tongue6.jpg)
+![Ngôn ngữ địa lý](https://dermnetnz.org/assets/Uploads/site-age-specific/s/geog-tongue5.jpg)
+
+---
+
+## Ai mắc phải ngôn ngữ địa lý?
+
+Lưỡi bản đồ ảnh hưởng đến khoảng 1–3% dân số trưởng thành trên toàn thế giới. Bệnh ít phổ biến hơn ở trẻ em. Tỷ lệ mắc bệnh ở phụ nữ cao gấp đôi nam giới. Bệnh nhân có thể có tiền sử gia đình mắc bệnh lưỡi bản đồ hoặc lưỡi nứt .
+
+---
+
+## Nguyên nhân nào gây ra lưỡi bản đồ?
+
+Nguyên nhân gây ra bệnh lưỡi bản đồ vẫn chưa được biết rõ nhưng bệnh lưỡi bản đồ thường xảy ra ở những bệnh nhân bị [bệnh vẩy nến](https://dermnetnz.org/topics/psoriasis) , đặc biệt là [bệnh vẩy nến mủ](https://dermnetnz.org/topics/generalised-pustular-psoriasis) .
+Bệnh cũng xuất hiện ở những bệnh nhân bị [dị ứng thực phẩm](https://dermnetnz.org/topics/food-allergy) , [viêm da tiếp xúc dị ứng](https://dermnetnz.org/topics/allergic-contact-dermatitis) , hen suyễn, [viêm da dị ứng](https://dermnetnz.org/topics/atopic-dermatitis) , [viêm khớp phản ứng](https://dermnetnz.org/topics/reactive-arthropathy) , thiếu máu , rối loạn nội tiết tố, căng thẳng về mặt cảm xúc và ở những bệnh nhân mắc [bệnh tiểu đường](https://dermnetnz.org/topics/skin-problems-associated-with-diabetes-mellitus) loại 1 giai đoạn đầu .
+
+---
+
+## Đặc điểm lâm sàng của bệnh lưỡi bản đồ là gì?
+
+Lưỡi bản đồ là những mảng sưng, đỏ, nhẵn, hình dạng bất thường, giống như bản đồ, xung quanh là các đường trắng. Lưỡi bản đồ có thể xuất hiện đột ngột và kéo dài trong nhiều tháng hoặc lâu hơn, và thường xuyên tái phát.
+Phần lớn không có triệu chứng nhưng lưỡi thường nóng rát hoặc kích ứng, đặc biệt là khi ăn đồ ăn nóng, cay và có tính axit.
+
+---
+
+## Biến chứng của lưỡi bản đồ là gì?
+
+Không có biến chứng lâu dài nghiêm trọng nào liên quan đến lưỡi bản đồ.
+
+---
+
+## Bệnh lưỡi bản đồ được chẩn đoán như thế nào?
+
+Chẩn đoán lưỡi bản đồ dựa trên khám lâm sàng lưỡi và tiền sử bệnh nhân. Các xét nghiệm thường quy thường cho kết quả bình thường.
+
+---
+
+## Chẩn đoán phân biệt cho bệnh lưỡi bản đồ là gì?
+
+Chẩn đoán phân biệt cho lưỡi bản đồ bao gồm:
+- [Bệnh nấm miệng](https://dermnetnz.org/topics/oral-candidiasis)
+- [Bệnh vẩy nến miệng](https://dermnetnz.org/topics/oral-psoriasis) (hiếm gặp)
+- [Lichen phẳng ở miệng](https://dermnetnz.org/topics/oral-lichen-planus)
+- Tổn thương
+- [Herpes simplex](https://dermnetnz.org/topics/herpes-simplex)
+- [Bệnh lupus ban đỏ hệ thống](https://dermnetnz.org/topics/systemic-lupus-erythematosus)
+- [Bạch sản miệng](https://dermnetnz.org/topics/oral-leukoplakia) .
+
+---
+
+## Phương pháp điều trị bệnh lưỡi bản đồ là gì?
+
+Không có cách chữa trị dứt điểm tình trạng lưỡi bản đồ. Thông thường, không cần điều trị gì ngoài việc trấn an.
+Cảm giác khó chịu và nóng rát có thể được điều trị bằng cách tránh ăn đồ ăn nóng, cay và có tính axit. Các phương pháp điều trị triệu chứng có thể bao gồm:
+- [Thuốc gây tê](https://dermnetnz.org/topics/local-anaesthesia) tại chỗ [](https://dermnetnz.org/topics/local-anaesthesia)
+- [](https://dermnetnz.org/topics/antihistamines) [Nước súc miệng](https://dermnetnz.org/topics/mouthwash) [kháng histamine](https://dermnetnz.org/topics/antihistamines) và gây tê [](https://dermnetnz.org/topics/mouthwash)
+- [Steroid tại chỗ](https://dermnetnz.org/topics/topical-steroid)
+- Thuốc bôi ngoài [da tacrolimus](https://dermnetnz.org/topics/tacrolimus) .
+
+---
+
+## Kết quả của lưỡi địa lý là gì?
+
+Tình trạng lưỡi bản đồ thường có kết quả tốt. Trong hầu hết các trường hợp, tình trạng này sẽ tự khỏi theo thời gian mà không cần điều trị.

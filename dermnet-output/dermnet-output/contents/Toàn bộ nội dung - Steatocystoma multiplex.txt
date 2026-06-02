@@ -1,0 +1,81 @@
+# U nang bã nhờn đa ổ — thông tin bổ sung
+
+Thể loại:
+
+Di truyền, Rối loạn nang lông
+
+SNOMED CT:
+
+109433009, 429358008, 719306007
+
+**[Di truyền, Rối loạn nang lông](https://dermnetnz.org/topics/topics?category=Genetic)**
+
+
+# **U nang mỡ đa ổ**
+
+Tác giả: Bác sĩ Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand. Cập nhật tháng 2 năm 2014. Bản sửa đổi DermNet tháng 9 năm 2021
+
+---
+
+## U mỡ đa ổ là gì?
+
+U nang mỡ đa ổ là một rối loạn di truyền hiếm gặp trong đó nhiều dị tật hamartoma ở chỗ nối ống dẫn lông - tuyến bã ( đơn vị nang lông ) phát triển ở tuổi dậy thì.
+Nếu phát hiện một u nang loại này thì được gọi là u nang mỡ đơn giản.
+![Không có caption](https://dermnetnz.org/assets/Uploads/lesions/w/steatocystomas.jpg)
+![U nang mỡ đa ổ](https://dermnetnz.org/assets/Uploads/lesions/steatocyst2.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/lesions/steatocyst3.jpg)
+
+---
+
+## Ai mắc bệnh u mỡ đa ổ?
+
+Trong đa u nang gan, xu hướng phát triển u nang được di truyền theo kiểu trội trên nhiễm sắc thể thường , do đó, một trong hai cha mẹ có thể cũng mắc đa u nang gan. Bệnh cũng có thể xảy ra lẻ tẻ. Cả nam và nữ đều có thể bị ảnh hưởng.
+
+---
+
+## Nguyên nhân gây ra bệnh u mỡ đa ổ là gì?
+
+Đa u nang mỡ gia đình có liên quan đến đột biến gen keratin 17 (K17). Gen này chịu trách nhiệm sản xuất protein keratin có trong nền móng , nang lông và tuyến bã nhờn . Đột biến gen K17 cũng có thể dẫn đến một dạng [bệnh dày móng bẩm sinh](https://dermnetnz.org/topics/pachyonychia-congenita) , trong đó thường gặp là nang, dày sừng gan bàn chân và [răng sữa .](https://dermnetnz.org/topics/natal-and-neonatal-teeth) [](https://dermnetnz.org/topics/pachyonychia-congenita) [](https://dermnetnz.org/topics/natal-and-neonatal-teeth)
+Người ta cho rằng u nang mỡ xuất phát từ lớp niêm mạc bất thường ở đường dẫn đến tuyến dầu (ống dẫn bã nhờn).
+Sự khởi phát ở [tuổi dậy](https://dermnetnz.org/topics/skin-changes-at-puberty) thì có lẽ là do sự kích thích hormone của tuyến bã nhờn.
+
+---
+
+## Đặc điểm lâm sàng của bệnh u nang mỡ đa ổ là gì?
+
+U nang đa nang mỡ thường xuất hiện ở ngực và cũng có thể xuất hiện ở bụng, cánh tay trên, nách và mặt. Trong một số trường hợp, u nang có thể phát triển khắp cơ thể.
+Các nang này thường nhỏ (2-20 mm) nhưng cũng có thể có đường kính vài cm. Chúng thường là những cục u mềm hoặc cứng, bán trong mờ , chứa dịch nhờn màu vàng. Đôi khi có thể phát hiện một điểm nhỏ ở trung tâm và chúng có thể chứa một hoặc nhiều sợi lông ( [u nang lông dạng lông tơ mọc](https://dermnetnz.org/topics/eruptive-vellus-hair-cysts) ).
+Các loại u nang mỡ khu trú , lan tỏa , mặt , đầu chi và mưng mủ đã được mô tả. U nang mỡ đơn độc ở âm hộ và bìu có thể phát triển muộn như một tình trạng lẻ tẻ không di truyền (xem [phần U nang âm hộ](https://dermnetnz.org/topics/vulval-cysts) ).
+![U nang mỡ đa ổ](https://dermnetnz.org/assets/Uploads/steatocyst-5.jpg)
+![U nang mỡ đa ổ](https://dermnetnz.org/assets/Uploads/steatocyst-4.jpg)
+![U nang mỡ đa ổ](https://dermnetnz.org/assets/collection/Steatocystoma-multiplex-SOC/steatocystoma-multiplex-00019.jpg)
+
+---
+
+## Biến chứng của bệnh u nang mỡ đa ổ là gì?
+
+- Tác động tâm lý xã hội đến chất lượng cuộc sống
+- Viêm và sẹo
+
+---
+
+## Bệnh u nang mỡ đa ổ được chẩn đoán như thế nào?
+
+[Sinh thiết da của u nang thường sẽ cho thấy một u nang](https://dermnetnz.org/topics/skin-biopsy) da có thành mỏng với tuyến bã nhờn trong thành u nang và lông tơ bên trong lòng u nang.
+
+---
+
+## Chẩn đoán phân biệt bệnh u nang mỡ đa ổ là gì?
+
+- [Mụn trứng cá kết tụ](https://dermnetnz.org/topics/nodulocystic-acne)
+- [Milia](https://dermnetnz.org/topics/milium)
+- [U nang biểu bì](https://dermnetnz.org/topics/epidermoid-cyst)
+
+---
+
+## Phương pháp điều trị bệnh u nang mỡ đa ổ là gì?
+
+- Có thể phẫu thuật cắt bỏ từng nang riêng lẻ. Trong hầu hết các trường hợp, các vết rạch nhỏ (cắt vào da) cho phép lấy nang và các thành phần bên trong ra ngoài qua lỗ mở. Nếu nang bám chặt vào da bên dưới, có thể cần phải [sinh thiết cắt bỏ](https://dermnetnz.org/topics/excision-of-skin-lesions) .
+- U nang cũng có thể được loại bỏ bằng [tia laser](https://dermnetnz.org/topics/lasers-in-dermatology) , [phẫu thuật điện](https://dermnetnz.org/topics/electrosurgery) hoặc [liệu pháp lạnh](https://dermnetnz.org/topics/cryotherapy) .
+- Viêm có thể được giảm bằng [thuốc kháng sinh uống](https://dermnetnz.org/topics/antibiotics-for-acne)
+- [Isotretinoin](https://dermnetnz.org/topics/isotretinoin) uống không có tác dụng chữa khỏi bệnh nhưng có thể tạm thời làm co các nang và giảm viêm.

@@ -1,0 +1,166 @@
+# Viêm cân hoại tử — thông tin bổ sung
+
+Thể loại:
+
+Nhiễm trùng
+
+SNOMED CT:
+
+52486002, 449900006, 402926000, 722893002, 238309000, 398318005, 4141000119104, 80466000
+
+**[Nhiễm trùng](https://dermnetnz.org/topics/topics?category=Infections)**
+
+
+# **Viêm cân hoại tử**
+
+Tác giả: Vanessa Ngan, Biên tập viên, 2003. Cập nhật bởi Tiến sĩ JannetGomez, Sinh viên sau đại học chuyên ngành Da liễu lâm sàng, Đại học Queen Mary London, Vương quốc Anh; Tổng biên tập: Tiến sĩ Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand,tháng 2 năm 2016.
+
+---
+
+## Viêm cân hoại tử là gì?
+
+Viêm cân hoại tử là một bệnh nhiễm trùng vi khuẩn rất nghiêm trọng ở mô mềm và cân. Vi khuẩn sinh sôi và giải phóng độc tố cùng enzyme gây huyết khối trong mạch máu. Hậu quả là mô mềm và cân bị phá hủy.
+Các loại chính của viêm cân hoại tử là:
+- Loại I (nhiều loại vi khuẩn, tức là có nhiều hơn một loại vi khuẩn liên quan)
+- Loại II (do liên cầu [khuẩn](https://dermnetnz.org/topics/streptococcal-skin-infections) tan máu nhóm A và/hoặc tụ cầu khuẩn bao gồm các chủng kháng methicillin/MRSA) [](https://dermnetnz.org/topics/streptococcal-skin-infections)
+- Loại III ( hoại tử khí , ví dụ, do vi khuẩn Clostridium)
+- Khác: sinh vật biển (loài vibrio, [Aeromonas hydrophila](https://dermnetnz.org/topics/aeromonas-skin-infection) , được coi là Loại III trong một số báo cáo) và nhiễm trùng nấm ( [candida](https://dermnetnz.org/topics/candida) và [zygomycetes](https://dermnetnz.org/topics/zygomycosis) , loại IV trong một số báo cáo).
+
+### Viêm cân hoại tử loại I
+Vi khuẩn gây viêm cân hoại tử loại 1 bao gồm [Staphylococcus aureus](https://dermnetnz.org/topics/staphylococcal-skin-infection) , Haemophilus, Vibrio và một số chủng vi khuẩn hiếu khí và kỵ khí khác ( Escherichia coli , Bacteroides fragilis ). Bệnh thường gặp ở người lớn tuổi hoặc bệnh nhân mắc bệnh tiểu đường hoặc các bệnh lý khác.
+
+### Viêm cân hoại tử loại II
+Viêm cân hoại tử loại II đã bị thổi phồng trên các phương tiện truyền thông và thường được gọi là bệnh ăn thịt người. Bệnh ảnh hưởng đến mọi lứa tuổi. Người khỏe mạnh cũng dễ bị nhiễm nhóm này.
+
+### Viêm cân hoại tử loại III
+Viêm cân hoại tử loại III do Clostridium perfringens hoặc ít phổ biến hơn là Clostridium septicum gây ra . Bệnh thường xảy ra sau chấn thương hoặc phẫu thuật nghiêm trọng và gây ra khí dưới da: tạo ra tiếng kêu lạo xạo gọi là crepitus. Những người tiêm heroin "nhựa đen" dưới da cũng có thể bị nhiễm clostridium và phát triển thành viêm cân hoại tử.
+
+### Các sinh vật khác
+Viêm cân hoại tử do sinh vật biển thường xảy ra do vết thương bị nhiễm nước biển, [vết cắt do vây cá hoặc nọc cá](https://dermnetnz.org/topics/marine-wounds-and-stings) , hoặc do ăn hải sản sống. Bệnh thường gặp hơn ở những bệnh nhân mắc bệnh gan. Nhiễm trùng này có thể rất nghiêm trọng và có thể gây tử vong nếu không được điều trị trong vòng 48 giờ.
+Viêm cân hoại tử do nấm làm phức tạp thêm vết thương ở những người bị suy giảm miễn dịch .
+Các thuật ngữ khác được sử dụng cho viêm cân hoại tử bao gồm hoại tử liên cầu tan máu, loét Meleney , hoại tử da cấp tính , hoại tử bệnh viện, viêm cân hoại tử và viêm mô tế bào hoại tử hiệp đồng.
+Viêm cân hoại tử ảnh hưởng đến vùng tầng sinh môn , sinh dục và quanh hậu môn được gọi là [hoại thư Fournier](https://dermnetnz.org/topics/fournier-gangrene) . Bệnh này có tỷ lệ tử vong đặc biệt cao, từ 15% đến 50%.
+
+---
+
+## Bạn bị viêm cân hoại tử như thế nào?
+
+Viêm cân hoại tử có thể xảy ra ở bất kỳ ai, với gần một nửa số ca viêm cân hoại tử do liên cầu khuẩn được biết đến xảy ra ở những người trẻ tuổi và trước đây khỏe mạnh. Bệnh có thể xảy ra nếu hội tụ đủ các điều kiện sau, bao gồm:
+- Một lỗ thủng trên da cho phép vi khuẩn xâm nhập vào cơ thể. Điều này có thể xảy ra sau chấn thương nhỏ (ví dụ: vết cắt nhỏ, vết trầy xước, vết kim châm, vết tiêm) hoặc vết thương lớn do chấn thương hoặc phẫu thuật (ví dụ: nội soi ổ bụng, tiêm xơ, nội soi dạ dày , mở ngực, mổ lấy thai, cắt tử cung). Đôi khi không thể tìm thấy điểm xâm nhập.
+- Viêm cân mạc hoại tử vùng cổ mặt có thể xảy ra sau gãy xương hàm dưới hoặc nhiễm trùng răng.
+- Tiếp xúc trực tiếp với người mang vi khuẩn hoặc vi khuẩn đã có ở nơi khác trên cơ thể người đó.
+- Đặc biệt là các chủng vi khuẩn xâm lấn như liên cầu khuẩn có khả năng trốn tránh hệ thống miễn dịch và sản sinh ra độc tố gọi là cysteine ​​protease SpeB, có tác dụng phân hủy mô.
+- Ở trẻ em, viêm cân hoại tử loại II có thể làm biến chứng [bệnh thủy đậu](https://dermnetnz.org/topics/chickenpox) . Các nguyên nhân khác gây viêm cân hoại tử ở trẻ em bao gồm viêm rốn, viêm ruột hoại tử và dị tật ống niệu rốn.
+Các nguy cơ của viêm cân hoại tử bao gồm:
+- Aspirin và [thuốc chống viêm không steroid](https://dermnetnz.org/topics/non-steroidal-anti-inflammatory-drugs-and-their-skin-side-effects)
+- Tuổi cao
+- Bệnh tiểu đường
+- Ức chế miễn dịch
+- Béo phì
+- Lạm dụng ma túy
+- Bệnh mãn tính nghiêm trọng
+- Bệnh ác tính.
+
+---
+
+## Sinh lý bệnh của viêm cân hoại tử
+
+Nhiễm trùng bắt đầu ở lớp cân nông. Các enzyme và protein do vi sinh vật gây bệnh tiết ra gây hoại tử các lớp cân. Nhiễm trùng lan rộng theo chiều ngang có thể không biểu hiện rõ ràng trên bề mặt da, do đó việc chẩn đoán có thể bị trì hoãn. Nhiễm trùng sau đó lan theo chiều dọc lên da và xuống các cấu trúc sâu hơn. Huyết khối làm tắc nghẽn động mạch và tĩnh mạch, dẫn đến thiếu máu cục bộ và hoại tử mô.
+Liên cầu khuẩn sản xuất:
+- Protein M, khởi đầu phản ứng viêm bằng cách giải phóng nhiều cytokine (IL-1, IL-6, TNF α)
+- Ngoại độc tố phá hủy bạch cầu trung tính , tạo điều kiện cho vi khuẩn phát triển và phá hủy mô.
+Vi khuẩn hiếu khí và kỵ khí sản sinh ra khí hydro, nitơ và hydro sunfua phá hủy axit hyaluronic, tạo điều kiện cho bệnh nhiễm trùng lây lan.
+
+---
+
+## Các đặc điểm lâm sàng của viêm cân hoại tử là gì?
+
+Các dấu hiệu và triệu chứng khác nhau ở mỗi người nhưng thường có một số hoặc tất cả các triệu chứng sau đây.
+
+### Triệu chứng ban đầu
+- Vị trí nhiễm trùng phổ biến nhất là cẳng chân. Viêm cân hoại tử cũng có thể ảnh hưởng đến chi trên, tầng sinh môn , mông, thân, đầu và cổ.
+- Các triệu chứng thường xuất hiện trong vòng 24 giờ sau chấn thương nhẹ.
+- Cơn đau thường rất dữ dội khi mới phát hiện và trở nên tồi tệ hơn theo thời gian.
+- Có thể có các triệu chứng giống như cúm, chẳng hạn như buồn nôn, sốt , tiêu chảy, chóng mặt và khó chịu nói chung.
+- Cảm giác khát nước dữ dội xuất hiện khi cơ thể bị mất nước.
+
+### Các đặc điểm lâm sàng sau 3 đến 4 ngày
+- Khu vực bị ảnh hưởng bắt đầu sưng lên và có thể xuất hiện phát ban màu tím
+- Các vết đen lớn hình thành và biến thành mụn nước chứa đầy dịch đen
+- Vết thương bắt đầu hoại tử và vùng bị thương trở nên đen (hoại tử)
+- Phù nề là phổ biến
+- Cảm giác lạo xạo dưới da (lạch cạch) là do khí trong các mô
+- Cơn đau dữ dội kéo dài cho đến khi hoại tử/hoại tử phá hủy các dây thần kinh ngoại biên khi cơn đau giảm bớt
+- Nhiễm trùng có thể không cải thiện khi dùng kháng sinh
+Khoảng ngày thứ 4-5, bệnh nhân trở nặng với huyết áp thấp nguy hiểm và nhiệt độ cao. Nhiễm trùng đã lan vào máu và cơ thể bị sốc nhiễm độc . Bệnh nhân có thể bị thay đổi mức độ ý thức.
+Áp xe di căn có thể phát triển ở gan, phổi, lá lách, não, màng ngoài tim và hiếm khi ở da.
+![Viêm cân hoại tử](https://dermnetnz.org/assets/Uploads/bacterial/nec-fas1.jpg)
+![Viêm cân hoại tử](https://dermnetnz.org/assets/Uploads/bacterial/nec-fas2.jpg)
+![Viêm cân hoại tử](https://dermnetnz.org/assets/Uploads/bacterial/nec-fas3.jpg)
+[Xem thêm hình ảnh về viêm cân hoại tử](https://dermnetnz-org.translate.goog/topics/necrotising-fasciitis-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp) .
+
+---
+
+## Viêm cân hoại tử được chẩn đoán như thế nào?
+
+Việc khai thác bệnh sử và khám lâm sàng kỹ lưỡng là rất quan trọng để chẩn đoán viêm cân hoại tử. Cần đặc biệt thận trọng khi khám bệnh nhân suy giảm miễn dịch, vì các triệu chứng/dấu hiệu có thể không điển hình.
+- Nhiễm trùng do vi khuẩn Clostridium và Streptococcus gây ra do vết thương do chấn thương hoặc phẫu thuật thường biểu hiện nhanh hơn so với viêm cân hoại tử do các vi sinh vật khác.
+- Xét nghiệm ngón tay dương tính có giá trị đặc hiệu cao đối với viêm cân hoại tử. Một vết rạch dọc 2 cm được thực hiện trên vùng da bị ảnh hưởng và ngón trỏ được đẩy vào mô. Xét nghiệm dương tính nếu ngón tay đi qua mô dưới da mà không có lực cản.
+- Độ bám dính của mô vào cân cơ tại vị trí rạch kém.
+- Mô hoại tử / mủ rỉ ra từ các mặt phẳng cân.
+- Chất lỏng màu nước rửa chén rỉ ra từ da.
+- Thông thường, viêm cân hoại tử không chảy máu.
+
+### Điều tra sàng lọc trong phòng thí nghiệm
+- Số lượng bạch cầu (WBC) > 15,4 x 10 9 /L
+- Natri huyết thanh < 135 mmol/L
+- Protein phản ứng C (CRP) tăng cao (> 16 mg/dL)
+- Tăng nồng độ creatinin kinase (CK) (> 600 U/L)
+- Urê > 18 mg/dL.
+Nuôi cấy máu , sinh thiết mô sâu [xem [Bệnh lý viêm cân mạc hoại tử](https://dermnetnz.org/topics/necrotising-fasciitis-pathology) ] và nhuộm Gram giúp xác định tác nhân gây bệnh và định hướng lựa chọn kháng sinh. Nếu phát hiện tụ cầu vàng , cần làm xét nghiệm kháng MRSA. Nuôi cấy máu thường âm tính với các loài Clostridium.
+Nuôi cấy nấm nên được thực hiện ở những bệnh nhân bị suy giảm miễn dịch và chấn thương.
+
+### Hình ảnh
+Chụp X-quang, chụp CT và chụp MRI để xác định các khu vực tích tụ dịch, viêm và khí trong mô mềm.
+
+### Chỉ số nguy cơ trong phòng thí nghiệm đối với viêm cân hoại tử
+Chỉ số Nguy cơ Xét nghiệm Viêm Cân Hoại Tử (LRINEC) là một công cụ hỗ trợ phân biệt viêm cân hoại tử với các nhiễm trùng mô khác dựa trên sáu thông số. Điểm ≥ 6 cho thấy có nguy cơ viêm cân hoại tử. Xét nghiệm này không phù hợp với tất cả các trường hợp và không hoàn toàn đáng tin cậy.
+
+#### Các thông số LRINEC
+CRP (mg/dL) ≥15:
+- 4 điểm
+Số lượng bạch cầu (10 9 /L)
+- <15: 0 điểm
+- 15–25: 1 điểm
+- >25: 2 điểm
+Huyết sắc tố (g/L):
+- >135: 0 điểm
+- 110–135: 1 điểm
+- <110: 2 điểm
+Natri huyết thanh (mmol/L) <135:
+- 2 điểm
+Creatinin (umol/L) >141:
+- 2 điểm
+Glucose (mmol/L) >10:
+- 1 điểm
+
+---
+
+## Phương pháp điều trị viêm cân hoại tử là gì?
+
+Khi chẩn đoán viêm cân hoại tử được xác nhận, cần phải bắt đầu điều trị ngay lập tức.
+- Bệnh nhân phải nhập viện và thường được đưa vào phòng chăm sóc đặc biệt.
+- Cần xác định tác nhân gây bệnh và điều trị bằng kháng sinh đường tĩnh mạch liều cao. Lựa chọn kháng sinh ban đầu bao gồm penicillin, clindamycin, metronidazole, cephalosporin, carbapenem, vancomycin và linezolid. Sau khi kết quả nuôi cấy được báo cáo, lựa chọn kháng sinh sẽ được điều chỉnh.
+- Điều tối quan trọng là một bác sĩ phẫu thuật giàu kinh nghiệm phải nhanh chóng loại bỏ tất cả các mô hoại tử ( cắt lọc ).
+- Có thể cần bổ sung oxy, dịch và thuốc để tăng huyết áp.
+- Có thể cân nhắc sử dụng oxy cao áp và globulin miễn dịch tiêm tĩnh mạch .
+Phẫu thuật cắt lọc mô hoại tử ngay lập tức giúp cải thiện khả năng sống sót và tránh các biến chứng của viêm cân hoại tử. Tất cả các mô bị nhiễm trùng nên được loại bỏ bằng cách cắt bỏ phù hợp. Phẫu thuật cắt lọc mô hoại tử lặp lại được thực hiện trong vài ngày.
+Khi tình trạng nhiễm trùng cấp tính đã thuyên giảm, nếu cần, nên đóng vết thương bằng phương pháp ghép da. Các thiết bị đóng vết thương hỗ trợ hút chân không có thể hữu ích để chữa lành vết loét dai dẳng .
+
+---
+
+## Kết quả có thể xảy ra là gì?
+
+Chẩn đoán và điều trị kịp thời là rất cần thiết để giảm nguy cơ tử vong và biến dạng do viêm cân hoại tử.
+Nếu được chẩn đoán và điều trị sớm, hầu hết bệnh nhân sẽ sống sót sau viêm cân hoại tử với sẹo tối thiểu. Nếu mất mô đáng kể, cần phải ghép da sau đó và ở một số bệnh nhân, cần phải cắt cụt chi để ngăn ngừa tử vong.
+Có tới 25% bệnh nhân sẽ tử vong do viêm cân hoại tử do các biến chứng như suy thận , nhiễm trùng huyết (nhiễm độc máu) và suy đa cơ quan.

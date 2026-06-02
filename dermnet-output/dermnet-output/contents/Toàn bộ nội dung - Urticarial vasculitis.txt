@@ -1,0 +1,73 @@
+# Viêm mạch nổi mề đay — thông tin bổ sung
+
+Thể loại:
+
+Các vấn đề về mạch máu
+
+SNOMED CT:
+
+402656007, 239945009, 402855009, 403510002, 718217000
+
+**[Các vấn đề về mạch máu](https://dermnetnz.org/topics/topics?category=Blood+vessel+problems)**
+
+
+# **Viêm mạch nổi mề đay**
+
+Tác giả: Vanessa Ngan, Biên tập viên, 2006. Cập nhật bởi Phó giáo sư Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand, tháng 1 năm 2016.
+
+---
+
+## Viêm mạch nổi mề đay là gì?
+
+Viêm mạch nổi mề đay là một biến thể của [viêm mạch máu nhỏ ở da](https://dermnetnz.org/topics/cutaneous-small-vessel-vasculitis) . Bệnh đặc trưng bởi các mảng hoặc vết sưng đỏ trên da trông giống như [mề đay](https://dermnetnz.org/topics/urticaria-an-overview) , nhưng khi quan sát kỹ dưới kính hiển vi , người ta phát hiện thấy [tình trạng viêm mạch](https://dermnetnz.org/topics/cutaneous-vasculitis) ( mạch máu bị viêm ).
+![Viêm mạch nổi mề đay](https://dermnetnz.org/assets/Uploads/reactions/sle-urticarial-vasculitis.jpg)
+![Viêm mạch nổi mề đay ở da màu](https://dermnetnz.org/assets/collection-O/Urticarial-vasculitis/urticarial-vasculitis-00004.jpg)
+![Viêm mạch nổi mề đay](https://dermnetnz.org/assets/Uploads/3802-big.jpg)
+Viêm mạch nổi mề đay thường được phân loại thành hai loại:
+- Viêm mạch nổi mề đay bổ thể bình thường
+- [](https://dermnetnz.org/topics/complement-deficiencies) Viêm mạch nổi mề đay do [giảm bổ thể](https://dermnetnz.org/topics/complement-deficiencies)
+Những loại này được phân biệt bằng cách tìm thấy nồng độ protein [bổ thể](https://dermnetnz.org/topics/the-complement-system) bình thường hoặc thấp hơn khi xét nghiệm máu. Mặc dù cả hai loại đều có thể liên quan đến các triệu chứng toàn thân như [phù mạch](https://dermnetnz.org/topics/angioedema) , đau bụng hoặc đau ngực, sốt và đau khớp, nhưng điều này rõ ràng hơn ở dạng giảm bổ thể máu. Dạng này cũng có liên quan đến bệnh mô liên kết [lupus ban đỏ](https://dermnetnz.org/topics/cutaneous-lupus-erythematosus) hệ thống (SLE). [](https://dermnetnz.org/topics/angioedema) [](https://dermnetnz.org/topics/cutaneous-lupus-erythematosus)
+
+---
+
+## Nguyên nhân gây ra bệnh viêm mạch nổi mề đay là gì?
+
+Nguyên nhân gây ra bệnh viêm mạch nổi mề đay vẫn chưa được biết rõ, nhưng bệnh này có liên quan đến các tình trạng sau:
+- Các rối loạn liên kết viêm như SLE và [hội chứng Sjögren](https://dermnetnz.org/topics/sjoegren-syndrome) .
+- Rối loạn miễn dịch như bệnh lý gammosis đơn dòng immunoglobulin A và immunoglobulin M
+- Bệnh bạch cầu và ung thư nội tạng
+- [Các bệnh do virus](https://dermnetnz.org/topics/viral-skin-infections) như [viêm gan B, viêm gan C](https://dermnetnz.org/topics/viral-hepatitis) và [bệnh bạch cầu đơn nhân nhiễm trùng (sốt tuyến)](https://dermnetnz.org/topics/infectious-mononucleosis)
+- Các tình trạng do thuốc gây ra như thuốc ức chế men chuyển ACE , [penicillin](https://dermnetnz.org/topics/penicillin) , [sulfonamid](https://dermnetnz.org/topics/sulfa-drugs-and-the-skin) , fluoxetine và thiazide.
+Tuy nhiên, phần lớn các trường hợp viêm mạch nổi mề đay là vô căn (tức là không rõ nguyên nhân).
+
+---
+
+## Các đặc điểm lâm sàng của bệnh viêm mạch nổi mề đay là gì?
+
+Triệu chứng đầu tiên của viêm mạch mề đay là [phát ban mề đay](https://dermnetnz.org/topics/urticaria-and-urticaria-like-conditions) (đặc trưng bởi các vết sưng) thường gây đau hoặc nóng rát. Trong một số trường hợp, các vết sưng gây ngứa. Tổn thương là các mảng hoặc mảng đỏ có thể có tâm trắng, và có thể xuất hiện các chấm xuất huyết . Không giống như mề đay , tổn thương viêm mạch mề đay thường kéo dài hơn 24 giờ tại một vị trí cố định, sau đó sẽ tự khỏi dần. Có thể xuất hiện các vết bầm tím hoặc tăng sắc tố trong quá trình lành da.
+![Không có caption](https://dermnetnz.org/assets/Uploads/vascular/uv1.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/vascular/uv2.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/vascular/uv3.jpg)
+Ngoài các tổn thương trên da, bệnh nhân bị viêm mạch nổi mề đay cũng có thể phát triển các triệu chứng toàn thân bao gồm [nhạy cảm với ánh sáng](https://dermnetnz.org/topics/reactions/photosensitivity.html) , sưng hạch bạch huyết , đau khớp (50%), sốt, đau bụng (20%), khó thở và các vấn đề về phổi và thận.
+[Xem thêm hình ảnh về bệnh viêm mạch nổi mề đay](https://dermnetnz-org.translate.goog/topics/urticarial-vasculitis-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp) .
+
+---
+
+## Viêm mạch nổi mề đay được chẩn đoán như thế nào?
+
+Sinh [thiết da](https://dermnetnz.org/topics/procedures/biopsy.html) có thể được thực hiện để xác nhận viêm mạch mề đay. Các phát hiện vi thể của các tổn thương ban đầu bao gồm [viêm mạch bạch cầu](https://dermnetnz.org/topics/pathology/leukocytoclastic-path.html) trung tính , trong đó các mạch máu nhỏ ở lớp giữa của da ( trung bì ) bị tổn thương . Ở các tổn thương muộn hơn, có thể thấy viêm mạch lympho bào . [](https://dermnetnz.org/topics/pathology/leukocytoclastic-path.html)
+Xét nghiệm thêm có thể phát hiện các bệnh lý liên quan. Các xét nghiệm cận lâm sàng có thể bao gồm chức năng thận và tình trạng miễn dịch . Nên chụp X-quang ngực ở những bệnh nhân bị giảm bổ thể máu và khó thở.
+
+---
+
+## Phương pháp điều trị bệnh viêm mạch nổi mề đay là gì?
+
+Bệnh nhân bị viêm mạch mề đay bổ thể bình thường thường có ít hoặc không có tổn thương toàn thân và các tổn thương thường tự khỏi theo thời gian.
+Điều trị dựa trên tác động toàn thân của bệnh và mức độ tổn thương da . [Thuốc kháng histamine hoặc thuốc](https://dermnetnz.org/topics/antihistamines) chống viêm không steroid ( NSAID ) có thể được sử dụng để giảm triệu chứng.
+Các phương pháp điều trị có thể được sử dụng để kiểm soát lâu dài tình trạng viêm mạch nổi mề đay nghiêm trọng có thể liên quan đến các triệu chứng toàn thân bao gồm:
+- [Dapsone](https://dermnetnz.org/topics/treatments/dapsone.html)
+- [Colchicin](https://dermnetnz.org/topics/treatments/colchicine.html)
+- [Hydroxychloroquine](https://dermnetnz.org/topics/treatments/hydroxychloroquine.html)
+- Indometacin/indomethacin (một loại thuốc chống viêm không steroid )
+- [Corticosteroid](https://dermnetnz.org/topics/treatments/systemic-steroids.html) , chẳng hạn như prednisone uống
+Đối với các trường hợp viêm mạch nổi mề đay kháng trị bằng corticosteroid, có thể cân nhắc sử dụng các thuốc ức chế miễn dịch khác như [azathioprine](https://dermnetnz.org/topics/treatments/azathioprine.html) , [cyclophosphamide](https://dermnetnz.org/topics/treatments/cyclophosphamide.html) hoặc [ciclosporin](https://dermnetnz.org/topics/treatments/cyclosporin.html) .

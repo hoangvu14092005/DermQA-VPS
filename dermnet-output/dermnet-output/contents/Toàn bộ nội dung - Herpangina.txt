@@ -1,0 +1,63 @@
+# Herpangina — thông tin bổ sung
+
+Thể loại:
+
+Nhiễm trùng
+
+SNOMED CT:
+
+186659004
+
+**[Nhiễm trùng](https://dermnetnz.org/topics/topics?category=Infections)**
+
+
+# **Herpangina**
+
+Tác giả: Tiến sĩ Delwyn Dyall-Smith FACD, Bác sĩ da liễu, 2010.
+
+---
+
+## Herpangina là gì?
+
+Herpangina là tên gọi của tình trạng loét miệng và họng gây đau do nhiễm trùng do vi-rút tự giới hạn và thường xảy ra ở trẻ em.
+![Herpangina](https://dermnetnz.org/assets/Uploads/viral/herpangina.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/viral/herpangina1.jpg)
+
+---
+
+## Nguyên nhân gây ra bệnh herpangina là gì?
+
+Herpangina là một [bệnh nhiễm trùng do enterovirus](https://dermnetnz.org/topics/enteroviral-infections) – đây là loại virus gây nhiễm trùng đường tiêu hóa. Herpangina thường lây lan qua đường phân-miệng và virus có thể tiếp tục được bài tiết qua phân rất lâu sau khi bệnh đã khỏi. Sự lây lan cũng có thể xảy ra qua đường hô hấp và đường miệng-miệng, hoặc có thể qua các vật dụng bị nhiễm bẩn (như khăn tắm, cốc, v.v.) và nước sạch. Thời gian ủ bệnh khoảng 4 ngày.
+Bệnh thường do virus Coxsackie A16 gây ra và rất dễ lây lan. Các virus Coxsackie A phổ biến khác được phân lập từ Herpangina là A1-10, 12 và 22. Các nguyên nhân ít phổ biến hơn là Coxsackie B1-5, echovirus, enterovirus 71, virus herpes simplex , parechovirus 1 và adenovirus. Khoảng 50% trường hợp nhiễm enterovirus không biểu hiện triệu chứng lâm sàng và những người này là nguồn lây nhiễm khác mà không hề hay biết.
+Khả năng miễn dịch lâu dài đối với loại virus cụ thể sẽ phát triển sau khi khỏi bệnh. Tuy nhiên, bệnh Herpangina có thể tái phát do một loại virus không liên quan.
+
+---
+
+## Ai bị bệnh herpangina?
+
+Herpangina chủ yếu gặp ở trẻ em dưới 10 tuổi, nhưng có thể ảnh hưởng đến mọi lứa tuổi, từ trẻ sơ sinh đến thanh thiếu niên. Bệnh đặc biệt phổ biến ở trẻ em đến các cơ sở chăm sóc trẻ em. Trong một số đợt dịch, bệnh có xu hướng nam giới chiếm ưu thế nhẹ. Tỷ lệ nhiễm trùng đạt đỉnh vào mùa hè và đầu mùa thu ở vùng khí hậu ôn đới, nhưng xảy ra quanh năm ở vùng nhiệt đới. Các đợt dịch có xu hướng xảy ra mỗi 2-3 năm khi một nhóm trẻ nhỏ chưa có miễn dịch mới trở nên dễ mắc bệnh.
+
+---
+
+## Đặc điểm lâm sàng của bệnh herpangina
+
+Sốt (38,5-40 độ C) thường là dấu hiệu đầu tiên của nhiễm trùng với cảm giác không khỏe nói chung.
+Đau họng và đau khi nuốt xuất hiện. Các đốm đỏ xuất hiện trong vòng vài giờ (có thể đến một ngày sau) trong miệng và họng. Các đốm đỏ này nổi lên thành các mụn nước nhỏ ( mụn nước ) tạo thành vết loét nhỏ màu vàng nhạt có viền đỏ. Đây là những tổn thương được gọi là 'herpangina'. Các vết loét thường có đường kính 1-2mm (<5mm). Thường không có nhiều tổn thương (dao động từ 2-12). Chúng thường thấy nhất ở phía sau miệng và họng như trên vòm miệng mềm , amidan, lưỡi gà và phía sau họng. Miệng, họng và da trông bình thường. Các vết loét mất 5-10 ngày để lành, đôi khi sau khi sốt đã giảm.
+Các tuyến bạch huyết ở cổ có thể bị sưng to và có thể cảm thấy như những khối sưng cứng, mịn ở cả hai bên cổ.
+Có thể có các triệu chứng như đau đầu, đau lưng, đau bụng, nôn mửa và chán ăn.
+Herpangina thường là một bệnh nhiễm trùng nhẹ tự khỏi, nhưng hiếm khi các vấn đề nghiêm trọng hơn về thần kinh , tim và phổi có thể làm phức tạp thêm một số bệnh nhiễm enterovirus. Mặc dù enterovirus không được cho là có thể đi qua nhau thai, một số nghiên cứu cho thấy nhiễm coxsackievirus ở mẹ có thể gây sảy thai hoặc ảnh hưởng đến sự phát triển của thai nhi.
+
+---
+
+## Bệnh herpangina được chẩn đoán như thế nào?
+
+Chẩn đoán herpangina thường được thực hiện lâm sàng mà không cần xét nghiệm đặc biệt. Các triệu chứng điển hình với tổn thương ở phía sau miệng và họng ở trẻ em vào mùa hè hoặc mùa thu sẽ giúp chẩn đoán.
+Virus có thể được phân lập từ dịch tỵ hầu và cả từ nước tiểu, phân và máu, vì đây là một bệnh nhiễm trùng toàn thân . Xét nghiệm máu thường nằm trong giới hạn bình thường. Sinh thiết vết loét không cho thấy bệnh lý đặc hiệu. Xét nghiệm huyết thanh sẽ cho thấy nồng độ kháng thể IgM kháng virus đặc hiệu tăng dần , xuất hiện lần đầu sau 1 tuần. Kháng thể IgM tồn tại trong khoảng 6 tháng và được thay thế bằng IgG đặc hiệu. Tuy nhiên, xét nghiệm thường không cần thiết trong trường hợp herpangina không biến chứng.
+Bệnh Herpangina có thể phân biệt với [bệnh tay chân miệng](https://dermnetnz.org/topics/hand-foot-and-mouth-disease) , một bệnh nhiễm trùng do enterovirus khác, nhờ không có tổn thương da. [Nhiễm trùng herpes simplex](https://dermnetnz.org/topics/herpes-simplex) nguyên phát ở miệng thường lan rộng hơn, bao gồm cả nướu, rất đau và kéo dài hơn. [](https://dermnetnz.org/topics/herpes-simplex)
+
+---
+
+## Điều trị bệnh herpangina
+
+Không có liệu pháp điều trị đặc hiệu cho bệnh herpangina, do đó việc điều trị chủ yếu là điều trị triệu chứng. Có thể dùng paracetamol để hạ sốt và giảm đau. Do sốt và đau khi nuốt, điều quan trọng là phải khuyến khích uống đủ nước. Sữa hoặc nước lạnh, kem và đá viên là những lựa chọn phù hợp. Nên tránh đồ uống nóng và nước ép trái cây vì các vết loét gây đau. Mất nước có lẽ là biến chứng thường gặp nhất của bệnh herpangina.
+Điều quan trọng là phải tìm kiếm lời khuyên y tế nếu bệnh không cải thiện trong vòng 1 tuần hoặc nếu bệnh trở nặng hơn hoặc xuất hiện các triệu chứng mới.

@@ -1,0 +1,130 @@
+# U hạt tế bào khổng lồ đàn hồi — thông tin bổ sung
+
+Thể loại:
+
+Tổn thương (lành tính)
+
+SNOMED CT:
+
+79144000
+
+**[Tổn thương (lành tính)](https://dermnetnz.org/topics/topics?category=Lesions+(benign))**
+
+
+# **U hạt tế bào khổng lồ đàn hồi**
+
+Tác giả: Tiến sĩ Lachlan Harrison, Chuyên viên đăng ký y khoa, Bệnh viện khu vực Wellington; Tiến sĩ Monique Mackenzie, Bác sĩ da liễu, Bệnh viện Tauranga, New Zealand (2024)Những người đóng góp trước đây: Tiến sĩ Maneka Gnanasegaram, Christchurch, New Zealand (2010)Đánh giá bác sĩ da liễu: Tiến sĩ Ian CoulsonĐược biên tập bởi bộ phận nội dung DermNet
+
+---
+
+## U hạt tế bào khổng lồ đàn hồi là gì?
+
+U hạt tế bào khổng lồ đàn hồi là một bệnh lý da hạt hiếm gặp , thường xuất hiện ở những vùng da tiếp xúc với ánh nắng mặt trời, chẳng hạn như mặt, mu bàn tay và cổ. Tổn thương thường là các mảng hình khuyên (hình nhẫn) , mặc dù nhiều biểu hiện lâm sàng khác nhau đã được mô tả.
+Trước đây, bệnh này còn được gọi là u hạt tế bào khổng lồ đàn hồi hình khuyên, u hạt actinic hoặc u hạt O'Brien (theo tên bác sĩ đầu tiên mô tả bệnh này).
+Có một số tranh luận xung quanh việc phân loại danh pháp của tình trạng này, bao gồm liệu đây có phải là một thực thể riêng biệt hay một biến thể của [u hạt vòng](https://dermnetnz.org/topics/granuloma-annulare) và liệu tất cả các trường hợp có phải do tiếp xúc với ánh sáng hay không.
+![Sẩn da xếp thành hình khuyên trên vùng cổ bị tổn thương do ánh nắng mặt trời](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/actinic-granuloma2.jpg)
+![Sẩn da xếp thành hình khuyên ở cổ](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/actinic-granuloma3.jpg)
+
+---
+
+## Ai mắc bệnh u hạt tế bào khổng lồ đàn hồi?
+
+U hạt tế bào khổng lồ đàn hồi thường xảy ra ở những người trong độ tuổi 40–70 và những người [tiếp xúc nhiều với bức xạ mặt trời](https://dermnetnz.org/topics/ultraviolet-radiation-and-human-health) . Không có sự phân biệt rõ ràng về giới tính .
+Bệnh đi kèm phổ biến nhất là [bệnh đái tháo đường](https://dermnetnz.org/topics/skin-problems-associated-with-diabetes-mellitus) .
+Các tình trạng liên quan khác được báo cáo bao gồm:
+- [Viêm động mạch thái dương](https://dermnetnz.org/topics/giant-cell-arteritis)
+- Viêm tuyến giáp Hashimoto
+- Các tình trạng tự miễn dịch khác (ví dụ, bệnh bạch biến, viêm gan tự miễn )
+- Borrelia burgdorferi (gây [bệnh Lyme](https://dermnetnz.org/topics/lyme-disease) )
+- Tăng huyết áp
+- Tăng lipid máu
+- Bệnh ác tính về huyết học (ví dụ, bệnh bạch cầu , u lympho )
+- Các bệnh ác tính khác (ví dụ, ung thư tuyến tiền liệt , ung thư dạ dày ).
+
+---
+
+## Nguyên nhân nào gây ra u hạt tế bào khổng lồ đàn hồi?
+
+Sự phát triển của u hạt tế bào khổng lồ đàn hồi được cho là bắt nguồn từ nhiều yếu tố, bao gồm các yếu tố môi trường như bức xạ mặt trời và nhiệt, cũng như các yếu tố vật chủ như bệnh toàn thân và bệnh ác tính. Có thể còn những yếu tố chưa biết khác góp phần vào sự khởi phát của bệnh.
+Sinh lý bệnh của u hạt tế bào khổng lồ đàn hồi được cho là phản ứng viêm với những thay đổi như tổn thương do ánh nắng mặt trời, có thể là do các sợi đàn hồi bị tổn thương.
+Người ta cho rằng quá trình này liên quan đến những thay đổi về tính kháng nguyên của elastin , kích hoạt phản ứng tự viêm qua trung gian CD4 . Tế bào tua và đại thực bào thực bào các mảnh elastin. Điều này dẫn đến sự hình thành các tế bào khổng lồ đa nhân hoặc u hạt và tạo ra hình ảnh mô học đặc trưng của nó .
+Metalloproteinase ma trận người -12 (MMP-12), do đại thực bào sản xuất, cũng góp phần vào quá trình phân hủy elastin. Sự điều hòa tăng cường MMP-12 trên các mẫu sinh thiết cho thấy vai trò của nó trong quá trình phân hủy đàn hồi của u hạt tế bào khổng lồ phân hủy đàn hồi.
+
+---
+
+## Đặc điểm lâm sàng của u hạt tế bào khổng lồ đàn hồi là gì?
+
+U hạt tế bào khổng lồ đàn hồi thường bắt đầu bằng các sẩn màu da hoặc màu hồng (các cục u nhỏ) kết tụ thành các mảng hình khuyên (các mảng dày lớn hơn).
+Tổn thương có thể đơn lẻ hoặc nhiều và thường có các đặc điểm sau:
+- Hình khuyên
+- Ban đỏ
+- Viền vảy nhô cao
+- Giảm sắc tố trung tâm
+- Kích thước: Đường kính 1–10 cm
+- Vị trí điển hình: mu bàn tay, cẳng tay, mặt, cổ, ngực trên, cẳng chân (mặc dù cũng có thể xuất hiện ở những vùng không tiếp xúc với ánh nắng mặt trời).
+Ngoài dạng hình khuyên phổ biến nhất, bốn phân nhóm lâm sàng khác đã được mô tả:
+- Dạng sẩn - nhiều sẩn cứng, không có vảy, cứng ; đường kính 2–12 mm; phân bố thành từng nhóm
+- Dạng khổng lồ — mảng lớn, phân định rõ ràng, không có vảy, phù nề; đường kính >10 cm; thường thấy trên thân cây
+- Dạng tổng quát — liên quan đến >30% tổng diện tích bề mặt cơ thể
+- Dạng hỗn hợp — sự tồn tại đồng thời của >2 phân nhóm lâm sàng khác.
+Mặc dù [ngứa](https://dermnetnz.org/topics/pruritus) và cảm giác nóng rát đã được báo cáo, các tổn thương thường không có triệu chứng. Tiến triển thường chậm, và các tổn thương có thể lan rộng và tiến triển trong nhiều tháng hoặc nhiều năm. Một số trường hợp tự thuyên giảm đã được báo cáo.
+
+---
+
+## Các đặc điểm lâm sàng khác nhau như thế nào ở các loại da khác nhau?
+
+Có rất ít dữ liệu về cách u hạt tế bào khổng lồ đàn hồi ảnh hưởng đến các loại da khác nhau, mặc dù bệnh này thường được báo cáo phổ biến hơn ở những người có làn da sáng hơn.
+
+---
+
+## Biến chứng của u hạt tế bào khổng lồ đàn hồi là gì?
+
+Tình trạng này lành tính , diễn biến âm thầm từ vài tháng đến vài năm. Do tổn thương thường xuất hiện ở những vị trí tiếp xúc với ánh nắng mặt trời, nên vấn đề thẩm mỹ thường gặp.
+
+---
+
+## U hạt tế bào khổng lồ đàn hồi được chẩn đoán như thế nào?
+
+Chẩn đoán lâm sàng thường được xác nhận bằng sinh [thiết](https://dermnetnz.org/topics/skin-biopsy) mô học . Các đặc điểm đặc trưng cho thấy tình trạng phân hủy đàn hồi, thực bào đàn hồi và thâm nhiễm tế bào khổng lồ đa nhân. Xem: [bệnh lý u hạt tế bào khổng lồ phân hủy đàn hồi hình khuyên](https://dermnetnz.org/topics/annular-elastolytic-giant-cell-granuloma-pathology) . [](https://dermnetnz.org/topics/skin-biopsy) [](https://dermnetnz.org/topics/annular-elastolytic-giant-cell-granuloma-pathology)
+
+---
+
+## Chẩn đoán phân biệt đối với u hạt tế bào khổng lồ đàn hồi là gì?
+
+- [U hạt vòng](https://dermnetnz.org/topics/granuloma-annulare)
+- [Bệnh hoại tử mỡ](https://dermnetnz.org/topics/necrobiosis-lipoidica)
+- Bệnh [sarcoidosis da](https://dermnetnz.org/topics/sarcoidosis)
+- [Lichen phẳng hình](https://dermnetnz.org/topics/lichen-planus) khuyên [](https://dermnetnz.org/topics/lichen-planus)
+- [Bệnh lupus ban đỏ dạng đĩa](https://dermnetnz.org/topics/discoid-lupus-erythematosus)
+- [Bệnh Leishmaniasis](https://dermnetnz.org/topics/leishmaniasis)
+- Các bệnh da liễu do ánh sáng khác nhau
+
+---
+
+## Phương pháp điều trị u hạt tế bào khổng lồ đàn hồi là gì?
+
+
+### Các biện pháp chung
+- Thay đổi lối sống để [giảm tiếp xúc với ánh nắng mặt trời](https://dermnetnz.org/topics/sun-protection) .
+- Quản lý các bệnh đi kèm, đặc biệt là bệnh tiểu đường.
+
+### Các biện pháp cụ thể
+Hiện tại, chưa có hướng dẫn hoặc tiêu chuẩn điều trị quốc tế nào được thiết lập cho u hạt tế bào khổng lồ đàn hồi. Các tài liệu hiện có, dựa trên các phân tích hồi cứu, chỉ ra một số liệu pháp có thể hữu ích, mặc dù đáp ứng khác nhau. Cũng có nguy cơ tái phát sau khi ngừng điều trị, ngay cả sau khi bệnh đã khỏi hoàn toàn.
+- Liệu pháp tại chỗ : [Chất ức chế calcineurin](https://dermnetnz.org/topics/calcineurin-inhibitors) [Corticosteroid](https://dermnetnz.org/topics/topical-steroid) [Dapsone](https://dermnetnz.org/topics/dapsone) bôi ngoài da .
+- [Chất ức chế calcineurin](https://dermnetnz.org/topics/calcineurin-inhibitors)
+- [Corticosteroid](https://dermnetnz.org/topics/topical-steroid)
+- [Dapsone](https://dermnetnz.org/topics/dapsone) bôi ngoài da .
+- Liệu pháp toàn thân: [Steroid toàn thân](https://dermnetnz.org/topics/systemic-steroids) [Retinoid đường uống](https://dermnetnz.org/topics/oral-retinoids) [Hydroxychloroquine](https://dermnetnz.org/topics/hydroxychloroquine) [Cyclosporin](https://dermnetnz.org/topics/ciclosporin) [Methotrexate](https://dermnetnz.org/topics/methotrexate) .
+- [Steroid toàn thân](https://dermnetnz.org/topics/systemic-steroids)
+- [Retinoid đường uống](https://dermnetnz.org/topics/oral-retinoids)
+- [Hydroxychloroquine](https://dermnetnz.org/topics/hydroxychloroquine)
+- [Cyclosporin](https://dermnetnz.org/topics/ciclosporin)
+- [Methotrexate](https://dermnetnz.org/topics/methotrexate) .
+- Liệu pháp quang học ví dụ như [PUVA](https://dermnetnz.org/topics/puva-photochemotherapy) .
+Không có mối quan hệ đáng kể nào giữa phân nhóm lâm sàng của u hạt tế bào khổng lồ đàn hồi và hiệu quả điều trị.
+
+---
+
+## Kết quả của u hạt tế bào khổng lồ đàn hồi là gì?
+
+U hạt tế bào khổng lồ đàn hồi là một bệnh lý da lành tính, thường kéo dài nhiều năm (trong một nghiên cứu, thời gian trung bình là 2,36 năm). Bệnh có thể tự khỏi. Cũng đã có báo cáo về việc khỏi hoàn toàn sau điều trị, mặc dù đáp ứng điều trị khác nhau và tình trạng tái phát thường gặp.

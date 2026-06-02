@@ -1,0 +1,123 @@
+# Nhiễm trùng vết thương — thông tin bổ sung
+
+Thể loại:
+
+Nhiễm trùng
+
+SNOMED CT:
+
+76844004, 433202001, 58126003, 213286009, 213283000, 225550006, 609341000, 609340004, 609339001, 298010008, 225150002, 422181004, 391158008, 239163008, 298012000
+
+**[Nhiễm trùng](https://dermnetnz.org/topics/topics?category=Infections)**
+
+
+# **Nhiễm trùng vết thương**
+
+Tác giả: Vanessa Ngan, Biên tập viên, 2005.
+
+---
+
+## Nhiễm trùng vết thương là gì?
+
+Nhiễm trùng vết thương được Trung tâm Kiểm soát và Phòng ngừa Dịch bệnh Hoa Kỳ (CDC) định nghĩa là nhiễm trùng vết mổ (SSI). Định nghĩa này được cụ thể hơn như sau:
+- Nhiễm trùng vết mổ nông – nhiễm trùng chỉ liên quan đến da và mô dưới da tại vết mổ.
+- Nhiễm trùng vết mổ sâu — nhiễm trùng liên quan đến các mô sâu, chẳng hạn như lớp cơ và lớp mặt.
+- Nhiễm trùng vết mổ ở cơ quan/khoang — nhiễm trùng liên quan đến bất kỳ bộ phận nào của cơ thể ở các cơ quan và khoảng trống khác ngoài vết mổ đã được mở hoặc thao tác trong quá trình phẫu thuật.
+Mặc dù định nghĩa về nhiễm trùng vết thương này chỉ giới hạn ở những trường hợp phát sinh từ vết mổ, một định nghĩa rộng hơn và tổng quát hơn sẽ là nhiễm trùng vết [thương](https://dermnetnz.org/topics/wounds) do tổn thương vật lý trên da do chấn thương xuyên thấu từ thực vật, động vật, súng, dao hoặc các vật thể khác. Vết thương làm đứt mạch máu dưới da và tạo điều kiện cho vi sinh vật xâm nhập vào mô và gây nhiễm trùng.
+Nhiễm trùng phát sinh từ vết thương phẫu thuật là một trong những nhiễm trùng mắc phải phổ biến nhất trong bệnh viện và là nguyên nhân quan trọng gây bệnh tật và tử vong. Do đó, bài viết này tập trung vào việc nhận biết và xử trí nhiễm trùng vết thương phẫu thuật.
+
+---
+
+## Nhiễm trùng vết thương sau phẫu thuật được định nghĩa như thế nào?
+
+Nhiễm trùng vết thương/vị trí phẫu thuật được xác định theo các tiêu chí sau: Nhiễm trùng phải xảy ra trong vòng 30 ngày sau phẫu thuật, và ít nhất một trong các trường hợp sau đây phải xảy ra:
+- Dịch mủ chảy ra từ vị trí phẫu thuật
+- Dịch mủ chảy ra từ vết thương hoặc ống dẫn lưu đặt vào vết thương
+- Các sinh vật được phân lập từ vết thương nuôi cấy vô trùng
+- Phải có ít nhất một trong các dấu hiệu và triệu chứng của nhiễm trùng — đau hoặc nhạy cảm, sưng cục bộ hoặc đỏ/nóng.
+Các dấu hiệu khác của nhiễm trùng vết thương bao gồm:
+- Sự chữa lành chậm trễ không được dự đoán trước.
+- Sự đổi màu của các mô bên trong và ở mép vết thương.
+- Có mùi bất thường phát ra từ vết thương.
+- Mô hạt dễ vỡ, chảy máu mặc dù được chăm sóc và quản lý thích hợp.
+- Viêm mạch bạch huyết , một đường màu đỏ bắt nguồn từ vết thương và dẫn đến các tuyến bạch huyết sưng đau chảy ra khỏi vùng bị ảnh hưởng.
+Nhiễm trùng tại vị trí phẫu thuật không bao gồm [áp xe](https://dermnetnz.org/topics/cutaneous-abscess) vết khâu , nhiễm trùng tầng sinh môn, sẹo cắt bao quy đầu ở trẻ sơ sinh hoặc vết thương bỏng nhiệt bị nhiễm trùng.
+![Sau liệu pháp lạnh](https://dermnetnz.org/assets/Uploads/bacterial/wound-infection1.jpg)
+![Sau khi nạo](https://dermnetnz.org/assets/Uploads/bacterial/wound-infection2.jpg)
+![Sau khi cắt bỏ](https://dermnetnz.org/assets/Uploads/bacterial/wound-infection3.jpg)
+![Viêm mạch bạch huyết sau vết thương do tai nạn. Hình ảnh do Bác sĩ T Evans cung cấp.](https://dermnetnz.org/assets/Uploads/bacterial/lymphangitis.jpg)
+
+---
+
+## Nguyên nhân nào gây ra nhiễm trùng vết thương?
+
+Nhiễm trùng vết thương là do sự lắng đọng và sinh sôi của vi sinh vật tại vị trí phẫu thuật của vật chủ dễ bị tổn thương . Có nhiều cách để vi sinh vật xâm nhập vào vết thương.
+- Tiếp xúc trực tiếp – chuyển từ thiết bị phẫu thuật hoặc từ tay của bác sĩ phẫu thuật hoặc y tá
+- Phát tán trong không khí – không khí xung quanh bị ô nhiễm bởi các vi sinh vật bám vào vết thương
+- Tự nhiễm – sự di chuyển vật lý của hệ vi khuẩn nội sinh của chính bệnh nhân có trên da, niêm mạc hoặc đường tiêu hóa đến vị trí phẫu thuật.
+Các tác nhân gây bệnh phổ biến nhất liên quan đến nhiễm trùng vết thương bao gồm [Staphylococcus aureus](https://dermnetnz.org/topics/staphylococcal-skin-infection) / [MRSA](https://dermnetnz.org/topics/methicillin-resistant-staphylococcus-aureus) , [Streptococcus pyogene,](https://dermnetnz.org/topics/streptococcal-skin-infections) Enterococci và Pseudomonas [aeruginosa](https://dermnetnz.org/topics/pseudomonas-skin-infections) .
+
+### Các yếu tố góp phần
+Đặc điểm chung của bệnh nhân
+- Tuổi tác, béo phì, [suy dinh dưỡng](https://dermnetnz.org/topics/malnutrition-including-anorexia-nervosa)
+- Rối loạn nội tiết và chuyển hóa
+- [Hút thuốc](https://dermnetnz.org/topics/smoking-and-its-effects-on-the-skin)
+- Thiếu oxy / thiếu máu
+- Bệnh ác tính
+- Ức chế miễn dịch.
+Đặc điểm vết thương
+- Mô không sống được trong vết thương
+- Vật thể lạ
+- Thiếu máu cục bộ mô
+- Sự hình thành khối máu tụ .
+Đặc điểm hoạt động
+- Kỹ thuật phẫu thuật kém
+- Thời gian hoạt động dài (> 2 giờ)
+- Nhiễm trùng trong khi phẫu thuật
+- Thời gian nằm viện trước phẫu thuật kéo dài
+- Hạ thân nhiệt.
+
+---
+
+## Nguy cơ nhiễm trùng vết thương là gì?
+
+Nguy cơ nhiễm trùng vết thương thay đổi tùy theo loại phẫu thuật. Một số loại phẫu thuật có nguy cơ nhiễm trùng cao hơn những loại khác và dẫn đến việc phân loại vết thương phẫu thuật như sau.
+Làm sạch vết thương, ví dụ, sửa chữa thoát vị
+- Vết thương phẫu thuật không bị nhiễm trùng
+- Không có tình trạng viêm cấp tính
+- Không được xâm nhập vào các cơ quan nội tạng
+- Không có sự gián đoạn trong kỹ thuật vô trùng
+Vết thương sạch-nhiễm, ví dụ như vết cắt ruột thừa
+- Mở vào cơ quan nội tạng nhưng ít hoặc không có chất bên trong bị đổ ra ngoài
+- Không có bằng chứng về nhiễm trùng hoặc lỗi lớn trong kỹ thuật vô trùng
+Vết thương bị nhiễm trùng, ví dụ như cắt đại tràng do tắc nghẽn
+- Mở vào các cơ quan nội tạng bị viêm hoặc tràn dịch
+- Một bước đột phá lớn trong kỹ thuật vô trùng
+Vết thương bẩn
+- Viêm mủ
+- Hình thành áp xe trong phúc mạc hoặc thủng tạng
+
+---
+
+## Làm thế nào để ngăn ngừa nhiễm trùng vết thương?
+
+Mục tiêu của việc quản lý nhiễm trùng vết thương là ngăn ngừa hoặc giảm thiểu nguy cơ nhiễm trùng. Các yếu tố hoặc phương pháp sau đây từ bên ngoài cơ thể bệnh nhân được sử dụng để ngăn ngừa nhiễm trùng.
+
+### Môi trường nhà hát và chăm sóc nhạc cụ
+- Duy trì thông khí áp lực dương trong phòng phẫu thuật
+- Dòng khí tầng ở những khu vực có nguy cơ cao
+- Khử trùng dụng cụ phẫu thuật, chỉ khâu, v.v. theo hướng dẫn
+
+### Các thành viên trong nhóm phẫu thuật được đào tạo về kỹ thuật vô trùng
+- Nhân viên bị nhiễm bệnh bị loại khỏi nhiệm vụ
+- Lau chùi sạch sẽ và mặc trang phục vô trùng phù hợp
+Các kỹ thuật áp dụng cho bệnh nhân để ngăn ngừa nhiễm trùng vết thương bao gồm:
+- Chuẩn bị da
+- [Làm sạch vết thương](https://dermnetnz.org/topics/wound-cleansers)
+- [Dự](https://dermnetnz.org/topics/antibiotics) phòng kháng sinh
+- Kỹ thuật phẫu thuật tốt.
+[Thuốc sát trùng](https://dermnetnz.org/topics/antiseptic) [vết thương](https://dermnetnz.org/topics/wound-cleansers) phù hợp cho vết thương sạch hoặc vết thương nhiễm trùng nhẹ. Kháng sinh dự phòng có thể được chỉ định cho vết thương sạch-nhiễm và thường được khuyến cáo cho vết thương nhiễm trùng. Kháng sinh cho vết thương bẩn là một phần của điều trị vì nhiễm trùng đã hình thành. Khi quyết định sử dụng kháng sinh dự phòng, hãy cân nhắc những điều sau:
+- Sử dụng kháng sinh dựa trên loại vi khuẩn có khả năng gây nhiễm trùng
+- Một loại kháng sinh phải có khả năng thâm nhập mô tốt để tiếp cận vết thương liên quan
+- Thời điểm và thời gian sử dụng kháng sinh – điều quan trọng là phải đạt được nồng độ điều trị tại thời điểm rạch da, trong suốt quá trình phẫu thuật và lý tưởng nhất là vài giờ sau phẫu thuật.
+Nhiễm trùng vết thương có thể làm bệnh tình trở nên phức tạp hơn, gây lo lắng, tăng cảm giác khó chịu cho bệnh nhân và dẫn đến tử vong. Ước tính nhiễm trùng vết thương sau phẫu thuật làm tăng thời gian nằm viện khoảng 7–10 ngày. Do đó, việc phòng ngừa và xử trí nhiễm trùng vết thương có tác động lớn đến cả sức khỏe và kinh tế y tế của bệnh nhân.

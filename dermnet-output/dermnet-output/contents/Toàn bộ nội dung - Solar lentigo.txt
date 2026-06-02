@@ -1,0 +1,60 @@
+# Lenigo năng lượng mặt trời - thông tin bổ sung
+
+Thể loại:
+
+Tổn thương (lành tính)
+
+SNOMED CT:
+
+72100002, 238513004
+
+**[Tổn thương (lành tính)](https://dermnetnz.org/topics/topics?category=Lesions+(benign))**
+
+
+# **Lentigo mặt trời**
+
+Tác giả: Tiến sĩ Bob Chan, Bác sĩ da liễu, Bệnh viện Auckland, Auckland, New Zealand, 2014.
+
+---
+
+## Lentigo mặt trời là gì?
+
+Tàn nhang do ánh nắng mặt trời là một mảng da sẫm màu vô hại. Tình trạng này là kết quả của việc tiếp xúc với tia cực tím ( UV ), gây ra sự tăng sinh cục bộ của tế bào hắc tố và tích tụ melanin trong các tế bào da ( tế bào sừng ). Tàn nhang do ánh nắng mặt trời ( lentigine ) rất phổ biến, đặc biệt là ở những người trên 40 tuổi. Đôi khi chúng còn được gọi là "đốm tuổi già" hoặc "tàn nhang lão hóa".
+
+---
+
+## Lentigo mặt trời trông như thế nào?
+
+Lentigo mặt trời là một mảng phẳng, có ranh giới rõ ràng . Nó có thể tròn, hình bầu dục hoặc hình dạng không đều. Màu sắc thay đổi từ màu da, màu rám nắng đến nâu sẫm hoặc đen, và kích thước đường kính thay đổi từ vài milimét đến vài centimet. Chúng có thể hơi có vảy.
+Tàn nhang do ánh nắng mặt trời là các nhóm tổn thương tương tự nhau ở những vùng da tiếp xúc với ánh nắng mặt trời, đặc biệt là mặt hoặc mu bàn tay. Chúng xuất hiện ở cả da sáng và da tối màu, nhưng có xu hướng xuất hiện nhiều hơn ở những người da trắng.
+![Lentigo mặt trời](https://dermnetnz.org/assets/Uploads/lesions/s/solar-lentigo-01.jpg)
+![Lentigo mặt trời](https://dermnetnz.org/assets/Uploads/lesions/s/solar-lentigo-02.jpg)
+![Lentigo mặt trời](https://dermnetnz.org/assets/Uploads/lesions/solar-lentigo-03.jpg)
+![Lentigo mặt trời](https://dermnetnz.org/assets/Uploads/lesions/s/solar-lentigo-04.jpg)
+![Lentigo mặt trời](https://dermnetnz.org/assets/Uploads/lesions/solar-lentigo-05.jpg)
+![Lentigo mặt trời](https://dermnetnz.org/assets/Uploads/lesions/solar-lentigo-06.jpg)
+![Lentigo mặt trời](https://dermnetnz.org/assets/Uploads/lesions/solar-lentigo-07.jpg)
+![Lentigo mặt trời](https://dermnetnz.org/assets/Uploads/lesions/solar-lentigo-08.jpg)
+[Xem thêm hình ảnh về bệnh tàn nhang do nắng](https://dermnetnz-org.translate.goog/topics/solar-lentigo-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp) .
+
+---
+
+## Bệnh lentigo do ánh nắng mặt trời được chẩn đoán như thế nào?
+
+Bệnh lentigo mặt trời thường được chẩn đoán dựa trên biểu hiện lâm sàng. Đôi khi, việc phân biệt lentigo mặt trời bất thường với [u hắc tố , một dạng](https://dermnetnz.org/topics/melanoma) ung thư da có khả năng nguy hiểm , có thể gặp khó khăn , và thuật ngữ [lentigo mặt trời không điển hình](https://dermnetnz.org/topics/atypical-solar-lentigo) có thể được sử dụng.
+Kiểm tra bằng [phương pháp soi da](https://dermnetnz.org/topics/dermoscopy) có thể làm rõ chẩn đoán. Nếu vẫn còn nghi ngờ về chẩn đoán, có thể tiến hành [sinh thiết da để xét nghiệm](https://dermnetnz.org/topics/skin-biopsy) mô học .
+
+---
+
+## Những thay đổi trong lentigo mặt trời
+
+[Sừng hóa bã nhờn](https://dermnetnz.org/topics/seborrhoeic-keratosis) có thể xuất hiện bên trong các nốt ruồi. Điều này dẫn đến tình trạng dày lên cục bộ và thay đổi kết cấu bên trong các nốt ruồi.
+Các nốt sần do ánh nắng mặt trời có thể bị viêm, khi đó chúng được gọi là [dày sừng dạng liken hoặc](https://dermnetnz.org/topics/lichenoid-keratosis) dày sừng dạng liken phẳng (do kiểu viêm thấy được trên mô bệnh học ). Dày sừng dạng liken dần biến mất.
+
+---
+
+## Có những phương pháp điều trị nào cho bệnh lentigo do nắng?
+
+Nếu không được điều trị, lentigo do ánh nắng mặt trời rất có thể sẽ tồn tại vô thời hạn. [Liệu pháp đông lạnh](https://dermnetnz.org/topics/cryotherapy) và [phẫu thuật bằng laser](https://dermnetnz.org/topics/lasers-in-dermatology) có thể tiêu diệt chúng, nhưng việc điều trị có thể để lại vết thâm hoặc trắng tạm thời hoặc vĩnh viễn.
+[Kem Cysteamine đã được sử dụng để điều trị](https://dermnetnz.org/topics/cysteamine-cream) tăng sắc tố . Các chất tẩy trắng như [hydroquinone](https://dermnetnz.org/topics/hydroquinone) không hiệu quả.
+Các biện pháp phòng ngừa bao gồm [giảm thiểu tiếp xúc với ánh nắng mặt trời](https://dermnetnz.org/topics/sun-protection) và sử dụng [kem chống nắng](https://dermnetnz.org/topics/topical-sunscreen-agents) , nhưng điều này cần phải bắt đầu từ sớm.

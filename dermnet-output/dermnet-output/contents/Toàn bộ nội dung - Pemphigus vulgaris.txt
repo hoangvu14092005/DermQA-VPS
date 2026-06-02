@@ -1,0 +1,177 @@
+# Pemphigus thông thường — thông tin bổ sung
+
+Thể loại:
+
+Tự miễn/tự viêm
+
+SNOMED CT:
+
+49420001, 361212009, 40363005, 721196005, 81285006
+
+**[Tự miễn/tự viêm](https://dermnetnz.org/topics/topics?category=Autoimmune/autoinflammatory)**
+
+
+# **Pemphigus thông thường**
+
+Tác giả: Vanessa Ngan, Biên tập viên, 2003; Phó Giáo sư Amanda Oakley, Bác sĩ da liễu, New Zealand, tháng 1 năm 2019; Cập nhật: Tiến sĩ Musfira Shakeel, tháng 5 năm 2022. Biên tập bởi Gus Mitchell.
+
+---
+
+## Bệnh pemphigus thông thường là gì?
+
+Pemphigus thông thường là một [bệnh tự miễn](https://dermnetnz.org/topics/autoimmune-diseases-in-dermatology) hiếm gặp , đặc trưng bởi các mụn nước và vết loét đau trên da và niêm mạc, thường gặp nhất là bên trong miệng. Pemphigus thông thường chiếm 70% tổng số ca mắc bệnh pemphigus trên toàn thế giới, mặc dù bệnh này cực kỳ hiếm gặp ở New Zealand (khoảng một ca trên một triệu dân).
+Các phân nhóm chính khác của bệnh pemphigus là:
+- [Bệnh pemphigus vảy lá](https://dermnetnz.org/topics/pemphigus-foliaceus) và các bệnh liên quan [Pemphigus ban đỏ](https://dermnetnz.org/topics/pemphigus-foliaceus) (một sự chồng chéo của pemphigus vảy lá và lupus ban đỏ) Pemphigus dạng herpes
+- [Pemphigus ban đỏ](https://dermnetnz.org/topics/pemphigus-foliaceus) (một sự chồng chéo của pemphigus vảy lá và lupus ban đỏ)
+- Pemphigus dạng herpes
+- Bệnh Pemphigus thông thường và các bệnh liên quan [Bệnh pemphigus IgA](https://dermnetnz.org/topics/iga-pemphigus) Người ăn chay mắc bệnh Pemphigus [Bệnh pemphigus cận u](https://dermnetnz.org/topics/paraneoplastic-pemphigus) .
+- [Bệnh pemphigus IgA](https://dermnetnz.org/topics/iga-pemphigus)
+- Người ăn chay mắc bệnh Pemphigus
+- [Bệnh pemphigus cận u](https://dermnetnz.org/topics/paraneoplastic-pemphigus) .
+![Pemphigus thông thường](https://dermnetnz.org/assets/Uploads/immune/pgus4.jpg)
+![Pemphigus thông thường](https://dermnetnz.org/assets/Uploads/immune/pgus3.jpg)
+![Pemphigus thông thường](https://dermnetnz.org/assets/Uploads/immune/pgus5.jpg)
+[Xem thêm hình ảnh pemphigus thông thường](https://dermnetnz-org.translate.goog/images/pemphigus-vulgaris-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+
+---
+
+## Ai mắc bệnh pemphigus thông thường?
+
+Bệnh Pemphigus thông thường ảnh hưởng đến mọi chủng tộc, lứa tuổi và giới tính. Bệnh thường xuất hiện ở độ tuổi từ 30 đến 60 và phổ biến hơn ở người Do Thái và người Ấn Độ so với các chủng tộc khác, có lẽ là do yếu tố di truyền .
+[Bệnh pemphigus do thuốc](https://dermnetnz.org/topics/drug-induced-pemphigus) cũng được công nhận và thường do penicillamine, thuốc ức chế men chuyển angiotensin , thuốc chẹn thụ thể angiotensin và cephalosporin gây ra.
+Bệnh pemphigus đôi khi do ung thư gây ra, đặc biệt là u lympho và bệnh Castelman ( [pemphigus cận u](https://dermnetnz.org/topics/paraneoplastic-pemphigus) ), nhiễm trùng hoặc chấn thương.
+
+---
+
+## Nguyên nhân gây ra bệnh pemphigus thông thường là gì?
+
+Pemphigus thông thường là một [bệnh phồng rộp tự miễn](https://dermnetnz.org/topics/autoimmune-diseases-in-dermatology) .
+Các tế bào sừng được gắn kết với nhau tại các điểm dính đặc biệt gọi là desmosome. Trong bệnh pemphigus thông thường, các tự kháng thể immunoglobulin loại G ( IgG ) liên kết với một protein gọi là desmoglein 3 (DSG3), được tìm thấy trong desmosome của các tế bào sừng gần đáy biểu bì. Kết quả là các tế bào sừng tách rời nhau và được thay thế bằng dịch (bọng nước). Khoảng 50% bệnh nhân mắc bệnh pemphigus thông thường cũng có kháng thể kháng DSG1. Các nghiên cứu dịch tễ học quy mô lớn đã gợi ý mối liên hệ hiếm gặp giữa [nhiễm virus herpes](https://dermnetnz.org/topics/herpes-viruses) và bệnh pemphigus. [](https://dermnetnz.org/topics/herpes-viruses)
+
+---
+
+## Các đặc điểm lâm sàng của bệnh pemphigus thông thường là gì?
+
+Hầu hết bệnh nhân mắc bệnh pemphigus thông thường ban đầu biểu hiện bằng các tổn thương ở niêm mạc như miệng và bộ phận sinh dục. Các mụn nước thường xuất hiện trên da sau vài tuần hoặc vài tháng, mặc dù trong một số trường hợp, tổn thương niêm mạc có thể là biểu hiện duy nhất của bệnh.
+Tổn thương da biểu hiện dưới dạng mụn nước mềm, thành mỏng , chứa đầy dịch trong suốt, dễ vỡ, gây ngứa và đau. Chúng thường xuất hiện ở vùng ngực trên, lưng, da đầu và mặt. Các vết trợt ở nếp gấp da có thể phát triển thành tổn thương thực vật dạng hạt và đóng vảy (pemphigus chay). Vùng da quanh móng có thể bị đau, đỏ và sưng.
+![Pemphigus thông thường](https://dermnetnz.org/assets/Uploads/immune/s/pgus7.jpg)
+![Pemphigus thông thường](https://dermnetnz.org/assets/Uploads/immune/pgus8.jpg)
+![Pemphigus thông thường](https://dermnetnz.org/assets/Uploads/immune/s/pgus9.jpg)
+So với da trắng, tông màu da sẫm hơn có thể biểu hiện khác nhau, dẫn đến chậm trễ trong chẩn đoán. Các đặc điểm chẩn đoán ở tông màu da sẫm hơn có thể bao gồm mụn nước mềm không có ban đỏ và các mảng tăng sắc tố kèm theo xói mòn bề mặt và đóng vảy xuất huyết . Ở giai đoạn muộn hơn và tiến triển hơn, các mảng có nền hồng và tăng sắc tố xung quanh xuất hiện.
+Bên trong miệng thường bị ảnh hưởng bởi pemphigus thông thường. Tổn thương hầu và thanh quản gây đau khi nuốt và khàn giọng. Tổn thương mũi gây nghẹt mũi và chảy máu. Kết mạc , thực quản , môi lớn , âm đạo , cổ tử cung , dương vật, niệu đạo và hậu môn cũng có thể bị ảnh hưởng.
+Các đặc điểm của [bệnh pemphigus niêm mạc miệng](https://dermnetnz.org/topics/oral-blistering-diseases) bao gồm:
+- Tổn thương miệng ở 50–70% bệnh nhân
+- Phồng rộp và xói mòn bề mặt
+- Sự liên quan lan rộng trong miệng
+- Loét đau, chậm lành
+- Lan đến thanh quản gây khàn tiếng khi nói
+- Khó khăn khi ăn uống.
+![Bệnh pemphigus miệng thông thường](https://dermnetnz.org/assets/Uploads/immune/pgus1.jpg)
+![Bệnh pemphigus thông thường ở mắt](https://dermnetnz.org/assets/Uploads/immune/pgus6.jpg)
+![Một vết phồng rộp còn nguyên vẹn trên vòm miệng trong bệnh pemphigus thông thường](https://dermnetnz.org/assets/collection/Pemphigus-vulgaris/pemphigus-vulgaris-0005.jpg)
+[Xem thêm hình ảnh pemphigus thông thường](https://dermnetnz-org.translate.goog/images/pemphigus-vulgaris-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+
+### Các biến thể lâm sàng của bệnh pemphigus thông thường
+
+#### Người ăn chay mắc bệnh Pemphigus
+- Loại hiếm gặp, đặc trưng bởi các mảng bám thực vật bao gồm mô hạt dư thừa và lớp vảy.
+- Chiếm 1-2% các trường hợp mắc bệnh pemphigus và thường xảy ra ở các vị trí kẽ da , mặt và da đầu.
+- Các phát hiện mô học đặc trưng bao gồm tăng sừng , tăng sản giả biểu mô và u nhú kèm theo tình trạng phân hủy gai tạo thành khe hở trên đáy .
+- Hai phân nhóm lâm sàng: Pemphigus chay của Neumann (mảng thực vật phát sinh từ tổn thương pemphigus thông thường) Pemphigus chay của Hallopeau (mảng bám không có bọng nước trước ).
+- Pemphigus chay của Neumann (mảng thực vật phát sinh từ tổn thương pemphigus thông thường)
+- Pemphigus chay của Hallopeau (mảng bám không có bọng nước trước ).
+
+#### Pemphigus dạng herpes
+- Trước đây đã mô tả một phân nhóm hiếm gặp của pemphigus thông thường hoặc [pemphigus foliceus](https://dermnetnz.org/topics/pemphigus-foliaceus) .
+- Đặc trưng bởi các mảng mề đay và phát ban dạng mụn nước có hình dạng giống như mụn nước hoặc hình khuyên .
+- Mảng bám có liên quan đến tình trạng ngứa dữ dội và hiếm khi ảnh hưởng đến niêm mạc.
+- Về mặt mô học, đặc trưng bởi chứng xốp hóa ưa eosin , chủ yếu không có tình trạng tiêu gai.
+
+---
+
+## Biến chứng của bệnh pemphigus thông thường là gì?
+
+Pemphigus thông thường có thể gây ra các vết trợt rất rộng, đe dọa tính mạng, đặc biệt nếu chẩn đoán muộn. Các biến chứng nghiêm trọng khác có thể bao gồm:
+- [Nhiễm trùng thứ phát do vi khuẩn](https://dermnetnz.org/topics/wound-infections)
+- [Nhiễm nấm](https://dermnetnz.org/topics/introduction-to-fungal-infections) , đặc biệt là [nấm candida](https://dermnetnz.org/topics/candida)
+- [Nhiễm trùng do virus](https://dermnetnz.org/topics/viral-skin-infections) , đặc biệt là [herpes simplex](https://dermnetnz.org/topics/herpes-simplex)
+- Thiếu hụt dinh dưỡng do khó ăn
+- Biến chứng của [steroid toàn thân](https://dermnetnz.org/topics/systemic-steroids) đặc biệt là nhiễm trùng và loãng xương
+- Biến chứng của [phương pháp điều trị ức chế miễn dịch](https://dermnetnz.org/topics/drug-induced-immunosuppression)
+- Tác [động tâm lý](https://dermnetnz.org/topics/psychosocial-factors-in-dermatology) của bệnh ngoài da nghiêm trọng và cách điều trị (lo lắng và trầm cảm)
+- Nguy cơ mắc bệnh tim mạch cao ( xơ vữa động mạch, suy tim, loạn nhịp tim , huyết khối và tử vong do tim mạch).
+
+---
+
+## Bệnh pemphigus thông thường được chẩn đoán như thế nào?
+
+Chẩn đoán pemphigus thông thường thường đòi hỏi [sinh thiết](https://dermnetnz.org/topics/skin-biopsy) mụn nước. Chẩn đoán pemphigus thông thường thường đòi hỏi [sinh thiết](https://dermnetnz.org/topics/skin-biopsy) từ vùng da liền kề với tổn thương. Mô học thường cho thấy các tế bào sừng (tế bào tiêu gai ) tròn và tách rời ngay phía trên lớp đáy của biểu bì. Có thể báo cáo khe hở trên đáy. Xem [bệnh lý học của pemphigus thông thường.](https://dermnetnz.org/topics/pemphigus-vulgaris-pathology)
+Bệnh Pemphigus được xác nhận bằng phương pháp nhuộm [miễn dịch huỳnh quang trực tiếp các phần](https://dermnetnz.org/topics/direct-immunofluorescence) sinh thiết da quanh tổn thương để phát hiện kháng thể immunoglobulin (Ig)G hoặc [bổ thể](https://dermnetnz.org/topics/the-complement-system) trên bề mặt tế bào sừng. [](https://dermnetnz.org/topics/the-complement-system)
+Trong hầu hết các trường hợp, kháng thể lưu hành có thể được phát hiện bằng xét nghiệm máu ( [xét nghiệm miễn dịch huỳnh quang gián tiếp ). Nồng độ kháng thể dao động và có thể phản ánh hiệu quả điều trị.](https://dermnetnz.org/topics/indirect-immunofluorescence) Nồng độ kháng thể kháng dsg1 và kháng dsg3 đặc hiệu cũng có thể được đo trong máu hoặc nước bọt bằng xét nghiệm miễn dịch hấp thụ liên kết enzyme (ELISA).
+Pemphigus thông thường có thể cùng tồn tại hoặc bị nhầm lẫn với [pemphigus foliaceus](https://dermnetnz.org/topics/pemphigus-foliaceus) , [pemphigoid sẹo](https://dermnetnz.org/topics/mucous-membrane-pemphigoid) và [liken phẳng](https://dermnetnz.org/topics/lichen-planus) .
+
+---
+
+## Mức độ nghiêm trọng của bệnh pemphigus thông thường được đánh giá như thế nào?
+
+Mức độ nghiêm trọng của bệnh pemphigus có thể được đánh giá bằng nhiều hệ thống tính điểm khác nhau.
+- PDAI: Chỉ số vùng bệnh Pemphigus
+- PAAS: Điểm hoạt động và diện tích Pemphigus
+- PAS: Điểm hoạt động của bệnh Pemphigus
+- ABSDIS: Điểm số cường độ bệnh lý da bóng nước tự miễn
+- Tính điểm pemphigus miệng của Saraswat
+- Điểm mức độ nghiêm trọng của tổn thương Pemphigus thông thường
+- Phân loại pemphigus Harman
+- Hệ thống tính điểm Kumar
+- Hệ thống tính điểm Mahajan
+
+---
+
+## Phương pháp điều trị bệnh pemphigus thông thường là gì?
+
+Mục tiêu chính của điều trị pemphigus thông thường là làm giảm sự hình thành mụn nước, ngăn ngừa nhiễm trùng và thúc đẩy quá trình lành mụn nước và vết trợt [4,5]. [Corticosteroid toàn thân](https://dermnetnz.org/topics/systemic-steroids) là phương pháp điều trị y tế chính để kiểm soát bệnh, thường ở dạng prednisone hoặc prednisolone đường uống liều trung bình đến cao, hoặc dưới dạng methylprednisolone tiêm tĩnh mạch theo đợt. Kể từ khi sử dụng, nhiều ca tử vong do pemphigus thông thường đã được ngăn ngừa (tỷ lệ tử vong giảm từ 99% xuống còn 5–15%). Corticosteroid không phải là thuốc chữa khỏi bệnh nhưng cải thiện chất lượng cuộc sống của bệnh nhân bằng cách làm giảm hoạt động của bệnh. Liều lượng corticosteroid cần thiết để kiểm soát pemphigus thông thường và thời gian điều trị có thể dẫn đến các tác dụng phụ và rủi ro nghiêm trọng.
+Các thuốc ức chế miễn dịch khác (chủ yếu là thuốc không theo chỉ định) được sử dụng để giảm liều steroid và có thể cần thiết cho bệnh nhân mắc bệnh pemphigus thông thường trong nhiều năm. Những loại thuốc này thường là:
+- [Azathioprine](https://dermnetnz.org/topics/azathioprine-and-mercaptopurine)
+- [](https://dermnetnz.org/topics/gold) [Mycophenolate mofetil](https://dermnetnz.org/topics/mycophenolate-mofetil)
+- [Cyclophosphamide](https://dermnetnz.org/topics/cyclophosphamide)
+- [Rituximab](https://dermnetnz.org/topics/rituximab) , hiện đã được Cục Quản lý Thực phẩm và Dược phẩm (FDA) tại Hoa Kỳ chấp thuận.
+Các loại thuốc khác đôi khi được sử dụng trong bệnh pemphigus (thường kết hợp) bao gồm:
+- [Dapsone](https://dermnetnz.org/topics/dapsone)
+- [Methotrexate](https://dermnetnz.org/topics/methotrexate)
+- [Tetracycline](https://dermnetnz.org/topics/tetracycline)
+- [Nicotinamide](https://dermnetnz.org/topics/nicotinamide)
+- [Huyết tương tách](https://dermnetnz.org/topics/plasmapheresis-for-skin-disease)
+- [Globulin miễn dịch tiêm tĩnh mạch](https://dermnetnz.org/topics/intravenous-immunoglobulin)
+- [Quang phân ngoài cơ thể](https://dermnetnz.org/topics/extracorporeal-photopheresis)
+- Miễn dịch hấp phụ
+- Thuốc ức chế TNF α , [infliximab](https://dermnetnz.org/topics/infliximab-for-psoriasis) . [](https://dermnetnz.org/topics/infliximab-for-psoriasis)
+Ở liệu pháp tối ưu, bệnh nhân có thể tiếp tục gặp phải tình trạng bệnh nhẹ.
+Những cân nhắc khác bao gồm [tiêm chủng](https://dermnetnz.org/topics/immunisation-in-immunosuppressed-dermatology-patients) (vắc-xin sống chống chỉ định ), phòng ngừa xương , đánh giá nhãn khoa cơ bản và hỗ trợ tâm lý nếu cần.
+
+### Liệu pháp tại chỗ
+Liệu pháp tại chỗ cho bệnh pemphigus thông thường ở da có thể bao gồm [steroid tại chỗ](https://dermnetnz.org/topics/topical-steroid) và [thuốc làm mềm da](https://dermnetnz.org/topics/emollients-and-moisturisers) .
+Điều trị bệnh pemphigus niêm mạc thông thường có thể bao gồm nhiều dạng bào chế khác nhau của [steroid bôi ngoài da](https://dermnetnz.org/topics/topical-steroid) , [steroid tiêm vào tổn thương](https://dermnetnz.org/topics/intralesional-steroid-injection) , [tacrolimus](https://dermnetnz.org/topics/tacrolimus) bôi ngoài da hoặc [ciclosporin](https://dermnetnz.org/topics/ciclosporin) bôi ngoài da .
+
+### Quản lý chung
+Việc chăm sóc vết thương phù hợp đặc biệt quan trọng vì nó sẽ thúc đẩy quá trình chữa lành vết phồng rộp và vết trợt.
+- Xử lý da thật nhẹ nhàng để tránh gây phồng rộp và trầy xước mới.
+- Đeo găng tay phẫu thuật và sử dụng kỹ thuật vô trùng khi thay băng.
+- Thuốc giảm đau có thể cần thiết, đặc biệt là khi thay băng.
+- Nhẹ nhàng làm sạch bằng dung dịch [sát trùng](https://dermnetnz.org/topics/antiseptic) hoặc tắm bằng [thuốc tẩy](https://dermnetnz.org/topics/bleach-baths-in-patients-with-skin-infections) . [](https://dermnetnz.org/topics/bleach-baths-in-patients-with-skin-infections)
+- Hút sạch mụn nước còn nguyên vẹn nhưng vẫn giữ nguyên phần mái của mụn nước.
+- Bôi thuốc [mỡ làm mềm](https://dermnetnz.org/topics/emollients-and-moisturisers) da nhẹ , chẳng hạn như 50% parafin trắng mềm + 50% parafin lỏng, trực tiếp lên da hoặc bôi thuốc mỡ lên băng.
+- Sử dụng băng không dính (như gạc tẩm dầu khoáng hoặc lưới silicon). Những băng này có thể chứa chất khử trùng.
+- Có thể đắp băng thấm lên lớp băng ban đầu nếu vết loét đang rỉ dịch.
+- Hãy cảnh giác trong việc phát hiện và điều trị bất kỳ bệnh nhiễm trùng nào.
+Bệnh nhân nên hạn chế tối đa các hoạt động có thể gây tổn thương da và niêm mạc trong giai đoạn bệnh đang diễn biến. Những hoạt động này bao gồm các hoạt động như thể thao đối kháng và ăn uống những thực phẩm có thể gây kích ứng hoặc tổn thương bên trong miệng (thức ăn cay, chua, cứng và giòn).
+Vệ sinh răng miệng và chăm sóc răng miệng đúng cách là điều cần thiết.
+- Sử dụng bàn chải đánh răng mềm và kem đánh răng không có bạc hà để chải răng nhẹ nhàng và kỹ lưỡng hai lần mỗi ngày.
+- Súc miệng bằng [nước súc miệng](https://dermnetnz.org/topics/mouthwash) [có tính sát trùng](https://dermnetnz.org/topics/antiseptic) hoặc chống viêm . [](https://dermnetnz.org/topics/mouthwash)
+- Điều trị [bệnh nấm miệng](https://dermnetnz.org/topics/oral-candidiasis) nếu có.
+
+---
+
+## Triển vọng tương lai cho việc điều trị
+
+Hy vọng trong tương lai là phương pháp điều trị pemphigus sẽ đặc hiệu hơn với ít tác dụng phụ hơn. Thuốc đối kháng CD20 ofatumumab đã được báo cáo là có hiệu quả. Các nhà nghiên cứu đã thiết kế các tế bào T thụ thể tự kháng thể khảm đặc hiệu để loại bỏ các tế bào B đặc hiệu desmoglein-3 ở chuột. Việc sử dụng thụ thể Fc kháng nguyên sơ sinh đang được nghiên cứu kết hợp với [rituximab](https://dermnetnz.org/topics/rituximab) . [](https://dermnetnz.org/topics/rituximab)
+[Xem hình ảnh của bệnh pemphigus thông thường](https://dermnetnz-org.translate.goog/images/pemphigus-vulgaris-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)

@@ -1,0 +1,94 @@
+# Nốt ruồi hắc tố không điển hình — thông tin bổ sung
+
+Thể loại:
+
+Tổn thương (ung thư), Tổn thương (lành tính)
+
+SNOMED CT:
+
+254818000, 254819008
+
+**[Tổn thương (ung thư), Tổn thương (lành tính)](https://dermnetnz.org/topics/topics?category=Lesions+(cancerous))**
+
+
+# **Nốt ruồi hắc tố không điển hình**
+
+Tác giả: Vanessa Ngan, Biên tập viên; Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand, 2003.
+
+---
+
+## Nốt ruồi hắc tố là gì?
+
+Nốt ruồi hắc tố (tiếng Anh: melanocytic naevus , viết tắt là nevus ) là một [nốt ruồi](https://dermnetnz.org/topics/melanocytic-naevus) , một tổn thương da phổ biến bao gồm các tế bào naevus hoặc các tế bào hắc tố chuyên biệt. Có nhiều loại nốt ruồi hắc tố (melanocytic naevi - nevi).
+
+---
+
+## Bớt sắc tố không điển hình là gì?
+
+Nốt ruồi hắc tố không điển hình là [nốt ruồi](https://dermnetnz.org/topics/melanocytic-naevus) có những đặc điểm bất thường.
+- "Nốt ruồi hắc tố không điển hình" thường được viết tắt là "nốt ruồi không điển hình".
+- Tên gọi cũ của nốt ruồi hắc tố không điển hình bao gồm nốt ruồi Clark và nốt ruồi BK.
+- Một số người thích sử dụng thuật ngữ nốt ruồi loạn sản khi đề cập đến nốt ruồi bất thường, nhưng nói một cách chính xác thì nốt ruồi loạn sản là mô tả về mặt mô học của một loại nốt ruồi hắc tố cụ thể.
+
+---
+
+## Nốt ruồi bất thường trông như thế nào?
+
+Thuật ngữ nốt ruồi bất thường đôi khi được dùng để chỉ bất kỳ nốt ruồi nào có hình dạng kỳ lạ, và đôi khi để chỉ tổn thương tế bào hắc tố bị nghi ngờ là [u hắc tố](https://dermnetnz.org/topics/melanoma) (nốt ruồi ung thư).
+Một định nghĩa về nốt ruồi bất thường là nốt ruồi có ít nhất 3 đặc điểm sau đây.
+- Kích thước đường kính > 5 mm
+- Đường viền không rõ ràng hoặc mờ
+- Lề không đều dẫn đến hình dạng bất thường
+- Nhiều sắc thái màu khác nhau (chủ yếu là hồng, nâu rám nắng, nâu, đen)
+- Các thành phần phẳng và gồ ghề.
+![Nốt ruồi bất thường](https://dermnetnz.org/assets/Uploads/lesions/atyp1.jpg)
+![Nốt ruồi bất thường](https://dermnetnz.org/assets/Uploads/lesions/atyp2.jpg)
+![Nốt ruồi bất thường](https://dermnetnz.org/assets/Uploads/lesions/atyp3.jpg)
+[Xem thêm hình ảnh về nốt ruồi bất thường](https://dermnetnz-org.translate.goog/topics/atypical-naevus-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp) ...
+
+---
+
+## Ai bị nốt ruồi bất thường?
+
+Nốt ruồi bất thường có thể xuất hiện rải rác hoặc có thể do di truyền.
+
+### Nốt ruồi không điển hình rải rác
+Các nốt ruồi không điển hình rải rác chủ yếu ảnh hưởng đến những người da trắng có tóc sáng màu và [tàn nhang](https://dermnetnz.org/topics/brown-spots-and-freckles) ( [loại 1 hoặc 2](https://dermnetnz.org/topics/skin-phototype) ). Chúng sẽ xuất hiện nhiều hơn nếu thường xuyên tiếp xúc với ánh nắng mặt trời.
+Nốt ruồi không điển hình có thể xuất hiện bất cứ lúc nào, nhưng hầu hết xuất hiện trong vòng 15 năm đầu đời. Thông thường, những người bị nốt ruồi không điển hình rải rác có từ một đến mười nốt ruồi có đường kính lớn hơn 6 mm.
+
+### Nốt ruồi không điển hình gia đình
+Nốt ruồi không điển hình di truyền trong gia đình có thể là một phần của hội chứng FAMMM. FAMMM là viết tắt của Familial Atypical Multiple Mole and Melanoma (U hắc tố và nốt ruồi không điển hình di truyền). Những người mắc hội chứng FAMMM có các triệu chứng sau:
+- Một hoặc nhiều người thân cấp độ một hoặc cấp độ hai được chẩn đoán mắc bệnh ung thư hắc tố ở độ tuổi trẻ (< 40 tuổi);
+- Một số lượng lớn nốt ruồi (thường hơn 50), một số trong đó không điển hình;
+- Các nốt ruồi bị loạn sản trên mô bệnh học.
+Hội chứng FAMMM trước đây được gọi là hội chứng nốt ruồi loạn sản, hội chứng nốt ruồi bất thường và hội chứng nốt ruồi BK.
+Những người mắc hội chứng FAMMM có thể có tới hàng trăm nốt ruồi bất thường.
+![Nốt ruồi bất thường](https://dermnetnz.org/assets/Uploads/lesions/atyp4.jpg)
+![Naevi không điển hình](https://dermnetnz.org/assets/Uploads/lesions/atyp5.jpg)
+![Naevi không điển hình](https://dermnetnz.org/assets/Uploads/lesions/atyp6.jpg)
+
+---
+
+## Nốt ruồi loạn sản là gì?
+
+Thuật ngữ naevus loạn sản được sử dụng tốt nhất cho naevus có hình ảnh vi thể đặc hiệu . Chỉ một số ít naevus không điển hình về mặt lâm sàng đáp ứng các tiêu chuẩn vi thể của naevus loạn sản. Nhiều naevus loạn sản về mặt mô học là naevus đơn điệu về mặt lâm sàng (ví dụ, kích thước nhỏ, đồng đều về màu sắc và cấu trúc).
+Loạn sản mô học có thể nhẹ, trung bình hoặc nặng. Các tiêu chuẩn bệnh lý riêng biệt của nốt ruồi loạn sản được liệt kê ở đây.
+- Nốt ruồi loạn sản có thể là nốt ruồi nối (khi tế bào hắc tố được tìm thấy ở ranh giới biểu bì và hạ bì) hoặc nốt ruồi kép (khi tế bào hắc tố được tìm thấy ở ranh giới biểu bì và bên trong lớp hạ bì ).
+- Các tế bào naevus tạo thành một hàng dọc theo đường giao nhau giữa hạ bì và biểu bì (được báo cáo là sự tăng sinh dạng lentigin ), có hoặc không có các tế bào naevus trong các tổ (còn gọi là theques).
+- Những mảng này thường có kích thước và hình dạng không đều và có thể 'nối' hoặc nối với nhau.
+- Các tế bào có thể có hình thoi (dài) hoặc hình biểu mô (rộng, giống tế bào sừng biểu bì ).
+- Có thể có tình trạng bất thường về tế bào (tế bào nhỏ hơn hoặc lớn hơn bình thường).
+- Có thể có tình trạng xơ hóa hoặc sẹo ở lớp hạ bì.
+- Các tế bào viêm có thể xâm nhập vào tổn thương.
+- Các mạch máu liên quan có thể tăng về số lượng hoặc mở rộng.
+U hắc tố có thể xuất hiện trong nốt ruồi loạn sản, trong nốt ruồi hắc tố bình thường, không loạn sản hoặc thường gặp hơn là ở vùng da có vẻ ngoài bình thường.
+
+---
+
+## Tầm quan trọng của nốt ruồi bất thường là gì?
+
+Những người có từ 5 nốt ruồi bất thường về mặt lâm sàng trở lên có nguy cơ mắc [ung thư hắc](https://dermnetnz.org/topics/melanoma) tố cao hơn so với dân số chung ; nguy cơ tương đối được báo cáo là gấp sáu lần so với những người không có nốt ruồi bất thường. Những người mắc hội chứng FAMM có nguy cơ mắc ung thư hắc tố cực kỳ cao.
+Nốt ruồi melanocytic là vô hại ( lành tính ) và không cần phải loại bỏ. Tuy nhiên, ngay cả bác sĩ da liễu giàu kinh nghiệm cũng không dễ dàng phân biệt được tổn thương là nốt ruồi hay u hắc tố, đặc biệt nếu có các đặc điểm bất thường. [Soi da](https://dermnetnz.org/topics/dermoscopy) bằng tay nghề chuyên môn có thể hữu ích. Nếu nghi ngờ, nên loại bỏ nốt ruồi bất thường đáng ngờ hoặc thay đổi bằng sinh thiết [cắt bỏ](https://dermnetnz.org/topics/excision-of-skin-lesions) . Tốt nhất nên tránh sinh thiết một phần, vì xét nghiệm có thể bỏ sót một ổ u hắc tố nhỏ. Bác sĩ giải phẫu bệnh thường sẽ đưa ra chẩn đoán chính xác, mặc dù đôi khi cần phải kiểm tra sâu hơn và/hoặc tham khảo ý kiến ​​thứ hai.
+Những người được chẩn đoán mắc nốt ruồi không điển hình nên được hướng dẫn cách [tự kiểm tra](https://dermnetnz.org/topics/self-skin-examination) da để phát hiện các tổn thương da mới và những thay đổi trên nốt ruồi hiện có, những dấu hiệu có thể chỉ ra sự phát triển của khối u ác tính. Những người có nhiều nốt ruồi nên thường xuyên đến gặp bác sĩ gia đình hoặc bác sĩ da liễu để kiểm tra da kỹ lưỡng.
+Việc lưu giữ hồ sơ hình ảnh nốt ruồi hắc tố (tốt nhất là kèm theo hình ảnh soi da ) thường rất hữu ích; việc lưu trữ kỹ thuật số tại phòng khám [giám sát da bằng hình ảnh](https://dermnetnz.org/topics/photographic-skin-surveillance) rất thuận tiện cho những người có nhiều nốt ruồi hoặc nốt ruồi không điển hình. Hình ảnh cận cảnh soi da nên được chụp lại theo định kỳ để có thể phát hiện sớm sự thay đổi và xác định mức độ nghiêm trọng của nó.
+Mọi người nên cẩn thận [chống nắng , nhưng đặc biệt quan trọng đối với những người có nhiều nốt ruồi hoặc nốt ruồi không điển hình. Tránh tiếp xúc quá nhiều với ánh nắng mặt trời và](https://dermnetnz.org/topics/sun-protection) [cháy nắng , mặc quần áo kín đáo và sử dụng](https://dermnetnz.org/topics/sunburn) [kem chống nắng](https://dermnetnz.org/topics/topical-sunscreen-agents) SPF50+ khi ra ngoài trời vào giữa trưa hoặc trong thời gian dài.

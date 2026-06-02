@@ -1,0 +1,161 @@
+# Vết cắn và vết đốt của động vật chân đốt — thông tin bổ sung
+
+Thể loại:
+
+Nhiễm trùng
+
+SNOMED CT:
+
+409985002, 409981006, 303312007, 28772006, 217706007, 24734008, 299071005, 403149008, 698297006, 55608001
+
+**[Nhiễm trùng](https://dermnetnz.org/topics/topics?category=Infestations)**
+
+
+# **Động vật chân đốt cắn và đốt**
+
+Tác giả: Vanessa Ngan, Cán bộ biên tập, 2003. Cập nhật bởi Hon A/Giáo sư Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand, tháng 10 năm 2015.
+
+---
+
+## Động vật chân khớp là gì?
+
+Động vật chân khớp bao gồm côn trùng, nhện ( hình nhện ), ve và bọ ve.
+- Động vật chân đốt có thể xâm nhập vào da người, đặc biệt là ghẻ và chấy rận
+- Chúng có thể gây ra vết cắn và vết đốt
+- Chúng có thể mang theo các bệnh như sốt rét, sốt vàng da và bệnh giun chỉ
+- Chúng có thể gây ra các tình trạng dị ứng như sốt cỏ khô, hen suyễn và [bệnh chàm dị ứng](https://dermnetnz.org/topics/atopic-dermatitis)
+
+### Côn trùng cắn
+![Không có caption](https://dermnetnz.org/assets/Uploads/arthropods/bites5.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/arthropods/bites2.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/insect-bites-001.jpg)
+
+---
+
+## Nguyên nhân nào gây ra vết cắn và vết đốt của động vật chân đốt?
+
+Vết cắn và đốt của côn trùng có thể được chia thành hai nhóm: có nọc độc và không có nọc độc. Một số ít loài nhện cũng có nọc độc.
+
+### Côn trùng có nọc độc (bọ đốt)
+Nọc [độc](https://dermnetnz.org/topics/bee-and-wasp-stings) thường là một cuộc tấn công của côn trùng có nọc độc, tiêm nọc độc gây đau đớn qua ngòi như một cơ chế tự vệ. Côn trùng có nọc độc bao gồm:
+- Con ong
+- Ong bắp cày
+- Ong bắp cày
+- Áo khoác vàng
+- Kiến [lửa](https://dermnetnz.org/topics/ant-bites-and-stings) .
+
+### Nhện độc
+[Vết cắn của nhện độc](https://dermnetnz.org/topics/spider-bite) rất hiếm gặp nhưng có khả năng gây độc thần kinh toàn thân nghiêm trọng (ví dụ, loài Lactrodectus ), hoặc thường gây độc tế bào tại chỗ (ví dụ, loài Loxosceles ). Phần lớn nhện nhà đều vô hại. Việc xác định loài nhện gây hại là rất quan trọng để xác định phương pháp điều trị, bao gồm cả thuốc kháng nọc độc.
+
+### Vết cắn của côn trùng không có nọc độc
+Côn trùng không độc chích vào da để hút máu. Điều này thường gây ngứa dữ dội. Các loại côn trùng không độc cắn bao gồm:
+- Muỗi
+- [Bọ chét](https://dermnetnz.org/topics/flea-bite)
+- [Đánh dấu](https://dermnetnz.org/topics/tick-bite)
+- [Rệp giường](https://dermnetnz.org/topics/bed-bugs)
+- [Chấy rận](https://dermnetnz.org/topics/lice)
+- [Bệnh ghẻ](https://dermnetnz.org/topics/scabies)
+
+### Sâu bướm và bướm đêm
+Một số [loài sâu bướm và bướm đêm có lông gây kích ứng và gai sắc nhọn, gây ra](https://dermnetnz.org/topics/skin-problems-due-to-caterpillars-and-moths) chứng nổi mề đay sẩn ngứa kéo dài , viêm da và phản ứng dị ứng.
+- Bướm đêm Calyptra.
+
+---
+
+## Ai thường bị động vật chân đốt cắn và đốt?
+
+Bất kỳ ai tiếp xúc với động vật chân khớp đều có thể bị cắn hoặc đốt. Môi trường sống của động vật chân khớp rất đa dạng và nguy cơ mắc bệnh của từng cá thể phụ thuộc phần lớn vào các yếu tố địa lý và khí hậu. Thời điểm trong ngày cũng có thể quan trọng. Ví dụ, một số loài muỗi đốt vào ban đêm và một số khác đốt vào ban ngày. Các yếu tố khác cần xem xét bao gồm:
+- Thực tế là người ta mặc ít quần áo hơn ở các vùng nhiệt đới hoặc vào mùa hè ở những nơi khác
+- Thực tế là có sự gia tăng tiếp xúc với côn trùng trong vườn hoặc rừng
+- Quá đông đúc, đi lại và vệ sinh kém
+- Vật nuôi hiện tại hoặc trước đây.
+Muỗi bị thu hút bởi nhiệt độ cơ thể, carbon dioxide trong không khí thở ra, mồ hôi của con người và hệ vi sinh vật trên cơ thể người.
+
+---
+
+## Các đặc điểm lâm sàng của vết cắn và vết đốt của động vật chân đốt là gì?
+
+Phản ứng khi chạm trán với động vật chân đốt phụ thuộc vào loài động vật đó, liệu nó có mang bệnh hay không và các yếu tố riêng lẻ như khả năng miễn dịch của vật chủ .
+Vết đốt có nọc độc của ong hoặc ong bắp cày thường gây cảm giác đau nhói hoặc đau kèm theo đỏ và sưng ở vùng bị đốt. Độ nhạy cảm với nọc độc sẽ ảnh hưởng đến phản ứng.
+- Phản ứng cục bộ lớn khiến tình trạng sưng tấy lan rộng hơn trong nhiều giờ.
+- [Phản vệ](https://dermnetnz.org/topics/anaphylaxis) gây ra [phù mạch](https://dermnetnz.org/topics/angioedema) , [nổi mề đay](https://dermnetnz.org/topics/urticaria-an-overview) và co thắt phế quản ngay lập tức và có thể đe dọa tính mạng.
+Vết côn trùng cắn biểu hiện bằng một hoặc nhiều nốt sẩn ngứa dữ dội ở vùng cơ thể tiếp xúc với côn trùng.
+- Cây trồng thường bị côn trùng cắn.
+- Sẩn thường sẽ biến mất sau vài giờ.
+- Bệnh có thể có mụn nước trong suốt hoặc xuất huyết ở trung tâm và kéo dài trong nhiều ngày.
+- Gãi sẽ gây ra vết loét hở.
+
+### Côn trùng cắn
+![Không có caption](https://dermnetnz.org/assets/Uploads/arthropods/bites3.jpg)
+![Vết côn trùng cắn phồng rộp](https://dermnetnz.org/assets/Uploads/doctors/arthropods/images/bite1.jpg)
+![Phản ứng nổi mề đay tức thì](https://dermnetnz.org/assets/Uploads/doctors/arthropods/images/bite2.jpg)
+Thêm hình ảnh về [vết côn trùng cắn](https://dermnetnz-org.translate.goog/topics/insect-bite-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp) ...
+
+---
+
+## Biến chứng do vết cắn và vết đốt của động vật chân đốt
+
+Các biến chứng do vết cắn của động vật chân đốt bao gồm:
+- Nhiễm trùng thứ phát do [tụ cầu](https://dermnetnz.org/topics/staphylococcal-skin-infection) và/hoặc [liên cầu](https://dermnetnz.org/topics/streptococcal-skin-infections) ( [chốc lở](https://dermnetnz.org/topics/impetigo) , [viêm mô tế bào](https://dermnetnz.org/topics/cellulitis) )
+- [Mề đay sẩn](https://dermnetnz.org/topics/papular-urticaria)
+- Phản ứng côn trùng cắn dai dẳng
+- Nhiễm trùng do động vật chân khớp gây ra.
+
+### Mề đay sẩn
+[Mày đay sẩn](https://dermnetnz.org/topics/papular-urticaria) là một phản ứng quá mẫn , thường gặp nhất ở trẻ nhỏ do bọ chét cắn và/hoặc muỗi đốt. Các vết cắn mới thường đi kèm với sự tái hoạt của các vết cắn cũ và biểu hiện dưới dạng các sẩn ngứa, nổi cục đối xứng . Mày đay sẩn sẽ tự khỏi khi cơ thể phát triển khả năng dung nạp miễn dịch .
+
+### Phản ứng côn trùng cắn dai dẳng
+Phản ứng dai dẳng đơn độc do côn trùng cắn có thể là nổi mề đay, mụn nước, viêm mạch hoặc u hạt.
+
+### Nhiễm trùng do động vật chân đốt gây ra
+Các bệnh mà động vật chân khớp cụ thể là vật trung gian truyền bệnh xảy ra trên toàn thế giới nhưng đặc biệt phổ biến ở các vùng nhiệt đới và đang phát triển .
+Chúng bao gồm:
+- Ký sinh trùng : sốt rét, [bệnh leishmaniasis](https://dermnetnz.org/topics/leishmaniasis) , [bệnh trypanosomiasis](https://dermnetnz.org/topics/african-trypanosomiasis)
+- Vi khuẩn : [Bệnh Lyme](https://dermnetnz.org/topics/lyme-disease) , [bệnh dịch hạch](https://dermnetnz.org/topics/plague) , [bệnh u mạch do trực khuẩn](https://dermnetnz.org/topics/bacillary-angiomatosis) , [sốt hồi quy](https://dermnetnz.org/topics/tick-borne-relapsing-fever) , bệnh [tularemia](https://dermnetnz.org/topics/tularaemia) , bệnh [babesiosis](https://dermnetnz.org/topics/babesiosis) , [bệnh thối rữa](https://dermnetnz.org/topics/carrion-disease)
+- Bệnh do virus: [sốt xuất huyết](https://dermnetnz.org/topics/dengue) , [sốt chikungunya](https://dermnetnz.org/topics/chikungunya-fever) , [sốt zika](https://dermnetnz.org/topics/zika-virus)
+- [Bệnh Rickettsia](https://dermnetnz.org/topics/rickettsial-diseases) : sốt phát ban.
+
+---
+
+## Làm thế nào để chẩn đoán vết cắn và vết đốt của động vật chân đốt?
+
+Thông thường, mọi người đều biết về vết cắn, đặc biệt là nếu họ đã quan sát thấy loài chân khớp này, nhưng đôi khi họ không biết. Biểu hiện lâm sàng thường là điển hình.
+[Sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) có thể gợi ý nếu thấy điểm giữa , chứng xốp hóa ưa eosin và thâm nhiễm da hỗn hợp hình nêm phân bố xung quanh ống dẫn/ tuyến mồ hôi.
+
+---
+
+## Cách điều trị vết cắn và vết đốt của động vật chân đốt là gì?
+
+
+### Đốt
+Nếu phản ứng nhẹ, nên xử lý vết đốt bằng cách loại bỏ ngòi chích trước. Điều này là cần thiết vì ngòi chích vẫn tiếp tục bơm nọc độc từ túi của nó cho đến khi hết hoặc được loại bỏ.
+- Đặt một vật cứng như dao hoặc thẻ tín dụng vào vùng da gần ngòi đốt.
+- Dùng lực ấn liên tục và cạo trên bề mặt da để loại bỏ ngòi. Cách này tốt hơn so với dùng nhíp hoặc ngón tay, vì có thể vô tình đẩy thêm nọc độc vào người nạn nhân.
+- Làm sạch vị trí bằng chất khử trùng.
+- Chườm đá hoặc chườm lạnh để giảm đau và sưng. Có thể bôi kem steroid hoặc kem dưỡng da calamine nhiều lần trong ngày cho đến khi các triệu chứng thuyên giảm. Nếu cần, có thể dùng [thuốc kháng histamine đường uống.](https://dermnetnz.org/topics/antihistamines) [](https://dermnetnz.org/topics/antihistamines)
+Nếu vết đốt của côn trùng gây ra phản ứng nghiêm trọng hoặc [sốc phản vệ](https://dermnetnz.org/topics/anaphylaxis) , cần được chăm sóc y tế khẩn cấp. Nếu bệnh nhân được biết là bị dị ứng với vết đốt của côn trùng, họ có thể mang theo bộ dụng cụ dị ứng có chứa [adrenaline](https://dermnetnz.org/topics/the-physiology-and-pharmacology-of-adrenaline) ( epinephrine ).
+
+### Côn trùng cắn
+Mục đích chính của việc điều trị vết côn trùng cắn là ngăn ngừa ngứa.
+- Làm mát vùng bị ảnh hưởng.
+- Bôi kem calamine hoặc [thuốc gây tê tại chỗ](https://dermnetnz.org/topics/local-anaesthesia) .
+- [Thuốc kháng histamine](https://dermnetnz.org/topics/antihistamines) đường uống giúp giảm ngứa và vết loét.
+- Sử dụng [steroid bôi ngoài da](https://dermnetnz.org/topics/topical-steroid) có hiệu lực vừa phải cho bệnh mề đay sẩn hoặc các phản ứng dai dẳng.
+Vết cắn của côn trùng mang bệnh cần phải dùng thuốc kháng khuẩn đặc hiệu để điều trị bệnh.
+
+---
+
+## Làm thế nào để ngăn ngừa vết cắn và vết đốt của động vật chân đốt?
+
+Các biện pháp đơn giản sau đây có thể ngăn ngừa vết đốt và vết cắn của động vật chân đốt:
+- Mặc quần áo che phủ toàn bộ cơ thể.
+- Đóng cửa sổ và cửa ra vào vào ban đêm.
+- Tránh sử dụng [nước hoa](https://dermnetnz.org/topics/fragrances-and-perfumes) và quần áo sáng màu để giảm nguy cơ bị ong đốt.
+- Kiểm soát mùi hôi ở các khu vực dã ngoại và rác thải có thể thu hút côn trùng.
+- Phá hủy hoặc di dời tổ ong hoặc tổ ong gần nhà.
+- Thoát nước các vũng nước đọng thu hút muỗi.
+- Sử dụng thiết bị đuổi côn trùng bằng điện và cuộn dây có đèn.
+- Thường xuyên tẩy bọ chét cho mèo, chó và các vật nuôi khác trong nhà.
+- Thoa [thuốc chống côn trùng](https://dermnetnz.org/topics/insect-repellent) có chứa DEET (diethyltoluamide) lên vùng da hở.
+- Thoa permethrin lên quần áo để bảo vệ trong 2 tuần, sau hai lần giặt. Bạn cũng có thể thoa trực tiếp lên vùng da hở để xua đuổi côn trùng trong vài ngày.
+- Thiamine (vitamin B1) có thể được sử dụng như thuốc xua đuổi côn trùng toàn thân (da có mùi đặc trưng).

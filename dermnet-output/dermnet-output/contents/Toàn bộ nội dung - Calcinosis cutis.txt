@@ -1,0 +1,95 @@
+# Calcinosis cutis – thông tin bổ sung
+
+Thể loại:
+
+Bệnh hệ thống
+
+SNOMED CT:
+
+21323007, 403514006, 62382002, 733202007, 402731008, 238956000
+
+**[Bệnh hệ thống](https://dermnetnz.org/topics/topics?category=Systemic+diseases)**
+
+
+# **Vôi hóa da**
+
+Tác giả: Vanessa Ngan, Biên tập viên, 2005.
+
+---
+
+## Vôi hóa da là gì?
+
+Sự lắng đọng canxi trong da, mô dưới da , cơ và các cơ quan nội tạng được gọi là calci hóa. Tình trạng này thường xảy ra ở da, được gọi là calcinosis cutis hoặc calci hóa da .
+
+---
+
+## Nguyên nhân nào gây ra bệnh canxi hóa da?
+
+Bệnh vôi hóa da được chia thành bốn loại chính.
+
+### Bệnh vôi hóa da do loạn dưỡng
+Bệnh vôi hóa da loạn dưỡng xảy ra ở vùng da bị tổn thương, viêm, u tân sinh hoặc hoại tử . Tổn thương mô có thể do các yếu tố cơ học, hóa học, nhiễm trùng hoặc các yếu tố khác. Nồng độ canxi và phosphat huyết thanh bình thường . Các bệnh lý có thể gây ra bệnh vôi hóa da loạn dưỡng bao gồm:
+- Tổn thương
+- [Mụn trứng cá](https://dermnetnz.org/topics/acne-and-other-follicular-disorders)
+- [Tĩnh mạch giãn](https://dermnetnz.org/topics/varicose-veins)
+- Nhiễm trùng
+- Khối u (u nang, [u xơ tử cung](https://dermnetnz.org/topics/cutaneous-cysts-and-pseudocysts) , [ung thư biểu mô tế bào đáy](https://dermnetnz.org/topics/basal-cell-carcinoma) và các loại khác)
+- Bệnh mô liên kết ( [viêm da cơ](https://dermnetnz.org/topics/adult-onset-dermatomyositis) , [xơ cứng hệ thống](https://dermnetnz.org/topics/systemic-sclerosis) , [lupus ban đỏ da](https://dermnetnz.org/topics/cutaneous-lupus-erythematosus) )
+- [Viêm mô mỡ dưới da](https://dermnetnz.org/topics/panniculitis)
+- Các bệnh di truyền của mô liên kết ( [hội chứng Ehlers-Danlos](https://dermnetnz.org/topics/ehlers-danlos-syndrome) , [hội chứng Werner](https://dermnetnz.org/topics/premature-ageing-syndromes-progeria) , [bệnh giả u vàng sợi đàn hồi](https://dermnetnz.org/topics/pseudoxanthoma-elasticum) , [hội chứng Rothmund-Thomson](https://dermnetnz.org/topics/rothmund-thomson-syndrome) )
+![Xơ cứng hệ thống](https://dermnetnz.org/assets/Uploads/systemic/calcinosis.jpg)
+![Xơ cứng hệ thống](https://dermnetnz.org/assets/Uploads/systemic/calcinosis1.jpg)
+![Viêm da cơ](https://dermnetnz.org/assets/Uploads/dermatomyositis-calcinosis-45.jpg)
+
+### Vôi hóa da di căn
+Bệnh vôi hóa da di căn xảy ra trong bối cảnh chuyển hóa canxi và phosphat bất thường và thường liên quan đến tăng calci huyết và/hoặc tăng phosphat huyết. Các tình trạng có thể gây ra bệnh vôi hóa da di căn có thể bao gồm:
+- Cường cận giáp nguyên phát hoặc thứ phát
+- Tăng canxi huyết do ung thư cận u
+- Bệnh xương hủy hoại, chẳng hạn như bệnh Paget
+- Hội chứng sữa-kiềm
+- [Lượng vitamin D](https://dermnetnz.org/topics/vitamin-d) nạp vào quá nhiều
+- [Bệnh sarcoidosis](https://dermnetnz.org/topics/sarcoidosis)
+- Suy thận mãn tính
+- [Vôi hóa mô](https://dermnetnz.org/topics/calciphylaxis) .
+
+### Vôi hóa da tự phát
+Vôi hóa da vô căn thường xảy ra khi không có tổn thương mô hoặc khiếm khuyết chuyển hóa toàn thân nào được biết đến. Vôi hóa thường khu trú ở một vùng chung.
+
+### Viêm da do nguyên nhân y khoa
+Viêm da do can xi gây ra là tình trạng thứ phát sau một quá trình điều trị hoặc thủ thuật, ví dụ như tiêm canxi hoặc phosphat, và lắng đọng canxi ở trẻ sơ sinh do chọc gót chân nhiều lần.
+
+---
+
+## Dấu hiệu và triệu chứng của bệnh canxi hóa da là gì?
+
+Các dấu hiệu và triệu chứng của calci hóa da thay đổi tùy theo nguyên nhân tiềm ẩn. Trong nhiều trường hợp, các tổn thương phát triển dần dần và thường không có triệu chứng. Các tổn thương thường biểu hiện dưới dạng các sẩn, mảng hoặc nốt sần cứng , màu trắng/vàng nhạt trên bề mặt da. Có thể xuất hiện một tổn thương đơn độc , mặc dù nhiều tổn thương thường gặp hơn. Các tổn thương có thể trở nên mềm và loét, tiết ra chất kem giống phấn, chủ yếu là canxi phosphat với một lượng nhỏ canxi cacbonat.
+Tổn thương ở đầu ngón tay có thể gây đau, trong khi tổn thương ở các vị trí khác có thể hạn chế vận động khớp và hạn chế chuyển động do da bị cứng. Trong trường hợp nghiêm trọng, [hoại tử](https://dermnetnz.org/topics/dry-gangrene) da có thể xảy ra.
+
+---
+
+## Bệnh canxi hóa da được chẩn đoán như thế nào?
+
+Các xét nghiệm trong phòng thí nghiệm được thực hiện để xác định bất kỳ bất thường nào về chuyển hóa có thể dẫn đến tăng nồng độ canxi và phosphate. Các xét nghiệm hình ảnh bao gồm chụp X-quang phim thường quy, chụp CT và xạ hình xương rất hữu ích trong việc xác định mức độ vôi hóa mô.
+[Sinh thiết](https://dermnetnz.org/topics/skin-biopsy) các tổn thương da được sử dụng để xác nhận chẩn đoán. Trên [mô học của bệnh vôi hóa da](https://dermnetnz.org/topics/calcinosis-cutis-pathology) , các hạt và lắng đọng canxi được nhìn thấy trong lớp hạ bì , thường kèm theo phản ứng tế bào khổng lồ dị vật xung quanh . Lắng đọng canxi cũng có thể được tìm thấy trong mô dưới da.
+
+---
+
+## Phương pháp điều trị bệnh vôi hóa da là gì?
+
+Cần xác định nguyên nhân cơ bản gây vôi hóa da và điều trị phù hợp. Liệu pháp y tế có thể được sử dụng để giúp giảm các triệu chứng của bệnh, nhưng nhìn chung hiệu quả chỉ ở mức hạn chế và không đồng đều.
+Các loại thuốc có thể thử bao gồm:
+- Corticosteroid
+- Thuốc bisphosphonates
+- Probenecid
+- Colchicin
+- Diltiazem
+- Thuốc kháng axit magie và nhôm
+- Natri thiosunfat bôi ngoài da
+- Warfarin
+- Thuốc Treprostinil.
+Phẫu thuật hoặc loại bỏ tổn thương bằng carbon dioxide được chỉ định khi:
+- Trở nên rất đau đớn
+- Có thể xảy ra loét và nhiễm trùng tái phát
+- Gây suy giảm chức năng.
+Do chấn thương phẫu thuật có thể kích thích canxi hóa thêm, tốt nhất nên cắt bỏ một vị trí nhỏ trước khi tiến hành cắt bỏ diện rộng. Tái phát thường xảy ra sau khi cắt bỏ.
+Tùy thuộc vào nguyên nhân cơ bản, có thể cần đến một nhóm bác sĩ đa chuyên khoa bao gồm bác sĩ chuyên khoa thận, bác sĩ chuyên khoa thấp khớp và bác sĩ chuyên khoa huyết học để điều trị tình trạng bệnh.

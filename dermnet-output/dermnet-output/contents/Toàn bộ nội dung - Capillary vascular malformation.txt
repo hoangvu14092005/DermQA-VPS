@@ -1,0 +1,98 @@
+# Dị dạng mạch máu mao mạch — thông tin bổ sung
+
+Thể loại:
+
+Các vấn đề về mạch máu
+
+SNOMED CT:
+
+703299009, 767127000, 254211001, 254206003, 416377005, 763714006, 403856000, 721105004, 19886006, 234143003
+
+**[Các vấn đề về mạch máu](https://dermnetnz.org/topics/topics?category=Blood+vessel+problems)**
+
+
+# **Dị dạng mạch máu mao mạch**
+
+Tác giả: Vanessa Ngan, Biên tập viên, 2003. Cập nhật bởi Tiến sĩ Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand, 2014.
+
+---
+
+## Dị dạng mạch máu mao mạch là gì?
+
+Dị dạng mạch máu mao mạch (nốt ruồi giãn mao mạch hoặc nốt ruồi) đôi khi bị gọi nhầm là u máu phẳng. Đây không phải là u máu mà là các mạch máu giãn nở bất thường trên da. Tổn thương không phải ung thư và xuất hiện dưới dạng các mảng da đổi màu đỏ hoặc tím trên bất kỳ bộ phận nào của cơ thể. Chúng luôn xuất hiện ngay từ khi sinh, mặc dù có thể trở nên rõ ràng hơn theo thời gian. Chúng có thể thay đổi kích thước từ một chấm nhỏ đến đôi khi ảnh hưởng đến toàn bộ chi, và chúng phát triển theo tỷ lệ tăng trưởng chung của trẻ.
+
+---
+
+## Các loại dị dạng mạch máu mao mạch
+
+Hai dị tật mạch máu mao mạch phổ biến là nốt [ruồi đơn](https://dermnetnz.org/topics/naevus-simplex) ( [mảng da cá hồi](https://dermnetnz.org/topics/naevus-simplex) ) và vết bớt rượu vang ( nốt ruồi flammeus). [](https://dermnetnz.org/topics/naevus-simplex) [](https://dermnetnz.org/topics/naevus-simplex)
+
+### Nốt ruồi đơn giản
+[Nốt ruồi đơn](https://dermnetnz.org/topics/naevus-simplex) rất phổ biến và xuất hiện ở khoảng 40% trẻ sơ sinh. Chúng thường là những mảng da nhỏ, phẳng, màu hồng hoặc đỏ, ranh giới không rõ ràng. Chúng thường xuất hiện ở gáy (vết cò cắn, ban đỏ gáy), trên trán, giữa hai lông mày (vết cò hôn) hoặc trên [mí mắt](https://dermnetnz.org/topics/eyelid-skin-problems) . Chúng trở nên đậm màu hơn và dễ nhận thấy hơn khi trẻ khóc. Hầu hết các tổn thương sẽ tự biến mất trong năm đầu đời. Vết cò cắn thường dai dẳng hơn và có thể không thay đổi cho đến khi trưởng thành ở 50% trường hợp.
+![Nốt ruồi đơn giản](https://dermnetnz.org/assets/Uploads/vascular/stork2.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/vascular/stork3.jpg)
+![Nốt ruồi đơn ở người lớn](https://dermnetnz.org/assets/Uploads/vascular/stork.jpg)
+
+### Bớt rượu vang
+Bớt rượu vang đỏ ít phổ biến hơn nhiều so với mảng da cá hồi, chỉ xuất hiện ở khoảng 0,3% trẻ sơ sinh. Bớt rượu vang đỏ thường là một mảng da lớn , phẳng, màu tím hoặc đỏ sẫm, có ranh giới rõ ràng . Khi mới sinh, bề mặt của bớt rượu vang đỏ phẳng, nhưng theo thời gian, nó trở nên gồ ghề và thường mất thẩm mỹ hơn. Mặt là vị trí thường bị ảnh hưởng nhất, mặc dù chúng có thể xuất hiện ở bất kỳ vị trí nào trên cơ thể. Nếu có, chúng thường xuất hiện ở một bên cơ thể với đường cắt rõ nét ở giữa.
+Một số vết bớt rượu vang đỏ có thể mờ dần theo thời gian, nhưng hầu hết vẫn giữ nguyên hoặc thậm chí có thể đậm màu hơn. Chúng không tự teo lại hoặc biến mất một cách tự nhiên. Nếu vết bớt rượu vang đỏ ảnh hưởng đến mặt và cổ, nó có thể ảnh hưởng nghiêm trọng đến sự phát triển xã hội, tâm lý và kinh tế của trẻ.
+![Bớt rượu vang](https://dermnetnz.org/assets/Uploads/vascular/pws6.jpg)
+![Bớt rượu vang](https://dermnetnz.org/assets/Uploads/vascular/pws2.jpg)
+![Bớt rượu vang](https://dermnetnz.org/assets/Uploads/vascular/haeman2.jpg)
+![Bớt rượu vang](https://dermnetnz.org/assets/Uploads/vascular/pws3.jpg)
+![Bớt rượu vang](https://dermnetnz.org/assets/Uploads/vascular/s/pws4.jpg)
+![Bớt rượu vang](https://dermnetnz.org/assets/Uploads/vascular/s/pws5.jpg)
+
+### Hội chứng mạch máu
+Hầu hết các nốt ruồi mao mạch không liên quan đến các bất thường khác. Tuy nhiên, có một số hội chứng hiếm gặp có thể xuất hiện cùng với loại bớt này:
+- [Hội chứng Sturge-Weber](https://dermnetnz.org/topics/sturgeweber-syndrome)
+- Hội chứng Parkes Weber
+- [Hội chứng Klippel-Trénaunay](https://dermnetnz.org/topics/klippel-trenaunay-syndrome)
+- Dị dạng mao mạch - tĩnh mạch da tăng sừng
+- [Hội chứng Proteus](https://dermnetnz.org/topics/proteus-syndrome)
+[Hội chứng Sturge-Weber](https://dermnetnz.org/topics/sturgeweber-syndrome) còn được gọi là u mạch não tam thoa. Đây là tình trạng dị dạng mạch máu mao mạch ảnh hưởng đến da được chi phối bởi một nhánh của dây thần kinh tam thoa ở mặt, kèm theo các khiếm khuyết ở mô bên dưới. Những khiếm khuyết này có thể dẫn đến teo não, vôi hóa bên trong hộp sọ, co giật , u mạch màng não và các bất thường về mắt ( glaucoma , teo dây thần kinh thị giác ). Hội chứng Sturge-Weber là do đột biến thể gen GNAQ.
+Hội chứng Parkes-Weber đề cập đến sự kết hợp giữa dị dạng mạch máu mao mạch với [dị dạng động tĩnh mạch](https://dermnetnz.org/topics/venous-malformation) . Bớt thường khá lớn. Nó thường có màu hồng nhạt, nhưng cũng có thể có màu đỏ tươi. Chi bị ảnh hưởng ấm hơn và dài hơn bên còn lại, mặc dù hình dạng bình thường. Có thể cảm thấy "rung" do lưu lượng máu cao qua dị dạng động tĩnh mạch. Bác sĩ nghe bằng ống nghe có thể nghe thấy tiếng rít hoặc "tiếng thổi". Đôi khi có hiện tượng tim to, có thể dẫn đến suy tim.
+Hội chứng Klippel-Trénaunay đề cập đến sự kết hợp của dị dạng mạch máu mao mạch với dị dạng tĩnh mạch và bạch huyết . Bớt đỏ trên bề mặt thường nhỏ hoặc loang lổ nhưng nổi bật. Dị dạng bạch huyết có thể chứa các nang lớn chứa đầy dịch (macrocystic) hoặc các cụm nang nhỏ hơn (microcystic). Chi bị ảnh hưởng rộng hơn và cồng kềnh hơn bên còn lại, và đôi khi dài hơn. Đôi khi chi bị ảnh hưởng nhỏ hơn chi còn lại. Hội chứng có thể phức tạp hơn do cục máu đông ( [viêm tắc tĩnh mạch](https://dermnetnz.org/topics/superficial-thrombophlebitis) ), rò bạch huyết , nhiễm trùng ( [viêm mô tế bào](https://dermnetnz.org/topics/cellulitis) ), loét và chảy máu.
+Dị dạng mao mạch-tĩnh mạch da tăng sừng thường ảnh hưởng đến các mô xung quanh mắt. Bệnh có thể liên quan đến dị dạng mạch máu não, được gọi là "u hang". Rối loạn này di truyền trội trên nhiễm sắc thể thường , ảnh hưởng đến một nửa số con của người mắc bệnh. Nguyên nhân là do đột biến gen KRIT1.
+[Hội chứng Proteus](https://dermnetnz.org/topics/proteus-syndrome) rất hiếm gặp và được cho là do gen ức chế khối u PTEN bất thường . Hội chứng này có các biểu hiện rất đa dạng như bàn tay, bàn chân to hoặc một bên cơ thể, nhiều loại vết bớt bao gồm dị tật mạch máu, [nốt ruồi mô liên kết](https://dermnetnz.org/topics/connective-tissue-naevi) , [nốt ruồi biểu bì](https://dermnetnz.org/topics/epidermal-naevi) , bất thường hộp sọ và khối u mỡ ( [u mỡ](https://dermnetnz.org/topics/lipoma-and-liposarcoma) ) dưới da và bên trong.
+
+### Các dị dạng mạch máu mao mạch khác
+Nốt ruồi mạch lưới có liên quan chặt chẽ với vết bớt rượu vang. Điểm khác biệt chính là nốt ruồi lưới thường tự cải thiện và mờ dần theo thời gian.
+![Không có caption](https://dermnetnz.org/assets/Uploads/vascular/retic1.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/vascular/retic2.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/vascular/retic3.jpg)
+U sừng hóa mạch máu (angiokeratoma circumscriptum) là một tổn thương dạng mụn cóc , màu đỏ sẫm , thường gặp nhất ở cẳng chân hoặc bàn chân. Tổn thương thường được bao phủ bởi các mảng da sần sùi, có vảy. Trong nhiều trường hợp, u sừng hóa mạch máu xuất hiện từ khi sinh ra nhưng cũng có thể phát triển ở trẻ em hoặc người lớn. [U sừng hóa mạch máu](https://dermnetnz.org/topics/angiokeratoma) chủ yếu là tổn thương mạch máu vô hại và thường không cần điều trị. [](https://dermnetnz.org/topics/angiokeratoma)
+![U mạch sừng hóa](https://dermnetnz.org/assets/Uploads/vascular/ak-circum.jpg)
+
+---
+
+## Nguyên nhân gây ra dị dạng mạch máu mao mạch là gì?
+
+Hiện nay, dị dạng mạch máu mao mạch được biết đến là do bất thường di truyền và thường có tính chất gia đình. Các nhà nghiên cứu đã tìm thấy đột biến ở gen GNAQ trên nhiễm sắc thể 9q21 ở phần lớn bệnh nhân bị bớt rượu vang và hội chứng Surge-Weber.[2]
+
+---
+
+## Cần phải tiến hành những cuộc điều tra nào?
+
+Dị dạng mạch máu mao mạch thường được chẩn đoán lâm sàng và không cần thăm khám đối với phần lớn các tổn thương phẳng. Tuy nhiên, khi chẩn đoán chưa chắc chắn hoặc các mô bên dưới có bị ảnh hưởng hay không, siêu âm thường được thực hiện. Đặc trưng của dị dạng mạch máu là các mạch máu nằm trong mô nền bình thường.
+Trong những trường hợp phức tạp hơn, có thể cần phải chụp cộng hưởng từ ( MRI ) hoặc chụp mạch để giúp lập kế hoạch điều trị.
+
+---
+
+## Phương pháp điều trị dị dạng mạch máu mao mạch là gì?
+
+Các mảng da cá hồi không cần điều trị, trong khi việc điều trị vết bớt rượu vang đỏ phụ thuộc vào vị trí, mức độ và bản chất của tổn thương trên cơ thể. Trước đây, việc che phủ thẩm mỹ là lời khuyên tốt nhất cho những người bị ảnh hưởng, nhưng hiện nay nhiều người có thể loại bỏ thành công hoặc cải thiện vẻ ngoài bằng [phương pháp điều trị bằng laser](https://dermnetnz.org/topics/lasers-in-dermatology) . Tốt nhất nên tham khảo ý kiến ​​chuyên gia và giới thiệu điều trị trước khi vào trường, nếu có thể.
+Laser [nhuộm xung](https://dermnetnz.org/topics/pulsed-dye-laser-treatment) (PDL) dường như là phương pháp điều trị được lựa chọn cho hầu hết các vết bớt rượu vang. Khoảng 40–45% bệnh nhân cải thiện ít nhất 75% sau 5 đến 25 lần điều trị. Một số tổn thương không đáp ứng với PDL có thể cải thiện khi được điều trị bằng các loại laser khác.
+Dị dạng mạch máu mao mạch có thể chảy máu sau chấn thương nhẹ và đôi khi chảy máu khó cầm ngay cả khi đã ấn. Trường hợp này không phổ biến.
+Các hội chứng phức tạp cần được đánh giá cẩn thận, thường là bởi một nhóm chuyên gia, bao gồm bác sĩ da liễu nhi khoa , bác sĩ nhi khoa, bác sĩ chẩn đoán hình ảnh , bác sĩ phẫu thuật thẩm mỹ và/hoặc bác sĩ phẫu thuật mạch máu. Các biện pháp sau đây hiếm khi cần thiết:
+- Tất nén hoặc băng bó để giảm sưng và bảo vệ khỏi chấn thương
+- Aspirin và đôi khi là thuốc chống đông máu như warfarin để ngăn ngừa cục máu đông
+- Cắt bỏ hoặc thắt (buộc) các mạch máu bất thường
+- Xơ hóa để điều trị giãn tĩnh mạch
+- Phẫu thuật cắt xương nếu chi dài hơn 2 cm so với cặp chi
+- Cắt cụt một ngón tay hoặc chi rất bất thường (ngón tay hoặc ngón cái)
+[Sirolimus](https://dermnetnz.org/topics/sirolimus) đường uống (ức chế sự hình thành mạch máu ) đang được nghiên cứu như một phương pháp điều trị y tế tiềm năng cho các dị tật mạch máu nghiêm trọng nhưng có thể có tác dụng phụ đáng kể [1].
+
+### Hiệu quả của điều trị bằng laser đối với dị dạng mạch máu
+![Bớt rượu vang - tác dụng của điều trị bằng laser](https://dermnetnz.org/assets/Uploads/vascular/s/pws-laser.jpg)
+[Xem thêm hình ảnh về dị dạng mạch máu.](https://dermnetnz.org/topics/vascular-malformation)

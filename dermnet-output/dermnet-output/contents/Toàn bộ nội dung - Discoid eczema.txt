@@ -1,0 +1,105 @@
+# Chàm dạng đĩa — thông tin bổ sung
+
+Thể loại:
+
+Bệnh chàm
+
+SNOMED CT:
+
+81418003, 402213006, 402214000, 402215004, 238543002
+
+**[Bệnh chàm](https://dermnetnz.org/topics/topics?category=Eczemas)**
+
+
+# **Chàm hình đĩa**
+
+Tác giả: Phó giáo sư Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand, 1997. Cập nhật tháng 7 năm 2014. Sửa đổi tháng 9 năm 2020.
+
+---
+
+## Chàm dạng đĩa là gì?
+
+Chàm hình đĩa là một loại chàm/ viêm da phổ biến , đặc trưng bởi các mảng chàm rải rác, rõ nét , có hình dạng hoặc kích thước bằng đồng xu . Chàm hình đĩa còn được gọi là viêm da đồng xu .
+![Chàm dạng đĩa ngày thứ 2](https://dermnetnz.org/assets/Uploads/discoid-eczema-day-2.jpg)
+![Chàm dạng đĩa ngày thứ 6](https://dermnetnz.org/assets/Uploads/discoid-eczema-day-6.jpg)
+![Chàm dạng đĩa ngày thứ 14](https://dermnetnz.org/assets/Uploads/discoid-eczema-day-14.jpg)
+[Nhấp để xem thêm hình ảnh về bệnh chàm dạng đĩa](https://dermnetnz-org.translate.goog/images/discoid-eczema-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+
+---
+
+## Nguyên nhân gây ra bệnh chàm dạng đĩa là gì?
+
+Nguyên nhân gây bệnh chàm dạng đĩa vẫn chưa được biết rõ. Một số trường hợp có liên quan đến nhiễm trùng [tụ cầu vàng](https://dermnetnz.org/topics/staphylococcal-skin-infection) .
+Sự phun trào có thể xảy ra do:
+- Một vết thương tại chỗ như trầy xước, [vết côn trùng cắn](https://dermnetnz.org/topics/arthropod-bites-and-stings) hoặc [bỏng nhiệt](https://dermnetnz.org/topics/thermal-burn)
+- [Chốc lở](https://dermnetnz.org/topics/impetigo) hoặc [nhiễm trùng vết thương](https://dermnetnz.org/topics/wound-infections)
+- [Viêm da tiếp xúc](https://dermnetnz.org/topics/contact-dermatitis)
+- [Da khô](https://dermnetnz.org/topics/dry-skin)
+- [Bệnh giãn tĩnh mạch](https://dermnetnz.org/topics/varicose-veins) (bệnh chàm giãn tĩnh mạch)
+
+---
+
+## Ai bị bệnh chàm dạng đĩa?
+
+Chàm dạng đĩa có thể ảnh hưởng đến mọi lứa tuổi. Bệnh phổ biến hơn một chút ở nam giới lớn tuổi và nữ giới trẻ tuổi. Ở nam giới, bệnh có liên quan đến chứng nghiện [rượu mãn](https://dermnetnz.org/topics/cutaneous-adverse-effects-of-alcohol) tính . Chàm dạng đĩa [do thuốc](https://dermnetnz.org/topics/drug-induced-nummular-dermatitis) có thể là do thuốc gây khô da. [](https://dermnetnz.org/topics/cutaneous-adverse-effects-of-alcohol) [](https://dermnetnz.org/topics/drug-induced-nummular-dermatitis)
+Chàm dạng đĩa có thể xảy ra kết hợp với [chàm dị ứng](https://dermnetnz.org/topics/atopic-dermatitis) , [chàm craquelé](https://dermnetnz.org/topics/asteatotic-eczema) và [chàm thứ phát](https://dermnetnz.org/topics/disseminated-secondary-eczema) .
+
+---
+
+## Các đặc điểm lâm sàng của bệnh chàm dạng đĩa là gì?
+
+Chàm dạng đĩa thường ảnh hưởng đến các chi, đặc biệt là chân, nhưng ban có thể lan rộng. Mặc dù thường ở cả hai bên , nhưng sự phân bố có thể không đối xứng, đặc biệt nếu liên quan đến giãn tĩnh mạch.
+Có hai dạng lâm sàng của bệnh chàm dạng đĩa:
+- Chàm dạng đĩa cấp tính xuất tiết : sẩn mủ , mụn nước và mảng bám
+- Chàm khô hình đĩa: mảng ban đỏ bán cấp hoặc mãn tính , khô
+Các mảng riêng lẻ có ranh giới rõ ràng , thường có đường kính 1–3 cm và bị viêm. Phần lớn các mảng có hình tròn hoặc hình bầu dục. Các mảng này thường rất ngứa. Vùng da giữa các mảng thường khô và dễ bị kích ứng.
+Bệnh chàm hình đĩa nghiêm trọng có thể lan rộng, với nhiều mảng ngứa nhỏ đến lớn xuất hiện khắp cơ thể do phản ứng [tự chàm hóa](https://dermnetnz.org/topics/disseminated-secondary-eczema) .
+Các mảng da có thể tự hết mà không để lại dấu vết. Ở da sẫm màu, các vết thâm có thể tồn tại trong nhiều tháng dưới dạng [tăng sắc tố sau viêm](https://dermnetnz.org/topics/postinflammatory-hyperpigmentation) màu nâu sẫm hoặc giảm sắc tố sau viêm nhạt màu .
+
+### Chàm hình đĩa xuất tiết
+![Chàm hình đĩa](https://dermnetnz.org/assets/Uploads/dermatitis/nummular4.jpg)
+![Chàm hình đĩa](https://dermnetnz.org/assets/Uploads/dermatitis/nummular6.jpg)
+![Chàm hình đĩa](https://dermnetnz.org/assets/Uploads/dermatitis/s/nummular9.jpg)
+![Viêm da dị ứng đồng xu nhiễm trùng](https://dermnetnz.org/assets/Uploads/dermatitis/s/eanumm2.jpg)
+[Nhấp để xem thêm hình ảnh về bệnh chàm dạng đĩa](https://dermnetnz-org.translate.goog/images/discoid-eczema-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+
+---
+
+## Bệnh chàm hình đĩa được chẩn đoán như thế nào?
+
+Trong hầu hết các trường hợp, biểu hiện của bệnh chàm hình đĩa khá đặc trưng.
+- Xét nghiệm vi khuẩn có thể phát hiện tình trạng nhiễm trùng hoặc nhiễm khuẩn [tụ cầu vàng](https://dermnetnz.org/topics/staphylococcal-skin-infection) .
+- Người ta thường lấy mẫu bệnh phẩm để [xét nghiệm nấm](https://dermnetnz.org/topics/mycology-of-dermatophyte-infections) vì bệnh chàm hình đĩa có thể trông rất giống với [bệnh nấm da](https://dermnetnz.org/topics/tinea-corporis) toàn thân (nhiễm nấm ngoài da).
+- [](https://dermnetnz.org/topics/patch-tests) Nên cân nhắc [thử nghiệm vá da trong trường hợp bệnh chàm dạng đĩa mãn tính vì](https://dermnetnz.org/topics/patch-tests) dị ứng tiếp xúc với kim loại, chẳng hạn như niken và cromat, thường được báo cáo.
+
+---
+
+## Chẩn đoán phân biệt bệnh chàm dạng đĩa là gì?
+
+Chàm hình đĩa có thể giống với các bệnh phát ban da hình khuyên khác bao gồm [bệnh nấm da thân](https://dermnetnz.org/topics/tinea-corporis) , [bệnh vẩy nến mảng bám](https://dermnetnz.org/topics/chronic-plaque-psoriasis) và [bệnh vảy phấn hồng](https://dermnetnz.org/topics/pityriasis-rosea) . [](https://dermnetnz.org/topics/tinea-corporis) [](https://dermnetnz.org/topics/chronic-plaque-psoriasis) [](https://dermnetnz.org/topics/pityriasis-rosea)
+
+---
+
+## Phương pháp điều trị bệnh chàm dạng đĩa là gì?
+
+Vì bệnh chàm dạng đĩa có liên quan đến việc mất chức năng hàng rào bảo vệ da nên điều quan trọng là:
+Bảo vệ da khỏi bị tổn thương. Loại viêm da này thường khởi phát sau những tổn thương da nhẹ, vì vậy cần bảo vệ da cẩn thận. Nếu tay bị ảnh hưởng, hãy sử dụng [găng tay](https://dermnetnz.org/topics/gloves-for-hand-protection) và dụng cụ để đảm bảo da không bị kích ứng do ma sát, chất tẩy rửa, dung môi, hóa chất khác hoặc nước quá nhiều.
+Thoa chất làm mềm da thường xuyên. [Chất làm mềm da](https://dermnetnz.org/topics/emollients-and-moisturisers) bao gồm dầu tắm, chất thay thế xà phòng và kem dưỡng ẩm. Chúng có thể được thoa lên vùng da bị viêm da thường xuyên tùy theo nhu cầu để giảm ngứa, bong tróc và khô da. Chất làm mềm da cũng nên được sử dụng trên vùng da không bị ảnh hưởng để giảm khô da. Có thể cần phải thử nhiều sản phẩm khác nhau để tìm ra sản phẩm phù hợp. Nhiều người thấy một hoặc nhiều sản phẩm sau đây hữu ích: kem glycerin và cetomacrogol , hỗn hợp parafin mềm trắng/parafin lỏng, kem béo, kem dưỡng da mỡ len hoặc kem urê.
+Tránh các chất gây dị ứng
+Nếu xét nghiệm áp da xác định được dị ứng tiếp xúc, cần tránh tiếp xúc với chất gây dị ứng .
+Các phương pháp điều trị chống viêm bao gồm:
+Steroid bôi ngoài da Steroid [bôi ngoài](https://dermnetnz.org/topics/topical-steroid) da là kem hoặc thuốc mỡ chống viêm có bán theo đơn, chỉ cần bôi lên vùng da bị tổn thương một hoặc hai lần mỗi ngày trong 2–4 tuần. Chúng cũng có thể được bán dưới dạng [băng dính tẩm steroid](https://dermnetnz.org/topics/steroid-impregnated-tape) . Steroid bôi ngoài da giúp giảm triệu chứng và làm sạch viêm da.
+[Thuốc](https://dermnetnz.org/topics/antibiotics) kháng sinh (ví dụ: [erythromycin](https://dermnetnz.org/topics/erythromycin) , [flucloxacillin](https://dermnetnz.org/topics/penicillin) ) thường được kê đơn nếu viêm da bị phồng rộp, dính hoặc đóng vảy. Đôi khi, chàm hình đĩa khỏi hoàn toàn khi dùng kháng sinh đường uống, nhưng lại tái phát khi ngừng thuốc.
+Các phương pháp điều trị khác đôi khi được kê đơn cho bệnh chàm đĩa nghiêm trọng bao gồm:
+Thuốc kháng histamine đường uống: Thuốc [kháng histamine](https://dermnetnz.org/topics/antihistamines) dạng viên có thể làm giảm ngứa ở một số bệnh nhân bị chàm dạng đĩa. Thuốc không làm hết phát ban.
+Điều trị bằng tia cực tím ( UV ) Liệu [pháp quang trị liệu](https://dermnetnz.org/topics/phototherapy) nhiều lần mỗi tuần trong 6–12 tuần đối với bệnh chàm hình đĩa lan rộng hoặc toàn thân có thể làm giảm ngứa và cải thiện tình trạng phát ban.
+Tiêm steroid: [Steroid nội tổn thương](https://dermnetnz.org/topics/intralesional-steroid-injection) đôi khi được tiêm vào một hoặc hai vùng đặc biệt cứng đầu của bệnh chàm hình đĩa. Phương pháp điều trị này không phù hợp cho nhiều tổn thương.
+Steroid đường uống: [Steroid toàn thân](https://dermnetnz.org/topics/systemic-steroids) được chỉ định cho các trường hợp chàm đĩa nặng và lan rộng. Thuốc thường được kê đơn trong vài tuần trước khi tiếp tục dùng steroid tại chỗ và thuốc làm mềm da trên vùng viêm da còn sót lại.
+Các phương pháp điều trị đường uống khác: Chàm dạng đĩa dai dẳng và khó chịu đôi khi được điều trị bằng [methotrexate](https://dermnetnz.org/topics/methotrexate) , [azathioprine](https://dermnetnz.org/topics/azathioprine-and-mercaptopurine) hoặc [ciclosporin](https://dermnetnz.org/topics/ciclosporin) . Những loại thuốc này cần được bác sĩ da liễu chuyên khoa theo dõi cẩn thận. Chúng có thể phù hợp hơn so với [steroid](https://dermnetnz.org/topics/systemic-steroids) toàn thân dùng lâu dài . [](https://dermnetnz.org/topics/systemic-steroids)
+
+---
+
+## Hậu quả của bệnh chàm dạng đĩa là gì?
+
+Chàm dạng đĩa thường là tình trạng mãn tính, dễ tái phát, đặc biệt là vào những tháng mùa đông lạnh giá. Nhiều trường hợp cuối cùng sẽ khỏi.
+[Nhấp để xem hình ảnh bệnh chàm dạng đĩa](https://dermnetnz-org.translate.goog/images/discoid-eczema-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)

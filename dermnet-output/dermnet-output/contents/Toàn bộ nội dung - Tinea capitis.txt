@@ -1,0 +1,170 @@
+# Nấm da đầu — thông tin bổ sung
+
+Thể loại:
+
+Nhiễm trùng
+
+SNOMED CT:
+
+5441008, 19087001, 768590001, 30668009, 403002006, 82597009, 73874002, 78854006, 85375000, 768591002
+
+**[Nhiễm trùng](https://dermnetnz.org/topics/topics?category=Infections)**
+
+
+# **Nấm da đầu**
+
+Trang được tạo năm 2003. Phó Giáo sư Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand. Cập nhật: Tiến sĩ Harriet Bell, Cán bộ Nội trú, Bệnh viện Middlemore, Auckland, New Zealand. Biên tập bởi Gus Mitchell. Tháng 9 năm 2020.
+
+---
+
+## Bệnh nấm da đầu là gì?
+
+[Nấm da đầu](https://dermnetnz.org/topics/tinea) là một [bệnh nhiễm nấm](https://dermnetnz.org/topics/fungal-skin-infections) da đầu, ảnh hưởng đến cả da và tóc. Bệnh còn được gọi là hắc lào da đầu. Các triệu chứng của nấm da đầu bao gồm rụng tóc, vùng da khô , đóng vảy, đỏ và ngứa. [Nấm râu](https://dermnetnz.org/topics/tinea-barbae) về cơ bản cũng là tình trạng tương tự ở vùng râu.
+![Nấm da đầu](https://dermnetnz.org/assets/Uploads/tinea-capitis-001.jpg)
+![Nấm da đầu](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/tinea-capitis.jpg)
+![Nấm da đầu](https://dermnetnz.org/assets/Uploads/site-age-specific/tinea-capitis-4.jpg)
+[Nhấp vào đây để xem thêm hình ảnh](https://dermnetnz-org.translate.goog/images/tinea-capitis-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+
+---
+
+## Ai bị bệnh nấm da đầu?
+
+Nấm da đầu chủ yếu ảnh hưởng đến trẻ em trước tuổi vị thành niên, với tỷ lệ mắc bệnh cao nhất ở độ tuổi từ ba đến bảy tuổi. Bệnh cũng có thể ảnh hưởng đến người lớn, đặc biệt là những người bị suy giảm miễn dịch. Nấm da đầu được tìm thấy ở hầu hết các nơi trên thế giới, mặc dù tỷ lệ lưu hành của một loài nấm cụ thể gây bệnh nấm da đầu khác nhau tùy theo vùng địa lý. Các yếu tố nguy cơ bao gồm tiếp xúc với động vật, nhà ở đông đúc, điều kiện kinh tế xã hội thấp , môi trường ấm áp ẩm ướt và thể thao đối kháng. Sự ra đời của các thuốc chống nấm, sự di chuyển dân số và việc cải thiện thực hành vệ sinh có liên quan đến sự phát triển của các mô hình nhiễm trùng.
+
+---
+
+## Nguyên nhân gây ra bệnh nấm da đầu là gì?
+
+Nấm da đầu là do [nấm dermatophyte](https://dermnetnz.org/topics/fungal-skin-infections) có khả năng xâm nhập vào các mô sừng hóa, chẳng hạn như tóc và móng. Mặc dù có hơn 40 loài dermatophyte khác nhau được biết đến, nhưng chỉ một số ít có liên quan đến nấm da đầu. Nấm da đầu có thể được phân loại thành ba nhóm lớn, tùy thuộc vào sở thích của vật chủ : loài ưa người (con người), loài ưa động vật (động vật), và loài ưa đất (đất).
+Ở New Zealand, Châu Âu và Châu Á, tác nhân gây bệnh phổ biến nhất là loài Microsporum canis ưa động vật có nguồn gốc từ mèo.
+Ví dụ về các loại nấm gây bệnh nấm da đầu khác bao gồm:
+- M. nanum (vật chủ — lợn)
+- M. distortum (biến thể của M. canis)
+- T. equinium (vật chủ — ngựa)
+- T. verrucosum (vật chủ — gia súc).
+Trichophyton tonsurans là một loại nấm da ưa người, là nguyên nhân phổ biến nhất gây bệnh nấm da đầu ở Hoa Kỳ. T. violaceum là một loại nấm ưa người được phát hiện ở New Zealand ở những bệnh nhân di cư từ Châu Phi hoặc Trung Đông.
+Ví dụ về các loại nấm ưa người khác gây bệnh nấm da đầu bao gồm:
+- T. soudanese
+- T. schoenleinii
+- T. rubrum
+- M. audouinii .
+Nấm ưa đất, chẳng hạn như M. gypseum , có nguồn gốc từ đất và là nguyên nhân hiếm gặp gây bệnh nấm da đầu.
+
+---
+
+## Bệnh nấm da đầu lây lan như thế nào?
+
+Nấm da đầu là một bệnh truyền nhiễm. Các loài ưa người lây lan sau khi tiếp xúc với người bị nhiễm bệnh, bao gồm cả người mang mầm bệnh không triệu chứng hoặc các vật dụng bị nhiễm (fomite). Các fomite có thể chứa các loài nấm da ưa người bao gồm lược, mũ, khăn tắm, chăn ga gối đệm, ghế sofa và đồ chơi; bào tử nấm có thể tồn tại trên những vật dụng này trong nhiều tháng. Các loài ưa động vật lây truyền từ động vật bị nhiễm bệnh, bao gồm thú cưng trong nhà (đặc biệt là mèo con) hoặc mèo và chó hoang. Các loài ưa động vật có thể lây truyền từ người sang người.
+
+---
+
+## Nhiễm trùng nấm da đầu xảy ra như thế nào?
+
+Sau khi xâm nhập vào lớp sừng sừng của da đầu (xem [cấu trúc da bình thường](https://dermnetnz.org/topics/the-structure-of-normal-skin) ), nấm phát triển xuống nang tóc và thân tóc. Nấm xâm nhập vào lớp biểu bì tóc và thường xâm nhập vào thân tóc theo một trong ba cách sau:
+- Nhiễm nấm ngoài nang lông: Nấm ngoài nang lông phát triển bên trong nang lông và bao phủ bề mặt tóc. Bào tử nấm xuất hiện ở bên ngoài thân tóc và lớp biểu bì bị phá hủy. M. canis là một loại nấm ngoài nang lông.
+- Nhiễm nấm nội sinh: Nấm dermatophyte xâm nhập vào thân tóc và phát triển bên trong. Bào tử nấm được giữ lại bên trong thân tóc, và lớp biểu bì không bị phá hủy. T. tonsurans là một loại nấm dermatophyte nội sinh.
+- [Nhiễm nấm Favus](https://dermnetnz.org/topics/favus) : một bệnh nhiễm nấm dermatophyte mãn tính do T. schoenleinii gây ra , đặc trưng bởi các cụm sợi nấm ở gốc sợi tóc, có các khoảng trống giữa các sợi tóc. Lâm sàng có lớp vảy màu vàng xung quanh thân tóc.
+
+---
+
+## Các đặc điểm lâm sàng của bệnh nấm da đầu là gì?
+
+Các triệu chứng lâm sàng khác nhau tùy thuộc vào loài nấm da, loại xâm lấn của lông và mức độ phản ứng viêm của vật chủ. Ở tất cả các loại nấm, rụng lông một phần kèm theo một số mức độ viêm là đặc trưng.
+Các đặc điểm lâm sàng có thể được phân loại thành các biến thể không viêm và viêm.
+
+### Các biến thể không gây viêm
+Các biến thể không gây viêm của bệnh nấm da đầu bao gồm những biến thể sau.
+- Mảng xám : vảy mỏng trên da đầu và các mảng rụng tóc , có màu xám do bào tử bám trên tóc. Có thể quan sát thấy ban đỏ đa dạng ; tình trạng này thường nhẹ ở các loài ưa người nhưng có thể rõ rệt ở các loài ưa động vật hoặc ưa đất.
+- Đốm đen: vảy mỏng với các mảng rụng tóc, lốm đốm các chấm đen. Các "đốm" này là những sợi tóc bị gãy do nhiễm trùng nội mô.
+- Vảy lan tỏa : giống gàu toàn thân ; tình trạng rụng tóc không rõ ràng hoặc không có.
+
+### Viêm
+Các biến thể viêm của bệnh nấm da đầu bao gồm những biến thể sau.
+- Mụn mủ lan tỏa : rụng tóc từng mảng kèm theo mụn mủ hoặc viêm nang lông. Có thể xảy ra nhiễm trùng thứ phát do vi khuẩn hoặc nấm khác.
+- [Kerion](https://dermnetnz.org/topics/kerion) : một phản ứng viêm nghiêm trọng, do phản ứng miễn dịch chậm trễ với nấm. Tình trạng này tiến triển thành mảng bám đỏ, đau , lở loét , kèm theo rụng tóc và mụn mủ rải rác. Bệnh thường do một loài nấm ưa động vật gây ra và có thể dẫn đến rụng tóc vĩnh viễn.
+- [Favus](https://dermnetnz.org/topics/favus) : một bệnh nhiễm trùng viêm mãn tính hiếm gặp do T. schoenleinii gây ra . Bệnh đặc trưng bởi lông rối và hình thành các tổn thương hình chén, màu vàng, đóng vảy (scutula) xung quanh gốc lông. Scutula chứa sợi nấm và mảnh vụn keratin , có thể kết tụ lại thành một khối lớn.
+Nhiễm trùng nấm có thể lan sang các vị trí có lông khác bao gồm lông mày và lông mi, và có thể xuất hiện tình trạng sưng hạch bạch huyết khu vực.
+
+### Các loại lâm sàng của bệnh nấm da đầu
+![Bệnh hắc lào da đầu mảng xám](https://dermnetnz.org/assets/Uploads/fungal/tincap3.jpg)
+![Bệnh hắc lào da đầu chấm đen](https://dermnetnz.org/assets/Uploads/fungal/blackdot-tinea-1.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/fungal/inflm.jpg)
+
+---
+
+## Biến chứng của bệnh nấm da đầu là gì?
+
+[Rụng tóc](https://dermnetnz.org/topics/hair-loss) có thể gây ra đau khổ về mặt tâm lý xã hội cho bệnh nhân, đặc biệt là khi tình trạng rụng tóc sẹo sau viêm da đầu dẫn đến hói vĩnh viễn. Phát ban thứ phát có thể xảy ra với viêm da đầu, đặc biệt là sau khi bắt đầu điều trị bằng thuốc kháng nấm; tình trạng này được gọi là phản ứng [dermatophytide](https://dermnetnz.org/topics/dermatophytide-reactions) hoặc phản ứng id. Hiếm khi xảy ra [ban đỏ nốt . Nhiễm trùng thứ phát do](https://dermnetnz.org/topics/erythema-nodosum) vi khuẩn có thể phát triển.
+
+---
+
+## Bệnh nấm da đầu được chẩn đoán như thế nào?
+
+Bệnh nấm da đầu thường được nghi ngờ trên lâm sàng nhưng cần được xác nhận bằng kính hiển vi và nuôi cấy (xem [xét nghiệm trong phòng thí nghiệm để biết nhiễm trùng nấm](https://dermnetnz.org/topics/laboratory-tests-for-fungal-infection) ).
+
+### Đèn gỗ
+[Kiểm tra bằng đèn Wood](https://dermnetnz.org/topics/wood-lamp-skin-examination) có giá trị chẩn đoán khi thấy huỳnh quang từ tóc, mặc dù ít loại nấm nào khiến tóc bị nhiễm phát huỳnh quang. Huỳnh quang màu xanh lá cây tươi sáng của tóc bị nhiễm được quan sát thấy ở bệnh nấm da đầu do các loài Microsporum ( M. ferruginium , audouinii , canis và distorum ). Việc xác định tóc bị ảnh hưởng theo cách này có thể giúp lấy được mẫu bệnh phẩm phù hợp để soi kính hiển vi và nuôi cấy. Kiểm tra bằng đèn Wood không có giá trị trong trường hợp nhiễm nấm Trichophyton nội nhũ không phát huỳnh quang , ngoại trừ T. schoenleinii , có thể phát huỳnh quang màu xanh xám xỉn.
+
+### Nấm da đầu: Huỳnh quang đèn gỗ
+![Nấm da đầu](https://dermnetnz.org/assets/Uploads/fungal/tcuvl.jpg)
+
+### Soi da và soi tóc
+[Soi da đầu (trichoscopy)](https://dermnetnz.org/topics/trichoscopy) là một thủ thuật nhanh chóng và không xâm lấn, hữu ích để xác nhận bệnh nấm da đầu để có thể bắt đầu điều trị trong khi chờ kết quả nuôi cấy.
+Các phát hiện trên da liễu đặc trưng của bệnh nấm da đầu có giá trị dự đoán cao nhưng không phải trường hợp nào cũng thấy bao gồm:
+- Tóc dấu phẩy (lông ngắn uốn cong và mọc ngược về phía da đầu, trông giống như dấu phẩy)
+- Lông xoắn (lông ngắn cuộn tròn như cái mở nút chai)
+- Tóc ziczac (tóc ngắn có nhiều lọn uốn cong giống như hình ziczac)
+- Những sợi tóc giống như mã vạch (giống như mã Morse)
+- Tóc cong.
+Lông xoắn là đặc trưng của nhiễm trùng Trichophyton và ít gặp hơn ở nhiễm trùng do M. canis .
+Các dấu hiệu thường thấy trên da liễu về bệnh nấm da đầu nhưng không có giá trị chẩn đoán bao gồm:
+- Vảy, sừng hóa nang lông và vảy
+- Ban đỏ
+- Tóc gãy
+- Những chấm đen.
+
+### Nội soi da liễu bệnh nấm da đầu
+![](https://dermnetnz.org/assets/Uploads/fungal/blackdot-tinea-2.jpg)
+![](https://dermnetnz.org/assets/Uploads/fungal/blackdot-tinea-3.jpg)
+![](https://dermnetnz.org/assets/Uploads/tinea-capitis-001-trichoscopy.jpg)
+
+### Kính hiển vi
+Soi mẫu da đầu hoặc tóc nhổ bằng kính hiển vi có thể nhanh chóng xác nhận chẩn đoán nấm da đầu. Mẫu bệnh phẩm được nhúng ướt trong kali hydroxit và quan sát dưới kính hiển vi quang học để tìm sợi nấm và bào tử.
+
+### Văn hoá
+Nuôi cấy nấm cho phép xác định tác nhân gây bệnh và từ đó xác định nguồn lây nhiễm tiềm ẩn. Tuy nhiên, phương pháp này chậm, mất đến 4 tuần và thường cần điều trị trước khi có kết quả.
+
+### Kính hiển vi nội nhũ và ngoại nhũ
+![Sự xâm nhập của sợi nấm vào ectothrix trong thân tóc](https://dermnetnz.org/assets/Uploads/tinea-capitis-ectothrix-hair.jpg)
+![Sự xâm lấn của endothrix vào thân tóc do Trichophyton tonsurans](https://dermnetnz.org/assets/Uploads/tinea-capitis-endothrix-hair.jpg)
+
+### Kỹ thuật chẩn đoán phân tử
+Phương pháp sàng lọc phản ứng chuỗi polymerase ( PCR ) có thể mang lại phương pháp phát hiện nhiễm nấm da nhanh hơn và nhạy hơn, nhưng vẫn chưa được áp dụng rộng rãi.
+
+### Sinh thiết da đầu
+Đôi khi chẩn đoán bệnh nấm da đầu được thực hiện trên [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) khi thấy những thay đổi đặc trưng (xem [bệnh lý nấm da đầu](https://dermnetnz.org/topics/tinea-capitis-pathology) ).
+
+---
+
+## Chẩn đoán phân biệt bệnh nấm da đầu là gì?
+
+Danh sách chẩn đoán phân biệt rất rộng và bao gồm bất kỳ tình trạng nào có thể biểu hiện bằng rụng tóc từng mảng, viêm hoặc bong tróc da đầu. Ví dụ bao gồm:
+- [Rụng tóc từng mảng](https://dermnetnz.org/topics/alopecia-areata) và [chứng nhổ tóc](https://dermnetnz.org/topics/trichotillomania) ; gây rụng tóc từng mảng nhưng không có vảy
+- [Viêm da tiết bã](https://dermnetnz.org/topics/seborrhoeic-dermatitis) , [viêm da dị ứng](https://dermnetnz.org/topics/atopic-dermatitis) và [bệnh vẩy nến da đầu](https://dermnetnz.org/topics/scalp-psoriasis) ; có thể giống với bệnh nấm da đầu không viêm, nhưng vảy da thường lan rộng hơn
+- [Bệnh lupus ban đỏ dạng đĩa](https://dermnetnz.org/topics/discoid-lupus-erythematosus) và [liken phẳng lông mao](https://dermnetnz.org/topics/lichen-planopilaris) ; gây rụng tóc sẹo
+- [Viêm nang lông da đầu](https://dermnetnz.org/topics/scalp-folliculitis) do vi khuẩn , [chốc lở](https://dermnetnz.org/topics/impetigo) , mủ da và [áp xe](https://dermnetnz.org/topics/cutaneous-abscess) mủ ; có thể giống với bệnh nấm da đầu. [](https://dermnetnz.org/topics/cutaneous-abscess)
+
+---
+
+## Phương pháp điều trị bệnh nấm da đầu là gì?
+
+Nấm da đầu luôn cần ít nhất 4 tuần dùng thuốc toàn thân , vì các tác nhân bôi ngoài da không thể thấm sâu vào chân nang tóc. [Griseofulvin](https://dermnetnz.org/topics/griseofulvin) trước đây là loại thuốc được sử dụng rộng rãi nhất để điều trị nấm da đầu, nhưng hiện không còn được bán ở một số quốc gia, bao gồm cả New Zealand. Các thuốc chống nấm mới hơn như [terbinafine](https://dermnetnz.org/topics/terbinafine) , [itraconazole](https://dermnetnz.org/topics/itraconazole) và [fluconazole](https://dermnetnz.org/topics/fluconazole) ít nhất cũng có hiệu quả tương đương với griseofulvin đối với nhiễm trùng trichophyton nhưng kém hiệu quả hơn đối với các loài microsporum.
+Có thể sử dụng các tác nhân bôi ngoài da như povidone-iodine, [ketoconazole](https://dermnetnz.org/topics/ketoconazole) và dầu gội [có selenium sulfide để giảm sự lây truyền](https://dermnetnz.org/topics/selenium-sulfide) bào tử .
+Tất cả các thành viên trong gia đình nên được sàng lọc nấm da đầu và điều trị đồng thời nếu phát hiện bị ảnh hưởng. Không nên dùng chung các vật dụng có khả năng lây nhiễm như lược, mũ và gối, và nên vệ sinh sạch sẽ.
+Trong trường hợp nhiễm trùng lây truyền qua động vật, vật nuôi trong gia đình cần được bác sĩ thú y kiểm tra và điều trị phù hợp.
+
+---
+
+## Kết quả của bệnh nấm da đầu là gì?
+
+Nấm da đầu không viêm có tiên lượng tốt nếu được điều trị sớm và phù hợp. Nấm da đầu viêm nặng có thể dẫn đến rụng tóc vĩnh viễn ở một số vùng.

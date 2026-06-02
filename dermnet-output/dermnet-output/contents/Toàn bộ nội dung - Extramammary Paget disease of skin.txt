@@ -1,0 +1,129 @@
+# Bệnh Paget ngoài vú ở da — thông tin bổ sung
+
+Thể loại:
+
+Tổn thương (ung thư), Bệnh hệ thống
+
+SNOMED CT:
+
+254727007, 403947009, 447738006, 254898001, 423829008
+
+**[Tổn thương (ung thư), Bệnh hệ thống](https://dermnetnz.org/topics/topics?category=Lesions+(cancerous))**
+
+
+# **Bệnh Paget ngoài vú ở da**
+
+Tác giả: Vanessa Ngan, Biên tập viên, 2003. Cập nhật: Bác sĩ Qiping Chen, Bác sĩ Da liễu Tư vấn, Trung tâm Da liễu Quốc gia, Singapore. Biên tập viên Y khoa: Bác sĩ Helen Gordon, Auckland, New Zealand. Tổng biên tập DermNet: Phó Giáo sư Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand. Biên tập bởi Gus Mitchell. Tháng 9 năm 2020.
+
+---
+
+## Bệnh Paget ngoài vú ở da là gì?
+
+Bệnh Paget ngoài vú ở da là một loại ung thư biểu mô nội mô hiếm gặp, thường gặp ở da hậu môn sinh dục hoặc nách.
+Bệnh Paget ngoài vú được phân loại thành bệnh nguyên phát và bệnh thứ phát:
+- Bệnh Paget ngoài vú nguyên phát ở da có nguồn gốc từ da
+- Bệnh Paget ngoài vú thứ phát ở da có liên quan đến ung thư biểu mô tuyến nguyên phát ở nơi khác trong cơ thể.
+Bệnh Paget ngoài vú ở da được phân biệt với [bệnh Paget vú](https://dermnetnz.org/topics/mammary-paget-disease) có hình dạng tương tự liên quan đến núm vú hoặc quầng vú , nhưng là biểu hiện của bệnh ung thư vú tiềm ẩn.
+
+---
+
+## Ai có thể mắc bệnh Paget ngoài vú ở da?
+
+Bệnh Paget ngoài vú thường ảnh hưởng đến những người trên 50 tuổi, với đỉnh điểm là 65 tuổi. Bệnh phổ biến hơn ở người da trắng so với các dân tộc khác. Trong cộng đồng người châu Á, nam giới chiếm ưu thế rõ rệt, trái ngược với nữ giới chiếm ưu thế ở người da trắng. Ở nam giới, người châu Á và người dân đảo Thái Bình Dương là nhóm bị ảnh hưởng chủ yếu, tiếp theo là người da trắng, và hiếm khi gặp ở người Mỹ gốc Phi.
+
+---
+
+## Nguyên nhân nào gây ra bệnh Paget ngoài vú ở da?
+
+Nguyên nhân gây ra bệnh Paget ngoài vú vẫn chưa được hiểu rõ, tuy nhiên bệnh thường gặp nhất ở vùng da có nhiều tuyến mồ hôi.
+- Tế bào gốc trong bệnh Paget ngoài vú nguyên phát có nguồn gốc từ biểu bì , với các ứng cử viên có thể bao gồm tế bào gốc keratinocyte đa năng , tế bào Toker hoặc tế bào ống tuyến apocrine .
+- Bệnh Paget ngoài vú thứ phát là kết quả của sự lan rộng trực tiếp hoặc di căn từ một vị trí khác như ung thư biểu mô tuyến trực tràng , bàng quang, niệu đạo , tuyến tiền liệt, cổ tử cung hoặc dạ dày. Ung thư biểu mô tuyến trực tràng tiềm ẩn có thể được tìm thấy ở một phần ba các trường hợp bệnh Paget ngoài vú quanh hậu môn .
+
+---
+
+## Các đặc điểm lâm sàng của bệnh Paget ngoài vú ở da là gì?
+
+Bệnh Paget ngoài vú thường biểu hiện dưới dạng mảng vảy màu đỏ hoặc hồng, không đối xứng hoặc một bên ở âm hộ ở phụ nữ hoặc quanh hậu môn ở nam giới. Bệnh thường phát triển chậm , ranh giới không đều, khó xác định, thường dẫn đến chẩn đoán nhầm là viêm da.
+- Bệnh Paget thường gây ngứa, dẫn đến những thay đổi thứ phát như trầy xước và liken hóa.
+- Cảm giác nóng rát, đau và kích ứng cũng là những triệu chứng thường được mô tả.
+- Có thể xuất hiện tình trạng tăng sắc tố và/hoặc bạch sản.
+- Có thể nhìn thấy hiện tượng xói mòn , ngâm và đóng vảy .
+- Ở giai đoạn sau, các nốt sần có thể phát triển , báo hiệu bệnh xâm lấn .
+- Ở phụ nữ, vị trí phổ biến nhất là âm hộ (chiếm 65% tổng số trường hợp).
+- Vùng quanh hậu môn chiếm 20% tổng số ca bệnh và là vị trí thường gặp nhất ở nam giới. Bìu, bẹn và dương vật ít gặp hơn.
+- Bệnh Paget ngoài vú hiếm khi xuất hiện ở nách.
+Bệnh Paget ngoài vú ở vùng không giàu tuyến mồ hôi là cực kỳ hiếm gặp và được gọi là bệnh Paget ngoài vú lạc chỗ . Các vị trí được báo cáo bao gồm da đầu, rốn , đùi và mặt.
+Do các đặc điểm lâm sàng không đặc hiệu, việc chẩn đoán bệnh Paget ngoài vú thường bị chậm trễ nhiều tháng hoặc nhiều năm.
+
+### soi da
+Nội soi da của bệnh Paget ngoài vú được báo cáo cho thấy hai đặc điểm độc đáo — các cục tròn nhỏ màu trắng với các vùng không có cấu trúc màu trắng ('các vùng không có cấu trúc giống như đám mây') và các đường trắng phân nhánh dày với các cục trắng xen kẽ ('cấu trúc hồ dung nham').
+Bệnh Paget sắc tố ngoài vú có thể khó phân biệt với u hắc tố lan rộng nông , ngay cả trên da liễu. Sự kết hợp của các hạt cầu màu nâu xếp thành hàng và mạng lưới sắc tố trắng âm tính có thể là manh mối hữu ích trong bệnh Paget sắc tố ngoài vú.
+![Bệnh Paget ngoài vú ở da âm hộ](https://dermnetnz.org/assets/Uploads/extra-paget-12.jpg)
+![Bệnh Paget ngoài vú quanh hậu môn ở da](https://dermnetnz.org/assets/Uploads/extra-paget-28.jpg)
+![Bệnh Paget ngoài vú ở da nách](https://dermnetnz.org/assets/Uploads/extra-paget-04.jpg)
+Xem thêm hình ảnh về [hình ảnh bệnh Paget da ở vú và ngoài vú](https://dermnetnz-org.translate.goog/topics/mammary-and-extramammary-paget-disease-of-the-skin-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+
+---
+
+## Chẩn đoán phân biệt bệnh Paget ngoài vú ở da là gì?
+
+Chẩn đoán phân biệt đối với bệnh Paget ngoài vú ở da bao gồm các bệnh viêm da thông thường , nhiễm trùng và các bệnh ác tính khác.
+- [Viêm da dị ứng](https://dermnetnz.org/topics/atopic-dermatitis) — thường ở cả hai bên , ảnh hưởng đến bệnh nhân trẻ tuổi và phản ứng nhanh với steroid bôi ngoài da hoặc chất ức chế calcineurin.
+- [Vảy nến thể gấp](https://dermnetnz.org/topics/flexural-psoriasis) — đặc trưng bởi các mảng màu hồng , không có vảy, đối xứng , ranh giới rõ , có thể ngứa hoặc không ngứa. Các vị trí khác thường cũng bị ảnh hưởng.
+- [Nấm bẹn](https://dermnetnz.org/topics/tinea-cruris) — thường không đối xứng, có rìa vảy và không khỏi khi dùng steroid bôi ngoài da. Cạo da để soi và nuôi cấy nấm sẽ giúp phân biệt bệnh này.
+- [Bệnh nấm candida — thường biểu hiện dưới dạng các mảng](https://dermnetnz.org/topics/candida) ban đỏ tươi có tổn thương vệ tinh.
+- [Ung thư biểu mô tế bào vảy trong biểu bì](https://dermnetnz.org/topics/intraepidermal-squamous-cell-carcinoma)
+- [U hắc tố niêm mạc](https://dermnetnz.org/topics/mucosal-melanoma) hoặc [u hắc tố lan rộng trên bề mặt](https://dermnetnz.org/topics/superficial-spreading-melanoma) da khi có sắc tố.
+- [Các bệnh ngoài da sinh dục](https://dermnetnz.org/topics/genital-skin-problems) khác .
+
+---
+
+## Bệnh Paget ngoài vú ở da được chẩn đoán như thế nào?
+
+Khả năng mắc bệnh Paget ngoài vú phải được xem xét đối với tình trạng thay đổi da mãn tính ở vùng hậu môn sinh dục không đáp ứng với phương pháp điều trị tại chỗ tiêu chuẩn cho [bệnh viêm da](https://dermnetnz.org/topics/dermatitis) trong vòng 4-6 tuần.
+Chẩn đoán cần [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) để xác nhận bằng mô bệnh học . Xem [bệnh lý học bệnh Paget ngoài vú](https://dermnetnz.org/topics/extramammary-paget-disease-pathology) .
+Khi chẩn đoán bệnh Paget ngoài vú được đưa ra trên mô học , cần phải đánh giá tình trạng ác tính bên trong tiềm ẩn.
+Các cuộc điều tra có thể bao gồm:
+- Đánh giá hạch bạch huyết bằng siêu âm hoặc chọc hút kim nhỏ
+- CEA
+- Khám sàng lọc cổ tử cung và vú
+- Chụp ảnh vùng chậu để tìm ung thư tiềm ẩn
+- Nội soi đại tràng (để phát hiện bệnh Paget quanh hậu môn)
+- Nội soi bàng quang (đối với bệnh Paget quanh niệu đạo)
+- Xét nghiệm kháng nguyên đặc hiệu tuyến tiền liệt (PSA) và khám tuyến tiền liệt ở nam giới.
+
+---
+
+## Phương pháp điều trị bệnh Paget ngoài vú ở da là gì?
+
+Phẫu thuật, bao gồm [cắt bỏ](https://dermnetnz.org/topics/excision-of-skin-lesions) rộng tại chỗ và [phẫu thuật vi phẫu Mohs](https://dermnetnz.org/topics/mohs-micrographic-surgery) , là phương pháp điều trị tiêu chuẩn cho bệnh Paget ngoài vú. Các thủ thuật phẫu thuật thường rất phức tạp; có thể cần phải cắt bỏ âm hộ triệt để. Tuy nhiên, tỷ lệ tái phát cao do bệnh đa ổ và ranh giới lâm sàng không rõ ràng. Phẫu thuật vi phẫu Mohs cho tỷ lệ tái phát thấp hơn so với cắt bỏ rộng tại chỗ. Bệnh Paget ngoài vú tái phát thường được điều trị bằng phẫu thuật. Việc tái tạo có thể cần [ghép da](https://dermnetnz.org/topics/skin-grafting) hoặc [sửa vạt da](https://dermnetnz.org/topics/flaps) .
+[Sinh thiết hạch bạch huyết gác](https://dermnetnz.org/topics/sentinel-lymph-node-biopsy) có thể được cân nhắc nếu tế bào Paget đã lan vào lớp hạ bì lưới hoặc xuất hiện trong mạch bạch huyết hoặc không gian mạch máu .
+[Kem Imiquimod](https://dermnetnz.org/topics/imiquimod) đang cho thấy bằng chứng tốt là phương pháp điều trị không phẫu thuật hữu ích khi phát hiện bệnh ban đầu, đối với bệnh tái phát hoặc đối với những người không đủ điều kiện phẫu thuật.
+Xạ trị , đơn lẻ hoặc như một liệu pháp bổ trợ , cũng đã được sử dụng với một số phản ứng.
+Các phương pháp điều trị không phẫu thuật ít thành công khác bao gồm:
+- [Liệu pháp quang động](https://dermnetnz.org/topics/photodynamic-therapy) — chỉ hữu ích cho các tổn thương rất nhỏ
+- [Kem 5-fluorouracil](https://dermnetnz.org/topics/5-fluorouracil-cream)
+- [CO2và các hình thức phá hủy bằng laser khác](https://dermnetnz.org/topics/carbon-dioxide-laser-treatment)
+- [Liệu pháp lạnh](https://dermnetnz.org/topics/cryotherapy) .
+Có một số ít báo cáo về việc sử dụng trastuzumab thành công cho bệnh Paget ngoài vú có biểu hiện quá mức HER-2.
+Việc điều trị bệnh Paget di căn ngoài vú chưa được chuẩn hóa do tình trạng bệnh này hiếm gặp. Phẫu thuật, hóa trị , xạ trị và trastuzumab đã được thử nghiệm.
+Bất kỳ bệnh ung thư tiềm ẩn nào được phát hiện qua sàng lọc cũng sẽ cần được điều trị thích hợp.
+
+---
+
+## Triển vọng của bệnh Paget ngoài vú ở da là gì?
+
+Nhìn chung, bệnh nhân mắc bệnh Paget ngoài vú có tiên lượng tốt với tỷ lệ sống sót chung sau 5 năm là 75–95%. Tuy nhiên, chất lượng cuộc sống có thể bị ảnh hưởng đáng kể sau phẫu thuật triệt căn.
+Mặc dù bệnh Paget ngoài vú thường là bệnh nội biểu mô, nhưng nó có thể tiến triển thành bệnh xâm lấn có di căn.
+Các yếu tố rủi ro liên quan đến tiên lượng xấu bao gồm:
+- Bệnh quanh hậu môn ở nam giới trên 75 tuổi
+- Các nốt trong khối u
+- Hạch bạch huyết bị ảnh hưởng về mặt lâm sàng hoặc mô học
+- Tế bào Paget xâm nhập vào lớp lưới hạ bì hoặc sâu hơn.
+Kết quả cũng bị ảnh hưởng bởi bệnh ung thư nguyên phát tiềm ẩn đi kèm.
+
+---
+
+## Cần theo dõi bệnh Paget ngoài vú ở da như thế nào?
+
+Do tỷ lệ tái phát cao (30–60%), nên theo dõi lâu dài để theo dõi tình trạng tái phát bệnh tại chỗ, sự phát triển của bệnh ác tính bên trong, bệnh hạch bạch huyết khu vực hoặc di căn xa.

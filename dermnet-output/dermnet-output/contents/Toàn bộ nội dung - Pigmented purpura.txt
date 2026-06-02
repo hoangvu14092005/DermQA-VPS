@@ -1,0 +1,96 @@
+# Viêm mao mạch — thông tin bổ sung
+
+Thể loại:
+
+Các vấn đề về mạch máu
+
+SNOMED CT:
+
+85461008, 20343006, 238783008, 64146000, 238782003, 56231002, 41486008, 238781005
+
+**[Các vấn đề về mạch máu](https://dermnetnz.org/topics/topics?category=Blood+vessel+problems)**
+
+
+# **Viêm mao mạch**
+
+Tác giả: Phó giáo sư Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand, 1999. Cập nhật tháng 1 năm 2016.
+
+---
+
+## Viêm mao mạch là gì?
+
+Viêm mao mạch là một tình trạng da vô hại, trong đó xuất hiện các mảng màu nâu đỏ do mao mạch bị rò rỉ. Tình trạng này còn được gọi là [ban xuất huyết](https://dermnetnz.org/topics/purpura) sắc tố . [](https://dermnetnz.org/topics/purpura)
+![ban xuất huyết Schamberg](https://dermnetnz.org/assets/Uploads/vascular/capil1.jpg)
+![Cận cảnh phần lưng dưới](https://dermnetnz.org/assets/Uploads/vascular/capil2.jpg)
+![Viêm mao mạch](https://dermnetnz.org/assets/Uploads/vascular/capil3.jpg)
+[Xem thêm hình ảnh viêm mao mạch](https://dermnetnz-org.translate.goog/topics/capillaritis-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+
+---
+
+## Ai bị viêm mao mạch?
+
+Viêm mao mạch có thể ảnh hưởng đến bất kỳ ai, nhưng ít gặp ở trẻ em.
+- Bệnh này thường ảnh hưởng đến những người khỏe mạnh.
+- Đôi khi viêm mao mạch xảy ra do phản ứng với thuốc; nhiều loại thuốc khác nhau đôi khi có liên quan đến viêm mao mạch bao gồm meprobamate, carbamazepine và carbromal.
+- Ở những người khác, nguyên nhân có thể là do [chất phụ gia thực phẩm](https://dermnetnz.org/topics/food-additives) hoặc nhiễm trùng do vi-rút .
+- Viêm mao mạch cũng có thể phát triển sau khi [tập thể dục.](https://dermnetnz.org/topics/exercise-induced-vasculitis)
+
+---
+
+## Nguyên nhân gây viêm mao mạch là gì?
+
+Mao mạch là các mạch máu nhỏ gần bề mặt da. Vì những lý do chưa rõ, đôi khi chúng bị viêm, mặc dù sinh thiết da không thấy tình [trạng viêm](https://dermnetnz.org/topics/cutaneous-vasculitis) mạch [thực](https://dermnetnz.org/topics/skin-biopsy) sự . Các tế bào máu có thể đi qua các khe hở nhỏ giữa các tế bào tạo nên thành mao mạch . Kết quả là xuất huyết dạng chấm. Các chấm này mờ dần và lắng đọng haemosiderin ở phần trên của lớp hạ bì.
+
+---
+
+## Các đặc điểm lâm sàng của viêm mao mạch là gì?
+
+Viêm mao mạch được phân loại theo hình thái. Đặc trưng của bệnh là các chấm nhỏ màu đỏ và nâu, được mô tả là các đốm ớt cayenne. Chúng có thể rải rác trên một vùng cơ thể hoặc tập trung lại thành một mảng đỏ phẳng , chuyển sang màu nâu và sau đó mờ dần trong vài tuần đến vài tháng. Các mô tả lâm sàng được đặt theo tên bác sĩ da liễu đầu tiên mô tả chúng.
+
+### Bệnh Schamberg (bệnh xuất huyết sắc tố tiến triển)
+Bệnh Schamberg là loại viêm mao mạch phổ biến nhất. Các mảng phẳng màu nâu đỏ, có đốm ớt cayenne ở viền xuất hiện đều đặn hoặc không đều mà không rõ nguyên nhân. Mặc dù thường gặp nhất ở cẳng chân, viêm mao mạch thể Schamberg có thể xuất hiện ở bất kỳ bộ phận nào trên cơ thể. Bệnh thường phân bố không đều ở cả hai bên với ít hoặc nhiều mảng. Không có triệu chứng.
+
+### Ban xuất huyết giống Doucas-Kapetanakis (ban xuất huyết ngứa)
+Ban xuất huyết dạng chàm Doucas-Kapetanakis trông tương tự bệnh Schamberg, nhưng ngứa. Các mảng màu đỏ tím xuất hiện quanh mắt cá chân và có thể lan lên chân. Ban xuất huyết ngứa cũng có thể ảnh hưởng đến thân và chi trên. Ngứa dẫn đến gãi và liken hóa.
+
+### Bệnh ban xuất huyết Gougerot-Blum (bệnh da lichen dạng ban xuất huyết sắc tố)
+Viêm mao mạch Gougerot-Blum ít phổ biến hơn. Các mảng dày lên và ngứa, khá giống bệnh chàm , nhưng bệnh lý là phản ứng dạng liken .
+
+### Ban xuất huyết Majocchi (ban xuất huyết annularis telangiectodes)
+Trong tình trạng này, các mao mạch giãn ra, cũng như các mảng nâu và đốm cayenne. Các mảng hình khuyên dần lan ra ngoài và tạo thành các vòng đồng tâm .
+![Purpura annularis telangiectodes of Majocchi](https://dermnetnz.org/assets/Uploads/purpura-annularis-telangiectodes-of-majocchi.jpg)
+
+### Dị ứng tiếp xúc
+Viêm mao mạch được báo cáo là do thuốc nhuộm quần áo kaki và cao su. Tình trạng này chỉ ảnh hưởng đến da khi tiếp xúc với vật liệu gây bệnh.
+
+### Địa y vàng
+Lichen aureus là một mảng màu nâu vàng đơn độc, rất dai dẳng. Nó thường phủ lên [tĩnh mạch bị giãn](https://dermnetnz.org/topics/varicose-veins) .
+![Viêm mao mạch](https://dermnetnz.org/assets/Uploads/vascular/capil4.jpg)
+
+### Viêm mao mạch do tập thể dục
+Viêm mao mạch có thể xuất hiện ở mắt cá chân sau khi tập thể dục kéo dài hoặc mạnh (ví dụ, sau 18 lỗ golf, đi bộ đường dài hoặc khiêu vũ), đặc biệt là trong thời tiết ấm áp. Các đốm này mờ dần thành màu nâu trong vòng vài ngày và cuối cùng biến mất. Cảm giác nóng rát có thể xuất hiện khi các tổn thương mới xuất hiện. Viêm mao mạch do tập thể dục có thể xảy ra một lần hoặc tái phát thường xuyên sau khi tập thể dục.
+![Viêm mao mạch của người chơi golf](https://dermnetnz.org/assets/Uploads/golfer-capillaritis-1.jpg)
+
+---
+
+## Viêm mao mạch được chẩn đoán như thế nào?
+
+Viêm mao mạch thường là chẩn đoán lâm sàng. Chẩn đoán có thể được hỗ trợ bằng [soi da](https://dermnetnz.org/topics/dermoscopy) ( các chấm xuất huyết được nhìn thấy rõ hơn) và [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) . Hầu hết các trường hợp không cần xét nghiệm nào khác. Xem thêm [bệnh lý liken vàng](https://dermnetnz.org/topics/lichen-aureus-pathology) .
+
+---
+
+## Điều trị viêm mao mạch như thế nào?
+
+Vì viêm mao mạch là một tình trạng nhẹ nên hầu hết bệnh nhân không cần điều trị. Hiện chưa có phương pháp chữa khỏi.
+- Hãy cân nhắc xem thuốc có phải là nguyên nhân không: hãy ngừng thuốc trong vài tháng để xem tình trạng viêm mao mạch có cải thiện không.
+- Cố gắng tránh chất bảo quản thực phẩm và chất tạo màu nhân tạo. Quay lại chế độ ăn uống bình thường nếu không thấy cải thiện sau vài tháng.
+- [Thuốc steroid bôi ngoài da](https://dermnetnz.org/topics/topical-steroid) có thể giúp giảm ngứa.
+- [Liệu pháp quang học](https://dermnetnz.org/topics/phototherapy) có thể có hiệu quả trong việc chữa viêm mao mạch nhưng không ngăn ngừa bệnh tái phát.
+- Nếu cẳng chân bị ảnh hưởng, hãy cân nhắc mang [vớ đàn hồi nén phân cấp](https://dermnetnz.org/topics/compression-therapy) . Điều này hữu ích để giảm viêm mao mạch do tập thể dục.
+- [Các loại tia laser](https://dermnetnz.org/topics/lasers-in-dermatology) mạch máu hiện có không thực sự hữu ích cho bệnh viêm mao mạch. [](https://dermnetnz.org/topics/lasers-in-dermatology)
+
+---
+
+## Hậu quả của bệnh viêm mao mạch là gì?
+
+Viêm mao mạch có thể biến mất trong vòng vài tuần, tái phát theo thời gian hoặc kéo dài trong nhiều năm.

@@ -1,0 +1,82 @@
+# U nhú ở móng — thông tin bổ sung
+
+Thể loại:
+
+Tổn thương (lành tính)
+
+SNOMED CT:
+
+40735006, 402635005
+
+**[Tổn thương (lành tính)](https://dermnetnz.org/topics/topics?category=Lesions+(benign))**
+
+
+# **U nhú ở móng**
+
+Tác giả: Tiến sĩ Diana Purvis, Bác sĩ Da liễu, Bệnh viện Starship, Auckland, New Zealand; Tổng biên tập: Giáo sư/Tiến sĩ Danh dự Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand, tháng 12 năm 2016. Cập nhật nhỏ bởi Bác sĩ Da liễu Ian Coulson. Biên tập bởi Gus Mitchell. Tháng 7 năm 2024.
+
+---
+
+## U nhú móng là gì?
+
+U nhú móng là một khối u lành tính ở móng . Nó thường là một tổn thương đơn độc ảnh hưởng đến một móng. Tổn thương nhiều móng hiếm gặp và có thể là dấu hiệu của hội chứng tăng sản u BAP1 . U nhú móng ác tính hiếm gặp có thể xảy ra với mô bệnh học của bệnh Bowen.
+
+---
+
+## Ai mắc bệnh u nhú móng?
+
+U nhú móng rất hiếm gặp. Bệnh có thể ảnh hưởng đến cả nam và nữ thuộc mọi chủng tộc và sắc tộc. Bệnh chủ yếu được mô tả ở người trung niên và người cao tuổi.
+
+---
+
+## Nguyên nhân nào gây ra bệnh u nhú móng?
+
+Nguyên nhân gây u nhú móng vẫn chưa được biết rõ. Nhiều tổn thương đa ngón có liên quan đến hội chứng tiền ung thư BAP1. Trong trường hợp này, người bệnh có nguy cơ cao mắc nhiều khối u Spitz , u hắc tố da và mắt , ung thư biểu mô tế bào sáng ở thận và u trung biểu mô.
+
+---
+
+## Đặc điểm lâm sàng của u nhú móng là gì?
+
+U nhú móng thường gây ra vệt dọc trên móng tay màu đỏ ( [erythronychia](https://dermnetnz.org/topics/onychopapilloma) ), kéo dài từ bán nguyệt đến đầu móng tay.
+- Các vệt dọc màu trắng ( [bạch móng](https://dermnetnz.org/topics/white-nail) ) hoặc các vệt dọc màu nâu ( [mầu móng](https://dermnetnz.org/topics/melanonychia) ) cũng có thể xuất hiện. Đầu xa của móng có thể bị tách hoặc bong ra ( [liệt móng](https://dermnetnz.org/topics/onycholysis) ). Có thể thấy rõ sự phát triển của mụn cóc dưới móng ( sừng hóa dưới móng ). [Xuất huyết dưới móng](https://dermnetnz.org/topics/splinter-haemorrhage) ( vệt máu dài dưới móng) là tình trạng phổ biến. [Soi da](https://dermnetnz.org/topics/dermoscopy) mép tự do của móng cho thấy một vùng nhỏ có vảy dưới móng.
+- Các vệt dọc màu trắng ( [bạch móng](https://dermnetnz.org/topics/white-nail) ) hoặc các vệt dọc màu nâu ( [mầu móng](https://dermnetnz.org/topics/melanonychia) ) cũng có thể xuất hiện. [Soi da](https://dermnetnz.org/topics/dermoscopy) mép tự do của móng cho thấy một vùng nhỏ có vảy dưới móng.
+- Đầu xa của móng có thể bị tách hoặc bong ra ( [liệt móng](https://dermnetnz.org/topics/onycholysis) ).
+- Có thể thấy rõ sự phát triển của mụn cóc dưới móng ( sừng hóa dưới móng ).
+- [Xuất huyết dưới móng](https://dermnetnz.org/topics/splinter-haemorrhage) ( vệt máu dài dưới móng) là tình trạng phổ biến.
+- [Soi da](https://dermnetnz.org/topics/dermoscopy) mép tự do của móng cho thấy một vùng nhỏ có vảy dưới móng.
+![Viêm đỏ móng, bong móng](https://dermnetnz.org/assets/Uploads/onychopapilloma-5.jpg)
+![Xuất huyết do mảnh dằm](https://dermnetnz.org/assets/Uploads/onychopapilloma-1.jpg)
+![Melanonychia](https://dermnetnz.org/assets/Uploads/onychopapilloma-2.jpg)
+![Viêm đỏ móng](https://dermnetnz.org/assets/Uploads/onychopapilloma-3.jpg)
+![soi da](https://dermnetnz.org/assets/Uploads/onychopapilloma-4.jpg)
+![Tăng sừng dưới móng](https://dermnetnz.org/assets/Uploads/onychopapilloma-6.jpg)
+
+---
+
+## Bệnh u nhú móng được chẩn đoán như thế nào?
+
+Chẩn đoán có thể được nghi ngờ về mặt lâm sàng, nhưng vì các tổn thương ác tính dưới móng có thể trông tương tự, nên điều quan trọng là phải theo dõi tổn thương và tiến hành [sinh thiết móng](https://dermnetnz.org/topics/nail-matrix-biopsy) nếu có tổn thương lan rộng.
+Mô học của một mẩu móng tay cắt ra cho thấy một vùng bị loạn sản sừng hóa và u nhú không đối xứng .
+Sinh thiết dọc móng cho thấy nền móng dạng nhú với các lớp sừng hóa và không có lớp hạt. Sắc tố nếu có là do hoạt hóa tế bào hắc tố .
+
+---
+
+## Chẩn đoán phân biệt bệnh u nhú móng là gì?
+
+Chẩn đoán phân biệt đối với u nhú móng bao gồm:
+- [Bệnh Darier](https://dermnetnz.org/topics/darier-disease) (thường ảnh hưởng đến nhiều móng tay )
+- Một khối u lành tính khác (ví dụ, naevus , [khối u cuộn mạch](https://dermnetnz.org/topics/glomus-tumour) )
+- Ung thư (ví dụ, [ung thư biểu mô tế bào vảy](https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma) , [u hắc tố ở đơn vị móng tay](https://dermnetnz.org/topics/melanoma-of-the-nail-unit) ).
+- U nhú móng ác tính - dải dọc mở rộng và đau có thể cảnh báo về tình trạng này.
+
+---
+
+## Phương pháp điều trị u nhú móng là gì?
+
+Việc cắt bỏ dọc toàn bộ móng bị ảnh hưởng và phần móng gần có tác dụng chữa khỏi.
+
+---
+
+## Kết quả của bệnh u nhú móng là gì?
+
+Nếu không được điều trị, tổn thương có xu hướng kéo dài.

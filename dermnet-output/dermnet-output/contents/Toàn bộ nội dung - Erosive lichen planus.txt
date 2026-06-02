@@ -1,0 +1,146 @@
+# Bệnh liken phẳng xói mòn — thông tin bổ sung
+
+Thể loại:
+
+Tự miễn/tự viêm
+
+SNOMED CT:
+
+238662007, 238669003, 238667001, 721212001
+
+**[Tự miễn/tự viêm](https://dermnetnz.org/topics/topics?category=Autoimmune/autoinflammatory)**
+
+
+# **Địa y phẳng xói mòn**
+
+Tác giả: Tiến sĩ Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand, 2008. Cập nhật, tháng 12 năm 2015; tháng 6 năm 2023.
+
+---
+
+## Bệnh liken phẳng xói mòn là gì?
+
+Lichen phẳng xói mòn là tình trạng mãn tính và đau đớn ảnh hưởng đến bề mặt niêm mạc , chủ yếu là miệng ( [lichen phẳng miệng](https://translate.google.com/website) ) và [bộ phận sinh dục](https://translate.google.com/website) ( lichen phẳng âm hộ hoặc dương vật).
+Một biến thể nặng hoặc dạng liken phẳng xói mòn ở phụ nữ được gọi là hội chứng nướu âm hộ - âm đạo . Loét xảy ra ở miệng và nướu, cũng như ở âm hộ và âm đạo. Hội chứng nướu dương vật là tình trạng tương tự ở nam giới.
+Liken phẳng xói mòn đôi khi có liên quan đến [liken phẳng](https://dermnetnz.org/topics/lichen-planus) da cổ điển hoặc các dạng liken phẳng niêm mạc khác. [](https://dermnetnz.org/topics/lichen-planus)
+
+---
+
+## Ai bị bệnh liken phẳng xói mòn?
+
+Bệnh liken phẳng xói mòn thường ảnh hưởng đến những người trong độ tuổi từ 40 đến 70. Bệnh này phổ biến ở phụ nữ gấp đôi so với nam giới.
+
+---
+
+## Nguyên nhân nào gây ra bệnh liken phẳng xói mòn?
+
+Lichen phẳng xói mòn là một [bệnh tự miễn](https://dermnetnz.org/topics/autoimmune-diseases-in-dermatology) phá hủy có nguyên nhân chưa rõ liên quan đến tế bào lympho T.
+- Đôi khi, tình trạng này là do thuốc gây ra và sẽ khỏi khi ngừng thuốc.
+- Phản ứng một phần với thuốc chống nấm và kháng sinh cho thấy có thể có phản ứng bất thường với hệ vi khuẩn tại chỗ, đặc biệt là Candida albicans.
+- Phân tích biểu hiện cytokine đã phát hiện ra mức độ tăng cao của interleukin , [IL-17](https://dermnetnz.org/topics/interleukin-17-in-inflammatory-skin-disorders) và IL-23.
+
+---
+
+## Các đặc điểm lâm sàng của bệnh liken phẳng xói mòn là gì?
+
+Lichen phẳng xói mòn gây ra các vết loét đau đớn và dai dẳng . Chúng lành lại và để lại sẹo. Bệnh chủ yếu ảnh hưởng đến người lớn, đặc biệt là phụ nữ, và hiếm gặp ở trẻ em.
+
+### Bệnh liken phẳng ăn mòn miệng
+Trong miệng, vết loét và vết trợt có thể là dấu hiệu duy nhất (viêm [loét miệng](https://dermnetnz.org/topics/stomatitis) ). Chúng có thể xuất hiện bên trong má, ở hai bên lưỡi, trên nướu hoặc bên trong môi. Không giống như [loét áp-tơ ngắn hạn,](https://dermnetnz.org/topics/aphthous-ulcer) tổn thương liken phẳng trợt loét lớn hơn và không đều hơn, và có thể kéo dài hàng tuần hoặc lâu hơn. Ăn uống có thể rất đau đớn, dẫn đến sụt cân, thiếu hụt dinh dưỡng và trầm cảm.
+Các dạng khác của liken phẳng ở miệng cũng có thể xảy ra, bao gồm các vệt ren trắng và tình trạng viêm và bong tróc nướu (viêm nướu bong tróc).
+![Lichen phẳng miệng xói mòn](https://dermnetnz.org/assets/Uploads/scaly/lp7.jpg)
+![Lichen phẳng miệng xói mòn](https://dermnetnz.org/assets/Uploads/site-age-specific/elp3.jpg)
+![Lichen phẳng miệng xói mòn](https://dermnetnz.org/assets/Uploads/site-age-specific/s/elp5.jpg)
+![Lichen phẳng miệng xói mòn](https://dermnetnz.org/assets/Uploads/site-age-specific/elp2.jpg)
+![Lichen phẳng miệng xói mòn](https://dermnetnz.org/assets/Uploads/site-age-specific/elp1.jpg)
+![Lichen phẳng miệng xói mòn](https://dermnetnz.org/assets/Uploads/site-age-specific/s/elp4.jpg)
+
+### Lichen phẳng xói mòn sinh dục
+Ở phụ nữ, liken phẳng xói mòn ảnh hưởng đến môi bé (môi trong) và introitus (lối vào âm đạo). Niêm mạc bị ảnh hưởng có màu đỏ tươi và thô ráp. Liken phẳng xói mòn có thể rất đau, gây ngứa rát khi đi tiểu và cản trở quan hệ tình dục. Đây là một trong những nguyên nhân gây đau [âm hộ](https://dermnetnz.org/topics/vulvodynia) (cảm giác nóng rát khó chịu ở âm hộ). Liken phẳng xói mòn cũng có thể gây ngứa rất dữ dội.
+Mũ âm vật có thể biến mất, môi bé có thể co lại và dính vào nhau hoặc vào môi lớn (môi ngoài). Nó cũng có thể để lại sẹo, khép kín âm đạo.
+Đôi khi, liken phẳng xói mòn ảnh hưởng sâu bên trong âm đạo, gây viêm và loét bề mặt ( [viêm âm đạo](https://dermnetnz.org/topics/desquamative-vaginitis) bong tróc ). Các tế bào bề mặt trong âm đạo bong ra và gây ra dịch tiết nhầy. Âm đạo bị xói mòn có thể dễ dàng chảy máu khi tiếp xúc.
+Bệnh liken phẳng xói mòn ở nam giới ảnh hưởng đến phần đầu dương vật (quy đầu), khiến đầu dương vật trở nên đỏ, thô ráp và đau.
+[Hình ảnh bệnh liken phẳng ăn mòn ảnh hưởng đến âm hộ](https://dermnetnz-org.translate.goog/images/vulval-erosive-lichen-planus-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+
+### Các vị trí niêm mạc khác
+Bệnh liken phẳng xói mòn hiếm khi ảnh hưởng đến [mí mắt](https://dermnetnz.org/topics/eyelid-skin-problems) , ống tai ngoài, thực quản , thanh quản , bàng quang và hậu môn.
+
+---
+
+## Nguyên nhân gây ra bệnh liken phẳng xói mòn là gì?
+
+Nguyên nhân gây ra liken phẳng xói mòn vẫn chưa được biết rõ. Đây được coi là một bệnh tự miễn , trong đó các tế bào miễn dịch gọi là tế bào lympho T tấn công các tế bào biểu bì của vùng bị ảnh hưởng.
+Bệnh liken phẳng xói mòn không phải do nhiễm trùng hoặc dị ứng.
+
+---
+
+## Biến chứng của bệnh liken phẳng xói mòn là gì?
+
+
+### Nhiễm trùng
+Bệnh nhân bị liken phẳng xói mòn có thể bị nhiễm trùng, đặc biệt là Candida albicans , [herpes simplex](https://dermnetnz.org/topics/herpes-simplex) , [tụ cầu vàng](https://dermnetnz.org/topics/staphylococcal-skin-infection) . Nhiễm trùng herpes đặc biệt đau và có thể gây [loét âm hộ](https://dermnetnz.org/topics/differential-diagnosis-of-vulval-ulcers) .
+
+### Ung thư biểu mô tế bào vảy
+Trong khoảng 1–3% trường hợp, liken phẳng lâu ngày có thể dẫn đến ung thư ( [ung thư biểu mô tế bào vảy](https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma) , SCC) ở miệng ( [ung thư miệng](https://dermnetnz.org/topics/oral-cancer) ), âm hộ ( [ung thư âm hộ](https://dermnetnz.org/topics/vulval-cancer) ) và dương vật ( [ung thư dương vật](https://dermnetnz.org/topics/penile-intraepithelial-neoplasia) ). Cần nghi ngờ nếu có khối u to lên hoặc vết loét có rìa dày lên.
+Một số bệnh nhân bị liken phẳng xói mòn có nguy cơ mắc SCC đặc biệt cao:
+- [Người hút thuốc](https://dermnetnz.org/topics/smoking-and-its-effects-on-the-skin)
+- Bệnh nhân bị suy giảm miễn dịch do [bệnh tật](https://dermnetnz.org/topics/immunodeficiency) hoặc [thuốc](https://dermnetnz.org/topics/drug-induced-immunosuppression)
+- Bệnh nhân bị nhiễm các loại virus gây u nhú [ở người](https://dermnetnz.org/topics/sexually-acquired-human-papillomavirus) ( [HPV](https://dermnetnz.org/topics/sexually-acquired-human-papillomavirus) , xem [mụn cóc sinh dục](https://dermnetnz.org/topics/anogenital-warts) ).
+
+### Sẹo
+Lichen phẳng xói mòn là một rối loạn phá hủy. Ngay cả khi tình trạng viêm đã được giải quyết, sẹo vẫn có thể ảnh hưởng đến chức năng ăn uống hoặc tình dục.
+
+---
+
+## Bệnh liken phẳng xói mòn được chẩn đoán như thế nào?
+
+Chẩn đoán liken phẳng xói mòn thường được thực hiện dựa trên tiền sử bệnh và biểu hiện lâm sàng điển hình. [Sinh thiết](https://dermnetnz.org/topics/skin-biopsy) có thể được khuyến cáo để xác nhận chẩn đoán và tìm ung thư. Các dấu hiệu [mô bệnh học](https://dermnetnz.org/topics/dermatopathological-terminology) của ' phản ứng mô liken ' ảnh hưởng đến lớp biểu bì (lớp tế bào da) có thể hỗ trợ chẩn đoán.
+Tuy nhiên, bản chất loét của bệnh lý này có nghĩa là lớp biểu bì có thể bị mất nên các đặc điểm giống liken có thể không được quan sát. Bác sĩ bệnh học có thể mô tả tình trạng thâm nhiễm viêm nhanh ở niêm mạc, nhưng điều này không đặc hiệu.
+[Nhuộm miễn dịch huỳnh quang trực tiếp](https://dermnetnz.org/topics/direct-immunofluorescence) mô cũng có thể hữu ích.
+
+---
+
+## Phương pháp điều trị bệnh liken phẳng xói mòn là gì?
+
+Việc điều trị liken phẳng xói mòn có thể rất khó khăn. Vì đây là bệnh mãn tính, nên có thể cần điều trị tại chỗ và toàn thân theo từng đợt hoặc liên tục, lâu dài.
+
+### Các biện pháp chung
+Đối với bệnh răng miệng, điều quan trọng là phải vệ sinh răng miệng tốt và khám răng định kỳ. Tránh các thực phẩm gây đau miệng.
+Nên rửa nhẹ nhàng bộ phận sinh dục bằng nước hoặc dùng chất tẩy rửa không chứa xà phòng như kem dưỡng ẩm. Có thể bôi [chất làm](https://dermnetnz.org/topics/emollients-and-moisturisers) mềm không gây kích ứng như petrolatum nếu muốn.
+
+### Steroid bôi ngoài da cực mạnh
+[Steroid bôi ngoài da](https://dermnetnz.org/topics/topical-steroid) thường được sử dụng hàng ngày trong liệu trình từ 4 đến 6 tuần. Đây là liệu pháp chính cho hầu hết bệnh nhân, nhưng có thể cần điều trị duy trì 1–3 lần mỗi tuần hoặc thường xuyên hơn trong thời gian dài.
+- Trong miệng, steroid tại chỗ có thể được cung cấp dưới dạng kem bôi , thuốc xịt mũi (dành cho viêm mũi ) hoặc thuốc xịt phòng ngừa hen suyễn. Nên bôi lên vùng bị xói mòn hai hoặc ba lần mỗi ngày.
+- Đối với các vết trợt ở bộ phận sinh dục , nên bôi thuốc mỡ steroid siêu mạnh (ví dụ clobetasol propionate) lên vùng bị ảnh hưởng dưới dạng bôi mỏng mỗi ngày một lần. Kem bôi có thể được ưa chuộng hơn, nhưng dễ gây châm chích khi bôi.
+- Bọt hydrocortisone có thể được sử dụng bên trong âm đạo hoặc hậu môn.
+
+### Chất ức chế calcineurin
+[Thuốc ức chế calcineurin](https://dermnetnz.org/topics/calcineurin-inhibitors) như [kem pimecrolimus](https://dermnetnz.org/topics/pimecrolimus) hoặc [thuốc mỡ tacrolimus](https://dermnetnz.org/topics/tacrolimus) đã được chứng minh là rất hiệu quả đối với một số bệnh nhân bị liken phẳng ăn mòn. Thuốc được bôi một hoặc hai lần mỗi ngày trong vài tuần. Có thể lặp lại liệu trình nếu cần.
+[Nước súc miệng](https://dermnetnz.org/topics/mouthwash) có chứa [ciclosporin](https://dermnetnz.org/topics/ciclosporin) hoặc tacrolimus được phát hiện có tác dụng chữa bệnh răng miệng.
+
+### Steroid toàn thân
+[Steroid toàn thân](https://dermnetnz.org/topics/systemic-steroids) như prednisone có thể được kê đơn trong vài tuần hoặc lâu hơn, thường ở liều 0,5–1 mg/kg/ngày. Khi vết loét lành, liều dùng sẽ giảm dần. Sử dụng steroid toàn thân lâu dài có thể gây ra [các tác dụng phụ](https://dermnetnz.org/topics/prophylaxis-systemic-steroid) nghiêm trọng . Ở nhiều bệnh nhân, canxi và [vitamin D](https://dermnetnz.org/topics/vitamin-d) cũng nên được kê đơn để giảm nguy cơ loãng xương do corticosteroid gây ra.
+
+### Methotrexate
+[Methotrexate](https://dermnetnz.org/topics/methotrexate) được dùng với liều 10–20mg mỗi tuần một lần. Axit folic thường được bổ sung để giảm nguy cơ tác dụng phụ tiềm ẩn. Thuốc này có thể rất hiệu quả đối với liken phẳng ăn mòn, với sự cải thiện hoặc lành bệnh trong vòng một đến ba tháng. Có thể tiếp tục sử dụng lâu dài nếu cần. Cần theo dõi công thức máu, chức năng gan và nồng độ procollagen. Nên hạn chế uống rượu. Không sử dụng thuốc này trong thời kỳ mang thai.
+
+### Các phương pháp điều trị bằng miệng khác
+Các loại thuốc khác đôi khi có tác dụng bao gồm:
+- [Mycophenolate mofetil](https://dermnetnz.org/topics/mycophenolate-mofetil)
+- [Thuốc kháng sinh](https://dermnetnz.org/topics/antibiotics) uống , chẳng hạn như [tetracycline](https://dermnetnz.org/topics/tetracycline)
+- [Thuốc chống nấm đường uống](https://dermnetnz.org/topics/oral-antifungal-medication)
+- [Acitretin](https://dermnetnz.org/topics/acitretin)
+- [Hydroxychloroquine](https://dermnetnz.org/topics/hydroxychloroquine)
+- [Azathioprine](https://dermnetnz.org/topics/azathioprine-and-mercaptopurine)
+- [Ciclosporin](https://dermnetnz.org/topics/ciclosporin)
+- [Dapsone](https://dermnetnz.org/topics/dapsone)
+- [Colchicin](https://dermnetnz.org/topics/colchicine)
+- [Thalidomide](https://dermnetnz.org/topics/thalidomide)
+- [Roflumilast](https://dermnetnz.org/topics/roflumilast) .
+
+### Ca phẫu thuật
+Phẫu thuật cắt bỏ các dính ở âm hộ và âm đạo và sẹo do liken phẳng đôi khi có thể được thực hiện để giảm khó tiểu và cho phép giao hợp. Các thủ thuật có thể bao gồm:
+- Sự giãn nở của âm đạo
+- Phẫu thuật cắt tầng sinh môn đơn giản (phân chia các điểm dính)
+- Quy trình Fenton (một vết rạch được sửa chữa theo chiều ngang)
+- Phẫu thuật tầng sinh môn ( cắt bỏ mô liên quan và tiến triển niêm mạc âm đạo)
+Các phương pháp điều trị khác đã được thử nghiệm bao gồm [liệu pháp quang động](https://dermnetnz.org/topics/photodynamic-therapy) và liệu pháp siêu âm tập trung .

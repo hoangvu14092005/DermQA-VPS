@@ -1,0 +1,86 @@
+# Bệnh nấm nách Trichomycosis — thông tin bổ sung
+
+Thể loại:
+
+Nhiễm trùng
+
+SNOMED CT:
+
+49894005, 426006006, 72243003, 26147006
+
+**[Nhiễm trùng](https://dermnetnz.org/topics/topics?category=Infections)**
+
+
+# **Bệnh nấm nách Trichomycosis**
+
+Tác giả: Vanessa Ngan, Biên tập viên, 2003.Cập nhật bởi Tiến sĩ Jannet Gomez, Sinh viên sau đại học chuyên ngành Da liễu lâm sàng, Đại học Queen Mary London, Vương quốc Anh, tháng 4 năm 2016.
+
+---
+
+## Bệnh nấm nách Trichomycosis là gì?
+
+Nhiễm trùng lông nách do nấm Trichomycosis là một bệnh nhiễm trùng nông do vi khuẩn ở lông nách. Bệnh đặc trưng bởi các nốt sần hoặc cục kết hạt màu vàng, đen hoặc đỏ bám vào thân lông. Bệnh cũng có thể ảnh hưởng đến lông mu (khi được gọi là nhiễm trùng lông mu) , lông bìu và lông giữa hai mông .
+Tên gọi này gây hiểu lầm vì "trichomycosis" có nguồn gốc [từ vi khuẩn](https://dermnetnz.org/topics/bacterial-skin-infections) chứ không phải là [bệnh nhiễm trùng do nấm](https://dermnetnz.org/topics/fungal-skin-infections) .
+![Bệnh nấm nách Trichomycosis](https://dermnetnz.org/assets/Uploads/bacterial/trich-axil1.jpg)
+![Bệnh nấm nách Trichomycosis](https://dermnetnz.org/assets/Uploads/doctors/bacterial-infections/images/trich-axil3.jpg)
+![Bệnh nấm nách Trichomycosis](https://dermnetnz.org/assets/Uploads/bacterial/trich-axil2.jpg)
+
+---
+
+## Nguyên nhân gây ra bệnh nấm nách là gì?
+
+Bệnh nấm nách do vi khuẩn Corynebacterium ( Corynebacterium tenuis, C propinguum, C flavescens) và Serratia marcescens phát triển quá mức . Các khối u này là những vi khuẩn tập trung dày đặc. Vi khuẩn sinh sôi ở những vùng ẩm ướt trên cơ thể, do đó chủ yếu ảnh hưởng đến lông nách và ít hơn là lông mu.
+Vi khuẩn gây ra mùi hôi do quá trình chuyển hóa testosterone trong mồ hôi thành các hợp chất có mùi.
+
+---
+
+## Ai có thể mắc bệnh nấm nách Trichomycosis?
+
+Bệnh nấm lông nách (Trichomycosis axillaris) xảy ra ở cả nam và nữ thuộc mọi chủng tộc ở vùng khí hậu ôn đới và nhiệt đới. Bệnh này dường như phổ biến ở nam giới hơn nữ giới, nhưng điều này là do nhiều phụ nữ thường cạo lông nách.
+Các yếu tố góp phần bao gồm:
+- Độ ẩm và độ ấm
+- Tình trạng đông đúc
+- Vệ sinh kém
+- [Tăng tiết mồ hôi](https://dermnetnz.org/topics/hyperhidrosis)
+- Béo phì
+
+---
+
+## Các đặc điểm lâm sàng của bệnh nấm nách Trichomycosis là gì?
+
+Bệnh nấm nách Trichomycosis không có triệu chứng và thường bị bỏ qua. Các dấu hiệu bao gồm:
+- Nách đổ mồ hôi và có mùi hôi
+- Các khối kết tụ màu vàng, đỏ hoặc đen dày khoảng 1–2 mm bao quanh thân tóc, khiến tóc trông như hạt hoặc dày hơn. Khối kết tụ màu vàng là phổ biến nhất, trong khi khối kết tụ màu đỏ và đen thường thấy ở vùng khí hậu nhiệt đới.
+- Mồ hôi cũng có thể đổi màu thành vàng, đỏ hoặc đen và có thể làm ố quần áo
+- Rụng tóc là tình trạng hiếm gặp và là do vi khuẩn xâm nhập và phá hủy thân tóc.
+Bộ ba Corynebacterial là sự xuất hiện của [erythrasma](https://translate.google.com/website) , trichomycosis axillaris và [keratolysis có lỗ](https://translate.google.com/website) ở một cá thể.
+
+---
+
+## Biến chứng của bệnh nấm nách Trichomycosis là gì?
+
+Bệnh nấm nách Trichomycosis là một tình trạng lành tính và không có biến chứng nào.
+
+---
+
+## Bệnh trichomycosis nách được chẩn đoán như thế nào?
+
+- Bệnh nấm nách Trichomycosis thường được chẩn đoán dựa vào biểu hiện lâm sàng.
+- Kiểm tra bằng đèn Wood cho thấy huỳnh quang màu vàng nhạt.
+- Chuẩn bị kali hydroxit và nhuộm Gram có thể xác định được vi khuẩn.
+Tình trạng này có thể giống với [bệnh rận mu (chàm](https://dermnetnz.org/topics/pubic-lice) ) và nhiễm trùng Trichosporon aselie .
+
+---
+
+## Điều trị bệnh nấm nách bằng phương pháp nào?
+
+Cách nhanh nhất để loại bỏ bệnh nấm nách là cắt bỏ những sợi lông bị ảnh hưởng hoặc cạo vùng da đó.
+Các chế phẩm kháng khuẩn tại chỗ hiệu quả bao gồm [clindamycin](https://dermnetnz.org/topics/treatments/clindamycin.html) , [erythromycin](https://dermnetnz.org/topics/treatments/erythromycin.html) và [axit fusidic](https://dermnetnz.org/topics/topical-fusidic-acid) . Bột clotrimazole cũng có tác dụng chữa bệnh.
+
+---
+
+## Làm thế nào để phòng ngừa bệnh nấm nách?
+
+Ngăn ngừa bệnh nấm nách tái phát bằng cách giữ cho vùng da dưới cánh tay khô ráo và sạch sẽ.
+- Thuốc chống mồ hôi có chứa nhôm clorua làm giảm tiết mồ hôi
+- [Thuốc sát trùng](https://dermnetnz.org/topics/antiseptic) như gel hoặc sữa rửa mặt [benzoyl peroxide giúp giảm sự xâm nhập của vi khuẩn](https://dermnetnz.org/topics/benzoyl-peroxide)

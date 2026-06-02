@@ -1,0 +1,103 @@
+# Bệnh zona — thông tin bổ sung
+
+Thể loại:
+
+Nhiễm trùng, phát ban
+
+SNOMED CT:
+
+4740000, 19551004, 2177002, 449783002
+
+**[Nhiễm trùng, phát ban](https://dermnetnz.org/topics/topics?category=Infections)**
+
+
+# **Bệnh zona**
+
+Tác giả: Giáo sư danh dự Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand, 1997. Cập nhật tháng 10 năm 2015.Cập nhật nhỏ vào tháng 10 năm 2025.
+
+---
+
+## Bệnh herpes zoster là gì?
+
+Bệnh zona thần kinh là tình trạng phát ban khu trú , phồng rộp và đau đớn do virus varicella-zoster (VZV) tái hoạt động. Bệnh zona thần kinh còn được gọi là bệnh zona thần kinh.
+VZV còn được gọi là herpesvirus 3 và là thành viên của bộ Herpesvirales gồm các loại virus DNA sợi đôi .
+![Bệnh zona](https://dermnetnz.org/assets/Uploads/viral/zoster-13.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/viral/s/hz2.jpg)
+![Bệnh zona](https://dermnetnz.org/assets/Uploads/viral/zoster-12.jpg)
+
+---
+
+## Ai có thể mắc bệnh herpes zoster?
+
+Bất kỳ ai đã từng mắc bệnh thủy đậu [đều](https://dermnetnz.org/topics/chickenpox) có thể bị zona thần kinh. Bệnh zona thần kinh có thể xảy ra ở trẻ em nhưng phổ biến hơn nhiều ở người lớn, đặc biệt là người cao tuổi. Những người mắc nhiều loại ung thư khác nhau có nguy cơ mắc zona thần kinh cao hơn 40% . Những người đã từng mắc zona thần kinh hiếm khi bị lại; nguy cơ tái phát chỉ khoảng 1%.
+Bệnh zona thường ảnh hưởng đến những người có hệ miễn dịch yếu.
+
+---
+
+## Nguyên nhân gây ra bệnh herpes zoster là gì?
+
+Sau khi nhiễm trùng ban đầu —varicella—VZV vẫn ở trạng thái tiềm ẩn trong các tế bào thần kinh hạch rễ lưng ở cột sống trong nhiều năm trước khi được kích hoạt lại và di chuyển xuống các dây thần kinh cảm giác đến da để gây ra bệnh herpes zoster.
+Hiện vẫn chưa rõ tại sao bệnh zona lại ảnh hưởng đến một sợi thần kinh cụ thể. Đôi khi, các yếu tố khởi phát được xác định, chẳng hạn như:
+- Áp lực lên rễ thần kinh
+- Xạ trị ở mức rễ thần kinh bị ảnh hưởng
+- Phẫu thuật cột sống
+- Một bệnh nhiễm trùng
+- Chấn thương (không nhất thiết phải ở cột sống)
+- Tiếp xúc với người bị bệnh thủy đậu hoặc herpes zoster
+
+---
+
+## Các đặc điểm lâm sàng của bệnh zona là gì?
+
+Bệnh zona đặc trưng bởi [sự phân bố ở da](https://dermnetnz.org/topics/dermatomes) , tức là các mụn nước chỉ giới hạn ở vùng da phân bố của một hoặc hai dây thần kinh cảm giác liền kề . Thường là một bên , với đường cắt sắc nét ở đường giữa trước và sau .
+Biểu hiện lâm sàng của bệnh zona phụ thuộc vào độ tuổi, sức khỏe của bệnh nhân và [vùng da](https://dermnetnz.org/topics/dermatomes) bị ảnh hưởng.
+Dấu hiệu đầu tiên của bệnh zona thường là đau khu trú, không đau hoặc không có bất kỳ thay đổi nào trên da. Cơn đau có thể nghiêm trọng, liên quan đến một hoặc nhiều dây thần kinh cảm giác. Cơn đau có thể chỉ ở một chỗ hoặc lan rộng. Bệnh nhân có thể cảm thấy khá khó chịu kèm theo sốt và đau đầu. Các hạch bạch huyết dẫn lưu vùng bị ảnh hưởng thường sưng to và đau.
+Trong vòng một đến ba ngày sau khi khởi phát cơn đau, một vùng da bị phồng rộp sẽ xuất hiện. Ban đầu là một đám sẩn đỏ. Các tổn thương mới tiếp tục bùng phát trong nhiều ngày trong phạm vi phân bố của dây thần kinh bị ảnh hưởng, mỗi tổn thương phồng rộp hoặc trở thành mụn mủ rồi đóng vảy.
+Các vùng chi phối thần kinh cảm giác ở ngực (ngực), cổ (cổ), trán (mắt) và thắt lưng/xương cùng thường bị ảnh hưởng nhất ở mọi lứa tuổi. Tần suất mắc bệnh zona mắt tăng theo tuổi. Bệnh zona đôi khi gây ra mụn nước bên trong miệng hoặc tai, và cũng có thể ảnh hưởng đến vùng sinh dục. Đôi khi có thể bị đau mà không phát ban—herpes zoster "sine eruptione"—hoặc phát ban không đau, thường gặp nhất ở trẻ em.
+Đau và các triệu chứng chung giảm dần khi mụn nước biến mất. Trong những trường hợp không biến chứng, trẻ em và thanh thiếu niên sẽ hồi phục hoàn toàn trong vòng 2–3 tuần, và bệnh nhân lớn tuổi sẽ hồi phục hoàn toàn trong vòng 3–4 tuần.
+![Bệnh zona](https://dermnetnz.org/assets/Uploads/doctors/viral-infections/images/hvz2.jpg)
+![Bệnh zona](https://dermnetnz.org/assets/Uploads/viral/zoster-14.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/viral/zoster3.jpg)
+[Xem thêm hình ảnh về bệnh herpes zoster](https://dermnetnz-org.translate.goog/topics/herpes-zoster-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp) .
+
+---
+
+## Biến chứng của bệnh herpes zoster là gì?
+
+- Liên quan đến một số [đốt da](https://dermnetnz.org/topics/dermatomes) , hoặc đôi khi, phát ban ở hai bên đốt da riêng biệt
+- Biến chứng về mắt khi nhánh nhãn khoa của dây thần kinh sọ não thứ năm bị ảnh hưởng
+- Các vết phồng rộp sâu mất nhiều tuần để lành và để lại sẹo
+- Yếu cơ xảy ra ở khoảng một trong 20 bệnh nhân. Liệt dây thần kinh mặt là biến chứng thường gặp nhất (xem [hội chứng Ramsay Hunt](https://dermnetnz.org/topics/ramsay-hunt-syndrome) ). Khả năng hồi phục hoàn toàn là 50%, nhưng có thể dự kiến ​​một số cải thiện trong hầu hết các trường hợp.
+- Nhiễm trùng các cơ quan nội tạng, bao gồm đường tiêu hóa, phổi và não ( viêm não )
+Bệnh herpes zoster có thể lây nhiễm cho những người chưa từng bị thủy đậu.
+Không giống như bệnh thủy đậu, bệnh zona ở phụ nữ mang thai có hệ miễn dịch bình thường không liên quan đến hội chứng thủy đậu bẩm sinh , lây truyền VZV sang thai nhi trong tử cung, sảy thai hoặc sinh non.
+
+### Đau dây thần kinh sau zona
+[Đau dây thần kinh sau zona](https://dermnetnz.org/topics/post-herpetic-neuralgia) được định nghĩa là tình trạng đau dai dẳng hoặc tái phát ở cùng một vùng, hơn một tháng sau khi khởi phát bệnh zona. Tình trạng này ngày càng phổ biến theo tuổi tác, ảnh hưởng đến khoảng một phần ba số bệnh nhân trên 40 tuổi. Tình trạng này đặc biệt dễ xảy ra nếu có nhiễm trùng mặt. Đau dây thần kinh sau zona có thể là cảm giác nóng rát liên tục kèm theo tăng nhạy cảm ở các vùng bị ảnh hưởng hoặc đau nhói co thắt. Da bên trên thường bị tê hoặc cực kỳ nhạy cảm khi chạm vào. Đôi khi, thay vì đau, đau dây thần kinh gây ngứa dai dẳng ( [ngứa](https://dermnetnz.org/topics/pruritus) thần kinh ). [](https://dermnetnz.org/topics/pruritus)
+
+---
+
+## Phương pháp điều trị bệnh herpes zoster là gì?
+
+
+### Phòng ngừa bệnh zona
+Do nguy cơ biến chứng nghiêm trọng do herpes zoster cao hơn ở người cao tuổi, những người trên 60 tuổi có thể cân nhắc tiêm vắc-xin ngừa herpes zoster, giúp giảm một nửa tỷ lệ mắc bệnh. Ở những người mắc herpes zoster mặc dù đã được tiêm vắc-xin, các triệu chứng thường nhẹ hơn và ít có khả năng phát triển chứng đau dây thần kinh sau zona. Tại New Zealand, vắc-xin ngừa zona sẽ được tài trợ từ ngày 1 tháng 4 năm 2018 cho những người từ 66 đến 80 tuổi.
+Vắc-xin phòng bệnh zona chống chỉ định ở những bệnh nhân suy giảm miễn dịch do có nguy cơ gây nhiễm trùng zona lan tỏa .
+
+### Các biện pháp chung
+- Nghỉ ngơi và giảm đau
+- Thuốc mỡ bảo vệ bôi lên vùng phát ban, chẳng hạn như dầu hỏa.
+- Thuốc kháng sinh uống cho nhiễm trùng thứ phát
+
+### Các biện pháp cụ thể
+Điều trị bằng thuốc kháng vi-rút có thể giảm đau và rút ngắn thời gian triệu chứng nếu bắt đầu trong vòng một đến ba ngày sau khi khởi phát herpes zoster. Aciclovir 800 mg, 5 lần mỗi ngày, trong bảy ngày thường được kê đơn nhất. Valaciclovir và famciclovir cũng hữu ích. Hiệu quả của việc kê đơn steroid toàn thân chưa được chứng minh.
+
+### Đau dây thần kinh sau zona
+- Sử dụng thuốc kháng vi-rút sớm
+- [](https://dermnetnz.org/topics/local-anaesthesia) Ứng dụng [gây tê tại chỗ](https://dermnetnz.org/topics/local-anaesthesia)
+- [Capsaicin bôi ngoài da](https://dermnetnz.org/topics/capsaicin)
+- Thuốc chống trầm cảm ba vòng như [amitriptyline](https://dermnetnz.org/topics/tricyclic-antidepressants)
+- Thuốc chống động kinh [gabapentin](https://dermnetnz.org/topics/gabapentin) và pregabalin
+- Kích thích thần kinh bằng điện xuyên da hoặc châm cứu
+- [Tiêm độc tố Botulinum](https://dermnetnz.org/topics/botulinum-toxin) vào vùng bị ảnh hưởng
+Thuốc chống viêm không steroid và thuốc phiện thường không có tác dụng.

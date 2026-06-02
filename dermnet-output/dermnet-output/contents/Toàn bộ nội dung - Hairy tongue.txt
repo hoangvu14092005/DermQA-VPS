@@ -1,0 +1,83 @@
+# Lưỡi có lông — thông tin bổ sung
+
+Thể loại:
+
+Thuật ngữ
+
+SNOMED CT:
+
+81934005
+
+**[Thuật ngữ](https://dermnetnz.org/topics/topics?category=Terminology)**
+
+
+# **Lưỡi có lông**
+
+Tác giả: Beth Wright, Thực tập sinh Y khoa cốt cán, Bristol, Vương quốc Anh; Tổng biên tập: Tiến sĩ Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand, tháng 12 năm 2014.
+
+---
+
+## Lưỡi lông là gì?
+
+Lưỡi lông là một tình trạng bất thường, vô hại, đặc trưng bởi sự phình to và đổi màu của các gai lưỡi . Gai lưỡi là những cục u nhỏ hình nón nằm trên bề mặt của hai phần ba phía trước lưỡi, không có nụ vị giác.
+Nó còn được gọi là lưỡi lông đen và lưỡi gai đen.
+
+---
+
+## Ai bị lưỡi có lông?
+
+Lưỡi có lông thường xảy ra ở người lớn trên 40 tuổi và hiếm gặp ở trẻ sơ sinh [1].
+Một loạt các loại thuốc có liên quan đến lưỡi lông bao gồm [penicillin](https://dermnetnz.org/topics/penicillin) , [erythromycin](https://dermnetnz.org/topics/erythromycin) , [tetracycline, doxycycline,](https://dermnetnz.org/topics/tetracycline) lansoprazole, olanzapine, bismuth [1], erlotinib [2], linezolid [3].
+Các yếu tố khác có thể gây ra và/hoặc làm trầm trọng thêm tình trạng lưỡi có lông bao gồm:
+- Vệ sinh răng miệng kém
+- [Hút thuốc](https://dermnetnz.org/topics/smoking-and-its-effects-on-the-skin) hoặc nhai thuốc lá
+- Uống [rượu](https://dermnetnz.org/topics/cutaneous-adverse-effects-of-alcohol)
+- Cocaine
+- [Nước súc miệng](https://dermnetnz.org/topics/mouthwash) có chứa chlorhexidine hoặc peroxidase [](https://dermnetnz.org/topics/mouthwash)
+- Đồ uống có màu, bao gồm cà phê
+- Mất nước
+- Giảm tiết nước bọt (khô miệng)
+- [Xạ trị](https://dermnetnz.org/topics/radiotherapy-for-malignant-skin-diseases) [3].
+
+---
+
+## Đặc điểm lâm sàng của lưỡi lông là gì?
+
+Các gai chỉ có thể dài tới 18 mm—trông giống như 'lông' [4]. Lưỡi bị đổi màu, thường là nâu hoặc đen, mặc dù nâu, vàng và xanh lá cây cũng đã được mô tả [5]. Mặt sau của lưỡi thường bị ảnh hưởng, còn đầu và hai bên lưỡi thường không bị ảnh hưởng [4].
+Lưỡi lông thường không có triệu chứng và vấn đề chính là vẻ ngoài mất thẩm mỹ. Đôi khi, bệnh nhân có thể phàn nàn về cảm giác nóng rát hoặc ngứa ran trên lưỡi, buồn nôn hoặc hôi miệng.
+![Lưỡi đen có lông](https://dermnetnz.org/assets/Uploads/reactions/smoker-tongue.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/site-age-specific/s/black-hairy-tongue-2.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/site-age-specific/s/black-hairy-tongue-4.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/site-age-specific/black-hairy-tongue-1.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/site-age-specific/black-hairy-tongue-3.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/site-age-specific/black-hairy-tongue-5.jpg)
+
+---
+
+## Nguyên nhân nào gây ra tình trạng lưỡi có lông?
+
+Lưỡi lông là do sự bong tróc tế bào bề mặt không hoàn chỉnh. Các gai chỉ bất thường ngăn cản quá trình làm sạch và cắt lọc bình thường của lưỡi, do đó các mảnh vụn tích tụ. Vi khuẩn và nấm men sau đó phát triển quá mức và tạo ra porphyrin (hợp chất hữu cơ có màu đậm), có thể góp phần gây đổi màu lưỡi [5].
+
+---
+
+## Bệnh lưỡi lông được chẩn đoán như thế nào?
+
+Lưỡi có lông là một chẩn đoán lâm sàng [4].
+Điều quan trọng là phải khai thác bệnh sử chi tiết để xác định các yếu tố có thể góp phần gây bệnh. Các xét nghiệm có thể bao gồm:
+- [Tăm bông để nuôi cấy vi khuẩn](https://dermnetnz.org/topics/laboratory-tests-for-bacterial-infections)
+- [Cạo nấm](https://dermnetnz.org/topics/laboratory-tests-for-fungal-infection)
+- [Sinh thiết](https://dermnetnz.org/topics/skin-biopsy) lưỡi [](https://dermnetnz.org/topics/skin-biopsy)
+
+---
+
+## Cách điều trị bệnh lưỡi lông là gì?
+
+Lưỡi lông thường tự khỏi. Nếu muốn, có thể lựa chọn điều trị như sau:
+- Ngừng sử dụng thuốc có trách nhiệm
+- Tránh hút thuốc và uống quá nhiều rượu
+- Khuyến khích vệ sinh răng miệng tốt
+- Làm sạch lưỡi nhẹ nhàng, bằng dụng cụ cạo lưỡi hoặc bàn chải đánh răng mềm và dung dịch chứa 3% [hydrogen peroxide](https://dermnetnz.org/topics/hydrogen-peroxide) hoặc baking soda [1]
+- [](https://dermnetnz.org/topics/antiseptic) [Nước súc miệng](https://dermnetnz.org/topics/mouthwash) [sát trùng](https://dermnetnz.org/topics/antiseptic) [](https://dermnetnz.org/topics/mouthwash)
+- [Thuốc chống nấm tại chỗ](https://dermnetnz.org/topics/topical-antifungal-medication) cho [bệnh nấm Candida albicans ở miệng](https://dermnetnz.org/topics/oral-candidiasis) nếu có
+- [Retinoid tại chỗ](https://dermnetnz.org/topics/topical-retinoids)
+Nếu phương pháp điều trị khác không hiệu quả, việc cắt tỉa nhú bằng cách đốt [laser](https://dermnetnz.org/topics/lasers-in-dermatology) carbon dioxide và [điện phân](https://dermnetnz.org/topics/electrosurgery) đã được mô tả [5].

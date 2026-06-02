@@ -1,0 +1,74 @@
+# Bệnh hắc tố mủ thoáng qua ở trẻ sơ sinh — thông tin bổ sung
+
+Thể loại:
+
+Phát ban
+
+SNOMED CT:
+
+239092005
+
+**[Phát ban](https://dermnetnz.org/topics/topics?category=Rashes)**
+
+
+# **Bệnh hắc tố mụn mủ thoáng qua ở trẻ sơ sinh**
+
+Tác giả: Tiến sĩ Diana Norris, Chuyên viên Đăng ký Da liễu, Quỹ Da liễu và Ung thư Victoria, Carlton, VIC, Úc.Tổng biên tập DermNet New Zealand: Phó Giáo sư Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand. Biên tập bởi Gus Mitchell/Maria McGivern. Tháng 2 năm 2018.
+
+---
+
+## Bệnh hắc tố mụn mủ thoáng qua ở trẻ sơ sinh là gì?
+
+Bệnh hắc tố mụn mủ thoáng qua ở trẻ sơ sinh là một tình trạng mụn mủ lành tính hiếm gặp ở [trẻ sơ sinh](https://dermnetnz.org/topics/skin-conditions-in-newborn-babies) [1]. Bệnh này còn được gọi là bệnh da mụn mủ thoáng qua ở trẻ sơ sinh và bệnh mụn mủ thoáng qua ở trẻ sơ sinh. [](https://dermnetnz.org/topics/skin-conditions-in-newborn-babies)
+![Bệnh hắc tố mủ ở trẻ sơ sinh](https://dermnetnz.org/assets/Uploads/neonatal-pustular-melanosis-1.jpg)
+![Bệnh hắc tố mủ ở trẻ sơ sinh](https://dermnetnz.org/assets/Uploads/neonatal-pustular-melanosis-2.jpg)
+![Bệnh hắc tố mụn mủ thoáng qua ở trẻ sơ sinh](https://dermnetnz.org/assets/Uploads/neonatal-pustular-melanosis-v3.jpg)
+
+---
+
+## Ai mắc bệnh hắc tố mụn mủ thoáng qua ở trẻ sơ sinh?
+
+Bệnh hắc tố mụn mủ thoáng qua ở trẻ sơ sinh ảnh hưởng đến 0,2–4% trẻ sơ sinh trong vài ngày đầu đời [2]. Bệnh này phổ biến hơn ở trẻ sơ sinh người Mỹ gốc Phi so với trẻ sơ sinh người Mỹ da trắng, ảnh hưởng đến 4,4% trẻ sơ sinh người Mỹ gốc Phi [3].
+
+---
+
+## Nguyên nhân nào gây ra bệnh hắc tố mụn mủ thoáng qua ở trẻ sơ sinh?
+
+Nguyên nhân gây ra bệnh hắc tố mụn mủ thoáng qua ở trẻ sơ sinh vẫn chưa được biết rõ. Một số tác giả cho rằng đây có thể là một biến thể của [ban đỏ nhiễm độc ở trẻ sơ sinh](https://dermnetnz.org/topics/toxic-erythema-of-the-newborn) [4].
+
+---
+
+## Các đặc điểm lâm sàng của bệnh hắc tố mụn mủ thoáng qua ở trẻ sơ sinh là gì?
+
+Đặc điểm lâm sàng chính của bệnh hắc tố mụn mủ thoáng qua ở trẻ sơ sinh là sự xuất hiện của [mụn mủ](https://dermnetnz.org/topics/pustular-skin-conditions) . Chúng xuất hiện trên nền da không bị ảnh hưởng, không ban đỏ [1].
+- Bất kỳ vùng nào cũng có thể bị ảnh hưởng, bao gồm trán, tai sau , cằm, cổ, ngực trên, lưng, mông, bụng, đùi, lòng bàn tay và lòng bàn chân của bệnh nhân [1].
+- Các tổn thương có thể đơn độc hoặc xuất hiện thành từng cụm [1].
+- Các mụn mủ có thể vỡ và đóng vảy , tự khỏi sau vài ngày [1].
+- Các mụn mủ có thể để lại vùng tăng sắc tố , mờ dần trong vòng vài tuần đến vài tháng [1].
+- Các đốm sắc tố có thể có vảy hình vòng cổ [2].
+- Các mụn mủ xuất hiện khi sinh và phát triển; các tổn thương mới thường không phát triển sau khi sinh [1].
+- Không có triệu chứng toàn thân hoặc bất thường nào về xét nghiệm liên quan.
+
+---
+
+## Bệnh hắc tố mụn mủ thoáng qua ở trẻ sơ sinh được chẩn đoán như thế nào?
+
+Chẩn đoán bệnh hắc tố mụn mủ thoáng qua ở trẻ sơ sinh dựa vào lâm sàng. Không cần xét nghiệm.
+Sinh [thiết da](https://dermnetnz.org/topics/skin-biopsy) cho thấy thâm nhiễm bạch cầu trung tính ở lớp biểu bì hoặc hạ bì , thường có mụn mủ dưới giác mạc và đôi khi có bạch cầu ái toan [2,5]. Mụn mủ chứa bạch cầu trung tính không có vi sinh vật [1].
+
+---
+
+## Chẩn đoán phân biệt cho bệnh hắc tố mụn mủ thoáng qua ở trẻ sơ sinh là gì?
+
+Chẩn đoán phân biệt đối với bệnh hắc tố mụn mủ thoáng qua ở trẻ sơ sinh bao gồm:
+- [Ban đỏ nhiễm độc ở trẻ sơ sinh](https://dermnetnz.org/topics/toxic-erythema-of-the-newborn)
+- [Viêm nang lông do tụ cầu](https://dermnetnz.org/topics/staphylococcal-skin-infection) và các bệnh nhiễm trùng [do vi khuẩn](https://dermnetnz.org/topics/bacterial-skin-infections) , [vi-rút](https://dermnetnz.org/topics/viral-skin-infections) và [nấm candida khác](https://dermnetnz.org/topics/candida)
+- [Miliaria](https://dermnetnz.org/topics/miliaria)
+- [Bệnh mủ đầu chi ở trẻ sơ sinh](https://dermnetnz.org/topics/acropustulosis-of-infancy)
+- [Viêm mủ đầu ở trẻ sơ sinh](https://dermnetnz.org/topics/neonatal-cephalic-pustulosis) .
+
+---
+
+## Phương pháp điều trị bệnh hắc tố mụn mủ thoáng qua ở trẻ sơ sinh là gì?
+
+Không cần điều trị bệnh hắc tố mụn mủ thoáng qua ở trẻ sơ sinh vì bệnh này tự khỏi và không có biến chứng lâu dài [5,6].

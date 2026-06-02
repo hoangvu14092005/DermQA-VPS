@@ -1,0 +1,40 @@
+# Ung thư biểu mô tế bào vảy hậu môn sinh dục — thông tin bổ sung
+
+Thể loại:
+
+Tổn thương (ung thư)
+
+SNOMED CT:
+
+402816008, 403468003, 276860003, 254895003, 722678003, 255084004, 403904009
+
+**[Tổn thương (ung thư)](https://dermnetnz.org/topics/topics?category=Lesions+(cancerous))**
+
+
+# **Ung thư biểu mô tế bào vảy hậu môn sinh dục**
+
+Tổng Biên tập DermNet: Giáo sư/Tiến sĩ Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand. Biên tập viên: Maria McGivern/Gus Mitchell, tháng 9 năm 2017
+
+---
+
+## Ung thư biểu mô tế bào vảy xâm lấn
+
+Ung thư biểu mô tế bào vảy hậu môn sinh dục (SCC) xâm lấn chủ yếu được phân loại theo vị trí nguyên phát . Các phân loại bao gồm:
+- Ung thư biểu mô tế bào vảy dương vật Ung thư biểu mô tế bào vảy dạng sùi ở dương vật
+- Ung thư biểu mô tế bào vảy dạng sùi ở dương vật
+- Ung thư biểu mô tế bào vảy ở bìu
+- [Ung thư biểu mô tế bào vảy ở âm hộ](https://dermnetnz.org/topics/vulval-cancer) Ung thư biểu mô tế bào vảy dạng sùi ở âm hộ
+- Ung thư biểu mô tế bào vảy dạng sùi ở âm hộ
+- Ung thư biểu mô tế bào vảy ở âm đạo
+- [Ung thư hậu môn](https://dermnetnz.org/topics/anal-cancer-and-anal-canal-cancer) , bao gồm ung thư biểu mô tế bào vảy ở rìa hậu môn .
+
+---
+
+## Ung thư biểu mô tế bào vảy nội biểu mô
+
+Ung thư biểu mô tế bào vảy nội biểu mô liên quan đến nhiễm virus papilloma ở người được gọi là [tổn thương biểu mô vảy nội biểu mô độ ác tính cao (HSIL)](https://dermnetnz.org/topics/squamous-intraepithelial-lesion) . Các loại bao gồm:
+- [Tân sinh biểu mô dương vật](https://dermnetnz.org/topics/penile-intraepithelial-neoplasia) (PIN)
+- [Tân sinh biểu mô âm hộ](https://dermnetnz.org/topics/vulval-intraepithelial-neoplasia) (VIN)
+- Tân sinh biểu mô âm đạo (VAIN)
+- Tân sinh biểu mô hậu môn (AIN)
+- [Sẩn Bowenoid](https://dermnetnz.org/topics/bowenoid-papulosis) .

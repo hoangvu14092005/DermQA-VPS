@@ -1,0 +1,53 @@
+# Erysipeloid — thông tin bổ sung
+
+Thể loại:
+
+Nhiễm trùng
+
+SNOMED CT:
+
+400105005, 48666005, 240394009, 240395005, 240396000, 447684006
+
+**[Nhiễm trùng](https://dermnetnz.org/topics/topics?category=Infections)**
+
+
+# **Erysipeloid**
+
+Tác giả: Vanessa Ngan, Biên tập viên, 2003. Cập nhật tháng 6 năm 2014.
+
+---
+
+## Bệnh hồng ban là gì?
+
+Bệnh hồng ban là bệnh nhiễm trùng cấp tính ở da và các cơ quan khác do vi khuẩn Erysipelothrix rhusiopathiae (trước đây gọi là E. insidiosa ) gây ra.
+
+---
+
+## Nguyên nhân gây bệnh hồng ban là gì và ai có nguy cơ mắc bệnh này?
+
+Nhiễm trùng E. rhusiopathiae ở người xảy ra thông qua tiếp xúc trực tiếp với thịt của động vật, gia cầm, cá và động vật có vỏ bị nhiễm bệnh. Nhiễm trùng chỉ có thể xảy ra nếu người bệnh bị trầy xước hoặc cắt vào vùng da cho phép vi khuẩn xâm nhập. Những người có nguy cơ mắc bệnh hồng ban bao gồm ngư dân, [nông dân](https://dermnetnz.org/topics/skin-problems-in-farmers) , người bán thịt, công nhân lò mổ, [bác sĩ thú y](https://dermnetnz.org/topics/skin-disorders-in-veterinarians-and-veterinary-nurses) và [đầu bếp](https://dermnetnz.org/topics/occupational-skin-disorders-in-chefs-and-restaurant-workers) .
+
+---
+
+## Các dấu hiệu và triệu chứng của bệnh hồng ban là gì?
+
+Bệnh hồng ban có thể ảnh hưởng đến con người theo ba cách.
+Dạng phổ biến nhất và ít nghiêm trọng nhất là bệnh hồng ban khu trú ở da , một bệnh tự giới hạn với các đặc điểm sau:
+- Các tổn thương màu đỏ tươi đến tím rõ ràng , bề mặt nhẵn bóng. Chúng lan rộng dần trong vài ngày, có viền sắc nét hoặc cong, có thể có mụn nước nhỏ.
+- Các tổn thương có thể ấm và đau, gây đau hoặc nóng rát
+- Thường xảy ra ở bàn tay, màng ngón tay, cẳng tay hoặc bất kỳ vùng da hở nào khác trên cơ thể
+- Một số bệnh nhân có thể bị sốt nhẹ , ớn lạnh và khó chịu.
+Rất hiếm khi, dạng ban đỏ lan tỏa trên da xảy ra khi nhiều tổn thương xuất hiện ở nhiều bộ phận khác nhau của cơ thể.
+Trong một số trường hợp hiếm gặp, bệnh hồng ban dạng toàn thân nghiêm trọng có thể phát triển. Đây là tình trạng nhiễm trùng các cơ quan khác, chẳng hạn như tim, não, khớp và phổi. Bệnh nhân mắc bệnh toàn thân có thể gặp các triệu chứng như ớn lạnh, sốt, đau đầu, đau khớp và sụt cân. Tổn thương da có thể rõ ràng hoặc không rõ ràng ở bệnh nhân bị hồng ban dạng toàn thân.
+![Không có caption](https://dermnetnz.org/assets/Uploads/bacterial/w/erysipeloid-1.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/bacterial/w/erysipeloid-2.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/bacterial/w/erysipeloid-3.jpg)
+
+---
+
+## Có những phương pháp điều trị nào cho bệnh hồng ban?
+
+Hai dạng viêm quầng trên da đều tự giới hạn và thường tự khỏi trong vòng 2–4 tuần. Tuy nhiên, điều trị bằng kháng sinh giúp đẩy nhanh quá trình lành bệnh và giảm nguy cơ nhiễm trùng lan sang các cơ quan khác.
+Cả ba dạng viêm quầng đều có thể được điều trị bằng [penicillin](https://dermnetnz.org/topics/penicillin) hoặc cephalosporin. Bệnh nhân dị ứng với penicillin có thể được điều trị bằng phối hợp [erythromycin](https://dermnetnz.org/topics/erythromycin) và [rifampicin](https://dermnetnz.org/topics/rifampicin) , [tetracycline](https://dermnetnz.org/topics/tetracycline) hoặc ciprofloxacin.
+Chẩn đoán kịp thời và điều trị sớm bệnh hồng ban toàn thân hiếm gặp nhưng nghiêm trọng là điều cần thiết để ngăn ngừa các biến chứng nghiêm trọng hoặc tử vong.
+Các chất khử trùng gia dụng đơn giản đã được chứng minh là có thể tiêu diệt vi khuẩn E. rhusiopathiae khi phun lên bề mặt làm việc, vì vậy đây là một cách hiệu quả để ngăn ngừa nhiễm trùng.

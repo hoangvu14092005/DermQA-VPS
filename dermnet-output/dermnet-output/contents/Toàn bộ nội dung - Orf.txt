@@ -1,0 +1,78 @@
+# Orf — thông tin bổ sung
+
+Thể loại:
+
+Nhiễm trùng
+
+SNOMED CT:
+
+74050005, 64753004, 70275008, 762375006, 58767000
+
+**[Nhiễm trùng](https://dermnetnz.org/topics/topics?category=Infections)**
+
+
+# **Orf**
+
+Tác giả: Mark Duffill, Bác sĩ da liễu, Hamilton, New Zealand, 2001. Được cập nhật bởi Phó giáo sư Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand, tháng 11 năm 2017.
+
+---
+
+## Orf là ​​gì?
+
+Bệnh đậu mùa (Orf) là một bệnh nhiễm trùng da do virus lây truyền từ động vật sang người, lây truyền từ cừu và dê. Bệnh do virus đậu mùa gây ra, một loại virus DNA lớn nhân lên trong tế bào chất .
+
+---
+
+## Orf ở cừu và dê
+
+Bệnh Orf chủ yếu lây nhiễm cho cừu non và dê non, những con vật này lây nhiễm từ nhau hoặc có thể do virus tồn tại trong đồng cỏ hoặc chuồng trại. Bệnh này được gọi là viêm da mủ truyền nhiễm hoặc viêm miệng ghẻ ở động vật vì nó hình thành các vảy và mảng bám quanh mũi, miệng, núm vú và các nơi khác. Do giảm khả năng bú sữa, động vật có thể sụt cân. Bệnh kéo dài khoảng sáu tuần. Bệnh rất dễ lây lan, vì vậy nhiều con trong đàn có thể bị nhiễm bệnh.
+Ai sẽ bị ORF?
+Tổn thương ở người là do tiếp xúc trực tiếp với vật liệu bị nhiễm bệnh, thường thông qua vết xước hoặc vết cắt hiện có.
+Bệnh Orf là ​​một nguy cơ đối với người chăn nuôi cừu, thợ cắt lông cừu, công nhân đông lạnh, hoặc bất kỳ ai cho cừu bú bình. Trẻ em cũng có thể bị nhiễm bệnh khi chơi trên đồng cỏ bị nhiễm bệnh hoặc trong chuồng cừu. Người bán thịt, người khuân vác thịt và [các bà nội trợ](https://dermnetnz.org/topics/occupational-skin-disorders-in-homemakers) đôi khi bị nhiễm bệnh từ xác cừu, đặc biệt là đầu cừu.
+Đã có báo cáo về trường hợp mắc bệnh orf ở người sau khi vô tình tiếp xúc với vắc-xin phòng ngừa virus orf dành cho động vật.
+Bệnh này thường không lây truyền từ người sang người, mặc dù trường hợp này hiếm khi được báo cáo.
+Các đặc điểm lâm sàng của bệnh orf là ​​gì?
+Tổn thương Orf thường đơn độc hoặc ít. Chúng thường xuất hiện ở ngón tay, bàn tay hoặc cẳng tay nhưng cũng có thể xuất hiện trên mặt.
+Sau thời gian ủ bệnh 5–6 ngày, một khối u nhỏ, chắc, màu đỏ hoặc xanh đỏ sẽ to lên thành mụn mủ hoặc mụn nước phẳng, có máu. Tổn thương phát triển hoàn toàn thường có đường kính 2–3 cm nhưng có thể lớn tới 5 cm. Đặc trưng là, mặc dù có vẻ như có mủ dưới lớp da trắng, nhưng khi rạch sẽ thấy mô đỏ chắc bên dưới. Tổn thương da đôi khi gây kích ứng trong giai đoạn đầu và thường đau.
+Các vệt đỏ dọc theo các kênh bạch huyết ( viêm mạch bạch huyết ) cùng với tình trạng sưng hạch bạch huyết ở mặt trong khuỷu tay và/hoặc dưới cánh tay ( hạch to ) không phải là hiếm gặp. Có thể kèm theo sốt nhẹ.
+![Orf](https://dermnetnz.org/assets/Uploads/orf02.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/viral/orf-nose.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/orf2.jpg)
+[Xem thêm hình ảnh của orf](https://dermnetnz-org.translate.goog/topics/orf-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp) ...
+
+---
+
+## Biến chứng của bệnh ORF là gì?
+
+Có thể xảy ra nhiễm trùng thứ phát do vi khuẩn .
+Bệnh nhân [suy giảm miễn dịch](https://dermnetnz.org/topics/immunodeficiency) hoặc [suy giảm miễn dịch](https://dermnetnz.org/topics/drug-induced-immunosuppression) có thể xuất hiện các tổn thương ORF lớn hơn hoặc bất thường. Các mụn nước nhỏ lan rộng, hiếm khi xuất hiện, có thể gợi ý sự lây lan của virus ORF theo đường máu, nhưng sẽ tự khỏi sau vài tuần.
+[Hồng ban đa dạng](https://dermnetnz.org/topics/erythema-multiforme) , một dạng phát ban thứ phát do nhiễm virus orf, có thể phát triển 10–14 ngày sau khi khởi phát orf. Bệnh gây ra các dát, mảng và mụn nước [hình bia](https://dermnetnz.org/topics/target-and-targetoid-lesions) ở tay, chân, mặt, cánh tay và chân. Ít đặc trưng hơn, "ban đỏ nhiễm độc", cũng có thể xảy ra, và hiếm khi là rối loạn phồng rộp, [pemphigoid](https://dermnetnz.org/topics/bullous-pemphigoid) .
+
+### Hồng ban đa dạng liên quan đến orf
+![Không có caption](https://dermnetnz.org/assets/Uploads/viral/orf2.jpg)
+![Orf và EM](https://dermnetnz.org/assets/Uploads/reactions/em-orf1.jpg)
+![Orf và EM](https://dermnetnz.org/assets/Uploads/reactions/em-orf2.jpg)
+
+---
+
+## Bệnh ORF được chẩn đoán như thế nào?
+
+Bệnh Orf thường được chẩn đoán lâm sàng ở những người tiếp xúc với cừu hoặc dê.
+Nhiễm trùng có thể được xác nhận bằng tăm bông lấy mẫu virus, [sinh thiết da](https://dermnetnz.org/topics/farmyard-pox-pathology) hoặc dịch mụn nước bằng phản ứng chuỗi polymerase ( PCR ). Nó cũng có thể được xác định bằng kính hiển vi điện tử.
+Một tình trạng tương tự, do một loại vi-rút liên quan gây ra, xảy ra ở những người chăn nuôi bò sữa và được gọi là [nốt sần ở người vắt sữa](https://dermnetnz.org/topics/milkers-nodule) .
+
+---
+
+## Điều trị orf ở người
+
+Hầu hết các trường hợp không cần điều trị đặc hiệu, vì bệnh ghẻ thường tự khỏi sau khoảng 6 tuần. Cần che phủ tổn thương để tránh lây nhiễm sang môi trường xung quanh hoặc người khác, mặc dù khả năng lây lan từ người sang người rất hiếm. Các tổn thương lớn có thể được loại bỏ bằng cách cạo bỏ.
+[Nhiễm trùng](https://dermnetnz.org/topics/impetigo) thứ phát do [vi khuẩn](https://dermnetnz.org/topics/impetigo) nên được điều trị bằng [kháng sinh](https://dermnetnz.org/topics/antibiotics) . [](https://dermnetnz.org/topics/impetigo) [](https://dermnetnz.org/topics/antibiotics)
+[](https://dermnetnz.org/topics/imiquimod) Kem [Imiquimod](https://dermnetnz.org/topics/imiquimod) được cho là có hiệu quả trong một số trường hợp orf.
+
+---
+
+## Phòng ngừa orf
+
+Người chăn nuôi cừu và dê nên lưu ý khả năng nhiễm bệnh và đeo găng tay cao su không xốp khi tiếp xúc với động vật, đặc biệt là cừu non và dê con. Rửa tay kỹ hoặc sử dụng gel [sát trùng](https://dermnetnz.org/topics/antiseptic) để giảm nguy cơ nhiễm trùng.
+Mặc dù mọi người có thể mắc nhiều bệnh nhiễm trùng đường hô hấp trên , nhưng khả năng miễn dịch với vi-rút sẽ đạt được sau lần nhiễm đầu tiên, do đó bệnh sẽ ít nghiêm trọng hơn trong những lần tiếp theo.
+Có thể giảm thiểu bệnh ở cừu và dê bằng cách giảm mật độ chăn thả và sinh sản ngoài trời. Khuyến cáo nên tiêm vắc-xin cho đàn bằng virus sống nếu có dịch orf bùng phát đáng kể. Vắc-xin gây ra tình trạng ghẻ orf nhẹ tại vị trí tiêm chủng và không nên sử dụng cho đàn khỏe mạnh chưa từng có tiền sử orf. Động vật đã tiêm vắc-xin nên được nuôi cách ly với động vật chưa tiêm vắc-xin cho đến khi ghẻ lành hẳn. Chuồng trại cần được vệ sinh và khử trùng kỹ lưỡng.

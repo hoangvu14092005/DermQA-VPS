@@ -1,0 +1,81 @@
+# Loét Marjolin — thông tin bổ sung
+
+Thể loại:
+
+Tổn thương (ung thư)
+
+SNOMED CT:
+
+448165009
+
+**[Tổn thương (ung thư)](https://dermnetnz.org/topics/topics?category=Lesions+(cancerous))**
+
+
+# **Loét Marjolin**
+
+Tác giả: Tiến sĩ Fatima Junaid, sinh viên y khoa, Khoa Y học Lâm sàng, Đại học Cambridge, Cambridge, Vương quốc Anh. Tổng biên tập DermNet New Zealand: Phó Giáo sư Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand. Biên tập viên: Gus Mitchell/Maria McGivern, tháng 10 năm 2017.
+
+---
+
+## Loét Marjolin là gì?
+
+Loét Marjolin là sự phát triển hiếm gặp của [ung thư biểu mô tế bào vảy da](https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma) (SCC) tại vị trí sẹo hoặc vết loét. Loét này thường hình thành tại vị trí sẹo [bỏng nhiệt](https://dermnetnz.org/topics/thermal-burn) cũ . Tuy nhiên, loét Marjolin cũng có thể hình thành từ các tổn thương viêm tủy xương và, hiếm khi, [từ loét tĩnh mạch](https://dermnetnz.org/topics/stasis-ulcer) , [loét do tì đè](https://dermnetnz.org/topics/pressure-ulcer) , sẹo phẫu thuật, [vết cắn của động vật](https://dermnetnz.org/topics/animal-bite) và sẹo tiêm chủng [1].
+![Được phép của Medecins Sans Frontieres](https://dermnetnz.org/assets/Uploads/scc-007.jpg)
+![Được sự cho phép của Giáo sư Pierre Couppie](https://dermnetnz.org/assets/Uploads/marjolin-ulcer-07.jpg)
+
+---
+
+## Ai bị loét Marjolin?
+
+Loét Marjolin xảy ra trung bình khoảng 30 năm sau chấn thương da dẫn đến sẹo hoặc loét (dao động từ 10 đến 75 năm) [2]. Hiếm khi, loét Marjolin cấp tính có thể phát triển trong khoảng từ 6 tuần đến 1 năm sau chấn thương. Người ta ước tính rằng khoảng 2% sẹo bỏng nhiệt và 0,7% tổn thương viêm tủy xương phát triển thành loét Marjolin [3].
+Loét Marjolin có thể ảnh hưởng đến mọi lứa tuổi, phổ biến nhất là từ 40 đến 60 tuổi. Nam giới có nguy cơ mắc bệnh loét Marjolin cao gấp 2-3 lần so với nữ giới [4]. Mọi chủng tộc và loại da đều có thể mắc loét Marjolin.
+Vị trí phổ biến nhất của loét Marjolin là chân và bàn chân. Loét cũng có thể hình thành ở đầu và cổ [1].
+
+---
+
+## Nguyên nhân gây loét Marjolin là gì?
+
+Nguyên nhân chính xác gây ra loét Marjolin vẫn chưa được biết rõ. Hầu hết các giả thuyết đều cho rằng chấn thương và hình thành sẹo dẫn đến sự phá hủy các mạch máu và mạch bạch huyết tại chỗ , khiến khu vực này trở thành một vị trí được miễn dịch đặc hiệu. Điều này bảo vệ sẹo khỏi các kháng thể chống khối u và cho phép da chuyển dạng và thoái hóa ác tính . Viêm mãn tính , kích ứng hoặc chấn thương ở khu vực này cũng được cho là góp phần vào quá trình này [2].
+
+---
+
+## Các đặc điểm lâm sàng của loét Marjolin là gì?
+
+Loét Marjolin thường biểu hiện là vết loét không lành. Nó có thể tăng kích thước dần dần, có mô hạt quá mức, mủ có mùi hôi , dễ chảy máu khi tiếp xúc và gây đau [5].
+Khi khám, loét Marjolin thường phẳng và cứng (cứng), với bờ nổi lên. Một loại loét Marjolin ít phổ biến hơn, ít xâm lấn hơn, phát triển chậm và biểu hiện dưới dạng loét nhú, lồi ra ngoài, phát triển ra ngoài với các đầu lồi giống như ngón tay [3, 6].
+
+---
+
+## Loét Marjolin được chẩn đoán như thế nào?
+
+Loét Marjolin nên được nghi ngờ khi vết loét kéo dài hơn 3 tháng tại vị trí sẹo [2].
+Chẩn đoán bằng [sinh thiết rạch](https://dermnetnz.org/topics/skin-biopsy) các vùng nghi ngờ của vết loét. Thay đổi ung thư được phát hiện khi xét nghiệm mô học mẫu bệnh phẩm. Điều này có thể đòi hỏi phương pháp tiếp cận đa chuyên khoa , vì loét Marjolin có thể bị chẩn đoán nhầm là tăng sản giả biểu mô [7].
+Chụp cộng hưởng từ ( MRI ) có thể được thực hiện để đánh giá mức độ liên quan của mô mềm và xương [8].
+
+---
+
+## Chẩn đoán phân biệt loét Marjolin là gì?
+
+Chẩn đoán phân biệt loét Marjolin bao gồm [loét](https://dermnetnz.org/topics/erosions-and-ulcers) hoặc [ung thư da](https://dermnetnz.org/topics/skin-cancer) do các bệnh lý khác. Bao gồm:
+- [Ung thư biểu mô tế bào vảy da](https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma) tái phát tại vị trí của ung thư đã cắt bỏ trước đó
+- [Ung thư biểu mô tế bào đáy hoặc](https://dermnetnz.org/topics/basal-cell-carcinoma) ung thư khác (ví dụ, [u hắc tố](https://dermnetnz.org/topics/melanoma) hoặc u mô liên kết ) tại vị trí sẹo; đôi khi chúng được gọi là loét Marjolin.
+- [Loét bàn chân do tiểu đường](https://dermnetnz.org/topics/diabetic-foot-ulcer) — thường không đau và có da dày bao quanh.
+- [Loét tĩnh mạch](https://dermnetnz.org/topics/stasis-ulcer) — những vết loét này có xu hướng không đều và nông, xung quanh là tình trạng tăng sắc tố do rò rỉ mao mạch .
+- [Loét động mạch](https://dermnetnz.org/topics/arterial-ulcer) — đau hơn khi nâng cao bàn chân, có viền thủng; bệnh nhân có thể bị đau quặn khi đi bộ.
+- [Viêm da mủ hoại thư](https://dermnetnz.org/topics/pyoderma-gangrenosum) — ban đầu là mụn nước hoặc mụn mủ tại vị trí bị thương nhẹ, sau đó trở nên đau, có mủ và màu tím sẫm với mép lồi ra.
+
+---
+
+## Phương pháp điều trị loét Marjolin là gì?
+
+Loét Marjolin thường được điều trị bằng cắt bỏ rộng tại chỗ [2]. Bệnh nhân ung thư xâm lấn có thể được sinh thiết hạch gác . Các tổn thương liên quan đến xương cần phải cắt cụt. [Phẫu thuật Mohs](https://dermnetnz-org.translate.goog/topics/mohs-surgery-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp) cũng có thể được thực hiện, mặc dù phương pháp này ít phổ biến do thời gian, chi phí và chuyên môn cần thiết [9].
+[Xạ trị](https://dermnetnz.org/topics/radiotherapy-for-malignant-skin-diseases) và hóa trị [](https://dermnetnz.org/topics/radiotherapy-for-malignant-skin-diseases) chưa được chứng minh là có hiệu quả trong điều trị loét Marjolin. Tuy nhiên, xạ trị có thể được sử dụng để giảm nhẹ trong trường hợp không thể phẫu thuật hoặc từ chối phẫu thuật [3].
+Bệnh nhân được chẩn đoán mắc bệnh loét Marjolin cần được theo dõi lâu dài, ít nhất là 3 năm [10].
+
+---
+
+## Kết quả của bệnh loét Marjolin là gì?
+
+Loét Marjolin được phân loại như các SCC da khác , sử dụng hệ thống phân loại TNM (khối u, hạch, di căn ). Điều này phụ thuộc vào kích thước của tổn thương và mức độ di căn đến hạch bạch huyết và các cơ quan khác. Tiên lượng phụ thuộc nhiều nhất vào việc ung thư đã di căn đến hạch bạch huyết hay chưa [11].
+Tỷ lệ sống sót chung sau 3 năm đối với loét Marjolin là 65–75% và tỷ lệ sống sót sau 10 năm là 34%. Một phần tư số bệnh nhân bị loét hiện đã di căn, trong đó tỷ lệ sống sót sau 3 năm là 35–50% [2].
+Tái phát sau phẫu thuật là phổ biến, với tỷ lệ 20–30% trong vòng 3 năm [2].

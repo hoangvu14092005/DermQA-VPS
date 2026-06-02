@@ -1,0 +1,81 @@
+# Acanthoma fissuratum — thông tin bổ sung
+
+Thể loại:
+
+Tổn thương (lành tính)
+
+SNOMED CT:
+
+735130003
+
+**[Tổn thương (lành tính)](https://dermnetnz.org/topics/topics?category=Lesions+(benign))**
+
+
+# **Acanthoma fissuratum**
+
+Tác giả: Elwyn Rae, Sinh viên Y khoa, Đại học Auckland, Auckland, New Zealand. Tổng biên tập DermNet: Giáo sư Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand. Biên tập bởi Gus Mitchell và Maria McGivern. Tháng 10 năm 2017.
+
+---
+
+## Acanthoma fissuratum là gì?
+
+Acanthoma fissuratum là một tình trạng hiếm gặp xảy ra ở những người đeo kính; biểu hiện là một nốt sần , nốt sần hoặc mảng bám có các cạnh nhô lên ở nơi gọng kính đè lên da.
+Acanthoma nghĩa là da dày lên, còn fissuratum nghĩa là nứt , [xói mòn hoặc loét](https://dermnetnz.org/topics/erosions-and-ulcers) , thường xảy ra ở trung tâm tổn thương. Acanthoma fissuratum còn được gọi là u hạt fissuratum và u hạt gọng kính, mặc dù không có [u hạt](https://dermnetnz.org/topics/granuloma) thực sự nào được tìm thấy trên [mô học](https://dermnetnz.org/topics/histology-stains) .
+![Acanthoma fissuratum](https://dermnetnz.org/assets/Uploads/acanthoma-fissuratum-01.jpg)
+![Acanthoma fissuratum](https://dermnetnz.org/assets/Uploads/acanthoma-fissuratum-02.jpg)
+![Chế độ xem da liễu](https://dermnetnz.org/assets/Uploads/acanthoma-fissuratum-03.jpg)
+
+---
+
+## Ai mắc bệnh acanthoma fissuratum?
+
+Các yếu tố được cho là góp phần vào sự phát triển của bệnh gai xơ bao gồm:
+- Gọng kính không vừa vặn hoặc gọng kính nặng
+- Bệnh ngoài da có từ trước tại vị trí tổn thương
+- Bất thường về giải phẫu tại chỗ .
+Những phản ứng tương tự cũng được báo cáo là do sử dụng máy trợ thính.
+
+---
+
+## Nguyên nhân nào gây ra bệnh acanthoma fissuratum?
+
+Giả thuyết được chấp nhận rộng rãi nhất là bệnh gai xơ phát triển do kích ứng mãn tính do ma sát và áp lực tại vị trí tiếp xúc với gọng kính.
+
+---
+
+## Đặc điểm lâm sàng của bệnh u gai xơ là gì?
+
+Acanthoma fissuratum biểu hiện là một sẩn, nốt sần hoặc mảng cứng màu da, có rãnh ở giữa chia đôi tổn thương (hình dạng giống hạt cà phê). Bệnh thường gây đau, đặc biệt nếu bị loét.
+Các tổn thương nằm ở vị trí kính tiếp xúc với da của người bệnh, thường gặp nhất là sống mũi bên hoặc rãnh tai sau hoặc rãnh tai trên (phía sau tai).
+
+---
+
+## Bệnh gai xơ được chẩn đoán như thế nào?
+
+Bệnh Acanthoma fissuratum có thể được phát hiện trên lâm sàng nếu xét đến khả năng này.
+Nếu tiến hành sinh thiết hoặc cắt bỏ tổn thương, các đặc điểm mô học quan sát được bao gồm:
+- Tăng sinh gai nổi bật , tăng sừng nhẹ và tăng sinh hạt ở lớp biểu bì
+- Sự tăng sinh của các mạch máu nhỏ, hơi giãn ở lớp hạ bì nhú , với tình trạng viêm mãn tính từng mảng thay đổi trên nền mô đệm xơ hóa
+- Các gờ lưới rộng, đầu tù và yếu dần ở trung tâm
+- Các vùng tập trung của bệnh xốp hóa và bệnh sừng hóa.
+
+---
+
+## Chẩn đoán phân biệt bệnh u gai xơ là gì?
+
+Acanthoma fissuratum có thể có hình dạng tương tự [ung thư biểu mô tế bào đáy](https://dermnetnz.org/topics/basal-cell-carcinoma) . Có thể sinh thiết nếu có bất kỳ nghi ngờ nào.
+
+---
+
+## Phương pháp điều trị bệnh u gai xơ là gì?
+
+Acanthoma fissuratum là một tổn thương lành tính có thể tự khỏi nếu nguyên nhân gây kích ứng da được loại bỏ và da được lành lại.
+Lý tưởng nhất là bệnh nhân nên ngừng đeo kính trong một khoảng thời gian, mặc dù điều này không phải lúc nào cũng khả thi nếu không có phương pháp điều chỉnh thị lực nào khác.
+[Tiêm corticosteroid](https://dermnetnz.org/topics/intralesional-steroid-injection) vào tổn thương có thể làm giảm các triệu chứng.
+
+---
+
+## Kết quả của bệnh acanthoma fissuratum là gì?
+
+Khi được chữa lành mà không bị kích ứng bởi kính, bệnh acanthoma fissuratum sẽ khỏi mà không để lại sẹo lâu dài.
+Nếu cá nhân đó tiếp tục đeo kính chật, tình trạng này có thể tái phát.

@@ -1,0 +1,96 @@
+# Cháy nắng — thông tin bổ sung
+
+Thể loại:
+
+Phản ứng
+
+SNOMED CT:
+
+403194002, 402606002, 251354007, 164421006
+
+**[Phản ứng](https://dermnetnz.org/topics/topics?category=Reactions)**
+
+
+# **Cháy nắng**
+
+Tác giả: Vanessa Ngan, Biên tập viên, 2005.
+
+---
+
+## Cháy nắng là gì?
+
+Cháy nắng là tình trạng ban đỏ và phù nề do tiếp xúc quá nhiều với tia nắng mặt trời, cụ thể hơn là tia cực tím ( UV ) phát ra từ mặt trời. Cháy nắng cũng có thể xảy ra do tiếp xúc với các nguồn tia UV khác như trong [phòng tắm nắng](https://dermnetnz.org/topics/sunbeds-and-solaria) hoặc tiệm tắm nắng.
+Ở cấp độ tế bào, cháy nắng liên quan đến những thay đổi vi mô trên da. Có sự hình thành các tế bào cháy nắng do tia UV gây ra và sự suy giảm các tế bào Langerhans và tế bào mast, những tế bào đóng vai trò thiết yếu trong hệ thống miễn dịch của cơ thể.
+
+---
+
+## Nguyên nhân nào gây ra cháy nắng?
+
+Để hiểu rõ hơn về nguyên nhân gây cháy nắng, chúng ta cần xem xét một số nguyên tắc cơ bản của quang phổ điện từ (ánh sáng). Phổ này được chia theo bước sóng thành tia cực tím (< 400 nm), tia nhìn thấy (400–760 nm) và tia hồng ngoại (> 760 nm). Quang phổ tia cực tím (UV) được chia thành ba vùng chính:
+- Tia cực tím A (UV-A) = 320–400 nm
+- Tia cực tím B (UV-B) = 290–320 nm
+- Tia cực tím C (UV-C) = < 290 nm.
+Bức xạ UV-C bị lọc hoặc hấp thụ bởi tầng khí quyển bên ngoài nên không gây hại cho con người. Bức xạ UV-A và UV-B là nguyên nhân chính gây cháy nắng. Da phản ứng khác nhau với mỗi dải sóng.
+Phản ứng với bức xạ UV-A và UV-B
+tia cực tím-A tia UV-B Ít mạnh hơn tia UV-B nhưng là bước sóng chiếu tới bề mặt trái đất nhiều nhất (khoảng 90% vào buổi trưa) Xâm nhập vào lớp da giữa ( lớp hạ bì ) và lớp mỡ dưới da gây tổn thương cho nơi tạo ra các tế bào da mới Tiếp xúc lâu dài gây tổn thương cho lớp hạ bì dẫn đến lão hóa da Mạnh hơn nhiều trong việc gây ban đỏ Khoảng 90% được hấp thụ bởi lớp da bề mặt ( biểu bì ) Biểu bì phản ứng bằng cách giải phóng các hóa chất gây ra hiện tượng đỏ và sưng đặc trưng của các dấu hiệu ban đầu của cháy nắng Tiếp xúc nhiều lần sẽ gây tổn thương cho lớp biểu bì dẫn đến lão hóa da
+
+---
+
+## Ai có nguy cơ bị cháy nắng?
+
+Phân loại da phân loại mọi người thành một trong sáu nhóm dựa trên màu da cơ bản và xu hướng rám nắng và cháy nắng khi tiếp xúc với bức xạ UV.
+Kiểu da Các tính năng điển hình Khả năng rám nắng TRUNG BÌNH (mJ/cm2) TÔI Da trắng nhợt, mắt xanh/nâu hạt dẻ, tóc vàng/đỏ Luôn cháy nắng không rám nắng 15-30 II Da trắng, mắt xanh Dễ bị cháy nắng, rám nắng kém 25-40 III Da trắng sẫm màu hơn Nâu sau khi bị cháy nắng ban đầu 30-50 IV Da nâu nhạt Cháy nắng ít, rám nắng dễ dàng 40-60 V Da nâu Hiếm khi bị cháy nắng, dễ rám nắng 60-90 VI Da nâu sẫm hoặc đen Không bao giờ cháy nắng luôn rám nắng sẫm màu 90-150
+Những người có kiểu da loại I có nguy cơ bị cháy nắng cao hơn nhiều so với những người có kiểu da loại VI. Lượng bức xạ UV, được đo bằng năng lượng trên một đơn vị diện tích, gây ra ban đỏ tại một vị trí tiếp xúc được gọi là liều ban đỏ tối thiểu (MED), và liều này thấp hơn đáng kể ở những người có kiểu da loại thấp. 15 phút tiếp xúc với ánh nắng mặt trời vào buổi trưa có thể gây cháy nắng ở người da trắng, trong khi người da sẫm màu có thể chịu được mức độ tiếp xúc này trong nhiều giờ.
+Các yếu tố khác làm tăng nguy cơ bị cháy nắng bao gồm:
+- Các khu vực nằm gần đường xích đạo hơn
+- Khu vực ở độ cao lớn – Bức xạ UV tăng 4% cho mỗi lần tăng độ cao 300m
+- Tiếp xúc với da từ 10 giờ sáng đến 2 giờ chiều – 65% bức xạ UV đến trái đất trong khoảng thời gian này
+- Bầu trời trong xanh: mây và ô nhiễm môi trường làm giảm bức xạ UV
+- Phản xạ môi trường – Bức xạ UV bị phản xạ 80% bởi tuyết và băng
+
+---
+
+## Các đặc điểm lâm sàng của cháy nắng là gì?
+
+Các dấu hiệu và triệu chứng của cháy nắng khác nhau tùy theo loại da và thời gian tiếp xúc với tia UV.
+Các dấu hiệu và triệu chứng thường xuất hiện sau 2-6 giờ tiếp xúc và đạt đỉnh điểm sau 12-24 giờ; chúng có thể bao gồm:
+- Ban đỏ (đỏ)
+- Phù nề (sưng)
+- Đau và kích ứng
+- Da nóng khi chạm vào
+- Nỗi đau
+- Phồng rộp (trường hợp nặng)
+- Ớn lạnh và sốt (trường hợp nặng)
+Trong trường hợp cháy nắng nghiêm trọng, bỏng da nghiêm trọng có thể dẫn đến bỏng cấp độ 2, mất nước, mất cân bằng điện giải, nhiễm trùng thứ phát , sốc hoặc thậm chí tử vong.
+![Loại 2](https://dermnetnz.org/assets/Uploads/reactions/sunburn1.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/reactions/sunburn7.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/reactions/sunburn6.jpg)
+Khoảng 4-7 ngày sau khi tiếp xúc, da có thể bắt đầu bong tróc.
+![Bong tróc sau khi cháy nắng](https://dermnetnz.org/assets/Uploads/reactions/sunburn4.jpg)
+![Bong tróc sau khi cháy nắng](https://dermnetnz.org/assets/Uploads/sunburn1.jpg)
+![Bong tróc sau khi cháy nắng](https://dermnetnz.org/assets/Uploads/reactions/sunburn5.jpg)
+
+---
+
+## Cách điều trị cháy nắng là gì?
+
+Phương pháp điều trị cháy nắng là làm giảm cảm giác khó chịu do cháy nắng gây ra bằng cách sử dụng thuốc giảm đau, tắm nước mát, bôi kem [lô hội](https://dermnetnz.org/topics/aloe-vera-and-the-skin) và kem dưỡng ẩm.
+Tuy nhiên, phòng ngừa cháy nắng tốt hơn là điều trị. [Chống nắng](https://dermnetnz.org/topics/sun-protection) là biện pháp bảo vệ tốt nhất chống lại cháy nắng và các tác hại khác của tia UV.
+- Tránh tiếp xúc với ánh nắng mặt trời, đặc biệt là từ 10 giờ sáng đến 2 giờ chiều
+- Mặc [quần áo bảo hộ](https://dermnetnz.org/topics/sun-protective-clothing) , bao gồm cả mũ rộng vành
+- Thoa và thoa lại [kem chống nắng](https://dermnetnz.org/topics/topical-sunscreen-agents) có chỉ số chống nắng (SPF) từ 50+
+Thực phẩm bổ sung đường uống có chứa [Polypodium leucotomas](https://dermnetnz.org/topics/polypodium-leucotomos) có thể cung cấp thêm khả năng bảo vệ da miệng khỏi ánh nắng và giảm cháy nắng.
+Nếu bạn vô tình bị phơi nắng và nghĩ rằng mình sẽ bị cháy nắng, bạn có thể giảm mức độ nghiêm trọng của vết bỏng bằng các biện pháp sau:
+- Uống ngay hai viên aspirin và sau đó uống hai viên mỗi bốn giờ
+- Bôi steroid tại chỗ vào vùng da hở hai lần mỗi ngày trong hai hoặc ba ngày
+- Uống một liều cao [vitamin D3](https://dermnetnz.org/topics/vitamin-d) (100.000 đến 200.000 IU) trong vòng vài giờ sau khi tiếp xúc.
+
+---
+
+## Hậu quả lâu dài là gì?
+
+Giờ đây, hậu quả lâu dài của việc tiếp xúc quá nhiều với ánh nắng mặt trời hoặc các nguồn bức xạ UV khác đã rõ ràng. Một vết cháy nắng phồng rộp ít nhất cũng làm tăng gấp đôi nguy cơ mắc ung thư da sau này.
+- [Lão hóa da](https://dermnetnz.org/topics/ageing-skin) sớm và [nhăn nheo](https://dermnetnz.org/topics/facial-lines-and-wrinkles)
+- [Đốm nâu và tàn nhang](https://dermnetnz.org/topics/brown-spots-and-freckles) ( lentigines )
+- Sự phát triển của các tổn thương tiền ác tính ( [sừng hóa ánh sáng](https://dermnetnz.org/topics/actinic-keratosis) ) [](https://dermnetnz.org/topics/actinic-keratosis)
+- Sự phát triển của [ung thư da](https://dermnetnz.org/topics/skin-cancer) (ví dụ, [ung thư hắc tố](https://dermnetnz.org/topics/melanoma) , [ung thư biểu mô tế bào đáy](https://dermnetnz.org/topics/basal-cell-carcinoma) , [ung thư biểu mô tế bào vảy](https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma) )

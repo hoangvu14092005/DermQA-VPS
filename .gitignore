@@ -3,10 +3,6 @@ mykey.pem
 *.pem
 *.key
 
-# Dataset images (Dung lượng lớn, không commit lên Git)
-dermnet-output/
-images/
-
 # Dữ liệu cache và output của Docker
 docker/hf_cache/
 docker/outputs/

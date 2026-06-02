@@ -1,0 +1,155 @@
+# Bệnh Zygomycosis — thông tin bổ sung
+
+Thể loại:
+
+Nhiễm trùng
+
+SNOMED CT:
+
+59277005, 238442009, 86333008, 187100003, 240778004, 240779007, 76627001, 39740009, 78081007, 240783007, 240782002, 402138008
+
+**[Nhiễm trùng](https://dermnetnz.org/topics/topics?category=Infections)**
+
+
+# **Bệnh nấm Zygomycosis**
+
+Tác giả: Bác sĩ Sharnika Abeyakirthi, Nhà đăng ký Da liễu, Bệnh viện Waikato, Hamilton, New Zealand, 2007. Đã cập nhật: Bác sĩ Parzhin Piran, Bác sĩ nội trú, Bệnh viện Hoàng gia Darwin, Darwin, Australia; Tiến sĩ Dev Tilakaratne, Bác sĩ da liễu, Darwin, Australia. Bản sao được chỉnh sửa bởi Gus Mitchell. tháng 9 năm 2021
+
+---
+
+## Bệnh nấm zygomycosis là gì?
+
+Bệnh nấm Zygomycosis là bất kỳ bệnh nhiễm trùng nào do nấm thuộc lớp Zygomycetes gây ra, thường được tìm thấy trong đất hoặc thực vật phân hủy và xác động vật. Có hai bộ Zygomycetes chính gây nhiễm trùng ở người — Mucorales và Entomophthorales.
+
+### Bệnh nấm mucormycosis da
+![Bệnh nấm mucormycosis da: bàn tay ở bệnh nhân bệnh bạch cầu.](https://dermnetnz.org/assets/collection/Cutaneous-mucormycosis/cutaneous-mucormycosis-00001.jpg)
+![Bệnh nấm mucormycosis da: thành ngực có màu da.](https://dermnetnz.org/assets/collection/Cutaneous-mucormycosis/cutaneous-mucormycosis-00002.jpg)
+![Bệnh nấm mucormycosis da: thành ngực có màu da.](https://dermnetnz.org/assets/collection/Cutaneous-mucormycosis/cutaneous-mucormycosis-00003.jpg)
+
+---
+
+## Ai mắc bệnh nấm zygomycosis?
+
+Bệnh nấm Zygomycosis do Mucorales chủ yếu gặp ở những người suy giảm miễn dịch . [Đái tháo đường](https://dermnetnz.org/topics/skin-problems-associated-with-diabetes-mellitus) là nguyên nhân hàng đầu gây bệnh trên toàn thế giới, tiếp theo là [các bệnh lý ác tính về huyết học](https://dermnetnz.org/topics/skin-manifestations-of-haematological-diseases) và [ghép tế bào](https://dermnetnz.org/topics/autologous-stem-cell-transplantation) gốc . Các yếu tố liên quan khác bao gồm suy giảm miễn dịch do ung thư hoặc ghép tạng đặc , [suy giảm miễn dịch do thuốc](https://dermnetnz.org/topics/drug-induced-immunosuppression) , hoặc [HIV](https://dermnetnz.org/topics/skin-conditions-relating-to-hiv-infection) (hiếm gặp), và tình trạng thừa sắt. Trong tối đa 20% trường hợp, bệnh nhân có khả năng miễn dịch bình thường và nhiễm trùng có thể làm suy yếu hàng rào bảo vệ da, chẳng hạn như sau chấn thương da , [bỏng nhiệt](https://dermnetnz.org/topics/thermal-burn) hoặc [hoại tử biểu bì nhiễm độc](https://dermnetnz.org/topics/stevens-johnson-syndrome-toxic-epidermal-necrolysis) , và đã được báo cáo ở trẻ sinh non. Lây truyền nhiễm trùng qua mảnh ghép là một con đường lây truyền quan trọng ở một số quốc gia. [](https://dermnetnz.org/topics/drug-induced-immunosuppression) [](https://dermnetnz.org/topics/skin-conditions-relating-to-hiv-infection) [](https://dermnetnz.org/topics/thermal-burn) [](https://dermnetnz.org/topics/stevens-johnson-syndrome-toxic-epidermal-necrolysis)
+Tỷ lệ mắc bệnh hàng năm dao động từ khoảng 1/triệu ở Hoa Kỳ và Châu Âu đến 140/triệu ở Ấn Độ.
+[](https://dermnetnz.org/topics/covid-19) Nhiễm trùng Mucorales ('nấm đen') liên quan đến [COVID-19 đặc biệt ảnh hưởng đến nam giới mắc bệnh tiểu đường được điều trị bằng](https://dermnetnz.org/topics/covid-19) corticosteroid toàn thân ở Ấn Độ trong làn sóng COVID-19 thứ hai (từ tháng 4 đến tháng 7 năm 2021), dẫn đến hơn 45.000 ca mắc và ít nhất 4.000 ca tử vong.
+Nhiễm trùng da do Entomophthorales xảy ra ở những người khỏe mạnh, đặc biệt là ở các vùng nhiệt đới và cận nhiệt đới ẩm như ở châu Phi xích đạo và Đông Nam Á.
+
+---
+
+## Nguyên nhân gây ra bệnh nấm zygomycosis là gì?
+
+
+### Mucorales
+Bộ Mucorales được chia thành nhiều họ, trong đó hai nguyên nhân chính gây nhiễm trùng là Mucoraceae và Cunninghamellaceae. Trong các họ này, có ba chi quan trọng gây nhiễm trùng ở người — Rhizopus , Mucor và Lichtheimia (trước đây là Absidia ) chiếm 75% các trường hợp nhiễm trùng. Bệnh nấm Mucormycosis là bệnh nhiễm trùng cơ hội do các thành viên của họ Mucoraceae gây ra.
+Nhiễm trùng da nguyên phát thường xảy ra do sự xâm nhập trực tiếp của các yếu tố nấm sau chấn thương da lớn hoặc nhỏ, chẳng hạn như trầy xước da, xăm mình, hoặc sau phẫu thuật, đặt đường truyền tĩnh mạch hoặc băng vết thương bị nhiễm khuẩn. Nhiễm trùng da thứ phát xảy ra sau khi nấm lan truyền qua đường máu .
+
+### Entomophthorales
+Entomophthorales là tác nhân gây bệnh côn trùng. Hai chi thuộc bộ Entomophthorales gây bệnh nấm dưới da ở người là Basidiobolus và Conidiobolus .
+
+---
+
+## Các đặc điểm lâm sàng của bệnh nấm zygomycosis là gì?
+
+
+### Bệnh nấm mucormycosis
+Có năm dạng lâm sàng chính của bệnh mucormycosis:
+- Mũi não (34-39%)
+- Phổi (20-24%)
+- Da (19-22%)
+- Tiêu hóa
+- Phổ biến
+- Các dạng hiếm khác.
+Nhiễm nấm mucormycosis da có thể là nguyên phát tại vị trí nhiễm trùng , hoặc thứ phát trong trường hợp nhiễm nấm mucormycosis lan tỏa. Khởi phát có thể âm thầm hoặc đột ngột — cấp tính và nhanh chóng dẫn đến hoại tử.
+- Vảy hoại tử có ban đỏ và cứng
+- Mảng lớn cứng mềm
+- Phồng rộp và loét đã được mô tả
+- Có thể giống [bệnh chàm hoại thư](https://dermnetnz.org/topics/ecthyma-gangrenosum) , [viêm cân hoại tử](https://dermnetnz.org/topics/necrotising-fasciitis) , [viêm da mủ hoại thư](https://dermnetnz.org/topics/pyoderma-gangrenosum) hoặc [bệnh nấm thân](https://dermnetnz.org/topics/tinea-corporis)
+![Không có caption](https://dermnetnz.org/assets/Uploads/fungal/zygomycosis1.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/fungal/zygomycosis2.jpg)
+![Bệnh nấm mucormycosis ở vết thương phẫu thuật](https://dermnetnz.org/assets/collection/Cutaneous-mucormycosis/cutaneous-mucormycosis-00004.jpg)
+Các dấu hiệu cảnh báo 'cờ đỏ' về bệnh nấm mucormycosis ở não ở bệnh nhân có nguy cơ bao gồm:
+- Liệt dây thần kinh sọ não
+- Nhìn đôi
+- Đau xoang
+- Lồi mắt (exophthalmos)
+- Sưng quanh mắt
+- Hội chứng đỉnh hốc mắt — mất thị lực, không thể cử động mắt
+- Loét hoại tử màu đen ở vòm miệng.
+
+### Bệnh nấm Entomophthoromycosis/Nấm Phycomycosis dưới da
+- Sưng dưới da tiến triển chậm không đau Khối u di động hình đĩa, đồng nhất dưới da Độ cứng, không rỗ
+- Khối u di động hình đĩa, đồng nhất dưới da
+- Độ cứng, không rỗ
+- Thông thường, đơn độc nhưng có thể có nhiều
+- Da bên trên thường bình thường Tăng sắc tố , đôi khi thấy bong tróc
+- Tăng sắc tố , đôi khi thấy bong tróc
+Conidiobolus coronatus/không thích hợp Bệnh này ảnh hưởng đến người trẻ tuổi và phổ biến ở nam giới hơn nữ giới. Mặt là nơi dễ bị nhiễm trùng nhất. Nấm xâm nhập qua niêm mạc mũi và gây sưng dưới da xung quanh mũi và vùng quanh mũi . Nhiễm trùng có thể lan từ các cuốn mũi dưới và gây sưng toàn bộ khuôn mặt. Bệnh nhân có thể phàn nàn về tình trạng nghẹt mũi, chảy dịch mũi và đau xoang. Đã có báo cáo về tình trạng nhiễm trùng phổi và toàn thân. Basidiobolus ranarum Thường gặp ở trẻ em và phổ biến hơn ở nam giới. Thường biểu hiện bằng khối u dưới da tiến triển chậm ở vùng chi hoặc vành đai chi.
+
+---
+
+## Biến chứng của bệnh nấm zygomycosis là gì?
+
+- Sự phát tán qua đường máu từ vị trí nhiễm trùng ban đầu
+- Xâm lấn các mô lân cận
+- Sự biến dạng đặc biệt là khuôn mặt
+
+---
+
+## Bệnh nấm zygomycosis ở da được chẩn đoán như thế nào?
+
+Chẩn đoán bệnh nấm zygomycosis da có thể được nghi ngờ trên lâm sàng ở bệnh nhân có nguy cơ và được xác nhận bằng [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) sâu với đủ mô để xét nghiệm mô học và nuôi cấy. [](https://dermnetnz.org/topics/skin-biopsy)
+
+### Bệnh nấm mucormycosis
+- Mô học Sợi nấm không có vách ngăn, thành dày ưa eosin Vasculotropic — sợi nấm xâm lấn thành mạch Xem [bệnh lý Mucormycosis](https://dermnetnz.org/topics/mucormycosis-pathology)
+- Sợi nấm không có vách ngăn, thành dày ưa eosin
+- Vasculotropic — sợi nấm xâm lấn thành mạch
+- Xem [bệnh lý Mucormycosis](https://dermnetnz.org/topics/mucormycosis-pathology)
+- Nuôi cấy nấm Tiêu cực lên đến 50% Cho phép xác định chi và loài, và khả năng nhạy cảm với thuốc chống nấm
+- Tiêu cực lên đến 50%
+- Cho phép xác định chi và loài, và khả năng nhạy cảm với thuốc chống nấm
+Kính hiển vi trực tiếp ướt là xét nghiệm chẩn đoán nhanh và rẻ tiền đối với bệnh mucormycosis trên các mẫu lấy từ mô cơ thể thường vô trùng.
+
+### Bệnh nấm Entomophthoromycosis/Nấm Phycomycosis dưới da
+- Mô học Sợi nấm rộng vô trùng Viêm hạt - tế bào lympho , tế bào plasma , tế bào mô , bạch cầu ái toan , tế bào khổng lồ Hiện tượng Splendore-Hoeppli — các ống bọc ưa eosin loang lổ xung quanh sợi nấm Áp xe rải rác , vùng hoại tử Viêm mô mỡ tiểu thùy
+- Sợi nấm rộng vô trùng
+- Viêm hạt - tế bào lympho , tế bào plasma , tế bào mô , bạch cầu ái toan , tế bào khổng lồ
+- Hiện tượng Splendore-Hoeppli — các ống bọc ưa eosin loang lổ xung quanh sợi nấm
+- Áp xe rải rác , vùng hoại tử
+- Viêm mô mỡ tiểu thùy
+- Nuôi cấy nấm Nấm phát triển nhanh ở nhiệt độ 30 độ C Loài Conidiobolous — khuẩn lạc sáp màu trắng đến nhờn Loài đảm bảo — khuẩn lạc sáp màu kem đến vàng
+- Nấm phát triển nhanh ở nhiệt độ 30 độ C
+- Loài Conidiobolous — khuẩn lạc sáp màu trắng đến nhờn
+- Loài đảm bảo — khuẩn lạc sáp màu kem đến vàng
+
+---
+
+## Chẩn đoán phân biệt bệnh nấm zygomycosis là gì?
+
+- [Bệnh Aspergillosis](https://dermnetnz.org/topics/aspergillosis)
+- [Viêm cân hoại tử](https://dermnetnz.org/topics/necrotising-fasciitis)
+- [Viêm mô mỡ nhiễm trùng](https://dermnetnz.org/topics/infective-panniculitis)
+
+---
+
+## Phương pháp điều trị bệnh nấm zygomycosis là gì?
+
+- Nghi ngờ sớm về chẩn đoán
+- Sự đảo ngược của các yếu tố tiền đề cơ bản
+- Cắt bỏ phẫu thuật — cắt lọc phẫu thuật rộng rãi sớm
+- Liệu pháp chống nấm thích hợp — cần được bắt đầu sớm trong vòng vài ngày sau khi có triệu chứng đầu tiên và thường kéo dài trong nhiều tháng
+
+### Bệnh nấm mucormycosis
+- Amphotericin B ( lipid - công thức hoặc thông thường) — liều cao IV — liệu pháp điều trị đầu tay
+- [Posaconazole](https://dermnetnz.org/topics/posaconazole) — uống hoặc tiêm tĩnh mạch — được sử dụng nếu không dung nạp amphotericin B hoặc như liệu pháp duy trì
+
+### Bệnh nấm Entomophthormycosis
+- [Kali iodide](https://dermnetnz.org/topics/potassium-iodide) — uống
+- [Itraconazole](https://dermnetnz.org/topics/itraconazole) — uống
+
+---
+
+## Hậu quả của bệnh nấm zygomycosis là gì?
+
+Bệnh nấm Zygomycosis có thể khó điều trị mặc dù đã có các thuốc kháng nấm mới. Việc điều trị nên được bắt đầu trong vòng 6 ngày kể từ khi xuất hiện triệu chứng để đạt được kết quả tốt nhất. Bệnh nấm Mucormycosis thường gây tử vong mặc dù bệnh ngoài da nguyên phát có tỷ lệ tử vong thấp hơn so với nhiễm trùng đường tiêu hóa hoặc phổi. Trước đây, tỷ lệ tử vong lên tới 80% và ngay cả hiện nay, tỷ lệ tử vong trong vòng 90 ngày vẫn chỉ khoảng 40%. Bệnh nấm Mucormycosis lan tỏa vẫn có tỷ lệ tử vong trên 90%. Bệnh nấm Zygomycosis ở vùng mũi não ở những người được ghép tạng đặc hầu như luôn gây tử vong do tỷ lệ xâm lấn hệ thần kinh trung ương cao .
+Bệnh nấm entomophthormycosis đã được báo cáo là tự khỏi. Bệnh thường tái phát ngay cả sau khi phẫu thuật cắt bỏ. Quá trình bệnh thường diễn biến chậm.

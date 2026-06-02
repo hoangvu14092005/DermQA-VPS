@@ -1,0 +1,58 @@
+# Bệnh mô bào ác tính — thông tin bổ sung
+
+Thể loại:
+
+Tổn thương (ung thư), Bệnh hệ thống
+
+SNOMED CT:
+
+118612006, 109988003, 404169008, 188744006, 404154007
+
+**[Tổn thương (ung thư), Bệnh hệ thống](https://dermnetnz.org/topics/topics?category=Lesions+(cancerous))**
+
+
+# **Bệnh mô bào ác tính**
+
+Tác giả: Tiến sĩ Amy Stanway, Bác sĩ da liễu, Nottingham, Vương quốc Anh, 2005.
+
+---
+
+## Bệnh histiocytosis ác tính là gì?
+
+Bệnh mô bào ác tính là tình trạng ung thư trong đó tế bào mô bào tăng sinh không kiểm soát . Chúng còn được gọi là [bệnh mô bào](https://dermnetnz.org/topics/histiocytosis) loại III . [](https://dermnetnz.org/topics/histiocytosis)
+Bệnh histiocytosis ác tính bao gồm các bệnh riêng biệt sau đây:
+- Bệnh bạch cầu đơn nhân
+- Bệnh mô bào ác tính
+- U lympho histiocytic thực sự
+Trong tất cả các tình trạng này, các tế bào mô bào lan rộng khắp cơ thể; thường ảnh hưởng đến gan, lá lách, hạch bạch huyết và tủy xương (bên trong xương, nơi tạo máu). Các bệnh mô bào ác tính cũng có thể ảnh hưởng đến các cơ quan khác, bao gồm cả da.
+Bệnh histiocytosis ác tính được chẩn đoán bằng xét nghiệm máu, xét nghiệm tủy xương ( hút tủy xương và sinh thiết ) và sinh thiết mô.
+
+---
+
+## Bệnh bạch cầu đơn nhân
+
+Bệnh bạch cầu đơn nhân biểu hiện bằng những bất thường không mong muốn được phát hiện qua xét nghiệm máu hoặc các triệu chứng chung như mệt mỏi, sụt cân, dễ bị bầm tím, nhiễm trùng tái phát , khối u da ( [bệnh bạch cầu da](https://dermnetnz.org/topics/leukaemia-cutis) ) và sưng nướu ( [tăng sản nướu](https://dermnetnz.org/topics/gingival-enlargement) ). [](https://dermnetnz.org/topics/leukaemia-cutis) [](https://dermnetnz.org/topics/gingival-enlargement)
+![Bệnh bạch cầu da](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/mal-histio3.jpg)
+![Bệnh bạch cầu da](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/s/leukaemia3.jpg)
+
+---
+
+## Bệnh mô bào ác tính
+
+Bệnh mô bào ác tính biểu hiện bằng các triệu chứng toàn thân đột ngột như sốt , đổ mồ hôi, sụt cân, hạch bạch huyết sưng to (nổi bật nhất ở cổ, nách và bẹn), gan và lách to. Các tế bào khác trong máu có thể giảm, dẫn đến thiếu máu , giảm tiểu cầu (tế bào tham gia vào quá trình đông máu) và giảm bạch cầu ( tế bào chống nhiễm trùng ).
+Một nửa số người bị ảnh hưởng sẽ bị ảnh hưởng đến các cơ quan khác – thường là da, xương hoặc ruột.
+- Tình trạng da bị tổn thương thường biểu hiện bằng nhiều cục u màu tím hoặc màu da, có thể loét.
+- Sự xâm lấn xương gây ra các lỗ thủng trên xương và làm tăng nồng độ canxi trong máu. Những lỗ thủng này có thể được nhìn thấy trên phim chụp X-quang.
+- Tình trạng liên quan đến ruột thường không được phát hiện cho đến khi các khối u trong ruột trở nên rất lớn, gây tắc nghẽn hoặc chảy máu.
+
+---
+
+## U lympho histiocytic thực sự
+
+U lympho histiocytic thực sự biểu hiện bằng một khối u khu trú , có thể nằm trong các tuyến bạch huyết hoặc ở một cơ quan khác; thường là da, xương hoặc ruột. Khối u sẽ khu trú ở một vùng trong một thời gian và có thể phát triển khá lớn ở vùng đó. Sau đó, nó có thể lan rộng khắp cơ thể, ảnh hưởng đến nhiều cơ quan như trong bệnh histiocytosis ác tính.
+
+---
+
+## Phương pháp điều trị là gì?
+
+Hầu hết bệnh nhân mắc các dạng ung thư này đều đáp ứng với điều trị bằng hóa trị hoặc xạ trị. Bệnh ung thư tiến triển rất nhanh và cần được điều trị càng sớm càng tốt. Một số người sẽ không đáp ứng với điều trị và một số người sẽ tử vong trước khi tình trạng bệnh được chẩn đoán và điều trị.

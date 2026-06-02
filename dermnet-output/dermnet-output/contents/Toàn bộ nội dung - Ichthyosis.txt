@@ -1,0 +1,193 @@
+# Bệnh vảy cá — thông tin bổ sung
+
+Thể loại:
+
+Di truyền
+
+SNOMED CT:
+
+13059002, 254157005, 72523005,402772005, 724837004, 8691004
+
+**[Di truyền](https://dermnetnz.org/topics/topics?category=Genetic)**
+
+
+# **Bệnh vảy cá**
+
+Tác giả: Vanessa Ngan, Biên tập viên, 2003. Cập nhật bởi Tổng biên tập, Phó giáo sư Amanda Oakley, tháng 1 năm 2015.
+
+---
+
+## Bệnh vảy cá là gì?
+
+Bệnh vảy cá là một rối loạn sừng hóa, đặc trưng bởi da khô dai dẳng, dày lên, trông như vảy cá. Có ít nhất 20 dạng bệnh vảy cá , bao gồm cả dạng di truyền và mắc phải.
+
+---
+
+## Ai mắc bệnh vảy cá?
+
+
+### Các dạng bệnh vảy cá di truyền
+Các loại bệnh vảy cá di truyền có thể là bẩm sinh hoặc khởi phát muộn.
+- [Bệnh vảy cá thông thường](https://dermnetnz.org/topics/ichthyosis-vulgaris) (1:250—1000) có tính di truyền trội trên nhiễm sắc thể thường , nghĩa là một gen bất thường được di truyền từ cha mẹ. Tỷ lệ biểu hiện là 90%. Bệnh khởi phát muộn cho đến ít nhất ba tháng tuổi.
+- [Bệnh vảy cá liên kết nhiễm sắc thể X lặn](https://dermnetnz.org/topics/recessive-x-linked-ichthyosis) (1:2000–6000) chủ yếu ảnh hưởng đến nam giới, những người có một nhiễm sắc thể X duy nhất mang gen bất thường. Nữ giới được bảo vệ nhờ thường có nhiễm sắc thể X thứ hai bình thường. Bệnh có thể khởi phát bẩm sinh hoặc chậm phát triển tới 6 tháng.
+- Ở bệnh vảy cá bẩm sinh lặn trên nhiễm sắc thể thường (1:3–500.000), một gen bất thường được di truyền từ mỗi cha mẹ.
+- Bệnh vảy cá keratinopathic (1:200.000) có dạng lặn và dạng trội, xuất hiện khi mới sinh với màng collodion.
+Bệnh vảy cá cũng có thể là do đột biến tự phát mới.
+
+### Bệnh vảy cá mắc phải
+Bệnh vảy cá mắc phải xuất hiện ở người trưởng thành. Người mắc bệnh vảy cá có thể mắc một bệnh toàn thân , chẳng hạn như:
+- [U lympho Hodgkin](https://dermnetnz.org/topics/hodgkin-lymphoma)
+- [Suy](https://dermnetnz.org/topics/skin-problems-associated-with-thyroid-disease) giáp [](https://dermnetnz.org/topics/skin-problems-associated-with-thyroid-disease)
+- [Bệnh sarcoidosis](https://dermnetnz.org/topics/sarcoidosis)
+- Ung thư (bệnh vảy cá có thể là dấu hiệu của bệnh ác tính bên trong trên da )
+- [Nhiễm trùng HIV](https://dermnetnz.org/topics/skin-conditions-relating-to-hiv-infection) .
+Bệnh vảy cá có thể do một số loại thuốc gây ra:
+- Axit nicotinic
+- [Kava](https://dermnetnz.org/topics/kava-dermopathy)
+- Liệu pháp điều trị ung thư mục tiêu (ví dụ, [vemurafenib](https://dermnetnz.org/topics/vemurafenib) , [EGFR và chất ức chế protein kinase](https://dermnetnz.org/topics/egfr-and-protein-kinase-inhibitors) )
+- [Hydroxyurea](https://dermnetnz.org/topics/hydroxyurea) .
+
+---
+
+## Nguyên nhân gây ra bệnh vảy cá là gì?
+
+Các dạng bệnh vảy cá di truyền xảy ra do đột biến gen làm thay đổi hình dạng và hoạt động của tế bào sừng (tế bào da) ở lớp sừng (lớp hàng rào bảo vệ da bên ngoài). Các nghiên cứu đã chỉ ra rằng có các tế bào viêm và cytokine trong con đường Th17 góp phần gây ra các triệu chứng và dấu hiệu.
+Nguyên nhân gây ra bệnh vảy cá mắc phải vẫn chưa được biết rõ.
+
+---
+
+## Bệnh vảy cá di truyền được phân loại như thế nào?
+
+Tên gọi và phân loại bệnh vảy cá đang phát triển cùng với sự hiểu biết sâu sắc hơn về nguyên nhân phân tử của bệnh [1]. Các gen đột biến được hiển thị bằng chữ nghiêng.
+
+### Bệnh vảy cá thông thường
+Các bệnh vảy cá phổ biến là:
+- [Bệnh vảy cá thông thường](https://dermnetnz.org/topics/ichthyosis-vulgaris) (chiếm 95% các trường hợp bệnh vảy cá) FLG (filaggrin là một protein cấu trúc )
+- [Bệnh vảy cá liên kết nhiễm sắc thể X lặn](https://dermnetnz.org/topics/recessive-x-linked-ichthyosis) STS .
+
+### Bệnh vảy cá bẩm sinh lặn nhiễm sắc thể thường
+- [Bệnh vảy cá Harlequin](https://dermnetnz.org/topics/harlequin-ichthyosis) ABCA12 .
+- Bệnh vảy cá phiến TGM1 (transglutaminase 1 là một loại enzyme ) và một số bệnh khác.
+- Bệnh đỏ da dạng vảy cá bẩm sinh ALOXE3 và các bệnh khác.
+
+### Bệnh vảy cá sừng hóa
+Nhóm này có đột biến keratin . Các loại bệnh vảy cá keratinopathic chính là:
+- [Bệnh vảy cá biểu bì](https://dermnetnz.org/topics/epidermolytic-ichthyosis) * KRT1 , KRT10
+- Bệnh vảy cá biểu bì nông¶ KRT2
+- Bệnh vảy cá Curth-Macklin§ KRT1
+- Bệnh đỏ da dạng lưới bẩm sinh ở da vảy cá .
+* Trước đây gọi là tăng sừng biểu bì hoặc đỏ da dạng vảy cá bóng nước ¶ Trước đây gọi là bệnh vảy cá bóng nước Siemens § Trước đây gọi là bệnh vảy cá hystrix
+Có nhiều loại bệnh vảy cá hiếm gặp khác có bất thường về gen và các đặc điểm lâm sàng đã được xác định.
+
+---
+
+## Các đặc điểm lâm sàng của bệnh vảy cá là gì?
+
+Bệnh vảy cá có nhiều biểu hiện và mức độ nghiêm trọng khác nhau tùy thuộc vào nguyên nhân và tác động của việc biến đổi gen.
+
+### Bệnh vảy cá thông thường
+- Da có thể trông bình thường khi mới sinh.
+- Đến 5 tuổi, da sẽ khô và có vảy trắng mịn.
+- Tác động đến vùng bụng, cánh tay và chân, không ảnh hưởng đến nếp nhăn ở cánh tay và chân.
+- Gây ra bệnh [sừng hóa nang lông](https://dermnetnz.org/topics/keratosis-pilaris) .
+- Lòng bàn tay có nhiều lớp lót.
+- Có liên quan đến [bệnh chàm dị ứng](https://dermnetnz.org/topics/atopic-dermatitis) ở 50%.
+
+### Bệnh vảy cá liên kết X lặn
+- Vảy xám/nâu hình thoi hoặc hình thoi mịn xuất hiện trong vòng sáu tháng sau khi sinh.
+- Vảy da thường thấy rõ nhất ở các chi, cổ, thân và mông.
+- Lòng bàn tay bình thường.
+- Độ đục giác mạc ở 50%.
+- Chỉ ảnh hưởng đến nam giới.
+- Tinh hoàn ẩn ở 5–20%.
+
+### Bệnh vảy cá bẩm sinh lặn nhiễm sắc thể thường-1 (ARCI1)
+- Trẻ sơ sinh được bao bọc bởi [màng collodion](https://dermnetnz.org/topics/collodion-baby) khi mới sinh, màng này sẽ nứt ra và bong ra; 10% có khả năng tự phục hồi.
+- [Bệnh vảy cá Harlequin](https://dermnetnz.org/topics/harlequin-ichthyosis) : màng collodion nghiêm trọng, ectropion (mí mắt dưới sụp xuống), eclabium (môi lộn ra ngoài) và co cứng.
+- Bệnh vảy cá phiến: vảy sẫm màu dạng tấm trên toàn bộ cơ thể, bao gồm cả các nếp gấp ở tay và chân.
+- Biến thể đồ bơi: khu trú ở da đầu và thân mình (những vị trí ấm hơn trên cơ thể).
+- Bệnh đỏ da vảy cá bẩm sinh không có bọng nước (NCIE): đỏ da và vảy trắng mịn, nông, bán dính .
+- Bệnh sừng hóa lòng bàn tay và bàn chân thay đổi tùy theo gen bị ảnh hưởng.
+
+### Bệnh vảy cá sừng hóa
+- Da trẻ sơ sinh ẩm, đỏ và mềm.
+- Có thể xuất hiện mụn nước chứa đầy dịch, có thể bị nhiễm trùng và gây ra mùi hôi thối trên da.
+- Lớp vảy dày, màu trắng đến nâu xuất hiện trong vòng vài tuần, đặc biệt là ở các khớp duỗi .
+- Bệnh vảy cá biểu bì có thể gây ra các mảng ban đỏ đa vòng hình khuyên lan rộng chậm .
+- Hình dạng giống nhím hoặc gai nhọn ở bệnh vảy cá Curth-Macklin, do độ dày khác nhau của vảy.
+- Đột biến KT-1 gây ra bệnh sừng hóa lòng bàn tay và bàn chân ( KRT-10 thì không).
+- Có thể xảy ra tình trạng chậm phát triển.
+- Dạng khảm gây ra nốt ruồi ở biểu bì .
+
+### Bệnh vảy cá mắc phải
+- Giống bệnh vảy cá thông thường nhưng phát triển ở tuổi trưởng thành.
+- Có thể có bệnh lý tiềm ẩn.
+- Bệnh nhân có thể đang dùng một loại thuốc có thể gây khô da.
+![Không có caption](https://dermnetnz.org/assets/Uploads/scaly/ichthyosis1.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/scaly/ichthyosis2.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/scaly/s/ichthyosis3.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/scaly/ichthyosis-28.jpg)
+![Bệnh vảy cá Kava](https://dermnetnz.org/assets/Uploads/scaly/ichthyosis7.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/scaly/ichthyosis5.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/scaly/ichthyosis6.jpg)
+![Bệnh vảy cá thông thường](https://dermnetnz.org/assets/Uploads/scaly/ich-vulg-palms.jpg)
+![Bệnh vảy cá biểu bì](https://dermnetnz.org/assets/Uploads/scaly/ichthyosis4.jpg)
+![Bong tróc và đỏ ở tay do bệnh vảy cá bóng nước do bệnh ban đỏ da](https://dermnetnz.org/assets/collection/Keratinopathic-ichthyosis/keratinopathic-ichthyosis-0006.jpg)
+![Bệnh vảy cá mắc phải](https://dermnetnz.org/assets/Uploads/scaly/acquired-ichthyosis-1.jpg)
+![Bệnh vảy cá mắc phải](https://dermnetnz.org/assets/Uploads/scaly/acquired-ichthyosis-2.jpg)
+[Xem thêm hình ảnh về bệnh vảy cá](https://dermnetnz-org.translate.goog/topics/ichthyosis-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp) .
+
+---
+
+## Hội chứng bệnh vảy cá
+
+Bệnh vảy cá là một thành phần của một số hội chứng bẩm sinh hiếm gặp. Bao gồm:
+- KID GJB2 , GJB6 ( viêm giác mạc , bệnh vảy cá và điếc)
+- CHIME PIGL (tật khuyết mắt, dị tật tim, bệnh vảy cá, khuyết tật trí tuệ và dị tật tai)
+- [Hội chứng Netherton](https://dermnetnz.org/topics/netherton-syndrome) SPINK5 (bệnh vảy cá, [đỏ da toàn thân](https://dermnetnz.org/topics/erythroderma) , khiếm khuyết thân tóc , các đặc điểm dị ứng )
+- [Sjögren-Larsson](https://dermnetnz.org/topics/sjoegren-larsson-syndrome) ALDH3A2 (bệnh vảy cá, liệt cứng hai bên, bệnh võng mạc sắc tố và khuyết tật trí tuệ)
+- Bệnh Refsum PHYH/PEX7 (bệnh vảy cá và bệnh võng mạc sắc tố).
+
+---
+
+## Bệnh vảy cá được chẩn đoán như thế nào?
+
+Bệnh vảy cá thường là chẩn đoán lâm sàng. Xét nghiệm di truyền có sẵn tại một số trung tâm và [xét nghiệm trước sinh](https://dermnetnz.org/topics/prenatal-diagnosis-of-inherited-skin-conditions) có thể được thực hiện để phát hiện bệnh vảy cá liên kết nhiễm sắc thể X.
+[Bệnh vảy cá liên kết nhiễm sắc thể X lặn](https://dermnetnz.org/topics/recessive-x-linked-ichthyosis) được xác nhận bằng tình trạng không có steroid sulphatase trong nguyên bào sợi và nồng độ cholesterol sulfat trong huyết tương tăng cao .
+[Sinh thiết](https://dermnetnz.org/topics/skin-biopsy) cho thấy:
+- Lớp sừng dày, tăng sừng
+- Giảm hoặc mất lớp tế bào hạt và filaggrin trong bệnh vảy cá thông thường
+- 'Bóng ma' thể phiến trong bệnh vảy cá phiến
+- Thoái hóa không bào của tế bào sừng trên nền và các hạt keratohyalin thô trong lớp hạt dày ở bệnh vảy cá sừng hóa.
+
+---
+
+## Bệnh vảy cá gây ra những vấn đề gì?
+
+Những người bị bệnh vảy cá rất nặng có thể phải dành nhiều giờ mỗi ngày để chăm sóc da. Các vấn đề họ gặp phải có thể bao gồm:
+- Quá nóng: bệnh vảy cá có thể ảnh hưởng đến khả năng kiểm soát nhiệt độ bình thường bằng cách làm giảm khả năng đổ mồ hôi
+- Hạn chế vận động: da khô, có vảy có thể khiến việc di chuyển một số bộ phận trên cơ thể trở nên quá đau đớn
+- [Nhiễm trùng thứ phát do vi khuẩn](https://dermnetnz.org/topics/wound-infections) : da bị nứt và tách có thể dẫn đến [nhiễm trùng](https://dermnetnz.org/topics/bacterial-skin-infections) da và đôi khi dẫn đến nhiễm trùng toàn thân
+- Suy giảm thính lực hoặc thị lực: da có thể tích tụ trên tai hoặc mắt.
+
+---
+
+## Phương pháp điều trị bệnh vảy cá là gì?
+
+Không có cách chữa trị cho các dạng bệnh vảy cá di truyền. Những cách sau đây có thể hữu ích:
+- Chất tẩy rửa không chứa xà phòng (xà phòng có thể làm trầm trọng thêm tình trạng khô da)
+- Tắm nước muối
+- Chà xát bằng đá bọt hoặc miếng bọt biển tẩy tế bào chết để loại bỏ vảy
+- [Kem dưỡng ẩm](https://dermnetnz.org/topics/emollients-and-moisturisers) có chứa [urê](https://dermnetnz.org/topics/urea) , [axit salicylic](https://dermnetnz.org/topics/salicylic-acid) hoặc [axit alpha hydroxy](https://dermnetnz.org/topics/alpha-hydroxy-acid-facial-treatments) . Tốt nhất nên thoa lên da ẩm.
+- Trong bệnh nặng, retinoid đường uống [là acitretin](https://dermnetnz.org/topics/acitretin) và [isotretinoin](https://dermnetnz.org/topics/isotretinoin)
+- [Thuốc kháng sinh uống](https://dermnetnz.org/topics/antibiotics) cho [nhiễm trùng thứ phát do vi khuẩn](https://dermnetnz.org/topics/wound-infections)
+- [](https://dermnetnz.org/topics/vitamin-d) Bổ sung [vitamin D](https://dermnetnz.org/topics/vitamin-d) [](https://dermnetnz.org/topics/vitamin-d) dành cho những bệnh nhân mắc bệnh vảy cá ở mức độ nặng.
+Các nghiên cứu đang được tiến hành để đánh giá tác dụng của kháng thể đơn dòng nhắm vào các con đường miễn dịch Th17.
+
+---
+
+## Triển vọng của bệnh vảy cá là gì?
+
+Các dạng bệnh vảy cá nghiêm trọng nhất có thể đe dọa đến tính mạng của trẻ sơ sinh bị ảnh hưởng, nhưng hầu hết những người mắc bệnh vảy cá đều có tuổi thọ bình thường.
+Các dạng bệnh vảy cá di truyền tồn tại suốt đời.
+Bệnh vảy cá mắc phải có thể khỏi nếu nguyên nhân cơ bản được điều trị hiệu quả hoặc ngừng sử dụng thuốc gây bệnh .

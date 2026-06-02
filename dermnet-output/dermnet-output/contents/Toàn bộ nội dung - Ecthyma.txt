@@ -1,0 +1,77 @@
+# Ecthyma — thông tin bổ sung
+
+Thể loại:
+
+Nhiễm trùng
+
+SNOMED CT:
+
+762694009, 762693003, 762283002
+
+**[Nhiễm trùng](https://dermnetnz.org/topics/topics?category=Infections)**
+
+
+# **Ecthyma**
+
+Tác giả: Vanessa Ngan, Biên tập viên, 2003. Cập nhật bởi Tiến sĩ Jannet Gomez, Sinh viên sau đại học chuyên ngành Da liễu lâm sàng, Đại học Queen Mary, London, Vương quốc Anh, tháng 1 năm 2016.
+
+---
+
+## Viêm loét giác mạc là gì?
+
+Chốc lở là một bệnh nhiễm trùng da đặc trưng bởi các vết loét đóng vảy , bên dưới có thể hình thành các vết loét . Đây là một dạng [chốc lở](https://dermnetnz.org/topics/impetigo) sâu , do cùng một loại vi khuẩn gây nhiễm trùng. Chốc lở gây ra các vết loét sâu hơn trên da vào tận lớp hạ bì.
+[Streptococcus pyogenes](https://dermnetnz.org/topics/streptococcal-skin-infections) và [Staphylococcus aureus](https://dermnetnz.org/topics/staphylococcal-skin-infection) là vi khuẩn gây ra bệnh chốc lở.
+![Ecthyma](https://dermnetnz.org/assets/Uploads/bacterial/ecthyma.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/bacterial/ecthyma-5.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/bacterial/w/ecthyma-8.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/bacterial/ecthyma-9.jpg)
+[Xem thêm hình ảnh về bệnh loét niêm mạc](https://dermnetnz-org.translate.goog/topics/ecthyma-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp) .
+
+---
+
+## Ai bị bệnh loét da?
+
+Mọi người ở mọi lứa tuổi, giới tính và chủng tộc đều có thể bị ảnh hưởng, mặc dù trẻ em, người cao tuổi và bệnh nhân suy giảm miễn dịch (ví dụ: tiểu đường, giảm bạch cầu trung tính , thuốc ức chế miễn dịch , bệnh ác tính , HIV ) có xu hướng có nguy cơ nhiễm trùng cao hơn. Các yếu tố khác làm tăng nguy cơ mắc bệnh chốc lở bao gồm:
+- Vệ sinh kém và điều kiện sống đông đúc
+- Nhiệt độ và độ ẩm cao ở những nơi nhiệt đới
+- Có vết thương nhỏ hoặc các tình trạng da khác như trầy xước, vết côn trùng cắn hoặc viêm da
+- Chốc lở không được điều trị, đặc biệt ở những bệnh nhân vệ sinh kém.
+
+---
+
+## Dấu hiệu và triệu chứng của bệnh loét da là gì?
+
+Viêm loét da thường ảnh hưởng đến mông, đùi, chân, mắt cá chân và bàn chân. Đôi khi, các hạch bạch huyết tại chỗ bị sưng và đau.
+Tổn thương mụn nước thường bắt đầu bằng mụn nước (mụn nước nhỏ) hoặc mụn mủ trên vùng da bị viêm.
+- Một lớp vảy cứng sẽ nhanh chóng bao phủ vết phồng rộp.
+- Lớp vảy có thể khó bóc ra để lộ vết loét cứng có màu đỏ, sưng và rỉ mủ.
+- Các tổn thương có thể giữ nguyên kích thước và đôi khi tự khỏi mà không cần điều trị, hoặc chúng có thể dần dần phát triển thành vết loét có đường kính 0,5–3 cm.
+- Chúng dần dần biến mất và để lại sẹo.
+
+---
+
+## Biến chứng của bệnh loét da
+
+Các biến chứng của bệnh loét da có thể bao gồm:
+- Nhiễm trùng lan rộng hơn : viêm mô tế bào, ban đỏ, viêm mạch bạch huyết , hoại thư , viêm hạch bạch huyết và nhiễm trùng huyết
+- Sẹo vĩnh viễn
+- Hiếm khi, viêm cầu thận sau nhiễm liên cầu khuẩn.
+
+---
+
+## Phương pháp điều trị bệnh loét da là gì?
+
+Việc điều trị phụ thuộc vào mức độ và mức độ nghiêm trọng của nhiễm trùng. Bất kỳ bệnh lý tiềm ẩn hoặc nhiễm trùng da nào như [ghẻ](https://dermnetnz.org/topics/scabies) hoặc [viêm da](https://dermnetnz.org/topics/dermatitis) cũng cần được điều trị.
+Ngâm các vùng có vảy
+Ngâm một miếng vải sạch vào hỗn hợp gồm nửa cốc giấm trắng pha với một lít nước ấm. Đắp gạc lên vùng da ẩm ướt trong khoảng mười phút, nhiều lần trong ngày. Nhẹ nhàng lau sạch lớp vảy.
+Thuốc sát trùng tại chỗ hoặc thuốc kháng sinh
+Thuốc mỡ kháng sinh bôi tại chỗ như [axit fusidic](https://dermnetnz.org/topics/topical-fusidic-acid) hoặc > [mupirocin](https://dermnetnz.org/topics/mupirocin) thường được kê đơn cho bệnh chốc lở khu trú . Có thể thay thế bằng [thuốc sát trùng](https://dermnetnz.org/topics/antiseptic) tại chỗ như povidone iodine , [dung dịch siêu oxy hóa](https://dermnetnz.org/topics/superoxidised-solution) , [mật ong Manuka kháng khuẩn hoặc](https://dermnetnz.org/topics/honey) kem hydrogen peroxide . Bôi ít nhất ba lần một ngày lên vùng da bị ảnh hưởng và vùng da xung quanh. Nên bôi thuốc sau khi đã loại bỏ lớp vảy. Quan sát kỹ các tổn thương mới để điều trị. Tiếp tục điều trị trong vài ngày sau khi lành. [](https://dermnetnz.org/topics/topical-fusidic-acid) [](https://dermnetnz.org/topics/mupirocin) [](https://dermnetnz.org/topics/antiseptic) [](https://dermnetnz.org/topics/superoxidised-solution) [](https://dermnetnz.org/topics/honey)
+Thuốc kháng sinh uống
+[Kháng sinh đường uống](https://dermnetnz.org/topics/antibiotics) được khuyến cáo nếu nhiễm trùng lan rộng hoặc đáp ứng chậm với kháng sinh bôi ngoài da. Kháng sinh được lựa chọn là penicillin [,](https://dermnetnz.org/topics/penicillin) thường là dicloxacillin hoặc flucloxacillin, có tác dụng chống lại cả Streptococcus pyogenes và Staphylococcus aureus . Thời gian điều trị khác nhau; có thể cần vài tuần điều trị để chữa khỏi hoàn toàn tình trạng viêm loét.
+Cải thiện vệ sinh
+Một yếu tố quan trọng khác cần xem xét trong việc quản lý toàn diện bệnh chốc lở là cải thiện vệ sinh. Các biện pháp cần thực hiện bao gồm:
+- Rửa hàng ngày bằng xà phòng sát khuẩn hoặc sữa [rửa mặt](https://dermnetnz.org/topics/soaps-and-cleansers)
+- Thay và giặt quần áo và khăn trải giường thường xuyên
+- Sử dụng khăn tắm và khăn mặt riêng biệt để ngăn ngừa lây nhiễm.
+- Sử dụng lưới và [thuốc xịt chống côn trùng](https://dermnetnz.org/topics/insect-repellent) để ngăn ngừa côn trùng cắn.
+- Giảm việc gãi [các vết côn trùng cắn](https://dermnetnz.org/topics/arthropod-bites-and-stings) , mụn [nước thủy đậu](https://dermnetnz.org/topics/chickenpox) và [ghẻ bằng cách bôi](https://dermnetnz.org/topics/scabies) kem calamine , [bột yến mạch](https://dermnetnz.org/topics/oatmeal) dạng keo hoặc baking soda.

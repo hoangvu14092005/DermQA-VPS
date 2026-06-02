@@ -1,0 +1,108 @@
+# Halo naevus - thông tin bổ sung
+
+Thể loại:
+
+Tổn thương (lành tính)
+
+SNOMED CT:
+
+398028009
+
+**[Tổn thương (lành tính)](https://dermnetnz.org/topics/topics?category=Lesions+(benign))**
+
+
+# **Hạch quầng**
+
+Tác giả: Tiến sĩAmanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand, 1997. Cập nhật tháng 1 năm 2018.
+
+---
+
+## Nốt ruồi quầng là gì?
+
+Nốt ruồi halo (viết theo tiếng Mỹ là nevus ) là một [nốt ruồi](https://dermnetnz.org/topics/melanocytic-naevus) bình thường với một vòng trắng, hay còn gọi là quầng, bao quanh. Nốt ruồi nâu sẫm ở giữa mờ dần từ nâu sẫm sang nâu nhạt rồi đến hồng, và cuối cùng biến mất hoàn toàn.
+Hạch quầng còn được gọi là:
+- Bớt sắc tố Halo
+- nốt ruồi Halo
+- Nốt ruồi thoái triển
+- Nốt ruồi Sutton
+- Máy ly tâm Leukoderma acquisitum.
+
+### Halo naevi
+![Hạch quầng](https://dermnetnz.org/assets/Uploads/halo-naevus-02.jpg)
+![Hạch quầng](https://dermnetnz.org/assets/Uploads/halo-naevus-06.jpg)
+
+---
+
+## Ai sẽ mắc bệnh halo naevi?
+
+Nốt ruồi Halo (số nhiều ở Mỹ là nevi) không phải là hiếm gặp, với tỷ lệ mắc bệnh ước tính khoảng 1% dân số da trắng. Chúng thường xuất hiện ở trẻ em khỏe mạnh hoặc thanh niên, bất kể giới tính. Chúng cũng có thể xuất hiện ở người lớn tuổi.
+Quầng sáng có thể được xem là một phần của tình trạng mất sắc tố tổng quát hơn , [bệnh bạch biến](https://dermnetnz.org/topics/vitiligo) và quầng sáng cũng có thể liên quan đến một [bệnh tự miễn](https://dermnetnz.org/topics/autoimmune-diseases-in-dermatology) khác . [](https://dermnetnz.org/topics/vitiligo) [](https://dermnetnz.org/topics/autoimmune-diseases-in-dermatology)
+Chúng hiếm khi xuất hiện như một phản ứng với bệnh [ung thư hắc tố](https://dermnetnz.org/topics/melanoma) tiến triển và ở những bệnh nhân bị [ung thư hắc tố di căn](https://dermnetnz.org/topics/metastatic-melanoma) được điều trị bằng [liệu pháp nhắm mục tiêu](https://dermnetnz.org/topics/targeted-cancer-therapies) hoặc thuốc ức chế điểm kiểm soát miễn dịch như [pembrolizumab](https://dermnetnz.org/topics/pembrolizumab) hoặc [nivolumab](https://dermnetnz.org/topics/nivolumab) .
+
+---
+
+## Nguyên nhân gây ra quầng thâm mắt là gì?
+
+Nguyên nhân hình thành halo naevi vẫn chưa được hiểu rõ. Hiện tại, chúng được phân loại là có nguồn gốc tự miễn .
+Sự khởi phát của nốt ruồi halo có thể do [cháy nắng](https://dermnetnz.org/topics/sunburn) hoặc chấn thương tại chỗ , khiến hệ thống miễn dịch nhận diện nốt ruồi là vật lạ, dẫn đến sự tấn công của kháng thể lưu hành và tế bào lympho T CD8+. Phản ứng này cũng ảnh hưởng đến vùng da bình thường xung quanh nốt ruồi, nơi cũng chứa các tế bào sắc tố, gây mất sắc tố.
+Sự phát triển của quầng thâm cũng có liên quan đến căng thẳng tâm lý xã hội .
+
+---
+
+## Các đặc điểm lâm sàng của bệnh halo naevi là gì?
+
+Nốt ruồi halo đơn độc hoặc nhiều nốt ruồi halo thường xuất hiện ở thân mình. Chúng ít phổ biến hơn ở đầu và hiếm gặp ở chân tay. Các nốt ruồi bị ảnh hưởng là các nốt ruồi da [bẩm sinh](https://dermnetnz.org/topics/congenital-melanocytic-naevi) hoặc xuất hiện từ thời thơ ấu. Nốt ruồi halo có thể xuất hiện theo [hiện tượng Koebner](https://dermnetnz.org/topics/the-koebner-phenomenon) , xuất hiện bên trong một nốt ruồi bị tổn thương theo một cách nào đó.
+Quầng sáng trắng thường rộng khoảng 0,5–1,0 cm và đối xứng (hình tròn hoặc hình bầu dục). Các quầng sáng này phát triển theo từng khoảng xung quanh một hoặc nhiều nốt ruồi, nhưng không bao quanh tất cả.
+Có bốn giai đoạn của một nốt ruồi quầng. Có thể mất vài năm để hoàn thành chu kỳ. Nhiều nốt ruồi quầng có thể ở các giai đoạn khác nhau.
+- Giai đoạn 1: Một viền da nhợt nhạt bao quanh nốt ruồi
+- Giai đoạn 2: Nốt ruồi có thể chuyển sang màu hồng hoặc ít sắc tố hơn và mờ dần
+- Giai đoạn 3: Vùng mất sắc tố hình tròn hoặc hình bầu dục vẫn tồn tại
+- Giai đoạn 4: Da bị ảnh hưởng dần dần trở lại màu sắc bình thường
+
+### Halo naevi ở các giai đoạn khác nhau
+![Giai đoạn 1](https://dermnetnz.org/assets/Uploads/lesions/halo4.jpg)
+![Giai đoạn 2](https://dermnetnz.org/assets/Uploads/lesions/halo2.jpg)
+![Giai đoạn 3](https://dermnetnz.org/assets/Uploads/lesions/halo3.jpg)
+[Xem thêm hình ảnh của halo naevi](https://dermnetnz-org.translate.goog/topics/halo-mole-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp) .
+
+---
+
+## Làm thế nào để chẩn đoán bệnh nốt ruồi quầng?
+
+Nốt ruồi quầng là một chẩn đoán lâm sàng. Có thể sử dụng [phương pháp soi da](https://dermnetnz.org/topics/dermoscopy) để đánh giá cấu trúc và màu sắc của nốt ruồi.
+Cần phải tiến hành kiểm tra da toàn diện (đặc biệt là ở người lớn), vì hiếm khi, nốt ruồi quầng có thể do khối u [ác tính](https://dermnetnz.org/topics/melanoma) ở nơi khác gây ra.
+Đôi khi, nếu nốt ruồi có các đặc điểm bất thường như cấu trúc hoặc màu sắc không đồng đều, nên cắt bỏ một nốt ruồi đơn độc để đảm bảo nó lành tính. Mô học cho thấy thâm nhiễm lymphohistiocytic hình dải ở lớp hạ bì dưới nốt ruồi.
+
+### Nội soi da vùng halo naevi
+![Nội soi da nốt ruồi quầng](https://dermnetnz.org/assets/Uploads/halo-naevus-03.jpg)
+![Nội soi da nốt ruồi quầng](https://dermnetnz.org/assets/Uploads/halo-naevus-04.jpg)
+![Nội soi da nốt ruồi quầng](https://dermnetnz.org/assets/Uploads/halo-naevus-05.jpg)
+
+---
+
+## Chẩn đoán phân biệt đối với nốt ruồi quầng là gì?
+
+Chẩn đoán phân biệt của bệnh đốm quầng bao gồm:
+- [Nốt ruồi hắc tố](https://dermnetnz.org/topics/melanocytic-naevus) không có quầng
+- Nốt ruồi tái phát trong sẹo
+- Nốt ruồi hắc tố thoái triển qua một con đường khác Phản ứng dạng liken khu trú ; có thể quan sát thấy một cụm các chấm màu xám trên da liễu. Sự thoái triển lão hóa ; nốt ruồi mờ dần và co lại trên toàn bộ mà không mất sắc tố ngoại vi
+- Phản ứng dạng liken khu trú ; có thể quan sát thấy một cụm các chấm màu xám trên da liễu.
+- Sự thoái triển lão hóa ; nốt ruồi mờ dần và co lại trên toàn bộ mà không mất sắc tố ngoại vi
+- [U hắc tố](https://dermnetnz.org/topics/melanoma) có hiện tượng hào quang hoặc một dạng thoái triển khác Sự mất sắc tố là cục bộ và không có hình tròn hoặc hình bầu dục Các đặc điểm khác của bệnh ung thư hắc tố cũng xuất hiện, chẳng hạn như cấu trúc và màu sắc không đều.
+- Sự mất sắc tố là cục bộ và không có hình tròn hoặc hình bầu dục
+- Các đặc điểm khác của bệnh ung thư hắc tố cũng xuất hiện, chẳng hạn như cấu trúc và màu sắc không đều.
+- [Bệnh vảy nến do ánh nắng](https://dermnetnz.org/topics/solar-lentigo) hoặc [bệnh sừng hóa bã nhờn](https://dermnetnz.org/topics/seborrhoeic-keratosis) đang trong quá trình thoái triển.
+Nếu có nghi ngờ về chẩn đoán, nên cắt bỏ toàn bộ nốt ruồi để xét nghiệm mô bệnh học . [Sinh thiết](https://dermnetnz.org/topics/skin-biopsy) một phần có thể gây hiểu lầm.
+
+### Liên quan đến các tổn thương có mất sắc tố — tất cả đều được cắt bỏ để xét nghiệm mô bệnh học
+![Nốt ruồi tái phát ở sẹo (xem hình ảnh soi da)](https://dermnetnz.org/assets/Uploads/recurrent-naevus-09.jpg)
+![Nốt ruồi bất thường có mất sắc tố](https://dermnetnz.org/assets/Uploads/atypical-naevus-11.jpg)
+![U hắc tố có mất sắc tố](https://dermnetnz.org/assets/Uploads/halo-melanoma-07.jpg)
+
+---
+
+## Phương pháp điều trị bệnh halo naevus là gì?
+
+Ngoại trừ việc giải thích, thông thường không cần điều trị gì đối với nốt ruồi quầng thông thường.
+Vùng da trắng của nốt ruồi quầng sẽ dễ bị cháy nắng do thiếu sắc tố melanin bảo vệ . Hãy che chắn hoặc thoa [kem chống nắng](https://dermnetnz.org/topics/topical-sunscreen-agents) vào mùa hè để tránh bị [cháy nắng](https://dermnetnz.org/topics/sunburn) .
+Phẫu thuật thường không cần thiết nhưng có thể được khuyến nghị nếu có các đặc điểm bất thường như cấu trúc bất thường của nốt ruồi.

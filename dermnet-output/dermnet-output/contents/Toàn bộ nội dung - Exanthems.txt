@@ -1,0 +1,106 @@
+# Exanthems — thông tin bổ sung
+
+Thể loại:
+
+Phát ban, Thuật ngữ
+
+SNOMED CT:
+
+271807003, 112625008, 238813009, 49882001
+
+**[Phát ban, Thuật ngữ](https://dermnetnz.org/topics/topics?category=Rashes)**
+
+
+# **Exanthems**
+
+Tác giả: Tiến sĩ Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand, 2002. Cập nhật tháng 9 năm 2015.
+
+---
+
+## Exanthem là gì?
+
+Ban xuất huyết là tên y khoa dùng để chỉ tình trạng phát ban lan rộng , thường kèm theo các triệu chứng toàn thân như sốt , khó chịu và đau đầu. Tình trạng này thường do một bệnh lý nhiễm trùng như virus gây ra, và là phản ứng với độc tố do cơ thể sản sinh ra , tổn thương da do cơ thể gây ra, hoặc phản ứng miễn dịch.
+![Bài ca virus](https://dermnetnz.org/assets/Uploads/viral/exanth.jpg)
+![Bài ca virus](https://dermnetnz.org/assets/Uploads/viral/exanth2.jpg)
+![Exanthem](https://dermnetnz.org/assets/Uploads/viral/exanth-close.jpg)
+![Exanthem](https://dermnetnz.org/assets/Uploads/viral/exanth3.jpg)
+![Exanthem](https://dermnetnz.org/assets/Uploads/viral/s/exanth4.jpg)
+![Exanthem](https://dermnetnz.org/assets/Uploads/viral/s/exanth5.jpg)
+![Bài ca virus](https://dermnetnz.org/assets/Uploads/viral/exanthem1.jpg)
+![Bài ca virus](https://dermnetnz.org/assets/Uploads/viral/exanthem2.jpg)
+![Bài ca virus](https://dermnetnz.org/assets/Uploads/viral/exanthem3.jpg)
+
+---
+
+## Nguyên nhân nào gây ra chứng phát ban?
+
+Xuất huyết ngoài da ở trẻ em rất phổ biến và thường do [nhiễm trùng vi-rút](https://dermnetnz.org/topics/viral-skin-infections) cụ thể :
+- [Bệnh thủy đậu (varicella)](https://dermnetnz.org/topics/chickenpox)
+- [Bệnh sởi (morbillivirus)](https://dermnetnz.org/topics/measles)
+- [Bệnh sởi Đức (virus sởi Đức)](https://dermnetnz.org/topics/rubella)
+- [Bệnh ban đào](https://dermnetnz.org/topics/roseola) (virus herpes 6B)
+- [Ban đỏ nhiễm trùng](https://dermnetnz.org/topics/erythema-infectiosum) (parvovirus B19).
+Các trường hợp nhiễm virus cũng bao gồm:
+- [Hội chứng nhiễm virus gây suy giảm miễn dịch cấp tính ở người](https://dermnetnz.org/topics/acute-human-immunodeficiency-virus-infection-syndrome)
+- [Bệnh đậu mùa](https://dermnetnz.org/topics/smallpox)
+- [Viêm gan siêu vi](https://dermnetnz.org/topics/skin-signs-of-viral-hepatitis)
+- [Bệnh bạch cầu đơn nhân nhiễm trùng](https://dermnetnz.org/topics/infectious-mononucleosis) và phát ban do aminopenicillin ( [virus Epstein-Barr](https://dermnetnz.org/topics/epstein-barr-virus) )
+- [Hội chứng găng tay và vớ xuất huyết sẩn](https://dermnetnz.org/topics/papular-purpuric-gloves-and-socks-syndrome) (parvovirus B19)
+- [Bệnh vẩy phấn hồng](https://dermnetnz.org/topics/pityriasis-rosea) (virus herpes 6 và 7)
+- [Viêm da đầu chi dạng sẩn ở trẻ em](https://dermnetnz.org/topics/papular-acrodermatitis-of-childhood)
+- [Ban đỏ đa dạng](https://dermnetnz.org/topics/erythema-multiforme)
+- [Ngoại ban laterothoracic](https://dermnetnz.org/topics/laterothoracic-exanthem)
+- Một số trường hợp [viêm mủ toàn thân cấp tính](https://dermnetnz.org/topics/acute-generalised-exanthematous-pustulosis)
+- Phát ban do virus không đặc hiệu.
+Các trường hợp xuất huyết do nhiễm trùng do [vi khuẩn](https://dermnetnz.org/topics/bacterial-skin-infections) bao gồm:
+- [Nhiễm trùng do độc tố tụ cầu](https://dermnetnz.org/topics/staphylococcal-skin-infection) : [Hội chứng sốc nhiễm độc](https://dermnetnz.org/topics/toxic-shock-syndrome-and-toxic-shock-like-syndrome) (TSS) [](https://dermnetnz.org/topics/staphylococcal-scalded-skin-syndrome) Hội [chứng bỏng da do tụ cầu](https://dermnetnz.org/topics/staphylococcal-scalded-skin-syndrome) (SSSS).
+- [Hội chứng sốc nhiễm độc](https://dermnetnz.org/topics/toxic-shock-syndrome-and-toxic-shock-like-syndrome) (TSS)
+- [](https://dermnetnz.org/topics/staphylococcal-scalded-skin-syndrome) Hội [chứng bỏng da do tụ cầu](https://dermnetnz.org/topics/staphylococcal-scalded-skin-syndrome) (SSSS).
+- Nhiễm độc tố liên cầu khuẩn: [Sốt ban đỏ](https://dermnetnz.org/topics/scarlet-fever) [Hội chứng sốc nhiễm độc liên cầu khuẩn (STSS)](https://dermnetnz.org/topics/toxic-shock-syndrome-and-toxic-shock-like-syndrome) . [](https://dermnetnz.org/topics/toxic-shock-syndrome-and-toxic-shock-like-syndrome)
+- [Sốt ban đỏ](https://dermnetnz.org/topics/scarlet-fever)
+- [Hội chứng sốc nhiễm độc liên cầu khuẩn (STSS)](https://dermnetnz.org/topics/toxic-shock-syndrome-and-toxic-shock-like-syndrome) . [](https://dermnetnz.org/topics/toxic-shock-syndrome-and-toxic-shock-like-syndrome)
+Các bệnh nhiễm trùng cụ thể khác có thể gây ra ban đỏ bao gồm:
+- [Viêm phổi do Mycoplasma](https://dermnetnz.org/topics/mycoplasma-pneumoniae-infection)
+- [Bệnh do Rickettsia](https://dermnetnz.org/topics/rickettsial-diseases) .
+Xuất huyết ngoài da cũng có thể do [thuốc](https://dermnetnz.org/topics/drug-eruptions) (đặc biệt là [thuốc kháng sinh](https://dermnetnz.org/topics/antibiotics) và [thuốc chống viêm không steroid](https://dermnetnz.org/topics/non-steroidal-anti-inflammatory-drugs-and-their-skin-side-effects) ). Xem:
+- [Phát ban do thuốc dạng sởi](https://dermnetnz.org/topics/morbilliform-drug-reaction)
+- [Hội chứng quá mẫn thuốc](https://dermnetnz.org/topics/drug-hypersensitivity-syndrome) .
+Các bệnh về mô liên kết cấp tính có thể biểu hiện bằng phát ban:
+- [Bệnh lupus ban đỏ hệ thống](https://dermnetnz.org/topics/systemic-lupus-erythematosus)
+- Viêm khớp thiếu niên khởi phát toàn thân
+- [Bệnh Still khởi phát ở người lớn](https://dermnetnz.org/topics/adult-onset-still-disease) .
+Một số trường hợp phát ban không rõ nguyên nhân, ví dụ như [bệnh Kawasaki](https://dermnetnz.org/topics/kawasaki-disease) .
+
+---
+
+## Dấu hiệu và triệu chứng của bệnh ban đỏ là gì?
+
+Các ban xuất huyết không đặc hiệu xuất hiện dưới dạng các đốm hoặc mảng và có thể ngứa hoặc không. Ban thường lan rộng và có thể lan rộng hơn ở thân mình so với các chi. Trong hầu hết các trường hợp, trước khi ban xuất hiện, bệnh nhân có thể có các triệu chứng chung bao gồm:
+- Sốt
+- Sự khó chịu
+- Đau đầu
+- Mất cảm giác thèm ăn
+- Đau bụng
+- Sự cáu kỉnh
+- Đau nhức cơ.
+Các dấu hiệu và triệu chứng này có thể khác nhau tùy thuộc vào nguyên nhân gây ban xuất huyết. Xem chi tiết từng nguyên nhân. Ban xuất huyết do virus thường xảy ra thành từng đợt dịch nhỏ , do đó có thể có nhiều trẻ khác bị ảnh hưởng cùng lúc.
+
+---
+
+## Chẩn đoán bệnh ban đỏ
+
+Nhiều trường hợp phát ban có kiểu phát ban và triệu chứng tiền phát ban riêng biệt , cho phép chẩn đoán lâm sàng.
+Tham khảo các nguồn lực phòng xét nghiệm tại địa phương để xác định xét nghiệm phù hợp nhất trong trường hợp nghi ngờ, đặc biệt là ở bệnh nhân rất ốm hoặc nếu ban xuất hiện trong thời kỳ mang thai hoặc suy giảm miễn dịch.
+Các xét nghiệm có thể bao gồm:
+- Tăm bông virus để nuôi cấy virus , miễn dịch huỳnh quang và PCR
+- Xét nghiệm máu để xác định huyết thanh , PCR, RNA / DNA , ANA và kháng thể mô
+- Phân tích kiểu gen.
+
+---
+
+## Phương pháp điều trị bệnh ban đỏ là gì?
+
+Việc điều trị các loại phát ban cụ thể sẽ tùy thuộc vào nguyên nhân.
+Điều trị triệu chứng có thể bao gồm:
+- Paracetamol để hạ sốt
+- [Thuốc](https://dermnetnz.org/topics/emollients-and-moisturisers) làm mềm da, dưỡng ẩm để giảm ngứa.

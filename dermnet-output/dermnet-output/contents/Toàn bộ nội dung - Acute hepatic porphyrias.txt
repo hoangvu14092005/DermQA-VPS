@@ -1,0 +1,141 @@
+# Bệnh porphyria gan cấp tính — thông tin bổ sung
+
+Thể loại:
+
+Di truyền
+
+SNOMED CT:
+
+418470004, 55056006, 234422006, 58275005, 7425008, 64081000
+
+**[Di truyền](https://dermnetnz.org/topics/topics?category=Genetic)**
+
+
+# **Bệnh porphyria gan cấp tính**
+
+Tác giả: Tiến sĩ Cindy Towns, Đại học Otago và Bệnh viện Wellington, New Zealand. Phó Giáo sư Amanda Oakley, Bác sĩ Da liễu, New Zealand, tháng 6 năm 2020. Cập nhật bởi Tiến sĩ Ian Coulson, Bác sĩ Da liễu, Vương quốc Anh, tháng 7 năm 2023.
+
+---
+
+## Bệnh porphyria là gì?
+
+Bệnh porphyria là một nhóm các rối loạn chuyển hóa di truyền, trong đó có sự tích tụ các tiền chất hem. Bệnh được phân loại thành porphyria gan cấp tính và porphyria da mạn tính .
+Sự thiếu hụt enzyme cụ thể trong con đường chuyển hóa hem dẫn đến các biểu hiện lâm sàng cụ thể.
+
+### Các loại bệnh porphyria và con đường sinh hóa
+![Bệnh porphyria tổng hợp heme](https://dermnetnz.org/assets/Uploads/heme-synthesis-porphyria.jpg)
+
+---
+
+## Bệnh porphyria gan cấp tính là gì?
+
+Có 4 loại bệnh porphyria gan cấp tính. Bệnh này đặc trưng bởi các cơn đau bụng cấp tính tái phát dữ dội theo kiểu thần kinh nội tạng.
+Ba loại bệnh porphyria gan cấp tính di truyền trội trên nhiễm sắc thể thường là:
+- Bệnh porphyria cấp tính từng đợt (AIP)
+- [Bệnh porphyria rải rác (VP)](https://dermnetnz.org/topics/variegate-porphyria)
+- [Bệnh coproporphyria di truyền (HCP)](https://dermnetnz.org/topics/hereditary-coproporphyria)
+Biểu hiện, chẩn đoán ban đầu và cách xử trí các đợt cấp tính giống nhau đối với AIP, VP và HCP. Tổn thương da có thể xảy ra ở bệnh porphyria thể đốm và coproporphyria di truyền , nhưng không xảy ra ở bệnh porphyria cấp tính từng đợt.
+Bệnh porphyria delta aminolaevulinic acid dehydratase, một loại bệnh porphyria ở gan do nồng độ enzyme delta-aminolevulinic acid dehydratase thấp, có tính di truyền lặn trên nhiễm sắc thể thường với rất ít báo cáo trường hợp trong tài liệu và không được xem xét ở đây.
+
+---
+
+## Ai mắc bệnh porphyria gan cấp tính?
+
+Bệnh porphyria cấp tính từng đợt, [porphyria thể biến đổi](https://dermnetnz.org/topics/variegate-porphyria) và [coproporphyria di truyền](https://dermnetnz.org/topics/hereditary-coproporphyria) xảy ra trên toàn cầu, nhưng một số khu vực có tỷ lệ mắc bệnh cao hơn do ảnh hưởng của yếu tố nền tảng (ví dụ: porphyria cấp tính từng đợt ở Thụy Điển và porphyria thể biến đổi ở Nam Phi). Trên toàn thế giới, porphyria cấp tính từng đợt là dạng porphyria gan cấp tính phổ biến nhất và coproporphyria di truyền là dạng ít phổ biến nhất. Cả hai giới đều bị ảnh hưởng như nhau.
+Hầu hết bệnh nhân mắc bệnh porphyria cấp tính sẽ không bị các cơn cấp tính - mức độ thâm nhập thấp ở mức 10% hoặc thấp hơn.
+
+---
+
+## Nguyên nhân nào gây ra bệnh porphyria gan cấp tính?
+
+Bệnh porphyria là do đột biến di truyền trong con đường tổng hợp hem. Chức năng enzyme suy giảm dẫn đến sự tích tụ các tiền chất hem.
+Sự tích tụ của axit aminolaevulinic và porphobilinogen được cho là nguyên nhân gây ra các đặc điểm thần kinh nội tạng, nhưng cơ chế bệnh sinh vẫn chưa được hiểu rõ.
+Các cơn cấp tính xảy ra khi enzyme đầu tiên trong con đường này, aminolaevulinic acid synthase (ALAS1), được kích hoạt. Các yếu tố kích hoạt bao gồm:
+- Thuốc theo toa hoặc thuốc giải trí
+- Hormone nữ nội sinh
+- Giảm lượng carbohydrate hấp thụ (do nhịn ăn, ăn kiêng hoặc mắc bệnh khác)
+- Rượu bia.
+
+---
+
+## Các đặc điểm lâm sàng của bệnh porphyria cấp tính là gì?
+
+Ba dạng bệnh porphyria cấp tính di truyền trội trên nhiễm sắc thể thường có các đặc điểm lâm sàng tương tự nhau.
+
+### Các cơn đau thần kinh nội tạng cấp tính
+Các cơn porphyria có thể từ nhẹ đến nặng. Bệnh nhân thường mô tả cơn đau bụng dữ dội nhưng lan tỏa trong các cơn. Cơn đau tương tự có thể xảy ra ở phần gần của chi và lưng.
+Các triệu chứng không đặc hiệu thường gặp, chẳng hạn như thay đổi cảm giác chủ quan, mệt mỏi, buồn nôn, nôn và táo bón. Có tới 60% bệnh nhân bị porphyria cấp tính sẽ bị đau mãn tính giữa các cơn.
+
+### Đặc điểm da
+[Bệnh porphyria thể rải rác](https://dermnetnz.org/topics/variegate-porphyria) và [bệnh coproporphyria di truyền](https://dermnetnz.org/topics/hereditary-coproporphyria) có thể gây tổn thương da trong bối cảnh của một cơn đau thần kinh nội tạng cấp tính hoặc riêng biệt. Chúng tương tự như những tổn thương được tìm thấy trong [bệnh porphyria da muộn](https://dermnetnz.org/topics/porphyria-cutanea-tarda) .
+Triệu chứng da phổ biến nhất là [nhạy cảm với ánh sáng](https://dermnetnz.org/topics/photosensitivity) . Ngoài ra, có thể xuất hiện phồng rộp, trầy xước và [mụn thịt](https://dermnetnz.org/topics/milium) .
+
+### Phồng rộp và mụn thịt ở mu bàn tay trong bệnh porphyria loang lổ
+![Bệnh porphyria loang lổ](https://dermnetnz.org/assets/Uploads/systemic/vp1.jpg)
+![Bệnh porphyria loang lổ](https://dermnetnz.org/assets/Uploads/systemic/vp2.jpg)
+
+---
+
+## Biến chứng của bệnh porphyria gan cấp tính là gì?
+
+Các biến chứng của bệnh porphyria có thể bao gồm:
+- Co giật , bệnh thần kinh và hiếm khi là bệnh não sau có thể hồi phục
+- Hạ natri máu do tiết hormone chống bài niệu không phù hợp
+- Nhịp tim nhanh
+- Nhiều đặc điểm tâm thần khác nhau .
+Các biến chứng lâu dài bao gồm:
+- Rối loạn men gan và tỷ lệ ung thư tế bào gan cao hơn
+- Suy thận
+- Tăng huyết áp
+- Sẹo và da dày lên ở những người bị tổn thương da.
+Do mức độ nghiêm trọng và tính chất tái phát của cơn đau, bệnh nhân mắc bệnh porphyria có thể có nguy cơ lạm dụng và nghiện opioid cao hơn.
+
+---
+
+## Bệnh porphyria cấp tính được chẩn đoán như thế nào?
+
+Bệnh porphyria có thể được nghi ngờ trên lâm sàng nhưng phải được xác nhận bằng xét nghiệm trong phòng thí nghiệm.
+Xét nghiệm quan trọng nhất ngay lập tức là đo nồng độ porphobilinogen trong nước tiểu được bảo vệ bằng ánh sáng.
+- Nồng độ porphobilinogen bình thường ở bệnh nhân không khỏe sẽ loại trừ bệnh porphyria cấp tính.
+- Có thể xảy ra kết quả dương tính giả ở những bệnh nhân mất nước có nước tiểu cô đặc; xét nghiệm porphobilinogen định lượng trong nước tiểu sẽ điều chỉnh creatinine và có thể khắc phục vấn đề này.
+Nồng độ porphyrin trong nước tiểu cũng có thể tăng trong một đợt cấp tính, nhưng ít đặc hiệu hơn vì porphyrin trong nước tiểu có thể xuất hiện trong các trường hợp nhiễm trùng , bệnh gan mật, rối loạn huyết học , tiếp xúc với kim loại nặng và ngộ độc chì.
+Khi một cơn cấp tính được xác nhận, các mẫu máu và phân sẽ được xét nghiệm để xác định phân nhóm porphyria. Các mẫu nên được gửi đến một phòng xét nghiệm được công nhận hoặc một phòng xét nghiệm quen thuộc với xét nghiệm porphyria (được liệt kê trên [trang web của Hiệp hội Porphyria Úc](https://translate.google.com/website) ).
+Sinh [thiết da](https://dermnetnz.org/topics/skin-biopsy) các tổn thương da ở [bệnh porphyria thể đốm](https://dermnetnz.org/topics/variegate-porphyria) và [bệnh coproporphyria di truyền](https://dermnetnz.org/topics/hereditary-coproporphyria) có kết quả tương tự như [bệnh porphyria cutanea tarda](https://dermnetnz.org/topics/porphyria-cutanea-tarda) .
+Việc sàng lọc người thân là điều cần thiết vì phần lớn những người mang đột biến gen sẽ mắc bệnh tiềm ẩn về mặt lâm sàng nhưng có nguy cơ mắc các cơn cấp tính và nên lưu ý những lời khuyên tương tự liên quan đến các tác nhân gây bệnh.
+Gần đây hơn, xét nghiệm di truyền cho bệnh nhân và người thân đã được giới thiệu – ALAD, HMBS, CPOX và PPOX cho ALAD, AIP, HCP và VP.
+
+---
+
+## Phương pháp điều trị bệnh porphyria cấp tính là gì?
+
+Cơn đau cấp tính có thể rất dữ dội, cần phải nhập viện để kiểm soát cơn đau và kiểm tra các nguyên nhân gây đau khác. Mất cân bằng điện giải nghiêm trọng, suy hô hấp hoặc co giật cần được đưa ngay vào khoa chăm sóc đặc biệt.
+Các phương pháp điều trị được khuyến nghị để ức chế ALAS1 bao gồm:
+- Glucose (hoặc dextrose), với điều kiện natri bình thường và ổn định (phương pháp này được coi là gây tranh cãi)
+- Hematin tĩnh mạch (haem arginate) được truyền qua đường truyền trung tâm ( đường truyền ống thông trung tâm được đưa vào ngoại vi (PICC) hoặc Portacath ® được cấy ghép
+- Các bằng chứng gần đây cho thấy rằng haematin có thể thúc đẩy tình trạng viêm và làm tăng nguy cơ tái phát các cơn đau nên chỉ nên sử dụng khi đã xác nhận có cơn đau.
+Cần tránh các loại thuốc có khả năng gây ra các cơn hen cấp tính. Các loại thuốc dưới đây được coi là an toàn tại thời điểm viết bài (tháng 6 năm 2019).
+
+### Thuốc an toàn cho cơn đau
+Các loại thuốc giảm đau an toàn khi sử dụng trong quá trình điều trị bệnh porphyria cấp tính bao gồm:
+- Paracetamol
+- Ibuprofen
+- Morphine
+- Gabapentin
+- [Amitriptylin](https://dermnetnz.org/topics/tricyclic-antidepressants) .
+
+### Thuốc an toàn để kiểm soát nôn mửa
+Thuốc chống nôn an toàn khi sử dụng trong quá trình điều trị bệnh porphyria cấp tính bao gồm:
+- Prochlorperazine
+- Ondansetron.
+
+### Thuốc an toàn cho bệnh động kinh
+Thuốc chống co giật an toàn khi sử dụng trong quá trình điều trị bệnh porphyria cấp tính bao gồm:
+- Midazolam
+- Lorazepam
+- Levetiracetam.
+[Chống nắng](https://dermnetnz.org/topics/sun-protection) rất quan trọng đối với bệnh nhân mắc bệnh porphyria da, bằng cách sử dụng quần áo che phủ và kem chống nắng không màu, có khả năng chặn ánh sáng nhìn thấy được. [Dihydroxyacetone (kem nhuộm da)](https://dermnetnz.org/topics/dihydroxyacetone) bôi ngoài da cũng có thể hữu ích trong việc ngăn chặn một phần ánh sáng nhìn thấy được. Có thể cần bổ sung [vitamin D.](https://dermnetnz.org/topics/vitamin-d) [](https://dermnetnz.org/topics/dihydroxyacetone) [](https://dermnetnz.org/topics/vitamin-d)
+Tất cả bệnh nhân mắc bệnh porphyria đều phải đeo vòng tay cảnh báo y tế.
+Bệnh nhân mắc bệnh porphyria có nguy cơ mắc bệnh tăng huyết áp và suy thận cũng như ung thư tế bào gan cao hơn; một số dịch vụ khuyến cáo nên sàng lọc gan hàng năm bằng siêu âm sau 50 tuổi.
+
+### Điều trị trong tương lai
+Givosiran là một phân tử axit ribonucleic (siRNA) can thiệp nhỏ tổng hợp hiện đang được thử nghiệm lâm sàng. Trong các thử nghiệm lâm sàng, thuốc đã được chứng minh có tác dụng làm giảm axit aminolaevulinic và porphobilinogen, cũng như làm giảm các cơn cấp tính và hiện được FDA cấp phép để điều trị dự phòng cho những người thường xuyên bị các cơn cấp tính tái phát. Ghép gan, một phương pháp hiếm gặp, đã được sử dụng cho bệnh tiến triển kháng trị không đáp ứng với haemin hoặc givosiran và có tác dụng chữa khỏi.

@@ -1,0 +1,154 @@
+# Viêm da dị ứng — thông tin bổ sung
+
+Thể loại:
+
+Phát ban, chàm
+
+SNOMED CT:
+
+24079001, 200773006, 402195009, 402196005, 402197001, 402183009
+
+**[Phát ban, chàm](https://dermnetnz.org/topics/topics?category=Rashes)**
+
+
+# **Viêm da dị ứng**
+
+Tác giả: Tiến sĩ Amy Stanway, Khoa Da liễu, Bệnh viện Waikato, Hamilton, New Zealand, tháng 2 năm 2004; Cập nhật: Phó giáo sư danh dự Paul Jarrett, Bác sĩ da liễu, Bệnh viện Middlemore và Khoa Y, Đại học Auckland, Auckland, New Zealand, tháng 2 năm 2021. Cập nhật nội bộ nhỏ vào tháng 5 năm 2023.
+
+---
+
+## Viêm da dị ứng là gì?
+
+Viêm da dị ứng , còn gọi là bệnh chàm dị ứng , là bệnh viêm da phổ biến nhất trên toàn thế giới, biểu hiện là da khô, ngứa và phát ban.
+![Viêm da dị ứng khô theo kiểu duỗi](https://dermnetnz.org/assets/Uploads/SCORAD/atopic-dryness-3.jpg)
+![Viêm da dị ứng cấp tính ở nếp gấp](https://dermnetnz.org/assets/Uploads/SCORAD/atopic-oozy-2.jpg)
+![Viêm da dị ứng uốn cong mãn tính](https://dermnetnz.org/assets/Uploads/atopic-eczema-02.jpg)
+
+---
+
+## Ai bị viêm da dị ứng?
+
+Khoảng 230 triệu người trên thế giới mắc bệnh viêm da dị ứng và tỷ lệ mắc bệnh trong suốt cuộc đời là >15%, đặc biệt là ở các quốc gia giàu có. Bệnh thường ảnh hưởng đến những người có "khuynh hướng dị ứng" (atopic) kèm theo sốt cỏ khô , hen suyễn và dị ứng thực phẩm. Mọi chủng tộc đều có thể bị ảnh hưởng; một số chủng tộc dễ mắc bệnh viêm da dị ứng hơn, và các nghiên cứu di truyền cho thấy sự đa dạng đáng kể về mức độ (tính không đồng nhất) của bệnh giữa các quần thể.
+Viêm da dị ứng thường bắt đầu từ thời thơ ấu, ảnh hưởng đến 20% trẻ em. Khoảng 80% trẻ em bị ảnh hưởng phát triển bệnh trước 6 tuổi. Mọi lứa tuổi đều có thể bị ảnh hưởng. Mặc dù bệnh có thể thuyên giảm vào cuối thời thơ ấu và tuổi vị thành niên, nhưng tỷ lệ mắc bệnh ở người trưởng thành trẻ tuổi đến 26 tuổi vẫn là 5–15%.
+![Viêm da dị ứng ở trẻ sơ sinh trên má](https://dermnetnz.org/assets/Uploads/dermatitis/at-derm7.jpg)
+![Viêm da dị ứng ở trẻ em](https://dermnetnz.org/assets/Uploads/dermatitis/flexural-eczema22.jpg)
+![Viêm da dị ứng dạng lichen hóa ở lưng dưới ở người lớn](https://dermnetnz.org/assets/Uploads/SCORAD/atopic-excoriation-2.jpg)
+
+---
+
+## Nguyên nhân nào gây ra bệnh viêm da dị ứng?
+
+Viêm da dị ứng là kết quả của sự tương tác phức tạp giữa các yếu tố môi trường và di truyền [xem [Nguyên nhân gây viêm da dị ứng](https://dermnetnz.org/topics/causes-of-atopic-dermatitis) ].
+
+---
+
+## Các đặc điểm lâm sàng của bệnh viêm da dị ứng là gì?
+
+Biểu hiện lâm sàng của bệnh viêm da dị ứng có thể rất khác nhau, nhưng đặc trưng là thuyên giảm và tái phát với các đợt bùng phát cấp tính trên nền bệnh viêm da mãn tính.
+Viêm da cấp tính có biểu hiện đỏ ( ban đỏ ), rỉ dịch/ đóng vảy (xuất tiết) và có thể có mụn nước ( mụn nước hoặc bọng nước ). Theo thời gian, viêm da trở thành mãn tính và da bớt đỏ nhưng dày lên (lichen hóa) và đóng vảy. Có thể xảy ra tình trạng nứt da ( nứt nẻ ).
+
+### Viêm da dị ứng ở trẻ sơ sinh
+Ngay khi sinh hoặc ngay sau đó, viêm da dị ứng ban đầu có thể biểu hiện dưới dạng [viêm da tiết bã nhờn](https://dermnetnz.org/topics/seborrhoeic-dermatitis) ở trẻ sơ sinh , ảnh hưởng đến da đầu, các nếp gấp ở nách và bẹn. Da thường khô và thô ráp. Theo thời gian, da mặt, đặc biệt là má và các nếp gấp cũng bị ảnh hưởng. Trẻ nhỏ không thể gãi và thường chà xát các vùng bị ảnh hưởng, ví dụ như sau đầu, gây rụng tóc tạm thời . Mặt sau bàn tay có thể bị ảnh hưởng do mút tay. Viêm da không nhất thiết chỉ giới hạn ở những vùng này mà có thể lan rộng hơn. Vùng tã lót thường không bị ảnh hưởng do tã lót giữ ẩm, mặc dù viêm da tiếp xúc kích ứng [do tã lót](https://dermnetnz.org/topics/napkin-dermatitis) vẫn có thể phát triển.
+![Viêm da dị ứng ở trẻ sơ sinh, mặt](https://dermnetnz.org/assets/Uploads/dermatitis/at-derm1.jpg)
+![Viêm da dị ứng ở trẻ sơ sinh, tay](https://dermnetnz.org/assets/Uploads/dermatitis/s/atopic26.jpg)
+![Viêm da dị ứng ở trẻ sơ sinh, thân](https://dermnetnz.org/assets/Uploads/dermatitis/atopic32.jpg)
+
+### Viêm da dị ứng ở trẻ mới biết đi và trẻ đi học
+Khi trẻ lớn lên và phát triển, sự phân bố của viêm da thay đổi. Khi bò, các khía cạnh duỗi của khuỷu tay và cổ tay, đầu gối và mắt cá chân bị ảnh hưởng. Sự phân bố trở nên gấp khi đi bộ, đặc biệt liên quan đến hố khuỷu tay và kheo (nếp gấp ở khuỷu tay và đầu gối). Nước dãi và thức ăn có thể gây viêm da quanh miệng và cằm. Gãi và chà xát lâu ngày có thể khiến da bị liken hóa (dày và khô), và quanh mắt có thể dẫn đến tổn thương mắt. [Pityriasis alba](https://dermnetnz.org/topics/pityriasis-alba) , [pompholyx](https://dermnetnz.org/topics/dyshidrotic-eczema) , [eczema hình đĩa](https://dermnetnz.org/topics/discoid-eczema) , [pityriasis amiantacea](https://dermnetnz.org/topics/pityriasis-amiantacea) , [viêm da liếm môi](https://dermnetnz.org/topics/lip-lickers-dermatitis) và cổ bẩn dị ứng là nhiều biểu hiện khác nhau của viêm da dị ứng, đặc biệt là ở trẻ em và thanh thiếu niên trong độ tuổi đi học. Trong những năm đi học, viêm da dị ứng thường cải thiện, mặc dù chức năng hàng rào của da không bao giờ hoàn toàn bình thường [xem [Chức năng hàng rào trong viêm da dị ứng](https://dermnetnz.org/topics/barrier-function-in-atopic-dermatitis) ].
+
+### Viêm da dị ứng ở trẻ em
+![Viêm da dị ứng ngứa](https://dermnetnz.org/assets/Uploads/dermatitis/s/eapsimplex1.jpg)
+![Viêm môi dị ứng](https://dermnetnz.org/assets/Uploads/site-age-specific/s/cheilatop2.jpg)
+![Viêm da dị ứng mí mắt](https://dermnetnz.org/assets/Uploads/site-age-specific/s/eyelid-24.jpg)
+
+### Cổ bẩn do dị ứng
+![Không có caption](https://dermnetnz.org/assets/Uploads/SCORAD/atopic-oozy-1.jpg)
+![Viêm da dị ứng ở cổ](https://dermnetnz.org/assets/Uploads/atopic-100.jpg)
+![Viêm da dị ứng](https://dermnetnz.org/assets/Uploads/doctors/dermatitis/images/ecz-atopic19.jpg)
+
+### Viêm da dị ứng ở người lớn
+Viêm da dị ứng ở người lớn có thể có nhiều dạng khác nhau. Nó có thể tiếp diễn theo kiểu uốn cong ở độ tuổi đi học hoặc lan tỏa. [Da sần sùi](https://dermnetnz.org/topics/madarosis) , [ngứa dạng nốt](https://dermnetnz.org/topics/nodular-prurigo) và lichen hóa có thể xảy ra sau khi cọ xát mạn tính. Các dạng hình đĩa và sẩn có thể phát triển. Đối với một số người bị viêm da dị ứng khi còn nhỏ và sau đó khỏi hoàn toàn, bệnh có thể tái phát ở tay do công việc và các công việc gia đình [xem [Viêm da dị ứng ở tay](https://dermnetnz.org/topics/atopic-hand-dermatitis) ]. Một số trường hợp hiếm gặp là viêm da dị ứng có thể phát triển lần đầu tiên ở tuổi trưởng thành, dưới dạng viêm da dị ứng 'khởi phát ở người lớn'. Ở phụ nữ và một số nam giới, tình trạng viêm ở núm vú và quầng vú có thể gây ra vấn đề [xem [Chàm núm vú](https://dermnetnz.org/topics/nipple-eczema) ].
+![Viêm da dị ứng ở tay](https://dermnetnz.org/assets/Uploads/dermatitis/scorad1.jpg)
+![Viêm da dị ứng ở nếp gấp dạng lichen](https://dermnetnz.org/assets/Uploads/dermatitis/flexural-eczema27.jpg)
+![Viêm da dị ứng, núm vú](https://dermnetnz.org/assets/Uploads/nipple-eczema-08.jpg)
+[Dày sừng nang lông](https://dermnetnz.org/topics/keratosis-pilaris) , [chứng da vẽ](https://dermnetnz.org/topics/dermographism) nổi trắng , lòng bàn tay tăng tuyến và nếp gấp Dennie-Morgan có thể là những dấu hiệu hữu ích cho [tình trạng dị ứng](https://dermnetnz.org/topics/atopy) . Nếp gấp Dennie-Morgan là nếp gấp da dưới mí mắt dưới do viêm da mí mắt mãn tính.
+
+### Nếp gấp Dennie-Morgan
+![Viêm da tiếp xúc mí mắt](https://dermnetnz.org/assets/Uploads/dermatitis/atopic3.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/dermatitis/s/atopic30.jpg)
+![Bệnh chàm dị ứng](https://dermnetnz.org/assets/Uploads/atopic-eczema-01.jpg)
+
+### Dấu hiệu của bệnh viêm da dị ứng ở người lớn
+![Madarosis do cọ xát lông mày](https://dermnetnz.org/assets/Uploads/madarosis-13.jpg)
+![Lòng bàn tay siêu tuyến tính](https://dermnetnz.org/assets/Uploads/dermatitis/atopic2.jpg)
+![Địa y hóa](https://dermnetnz.org/assets/Uploads/doctors/dermatitis/images/ecz-lich8.jpg)
+Để biết thêm hình ảnh: [Hình ảnh viêm da dị ứng](https://dermnetnz-org.translate.goog/images/atopic-dermatitis-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp) và [hình ảnh bệnh chàm dị ứng ở nếp gấp](https://dermnetnz-org.translate.goog/topics/atopic-flexural-eczema-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+Soi da viêm da cho thấy sự phân bố không đồng đều của các mạch máu chấm, vảy trắng khu trú và lớp thanh mạc màu vàng. Dấu hiệu cục vàng đặc biệt thấy rõ trong viêm da xuất tiết cấp tính.
+
+### Soi da viêm da dị ứng ở da màu
+![Các mảng viêm da dị ứng ở da màu](https://dermnetnz.org/assets/collection-O/Atopic-dermatitis-skin-of-colour/atopic-dermatitis-skin-of-colour-00019.jpg)
+![Vảy trắng khu trú và các mạch máu lốm đốm trên da liễu](https://dermnetnz.org/assets/collection-O/Atopic-dermatitis-skin-of-colour/atopic-dermatitis-skin-of-colour-00020.jpg)
+
+---
+
+## Các đặc điểm lâm sàng khác nhau ở các loại da khác nhau như thế nào?
+
+Có sự khác biệt về kiểu hình viêm da dị ứng theo sắc tộc. Ở người Māori, người dân đảo Thái Bình Dương và người châu Phi, biến thể sẩn được quan sát thấy. Kiểu hình quanh nang lông và duỗi, thay vì uốn cong, cũng có thể phổ biến hơn ở bệnh nhân gốc Phi.
+Hệ thống tính điểm thông thường cho bệnh viêm da dị ứng có thể đánh giá thấp mức độ nghiêm trọng của bệnh và ảnh hưởng đến chất lượng cuộc sống ở những người da màu do ban đỏ trông có vẻ tím tái. Việc đánh giá thấp cũng có thể xảy ra do các yếu tố văn hóa và khó khăn trong giao tiếp giữa bệnh nhân, cha mẹ và nhân viên y tế .
+Những bệnh nhân có làn da màu có nguy cơ mắc bệnh [liken đơn giản](https://dermnetnz.org/topics/lichen-simplex) và ngứa dạng nốt sần khi gãi và chà xát.
+Tình trạng giảm và [tăng sắc tố](https://dermnetnz.org/topics/postinflammatory-hyperpigmentation) sau viêm thường xảy ra phổ biến hơn ở da màu và có thể dễ nhận thấy hơn so với da trắng của người dân tộc thiểu số, gây ra sự căng thẳng tâm lý đáng kể.
+
+### Viêm da dị ứng ở da màu
+![Mô hình nang lông của viêm da dị ứng](https://dermnetnz.org/assets/Uploads/atopic-dermatitis-1.jpg)
+![Viêm da dị ứng ở tay và mô hình nang lông trên thân mình](https://dermnetnz.org/assets/Uploads/systemic/w/itchy-skin-41.jpg)
+![Tăng sắc tố do viêm da dị ứng](https://dermnetnz.org/assets/Uploads/atopic-eczema-black-skin.jpg)
+![Giảm sắc tố sau viêm do viêm da dị ứng](https://dermnetnz.org/assets/Uploads/SCORAD/atopic-red-0.jpg)
+![Viêm da dị ứng do lichen hóa](https://dermnetnz.org/assets/Uploads/dermatitis/atopic44.jpg)
+![Ngứa cục](https://dermnetnz.org/assets/Uploads/prurigo-01.jpg)
+
+---
+
+## Biến chứng của bệnh viêm da dị ứng là gì?
+
+Các biến chứng của bệnh viêm da dị ứng được đề cập chi tiết trên các trang web khác của DermNet.
+- [Biến chứng của bệnh viêm da dị ứng](https://dermnetnz.org/topics/complications-of-atopic-dermatitis)
+- [Tác động tâm lý của bệnh viêm da dị ứng](https://dermnetnz.org/topics/psychological-effects-of-atopic-dermatitis)
+- [Viêm da tiếp xúc](https://dermnetnz.org/topics/contact-dermatitis) , [Bệnh da nghề nghiệp](https://dermnetnz.org/topics/occupational-skin-disease)
+- [Nhiễm trùng da do tụ cầu khuẩn](https://dermnetnz.org/topics/staphylococcal-skin-infection)
+- [Eczema herpeticum](https://dermnetnz.org/topics/eczema-herpeticum) , [Eczema coxsackium](https://dermnetnz.org/topics/eczema-coxsackium) , [U mềm lây](https://dermnetnz.org/topics/molluscum-contagiosum)
+- [Bệnh đỏ da](https://dermnetnz.org/topics/erythroderma)
+
+### Biến chứng nhiễm trùng của viêm da dị ứng
+![Chàm herpes](https://dermnetnz.org/assets/Uploads/viral/eczema-herpticum09.jpg)
+![U mềm lây phát sinh trong viêm da dị ứng](https://dermnetnz.org/assets/Uploads/dermatitis/at-mol.jpg)
+![Nhiễm trùng tụ cầu khuẩn gây viêm da dị ứng](https://dermnetnz.org/assets/Uploads/dermatitis/atopic1.jpg)
+
+---
+
+## Viêm da dị ứng được chẩn đoán như thế nào?
+
+Viêm da dị ứng thường được chẩn đoán lâm sàng và không cần xét nghiệm. Nên cân nhắc xét nghiệm áp da , đặc biệt nếu tình trạng viêm da trở nên kháng trị [xem [Hướng dẫn chẩn đoán và đánh giá bệnh chàm](https://dermnetnz.org/topics/guidelines-for-the-diagnosis-and-assessment-of-eczema) , [Xét nghiệm áp da dị ứng](https://dermnetnz.org/topics/atopy-patch-test) , [Bệnh lý chàm](https://dermnetnz.org/topics/eczema-pathology) ].
+[EASI](https://dermnetnz.org/topics/easi-score) và [SCORAD](https://dermnetnz.org/topics/scorad) là hai hệ thống tính điểm được phát triển để ghi nhận mức độ nghiêm trọng của bệnh chàm dị ứng.
+
+---
+
+## Chẩn đoán phân biệt bệnh viêm da dị ứng là gì?
+
+Danh sách các chẩn đoán phân biệt cho viêm da dị ứng rất dài. Dưới đây là một số chẩn đoán phổ biến và quan trọng cần xem xét ở trẻ em:
+- [Viêm da tiết bã](https://dermnetnz.org/topics/seborrhoeic-dermatitis) và [bệnh vẩy nến](https://dermnetnz.org/topics/psoriasis)
+- Rối loạn di truyền với da có vảy, bao gồm các dạng [bệnh vảy cá](https://dermnetnz.org/topics/ichthyosis) di truyền , các bệnh [suy giảm miễn dịch](https://dermnetnz.org/topics/immunodeficiency) nguyên phát và các rối loạn chuyển hóa di truyền [](https://dermnetnz.org/topics/immunodeficiency)
+- [Viêm da tiếp xúc](https://dermnetnz.org/topics/contact-dermatitis) .
+Một danh sách mở rộng hơn nhưng vẫn chưa đầy đủ được cung cấp trong [Hướng dẫn chẩn đoán và đánh giá bệnh chàm](https://dermnetnz.org/topics/guidelines-for-the-diagnosis-and-assessment-of-eczema) .
+
+---
+
+## Phương pháp điều trị viêm da dị ứng là gì?
+
+Việc điều trị viêm da dị ứng được đề cập chi tiết trên các trang web DermNet khác: [Điều trị viêm da dị ứng](https://dermnetnz.org/topics/treatment-of-atopic-dermatitis)
+
+---
+
+## Hậu quả của bệnh viêm da dị ứng là gì?
+
+Viêm da dị ứng ảnh hưởng đến 15–20% trẻ em và ít gặp hơn ở người lớn. [Da nhạy cảm](https://dermnetnz.org/topics/sensitive-skin) kéo dài suốt đời. Không thể dự đoán liệu viêm da dị ứng có tự cải thiện hay không ở mỗi cá nhân. Một phân tích tổng hợp trên 110.000 đối tượng cho thấy 20% trẻ em bị viêm da dị ứng vẫn còn bệnh dai dẳng 8 năm sau đó; chưa đến 5% vẫn còn bệnh dai dẳng 20 năm sau đó. Trẻ em bị viêm da dị ứng trước 2 tuổi có nguy cơ mắc bệnh dai dẳng thấp hơn so với những trẻ bị viêm da dị ứng muộn hơn ở thời thơ ấu hoặc thanh thiếu niên.
+Viêm da dị ứng thường nặng nhất ở độ tuổi từ hai đến bốn tuổi, và thường cải thiện hoặc thậm chí khỏi hẳn sau đó. Tuy nhiên, viêm da dị ứng có thể trở nặng hơn hoặc tái phát ở tuổi trưởng thành do tiếp xúc với các chất kích ứng hoặc dị ứng liên quan đến việc chăm sóc, việc nhà hoặc một số nghề nghiệp nhất định.

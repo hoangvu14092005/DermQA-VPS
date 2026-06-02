@@ -1,0 +1,84 @@
+# U máu anh đào — thông tin bổ sung
+
+Thể loại:
+
+Các vấn đề về mạch máu
+
+SNOMED CT:
+
+5050001
+
+**[Các vấn đề về mạch máu](https://dermnetnz.org/topics/topics?category=Blood+vessel+problems)**
+
+
+# **U máu anh đào**
+
+Tác giả: Tiến sĩ Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand, tháng 12 năm 2017. Sửa đổi tháng 9 năm 2020.
+
+---
+
+## U mạch là gì?
+
+U mạch máu (tiếng Anh: angioma) hoặc u máu (tiếng Mỹ: 'hemangioma') mô tả một tổn thương da mạch máu lành tính . U mạch máu là do các tế bào nội mô tăng sinh ; đây là những tế bào lót bên trong mạch máu.
+U mạch máu có thể xuất hiện ở giai đoạn đầu đời ( [u máu ở trẻ sơ sinh](https://dermnetnz.org/topics/infantile-haemangioma-definition-and-pathogenesis) ) hoặc muộn hơn; loại u mạch máu phổ biến nhất là u mạch máu quả anh đào.
+
+---
+
+## U máu anh đào là gì?
+
+U mạch máu anh đào là một loại u mạch nhỏ dạng sẩn . Đây là một loại u máu mao mạch thực sự . U mạch máu anh đào có nhiều tên gọi khác nhau, phổ biến nhất là đốm Campbell de Morgan.
+![U máu anh đào](https://dermnetnz.org/assets/Uploads/vascular/haeman3.jpg)
+![U máu anh đào](https://dermnetnz.org/assets/Uploads/vascular/s/hemangioma2.jpg)
+![U máu anh đào](https://dermnetnz.org/assets/Uploads/vascular/s/angioma1.jpg)
+[Xem thêm hình ảnh u máu anh đào](https://dermnetnz-org.translate.goog/topics/cherry-angioma-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp) .
+
+---
+
+## Ai mắc bệnh u máu anh đào?
+
+U mạch máu anh đào tăng đáng kể từ độ tuổi 40, vì vậy ước tính 75% người trên 75 tuổi mắc phải. Mặc dù còn được gọi là u mạch máu lão suy, nhưng chúng cũng có thể xuất hiện ở người trẻ - 5% thanh thiếu niên được phát hiện mắc phải. U mạch máu anh đào rất phổ biến ở nam và nữ, thuộc mọi lứa tuổi hoặc chủng tộc, không có sự khác biệt về giới tính hay chủng tộc. Tuy nhiên, chúng dễ thấy hơn ở người da trắng so với người da màu. Có thể có tiền sử gia đình mắc các tổn thương tương tự. U mạch máu anh đào phát ban hiếm khi được báo cáo là có liên quan đến bệnh ác tính nội tạng và thai kỳ.
+
+---
+
+## Nguyên nhân gây u máu anh đào là gì?
+
+Nguyên nhân gây ra u mạch máu anh đào vẫn chưa được biết rõ. Phân tích di truyền cho thấy u mạch máu anh đào thường mang đột biến sai nghĩa soma cụ thể ở các gen GNAQ và GNA11 (Q209H) , những gen này cũng liên quan đến sự tăng sinh mạch máu và tế bào hắc tố khác .
+
+---
+
+## Đặc điểm lâm sàng của u máu anh đào là gì?
+
+U mạch máu anh đào là một sẩn cứng màu đỏ, xanh hoặc tím , không triệu chứng , đường kính 0,1–1 cm. Khi bị huyết khối, nó có thể có màu đen cho đến khi được soi da bằng kính soi da , lúc này màu đỏ hoặc tím dễ nhìn thấy hơn. U mạch máu anh đào thường có nhiều u. Chúng thường nằm rải rác trên bất kỳ vùng nào trên bề mặt cơ thể, nhưng hiếm khi xuất hiện ở tay, chân hoặc niêm mạc.
+
+---
+
+## Chẩn đoán phân biệt u máu anh đào là gì?
+
+U máu anh đào thường dễ chẩn đoán, nhưng đôi khi có thể bị nhầm lẫn với:
+- [U mạch sừng hóa](https://dermnetnz.org/topics/angiokeratoma)
+- [Giãn mao mạch nhện](https://dermnetnz.org/topics/spider-telangiectasis)
+- [U hạt sinh mủ](https://dermnetnz.org/topics/pyogenic-granuloma)
+- [Ung thư biểu mô tế bào đáy](https://dermnetnz.org/topics/basal-cell-carcinoma) dạng nốt [](https://dermnetnz.org/topics/basal-cell-carcinoma)
+- [U hắc tố](https://dermnetnz.org/topics/melanoma) không có sắc tố .
+Giãn mao mạch mạng nhện , còn được gọi là nốt ruồi mạng nhện , đôi khi được gọi (không chính xác) là u mạch mạng nhện nhưng đây là tình trạng giãn mạch chứ không phải là sự tăng sinh của các tế bào nội mô.
+
+---
+
+## Cần phải làm những xét nghiệm gì để phát hiện u máu anh đào?
+
+U mạch máu anh đào thường được chẩn đoán lâm sàng và không cần phải thăm khám đối với phần lớn các tổn thương. U có đặc điểm là cục đỏ hoặc dạng thùy trên da liễu (gọi là dạng ổ khuyết khi sử dụng phân tích dạng thông thường).
+![U máu anh đào](https://dermnetnz.org/assets/Uploads/doctors/lesions/images/cherry5.jpg)
+![U máu anh đào](https://dermnetnz.org/assets/Uploads/doctors/lesions/images/cherry6.jpg)
+Khi chẩn đoán chưa chắc chắn, có thể tiến hành [sinh thiết](https://dermnetnz.org/topics/skin-biopsy) . U mạch máu bao gồm các tiểu tĩnh mạch nằm trong lớp trung bì nhú dày . Các bó collagen có thể nổi rõ giữa các tiểu thùy. Xem [bệnh lý u mạch máu anh đào](https://dermnetnz.org/topics/cherry-angioma-pathology) .
+
+---
+
+## Phương pháp điều trị u máu anh đào là gì?
+
+U máu anh đào vô hại nên không cần điều trị. Đôi khi, chúng được loại bỏ để loại trừ tổn thương da ác tính như [u hắc tố dạng nốt](https://dermnetnz.org/topics/nodular-melanoma) .
+![U mạch máu anh đào giống u hắc tố dạng nốt](https://dermnetnz.org/assets/Uploads/vascular/s/hemang1.jpg)
+![U mạch máu anh đào giống u hắc tố dạng nốt](https://dermnetnz.org/assets/Uploads/vascular/s/hemang4.jpg)
+Nếu muốn vì lý do thẩm mỹ, u máu anh đào có thể được loại bỏ dễ dàng bằng một trong các phương pháp sau:
+- [Liệu pháp lạnh](https://dermnetnz.org/topics/cryotherapy)
+- [Phẫu thuật điện](https://dermnetnz.org/topics/electrosurgery)
+- [Laser mạch máu](https://dermnetnz.org/topics/facial-red-vein-and-vascular-birthmark-treatments) .

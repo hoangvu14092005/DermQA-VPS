@@ -1,0 +1,130 @@
+# Hội chứng Sézary — thông tin bổ sung
+
+Thể loại:
+
+Tổn thương (ung thư), Bệnh hệ thống
+
+SNOMED CT:
+
+118611004, 45614000
+
+**[Tổn thương (ung thư), Bệnh hệ thống](https://dermnetnz.org/topics/topics?category=Lesions+(cancerous))**
+
+
+# **Hội chứng Sézary**
+
+Tác giả: Tiến sĩ Samir Seleq, Cán bộ khoa PGY2, Bệnh viện công Auckland, New Zealand; Tổng biên tập: Tiến sĩ Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand; Tháng 6 năm 2015.Bản cập nhật DermNet tháng 5 năm 2021. Biên tập bởi Gus Mitchell.
+
+---
+
+## Hội chứng Sézary là gì?
+
+Hội chứng Sézary là một biến thể bệnh bạch cầu hiếm gặp của [u lympho tế bào T ở da (CTCL)](https://dermnetnz.org/topics/cutaneous-t-cell-lymphoma) được xác định bởi bộ ba [bệnh ban đỏ da](https://dermnetnz.org/topics/erythroderma) , bệnh hạch bạch huyết và tế bào Sézary ác tính không điển hình ở da, máu và hạch bạch huyết.
+![Hội chứng Sézary](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/sezary-1.jpg)
+![Hội chứng Sézary](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/ctcl10.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/sezary-4.jpg)
+
+---
+
+## Ai mắc hội chứng Sézary?
+
+Hội chứng Sézary thường xuất hiện ở bệnh nhân từ 55–60 tuổi, nam giới chiếm ưu thế (2:1). Tỷ lệ mắc hàng năm ước tính là 1/10.000, với tỷ lệ mắc cao hơn ở người da đen so với người da trắng. Hội chứng Sézary chiếm 3% tổng số ca CTCL.
+
+---
+
+## Nguyên nhân gây ra hội chứng Sézary là gì?
+
+Hội chứng Sézary phát sinh từ tế bào T CD41 nhớ hướng da . Vai trò của siêu kháng nguyên Staphylococcus aureus hoặc kích thích kháng nguyên mãn tính đã được đề xuất là dẫn đến sự nhân lên vô tính của tế bào T và chuyển dạng ác tính.
+Tế bào Sézary biểu hiện những bất thường nhiễm sắc thể đa dạng và phức tạp , ảnh hưởng đến nhiều con đường tế bào . Nhiều biến đổi di truyền đã được xác định trong các cuộc khảo sát quy mô lớn gần đây , cung cấp thông tin về cơ chế bệnh sinh phân tử và mở ra các mục tiêu điều trị mới đang được nghiên cứu.
+Nguyên nhân do vi-rút vẫn chưa được xác định.
+Một số trường hợp hiếm gặp về bệnh ác tính, bao gồm hội chứng Sézary, đã được báo cáo trong quá trình điều trị bằng [thuốc ức chế JAK](https://dermnetnz.org/topics/janus-kinase-inhibitors) . Nguyên nhân chưa được xác định và cần được điều tra thêm.
+
+---
+
+## Các đặc điểm lâm sàng của hội chứng Sézary là gì?
+
+- Đỏ da toàn thân (>80% diện tích bề mặt cơ thể) — ban đỏ lan tỏa , thường xuất hiện giống như bệnh chàm , vảy da thay đổi
+- Ngứa
+- Khởi phát nhanh
+- Hiếm khi có bệnh [nấm mycosis fungoides trước đó](https://dermnetnz.org/topics/mycosis-fungoides)
+- Đôi khi có tiền triệu ngứa +/- [viêm da](https://dermnetnz.org/topics/dermatitis) không đặc hiệu [](https://dermnetnz.org/topics/dermatitis)
+- Các biểu hiện ngoài da không cần thiết khác — [dày sừng lòng bàn tay](https://dermnetnz.org/topics/palmoplantar-keratoderma) , [bàn chân](https://dermnetnz.org/topics/hair-loss) , rụng tóc , loạn dưỡng móng — thường gặp là [viêm quanh móng](https://dermnetnz.org/topics/paronychia) , [viêm trắng móng](https://dermnetnz.org/topics/white-nail) , [bong móng nhưng](https://dermnetnz.org/topics/onycholysis) nứt móng , viêm móng , khía xa và mất móng dường như là những thay đổi cụ thể hơn [xem [thuật ngữ về móng tay](https://dermnetnz.org/topics/nail-terminology) ] [](https://dermnetnz.org/topics/palmoplantar-keratoderma) [](https://dermnetnz.org/topics/hair-loss) [](https://dermnetnz.org/topics/paronychia) [](https://dermnetnz.org/topics/white-nail) [](https://dermnetnz.org/topics/onycholysis) [](https://dermnetnz.org/topics/nail-terminology)
+- Các đặc điểm lâm sàng thường gặp nhưng không cần thiết khác — bệnh hạch bạch huyết, gan lách to
+![Bệnh đỏ da](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/ctcl4.jpg)
+![Thay móng tay](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/sezary-3.jpg)
+![Sừng hóa gan bàn chân](https://dermnetnz.org/assets/Uploads/sezary-19.jpg)
+
+### Các đặc điểm lâm sàng khác nhau như thế nào ở các loại da khác nhau?
+Hội chứng Sézary xuất hiện ở độ tuổi trẻ hơn ở bệnh nhân da đen so với bệnh nhân da trắng (53 tuổi so với 63 tuổi) và tỷ lệ sống sót thấp hơn bất kể độ tuổi và giai đoạn chẩn đoán.
+
+### Nội soi da hội chứng Sézary
+- Vảy trắng và mạch máu có chấm — 100%
+- Mạch máu tuyến tính và chấm nâu — 66%
+- Các chấm nâu quanh nang lông loang lổ — đặc trưng nhất
+
+---
+
+## Hội chứng Sézary có những biến chứng gì?
+
+- Tác động đến chất lượng cuộc sống — ngứa, khó ngủ, lo lắng, trầm cảm
+- Tăng nguy cơ nhiễm trùng do vi khuẩn do phá vỡ [hàng rào bảo vệ da](https://dermnetnz.org/topics/skin-barrier-function) và suy giảm miễn dịch có liên quan đến gánh nặng tế bào T ác tính [](https://dermnetnz.org/topics/skin-barrier-function)
+- Biến chứng của bệnh ban đỏ toàn thân do bất kỳ nguyên nhân nào
+- Sự chuyển đổi tế bào lớn của dòng tế bào ác tính ban đầu — được định nghĩa là sinh thiết da với hơn 25% thâm nhiễm da bao gồm các tế bào có kích thước lớn hơn 4 lần so với tế bào lympho nhỏ — dấu hiệu tiên lượng kém
+
+---
+
+## Hội chứng Sézary được chẩn đoán như thế nào?
+
+Hội chứng Sézary nên được xem xét trong chẩn đoán phân biệt cho bất kỳ bệnh nhân nào có biểu hiện đỏ da toàn thân.
+
+### Tiêu chuẩn chẩn đoán của Hiệp hội U lympho Da Quốc tế (ISCLE)
+- Lâm sàng — ban đỏ toàn thân, bệnh hạch bạch huyết toàn thân
+- Giải phẫu bệnh học — [Sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) có thể không có giá trị chẩn đoán và khó phân biệt với bệnh nấm mycosis fungoides [xem [Bệnh học bệnh nấm mycosis fungoides](https://dermnetnz.org/topics/mycosis-fungoides-pathology) ]. Tăng sinh gai , xơ hóa da , dị sản nhân não nổi bật , biểu bì tối thiểu và thâm nhiễm quanh mạch nông thưa thớt có thể là manh mối. [Miễn dịch mô hóa học](https://dermnetnz.org/topics/immunohistochemistry-stains) : Tế bào CD4 + [](https://dermnetnz.org/topics/mycosis-fungoides-pathology) [](https://dermnetnz.org/topics/immunohistochemistry-stains)
+- Mô học hạch bạch huyết — xóa bỏ hoàn toàn cấu trúc hạch bằng cách xâm nhập các tế bào Sézary
+- Phân tích miễn dịch biểu hiện - lưu lượng tế bào máu ngoại vi cho thấy ít nhất 1000 tế bào Sézary trên mm3 , tỷ lệ CD4:CD8 >10, CD4 + /CD7 - >30%, CD4 + /CD26 - >40%, biểu hiện bất thường của kháng nguyên tế bào T toàn thân
+- Nghiên cứu phân tử — giải trình tự thông lượng cao vùng CDR3 của gen beta thụ thể tế bào T (TCR) cho thấy các tế bào T có quan hệ dòng vô tính (tế bào Sézary) trong da, máu ngoại vi và hạch bạch huyết .
+Chẩn đoán hình ảnh có thể bao gồm: chụp X-quang ngực, siêu âm hạch bạch huyết , CT , MRI , PET.
+Phân loại giai đoạn MF/SS: TNMB (khối u, hạch, di căn, máu) – Hội chứng Sézary theo định nghĩa phải là T4 – ban đỏ toàn thân, N0-3, B2 – Tế bào Sezary >1000/mm3 trong máu ngoại vi, M0-1.
+
+---
+
+## Chẩn đoán phân biệt cho hội chứng Sézary là gì?
+
+- [Nấm da đỏ](https://dermnetnz.org/topics/mycosis-fungoides) toàn thân [](https://dermnetnz.org/topics/mycosis-fungoides)
+- Tất cả các nguyên nhân khác của [bệnh ban đỏ da](https://dermnetnz.org/topics/erythroderma)
+
+---
+
+## Phương pháp điều trị hội chứng Sézary là gì?
+
+
+### Giảm triệu chứng hiệu quả
+- Gabapentin ( thuốc chống co giật )
+- Mirtazapine (thuốc chống trầm cảm)
+
+### Kiểm soát bệnh tật lâu dài
+- [Quang phân ngoài cơ thể](https://dermnetnz.org/topics/extracorporeal-photopheresis) — methoxsalen được PBS tại Úc chấp thuận cho chỉ định này
+- [Liệu pháp chùm tia điện tử toàn diện cho da](https://dermnetnz.org/topics/electron-beam-radiation-for-cutaneous-lymphoma)
+- Liệu pháp toàn thân [Methotrexate](https://dermnetnz.org/topics/methotrexate) [Bexarotene](https://dermnetnz.org/topics/bexarotene)
+- [Methotrexate](https://dermnetnz.org/topics/methotrexate)
+- [Bexarotene](https://dermnetnz.org/topics/bexarotene)
+- Kháng thể đơn dòng Alemtuzumab — nhắm mục tiêu vào CD52 để làm suy yếu tế bào T và tế bào B lưu hành Mogamulizumab — nhắm vào thụ thể chemokine CC 4 (CCR4) – được PDMA (Nhật Bản, 2012), FDA (Hoa Kỳ, 2018) và TGA (Úc, 2021) chấp thuận cho hội chứng Sézary sau ít nhất một liệu pháp toàn thân trước đó
+- Alemtuzumab — nhắm mục tiêu vào CD52 để làm suy yếu tế bào T và tế bào B lưu hành
+- Mogamulizumab — nhắm vào thụ thể chemokine CC 4 (CCR4) – được PDMA (Nhật Bản, 2012), FDA (Hoa Kỳ, 2018) và TGA (Úc, 2021) chấp thuận cho hội chứng Sézary sau ít nhất một liệu pháp toàn thân trước đó
+- Ghép tế bào gốc đồng loại - lựa chọn duy nhất có khả năng chữa khỏi bệnh
+
+### Kiểm soát các biến chứng đe dọa tính mạng
+- Thay thế chất lỏng và protein
+- Duy trì nhiệt độ
+- Thuốc kháng sinh toàn thân để điều trị nhiễm trùng
+
+---
+
+## Hậu quả của hội chứng Sézary là gì?
+
+Các yếu tố tiên lượng xấu cho hội chứng Sézary:
+- Tuổi trên 60
+- Giai đoạn tiến triển của bệnh — Giai đoạn IV
+- >80% diện tích bề mặt cơ thể (BSA) bị ảnh hưởng
+- Tăng nồng độ lactate dehydrogenase.
+Thời gian sống trung bình của hội chứng Sézary ước tính là 3–5 năm với tỷ lệ sống sót sau năm năm dưới 30%.

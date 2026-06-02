@@ -1,0 +1,116 @@
+# Nốt ruồi xanh — thông tin bổ sung
+
+Thể loại:
+
+Tổn thương (lành tính)
+
+SNOMED CT:
+
+254806009, 63166000, 88006009, 67159000, 254807000, 402552003, 11099005
+
+**[Tổn thương (lành tính)](https://dermnetnz.org/topics/topics?category=Lesions+(benign))**
+
+
+# **Nốt ruồi xanh**
+
+Tác giả: Tiến sĩ Selene Ting, Thực tập sinh nâng cao về Da liễu, Trung tâm Y tế Monash, Úc (2025).Những người đóng góp trước đây: Hon A/Prof Amanda Oakley, Bác sĩ da liễu, New Zealand (1997); Tiến sĩ Anita Eshraghi, Bác sĩ da liễu, Thụy Điển (2018)Được bình duyệt và cập nhật bởi: Tiến sĩ James A. Ida, MD, MS, Bác sĩ da liễu, Hoa Kỳ (2025)Đánh giá bác sĩ da liễu: Tiến sĩ Ian CoulsonĐược biên tập bởi bộ phận nội dung DermNet
+
+---
+
+## Nốt ruồi xanh là gì?
+
+Nốt ruồi xanh ( nevus theo cách viết của người Mỹ) là một loại [nốt ruồi hắc tố](https://dermnetnz.org/topics/melanocytic-naevus) trong đó các tế bào nốt ruồi hình thoi hoặc ít phổ biến hơn là hình trứng thường nằm hoàn toàn hoặc ít nhất một phần bên trong lớp hạ bì.
+Các phân nhóm khác nhau của nốt ruồi xanh bao gồm:
+- Nốt ruồi xanh thông thường
+- Nốt ruồi xanh tế bào
+- Nốt ruồi xanh không có hắc tố
+- Nốt ruồi xanh kết hợp
+- Nốt ruồi xanh xơ cứng ( desmoplastic )
+- Nốt ruồi xanh biểu mô
+- Nốt ruồi xanh dưới móng .
+![Một nốt ruồi màu xanh - màu xanh xám đơn sắc là điển hình](https://dermnetnz.org/assets/Uploads/lesions/blue1.jpg)
+![Nốt ruồi xanh trên cánh tay và mũi](https://dermnetnz.org/assets/Uploads/lesions/blue3.jpg)
+![Một nốt ruồi màu xanh trên tay](https://dermnetnz.org/assets/collection/Blue-naevus/blue-naevus-0033.jpg)
+[Nhấp vào đây để xem thêm hình ảnh của naevi xanh](https://dermnetnz-org.translate.goog/topics/blue-naevus-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+
+---
+
+## Ai sẽ bị nốt ruồi xanh?
+
+Nốt ruồi xanh phổ biến gấp đôi ở phụ nữ so với nam giới. Chúng phổ biến hơn ở người châu Á, với tỷ lệ mắc bệnh từ 3–5% so với khoảng 1–2% ở người trưởng thành da trắng. Chúng hiếm khi được phát hiện khi sinh hoặc trong vòng hai năm đầu đời.
+Nốt ruồi xanh bẩm sinh xuất hiện ở khoảng 1/3000 trẻ sơ sinh. Hầu hết xuất hiện muộn hơn ở trẻ em hoặc thanh thiếu niên.
+
+---
+
+## Nguyên nhân nào gây ra nốt ruồi xanh?
+
+Nốt ruồi xanh xuất phát từ sự di chuyển không hoàn toàn của tế bào hắc tố từ mào thần kinh đến da trong quá trình phát triển của thai nhi. Các tế bào hắc tố của nốt ruồi xanh nằm sâu hơn trong da, bên trong lớp hạ bì, so với các tế bào hắc tố của nốt ruồi nâu nằm ở lớp biểu bì nông hơn.
+Người ta cho rằng vị trí sâu hơn của các tế bào hắc tố ở hạ bì trong nốt ruồi xanh khiến màu sắc của chúng được mắt cảm nhận là hơi xanh. Hiện tượng này thường được suy diễn là do hiệu ứng Tyndall, cho rằng các bước sóng ngắn hơn (màu xanh) của ánh sáng chiếu tới được phân tán ưu tiên bởi các tế bào hắc tố ở hạ bì nằm sâu hơn; điều này trái ngược với các tế bào hắc tố ở biểu bì nằm nông hơn thường có màu nâu.
+Tuy nhiên, một nghiên cứu gần đây hơn cho thấy nhận thức về màu xanh lam ở nốt ruồi xanh lam có thể được xem xét chính xác hơn là do sự giảm tương đối độ tán xạ của ánh sáng đỏ có bước sóng cao hơn , thay vì sự gia tăng độ tán xạ của ánh sáng xanh lam có bước sóng thấp hơn . Do đó, các tác giả này kết luận rằng nốt ruồi xanh lam được cảm nhận là màu xanh lam vì chúng tán xạ ít ánh sáng đỏ hơn, dẫn đến sự dịch chuyển sắc độ về phía xanh lam ("pha trộn màu trừ"), chứ không phải do chúng tán xạ nhiều ánh sáng xanh lam hơn.
+
+---
+
+## Các đặc điểm lâm sàng của nốt ruồi xanh là gì?
+
+- Nốt ruồi xanh thường là một dát, sẩn hoặc mảng nhỏ đơn độc, màu xanh nhạt , bề mặt nhẵn . Chúng thường có hình tròn hoặc hình bầu dục .
+- Nốt ruồi xanh thông thường thường có đường kính 0,5–1 cm. Nốt ruồi xanh tế bào có dạng nốt sần nhiều hơn và thường có đường kính ít nhất 1 cm.
+- Màu sắc của nốt ruồi xanh có thể khác nhau nhưng thường có màu từ xanh đến xám; hiếm khi có màu nâu hoặc vàng.
+- Nốt ruồi xanh thường xuất hiện ở các chi xa ( mặt sau bàn tay hoặc bàn chân), mông, da đầu và mặt, mặc dù chúng có thể xuất hiện ở bất kỳ vị trí nào trên cơ thể.
+- Nốt ruồi xanh dưới móng xuất hiện dưới dạng các đốm xanh trong lưỡi liềm hoặc dưới phiến móng ; chúng bắt nguồn từ bên dưới nền móng và không gây ra chứng hoại tử móng đen dọc theo chiều dài .
+- Hiếm khi có báo cáo về việc nốt ruồi xanh xuất hiện ở âm đạo , dây tinh hoàn , hạch bạch huyết , cổ tử cung , tuyến tiền liệt và niêm mạc miệng.
+
+---
+
+## Biến chứng của nốt ruồi xanh là gì?
+
+Nốt ruồi xanh thông thường không có biến chứng. Chúng lành tính và không thay đổi trong suốt cuộc đời. Ngược lại, nốt ruồi xanh tế bào hiếm khi chuyển thành nốt ruồi xanh tế bào ác tính (một loại [u hắc tố](https://dermnetnz.org/topics/melanoma) ).
+
+---
+
+## Làm thế nào để chẩn đoán nốt ruồi xanh?
+
+Nốt ruồi xanh thường được chẩn đoán lâm sàng dựa trên hình ảnh điển hình. Chẩn đoán có thể được xác nhận bằng cách tìm thấy các đốm màu đồng nhất , xanh thép, mờ hoặc dạng kính mờ trên da khi [soi da](https://dermnetnz.org/topics/dermoscopy) .
+![Nội soi da nốt ruồi xanh](https://dermnetnz.org/assets/collection/Blue-naevus/blue-naevus-0006.jpg)
+![Nội soi da nốt ruồi xanh](https://dermnetnz.org/assets/collection/Blue-naevus/blue-naevus-0014.jpg)
+[Nhấp vào đây để xem thêm hình ảnh của naevi xanh](https://dermnetnz-org.translate.goog/topics/blue-naevus-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+Nếu có bất kỳ nghi ngờ nào về chẩn đoán, có thể thực hiện [sinh thiết cắt bỏ .](https://dermnetnz.org/topics/excision-of-skin-lesions) [Mô bệnh học của nốt ruồi xanh](https://dermnetnz.org/topics/blue-naevi-pathology) cho thấy các tế bào hắc tố hình thoi ở lớp trung bì, được tạo thành từ các tế bào biểu mô với tế bào chất có sắc tố đậm đặc . Nhuộm SOX10 và Melan-A cho kết quả dương tính.
+![Bệnh lý mô học của tế bào hắc tố dạng sợi ở da tạo nên nốt ruồi xanh phổ biến](https://dermnetnz.org/assets/Uploads/pathology/e/figure-33.jpg)
+![Bệnh học mô học của nốt ruồi xanh dạng tế bào - tế bào có thể tròn, hình bầu dục hoặc hình thoi](https://dermnetnz.org/assets/Uploads/pathology/e/figure-37.jpg)
+
+### Quan sát bằng phương pháp soi da nốt ruồi xanh
+![Nốt ruồi xanh](https://dermnetnz.org/assets/Uploads/lesions/blue5.jpg)
+![Nốt ruồi xanh](https://dermnetnz.org/assets/Uploads/lesions/blue6.jpg)
+
+---
+
+## Chẩn đoán phân biệt cho nốt ruồi xanh là gì?
+
+Chẩn đoán phân biệt nốt ruồi xanh bao gồm:
+- [Phản ứng chấn thương khi xăm hình](https://dermnetnz.org/topics/tattoo-associated-skin-reactions)
+- Nốt ruồi kết hợp (nốt ruồi xanh kết hợp với [nốt ruồi hắc tố phức hợp](https://dermnetnz.org/topics/melanocytic-naevus) )
+- Tổn thương mạch máu như [hồ tĩnh mạch](https://dermnetnz.org/topics/venous-lake) [](https://dermnetnz.org/topics/venous-lake)
+- [U xơ da](https://dermnetnz.org/topics/dermatofibroma)
+- [Ung thư hắc tố](https://dermnetnz.org/topics/melanoma)
+- [Di căn da](https://dermnetnz.org/topics/skin-metastasis)
+- [Ung thư Kaposi](https://dermnetnz.org/topics/kaposi-sarcoma)
+- [Bớt Ota hoặc Ito](https://dermnetnz.org/topics/naevus-of-ota-ito-hori) .
+
+---
+
+## Nốt ruồi xanh phát ban là gì?
+
+Nốt ruồi xanh bùng phát biểu hiện bằng sự xuất hiện đột ngột, nhanh chóng của các nốt ruồi xanh xám tập trung thành cụm tại nhiều vị trí giải phẫu khác nhau ở bệnh nhân suy giảm miễn dịch hoặc ở những người bị rối loạn phồng rộp hoặc tổn thương da . Chúng đã được báo cáo tại các vị trí của [herpes zoster](https://dermnetnz.org/topics/herpes-zoster) và có liên quan đến tuổi dậy thì, mang thai và [cháy nắng](https://dermnetnz.org/topics/sunburn) nghiêm trọng .
+Nốt ruồi xanh phát ban có thể xuất hiện ở những người có bất kỳ [loại da Fitzpatrick](https://dermnetnz.org/topics/skin-phototype) nào , không có báo cáo nào về khuynh hướng chủng tộc.
+
+---
+
+## Phương pháp điều trị nốt ruồi xanh là gì?
+
+Thông thường, không cần điều trị.
+Nốt ruồi xanh lớn hơn 1 cm, thay đổi hoặc xuất hiện mới ở người trưởng thành nên được xem xét đánh giá mô học để loại trừ [ung thư hắc tố](https://dermnetnz.org/topics/melanoma) . Nốt ruồi xanh ở da đầu thường được loại bỏ như một biện pháp phòng ngừa vì tiền sử thường không rõ ràng và khó theo dõi. Chúng cũng có thể được phẫu thuật cắt bỏ vì lý do thẩm mỹ.
+
+---
+
+## Hậu quả của nốt ruồi xanh là gì?
+
+Nếu không phẫu thuật cắt bỏ, nốt ruồi xanh thường tồn tại suốt đời.

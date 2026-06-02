@@ -1,0 +1,141 @@
+# Bệnh lupus ban đỏ dạng đĩa — thông tin bổ sung
+
+Thể loại:
+
+Phát ban
+
+SNOMED CT:
+
+200938002
+
+**[Phát ban](https://dermnetnz.org/topics/topics?category=Rashes)**
+
+
+# **Bệnh lupus ban đỏ dạng đĩa**
+
+Tác giả:Zena Alani, Bác sĩ và Nhà nghiên cứu lâm sàng, New Zealand, 2022; Tiến sĩ Paul Jarrett, Bác sĩ da liễu, Auckland, New Zealand, 2022.Người đóng góp trước:Tiến sĩ Amanda Oakley, Bác sĩ da liễu, 2015.Biên tập bởibộ phận nội dung DermNet
+
+---
+
+## Bệnh lupus ban đỏ dạng đĩa là gì?
+
+Lupus ban đỏ dạng đĩa (DLE) là một tình trạng da sẹo mãn tính . Đây là dạng lupus ban đỏ da phổ biến nhất .
+DLE là một phân nhóm của [bệnh lupus ban đỏ mạn tính ở](https://dermnetnz.org/topics/cutaneous-lupus-erythematosus) da . Bệnh đặc trưng bởi các mảng vảy dai dẳng trên da đầu, mặt và tai, sau đó có thể tiến triển thành sẹo, teo da , [rối loạn sắc tố](https://dermnetnz.org/topics/pigmentation-disorders) và [rụng tóc](https://dermnetnz.org/topics/hair-loss) vĩnh viễn ở những vùng tóc bị ảnh hưởng . [](https://dermnetnz.org/topics/pigmentation-disorders) [](https://dermnetnz.org/topics/hair-loss)
+[Nhấp vào đây để xem hình ảnh](https://dermnetnz-org.translate.goog/images/discoid-lupus-erythematosus-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+
+---
+
+## Ai mắc bệnh lupus ban đỏ dạng đĩa?
+
+DLE có thể ảnh hưởng đến cả nam và nữ ở mọi lứa tuổi, nhưng thường gặp hơn ở phụ nữ trong độ tuổi 20, 30 và 40. Trẻ em hiếm khi bị ảnh hưởng. Tỷ lệ mắc bệnh ước tính khoảng 20-40 người trên 100.000 dân.
+DLE phổ biến hơn ở người da màu. Ví dụ, ở New Zealand, người Māori và người Thái Bình Dương có nguy cơ mắc lupus ban đỏ dạng đĩa cao hơn đáng kể so với người châu Âu. Sự chênh lệch về sắc tộc này cũng được quan sát thấy ở Hoa Kỳ, với tỷ lệ mắc DLE cao hơn ở người da màu.
+
+---
+
+## Nguyên nhân gây ra bệnh lupus ban đỏ dạng đĩa là gì?
+
+Nguyên nhân gây ra DLE là nội sinh và ngoại sinh.
+Các yếu tố nội sinh bao gồm:
+- Khuynh hướng di truyền với các alen phức hợp tương hợp mô chính HLA -DQA1 và DRB1.
+- Đa hình nucleotide đơn TYK2 , IRF5 , CTLA4 cũng có liên quan.
+- Interferon, đặc biệt là loại 1, là cytokine quan trọng trong quá trình sinh bệnh.
+- IRF5 và TYK2 có liên quan đến quá trình điều hòa interferon.
+- Các đa hình ITGAM mang lại nguy cơ mắc DLE cao hơn so với [bệnh lupus ban đỏ hệ thống (SLE)](https://dermnetnz.org/topics/systemic-lupus-erythematosus) .
+Các yếu tố ngoại sinh bao gồm:
+- Hút thuốc lá phổ biến hơn ở những người mắc DLE và cũng làm giảm hiệu quả của thuốc chống sốt rét
+- [Bức xạ cực tím](https://dermnetnz.org/topics/ultraviolet-radiation-and-human-health) có thể gây ra DLE vì đây là một rối loạn nhạy cảm với ánh sáng . Tuy nhiên, bệnh này có thể xuất hiện ở những vùng không tiếp xúc với ánh nắng mặt trời.
+
+---
+
+## Các đặc điểm lâm sàng của bệnh lupus ban đỏ dạng đĩa là gì?
+
+DLE có thể khu trú (trên cổ ở 80%) hoặc lan tỏa (trên và dưới cổ ở 20%). Ban thường không có triệu chứng nhưng có thể ngứa và đau. Hầu hết bệnh nhân DLE chỉ bị tổn thương da, nhưng một số có hoặc sau đó phát triển các dấu hiệu của SLE. Thông thường, các tổn thương tiến triển theo thời gian.
+Các dấu hiệu điển hình của DLE cục bộ bao gồm:
+- Các mảng đỏ khô ban đầu phát triển thành các mảng đỏ có vảy dính . Tăng sừng nang lông (các nút sừng bên trong nang lông ) là phổ biến. Khi loại bỏ vảy này bằng băng dính, có thể thấy các nút sừng, tạo ra dấu hiệu "dính thảm" .
+- Khi DLE tiến triển, sẹo teo và rụng tóc do sẹo thường xảy ra. Tình trạng này liên quan đến [thay đổi tăng hoặc giảm sắc tố](https://dermnetnz.org/topics/pigmentation-disorders) , đặc biệt dễ nhận thấy ở những người có da màu.
+- DLE thường xuất hiện ở mũi, má, dái tai và xương sống (dấu hiệu Shuster). Nó có thể ảnh hưởng đến môi, niêm mạc miệng , mũi hoặc mí mắt.
+Các dấu hiệu của DLE tổng quát bao gồm:
+- Hình thái tổn thương tương tự như ở mặt và da đầu nhưng phân bố rộng rãi, bao gồm vùng ngực trước , lưng trên, mu bàn tay và ít gặp hơn ở chi dưới, lòng bàn tay và lòng bàn chân. Hiếm khi tổn thương niêm mạc hậu môn sinh dục .
+![Bệnh lupus ban đỏ đĩa lồi ốc tai (dấu hiệu Shuster)](https://dermnetnz.org/assets/collection/Discoid-lupus-erythematosus/discoid-lupus-erythematosus-0015.jpg)
+![Bệnh lupus ban đỏ dạng đĩa viêm hoạt động với các vùng sẹo giảm sắc tố trên má](https://dermnetnz.org/assets/collection/Discoid-lupus-erythematosus/discoid-lupus-erythematosus-0029.jpg)
+![Dái tai có sẹo giới hạn rõ do bệnh lupus ban đỏ dạng đĩa](https://dermnetnz.org/assets/collection/Discoid-lupus-erythematosus/discoid-lupus-erythematosus-0033.jpg)
+![Rụng tóc sẹo do lupus ban đỏ dạng đĩa](https://dermnetnz.org/assets/collection/Discoid-lupus-erythematosus/discoid-lupus-erythematosus-0018.jpg)
+![Bệnh lupus ban đỏ dạng đĩa Rụng tóc sẹo với nang tóc bị tắc nghẽn trong bệnh lupus ban đỏ dạng đĩa](https://dermnetnz.org/assets/collection/Discoid-lupus-erythematosus/discoid-lupus-erythematosus-0019.jpg)
+[Nhấp vào đây để xem thêm hình ảnh](https://dermnetnz-org.translate.goog/images/discoid-lupus-erythematosus-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+
+---
+
+## Các đặc điểm lâm sàng khác nhau như thế nào ở các loại da khác nhau?
+
+DLE phổ biến hơn ở người da màu. Sự thay đổi sắc tố giảm và tăng ở những người da màu đặc biệt dễ nhận thấy và gây khó chịu.
+
+---
+
+## Biến chứng của bệnh lupus ban đỏ dạng đĩa là gì?
+
+- Bệnh lupus ban đỏ dạng đĩa có thể ảnh hưởng đến sức khỏe thể chất và tinh thần, tác động đến chất lượng cuộc sống của bệnh nhân. [Các biện pháp Chỉ số chất lượng cuộc sống về da liễu (DLQI)](https://dermnetnz.org/topics/dermatology-life-quality-index-dlqi) kết hợp với các biện pháp Chỉ số diện tích và mức độ nghiêm trọng của bệnh lupus ban đỏ da (CLASI) đã chỉ ra rằng chất lượng cuộc sống ở những bệnh nhân mắc DLE là kém.
+- [Các biện pháp Chỉ số chất lượng cuộc sống về da liễu (DLQI)](https://dermnetnz.org/topics/dermatology-life-quality-index-dlqi) kết hợp với các biện pháp Chỉ số diện tích và mức độ nghiêm trọng của bệnh lupus ban đỏ da (CLASI) đã chỉ ra rằng chất lượng cuộc sống ở những bệnh nhân mắc DLE là kém.
+- DLE thường để lại sẹo, gây biến dạng khuôn mặt và [rụng tóc](https://dermnetnz.org/topics/alopecia-areata) vĩnh viễn . Sự thay đổi sắc tố có thể cải thiện theo thời gian.
+- Có mối liên hệ giữa DLE và [bệnh lupus ban đỏ hệ thống (SLE)](https://dermnetnz.org/topics/systemic-lupus-erythematosus) . Khoảng 5% bệnh nhân mắc DLE khu trú và 15% bệnh nhân mắc DLE toàn thể phát triển SLE.
+
+---
+
+## Bệnh lupus ban đỏ dạng đĩa được chẩn đoán như thế nào?
+
+Lupus ban đỏ dạng đĩa được chẩn đoán dựa trên sự phân bố và biểu hiện lâm sàng của các mảng bám. Bệnh nhân mắc DLE cần được khám toàn diện để tìm các biểu hiện khác của lupus.
+- Sinh thiết da thường giúp xác nhận chẩn đoán. Các đặc điểm khác nhau tùy thuộc vào giai đoạn của DLE nhưng bao gồm viêm da giao diện cũng liên quan đến nang lông và thâm nhiễm lympho bào quanh mạch máu và quanh phần phụ ở lớp hạ bì trên và dưới. Có hiện tượng không bào ở lớp biểu bì và tế bào đáy chết theo chương trình và tăng sừng hóa. Màng đáy có thể dày lên và có thể xuất hiện chất nhầy ở da . Khi các tổn thương tiến triển hơn nữa, tình trạng thâm nhiễm viêm giảm dần và xuất hiện xơ hóa da.
+- Các đặc điểm khác nhau tùy thuộc vào giai đoạn của DLE nhưng bao gồm viêm da giao diện cũng liên quan đến nang lông và thâm nhiễm lympho bào quanh mạch máu và quanh phần phụ ở lớp hạ bì trên và dưới.
+- Có hiện tượng không bào ở lớp biểu bì và tế bào đáy chết theo chương trình và tăng sừng hóa.
+- Màng đáy có thể dày lên và có thể xuất hiện chất nhầy ở da .
+- Khi các tổn thương tiến triển hơn nữa, tình trạng thâm nhiễm viêm giảm dần và xuất hiện xơ hóa da.
+- Xét nghiệm máu bao gồm công thức máu, chức năng thận và kháng thể kháng nhân (ANA). ANA thường không được phát hiện.
+- Phân tích nước tiểu.
+
+---
+
+## Chẩn đoán phân biệt bệnh lupus ban đỏ dạng đĩa là gì?
+
+- [Lichen phẳng](https://dermnetnz.org/topics/lichen-planus)
+- [Dày sừng quang hóa](https://dermnetnz.org/topics/actinic-keratosis)
+- [Phát ban đa dạng do ánh sáng (PMLE)](https://dermnetnz.org/topics/polymorphic-light-eruption)
+- [Bệnh lupus ban đỏ do thuốc](https://dermnetnz.org/topics/drug-induced-lupus-erythematosus)
+- [Bệnh lupus ban đỏ gây tê cóng](https://dermnetnz.org/topics/chilblain-lupus-erythematosus)
+- [Bệnh lupus ban đỏ hệ thống](https://dermnetnz.org/topics/systemic-lupus-erythematosus)
+- [Ung thư biểu mô tế bào vảy](https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma)
+- [thâm nhiễm lympho bào Jessner](https://dermnetnz.org/topics/jessner-lymphocytic-infiltrate)
+- [Bệnh sarcoidosis](https://dermnetnz.org/topics/sarcoidosis)
+- [Bệnh da mặt hình đĩa](https://dermnetnz.org/topics/facial-discoid-dermatosis)
+- [Bệnh lupus ban đỏ](https://dermnetnz.org/topics/cutaneous-tuberculosis) .
+
+---
+
+## Phương pháp điều trị bệnh lupus ban đỏ dạng đĩa là gì?
+
+
+### Các biện pháp chung
+- [Bảo vệ da](https://dermnetnz.org/topics/sun-protection) cẩn thận quanh năm khỏi ánh nắng mặt trời bằng [quần áo và thoa nhiều](https://dermnetnz.org/topics/sun-protective-clothing) [kem chống nắng](https://dermnetnz.org/topics/topical-sunscreen-agents) phổ rộng có chỉ số SPF cao . Chỉ dùng kem chống nắng thôi là không đủ.
+- Khi ở trong nhà, một số bệnh nhân cũng có thể cần tránh xa cửa sổ kính hoặc có thể xử lý bằng phim chống tia UV .
+- [](https://dermnetnz.org/topics/vitamin-d) Những người tránh xa ánh nắng mặt trời nên bổ sung [vitamin D.](https://dermnetnz.org/topics/vitamin-d)
+- Cai thuốc lá .
+
+### Các biện pháp cụ thể
+
+#### Liệu pháp tại chỗ
+- [Liệu trình điều trị đầu tiên cho DLE khu trú là dùng corticosteroid tại chỗ](https://dermnetnz.org/topics/topical-steroid) mạnh hoặc siêu mạnh , bôi ngoài da trong vài tuần. [Tiêm](https://dermnetnz.org/topics/intralesional-injection) corticosteroid vào tổn thương đôi khi cũng được sử dụng.
+- [Thuốc ức chế calcineurin](https://dermnetnz.org/topics/calcineurin-inhibitors) — thuốc mỡ [tacrolimus](https://dermnetnz.org/topics/tacrolimus) và kem [pimecrolimus](https://dermnetnz.org/topics/pimecrolimus) cũng có thể được sử dụng. [](https://dermnetnz.org/topics/pimecrolimus)
+- Ngụy trang bằng mỹ phẩm và tóc giả rất hữu ích và giúp tăng sự tự tin khi có nhiều sẹo.
+
+#### Liệu pháp toàn thân
+- Ngắn hạn [Có thể sử dụng corticosteroid toàn thân](https://dermnetnz.org/topics/systemic-steroids) như prednisone hoặc prednisolone để kiểm soát trong thời gian ngắn.
+- [Có thể sử dụng corticosteroid toàn thân](https://dermnetnz.org/topics/systemic-steroids) như prednisone hoặc prednisolone để kiểm soát trong thời gian ngắn.
+- Dài hạn hơn Những loại thuốc sau đây đã được sử dụng và đôi khi kết hợp với nhau: [hydroxychloroquine](https://dermnetnz.org/topics/hydroxychloroquine) , [chloroquine](https://dermnetnz.org/topics/chloroquine) , mepacrine, [clofazimine](https://dermnetnz.org/topics/clofazimine) , [methotrexate](https://dermnetnz.org/topics/methotrexate) , [retinoid đường uống](https://dermnetnz.org/topics/oral-retinoids) (isotretinoin và acitretin), [mycophenolate mofetil](https://dermnetnz.org/topics/mycophenolate-mofetil) , [ciclosporin](https://dermnetnz.org/topics/ciclosporin) , [cyclophosphamide](https://dermnetnz.org/topics/cyclophosphamide) , [azathioprine](https://dermnetnz.org/topics/azathioprine-and-mercaptopurine) , [dapsone](https://dermnetnz.org/topics/dapsone) , [thalidomide](https://dermnetnz.org/topics/thalidomide) , [immunoglobulin tiêm tĩnh mạch](https://dermnetnz.org/topics/intravenous-immunoglobulin) và [các tác nhân sinh học](https://dermnetnz.org/topics/biological-agents-for-psoriasis) (belimumab và [rituximab](https://dermnetnz.org/topics/rituximab) ).
+- Những loại thuốc sau đây đã được sử dụng và đôi khi kết hợp với nhau: [hydroxychloroquine](https://dermnetnz.org/topics/hydroxychloroquine) , [chloroquine](https://dermnetnz.org/topics/chloroquine) , mepacrine, [clofazimine](https://dermnetnz.org/topics/clofazimine) , [methotrexate](https://dermnetnz.org/topics/methotrexate) , [retinoid đường uống](https://dermnetnz.org/topics/oral-retinoids) (isotretinoin và acitretin), [mycophenolate mofetil](https://dermnetnz.org/topics/mycophenolate-mofetil) , [ciclosporin](https://dermnetnz.org/topics/ciclosporin) , [cyclophosphamide](https://dermnetnz.org/topics/cyclophosphamide) , [azathioprine](https://dermnetnz.org/topics/azathioprine-and-mercaptopurine) , [dapsone](https://dermnetnz.org/topics/dapsone) , [thalidomide](https://dermnetnz.org/topics/thalidomide) , [immunoglobulin tiêm tĩnh mạch](https://dermnetnz.org/topics/intravenous-immunoglobulin) và [các tác nhân sinh học](https://dermnetnz.org/topics/biological-agents-for-psoriasis) (belimumab và [rituximab](https://dermnetnz.org/topics/rituximab) ).
+
+---
+
+## Hậu quả của bệnh lupus ban đỏ dạng đĩa là gì?
+
+- Mặc dù có nhiều phương pháp điều trị , việc điều trị vẫn có thể khó khăn.
+- Bệnh lupus ban đỏ dạng đĩa là một tình trạng mãn tính có thể kéo dài trong nhiều năm.
+- [Ung thư biểu mô tế bào vảy](https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma) hiếm khi xuất hiện trong mảng bám DLE lâu năm ở da hoặc niêm mạc .
+[Nhấp vào đây để xem hình ảnh](https://dermnetnz-org.translate.goog/images/discoid-lupus-erythematosus-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)

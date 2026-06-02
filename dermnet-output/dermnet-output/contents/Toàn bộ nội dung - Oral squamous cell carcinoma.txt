@@ -1,0 +1,74 @@
+# Ung thư miệng — thông tin bổ sung
+
+Thể loại:
+
+Tổn thương (ung thư)
+
+SNOMED CT:
+
+363505006, 733343005, 419842002, 255071008, 254437001, 276952000, 276954004, 276962007, 276953005
+
+**[Tổn thương (ung thư)](https://dermnetnz.org/topics/topics?category=Lesions+(cancerous))**
+
+
+# **Ung thư miệng**
+
+Tác giả: Vanessa Ngan, Biên tập viên, 2003.
+
+---
+
+## Ung thư miệng là gì?
+
+Có nhiều loại ung thư miệng, nhưng hơn 90% là [ung thư biểu mô tế bào vảy](https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma) . Trên toàn thế giới, ung thư miệng là một trong mười loại ung thư phổ biến nhất. Mọi người trên toàn thế giới đều bị ảnh hưởng, nhưng dường như nó xảy ra thường xuyên nhất ở các nước đang phát triển, đặc biệt là Ấn Độ, Pakistan và Bangladesh. Trên thực tế, ở một số vùng của Ấn Độ, ung thư miệng chiếm hơn 50% tổng số ca ung thư.
+
+---
+
+## Ai bị ung thư miệng và tại sao?
+
+Ung thư miệng thường xảy ra ở những người trên 40 tuổi. Bệnh này phổ biến ở nam giới gấp đôi so với nữ giới.
+Các yếu tố nguy cơ phát triển ung thư miệng bao gồm:
+- [Hút thuốc](https://dermnetnz.org/topics/smoking-and-its-effects-on-the-skin) : 75% số người được chẩn đoán mắc ung thư miệng là người sử dụng thuốc lá. Nồng độ hắc ín càng cao thì nguy cơ càng lớn.
+- Hút thuốc và uống rượu: thuốc lá và uống nhiều rượu kết hợp với nhau làm tăng đáng kể nguy cơ (lớn hơn tổng của 2 tác động riêng lẻ)
+- Sức khỏe răng miệng kém
+- Các tác nhân gây nhiễm trùng, đặc biệt là virus gây mụn cóc ở người loại 16 và 18, có liên quan đến một số bệnh ung thư miệng
+- Bệnh viêm , [liken phẳng miệng](https://dermnetnz.org/topics/oral-lichen-planus) xói mòn . [](https://dermnetnz.org/topics/oral-lichen-planus)
+
+---
+
+## Các dấu hiệu và triệu chứng là gì?
+
+Nhiều bệnh ung thư miệng chỉ được phát hiện khi đã tiến triển khá nặng. Thông thường ở giai đoạn đầu, ung thư không gây đau đớn và có thể không được phát hiện. Điều này dẫn đến tỷ lệ tử vong cao so với các loại ung thư khác. Do đó, việc nhận biết sớm các dấu hiệu và triệu chứng của ung thư miệng là rất quan trọng. Bao gồm:
+- Một mảng trắng ( [bạch sản](https://dermnetnz.org/topics/carcinoma-in-situ-of-oral-cavity) ) và/hoặc mảng đỏ (hồng sản) trên nướu, lưỡi hoặc niêm mạc miệng
+- Một vết loét nhỏ hoặc vết loét cứng trông giống như [vết loét áp-tơ](https://dermnetnz.org/topics/aphthous-ulcer) thông thường không lành [](https://dermnetnz.org/topics/aphthous-ulcer)
+- Một khối u hoặc khối có thể cảm thấy ở môi hoặc trong miệng hoặc cổ họng
+- Chảy máu bất thường, đau hoặc tê ở miệng
+- Khó khăn hoặc đau khi nhai hoặc nuốt
+- Đau họng dai dẳng hoặc cảm giác có vật gì đó mắc kẹt trong cổ họng
+- Sưng hàm khiến răng giả không vừa hoặc không thoải mái
+- Sự thay đổi giọng nói hoặc khàn giọng kéo dài trong thời gian dài
+- Đau tai
+![Môi trong](https://dermnetnz.org/assets/Uploads/site-age-specific/oral-ca1.jpg)
+![Phế nang](https://dermnetnz.org/assets/Uploads/site-age-specific/w/oral-cancer.jpg)
+![Ung thư lưỡi](https://dermnetnz.org/assets/Uploads/oral-cancer.jpg)
+Các vị trí phổ biến nhất của ung thư miệng là môi dưới, lưỡi và sàn miệng, mặc dù bất kỳ phần nào của miệng cũng có thể bị ảnh hưởng. Khoảng 30 đến 80% bệnh nhân ung thư miệng cũng có tổn thương thứ phát ( [di căn](https://dermnetnz.org/topics/skin-metastasis) ) ở các hạch bạch huyết cổ khi phát hiện bệnh. Ở giai đoạn muộn hơn, ung thư có thể di căn đến các hạch bạch huyết khu vực , phổi, gan hoặc xương.
+
+---
+
+## Chẩn đoán và phân loại ung thư miệng
+
+[Sinh thiết](https://dermnetnz.org/topics/skin-biopsy) tổn thương được thực hiện để đưa ra chẩn đoán chính xác. [Video](https://translate.google.com/website) của [Tiến sĩ Philippe Abimelec](https://translate.google.com/website) cho thấy cách thực hiện. [](https://translate.google.com/website)
+Sau khi chẩn đoán ban đầu ung thư miệng, giai đoạn ung thư sẽ được xác định. Điều này sẽ xác định kích thước khối u, mức độ xâm lấn mô tại vị trí ban đầu và mức độ xâm lấn vào các cơ quan hoặc hạch bạch huyết xung quanh. Việc xác định giai đoạn ung thư là một yếu tố quan trọng vì nó định hướng cho việc lập kế hoạch điều trị. Phân loại và phân giai đoạn ung thư miệng của Ủy ban Ung thư Liên hợp Hoa Kỳ (TMN) năm 1993 thường được sử dụng.
+
+### Phân loại ung thư miệng?
+Khối u nguyên phát T0 Không có khối u nguyên phát Tis Ung thư biểu mô tại chỗ T1 Khối u 2 cm hoặc nhỏ hơn T2 Khối u 4 cm hoặc nhỏ hơn T3 Khối u >4 cm T4 Khối u >4 cm và xâm lấn sâu vào cơ, xương, các cấu trúc sâu Sự tham gia của hạch bạch huyết Số 0 Không có nút N1 Hạch đơn bên 3 cm N2 Hạch(s) đồng bên 6 cm N3 Hạch >6 cm và/hoặc song phương Di căn khối u M0 Không có di căn M1 Di căn được ghi nhận
+
+### Phân loại ung thư miệng
+Giai đoạn I T1, N0, M0 Giai đoạn II T2, N0, M0 Giai đoạn III T3, N0, M0 T1, T2, T3, N1, M0 Giai đoạn IV T4, N0, M0 Bất kỳ T, N2 hoặc N3, M0 Bất kỳ T, bất kỳ N, bất kỳ M
+
+---
+
+## Phương pháp điều trị ung thư miệng là gì?
+
+Điều trị ung thư miệng phụ thuộc vào loại ung thư và giai đoạn ung thư. Nhìn chung, chẩn đoán và điều trị trong giai đoạn đầu của ung thư cho kết quả tốt hơn nhiều. Ung thư biểu mô tế bào vảy miệng thường được điều trị bằng phẫu thuật và/hoặc [xạ trị](https://dermnetnz.org/topics/radiotherapy-for-malignant-skin-diseases) . Hóa trị cũng có thể được sử dụng, đặc biệt ở những bệnh nhân đã xác định di căn đến các mô và cơ quan khác.
+Nhu cầu chăm sóc sức khỏe răng miệng được đáp ứng trước khi điều trị ung thư. Điều này nhằm giảm thiểu các bệnh lý răng miệng và biến chứng sau điều trị . Có đến 97% bệnh nhân cần được chăm sóc sức khỏe răng miệng trước khi bắt đầu điều trị ung thư. Một số biến chứng có thể xảy ra sau điều trị ung thư bao gồm viêm niêm mạc miệng do [xạ trị](https://dermnetnz.org/topics/radiotherapy-for-malignant-skin-diseases) hoặc hóa trị (viêm miệng), loét miệng , chảy máu, nhiễm trùng , đau, khô miệng và sâu răng.
+Phẫu thuật nhằm mục đích loại bỏ khối u nguyên phát và một phần mô bình thường xung quanh để đảm bảo ung thư đã được loại bỏ hoàn toàn. Nếu được thực hiện ở giai đoạn đầu của ung thư, thường ít hoặc không có biến dạng sau điều trị. Phẫu thuật được thực hiện ở giai đoạn sau cũng có thể yêu cầu tái tạo một số bộ phận của miệng hoặc mặt.

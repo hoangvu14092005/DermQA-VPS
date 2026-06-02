@@ -1,0 +1,63 @@
+# Hội chứng Marfan — thông tin bổ sung
+
+Thể loại:
+
+Bệnh di truyền, mô liên kết
+
+SNOMED CT:
+
+19346006, 234035006
+
+**[Bệnh di truyền, mô liên kết](https://dermnetnz.org/topics/topics?category=Genetic)**
+
+
+# **Hội chứng Marfan**
+
+Tác giả: Vanessa Ngan, Biên tập viên, 2006.
+
+---
+
+## Hội chứng Marfan là gì?
+
+Hội chứng Marfan là một rối loạn mô liên kết chủ yếu ảnh hưởng đến xương và khớp (hệ xương), tim và mạch máu (hệ tim mạch) và mắt. Mô liên kết là một thành phần thiết yếu của cơ thể con người, giúp kết nối các bộ phận lại với nhau và tạo nên khung xương cho sự tăng trưởng và phát triển.
+Các đặc điểm chính của hội chứng này bao gồm:
+- Thân hình cao và gầy với tứ chi dài (tay, chân, ngón tay và ngón chân dài không cân xứng so với phần còn lại của cơ thể),
+- Các vấn đề về mắt khiến một hoặc cả hai thấu kính của mắt có thể bị trật khớp,
+- Các vấn đề về tim và mạch máu có thể gây ra tiếng thổi tim, nhịp tim không đều hoặc trong trường hợp nghiêm trọng có thể gây phình động mạch chủ (bệnh tim có khả năng gây tử vong).
+Các hệ thống khác có thể bị ảnh hưởng bao gồm phổi, hệ thần kinh và da.
+
+### Các vết rạn da trong hội chứng Marfan
+![Không có caption](https://dermnetnz.org/assets/Uploads/marfan1.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/marfan2.jpg)
+
+---
+
+## Nguyên nhân nào gây ra hội chứng Marfan?
+
+Hội chứng Marfan là do khiếm khuyết ở gen trên nhiễm sắc thể 15, gen này quy định cấu trúc của fibrillin, một protein là thành phần chính của các vi sợi liên kết với elastin . Các vi sợi này được tìm thấy trong hầu hết các mô liên kết nhưng lại rất nhiều trong các mạch máu lớn và dây chằng treo của thủy tinh thể. Do đó, các đặc điểm nổi bật nhất của hội chứng Marfan là các bất thường về tim mạch và mắt .
+Hội chứng Marfan được di truyền theo kiểu trội trên nhiễm sắc thể thường , nghĩa là nếu một trong hai cha mẹ mắc hội chứng Marfan thì khả năng mỗi đứa con đều mắc bệnh là 50%. Có những trường hợp cả cha và mẹ đều không mắc bệnh nhưng lại sinh ra con mắc hội chứng Marfan. Đột biến tự phát hoặc đột biến de novo này xảy ra ở 1/4 tổng số trường hợp mắc hội chứng Marfan.
+Hội chứng Marfan được ước tính ảnh hưởng đến khoảng 1/10.000 người.
+![Di truyền của hội chứng Marfan*](https://dermnetnz.org/assets/Uploads/Marfan-syndrome.jpg)
+*Hình ảnh được cung cấp bởi Genetics 4 Medics
+
+---
+
+## Những đặc điểm về da của hội chứng Marfan là gì?
+
+Các dấu hiệu và triệu chứng mà người mắc hội chứng Marfan gặp phải rất khác nhau. Một số bệnh nhân có thể chỉ bị một phần hội chứng và có các triệu chứng nhẹ, trong khi những người khác bị hội chứng toàn phần lại bị ảnh hưởng nghiêm trọng hơn.
+Các triệu chứng trên da, mặc dù không thiết yếu cho chẩn đoán hội chứng Marfan, thường xuất hiện ở bệnh nhân. Các đặc điểm trên da xuất hiện dưới dạng [các vết rạn da hoặc vết rạn da](https://dermnetnz.org/topics/stretch-marks-striae) xuất hiện ngay cả khi không có sự thay đổi đáng kể về cân nặng hoặc mang thai. Chúng thường xuất hiện ở những vị trí chịu áp lực như vai, hông, mông và lưng dưới, và có thể xảy ra ở mọi lứa tuổi. Những vết rạn da này không gây ảnh hưởng đến sức khỏe và không cần điều trị.
+Một đặc điểm khác cần lưu ý khi khám da là khối phồng quanh bụng hoặc vùng bẹn. Đây có thể là thoát vị bụng hoặc bẹn (háng) chứa một phần ruột. Bệnh nhân mắc hội chứng Marfan có nguy cơ mắc bệnh này cao hơn bình thường .
+
+---
+
+## Hội chứng Marfan được chẩn đoán như thế nào?
+
+Chẩn đoán hội chứng Marfan dựa trên tiền sử gia đình, khám lâm sàng và sự hiện diện của một số tiêu chuẩn chẩn đoán. Tiêu chuẩn chẩn đoán được chia thành tiêu chuẩn chính và tiêu chuẩn phụ.
+Tiêu chuẩn chính là các bất thường về tim, thủy tinh thể và xương, rất đặc hiệu cho hội chứng Marfan và hiếm khi xảy ra ở cộng đồng nói chung.
+Các đặc điểm nhỏ thường xuất hiện ở bệnh nhân mắc hội chứng Marfan, nhưng cũng thường thấy ở dân số nói chung. Các đặc điểm trên da thuộc nhóm tiêu chuẩn nhỏ.
+
+---
+
+## Hội chứng Marfan được điều trị như thế nào?
+
+Không có phương pháp điều trị đặc hiệu cho hội chứng Marfan. Bác sĩ tim mạch, bác sĩ nhãn khoa và bác sĩ phẫu thuật chỉnh hình nên thường xuyên thăm khám bệnh nhân mắc hội chứng Marfan. Việc phát hiện sớm và can thiệp các yếu tố nguy cơ, chẳng hạn như giãn động mạch chủ, có thể ngăn ngừa hoặc trì hoãn các biến chứng. Với chẩn đoán sớm và điều trị dự phòng, người mắc hội chứng Marfan có thể có tuổi thọ tương đương với người bình thường.

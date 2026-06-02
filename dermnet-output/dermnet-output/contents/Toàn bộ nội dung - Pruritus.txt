@@ -1,0 +1,189 @@
+# Ngứa — thông tin bổ sung
+
+Thể loại:
+
+Thuật ngữ
+
+SNOMED CT:
+
+279333002, 403576004, 418363000, 276444007, 403575000, 724844008, 707151000, 238695001, 707150004, 403733004, 403574001, 239102001, 724843002
+
+**[Thuật ngữ](https://dermnetnz.org/topics/topics?category=Terminology)**
+
+
+# **Ngứa**
+
+Tác giả: Giáo sư danh dựAmanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand, 2003. Cập nhật bởiTiến sĩ Sara de Menezes, Thực tập sinh Bác sĩ cơ bản, Alfred Health, Melbourne, Úc. Tháng 12 năm 2016.
+
+---
+
+## Ngứa là gì?
+
+Ngứa là thuật ngữ y khoa chỉ tình trạng ngứa. Ngứa là cảm giác khó chịu trên da, khiến người bệnh muốn chà xát hoặc gãi vùng da bị ngứa để giảm ngứa. Ngứa có thể gây khó chịu và bực bội; trong trường hợp nghiêm trọng, nó có thể dẫn đến rối loạn giấc ngủ, [lo lắng và trầm cảm](https://dermnetnz.org/topics/psychosocial-factors-in-dermatology) . Việc gãi liên tục để giảm ngứa có thể gây tổn thương da ( trầy xước , lichen hóa ) và làm giảm hiệu quả bảo vệ của da.
+Ngứa thường là triệu chứng của một bệnh lý tiềm ẩn như bệnh về da, bệnh toàn thân hoặc xung thần kinh bất thường .
+
+---
+
+## Dấu hiệu ngứa trên da là gì?
+
+Không có dấu hiệu cụ thể nào trên da liên quan đến ngứa, ngoài các vết trầy xước và dấu hiệu của tình trạng bệnh tiềm ẩn.
+Việc gãi liên tục trong một thời gian dài có thể dẫn đến:
+- Lichen hóa (da dày lên, [lichen đơn giản](https://dermnetnz.org/topics/lichen-simplex) )
+- [](https://dermnetnz.org/topics/prurigo) Ngứa [sẩn](https://dermnetnz.org/topics/prurigo) và [cục u](https://dermnetnz.org/topics/nodular-prurigo) .
+![Địa y đơn giản](https://dermnetnz.org/assets/Uploads/lichen-simplex-01.1.jpg)
+![Ngứa cục](https://dermnetnz.org/assets/Uploads/prurigo-01.jpg)
+![Vết trầy xước và vết bầm tím](https://dermnetnz.org/assets/Uploads/Pruritus-01-2.jpg)
+
+---
+
+## Ai bị ngứa?
+
+Dịch tễ học của ngứa phụ thuộc vào nguyên nhân hoặc các nguyên nhân tiềm ẩn. Tuy nhiên, nhìn chung, tỷ lệ ngứa mãn tính tăng theo tuổi, phổ biến hơn ở phụ nữ và người gốc Á.
+
+---
+
+## Cơ chế gây ngứa
+
+Cảm giác ngứa, giống như đau, có thể bắt nguồn từ bất kỳ đâu dọc theo đường dẫn truyền thần kinh ngứa, từ hệ thần kinh trung ương (não và tủy sống ) đến hệ thần kinh ngoại biên và da.
+Cơ chế gây ngứa rất phức tạp.
+- Tín hiệu ngứa được truyền chủ yếu qua các sợi C nhỏ chọn lọc ngứa trong da, ngoài ra còn qua các tế bào thần kinh không phải histamine và do histamine kích hoạt .
+- Những vùng này kết nối với các tế bào thần kinh thứ cấp, đi qua phía đối diện của đường tủy đồi thị và đi lên các vùng não liên quan đến cảm giác, cảm xúc, phần thưởng và trí nhớ. Những vùng này chồng lấn với những vùng được kích hoạt bởi cơn đau.
+- Bệnh nhân bị ngứa mãn tính thường có cả tình trạng quá mẫn cảm ngoại biên và trung ương (phản ứng tăng cao) có nghĩa là họ có xu hướng phản ứng quá mức với các kích thích có hại thường ức chế ngứa (như nhiệt và gãi) và cũng hiểu sai các kích thích không có hại là ngứa (ví dụ, chạm nhẹ).
+Cách gãi giúp ngừng ngứa được giải thích là do sự tương tác với các đường dẫn truyền cảm giác đau bên trong sừng sau của tủy sống.
+
+---
+
+## Nguyên nhân gây ngứa là gì?
+
+Nguyên nhân gây ngứa có thể được phân loại thành 5 nhóm chính.
+
+### Ngứa cục bộ
+Ngứa khu trú là tình trạng ngứa chỉ giới hạn ở một vùng nhất định trên cơ thể. Nó có thể xảy ra kết hợp với phát ban nguyên phát (ví dụ như viêm da ) hoặc có thể do các dây thần kinh quá mẫn cảm trên da ( ngứa thần kinh ). Ngứa thần kinh là do chèn ép hoặc thoái hóa các dây thần kinh trên da, trên đường đi đến cột sống hoặc trong chính cột sống. Ngứa thần kinh đôi khi đi kèm với tình trạng giảm hoặc mất tiết mồ hôi ở vùng da bị ảnh hưởng.
+Nguyên nhân điển hình gây phát ban ngứa cục bộ
+- Da đầu: [viêm da tiết bã,](https://dermnetnz.org/topics/seborrhoeic-dermatitis) [chấy rận](https://dermnetnz.org/topics/head-lice)
+- Mặt sau: [Bệnh Grover](https://dermnetnz.org/topics/transient-acantholytic-dermatosis)
+- Tay: [bệnh phồng rộp](https://dermnetnz.org/topics/dyshidrotic-eczema) , [viêm da tiếp xúc](https://dermnetnz.org/topics/allergic-contact-dermatitis) [gây kích ứng](https://dermnetnz.org/topics/irritant-contact-dermatitis) và/hoặc dị ứng [](https://dermnetnz.org/topics/allergic-contact-dermatitis)
+- Bộ phận sinh dục: [nhiễm trùng](https://dermnetnz.org/topics/vulvovaginal-candidiasis) [Candida albicans](https://dermnetnz.org/topics/vulvovaginal-candidiasis) [ở âm hộ, âm đạo](https://dermnetnz.org/topics/vulvovaginal-candidiasis) , [bệnh liken xơ cứng](https://dermnetnz.org/topics/lichen-sclerosus)
+- Chân: [chàm tĩnh mạch](https://dermnetnz.org/topics/venous-eczema)
+- Bàn chân: [bệnh nấm da chân](https://dermnetnz.org/topics/tinea-pedis)
+Nguyên nhân thần kinh gây ngứa tại chỗ không có phát ban nguyên phát ( [loạn cảm da](https://dermnetnz.org/topics/cutaneous-dysaesthesia) )
+- Mặt: [hội chứng dinh dưỡng dây thần kinh sinh ba](https://dermnetnz.org/topics/trigeminal-trophic-syndrome)
+- Tay: cheiralgia paraesthetica
+- Cánh tay: [ngứa cánh tay quay](https://dermnetnz.org/topics/brachioradial-pruritus)
+- Mặt sau: [notalgia paraesthetica](https://dermnetnz.org/topics/notalgia-paraesthetica) [](https://dermnetnz.org/topics/brachioradial-pruritus)
+- Bộ phận sinh dục : [ngứa âm hộ](https://dermnetnz.org/topics/the-itchy-vulva) , [ngứa hậu môn](https://dermnetnz.org/topics/itchy-anus)
+- Dermatomal : [herpes zoster (bệnh zona)](https://dermnetnz.org/topics/herpes-zoster) trong giai đoạn phục hồi
+Gãi ngứa tại chỗ có thể dẫn đến [bệnh liken đơn giản](https://dermnetnz.org/topics/lichen-simplex) , [ngứa](https://dermnetnz.org/topics/prurigo) hoặc [sẩn cục](https://dermnetnz.org/topics/nodular-prurigo) .
+
+### Nguyên nhân toàn thân gây ngứa
+Các bệnh toàn thân có thể gây ngứa toàn thân. Tình trạng này đôi khi được gọi là ngứa do chuyển hóa. Bản thân da không có vấn đề gì, ít nhất là cho đến khi bị gãi.
+Rối loạn chuyển hóa bao gồm suy thận mãn tính ( thẩm phân ) và bệnh gan (có hoặc không có ứ mật ).
+- [Ngứa do tăng urê huyết](https://dermnetnz.org/topics/uraemic-pruritus) xảy ra ở những bệnh nhân đang chạy thận nhân tạo là do sự kết hợp của chứng khô da, cường cận giáp thứ phát, bệnh thần kinh ngoại biên (thay đổi thần kinh) và tình trạng viêm. Bệnh cường cận giáp thứ phát cũng xảy ra ở những bệnh nhân chạy thận nhân tạo dẫn đến sự lắng đọng ( lắng đọng ) muối canxi và magie trong da, gây ra thoái hóa tế bào mast , giải phóng serotonin và histamine. Khi tình trạng ngứa mãn tính xảy ra, có thể có những thay đổi thứ phát ở các dây thần kinh trên da và hệ thần kinh trung ương làm tăng cảm giác ngứa.
+- Bệnh cường cận giáp thứ phát cũng xảy ra ở những bệnh nhân chạy thận nhân tạo dẫn đến sự lắng đọng ( lắng đọng ) muối canxi và magie trong da, gây ra thoái hóa tế bào mast , giải phóng serotonin và histamine.
+- Khi tình trạng ngứa mãn tính xảy ra, có thể có những thay đổi thứ phát ở các dây thần kinh trên da và hệ thần kinh trung ương làm tăng cảm giác ngứa.
+- [Ngứa do gan](https://dermnetnz.org/topics/cholestatic-pruritus) thường gặp hơn ở ứ mật trong gan so với ứ mật ngoài gan. Ví dụ về ứ mật trong gan bao gồm ứ mật liên quan đến [viêm gan virus](https://dermnetnz.org/topics/viral-hepatitis) mạn tính , xơ gan mật nguyên phát , ứ mật liên quan đến thai kỳ. Ứ mật ngoài gan thường liên quan đến chèn ép đường mật, ví dụ như do khối u tụy hoặc nang giả tụy. Người ta cho rằng bệnh ứ mật giải phóng các chất độc hại từ gan, kích thích các sợi thần kinh gây ngứa trên da. Ngứa do ứ mật thường nghiêm trọng nhất vào ban đêm; tình trạng này có xu hướng ảnh hưởng đến tay, chân và những vùng da bị quần áo cọ xát.
+- Người ta cho rằng bệnh ứ mật giải phóng các chất độc hại từ gan, kích thích các sợi thần kinh gây ngứa trên da.
+- Ngứa do ứ mật thường nghiêm trọng nhất vào ban đêm; tình trạng này có xu hướng ảnh hưởng đến tay, chân và những vùng da bị quần áo cọ xát.
+Các rối loạn về huyết học bao gồm [thiếu máu do thiếu sắt](https://dermnetnz.org/topics/iron-deficiency) và bệnh đa hồng cầu nguyên phát .
+- Ngứa toàn thân kèm theo [viêm lưỡi](https://dermnetnz.org/topics/conditions-affecting-the-tongue) (viêm lưỡi) và [viêm khóe miệng](https://dermnetnz.org/topics/angular-cheilitis) (viêm khóe miệng) thường gặp ở bệnh thiếu máu do thiếu sắt.
+- Trong bệnh đa hồng cầu nguyên phát , ngứa thường xuất hiện khi tiếp xúc với nước ( [ngứa do nước](https://dermnetnz.org/topics/aquagenic-pruritus) ). Người ta cho rằng tình trạng này là do tác động của tiểu cầu , serotonin và prostaglandin.
+Rối loạn nội tiết bao gồm bệnh tuyến giáp và bệnh tiểu đường.
+- Trong bệnh Graves ( [cường giáp](https://dermnetnz.org/topics/hyperthyroidism) ), lưu lượng máu tăng, nhiệt độ da và ngưỡng ngứa giảm do tăng hormone tuyến giáp gây ra, dẫn đến ngứa. Ngứa liên quan đến phù niêm và [suy giáp](https://dermnetnz.org/topics/hypothyroidism) rất hiếm gặp, và nếu có, nhiều khả năng là do [khô da](https://dermnetnz.org/topics/dry-skin) .
+- Trong [bệnh đái tháo đường](https://dermnetnz.org/topics/skin-problems-associated-with-diabetes-mellitus) , ngứa khu trú thường xảy ra ở vùng quanh hậu môn /sinh dục, thường do nhiễm nấm [Candida albicans](https://dermnetnz.org/topics/candida) hoặc [nấm da](https://dermnetnz.org/topics/mycology-of-dermatophyte-infections) . Hiện vẫn chưa rõ liệu các bất thường về chuyển hóa như suy thận, suy giảm chức năng hệ thần kinh tự chủ hay bệnh thần kinh đái tháo đường có góp phần gây ra tình trạng này hay không.
+[Ngứa do ung thư](https://dermnetnz.org/topics/paraneoplastic-pruritus) liên quan đến u lympho , đặc biệt là [u lympho Hodgkin](https://dermnetnz.org/topics/hodgkin-lymphoma) , bệnh bạch cầu hoặc khối u ở cơ quan đặc (ví dụ như phổi, đại tràng, não).
+- Trong bệnh u lympho Hodgkin, ngứa được cho là do giải phóng histamine, có thể liên quan đến chứng tăng bạch cầu ái toan.
+Các bệnh nhiễm trùng gây ngứa bao gồm [nhiễm virus gây suy giảm miễn dịch ở người (HIV)](https://dermnetnz.org/topics/skin-conditions-relating-to-hiv-infection) và [virus viêm gan](https://dermnetnz.org/topics/viral-hepatitis) C.
+- Bệnh nhân nhiễm HIV thường phàn nàn về ngứa. Tình trạng này có thể liên quan đến nhiễm trùng/lây nhiễm da, [da khô](https://dermnetnz.org/topics/dry-skin) , phản ứng thuốc, tăng bạch cầu ái toan (tăng nồng độ bạch cầu ái toan ) và [u lympho tế bào T ở da](https://dermnetnz.org/topics/cutaneous-t-cell-lymphoma) . Có thể có mối tương quan giữa ngứa dai dẳng và tải lượng virus HIV tăng cao.
+- Trong nhiễm trùng viêm gan C mạn tính , cơ chế gây ngứa vẫn chưa rõ ràng. Trong trường hợp không có ứ mật, ngứa có thể liên quan đến liệu pháp kháng vi-rút ; tình trạng này đã được ghi nhận xảy ra ở những bệnh nhân được điều trị bằng liệu pháp phối hợp (interferon alfa và ribavirin).
+
+### Bệnh ngứa da
+Ngứa thường là triệu chứng của nhiều bệnh ngoài da. Một số bệnh này được liệt kê trong danh sách sau.
+- [Viêm da tiếp xúc dị ứng](https://dermnetnz.org/topics/allergic-contact-dermatitis)
+- [Da khô](https://dermnetnz.org/topics/dry-skin)
+- [Mề đay](https://dermnetnz.org/topics/urticaria-an-overview)
+- [Bệnh vẩy nến](https://dermnetnz.org/topics/psoriasis)
+- [Viêm da dị ứng](https://dermnetnz.org/topics/atopic-dermatitis)
+- [Viêm nang lông](https://dermnetnz.org/topics/folliculitis)
+- [Viêm da dạng herpes](https://dermnetnz.org/topics/dermatitis-herpetiformis)
+- [Địa y đơn giản](https://dermnetnz.org/topics/lichen-simplex)
+- [Lichen phẳng](https://dermnetnz.org/topics/lichen-planus)
+- [Bọng nước dạng pemphigus](https://dermnetnz.org/topics/bullous-pemphigoid)
+- [Chấy rận](https://dermnetnz.org/topics/lice)
+- [Bệnh ghẻ](https://dermnetnz.org/topics/scabies)
+- [Miliaria](https://dermnetnz.org/topics/miliaria)
+- [Cháy nắng](https://dermnetnz.org/topics/sunburn)
+- [Bệnh vảy phấn hồng](https://dermnetnz.org/topics/pityriasis-rosea)
+- [Bệnh nấm mycosis fungoides](https://dermnetnz.org/topics/cutaneous-t-cell-lymphoma)
+
+### Ngứa liên quan đến phơi nhiễm
+Ngứa có thể phát sinh do tiếp xúc với một số yếu tố bên ngoài.
+- [Chất gây dị ứng](https://dermnetnz.org/topics/contact-allergens) hoặc chất kích ứng
+- Cảm lạnh có thể gây ra ' [ngứa mùa đông](https://dermnetnz.org/topics/winter-itch) '
+- [Mề đay cảm ứng](https://dermnetnz.org/topics/chronic-inducible-urticaria) , chẳng hạn như [chứng nổi mề đay](https://dermnetnz.org/topics/dermographism)
+- Ngứa do nước (ngứa khi tiếp xúc với nước)
+- [Côn trùng và các bệnh nhiễm trùng](https://dermnetnz.org/topics/bugs) như ghẻ
+- Thuốc ( dùng ngoài da hoặc toàn thân), chẳng hạn như thuốc phiện, aspirin
+
+### Nguyên nhân gây ngứa do nội tiết tố
+Khoảng 2% phụ nữ mang thai bị ngứa mà không rõ nguyên nhân da liễu. Trong một số trường hợp, ngứa là do ứ mật (mật ứ đọng trong túi mật và gan). Tình trạng này thường xảy ra trong tam cá nguyệt thứ 3 và giảm dần sau khi sinh.
+Ngứa toàn thân cũng là một triệu chứng phổ biến của [thời kỳ mãn kinh](https://dermnetnz.org/topics/menopause-and-the-skin) .
+
+---
+
+## Ngứa được chẩn đoán như thế nào?
+
+Các bước đầu tiên để đánh giá bệnh nhân bị ngứa là hỏi bệnh sử và khám bệnh.
+Khai thác bệnh sử kỹ lưỡng có thể xác định các triệu chứng toàn thân có thể chỉ ra một bệnh lý hệ thống tiềm ẩn. Các tác nhân gây dị ứng thuốc như opioid có thể được xác định, đặc biệt nếu thời điểm bắt đầu dùng thuốc liên quan đến ngứa.
+Khám kỹ lưỡng có thể xác định nguyên nhân da liễu gây ngứa (ví dụ như ghẻ, liken đơn, pemphigoid) hoặc bằng chứng về các thay đổi da mãn tính liên quan đến ngứa. Trong các nguyên nhân da liễu gây ngứa, các tổn thương da nguyên phát thường gợi ý chẩn đoán. Bệnh nhân không có tổn thương da nguyên phát và ít có dấu hiệu gãi mạn tính nên được kiểm tra các nguyên nhân toàn thân, thần kinh và tâm lý .
+Ban điều tra có thể bao gồm:
+- Công thức máu đầy đủ/hoàn chỉnh
+- Xét nghiệm creatinine và chức năng thận
+- Xét nghiệm chức năng gan
+- Xét nghiệm chức năng tuyến giáp
+- Tốc độ lắng hồng cầu
+- Chụp X-quang ngực
+- Huyết thanh học HIV .
+
+---
+
+## Có cách điều trị nào cho chứng ngứa?
+
+Việc kiểm soát ngứa phụ thuộc vào việc xác định nguyên nhân và sau đó loại bỏ hoặc điều trị nguyên nhân để ngăn ngừa ngứa thêm. Trong nhiều trường hợp, cần phải xét nghiệm để xác định nguyên nhân; trong quá trình điều trị , có thể áp dụng các biện pháp điều trị để giảm triệu chứng ngứa.
+
+### Điều trị tại chỗ
+Ngoài liệu pháp điều trị cụ thể cho bất kỳ bệnh lý tiềm ẩn nào về da hoặc bệnh lý bên trong, phương pháp điều trị tại chỗ có thể bao gồm:
+- Băng ướt hoặc tắm nước ấm để làm mát da
+- Kem dưỡng da Calamine (có chứa phenol, có tác dụng làm mát da): tránh sử dụng trên da khô và chỉ sử dụng trong vài ngày
+- Lotion bạc hà/long não: mang lại cảm giác mát lạnh
+- [Thuốc gây tê tại chỗ](https://dermnetnz.org/topics/local-anaesthesia) , chẳng hạn như pramoxine (còn gọi là pramocaine), được bôi lên các vết ngứa nhỏ như vết côn trùng cắn
+- Sử dụng thường xuyên [các chất làm mềm da](https://dermnetnz.org/topics/emollients-and-moisturisers) , đặc biệt là khi da khô
+- [Corticosteroid bôi ngoài da](https://dermnetnz.org/topics/topical-steroid) nhẹ trong thời gian ngắn
+- [Thuốc ức chế calcineurin](https://dermnetnz.org/topics/calcineurin-inhibitors) tại chỗ cũng được sử dụng để giảm ngứa liên quan đến tình trạng viêm da
+- Doxepin dùng ngoài da, một loại [thuốc chống trầm cảm ba vòng](https://dermnetnz.org/topics/tricyclic-antidepressants) và [thuốc kháng histamine](https://dermnetnz.org/topics/antihistamines) , là thuốc chống ngứa được sử dụng trong điều trị bệnh chàm.
+Các biện pháp khác có thể hữu ích trong việc ngăn ngừa ngứa bao gồm tránh các yếu tố gây kích ứng như quần áo hoặc vải thô ráp, nhiệt độ quá cao và các chất giãn mạch nếu chúng gây ngứa (ví dụ: caffeine, [rượu](https://dermnetnz.org/topics/cutaneous-adverse-effects-of-alcohol) , gia vị). Móng tay nên được cắt ngắn và sạch sẽ. Nếu không thể cưỡng lại cơn ngứa, hãy dùng lòng bàn tay xoa vùng da bị ngứa.
+[Thuốc kháng histamine](https://dermnetnz.org/topics/antihistamines) tại chỗ không nên được sử dụng để điều trị ngứa mãn tính vì chúng có thể làm da nhạy cảm và dẫn đến [viêm da tiếp xúc dị ứng](https://dermnetnz.org/topics/allergic-contact-dermatitis) .
+
+### Liệu pháp toàn thân
+Nếu ngứa nghiêm trọng và gây rối loạn giấc ngủ, có thể cần điều trị bằng thuốc uống. Một số loại thuốc có thể giúp giảm ngứa, trong khi một số khác chỉ được dùng với mục đích an thần.
+- [Thuốc kháng histamine](https://dermnetnz.org/topics/antihistamines) hữu ích nhất trong [điều trị mề đay](https://dermnetnz.org/topics/urticaria-an-overview) , trong đó histamine được giải phóng. Việc sử dụng cho các tình trạng ngứa khác chưa được chứng minh bằng các thử nghiệm đối chứng ngẫu nhiên . Thuốc kháng histamine có tác dụng an thần có thể được sử dụng vì tác dụng an thần của chúng.
+- Doxepin và [amitriptyline](https://dermnetnz.org/topics/tricyclic-antidepressants) là thuốc chống trầm cảm ba vòng có tác dụng chống ngứa và tác động lên hệ thần kinh trung ương và ngoại biên.
+- Thuốc chống trầm cảm bốn vòng như mirtazepine và thuốc ức chế tái hấp thu serotonin có chọn lọc (paroxetine, sertraline, fluoxetine) cũng có thể giúp ích cho một số bệnh nhân bị ngứa nghiêm trọng, bao gồm cả khi ngứa do ứ mật, u lympho tế bào T , [bệnh ác tính](https://dermnetnz.org/topics/paraneoplastic-pruritus) hoặc [chứng loạn cảm da](https://dermnetnz.org/topics/cutaneous-dysaesthesia) thần kinh .
+- Thuốc chống động kinh như natri valproat, [gabapentin](https://dermnetnz.org/topics/gabapentin) và pregabalin cũng có thể có lợi cho một số bệnh nhân, ví dụ như những người bị [ngứa liên quan đến suy thận](https://dermnetnz.org/topics/uraemic-pruritus) hoặc ngứa thần kinh. Cơ chế tác dụng vẫn chưa rõ ràng.
+- Các thuốc đối kháng opioid như thuốc xịt mũi butorphanol , viên nén naltrexone và naloxone đã có hiệu quả ở những bệnh nhân bị ngứa dai dẳng liên quan đến bệnh gan, bệnh chàm dị ứng và [nổi mề đay mãn tính](https://dermnetnz.org/topics/chronic-urticaria) . Nalfurafine, một chất chủ vận kappa-opioid, cũng đã được nghiên cứu và cho thấy có tác dụng giảm ngứa liên quan đến suy thận mãn tính, tuy nhiên, thuốc này không được phổ biến rộng rãi.
+- Aspirin đôi khi có hiệu quả nếu ngứa được trung gian bởi kinin hoặc prostaglandin và được ghi nhận là có hiệu quả ở những bệnh nhân bị ngứa do bệnh đa hồng cầu nguyên phát. Lưu ý: aspirin có thể gây ra hoặc làm trầm trọng thêm tình trạng ngứa ở một số bệnh nhân.
+- [Thalidomide](https://dermnetnz.org/topics/thalidomide) đã thành công trong điều trị [bệnh ngứa dạng nốt](https://dermnetnz.org/topics/nodular-prurigo) và ngứa mãn tính ở nhiều dạng khác nhau nhưng hiếm khi được sử dụng vì có tác dụng phụ nghiêm trọng và chi phí cao.
+- [Rifampicin](https://dermnetnz.org/topics/rifampicin) có hiệu quả đối với bệnh nhân bị ngứa liên quan đến ứ mật (một số dạng bệnh gan).
+- Các báo cáo ca bệnh riêng lẻ về ngứa dữ dội liên quan đến bệnh ác tính đã báo cáo thành công với thuốc đối kháng NKR1, aprepitant (thường được sử dụng ngắn hạn để điều trị buồn nôn sau phẫu thuật hoặc do hóa trị ). Thuốc này đang được nghiên cứu để điều trị ngứa thần kinh và [ngứa dạng nốt](https://dermnetnz.org/topics/nodular-prurigo) .
+- Một số [tác nhân sinh học](https://dermnetnz.org/topics/biologics) : ví dụ, [lebrikizumab](https://dermnetnz.org/topics/lebrikizumab) đã chứng minh được tác dụng giảm ngứa liên quan đến bệnh viêm da dị ứng chỉ sau hai ngày bắt đầu điều trị.
+
+### Liệu pháp quang học
+[Liệu pháp quang trị bằng tia cực tím B (UVB)](https://dermnetnz.org/topics/uvb-phototherapy) đơn lẻ hoặc kết hợp với UVA đã được chứng minh là có hiệu quả đối với chứng ngứa liên quan đến [bệnh thận mãn tính](https://dermnetnz.org/topics/uraemic-pruritus) , [bệnh vẩy nến](https://dermnetnz.org/topics/psoriasis) , [bệnh chàm dị ứng](https://dermnetnz.org/topics/atopic-dermatitis) và [u lympho tế bào T ở da](https://dermnetnz.org/topics/cutaneous-t-cell-lymphoma) .
+
+### Liệu pháp hành vi
+[Liệu pháp hành vi](https://dermnetnz.org/topics/treatment-of-psychodermatological-disorders) có thể được sử dụng kết hợp với liệu pháp dược lý để điều chỉnh các hành vi như cơ chế đối phó và giảm căng thẳng, giúp phá vỡ chu kỳ ngứa-gãi. Một thử nghiệm đối chứng ngẫu nhiên đã cho thấy lợi ích ngắn hạn với việc giảm tần suất ngứa và gãi cũng như cải thiện cơ chế đối phó.
+
+---
+
+## Hậu quả của tình trạng ngứa là gì?
+
+Việc kiểm soát ngứa mãn tính nghiêm trọng rất khó khăn và thường đòi hỏi phải sử dụng liệu pháp kết hợp trong thời gian dài. Việc xác định và điều trị các bệnh lý tiềm ẩn gây ngứa có thể giúp ích trong quá trình này. Triệu chứng có thể nhanh chóng biến mất hoặc kéo dài trong thời gian dài.

@@ -1,0 +1,60 @@
+# Tinea faciei - thông tin bổ sung
+
+Thể loại:
+
+Nhiễm trùng
+
+SNOMED CT:
+
+240696004
+
+**[Nhiễm trùng](https://dermnetnz.org/topics/topics?category=Infections)**
+
+
+# **Tinea faciei**
+
+Được tạo ra năm 2003; được cập nhật bởi Tiến sĩ Ian Coulson, Bác sĩ da liễu, Vương quốc Anh (năm 2024).Được biên tập bởi bộ phận nội dung DermNet.
+
+---
+
+## Bệnh nấm da mặt là gì?
+
+Tinea faciei là tên gọi chung cho tình trạng nhiễm nấm [da](https://dermnetnz.org/topics/mycology-of-dermatophyte-infections) mặt . Nó không bao gồm nhiễm trùng ở vùng râu và ria mép, được gọi là [tinea barbae](https://dermnetnz.org/topics/tinea-barbae) . Tinea faciei không phổ biến và thường bị chẩn đoán nhầm lúc đầu.
+Nấm da mặt có thể do một loại nấm ưa người (ở người) như Trichophyton rubrum (T. rubrum). Nhiễm trùng thường bắt nguồn từ bàn chân (tinea pedis) hoặc móng (tinea unguium). Nấm ưa động vật (ở động vật) như Microsporum canis (M. canis) lây nhiễm từ mèo và chó, và nấm T. verrucosum, từ gia súc, cũng rất phổ biến.
+![Tinea faciei](https://dermnetnz.org/assets/Uploads/fungal/tfgir.jpg)
+![Tinea faciei](https://dermnetnz.org/assets/Uploads/fungal/tcchi.jpg)
+![Tinea faciei](https://dermnetnz.org/assets/Uploads/fungal/tinea-faciei2.jpg)
+![Tinea faciei](https://dermnetnz.org/assets/Uploads/fungal/s/tinea-faciei1.jpg)
+![Kerion](https://dermnetnz.org/assets/Uploads/fungal/tfker.jpg)
+![Tinea faciei](https://dermnetnz.org/assets/Uploads/fungal/tfldy.jpg)
+
+---
+
+## Đặc điểm lâm sàng của bệnh tinea faciei
+
+Nấm mặt ( tinea faciei) tương tự như nấm thân ( [tinea corporis](https://dermnetnz.org/topics/tinea-corporis) ). Bệnh có thể cấp tính (khởi phát đột ngột và lan rộng nhanh) hoặc mạn tính (phát ban nhẹ, hầu như không viêm, lan rộng chậm ). Tổn thương là các mảng tròn hoặc hình bầu dục, đỏ, có vảy, thường ít đỏ và vảy hơn ở giữa hoặc đã lành ở giữa. Tổn thương thường không đối xứng và thường ở một bên. Bệnh thường nặng hơn khi tiếp xúc với ánh nắng mặt trời. Bệnh cũng có thể biểu hiện dưới dạng [kerion (](https://dermnetnz.org/topics/kerion) [áp xe](https://dermnetnz.org/topics/cutaneous-abscess) nấm ).
+Điều cần thiết là phải tìm và điều trị nhiễm trùng nấm da ở nơi khác (xem ở bàn chân, bẹn và móng tay) và trong trường hợp nghi ngờ nhiễm trùng do động vật, hãy xác định, cách ly và điều trị động vật gây bệnh.
+Bệnh nấm da mặt thường bị chẩn đoán nhầm là tình trạng không phải do nấm như:
+- [Viêm da dị ứng](https://dermnetnz.org/topics/atopic-dermatitis)
+- [Viêm da tiết bã nhờn](https://dermnetnz.org/topics/seborrhoeic-dermatitis)
+- [Bệnh vẩy nến](https://dermnetnz.org/topics/psoriasis)
+- [Bệnh trứng cá đỏ](https://dermnetnz.org/topics/rosacea)
+- [Dày sừng quang hóa](https://dermnetnz.org/topics/actinic-keratosis)
+- [Viêm da dị ứng tiếp xúc](https://dermnetnz.org/topics/allergic-contact-dermatitis)
+- [Viêm da quanh miệng](https://dermnetnz.org/topics/periorificial-dermatitis)
+- [Bệnh lupus ban đỏ da](https://dermnetnz.org/topics/cutaneous-lupus-erythematosus)
+- [Sự phun trào ánh sáng đa hình](https://dermnetnz.org/topics/polymorphic-light-eruption)
+Chẩn đoán sai đặc biệt phổ biến ở những người được điều trị bằng steroid tại chỗ hoặc steroid uống ( [bệnh hắc lào không rõ nguyên nhân](https://dermnetnz.org/topics/tinea-incognito) ).
+
+---
+
+## Chẩn đoán bệnh nấm da mặt
+
+Chẩn đoán bệnh nấm da mặt được xác nhận bằng kính hiển vi và nuôi cấy hoặc PCR mẫu cạo da.
+
+---
+
+## Điều trị bệnh nấm da mặt
+
+Bệnh nấm da mặt thường được điều trị bằng [thuốc chống nấm tại chỗ](https://dermnetnz.org/topics/topical-antifungal-medication) , nhưng nếu điều trị không thành công, có thể cân nhắc dùng [thuốc chống nấm đường uống , bao gồm](https://dermnetnz.org/topics/oral-antifungal-medication) [terbinafine](https://dermnetnz.org/topics/terbinafine) và [itraconazole](https://dermnetnz.org/topics/itraconazole) .
+Trong những năm gần đây, [tình trạng kháng thuốc chống nấm](https://dermnetnz.org/topics/antifungal-drug-resistance) đã khiến việc điều trị trở nên khó khăn hơn.

@@ -1,0 +1,142 @@
+# Viêm mô mỡ — thông tin bổ sung
+
+Thể loại:
+
+Viêm
+
+SNOMED CT:
+
+22125009, 20196005, 56580008
+
+**[Viêm](https://dermnetnz.org/topics/topics?category=Inflammation)**
+
+
+# **Viêm mô mỡ dưới da**
+
+Tác giả: Tiến sĩ Amy Stanway, Bác sĩ da liễu, Bệnh viện Waikato, Hamilton, New Zealand, 2002. Được cập nhật bởi Phó giáo sư Amanda Oakley, tháng 2 năm 2016.
+
+---
+
+## Viêm mô mỡ dưới da là gì?
+
+Viêm mô mỡ dưới da là một nhóm các tình trạng liên quan đến tình trạng viêm mô mỡ dưới da . Mặc dù có nhiều nguyên nhân khác nhau, hầu hết các dạng viêm mô mỡ dưới da đều có biểu hiện lâm sàng giống nhau. Chẩn đoán được xác định bằng [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) , vì có các đặc điểm vi thể đặc trưng tùy thuộc vào nguyên nhân. Dạng viêm mô mỡ dưới da phổ biến nhất là [hồng ban nút](https://dermnetnz.org/topics/erythema-nodosum) .
+Viêm mô mỡ được phân loại thành chủ yếu là viêm mô mỡ vách ngăn hoặc chủ yếu là viêm mô mỡ tiểu thùy tùy thuộc vào vị trí viêm vi thể nặng nhất. Hầu hết các loại viêm mô mỡ đều có cả viêm vách ngăn (sớm) và viêm tiểu thùy (muộn). Phân loại sâu hơn dựa trên việc có hay không có [viêm mạch](https://dermnetnz.org/topics/cutaneous-vasculitis) dưới da và loại viêm được ghi nhận ( bạch cầu trung tính , lympho bào , mô bào , u hạt ).
+
+---
+
+## Phân loại viêm mô mỡ dưới da
+
+
+### Chủ yếu là viêm mô mỡ vách ngăn kèm viêm mạch
+- [Viêm mạch bạch cầu](https://dermnetnz.org/topics/cutaneous-vasculitis)
+- [Viêm tắc tĩnh mạch nông](https://dermnetnz.org/topics/superficial-thrombophlebitis)
+- [Viêm đa động mạch dạng nốt ở da](https://dermnetnz.org/topics/cutaneous-polyarteritis-nodosa)
+- [Bệnh Behcet](https://dermnetnz.org/topics/behcet-disease)
+
+### Chủ yếu là viêm mô mỡ vách ngăn mà không có viêm mạch
+- [Ban đỏ nốt](https://dermnetnz.org/topics/erythema-nodosum)
+- Viêm mô mỡ liên quan đến [tác nhân sinh học](https://dermnetnz.org/topics/biological-agents-for-psoriasis)
+- [Xơ vữa động mạch](https://dermnetnz.org/topics/lipodermatosclerosis) (đôi khi)
+- Viêm mô mỡ sau xạ trị
+- [Bệnh hoại tử mỡ](https://dermnetnz.org/topics/necrobiosis-lipoidica)
+- [Xơ cứng bì](https://dermnetnz.org/topics/scleroderma) , có thể khu trú ( [morphoea](https://dermnetnz.org/topics/morphoea) profunda)
+- U hạt vòng dưới [da](https://dermnetnz.org/topics/granuloma-annulare)
+- [Nốt thấp khớp](https://dermnetnz.org/topics/rheumatoid-arthritis-and-the-skin)
+- [U hạt vàng hoại tử](https://dermnetnz.org/topics/non-langerhans-cell-histiocytosis)
+
+### Chủ yếu là viêm mô mỡ tiểu thùy kèm viêm mạch
+- Hồng ban nút bệnh phong ( [bệnh phong](https://dermnetnz.org/topics/leprosy) )
+- Hiện tượng Lucio ( [bệnh phong](https://dermnetnz.org/topics/leprosy) )
+- [Ban đỏ cứng Bazin](https://dermnetnz.org/topics/cutaneous-tuberculosis) (liên quan đến [bệnh lao](https://dermnetnz.org/topics/cutaneous-tuberculosis) )
+- [](https://dermnetnz.org/topics/cutaneous-tuberculosis) [Các dạng viêm mô mỡ nhiễm trùng](https://dermnetnz.org/topics/infective-panniculitis) khác (đôi khi)
+- Viêm mô mỡ tiểu thùy trung tính liên quan đến [viêm khớp dạng thấp](https://dermnetnz.org/topics/rheumatoid-arthritis-and-the-skin)
+- [Bệnh Crohn](https://dermnetnz.org/topics/crohn-skin-disease)
+- [Viêm mạch dạng nốt](https://dermnetnz.org/topics/nodular-vasculitis)
+- Bằng cách loại trừ, [viêm mô mỡ dạng nốt](https://dermnetnz.org/topics/nodular-panniculitis)
+
+### Chủ yếu là viêm mô mỡ tiểu thùy không có viêm mạch
+- Viêm mô mỡ dưới da ( [xơ cứng bì mỡ](https://dermnetnz.org/topics/lipodermatosclerosis) )
+- Viêm mô mỡ trung tính/ [Hội chứng Sweet dưới da](https://dermnetnz.org/topics/acute-febrile-neutrophilic-dermatosis)
+- Viêm mô mỡ tăng bạch cầu ái toan
+- [vôi hóa mô liên kết](https://dermnetnz.org/topics/calciphylaxis)
+- Bệnh oxalat
+- [Sclerema neonatorum](https://dermnetnz.org/topics/sclerema-neonatorum)
+- [Hoại tử mỡ dưới da ở trẻ sơ sinh](https://dermnetnz.org/topics/subcutaneous-fat-necrosis-of-the-newborn)
+- Viêm mô mỡ dưới da do lạnh
+- [Viêm mô mỡ lupus](https://dermnetnz.org/topics/cutaneous-lupus-erythematosus)
+- Viêm mô mỡ trong [viêm da cơ](https://dermnetnz.org/topics/adult-onset-dermatomyositis)
+- [Viêm mô mỡ tụy](https://dermnetnz.org/topics/pancreatic-panniculitis)
+- [Thiếu hụt alpha-1-antitrypsin](https://dermnetnz.org/topics/alpha-1-antitrypsin-deficiency-panniculitis)
+- [Viêm mô mỡ nhiễm trùng](https://dermnetnz.org/topics/infective-panniculitis) (đôi khi)
+- Viêm mô mỡ thực tế
+- [Bệnh sarcoidosis](https://dermnetnz.org/topics/sarcoidosis) dưới da (bệnh Rosai-Dorfman)
+- Viêm mô mỡ dưới da do chấn thương
+- Viêm mô mỡ thiếu máu cục bộ
+- [Teo mỡ](https://dermnetnz.org/topics/lipodystrophy)
+- Viêm mô mỡ do tiêm [steroid](https://dermnetnz.org/topics/intralesional-steroid-injection) vào tổn thương
+- [Viêm](https://dermnetnz.org/topics/gout) mô mỡ do gút
+- Viêm mô mỡ tích tụ tinh thể
+- [Viêm mô mỡ dưới da thực bào](https://dermnetnz.org/topics/cytophagic-histiocytic-panniculitis)
+- Viêm mô mỡ giả xơ cứng sau chiếu xạ
+- Viêm mô mỡ liên quan đến [bệnh halogen da](https://dermnetnz.org/topics/halogenoderma) (iodide, bromide)
+- Bằng cách loại trừ, [viêm mô mỡ dạng nốt](https://dermnetnz.org/topics/nodular-panniculitis)
+
+### Viêm mô mỡ trung tính
+- [Viêm mô mỡ tụy](https://dermnetnz.org/topics/pancreatic-panniculitis)
+- [Thiếu hụt alpha-1-antitrypsin](https://dermnetnz.org/topics/alpha-1-antitrypsin-deficiency-panniculitis)
+- Nhiễm trùng — với huyết khối và thuyên tắc nhiễm trùng
+- Viêm mô mỡ liên quan đến [viêm khớp dạng thấp](https://dermnetnz.org/topics/rheumatoid-arthritis-and-the-skin) — kèm [theo viêm mạch](https://dermnetnz.org/topics/cutaneous-vasculitis)
+- Viêm mô mỡ do chất ức chế BRAF , [vemurafenib](https://dermnetnz.org/topics/vemurafenib)
+- Viêm mô mỡ thực tế
+- Ban đỏ cứng (liên quan đến [bệnh lao](https://dermnetnz.org/topics/cutaneous-tuberculosis) )
+- [Viêm da cấp tính sốt cao](https://dermnetnz.org/topics/acute-febrile-neutrophilic-dermatosis) dưới da ( hội chứng Sweet ) có giảm bạch cầu nhưng không có viêm mạch thực sự
+- [Ban đỏ dạng nốt](https://dermnetnz.org/topics/erythema-nodosum) sớm ; tình trạng này có viêm vách ngăn. Lưu ý rằng các tổn thương ban đỏ dạng nốt muộn hơn có thâm nhiễm lympho bào .
+
+---
+
+## Các đặc điểm lâm sàng của viêm mô mỡ là gì?
+
+Viêm mô mỡ thường biểu hiện bằng:
+- Các nốt sần và mảng bám dày và cứng
+- Da bên trên bị ban đỏ hoặc có sắc tố
+- Đau và nhạy cảm.
+Đôi khi, các tổn thương sẽ để lại tình trạng teo da cục bộ (loạn dưỡng mỡ).
+![Viêm mô mỡ dưới da](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/pan-feet.jpg)
+![Viêm mô mỡ dưới da](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/s/pannic2.jpg)
+![Ban đỏ nốt](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/s/pannic3.jpg)
+
+### Viêm mô mỡ có đặc điểm toàn thân
+Các triệu chứng kèm theo như sốt , khó chịu và đau khớp thường gặp ở bệnh nhân viêm mô mỡ dưới da. Khi những triệu chứng này xuất hiện rõ, các chẩn đoán cần xem xét bao gồm:
+- [Viêm mạch da](https://dermnetnz.org/topics/cutaneous-vasculitis)
+- [Viêm mô mỡ nhiễm trùng](https://dermnetnz.org/topics/infective-panniculitis)
+- [Bệnh da liễu trung tính sốt cấp tính](https://dermnetnz.org/topics/acute-febrile-neutrophilic-dermatosis) dưới da [](https://dermnetnz.org/topics/acute-febrile-neutrophilic-dermatosis)
+- [Viêm mô mỡ liên quan đến bệnh tuyến tụy](https://dermnetnz.org/topics/pancreatic-panniculitis)
+- [Viêm mô mỡ do thiếu hụt Alpha-1-antitrypsin](https://dermnetnz.org/topics/alpha-1-antitrypsin-deficiency-panniculitis)
+- [Viêm mô mỡ dạng sợi thực bào](https://dermnetnz.org/topics/cytophagic-histiocytic-panniculitis) .
+
+---
+
+## Viêm mô mỡ được chẩn đoán như thế nào?
+
+Viêm mô mỡ dưới da được chẩn đoán và phân loại dựa trên sự kết hợp các đặc điểm lâm sàng, kết quả [sinh thiết](https://dermnetnz.org/topics/skin-biopsy) và nuôi cấy vi sinh. Đôi khi cần phải làm thêm các xét nghiệm khác (như chụp X-quang ngực để đánh giá hồng ban nút và nồng độ alpha-1-antitrypsin).
+Giải phẫu bệnh có thể cho thấy tình trạng viêm ở dạng thùy, vách ngăn hoặc hỗn hợp, có hoặc không có tổn thương mạch máu và chủ yếu là bạch cầu trung tính, lympho hoặc u hạt.
+
+---
+
+## Điều trị viêm mô mỡ dưới da là gì?
+
+Điều trị viêm mô mỡ bao gồm:
+- Điều trị nguyên nhân cơ bản, nếu biết (ví dụ, ngừng thuốc, điều trị [nhiễm trùng](https://dermnetnz.org/topics/infective-panniculitis) )
+- Nghỉ ngơi và nâng cao vùng bị ảnh hưởng
+- [Quần tất nén](https://dermnetnz.org/topics/compression-therapy) (áp suất 18–25 mm Hg nếu có thể chịu được)
+- Giảm đau bằng thuốc chống viêm như aspirin, ibuprofen hoặc diclofenac
+- [Steroid toàn thân](https://dermnetnz.org/topics/systemic-steroids) (uống hoặc tiêm) để giải quyết tình trạng viêm
+- [Thuốc kháng sinh](https://dermnetnz.org/topics/antibiotics) chống viêm bao gồm [tetracycline](https://dermnetnz.org/topics/tetracycline) hoặc [hydroxychloroquine](https://dermnetnz.org/topics/hydroxychloroquine)
+- [Kali iodua](https://dermnetnz.org/topics/potassium-iodide)
+- Phẫu thuật cắt bỏ các tổn thương dai dẳng hoặc loét.
+
+---
+
+## Hậu quả của viêm mô mỡ là gì?
+
+Kết quả phụ thuộc vào nguyên nhân gây viêm. Sau giai đoạn viêm kéo dài vài tuần đến vài tháng, viêm mô mỡ thường thuyên giảm. Tình trạng này có thể tái phát. Một số dạng viêm mô mỡ không để lại sẹo, nhưng các dạng viêm mô mỡ phá hủy thường để lại vết lõm vĩnh viễn trên da.

@@ -1,0 +1,89 @@
+# Viêm da tiếp diễn của Hallopeau — thông tin bổ sung
+
+Thể loại:
+
+Tự miễn/tự viêm
+
+SNOMED CT:
+
+83839005
+
+**[Tự miễn/tự viêm](https://dermnetnz.org/topics/topics?category=Autoimmune/autoinflammatory)**
+
+
+# **Viêm da đầu chi liên tục Hallopeau**
+
+Tác giả: Ken Hiu-Kan Ip, Sinh viên Y khoa, Đại học Auckland, New Zealand, 2013.
+
+---
+
+## Viêm da tiếp diễn Hallopeau là gì?
+
+Viêm da tiếp diễn Hallopeau (ACH) là một bệnh viêm hiếm gặp, đặc trưng bởi các mụn mủ bắt đầu ở đầu ngón tay và ngón chân . Các mụn mủ có thể có mức độ khác nhau trong quá trình tái phát mãn tính .
+Căn bệnh này được đặt theo tên của bác sĩ da liễu người Pháp François Henri Hallopeau, người đã mô tả hội chứng này vào năm 1880. Nó còn được gọi là viêm da tái phát, viêm da đầu chi và viêm mủ đầu chi.
+
+---
+
+## Ai có nguy cơ mắc bệnh viêm da tiếp diễn Hallopeau?
+
+Viêm da tiếp diễn Hallopeau thường gặp nhất ở phụ nữ trưởng thành. Tuy nhiên, bệnh cũng có thể gặp ở nam giới, trẻ em và người cao tuổi.
+
+---
+
+## Các đặc điểm lâm sàng của bệnh viêm da tiếp diễn Hallopeau là gì?
+
+Viêm da tiếp diễn Hallopeau thường do chấn thương hoặc nhiễm trùng tại vị trí đốt xương xa (đầu ngón tay ). 80% chỉ bắt đầu ở một ngón tay, phổ biến nhất là ngón cái.
+Trong các đợt bùng phát cấp tính , da ở đốt xa ngón tay trở nên đỏ, đóng vảy và xuất hiện các mụn mủ nhỏ. Các mụn mủ này thường liên kết với nhau và khi vỡ ra, để lộ vùng da đỏ, đau và bóng nhờn, sau đó hình thành các mụn mủ mới .
+Mụn mủ ở nền móng và vị trí phát triển của nó (ma trận) có thể dẫn đến bệnh loạn dưỡng móng ( dị dạng ) và mất móng (mất móng).
+Bệnh có thể tiến triển chậm, hiếm khi lan đến gần bàn tay, cẳng tay và/hoặc bàn chân. Có thể xảy ra tình trạng tiêu xương (phá hủy xương) dẫn đến đầu ngón tay hoặc ngón chân teo nhỏ và thon.
+Ở người lớn, viêm da tiếp diễn Hallopeau có thể tiến triển thành [vảy nến mủ](https://dermnetnz.org/topics/generalised-pustular-psoriasis) toàn thân . Bệnh cũng có thể ảnh hưởng đến các bề mặt niêm mạc như kết mạc , lưỡi và niệu đạo. [](https://dermnetnz.org/topics/generalised-pustular-psoriasis)
+![Viêm da đầu chi liên tục Hallopeau](https://dermnetnz.org/assets/Uploads/scaly/acropustulosis-03.jpg)
+![Viêm da đầu chi liên tục Hallopeau](https://dermnetnz.org/assets/Uploads/scaly/acropustulosis-05.jpg)
+![Viêm da đầu chi liên tục Hallopeau](https://dermnetnz.org/assets/Uploads/scaly/s/hallopeaupeuk.jpg)
+![Viêm da đầu chi liên tục Hallopeau](https://dermnetnz.org/assets/Uploads/scaly/acropustulosis-04.jpg)
+![Viêm da đầu chi liên tục Hallopeau](https://dermnetnz.org/assets/Uploads/scaly/acropustulosis-06.jpg)
+![Viêm da đầu chi liên tục Hallopeau](https://dermnetnz.org/assets/Uploads/scaly/s/hallopeau6.jpg)
+
+---
+
+## Nguyên nhân nào gây ra bệnh viêm da tiếp diễn Hallopeau?
+
+Nguyên nhân gây viêm da đầu chi Hallopeau vẫn chưa được hiểu rõ hoàn toàn. Bệnh này được coi là một biến thể của [bệnh mụn mủ lòng bàn tay và bàn chân](https://dermnetnz.org/topics/palmoplantar-pustulosis) và liên quan đến [bệnh vẩy nến](https://dermnetnz.org/topics/psoriasis) . Bệnh được phân loại là một rối loạn tự miễn , trong đó có rối loạn miễn dịch cục bộ ở da.
+
+---
+
+## Viêm da tiếp diễn Hallopeau được chẩn đoán như thế nào?
+
+Viêm da tiếp diễn Hallopeau được chẩn đoán dựa trên biểu hiện lâm sàng và hình ảnh mô học của [sinh thiết](https://dermnetnz.org/topics/skin-biopsy) da được kiểm tra dưới kính hiển vi.
+Đặc điểm bệnh lý đặc trưng là mụn mủ dạng bọt biển trong biểu bì chứa đầy bạch cầu trung tính.
+Không có xét nghiệm cụ thể nào để xác nhận chẩn đoán. Các xét nghiệm khác cần xem xét bao gồm nhuộm Gram để loại trừ [nhiễm trùng do vi khuẩn](https://dermnetnz.org/topics/bacterial-skin-infections) và chuẩn bị mụn mủ [bằng kali hydroxit (KOH) để loại trừ](https://dermnetnz.org/topics/mycology-of-dermatophyte-infections) [nhiễm trùng nấm](https://dermnetnz.org/topics/fungal-skin-infections) . Nuôi cấy dịch mủ thường vô trùng, nhưng nhiễm trùng thứ phát cũng có thể xảy ra.
+
+---
+
+## Điều trị bệnh viêm da tiếp diễn Hallopeau như thế nào?
+
+Vì bệnh viêm da tiếp diễn Hallopeau rất hiếm gặp nên có rất ít bằng chứng để đưa ra quyết định điều trị.
+Một số phương pháp điều trị được báo cáo trong tài liệu y khoa là có hiệu quả bao gồm:
+
+### Liệu pháp tại chỗ
+- [Corticosteroid tại chỗ](https://dermnetnz.org/topics/topical-steroid)
+- [Kem 5-Fluorouracil](https://dermnetnz.org/topics/5-fluorouracil-cream)
+- [Tacrolimus](https://dermnetnz.org/topics/tacrolimus) và [pimecrolimus](https://dermnetnz.org/topics/pimecrolimus)
+- [Calcipotriol](https://dermnetnz.org/topics/calcipotriol)
+![Trước khi điều trị](https://dermnetnz.org/assets/Uploads/scaly/acropustulosis-01.jpg)
+![Sau khi sử dụng clobetasol trong 2 tháng](https://dermnetnz.org/assets/Uploads/scaly/acropustulosis-02.jpg)
+
+### Liệu pháp toàn thân
+- [Methotrexate](https://dermnetnz.org/topics/methotrexate)
+- [Ciclosporin](https://dermnetnz.org/topics/ciclosporin)
+- [Acitretin](https://dermnetnz.org/topics/acitretin)
+- [PUVA (quang hóa trị liệu)](https://dermnetnz.org/topics/puva-photochemotherapy) (thường là [PUVA nước tắm](https://dermnetnz.org/topics/bathwater-puva) )
+- Thuốc chẹn yếu tố hoại tử khối u ( TNF ) ( [infliximab](https://dermnetnz.org/topics/infliximab-for-psoriasis) , [adalimumab](https://dermnetnz.org/topics/adalimumab-for-psoriasis) , [etanercept](https://dermnetnz.org/topics/etanercept-for-psoriasis) ). Tuy nhiên, thuốc chẹn TNF cũng có thể gây ra mụn mủ lòng bàn tay, bàn chân và có thể là viêm da đầu chi Hallopeau.
+- Kháng thể đơn dòng anti-IL-17 secukinumab đã được báo cáo là có hiệu quả trong trường hợp viêm da đầu chi của Hallopeau
+- Liệu pháp xạ trị liều cao đã được báo cáo là có hiệu quả trong ít nhất một trường hợp.
+
+---
+
+## Tiên lượng thế nào?
+
+Viêm da đầu chi Hallopeau là một bệnh mãn tính có thể phá hủy móng và xương bên dưới như đã mô tả ở trên. Mặc dù có một số báo cáo thành công với các thuốc thử nghiệm như infliximab, nhưng bệnh thường không đáp ứng với điều trị.

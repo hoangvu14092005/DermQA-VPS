@@ -1,0 +1,84 @@
+# Bệnh chàm herpeticum — thông tin bổ sung
+
+Thể loại:
+
+Nhiễm trùng, Chàm
+
+SNOMED CT:
+
+186535001
+
+**[Nhiễm trùng, Chàm](https://dermnetnz.org/topics/topics?category=Infections)**
+
+
+# **Chàm herpes**
+
+Tác giả: Tiến sĩ Chin-Yun Lin, Chuyên gia da liễu, Bệnh viện Auckland, New Zealand, 2010. Bản cập nhật DermNet tháng 5 năm 2023.
+
+---
+
+## Bệnh chàm herpeticum là gì?
+
+Chàm herpes là một bệnh nhiễm trùng do virus lan tỏa, đặc trưng bởi sốt và các đám mụn nước ngứa hoặc các vết trợt lõm . Bệnh thường được xem là biến chứng của [viêm da dị ứng/chàm](https://dermnetnz.org/topics/atopic-dermatitis) . [](https://dermnetnz.org/topics/atopic-dermatitis)
+Bệnh chàm herpeticum còn được gọi là bệnh phát ban dạng thủy đậu Kaposi vì lần đầu tiên được Kaposi mô tả vào năm 1887, người cho rằng bệnh này giống với [bệnh thủy đậu/varicella](https://dermnetnz.org/topics/chickenpox) .
+
+---
+
+## Nguyên nhân gây ra bệnh chàm herpeticum là gì?
+
+Hầu hết các trường hợp mắc bệnh chàm herpeticum là do Herpes simplex loại 1 hoặc 2.
+Chàm herpes thường xuất hiện trong đợt nhiễm trùng [Herpes simplex](https://dermnetnz.org/topics/herpes-simplex) ( herpes nguyên phát ) đầu tiên. Các triệu chứng xuất hiện từ 5–12 ngày sau khi tiếp xúc với người bị nhiễm bệnh, người này có thể có hoặc không có vết loét lạnh.
+Chàm herpes cũng có thể làm phức tạp thêm tình trạng herpes tái phát . Tuy nhiên, các đợt tái phát chàm herpes là rất hiếm gặp.
+Chàm herpes có thể ảnh hưởng đến cả nam và nữ ở mọi lứa tuổi, nhưng thường gặp hơn ở trẻ sơ sinh và trẻ em bị [viêm da dị ứng](https://dermnetnz.org/topics/atopic-dermatitis) . Bệnh nhân bị viêm da dị ứng dường như có khả năng miễn dịch thấp với nhiễm trùng herpes. Viêm da cơ bản của họ có thể từ nhẹ đến nặng, hoạt động hoặc không hoạt động.
+Chàm herpes còn được gọi là phát ban dạng thủy đậu Kaposi khi sự phá hủy hàng rào bảo vệ da không phải do chàm. Ví dụ về các tình trạng không phải chàm dễ dẫn đến nhiễm trùng herpes khu trú nghiêm trọng là:
+- [Bỏng nhiệt](https://dermnetnz.org/topics/thermal-burn)
+- [Pemphigus thông thường](https://dermnetnz.org/topics/pemphigus-vulgaris)
+- [Bệnh Darier](https://dermnetnz.org/topics/darier-disease)
+- [Bệnh pemphigus gia đình lành tính](https://dermnetnz.org/topics/benign-familial-pemphigus)
+- [U lympho tế bào T ở da](https://dermnetnz.org/topics/cutaneous-t-cell-lymphoma) / mycosis fungoides
+- [Bệnh vảy cá](https://dermnetnz.org/topics/ichthyosis) .
+Đôi khi, các loại virus khác cũng có thể gây ra tình trạng phát ban tương tự, chẳng hạn như [bệnh chàm coxsackium](https://dermnetnz.org/topics/eczema-coxsackium) do virus coxsackie A16 (nguyên nhân gây [bệnh tay chân miệng](https://dermnetnz.org/topics/hand-foot-and-mouth-disease) ).
+Vì [bệnh đậu mùa](https://dermnetnz.org/topics/smallpox) đã được loại trừ, nên tình trạng đậu mùa lan tỏa do tiêm vắc-xin đậu mùa hiện rất hiếm gặp. Bệnh được báo cáo là rất nghiêm trọng, với tỷ lệ tử vong lên tới 50%.
+
+---
+
+## Các đặc điểm lâm sàng của bệnh chàm herpeticum là gì?
+
+Chàm herpes khởi phát với các cụm mụn nước ngứa và đau. Bệnh có thể ảnh hưởng đến bất kỳ vị trí nào nhưng thường gặp nhất ở mặt và cổ. Mụn nước có thể xuất hiện ở vùng da bình thường hoặc vùng da đang bị viêm da dị ứng hoặc một bệnh ngoài da khác. Các mảng da mới hình thành và lan rộng trong vòng 7–10 ngày và hiếm khi lan rộng khắp cơ thể.
+Bệnh nhân không khỏe, sốt và sưng hạch bạch huyết tại chỗ.
+- Các mụn nước có dạng đơn hình , nghĩa là tất cả chúng đều trông giống nhau.
+- Chúng có thể chứa đầy chất lỏng màu vàng trong suốt hoặc chất mủ đặc .
+- Chúng thường có màu đỏ, tím hoặc đen, dính máu.
+- Các mụn nước mới có vết lõm ở giữa (rốn).
+- Họ có thể khóc hoặc chảy máu.
+- Các mụn nước cũ đóng vảy và hình thành vết loét (xói mòn)
+- Các tổn thương sẽ lành trong vòng 2–6 tuần.
+- Trong những trường hợp nghiêm trọng khi da bị nhiễm trùng, sẹo trắng nhỏ có thể tồn tại lâu dài.
+Nhiễm trùng thứ phát do [tụ cầu](https://dermnetnz.org/topics/staphylococcal-skin-infection) hoặc [liên cầu](https://dermnetnz.org/topics/streptococcal-skin-infections) có thể dẫn đến [bệnh chốc lở](https://dermnetnz.org/topics/impetigo) và [viêm mô](https://dermnetnz.org/topics/cellulitis) tế bào . [](https://dermnetnz.org/topics/staphylococcal-skin-infection) [](https://dermnetnz.org/topics/streptococcal-skin-infections) [](https://dermnetnz.org/topics/impetigo) [](https://dermnetnz.org/topics/cellulitis)
+Bệnh chàm herpeticum nặng có thể ảnh hưởng đến nhiều cơ quan, bao gồm mắt, não, phổi và gan. Bệnh hiếm khi gây tử vong.
+![Chàm herpes](https://dermnetnz.org/assets/Uploads/dermatitis/ecz-herp1.jpg)
+![Chàm herpes](https://dermnetnz.org/assets/Uploads/dermatitis/ecz-herp2.jpg)
+![Chàm herpes](https://dermnetnz.org/assets/Uploads/dermatitis/ecz-herp3.jpg)
+[Xem thêm hình ảnh về bệnh chàm herpeticum](https://dermnetnz-org.translate.goog/topics/eczema-herpeticum-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp) ...
+
+---
+
+## Bệnh chàm herpeticum được chẩn đoán như thế nào?
+
+Chàm herpes có thể được chẩn đoán lâm sàng khi bệnh nhân bị viêm da dị ứng đã biết xuất hiện các mụn nước đơn hình , đau nhức, tập trung thành cụm , kèm theo sốt và khó chịu. Nhiễm virus có thể được xác nhận bằng cách lấy mẫu bệnh phẩm virus bằng cách cạo phần gốc của mụn nước mới. Có một số [xét nghiệm trong phòng thí nghiệm .](https://dermnetnz.org/topics/laboratory-tests-for-viral-infections) [](https://dermnetnz.org/topics/laboratory-tests-for-viral-infections)
+- Văn hóa virus
+- Nhuộm kháng thể huỳnh quang trực tiếp
+- Giải trình tự PCR ( Phản ứng chuỗi polymerase )
+- [Phết tế bào Tzank](https://dermnetnz.org/topics/tzanck-smear) cho thấy các tế bào khổng lồ đa nhân biểu mô và tình trạng phân tách tế bào (tách tế bào)
+Cũng nên lấy mẫu xét nghiệm vi khuẩn để soi dưới kính hiển vi và nuôi cấy vì bệnh chàm herpes có thể giống [bệnh chốc lở](https://dermnetnz.org/topics/impetigo) và có thể trở nên phức tạp do [nhiễm trùng thứ phát do vi khuẩn](https://dermnetnz.org/topics/wound-infections) .
+[Sinh thiết da cho thấy](https://dermnetnz.org/topics/skin-biopsy) [những thay đổi bệnh lý](https://dermnetnz.org/topics/herpes-virus-infection-pathology) đặc biệt .
+
+---
+
+## Phương pháp điều trị bệnh chàm herpeticum là gì?
+
+Chàm herpes được coi là một trong số ít trường hợp cấp cứu về da liễu. Việc điều trị kịp thời bằng thuốc kháng vi-rút có thể giúp bệnh nhân không cần phải nhập viện.
+Uống [aciclovir](https://dermnetnz.org/topics/aciclovir) 400–800 mg, 5 lần/ngày, hoặc nếu có sẵn, valaciclovir 1 g, 2 lần/ngày, trong 10–14 ngày hoặc cho đến khi tổn thương lành. Aciclovir tiêm tĩnh mạch được chỉ định nếu bệnh nhân quá yếu không thể uống thuốc viên, hoặc nếu tình trạng nhiễm trùng trở nặng mặc dù đã điều trị.
+Nhiễm trùng da thứ phát do vi khuẩn được điều trị bằng [kháng sinh](https://dermnetnz.org/topics/antibiotics) toàn thân . [](https://dermnetnz.org/topics/antibiotics)
+[](https://dermnetnz.org/topics/topical-steroid) Trước đây, [steroid bôi ngoài da](https://dermnetnz.org/topics/topical-steroid) không được khuyến khích sử dụng nhưng bằng chứng gần đây cho thấy chúng an toàn khi sử dụng và có thể cần thiết để điều trị viêm da dị ứng đang hoạt động.
+Tham khảo ý kiến ​​bác sĩ nhãn khoa khi phát hiện hoặc nghi ngờ có tình trạng liên quan đến mí mắt hoặc mắt.

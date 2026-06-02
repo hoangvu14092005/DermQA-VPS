@@ -1,0 +1,88 @@
+# Nấm da ẩn danh — thông tin bổ sung
+
+Thể loại:
+
+Nhiễm trùng
+
+SNOMED CT:
+
+238435009, 16314421000119103
+
+**[Nhiễm trùng](https://dermnetnz.org/topics/topics?category=Infections)**
+
+
+# **Nấm da ẩn danh**
+
+Tác giả: Giáo sư danh dự Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand. 2003. Cập nhật bởi Tiến sĩ Jannet Gomez, tháng 11 năm 2017.
+
+---
+
+## Bệnh nấm da ẩn là gì?
+
+Tinea incognito là tên gọi của một loại [nhiễm trùng da do nấm](https://dermnetnz.org/topics/fungal-skin-infections) khi biểu hiện lâm sàng bị thay đổi do điều trị không đúng cách, thường là kem [bôi steroid](https://dermnetnz.org/topics/topical-steroid) . Nó còn được gọi là tinea biến đổi steroid. Kết quả là tình trạng nhiễm trùng ban đầu sẽ lan rộng dần dần và có thể giống với các bệnh lý da liễu khác.
+Thông thường, bệnh nhân và/hoặc bác sĩ nghĩ rằng họ bị [viêm da](https://dermnetnz.org/topics/dermatitis) , do đó họ sử dụng kem bôi steroid. Kem steroid làm giảm viêm , giúp tình trạng bệnh bớt khó chịu hơn. Tuy nhiên, khi ngừng sử dụng kem trong vài ngày, tình trạng ngứa trở nên tồi tệ hơn, vì vậy cần phải sử dụng lại kem steroid ngay lập tức. Càng bôi nhiều steroid, tình trạng nhiễm nấm càng lan rộng và khó nhận biết hơn.
+Bệnh nấm da ẩn danh (tinea incognito) được hai bác sĩ da liễu người Anh (Tiến sĩ Adrian Ive và Tiến sĩ Ronnie Marks) mô tả. Sau đó, họ thừa nhận rằng lẽ ra họ nên từ chối chính xác là "tinea incognita", vì nấm da là một từ chỉ giống cái. Phần lớn các ấn phẩm sau này đều tuân theo lỗi ngữ pháp này.
+![Tinea incognita - chân](https://dermnetnz.org/assets/Uploads/fungal/tifoo.jpg)
+![Tinea incognita - chân](https://dermnetnz.org/assets/Uploads/fungal/tiimsu.jpg)
+![Tinea incognita - bẹn](https://dermnetnz.org/assets/Uploads/fungal/s/tintin1.jpg)
+![Tinea incognita - chi](https://dermnetnz.org/assets/Uploads/fungal/tister.jpg)
+![Tinea incognita - chi](https://dermnetnz.org/assets/Uploads/fungal/titin.jpg)
+![Tinea incognita - mặt](https://dermnetnz.org/assets/Uploads/fungal/tintin2.jpg)
+
+---
+
+## Nguyên nhân nào gây ra bệnh nấm da ẩn?
+
+Bệnh lang ben ẩn là do nhiễm nấm [dermatophyte (](https://dermnetnz.org/topics/mycology-of-dermatophyte-infections) [bệnh lang ben](https://dermnetnz.org/topics/tinea) ), thường gặp nhất là khi bệnh ảnh hưởng đến thân và/hoặc chân tay ( [bệnh lang ben thân ). Trichophyton rubrum là](https://dermnetnz.org/topics/tinea-corporis) tác nhân phổ biến nhất gây ra bệnh lang ben và lang ben ở New Zealand.
+Các loại kem chống viêm có thể gây ra bệnh nấm da tiềm ẩn bao gồm:
+- [Steroid tại chỗ](https://dermnetnz.org/topics/topical-steroid)
+- [](https://dermnetnz.org/topics/calcineurin-inhibitors) [](https://dermnetnz.org/topics/tacrolimus) Thuốc mỡ [Tacrolimus](https://dermnetnz.org/topics/tacrolimus)
+- [Kem Pimecrolimus](https://dermnetnz.org/topics/pimecrolimus) .
+Bệnh nấm da tiềm ẩn cũng có thể do sử dụng [steroid toàn thân](https://dermnetnz.org/topics/systemic-steroids) gây ra .
+Các bệnh tiềm ẩn có thể khiến cá nhân dễ bị nhiễm trùng, đặc biệt là:
+- [Thuốc ức chế miễn dịch](https://dermnetnz.org/topics/drug-induced-immunosuppression)
+- [Nhiễm virus gây suy giảm miễn dịch ở người (HIV)](https://dermnetnz.org/topics/skin-conditions-relating-to-hiv-infection)
+- [Bệnh tiểu đường](https://dermnetnz.org/topics/skin-problems-associated-with-diabetes-mellitus) .
+Các yếu tố như đổ mồ hôi, trầy xước và ngâm cũng góp phần gây ra nhiễm trùng.
+
+---
+
+## Các đặc điểm lâm sàng của bệnh nấm da tiềm ẩn là gì?
+
+Trang DermNet về [tinea corporis](https://dermnetnz.org/topics/tinea-corporis) mô tả các đặc điểm lâm sàng thông thường của nó. So với bệnh [nấm thân](https://dermnetnz.org/topics/tinea-corporis) không được điều trị , bệnh nấm da ẩn danh:
+- Có biên độ tăng ít hơn,
+- Ít vảy hơn ,
+- Mụn mủ nhiều hơn ,
+- Rộng hơn,
+- Và cáu kỉnh hơn.
+Ngoài ra, có thể có những thay đổi thứ cấp do sử dụng steroid tại chỗ trong thời gian dài như:
+- Teo da (da mỏng, vết rạn [da](https://dermnetnz.org/topics/stretch-marks-striae) ở nếp gấp da).
+- [Ban xuất huyết](https://dermnetnz.org/topics/purpura) (bầm tím) và giãn mạch ( mạch máu bị vỡ ).
+
+---
+
+## Bệnh nấm da tiềm ẩn được chẩn đoán như thế nào?
+
+Chẩn đoán bệnh nấm da dễ nhất là lấy [mẫu da để soi dưới kính hiển vi và nuôi cấy](https://dermnetnz.org/topics/laboratory-tests-for-fungal-infection) sau vài ngày ngừng sử dụng tất cả các loại kem.
+- Nếu có ít vảy bề mặt , phòng thí nghiệm có thể báo cáo mẫu không đạt yêu cầu hoặc âm tính.
+- Sau khi ngừng dùng kem steroid, bệnh nấm da ẩn sẽ trở nên rất viêm và có thể nhìn thấy nhiều thành phần nấm hơn bình thường khi soi kính hiển vi .
+- Sinh vật chịu trách nhiệm thường phát triển nhanh chóng trong môi trường nuôi cấy.
+Nếu thực hiện [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) , bệnh lý [nấm da tiềm ẩn](https://dermnetnz.org/topics/tinea-incognito) sẽ phát hiện ra các vi sinh vật.
+
+---
+
+## Phương pháp điều trị bệnh nấm da tiềm ẩn là gì?
+
+- Bất kỳ [loại steroid bôi ngoài da](https://dermnetnz.org/topics/topical-steroid) hoặc [chất ức chế calcineurin](https://dermnetnz.org/topics/calcineurin-inhibitors) nào cũng phải ngừng sử dụng.
+- Có thể bôi thuốc mỡ chống ngứa nhẹ.
+- Nên sử dụng [phương pháp điều trị chống nấm](https://dermnetnz.org/topics/treatment-of-fungal-infection) tiêu chuẩn .
+Bệnh nấm da thường được điều trị bằng [thuốc chống nấm tại chỗ](https://dermnetnz.org/topics/topical-antifungal-medication) (như miconazole, ketoconazole, econazole), nhưng có thể cần dùng [thuốc chống nấm đường uống](https://dermnetnz.org/topics/oral-antifungal-medication) như [terbinafine](https://dermnetnz.org/topics/terbinafine) và [itraconazole](https://dermnetnz.org/topics/itraconazole) .
+
+---
+
+## Làm thế nào để phòng tránh bệnh nấm da ẩn?
+
+Bệnh nấm da ẩn có thể tránh được nếu:
+- Bệnh nhân không sử dụng steroid tại chỗ để điều trị các tình trạng da chưa được chẩn đoán
+- Các bác sĩ xem xét chẩn đoán nhiễm nấm da ở bất kỳ phát ban có vảy hoặc mụn mủ nào có viền rõ và không đều, phân bố ở một bên hoặc không đối xứng .
+- [Xét nghiệm nấm](https://dermnetnz.org/topics/mycology-of-dermatophyte-infections) được thực hiện khi có nghi ngờ về chẩn đoán phát ban có vảy hoặc mụn mủ.

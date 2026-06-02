@@ -1,0 +1,62 @@
+# Bệnh Alkapton niệu và bệnh ochronosis — thông tin bổ sung
+
+Thể loại:
+
+Di truyền
+
+SNOMED CT:
+
+360381004, 410042009, 410041002
+
+**[Di truyền](https://dermnetnz.org/topics/topics?category=Genetic)**
+
+
+# **Bệnh Alkapton niệu và bệnh ochronosis**
+
+Tác giả: Vanessa Ngân, Cán bộ biên tập, 2006. Hình ảnh bổ sung tháng 2 năm 2014.
+
+---
+
+## Bệnh alkapton niệu và bệnh ochronosis là gì?
+
+Alkapton niệu là một bệnh di truyền hiếm gặp , đặc trưng bởi tình trạng nước tiểu chuyển sang màu đen khi để lâu. Dấu hiệu sớm nhất của bệnh thường là vết bẩn sẫm màu ở tã lót của trẻ sơ sinh.
+Dấu hiệu rõ ràng nhất ở người lớn là sụn tai dày lên và đổi màu xanh đen. Sự đổi màu xanh đen này của mô liên kết (bao gồm xương, sụn và da) do lắng đọng sắc tố màu vàng hoặc màu đất son được gọi là ochronosis.
+
+---
+
+## Nguyên nhân nào gây ra bệnh alkapton niệu và bệnh ochronosis?
+
+Alkapton niệu là một rối loạn di truyền lặn trên nhiễm sắc thể thường , nghĩa là cần có hai gen bất thường (một từ mỗi cha mẹ) để mắc bệnh. Khiếm khuyết này khiến cơ thể sản xuất không đủ một loại enzyme gọi là homogentisic acid oxidase. Enzyme này thường phân hủy một sản phẩm phụ độc hại của quá trình chuyển hóa tyrosine gọi là axit homogentisic. Mặc dù một phần được bài tiết qua nước tiểu, một lượng nhỏ vẫn còn trong cơ thể và dần dần lắng đọng trong xương và sụn, nơi nó biến thành một vật liệu polyme có sắc tố .
+Bệnh Ochronosis cũng có thể do các tác nhân bên ngoài gây ra. Những tác nhân này có thể bao gồm:
+- Thuốc như [quinacrine](https://dermnetnz.org/topics/quinacrine) và quinine
+- Các chất lắng đọng của phenol (axit cacboxylic), được sử dụng trong quá khứ để điều trị [loét chân](https://dermnetnz.org/topics/leg-ulcer)
+- Hiếm khi, sử dụng quá nhiều [hydroquinone](https://dermnetnz.org/topics/hydroquinone) (trong trường hợp này, sụn không bị ảnh hưởng).
+
+### Di truyền của bệnh Alkapton niệu*
+![Không có caption](https://dermnetnz.org/assets/Uploads/alkaptonuria.jpg)
+*Hình ảnh được cung cấp bởi Genetics 4 Medics
+
+---
+
+## Các đặc điểm lâm sàng của bệnh alkapton niệu và bệnh ochronosis là gì?
+
+Hầu hết bệnh nhân không có triệu chứng nào trong suốt thời thơ ấu hoặc giai đoạn đầu trưởng thành, và phải đến khi bước sang tuổi 40, các dấu hiệu khác của bệnh mới bắt đầu xuất hiện. Một trong những dấu hiệu sớm nhất là sụn tai dày lên (loa tai dày lên và mềm dẻo rõ rệt). Ngoài ra, da tai chuyển sang màu xanh đen. Ráy tai thường có màu nâu đỏ hoặc đen tuyền. Dần dần, bệnh nhân sẽ bị đau khớp, dẫn đến bệnh khớp (bệnh khớp đặc trưng bởi sưng và xương to ra). Nhiều bộ phận cơ thể bị ảnh hưởng do sự tích tụ sắc tố trong xương và sụn.
+- Xương và sụn ở lưng dưới, đầu gối, vai và hông bị ảnh hưởng nhiều nhất. Đầu tiên, bệnh nhân bị đau lưng dưới kèm theo cứng khớp, sau đó là đau đầu gối, vai và hông trong 10 năm tiếp theo. Sụn trở nên giòn và dễ vỡ. Trong một số trường hợp, điều này dẫn đến chấn thương cột sống như thoát vị đĩa đệm.
+- Các chất cặn bã xung quanh khí quản, thanh quản và phế quản (đường dẫn khí đến phổi) có thể gây khó thở và khó thở.
+- Các mảng bám xung quanh tim và mạch máu có thể bị vôi hóa (cứng lại) và dẫn đến các mảng xơ vữa động mạch (các điểm cứng trong động mạch ).
+- Tăng sắc tố ở củng mạc mắt thường xuất hiện sớm. Tình trạng này không ảnh hưởng đến thị lực nhưng biểu hiện dưới dạng các mảng màu nâu hoặc xám trên bề mặt mắt.
+- Sự thay đổi màu da rõ rệt nhất ở những vùng da tiếp xúc với ánh nắng mặt trời và nơi có tuyến mồ hôi. Các vùng bị ảnh hưởng nhiều nhất bao gồm má, trán, nách và vùng sinh dục . Da chuyển sang màu xanh đen loang lổ. Mồ hôi tiết ra có thể làm ố quần áo. Đôi khi móng tay có thể bị ảnh hưởng và chuyển sang màu nâu rõ rệt.
+
+### Bệnh ochronosis sau khi sử dụng hydroquinone trong thời gian dài
+![Bệnh ochronosis sau khi sử dụng hydroquinone trong thời gian dài](https://dermnetnz.org/assets/Uploads/colour/w/ochronosis-1.jpg)
+![Bệnh ochronosis sau khi sử dụng hydroquinone trong thời gian dài](https://dermnetnz.org/assets/Uploads/colour/w/ochronosis-2.jpg)
+![Nội soi da bệnh ochronosis](https://dermnetnz.org/assets/Uploads/colour/w/ochronosis-3.jpg)
+
+---
+
+## Phương pháp điều trị bệnh alkapton niệu là gì?
+
+Alkapton niệu là một bệnh lý kéo dài suốt đời. Hiện chưa có phương pháp chữa khỏi hoàn toàn. Nếu được chẩn đoán sớm, bệnh nhân nên áp dụng chế độ ăn ít protein . Điều này giúp giảm lượng axit amin phenylalanine và tyrosine hấp thụ, từ đó làm giảm lượng axit homogentisic được sản xuất. Mặc dù chưa được chứng minh, nhưng điều này có khả năng giúp tránh hoặc giảm thiểu các biến chứng sau này.
+Vitamin C đã được chứng minh là làm chậm quá trình chuyển hóa axit homogentisic thành các chất lắng đọng polyme trong sụn và xương. Liều dùng khuyến cáo lên đến 1g/ngày cho trẻ lớn và người lớn. Nitisinone, một chất ức chế enzyme trung gian hình thành axit homogentisic, đang được sử dụng trong các phương pháp điều trị thử nghiệm hạn chế.
+Tuổi thọ trung bình là bình thường mặc dù bệnh nhân có thể có nguy cơ mắc bệnh tim cao hơn và có thể cần phải phẫu thuật để điều trị các vấn đề về cột sống, hông, đầu gối và khớp vai.
+Bệnh ochronosis da ngoại sinh đã được điều trị thành công bằng [tia laser](https://dermnetnz.org/topics/lasers-in-dermatology) .

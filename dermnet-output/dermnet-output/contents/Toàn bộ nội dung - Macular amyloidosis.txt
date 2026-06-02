@@ -1,0 +1,108 @@
+# Bệnh amyloidosis điểm vàng — thông tin bổ sung
+
+Thể loại:
+
+Tổn thương (lành tính)
+
+SNOMED CT:
+
+111032003, 733729003, 111390002
+
+**[Tổn thương (lành tính)](https://dermnetnz.org/topics/topics?category=Lesions+(benign))**
+
+
+# **Bệnh lắng đọng tinh bột dạng dát**
+
+Tác giả: Matthew James Verheyden, Bệnh viện Royal North Shore, Sydney, Úc; Tiến sĩ Monisha Gupta, Chuyên gia Cấp cao, Bệnh viện Da liễu, Úc. Biên tập viên Kỹ thuật: Mary Elaine Luther, Trường Y khoa Đại học Ross, Barbados. Tổng Biên tập DermNet: Phó Giáo sư Amanda Oakley, Bác sĩ Da liễu, New Zealand. Biên tập bởi Gus Mitchell. Tháng 2 năm 2020.
+
+---
+
+## Bệnh lắng đọng tinh bột ở điểm vàng là gì?
+
+Bệnh lắng đọng tinh bột dạng dát là một trong ba dạng [lắng đọng](https://dermnetnz.org/topics/cutaneous-amyloidosis) tinh bột nguyên phát cục bộ ở da . Một chất protein - amyloid - lắng đọng vô hại trong da, gây ra các mảng tăng sắc tố . [](https://dermnetnz.org/topics/cutaneous-amyloidosis)
+![Không có caption](https://dermnetnz.org/assets/Uploads/macular-amyloidosis-01-v2.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/macular-amyloidosis-02-v2.jpg)
+![Bệnh lắng đọng tinh bột dạng dát](https://dermnetnz.org/assets/Uploads/macular-amyloidosis.jpg)
+
+---
+
+## Ai mắc bệnh lắng đọng amyloid ở điểm vàng?
+
+Hầu hết các trường hợp bệnh amyloidosis điểm vàng xảy ra ở giai đoạn đầu của tuổi trưởng thành. Người gốc Á, Trung Đông và Nam Mỹ có tỷ lệ mắc bệnh amyloidosis điểm vàng cao hơn so với người gốc Âu và Bắc Mỹ [1]. Những người có làn da sẫm màu ( [loại da Fitzpatrick](https://dermnetnz.org/topics/skin-phototype) IV và V) thường bị ảnh hưởng nhiều hơn.
+Có tới 10% trường hợp bệnh lắng đọng tinh bột ở điểm vàng có nguồn gốc từ gia đình .
+- Một dạng di truyền trội trên nhiễm sắc thể thường của bệnh lắng đọng tinh bột cục bộ trên da đã được xác định ở các gia đình người Brazil và Trung Quốc do đột biến ở gen OSMR [2,3].
+- Bệnh amyloidosis da cục bộ nguyên phát trội trên nhiễm sắc thể thường ở các gia đình Đài Loan có liên quan đến đột biến ở gen IL-31RA mã hóa protein , thụ thể interleukin -31 A [2].
+Phụ nữ mắc bệnh lắng đọng tinh bột ở điểm vàng thường xuyên hơn nam giới; điều này có thể là do phụ nữ tìm kiếm sự chăm sóc y tế sớm hơn nam giới vì lo ngại về mặt thẩm mỹ.
+Các mối liên quan với bệnh tân sinh nội tiết đa dạng loại 2A (MEN2A) và [viêm da dị ứng](https://dermnetnz.org/topics/atopic-dermatitis) đã được báo cáo [4,5]. [](https://dermnetnz.org/topics/atopic-dermatitis)
+
+---
+
+## Nguyên nhân nào gây ra bệnh lắng đọng tinh bột ở điểm vàng?
+
+Nguyên nhân chính xác của bệnh lắng đọng tinh bột ở điểm vàng vẫn chưa được xác định rõ ràng, mặc dù có vẻ như có sự tương tác giữa các yếu tố di truyền và môi trường gây ra bởi sự ma sát, cọ xát hoặc gãi kéo dài ở vùng bị ảnh hưởng.
+Hai lý thuyết đã được đề xuất để giải thích sự lắng đọng bất thường của amyloid: lý thuyết về thể sợi [6,7] và lý thuyết tiết [8].
+
+---
+
+## Các đặc điểm lâm sàng của bệnh lắng đọng amyloid ở điểm vàng là gì?
+
+Bệnh lắng đọng tinh bột dạng dát biểu hiện bằng các dát nhỏ màu nâu sẫm hoặc xám xanh tăng sắc tố .
+- Các đốm này phân bố đối xứng ở phần lưng trên (đặc biệt là vùng liên bả vai) và bề mặt duỗi của cánh tay trên.
+- Ít gặp hơn là vùng mặt, cổ, xương quai xanh, ngực và nách bị ảnh hưởng.
+- Bệnh lắng đọng tinh bột dạng dát thường gây ngứa , mặc dù mức độ ngứa có thể từ nhẹ đến nặng.
+- Nó có thể có dạng gợn sóng hoặc dạng lưới tinh tế , giống với 'kiểu đáy biển' thấy ở bệnh lắng đọng tinh bột ở địa y.
+- Bệnh lắng đọng tinh bột dạng dát có thể cùng tồn tại với bệnh lắng đọng tinh bột dạng lichen ở 25% bệnh nhân bị ảnh hưởng [9].
+Soi da cho thấy một vùng trung tâm màu trắng hoặc nâu được bao quanh bởi sắc tố nâu dưới dạng các vệt tỏa sáng mịn, các chấm, các phần nhô ra giống như lá và các phần nhô ra hình củ hành [10].
+
+---
+
+## Bệnh amyloidosis hoàng điểm được chẩn đoán như thế nào?
+
+Chẩn đoán bệnh lắng đọng amyloid ở da dựa trên biểu hiện lâm sàng đặc trưng và kết quả mô bệnh học của các mảng lắng đọng amyloid trên da trong sinh thiết da. Xem [Bệnh lý lắng đọng amyloid ở da nguyên phát](https://dermnetnz.org/topics/primary-cutaneous-amyloidosis-pathology) .
+- Vật liệu ái toan vô định hình được lắng đọng bên ngoài tế bào ở lớp hạ bì nhú và đi kèm với các tế bào hắc tố ở hạ bì .
+- Nhuộm đỏ Congo có thể cho thấy sự lưỡng chiết dương tính giữa màu táo và xanh lá cây dưới ánh sáng phân cực, đặc trưng của amyloid [9]. Sự lưỡng chiết này không được quan sát thấy trong mọi trường hợp [9].
+- Sự khác biệt giữa bệnh lắng đọng tinh bột dạng lichen và bệnh lắng đọng tinh bột dạng chấm liên quan đến số lượng, hình dạng và vị trí lắng đọng.
+- Giải phẫu bệnh lý cũng có thể cho thấy tình trạng tăng sừng nhẹ , tăng hạt và nứt dưới biểu bì . Có thể quan sát thấy thể Civatte ở lớp đáy của biểu bì.
+
+---
+
+## Chẩn đoán phân biệt bệnh lắng đọng tinh bột ở điểm vàng là gì?
+
+Bệnh amyloidosis dạng chấm có thể bị nhầm lẫn với các rối loạn sắc tố khác , bao gồm:
+- [Lichen](https://dermnetnz.org/topics/lichen-planus) phẳng teo [](https://dermnetnz.org/topics/lichen-planus)
+- [Tăng sắc tố do thuốc](https://dermnetnz.org/topics/drug-induced-pigmentation)
+- [Ban đỏ dyschromicum perstans](https://dermnetnz.org/topics/erythema-dyschromicum-perstans)
+- [Notalgia paraesthetica](https://dermnetnz.org/topics/notalgia-paraesthetica)
+- [Viêm da tiếp xúc ánh sáng](https://dermnetnz.org/topics/photocontact-dermatitis)
+- [Poikiloderma của Civatte](https://dermnetnz.org/topics/poikiloderma-of-civatte)
+- [Tăng sắc tố sau viêm](https://dermnetnz.org/topics/postinflammatory-hyperpigmentation)
+- [Lang ben](https://dermnetnz.org/topics/pityriasis-versicolor) .
+
+---
+
+## Phương pháp điều trị bệnh lắng đọng tinh bột ở điểm vàng là gì?
+
+Mục tiêu chính của việc điều trị là làm giảm ngứa.
+Cần nhấn mạnh tầm quan trọng của việc tránh các tác nhân gây căng thẳng cơ học như ma sát, cọ xát hoặc gãi vào vùng bị ảnh hưởng.
+Chưa có phác đồ điều trị chuẩn hóa nào được thiết lập [11]. Trong hầu hết các trường hợp, [corticosteroid tại chỗ](https://dermnetnz.org/topics/topical-steroid) và [thuốc làm mềm da](https://dermnetnz.org/topics/emollients-and-moisturisers) được sử dụng để giảm ngứa.
+Các loại thuốc tại chỗ khác có thể bao gồm:
+- [Thuốc ức chế calcineurin tại chỗ](https://dermnetnz.org/topics/calcineurin-inhibitors) ( [tacrolimus](https://dermnetnz.org/topics/tacrolimus) và [pimecrolimus](https://dermnetnz.org/topics/pimecrolimus) )
+- [Corticosteroid tiêm vào tổn thương](https://dermnetnz.org/topics/intralesional-steroid-injection) .
+Thuốc toàn thân hiếm khi cần thiết; tuy nhiên, bệnh lắng đọng amyloidosis ở điểm vàng đã được báo cáo là đã được điều trị thành công bằng các loại thuốc sau:
+- [Cyclophosphamide](https://dermnetnz.org/topics/cyclophosphamide)
+- [Thuốc Ciclosporin](https://dermnetnz.org/topics/ciclosporin) .
+Các liệu pháp vật lý được báo cáo là có lợi bao gồm:
+- [Mài mòn da](https://dermnetnz.org/topics/dermabrasion)
+- Băng bó kín
+- Kích thích thần kinh điện xuyên da (TENS) [12]
+- [PUVA (quang hóa trị liệu)](https://dermnetnz.org/topics/puva-photochemotherapy)
+- [Liệu pháp quang trị liệu UVB](https://dermnetnz.org/topics/uvb-phototherapy) [13]
+- [Điều trị bằng laser phân đoạn](https://dermnetnz.org/topics/fractional-laser-treatment) [14]
+- [Laser Nd:YAG](https://dermnetnz.org/topics/ndyag-laser-treatment) (532 nm và 1064 nm) [15]
+- [Điều trị bằng laser nhuộm xung](https://dermnetnz.org/topics/pulsed-dye-laser-treatment) [16].
+
+---
+
+## Hậu quả của bệnh lắng đọng amyloid ở điểm vàng là gì?
+
+Bệnh lắng đọng tinh bột ở điểm vàng dai dẳng và có thể ảnh hưởng đáng kể đến chất lượng cuộc sống do biến dạng thẩm mỹ và ngứa dai dẳng. [17].

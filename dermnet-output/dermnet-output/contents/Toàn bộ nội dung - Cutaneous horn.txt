@@ -1,0 +1,91 @@
+# Sừng da — thông tin bổ sung
+
+Thể loại:
+
+Tổn thương (lành tính)
+
+SNOMED CT:
+
+403871001
+
+**[Tổn thương (lành tính)](https://dermnetnz.org/topics/topics?category=Lesions+(benign))**
+
+
+# **Sừng da**
+
+Tác giả: Tiến sĩ Tina Tian, ​​Chuyên gia ung thư, Bệnh viện Hawke's Bay, Hastings, New Zealand, 2013.
+
+---
+
+## Sừng da là gì?
+
+Sừng da (cornu cutaneum) là một khối cứng hình nón nhô ra khỏi da, được tạo thành từ keratin đặc. Chúng được đặt tên như vậy vì trông giống sừng động vật. Chúng phát sinh từ các tổn thương da lành tính , tiền ác tính hoặc ác tính .
+![Sừng da](https://dermnetnz.org/assets/Uploads/lesions/horn-20.jpg)
+![Sừng da](https://dermnetnz.org/assets/Uploads/lesions/horn-16.jpg)
+![Sừng da](https://dermnetnz.org/assets/Uploads/lesions/horn-15.jpg)
+[Xem thêm hình ảnh về sừng da](https://dermnetnz-org.translate.goog/topics/cutaneous-horn-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp) ...
+
+---
+
+## Ai sẽ được cấy sừng da?
+
+- Sừng da phổ biến hơn ở bệnh nhân lớn tuổi, với tỷ lệ mắc cao nhất ở những người từ 60 đến 70 tuổi.
+- Chúng phổ biến như nhau ở cả nam và nữ, mặc dù nguy cơ tổn thương ác tính ở nam giới cao hơn.
+- Chúng phổ biến hơn ở những người có làn da sáng hơn ( [loại da](https://dermnetnz.org/topics/skin-phototype) I và 2).
+
+---
+
+## Nguyên nhân nào gây ra sừng da?
+
+Khoảng một nửa số sừng có gốc lành tính, và một nửa là tiền ác tính hoặc ác tính. Các tổn thương tiềm ẩn phổ biến nhất là [dày sừng tiết bã](https://dermnetnz.org/topics/seborrhoeic-keratosis) , [mụn cóc do virus](https://dermnetnz.org/topics/viral-wart) (do vi-rút u nhú ở người), [dày sừng quang hóa](https://dermnetnz.org/topics/actinic-keratosis) và [ung thư biểu mô tế bào vảy](https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma) biệt hóa cao (liên quan đến việc tiếp xúc với ánh nắng mặt trời và các nguồn bức xạ UV khác ). [](https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma)
+
+---
+
+## Đặc điểm lâm sàng của sừng da là gì?
+
+
+### Vẻ bề ngoài
+- Sừng da thường có dạng một phần nhô ra từ da, cứng, thẳng hoặc cong, màu vàng nâu.
+- Nó có thể được bao quanh bởi da bình thường hoặc có viền da dày.
+- Mặt bên của sừng có thể giống như hình bậc thang hoặc hình vỏ sò với các đường gờ ngang.
+- Phần gốc của sừng có thể phẳng, nhô ra hoặc giống như miệng hố.
+- Có thể có tình trạng viêm do chấn thương tái phát .
+
+### Kích cỡ
+- Thông thường, sừng cao gấp đôi chiều rộng ở phần gốc.
+- Kích thước có thể thay đổi từ vài milimét đến vài centimet.
+- Sừng khổng lồ thực sự tồn tại — sừng lớn nhất được mô tả là của một phụ nữ Paris 76 tuổi tên là Madame Dimanche (Góa phụ Chủ nhật) vào thế kỷ 19, người đã mọc một chiếc sừng dài 25 cm trên trán.
+
+### Vị trí
+- Sừng da thường là đơn lẻ nhưng cũng có thể có nhiều.
+- Chúng có thể xuất hiện ở bất kỳ vị trí nào trên cơ thể, nhưng phổ biến hơn ở những vùng tiếp xúc với ánh nắng mặt trời, đặc biệt là đầu và tai, mu bàn tay và cẳng tay.
+- Chúng cũng có thể xuất hiện ở ngực, cổ, vai và dương vật.
+
+### Triệu chứng
+Sừng da thường không có triệu chứng. Chúng có thể bị tổn thương gây đau và viêm.
+
+### Các đặc điểm đáng lo ngại gợi ý về bệnh ác tính
+Mặc dù không có đặc điểm nào chắc chắn có thể xác nhận hoặc loại trừ các tổn thương ác tính, nhưng các tổn thương ác tính phổ biến hơn ở bệnh nhân lớn tuổi và nam giới so với nữ giới. Ung thư biểu mô tế bào vảy cũng có khả năng xảy ra nếu sừng có các đặc điểm sau:
+- Đau đớn
+- Kích thước lớn
+- Sự chai cứng ở gốc
+- Vị trí giải phẫu trên mũi, tai, mu bàn tay, da đầu, cẳng tay, mặt và dương vật
+- Tỷ lệ đáy rộng hoặc chiều cao thấp so với đáy
+- Đỏ ở gốc sừng
+- Không hình thành được ruộng bậc thang do sự phát triển nhanh chóng, không có tổ chức.
+
+---
+
+## Chẩn đoán và điều tra sừng da
+
+- Sừng da được chẩn đoán dựa vào biểu hiện lâm sàng.
+- Kiểm tra mô học phần gốc sừng là rất quan trọng để loại trừ tình trạng ác tính , vì không có đặc điểm lâm sàng nào có thể phân biệt rõ ràng tổn thương lành tính với ung thư da.
+- Tổn thương thường được cắt bỏ hoàn toàn. Trong một số trường hợp, cần phải [sinh thiết](https://dermnetnz.org/topics/skin-biopsy) sâu một phần để xác định chẩn đoán.
+Về mặt mô học , có sự dày lên của lớp sừng hoặc tăng sừng. Các lớp keratin song song, nằm ngang, có trật tự thường liên quan đến các tổn thương lành tính. Các tổn thương ác tính phát triển nhanh chóng biểu hiện sự phát triển bất thường hơn. Thường thấy hiện tượng gai hóa . Phần đáy tổn thương cho thấy các đặc điểm của tổn thương bên dưới.
+Các tình trạng da liên quan đến sừng da Lành tính Tiền ác tính hoặc ác tính [Viêm sừng tiết bã nhờn](https://dermnetnz.org/topics/seborrhoeic-keratosis) [Nốt ruồi biểu bì](https://dermnetnz.org/topics/epidermal-naevi) [Mụn cóc do virus](https://dermnetnz.org/topics/viral-wart) [U mềm lây](https://dermnetnz.org/topics/molluscum-contagiosum) [Bệnh vẩy nến xương](https://dermnetnz.org/topics/psoriasis) [Lichen phẳng phì đại](https://dermnetnz.org/topics/lichen-planus) [Bệnh sừng hóa ánh sáng](https://dermnetnz.org/topics/actinic-keratosis) [Ung thư biểu mô trong biểu bì](https://dermnetnz.org/topics/intraepidermal-squamous-cell-carcinoma) [U sừng gai](https://dermnetnz.org/topics/keratoacanthoma) [Ung thư biểu mô tế bào vảy](https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma) [U hắc tố](https://dermnetnz.org/topics/melanoma) (hiếm gặp)
+
+---
+
+## Sừng da được điều trị như thế nào?
+
+Sừng da thường được cắt bỏ với biên độ thích hợp, tùy thuộc vào bản chất của tổn thương.

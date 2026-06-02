@@ -1,0 +1,100 @@
+# Ung thư tế bào Merkel — thông tin bổ sung
+
+Thể loại:
+
+Tổn thương (ung thư)
+
+SNOMED CT:
+
+253001006, 407456008, 5714002
+
+**[Tổn thương (ung thư)](https://dermnetnz.org/topics/topics?category=Lesions+(cancerous))**
+
+
+# **Ung thư tế bào Merkel**
+
+Tác giả: Mathew Ludgate MBChB, Khoa Da liễu, Bệnh viện Greenlane Auckland, New Zealand, 2005. Cập nhật bởi Phó Giáo sư Amanda Oakley, Hamilton, New Zealand. Tháng 9 năm 2014.
+
+---
+
+## Ung thư tế bào Merkel ở da là gì?
+
+Ung thư biểu mô tế bào Merkel ở da là một dạng [ung thư da](https://dermnetnz.org/topics/skin-cancer) hiếm gặp . Nó có thể rất hung hãn và thường di căn đến các bộ phận khác của cơ thể. Nó còn được gọi là khối u Toker , ung thư biểu mô thần kinh nội tiết da , ung thư biểu mô tế bào xốp và ung thư biểu mô tế bào nhỏ nguyên phát ở da.
+![Hình ảnh được cung cấp bởi Bob Rossborough](https://dermnetnz.org/assets/Uploads/lesions/mcc.jpg)
+![Hình ảnh được cung cấp bởi Catherine Skiens](https://dermnetnz.org/assets/Uploads/lesions/mcc2.jpg)
+![Ung thư tế bào Merkel](https://dermnetnz.org/assets/Uploads/lesions/eyelid-merkel-1.jpg)
+
+---
+
+## Ai mắc bệnh ung thư tế bào Merkel?
+
+Ung thư tế bào Merkel có tỷ lệ mắc ước tính là 0,23 trên 100.000 người ở nhóm người da trắng, ít phổ biến hơn nhiều so với [ung thư hắc tố](https://dermnetnz.org/topics/melanoma) .
+- Một số trung tâm đã báo cáo số lượng ca ung thư tế bào Merkel ngày càng tăng trong những năm gần đây.
+- Ung thư tế bào Merkel chủ yếu ảnh hưởng đến người lớn tuổi, hầu hết các trường hợp xảy ra sau 50 tuổi.
+- Bệnh này phổ biến hơn ở nam giới một chút.
+- Bệnh này xuất hiện ở những bộ phận cơ thể thường xuyên tiếp xúc với ánh sáng mặt trời, phổ biến nhất là đầu và cổ.
+- Bệnh cũng phổ biến hơn và nghiêm trọng hơn ở những người bị suy giảm miễn dịch, chẳng hạn như bệnh nhân [ghép tạng](https://dermnetnz.org/topics/skin-cancer-in-transplant-recipients) , nhiễm [virus gây suy giảm miễn dịch ở người (HIV)](https://dermnetnz.org/topics/skin-conditions-relating-to-hiv-infection) , bệnh ác tính về máu hoặc đang dùng thuốc như [azathioprine](https://dermnetnz.org/topics/azathioprine-and-mercaptopurine) . [](https://dermnetnz.org/topics/skin-cancer-in-transplant-recipients) [](https://dermnetnz.org/topics/skin-conditions-relating-to-hiv-infection) [](https://dermnetnz.org/topics/azathioprine-and-mercaptopurine)
+
+---
+
+## Đặc điểm lâm sàng của ung thư tế bào Merkel là gì?
+
+Ung thư biểu mô tế bào Merkel thường biểu hiện dưới dạng một nốt sần màu đỏ không đều, đơn độc, phát triển nhanh chóng. Nó thường có hình dạng tương tự các loại ung thư da phổ biến khác như [ung thư biểu mô tế bào đáy nhưng phát triển nhanh hơn nhiều. Một số](https://dermnetnz.org/topics/basal-cell-carcinoma) tổn thương có hình dạng giống như nang dưới da .
+Ung thư tế bào Merkel lan rộng qua hệ bạch huyết và có thể phát triển nhiều di căn xung quanh khối u chính ( tái phát tại chỗ ). Ung thư tế bào Merkel cũng có thể lan đến các hạch bạch huyết ở cổ, nách và bẹn. Điều này dễ xảy ra hơn ở những khối u dày hơn. Hầu hết các trường hợp tái phát xảy ra trong vòng hai năm đầu sau khi chẩn đoán.
+![Ung thư tế bào Merkel](https://dermnetnz.org/assets/Uploads/lesions/mcc3.jpg)
+![Hình ảnh được cung cấp bởi Tiến sĩ Slavko Doslo](https://dermnetnz.org/assets/Uploads/lesions/mcc4.jpg)
+![Ngoài ra, nắp dưới](https://dermnetnz.org/assets/Uploads/lesions/eyelid-merkel-2.jpg)
+
+---
+
+## Nguyên nhân nào gây ra ung thư tế bào Merkel?
+
+Polyomavirus tế bào Merkel (MCPyV) đã được phát hiện trong khoảng 80% các trường hợp ung thư biểu mô tế bào Merkel được xét nghiệm. Người ta cho rằng virus gây ra đột biến gen dẫn đến ung thư biểu mô tế bào Merkel khi chức năng miễn dịch bị suy giảm. Các khối u âm tính với virus có liên quan đến việc tiếp xúc nhiều với tia cực tím , do khối u xuất hiện trên vùng da tiếp xúc với ánh nắng mặt trời.
+Suy giảm miễn dịch là một yếu tố quan trọng dẫn đến sự phát triển của ung thư tế bào Merkel.
+Ung thư biểu mô tế bào Merkel trước đây được cho là bắt nguồn từ tế bào Merkel , vốn là các thụ thể áp lực trên da. Một nghiên cứu gần đây chỉ ra nguồn gốc của chúng là các tế bào B sớm ( tế bào lympho ) dựa trên hình thái tế bào , sự biểu hiện của các dấu hiệu tế bào B sớm và sự sắp xếp lại chuỗi globulin miễn dịch vô tính .
+
+---
+
+## Ung thư tế bào Merkel được chẩn đoán như thế nào?
+
+Ung thư tế bào Merkel nên được xem xét ở bất kỳ khối u nào có các đặc điểm lâm sàng "AEIOU", xuất hiện ở khoảng 90% bệnh nhân mắc bệnh này.
+- Một triệu chứng hoặc không đau
+- E mở rộng nhanh chóng
+- Tôi bị ức chế miễn dịch
+- Trên 50 tuổi
+- U V-làn da trắng lộ rõ
+Xét nghiệm chính là [sinh thiết](https://dermnetnz.org/topics/skin-biopsy) khối u. Xét nghiệm này cho thấy [bệnh lý đặc trưng của ung thư biểu mô tế bào Merkel](https://dermnetnz.org/topics/merkel-cell-carcinoma-pathology) . Miễn dịch mô hóa học có thể hữu ích vì cytokeratin -20 (CK20) dương tính ở 95% khối u và yếu tố phiên mã tuyến giáp (TTF1) thường âm tính.
+Có thể tiến hành kiểm tra tổng quát, bao gồm đánh giá các hạch bạch huyết tại chỗ và điều tra giai đoạn để xác định xem khối u có di căn đến các vị trí khác hay không.
+Việc dàn dựng cuộc điều tra có thể bao gồm:
+- [Sinh thiết hạch gác](https://dermnetnz.org/topics/sentinel-lymph-node-biopsy)
+- Siêu âm hạch bạch huyết
+- Chụp ảnh bằng tia X, chụp cắt lớp vi tính ( CT ), chụp cộng hưởng từ ( MRI ) và chụp cắt lớp phát xạ positron ( PET ).
+Ủy ban Ung thư Hoa Kỳ đã công bố hệ thống phân loại ung thư tế bào Merkel cụ thể.
+Khả năng sống sót lâu dài có thể xảy ra nếu các hạch bạch huyết không chứa tế bào khối u.
+
+---
+
+## Phương pháp điều trị ung thư tế bào Merkel là gì?
+
+Sau khi chẩn đoán ung thư biểu mô tế bào Merkel, việc hội chẩn đa chuyên khoa là điều thường quy. Vì tỷ lệ sống sót sau 5 năm của MCC chỉ khoảng 50%, nên cần điều trị tích cực sớm, thường kết hợp phẫu thuật và xạ trị.
+
+### Bệnh cục bộ
+Phẫu thuật [cắt bỏ](https://dermnetnz.org/topics/excision-of-skin-lesions) là phương pháp điều trị chính cho ung thư biểu mô tế bào Merkel nguyên phát. Một vùng rộng xung quanh khối u cũng có thể được cắt bỏ; điều này có thể không cần thiết nếu xạ trị được bổ sung.
+Vị trí chính có thể được điều trị bằng xạ trị sau phẫu thuật, đặc biệt đối với các tổn thương lớn (> 2 cm). Xạ trị giúp tăng cường kiểm soát bệnh tại chỗ và khu vực , đồng thời nâng cao tỷ lệ sống sót lâu dài.
+Các hạch bạch huyết có liên quan cũng có thể được cắt bỏ bằng phẫu thuật hoặc chiếu xạ như một biện pháp phòng ngừa .
+
+### Bệnh liên quan đến hạch bạch huyết khu vực
+Nếu ung thư đã lan đến các hạch bạch huyết, có thể phẫu thuật cắt bỏ hoặc điều trị bằng xạ trị. Trong một số trường hợp, hóa trị toàn thân cũng có thể được áp dụng.
+
+### Bệnh di căn xa
+Bất kỳ ung thư biểu mô tế bào Merkel di căn xa nào cũng rất nghiêm trọng và có tiên lượng rất xấu. Việc điều trị bệnh di căn nhằm mục đích cải thiện chất lượng cuộc sống. Trong một số trường hợp, xạ trị và/hoặc hóa trị toàn thân có thể được áp dụng để điều trị.
+Đáp ứng tích cực đã được báo cáo ở 50% bệnh nhân ung thư biểu mô tế bào Merkel tiến triển khi được điều trị bằng thuốc ức chế điểm kiểm soát miễn dịch [pembrolizumab](https://dermnetnz.org/topics/pembrolizumab) và [nivolumab](https://dermnetnz.org/topics/nivolumab) . Đáp ứng với thuốc ức chế PD-1 có thể xảy ra ở cả phân nhóm dương tính với virus và phân nhóm âm tính với virus. Đáp ứng dường như kém ấn tượng hơn ở những bệnh nhân đã được hóa trị trước đó. Các thử nghiệm lâm sàng đang được tiến hành. Lưu ý rằng ung thư biểu mô tế bào Merkel mới đã được báo cáo trong quá trình điều trị bằng thuốc ức chế điểm kiểm soát ở các dạng ung thư khác. [](https://dermnetnz.org/topics/pembrolizumab) [](https://dermnetnz.org/topics/nivolumab)
+Vào tháng 3 năm 2017, Cục Quản lý Thực phẩm và Dược phẩm Hoa Kỳ (FDA) đã phê duyệt nhanh một thuốc PD-1/PD-L1 khác, avelumab (Bavencio®), để điều trị ung thư biểu mô tế bào Merkel di căn. Việc phê duyệt dựa trên một thử nghiệm avelumab cho thấy đáp ứng ở một phần ba số bệnh nhân.
+Việc điều trị thử nghiệm bằng các tác nhân khác đang được nghiên cứu.
+Hướng dẫn điều trị đồng thuận được công bố bởi Mạng lưới Ung thư Toàn diện Quốc gia.
+
+---
+
+## Kết quả đối với bệnh nhân mắc ung thư tế bào Merkel là gì?
+
+Tỷ lệ sống sót sau 5 năm nhìn chung là 30–50%. Tỷ lệ sống sót cao hơn ở những bệnh nhân được chẩn đoán ban đầu mắc ung thư biểu mô tế bào Merkel giai đoạn 1 và ở những bệnh nhân trẻ tuổi so với những bệnh nhân đã di căn hoặc trên 80 tuổi. Các tổn thương có hình dạng giống nang dưới da có thể có tiên lượng tốt hơn một chút.

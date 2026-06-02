@@ -1,0 +1,101 @@
+# Bệnh Kyrle — thông tin bổ sung
+
+Thể loại:
+
+Phát ban
+
+SNOMED CT:
+
+34042008, 402683008
+
+**[Phát ban](https://dermnetnz.org/topics/topics?category=Rashes)**
+
+
+# **Bệnh Kyrle**
+
+Tác giả: Vanessa Ngan, Biên tập viên, 2005; Cập nhật: Bác sĩ Aswan Tai, Trung tâm Ung thư Peter MacCallum, Melbourne, Úc; Bác sĩ Sarah Smithson, Bác sĩ Da liễu, Viện Sức khỏe Da liễu, Melbourne, Úc. Biên tập bởi Gus Mitchell. Tháng 4 năm 2022
+
+---
+
+## Bệnh Kyrle là gì?
+
+Bệnh Kyrle đặc trưng bởi sự đào thải keratin xuyên biểu bì từ lớp hạ bì qua lớp biểu bì lên bề mặt da. Đây là một phân nhóm của bệnh da liễu thủng nguyên phát cùng với [bệnh collagen thủng phản ứng](https://dermnetnz.org/topics/reactive-perforating-collagenosis) , [viêm nang lông thủng](https://dermnetnz.org/topics/perforating-folliculitis-pathology) và [bệnh elastosis perforans serpiginosa](https://dermnetnz.org/topics/elastosis-perforans-serpiginosa) . [](https://dermnetnz.org/topics/reactive-perforating-collagenosis) [](https://dermnetnz.org/topics/perforating-folliculitis-pathology) [](https://dermnetnz.org/topics/elastosis-perforans-serpiginosa)
+Bệnh Kyrle lần đầu tiên được mô tả vào năm 1916 bởi bác sĩ da liễu và nhà nghiên cứu bệnh học người Áo Josef Kyrle là “ bệnh tăng sừng nang lông và quanh nang lông ở lỗ chân lông” ở một bệnh nhân nữ mắc bệnh tiểu đường có các sẩn tăng sừng toàn thân .
+Có nhiều tranh cãi lâu dài xung quanh việc phân loại bệnh Kyrle, một số bác sĩ lâm sàng cho rằng đây là một thực thể lâm sàng riêng biệt trong khi những người khác lại coi đây là một bệnh lý thuộc phổ collagen phản ứng thủng.
+![Không có caption](https://dermnetnz.org/assets/Uploads/scaly/kyrle.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/scaly/kyrle2.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/scaly/kyrle3.jpg)
+
+---
+
+## Ai mắc bệnh Kyrle?
+
+- Có thể ảnh hưởng đến cả nam và nữ trong suốt cuộc đời.
+- Bệnh thường khởi phát ở tuổi trưởng thành, khoảng 30 tuổi.
+- Không có khuynh hướng chủng tộc rõ ràng .
+- Có liên quan chặt chẽ với [bệnh tiểu đường](https://dermnetnz.org/topics/skin-problems-associated-with-diabetes-mellitus) , bệnh thận mãn tính , bệnh gan mãn tính và suy tim sung huyết.
+
+---
+
+## Nguyên nhân gây ra bệnh Kyrle là gì?
+
+Cơ chế sinh bệnh của bệnh Kyrle (KD) vẫn chưa rõ ràng.
+- Quá trình sừng hóa ở bệnh KD bị thay đổi, xảy ra ở lớp đáy của biểu bì.
+- Keratin bất thường gây ra phản ứng viêm ở lớp biểu bì của vật chủ .
+- Keratin và các chất khác được đào thải qua lớp biểu bì.
+- Sự hiện diện của mô liên kết bất thường hoặc bị thay đổi có thể là yếu tố nguy cơ gây bệnh KD.
+- Rối loạn miễn dịch ở bệnh suy thận mãn tính có thể góp phần gây ra bệnh KD thông qua việc tăng biểu hiện interleukin (IL)-31, một cytokine chủ yếu có nguồn gốc từ tế bào T có mối tương quan mạnh mẽ với tình trạng ngứa.
+
+---
+
+## Các đặc điểm lâm sàng của bệnh Kyrle là gì?
+
+Bệnh Kyrle là một rối loạn niêm mạc da dạng sẩn cục .
+- Sẩn và nốt sần màu nâu đỏ có vảy màu bạc , thường có nút sừng ở giữa.
+- Các tổn thương có nhiều hình dạng và kích thước khác nhau và có thể có đường kính lên tới 1,5 cm.
+- Các tổn thương thường không đau hoặc nhạy cảm nhưng có thể gây ngứa dữ dội.
+- Thường biểu hiện [hiện tượng Koebner](https://dermnetnz.org/topics/the-koebner-phenomenon) .
+- Chủ yếu ở bề mặt duỗi của chi dưới nhưng cũng có thể xuất hiện ở cánh tay, vùng đầu và cổ. Hiếm khi xuất hiện ở lòng bàn tay, lòng bàn chân và niêm mạc .
+- Có liên quan đến [tình trạng tăng sắc tố](https://dermnetnz.org/topics/postinflammatory-hyperpigmentation) ở da màu.
+- Các tổn thương có thể tự lành mà không cần điều trị, tuy nhiên các tổn thương mới có thể tiếp tục phát triển.
+
+---
+
+## Biến chứng của bệnh Kyrle là gì?
+
+- Tác động của [tình trạng ngứa](https://dermnetnz.org/topics/pruritus) dữ dội mãn tính đến chất lượng cuộc sống.
+- Nhiễm trùng thứ phát do vi khuẩn và nấm do hàng rào bảo vệ da bị suy yếu và gãi.
+- Chữa lành các tổn thương riêng lẻ có [sẹo](https://dermnetnz.org/topics/keloid-and-hypertrophic-scar) và/hoặc [rối loạn sắc tố](https://dermnetnz.org/topics/pigmented-skin-lesions) ở mọi loại da.
+
+---
+
+## Bệnh Kyrle được chẩn đoán như thế nào?
+
+Bệnh Kyrle thường có thể được chẩn đoán dựa trên các đặc điểm lâm sàng riêng biệt, các tình trạng liên quan và được xác nhận trên [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) với mô bệnh học cho thấy quá trình sừng hóa không hoàn chỉnh và nút sừng tăng sinh, cận sừng .
+
+---
+
+## Chẩn đoán phân biệt bệnh Kyrle là gì?
+
+- Các bệnh lý da liễu thủng nguyên phát khác — [collagenosis thủng phản ứng](https://dermnetnz.org/topics/reactive-perforating-collagenosis) , [elastosis perforans serpiginosa](https://dermnetnz.org/topics/elastosis-perforans-serpiginosa) và [viêm nang lông thủng](https://dermnetnz.org/topics/perforating-folliculitis-pathology)
+- [Bệnh tăng sừng thể thủy tinh (bệnh Flegel)](https://dermnetnz.org/topics/hyperkeratosis-lenticularis-perstans) (tổn thương tương tự nhưng nhỏ hơn và phổ biến hơn ở bàn chân và cẳng chân)
+- Các rối loạn thủng thứ phát bao gồm [u hạt hình khuyên](https://dermnetnz.org/topics/granuloma-annulare) , [liken nitidus](https://dermnetnz.org/topics/lichen-nitidus) , bệnh nấm da do [nấm chromoblastomycosis](https://dermnetnz.org/topics/chromoblastomycosis)
+- [Prurigo nodularis](https://dermnetnz.org/topics/nodular-prurigo)
+- [U sừng gai](https://dermnetnz.org/topics/keratoacanthoma)
+- [Viêm nang lông](https://dermnetnz.org/topics/folliculitis) .
+
+---
+
+## Phương pháp điều trị bệnh Kyrle là gì?
+
+Mục tiêu chính của điều trị là kiểm soát ngứa và tránh chấn thương bề mặt. Các tổn thương thường cải thiện nhanh chóng và khỏi hẳn khi bệnh lý nền kèm theo được kiểm soát.
+- Thuốc bôi ngoài da — [thuốc làm mềm da](https://dermnetnz.org/topics/emollients-and-moisturisers) , [steroid bôi ngoài da](https://dermnetnz.org/topics/topical-steroid) , [retinoid bôi ngoài da](https://dermnetnz.org/topics/topical-retinoids) , [thuốc làm bong lớp sừng](https://dermnetnz.org/topics/keratolytic-agents)
+- Toàn thân — [thuốc kháng histamin](https://dermnetnz.org/topics/antihistamines) , kháng sinh uống (thuốc tetracycline), [retinoid uống](https://dermnetnz.org/topics/oral-retinoids) , allopurinol, [tacrolimus](https://dermnetnz.org/topics/tacrolimus)
+- Khác — [liệu pháp quang học](https://dermnetnz.org/topics/phototherapy)
+- Thử nghiệm lâm sàng — thuốc điều hòa miễn dịch (ví dụ, kháng thể đơn dòng IL-31 như [nemolizumab](https://dermnetnz.org/topics/nemolizumab) ). [](https://dermnetnz.org/topics/nemolizumab)
+
+---
+
+## Hậu quả của bệnh Kyrle là gì?
+
+Các tổn thương có thể tự lành nhưng thường tái phát. Người bệnh có thể phát triển các tổn thương lớn hơn và nhiều hơn theo tuổi tác.

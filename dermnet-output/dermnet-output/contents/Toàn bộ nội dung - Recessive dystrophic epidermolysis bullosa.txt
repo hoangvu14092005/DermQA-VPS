@@ -1,0 +1,77 @@
+# Bệnh ly thượng bì bóng nước loạn dưỡng – thông tin bổ sung
+
+Thể loại:
+
+Di truyền
+
+SNOMED CT:
+
+254185007, 111389006, 48528004, 254188009, 26891001, 723716009, 725407006
+
+**[Di truyền](https://dermnetnz.org/topics/topics?category=Genetic)**
+
+
+# **Bệnh ly thượng bì bóng nước loạn dưỡng**
+
+Tác giả: Jane Widdowson và cộng sự, DEBRA New Zealand, tháng 2 năm 2016. Cập nhật nhỏ vào tháng 10 năm 2023 và tháng 7 năm 2024.
+
+---
+
+## Ly thượng bì bọng nước là gì?
+
+[Bệnh ly thượng bì bóng nước](https://dermnetnz.org/topics/epidermolysis-bullosa) (EB) là một nhóm bệnh di truyền đặc trưng bởi các tổn thương phồng rộp trên da và niêm mạc. Chúng có thể xuất hiện ở bất kỳ vị trí nào trên cơ thể, nhưng thường gặp nhất là ở những vị trí ma sát và chấn thương nhẹ như bàn chân và bàn tay. Ở một số phân nhóm, mụn nước cũng có thể xuất hiện ở các cơ quan nội tạng, chẳng hạn như thực quản , dạ dày và đường hô hấp, mà không có bất kỳ ma sát rõ ràng nào.
+
+---
+
+## Bệnh ly thượng bì bóng nước loạn dưỡng là gì?
+
+Bệnh bong biểu bì bóng nước loạn dưỡng (DEB) đặc trưng bởi sự hình thành mụn nước ở lớp màng dày trong vùng màng đáy và lớp trung bì trên. Bệnh gây phồng rộp toàn thân ở da và niêm mạc bên trong , dẫn đến hình thành sẹo.
+
+---
+
+## Ai mắc bệnh ly thượng bì bóng nước loạn dưỡng?
+
+Bệnh ly thượng bì bóng nước loạn dưỡng là một bệnh di truyền hiếm gặp. Có hai phân nhóm chính: ly thượng bì bóng nước loạn dưỡng di truyền trội nhiễm sắc thể thường (DDEB) và ly thượng bì bóng nước loạn dưỡng di truyền lặn nhiễm sắc thể thường (RDEB). Phân nhóm sau nghiêm trọng hơn.
+
+---
+
+## Nguyên nhân gây ra bệnh ly thượng bì bóng nước loạn dưỡng là gì?
+
+Bệnh ly thượng bì bóng nước loạn dưỡng chiếm ưu thế là do đột biến dị hợp tử ở gen collagen loại VII ( COL7A1 ; 120120 [](https://translate.google.com/website) ) trên nhiễm sắc thể 3p21.
+Bệnh bong biểu bì thoái hóa lặn là do đột biến đồng hợp tử hoặc dị hợp tử kép ở gen mã hóa collagen loại VII ( COL7A1 ; 120120) trên nhiễm sắc thể 3p21. Các biến thể nhẹ hơn của bệnh bong biểu bì thoái hóa lặn đã được báo cáo với các đột biến ảnh hưởng đến vị trí ghép nối chấp nhận intron 19 của COL7A1 .
+
+---
+
+## Đặc điểm lâm sàng của bệnh ly thượng bì bóng nước loạn dưỡng là gì?
+
+Các loại phụ DEB Đặc trưng EB tổng quát chiếm ưu thế (DEB) Mụn nước toàn thân xuất hiện khi mới sinh Phồng rộp sẽ khu trú ở tay, chân, khuỷu tay hoặc đầu gối khi trẻ lớn hơn và phản ứng với ma sát Những đốm trắng nhỏ gọi là [milia](https://dermnetnz.org/topics/milium) thường xuất hiện ở những vị trí đã lành nhưng có sẹo Hội chứng Bart : [loạn sản da](https://dermnetnz.org/topics/aplasia-cutis) , tổn thương ở miệng và móng bất thường do collagen loại 7 bất thường ở các sợi neo Cũng có thể bị phồng rộp thực quản EB lặn nghiêm trọng tổng quát (RDEB) Trước đây được gọi là Hallopeau-Siemens; và; RDEB trung gian tổng quát (trước đây là Non-Hallopeau-Siemens) Có thể biểu hiện bằng phồng rộp nghiêm trọng (RDEB nghiêm trọng lan tỏa) hoặc bệnh nhẹ (RDEB trung gian lan tỏa) Phồng rộp nghiêm trọng lan rộng phổ biến hơn và ảnh hưởng đến các vùng da và niêm mạc rộng lớn Các vết phồng rộp lành lại nhưng để lại sẹo và biến dạng gây hạn chế vận động vì các ngón tay và ngón chân có thể dính chặt vào nhau (bàn tay đeo găng) Các biến chứng như nhiễm trùng , [suy dinh dưỡng](https://dermnetnz.org/topics/topics/malnutrition-including-anorexia-nervosa) và mất nước có thể gây tử vong ở trẻ sơ sinh Những người sống sót có nguy cơ cao phát triển thành [ung thư biểu mô tế bào vảy](https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma) (SCC) nguy hiểm tiềm tàng trong các vết thương EB mạn tính . SCC trông và hoạt động khác nhau ở những người bị EB so với những người không bị ảnh hưởng. Chúng được tìm thấy ở những vị trí được che phủ và phát triển nhanh chóng. Chúng biểu hiện dưới dạng các nốt loét hoặc mảng sừng hóa .
+![Ly giải biểu bì bóng nước loạn dưỡng lặn](https://dermnetnz.org/assets/Uploads/systemic/rdeb-1.jpg)
+![Ly giải biểu bì bóng nước loạn dưỡng lặn](https://dermnetnz.org/assets/Uploads/systemic/rdeb-2.jpg)
+
+---
+
+## Làm thế nào chẩn đoán bệnh ly thượng bì bóng nước loạn dưỡng?
+
+Trong các phân nhóm chính của bệnh ly thượng bì bóng nước, nơi có phả hệ thông tin rõ ràng, thường có thể chấp nhận được khi chẩn đoán lâm sàng được thực hiện bởi bác sĩ da liễu chuyên khoa dựa trên các dấu hiệu biểu hiện.
+- Các xét nghiệm chẩn đoán cũng có sẵn ở một số quốc gia, bao gồm sinh thiết da của một mụn nước mới hình thành, sau đó được lập bản đồ kháng nguyên miễn dịch huỳnh quang (IFM) và/hoặc kính hiển vi điện tử truyền qua (EM). Phân tích đột biến (xét nghiệm gen trong máu ), mặc dù hiện không được coi là xét nghiệm chẩn đoán hàng đầu, cũng có sẵn ở một số quốc gia.
+[Ung thư biểu mô tế bào vảy](https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma) trong bệnh bong biểu bì loạn dưỡng được chẩn đoán dựa vào biểu hiện lâm sàng và được hỗ trợ bằng sinh thiết.
+
+---
+
+## Điều trị bệnh ly thượng bì bóng nước loạn dưỡng là gì?
+
+Xem điều trị [bệnh bong biểu bì bọng nước – chung.](https://dermnetnz.org/topics/epidermolysis-bullosa)
+- Ngứa có thể là vấn đề đối với những bệnh nhân mắc bệnh bong biểu bì bọng nước do loạn dưỡng — các biện pháp như dưỡng ẩm và tránh môi trường nóng có thể giúp ích.
+- Oleogel-S10, chứa triterpene bạch dương hoặc chiết xuất vỏ cây bạch dương, đã được chứng minh là có tác dụng đẩy nhanh quá trình chữa lành vết thương mãn tính ở bệnh bong biểu bì bóng nước và thoái hóa.
+- Trong bệnh lý bong biểu bì loạn dưỡng trội (DDEB), trọng tâm là phòng ngừa và xử lý mụn nước. Điều này liên quan đến da, nhưng cũng có thể bao gồm việc ăn thức ăn mềm để giảm mụn nước thực quản .
+- Trong trường hợp bệnh bong biểu bì bóng nước thoái hóa thể lặn nặng (RDEB), cần đặc biệt chú ý đến cả da và niêm mạc. Việc kiểm soát đau, ngứa , nhiễm trùng, sẹo và biến dạng , [suy dinh dưỡng](https://dermnetnz.org/topics/malnutrition-including-anorexia-nervosa) và thiếu máu đều đóng vai trò quan trọng trong điều trị RDEB hàng ngày.
+- Các thử nghiệm về liệu pháp gen beremagene geperpavec (B-VEC) tại chỗ đã mang lại một số kết quả khả quan trong việc điều trị vết thương ngoài da ở DEB.
+- Prademagene zamikeracel là một liệu pháp điều trị gen tại chỗ khác có triển vọng trong RDEB, giúp giảm thời gian lành vết thương và giảm đau.
+- Ung thư biểu mô tế bào vảy được điều trị bằng phẫu thuật. Phẫu thuật này nên được thực hiện sớm, vì khối u rất hung hãn và thường đã di căn vào thời điểm chẩn đoán. Có thể cần phải cắt cụt chi.
+- Có dữ liệu thí điểm đầy hứa hẹn về việc điều trị RDEB bằng gentamicin tiêm tĩnh mạch như một liệu pháp đọc xuyên qua biến thể vô nghĩa.
+
+---
+
+## Kết quả điều trị cho bệnh nhân mắc bệnh bong biểu bì bọng nước loạn dưỡng là gì?
+
+Tuổi thọ không bị ảnh hưởng ở bệnh nhân bị bong biểu bì loạn dưỡng trội. Ở bệnh nhân bị bong biểu bì loạn dưỡng lặn , tuổi thọ đã được cải thiện đáng kể nhờ việc quản lý và can thiệp phù hợp liên quan đến các biến chứng của bệnh, bao gồm phát hiện sớm và điều trị [ung thư biểu mô tế bào vảy](https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma) (SCC).

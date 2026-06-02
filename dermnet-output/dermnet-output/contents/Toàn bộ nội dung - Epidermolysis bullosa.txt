@@ -1,0 +1,106 @@
+# Ly thượng bì bọng nước – thông tin bổ sung
+
+Thể loại:
+
+Di truyền
+
+SNOMED CT:
+
+61003004, 40781004, 67144006, 399971009, 254185007, 238836000
+
+**[Di truyền](https://dermnetnz.org/topics/topics?category=Genetic)**
+
+
+# **Bệnh bong biểu bì bóng nước**
+
+Tác giả: Vanessa Ngan, Nhân viên viết, 2003. Được cập nhật bởi Jane Widdowson, Chuyên gia Y tá Lâm sàng EB, và cộng sự, DEBRA New Zealand, 2016. Cập nhật nhỏ vào tháng 6 năm 2023.
+
+---
+
+## Ly thượng bì bọng nước là gì?
+
+Bệnh ly thượng bì bóng nước (EB) là một nhóm bệnh di truyền đặc trưng bởi các tổn thương phồng rộp trên da và niêm mạc. Chúng có thể xuất hiện ở bất kỳ vị trí nào trên cơ thể, nhưng thường gặp nhất là ở những vị trí ma sát và chấn thương nhẹ như bàn chân và bàn tay. Ở một số phân nhóm, mụn nước cũng có thể xuất hiện ở các cơ quan nội tạng, chẳng hạn như thực quản , dạ dày và đường hô hấp, mà không có bất kỳ ma sát rõ ràng nào.
+![Bệnh bong biểu bì bóng nước](https://dermnetnz.org/assets/Uploads/systemic/eb1.jpg)
+![Bệnh bong biểu bì bóng nước](https://dermnetnz.org/assets/Uploads/systemic/eb2.jpg)
+![Bệnh bong biểu bì bóng nước](https://dermnetnz.org/assets/Uploads/systemic/eb3.jpg)
+![Bệnh bong biểu bì bóng nước](https://dermnetnz.org/assets/Uploads/systemic/eb4.jpg)
+![Bệnh bong biểu bì bóng nước](https://dermnetnz.org/assets/Uploads/systemic/eb5.jpg)
+![Bệnh bong biểu bì bóng nước](https://dermnetnz.org/assets/Uploads/systemic/eb6.jpg)
+![Bệnh bong biểu bì bóng nước](https://dermnetnz.org/assets/Uploads/systemic/eb7.jpg)
+![Bệnh bong biểu bì bóng nước](https://dermnetnz.org/assets/Uploads/systemic/eb8.jpg)
+![Bệnh bong biểu bì bóng nước](https://dermnetnz.org/assets/Uploads/systemic/eb9.jpg)
+EB cần được phân biệt với [các mụn nước do ma sát](https://dermnetnz.org/topics/friction-blister) thông thường và với [bệnh ly thượng bì bóng nước mắc phải](https://dermnetnz.org/topics/epidermolysis-bullosa-acquisita) (EBA), một [bệnh tự miễn](https://dermnetnz.org/topics/autoimmune-diseases-in-dermatology) gây phồng rộp không di truyền và thường không phát triển cho đến khi trưởng thành.
+Tình trạng EB là kết quả của khiếm khuyết di truyền của các phân tử da liên quan đến khả năng bám dính. Mất khả năng bám dính dẫn đến hình thành mụn nước. Có bốn loại EB chính dựa trên các vị trí hình thành mụn nước khác nhau trong cấu trúc da:
+Loại EB Vị trí hình thành mụn nước trong da [Ly thượng bì bọng nước đơn giản](https://dermnetnz.org/topics/epidermolysis-bullosa-simplex) (EBS) Lớp biểu bì hoặc lớp trên cùng của tế bào da ( tế bào sừng ) [Ly thượng bì bọng nước nối](https://dermnetnz.org/topics/junctional-epidermolysis-bullosa) (JEB) Lamina lucida trong vùng màng đáy [Bệnh ly thượng bì bóng nước loạn dưỡng](https://dermnetnz.org/topics/dystrophic-epidermolysis-bullosa) (DEB) Lamina densa và lớp hạ bì trên [Hội chứng Kindler](https://dermnetnz.org/topics/kindler-syndrome) Mẫu hỗn hợp hoặc nhiều cấp độ bên trong và bên dưới vùng màng nền
+Trong mỗi loại EB này, có nhiều phân nhóm khác nhau. Mỗi loại EB có mức độ nghiêm trọng khác nhau, từ nhẹ đến nặng. Sự đồng thuận quốc tế về chẩn đoán và phân loại EB đã dẫn đến các khuyến nghị cập nhật (năm 2014), dựa trên dữ liệu lâm sàng và phân tử mới hơn .
+
+---
+
+## Ai bị bệnh bong biểu bì bóng nước?
+
+EB là một bệnh di truyền, nghĩa là bạn thừa hưởng một hoặc hai gen EB. Trong EB trội nhiễm sắc thể thường , chỉ cần một gen bất thường là có thể biểu hiện bệnh. Điều này có nghĩa là chỉ cần một trong hai cha mẹ mang gen EB. Mặt khác, EB lặn nhiễm sắc thể thường đòi hỏi bạn phải có hai gen EB (một từ mỗi cha mẹ) để mắc bệnh. Nếu một người có một gen EB lặn kết hợp với một gen bình thường, họ được gọi là người mang gen và không mắc bệnh.
+EB thường xuất hiện ngay khi sinh hoặc ngay sau đó. Cả nam và nữ đều bị ảnh hưởng như nhau. Đôi khi, EB có thể nhẹ lúc mới sinh nên không biểu hiện rõ ràng, và phải đến khi trẻ lớn hơn hoặc trưởng thành mới được phát hiện.
+
+---
+
+## Đặc điểm lâm sàng của bệnh ly thượng bì bọng nước là gì?
+
+
+### Ly thượng bì bọng nước đơn giản (EBS)
+Để biết thêm chi tiết, xem [Epidermolysis bullosa simplex](https://dermnetnz.org/topics/epidermolysis-bullosa-simplex) .
+Các phân nhóm EBS Đặc trưng EBS cục bộ Trước đây được gọi là Weber-Cockayne Dạng phổ biến và cục bộ nhất của EBS Các vết phồng rộp xuất hiện ở tay và chân do ma sát Thường xuất hiện ở trẻ sơ sinh khi trẻ bắt đầu bò và đi Vết thương lành mà không để lại sẹo, nhưng có thể có hiện tượng da dày lên ở lòng bàn chân và lòng bàn tay EBS tổng quát Trước đây được gọi là Koebner EBS toàn thân là tình trạng mụn nước phát triển khắp cơ thể nhưng thường gặp ở tay, chân và tứ chi Xuất hiện khi mới sinh hoặc vào đầu thời kỳ trẻ sơ sinh Có thể có sự liên quan nhẹ đến niêm mạc và móng tay Da dày lên và xuất hiện các mảng bám ở lòng bàn tay và lòng bàn chân EBS nặng toàn thể Trước đây được gọi là Dowling Meara Một dạng EBS tổng quát và nghiêm trọng Có biểu hiện phồng rộp ở mặt, thân và chân tay khi mới sinh Da dày có thể gây ra vết chai làm hạn chế hoặc cản trở chuyển động của khớp Móng tay thường bị ảnh hưởng Có thể liên quan đến các cơ quan khác bao gồm bên trong miệng, đường tiêu hóa và đường hô hấp Sự tham gia rộng rãi có thể gây tử vong ở trẻ sơ sinh, nhưng thường có sự cải thiện đáng kể theo tuổi tác
+
+### Ly thượng bì bọng nước nối (JEB)
+Để biết thêm chi tiết, xem [phần Bóng nước biểu bì nối](https://dermnetnz.org/topics/junctional-epidermolysis-bullosa) .
+Các phân nhóm JEB Đặc trưng JEB nặng lan tỏa Trước đây được gọi là Herlitz Một dạng JEB toàn thân và nghiêm trọng nhất, trong đó các mụn nước xuất hiện khắp cơ thể và thường ảnh hưởng đến niêm mạc và các cơ quan nội tạng Có thể chỉ xuất hiện khi mới sinh với một mụn nước nhỏ nhưng sẽ lan rộng hơn ngay sau đó Tiếng khóc khàn hoặc ho là dấu hiệu của sự liên quan đến các cơ quan nội tạng Các biến chứng như nhiễm trùng , [suy dinh dưỡng](https://dermnetnz.org/topics/malnutrition-including-anorexia-nervosa) và mất nước thường dẫn đến tử vong sớm ở trẻ sơ sinh Hầu hết các trường hợp đều tử vong trong vòng 12–24 tháng đầu đời JEB trung gian tổng quát Trước đây được gọi là Non-Herlitz Phồng rộp toàn thân và tổn thương niêm mạc xuất hiện khi sinh hoặc ngay sau đó Da đầu, móng tay và răng liên quan nhiều hơn Các biến chứng như nhiễm trùng, suy dinh dưỡng và mất nước có thể gây tử vong ở trẻ sơ sinh nhưng những trẻ sống sót sẽ cải thiện về mặt lâm sàng khi tuổi càng cao.
+
+### Bệnh ly thượng bì bóng nước loạn dưỡng (DEB)
+Để biết thêm chi tiết, xem [Bệnh ly thượng bì bóng nước loạn dưỡng](https://dermnetnz.org/topics/dystrophic-epidermolysis-bullosa) .
+Các loại phụ DEB Đặc trưng DEB tổng quát chiếm ưu thế Mụn nước toàn thân xuất hiện khi mới sinh Phồng rộp sẽ khu trú ở tay, chân, khuỷu tay hoặc đầu gối khi trẻ lớn hơn và phản ứng với ma sát Những đốm trắng nhỏ gọi là [milia](https://dermnetnz.org/topics/milium) thường xuất hiện ở những vị trí đã lành nhưng có sẹo [EB với tình trạng thiếu da bẩm sinh](https://dermnetnz.org/topics/epidermolysis-bullosa-with-congenital-absence-of-skin) ( [hội chứng Bart](https://dermnetnz.org/topics/epidermolysis-bullosa-with-congenital-absence-of-skin) ): [loạn sản da](https://dermnetnz.org/topics/aplasia-cutis) , tổn thương ở miệng và móng bất thường do collagen loại 7 bất thường ở các sợi neo Cũng có thể bị phồng rộp thực quản DEB lặn nghiêm trọng tổng quát (R) Trước đây được gọi là Hallopeau-Siemens; và; RDEB trung gian tổng quát (trước đây là Non-Hallopeau-Siemens) Có thể biểu hiện bằng phồng rộp nghiêm trọng [(RDEB toàn thân nghiêm trọng) hoặc bệnh nhẹ (RDEB trung gian toàn thân)](https://dermnetnz.org/topics/epidermolysis-bullosa-with-congenital-absence-of-skin) Phồng rộp nghiêm trọng lan rộng phổ biến hơn và ảnh hưởng đến các vùng da và niêm mạc rộng lớn Các vết phồng rộp lành lại nhưng để lại sẹo và biến dạng gây hạn chế vận động vì ngón tay và ngón chân có thể dính chặt (bàn tay đeo găng) Các biến chứng như nhiễm trùng, [suy dinh dưỡng](https://dermnetnz.org/topics/malnutrition-including-anorexia-nervosa) và mất nước có thể gây tử vong ở trẻ sơ sinh Những người sống sót có nguy cơ cao phát triển [ung thư biểu mô tế bào vảy](https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma) (SCC) trong các vết thương EB mạn tính . SCC trông và hoạt động khác nhau ở những người EB so với những người không bị ảnh hưởng. Do đó, nên cân nhắc ngưỡng đánh giá thấp của bác sĩ da liễu chuyên khoa.
+
+### Hội chứng Kindler
+Hội chứng Kindler Đặc trưng Hội chứng Kindler Phồng rộp và nhạy cảm với ánh sáng bắt đầu từ thời thơ ấu hoặc thời thơ ấu Da bị biến dạng dần dần (thay đổi sắc tố ) và teo da (teo) Phồng rộp do chấn thương ở tay và chân Cũng có thể phát triển các tổn thương niêm mạc, bất thường về mắt và răng Sự phát triển sớm của [bệnh sừng hóa ánh sáng](https://dermnetnz.org/topics/actinic-keratosis)
+Có nhiều phân nhóm EB khác. Biểu hiện và mức độ nghiêm trọng của EB bị ảnh hưởng bởi những thay đổi di truyền cụ thể và đôi khi có thể khó phân loại.
+Tư vấn di truyền và [xét nghiệm trước sinh](https://dermnetnz.org/topics/prenatal-diagnosis-of-inherited-skin-conditions) cho bệnh EB có sẵn tại một số trung tâm và nên được cân nhắc.
+Trẻ em mắc EB và gia đình cũng nên được cân nhắc giới thiệu đến cơ sở hỗ trợ tâm lý, đặc biệt là đối với các phân nhóm nghiêm trọng hơn.
+
+---
+
+## Làm thế nào chẩn đoán được bệnh ly biểu bì bóng nước?
+
+Trong các phân nhóm EB chiếm ưu thế, nơi có phả hệ thông tin được biết đến, thường có thể chấp nhận được chẩn đoán lâm sàng (dựa trên các dấu hiệu biểu hiện) được đưa ra bởi bác sĩ da liễu chuyên khoa.
+Các xét nghiệm chẩn đoán cũng có sẵn ở một số quốc gia, bao gồm sinh thiết da của một mụn nước mới hình thành, sau đó được lập bản đồ kháng nguyên miễn dịch huỳnh quang (IFM) và kính hiển vi điện tử truyền qua (EM). Phân tích đột biến (xét nghiệm gen trong máu), mặc dù hiện không được coi là xét nghiệm chẩn đoán hàng đầu, cũng có sẵn ở một số quốc gia.
+Bạn sẽ cần phải được giới thiệu đến bác sĩ da liễu.
+
+---
+
+## Mức độ nghiêm trọng của bệnh bong biểu bì bóng nước được đánh giá như thế nào?
+
+Mức độ nghiêm trọng của EB có thể được đánh giá bằng cách sử dụng các hệ thống tính điểm sau:
+- Điểm EB của Birmingham
+- EBDASI: Chỉ số hoạt động và sẹo EB
+- iSCOREB: một công cụ để chấm điểm kết quả lâm sàng cho nghiên cứu về EB
+- QOLEB: Đánh giá chất lượng cuộc sống ở EB
+
+---
+
+## Điều trị bong biểu bì bóng nước
+
+
+### Tổng quan
+Hiện chưa có phương pháp chữa khỏi EB. Tuy nhiên, các nghiên cứu quan trọng, bao gồm liệu pháp gen và liệu pháp tế bào, vẫn đang được tiếp tục nhằm mục đích cải thiện chất lượng cuộc sống.
+Hầu hết các phương pháp điều trị hiện nay đều là điều trị triệu chứng. Mục đích chính là bảo vệ da và ngăn ngừa hình thành mụn nước, thúc đẩy quá trình lành thương và ngăn ngừa biến chứng.
+Vì EB có thể ảnh hưởng đến rất nhiều bộ phận khác nhau của cơ thể, nên thường cần một đội ngũ chuyên gia y tế để chăm sóc toàn diện. Khi cần thiết, bác sĩ có thể kê đơn điều trị bằng thuốc uống và thuốc bôi ngoài da để hỗ trợ chữa lành hoặc ngăn ngừa biến chứng.
+Sau đây là một số biện pháp chung được sử dụng để chăm sóc bệnh nhân mắc EB.
+- Tránh các hoạt động gây ma sát lên da. Điều này bao gồm việc bế trẻ sơ sinh và trẻ em – bạn có thể dễ dàng học được các kỹ thuật bế thay thế từ chuyên gia chăm sóc sức khỏe được đào tạo.
+- Duy trì môi trường mát mẻ và tránh quá nóng
+- Sử dụng đệm xốp hoặc da cừu để giúp giảm ma sát trên các đồ nội thất như giường, ghế và ghế ô tô cho trẻ sơ sinh
+- Chọn quần áo (bao gồm cả tã) và giày dép nhẹ, không có đường may hoặc chi tiết gây kích ứng (ví dụ: có khóa kéo và dây chun bó sát).
+- Chọc thủng, dẫn lưu và băng bó vết phồng rộp để thúc đẩy quá trình lành vết thương (chỉ những người đã được đào tạo về chăm sóc vết thương mới được thực hiện)
+- Nhiều loại băng dính và băng gạc thông thường có thể không phù hợp với người bị EB — đặc biệt là những người bị các dạng nặng hơn (ví dụ: RDEB) — vì việc tháo chúng có thể gây thêm chấn thương cho da. Khuyến khích sử dụng các sản phẩm chăm sóc vết thương tiên tiến như băng dính và băng gạc silicon ít dính. Tuy nhiên, việc khéo léo sử dụng các vật dụng sẵn có, chẳng hạn như bôi thêm chất bôi trơn (ví dụ: Vaseline/dầu parafin) lên một số loại băng gạc thông thường, cũng rất hữu ích.
+- Oleogel-S10, chứa triterpene bạch dương hoặc chiết xuất vỏ cây bạch dương, đã được chứng minh là có tác dụng đẩy nhanh quá trình chữa lành vết thương mãn tính ở bệnh bong biểu bì bóng nước và thoái hóa .
+- Khi EB ảnh hưởng đến các bộ phận khác của cơ thể, cần áp dụng nhiều biện pháp chăm sóc và điều trị khác nhau. Ví dụ, chế độ ăn mềm khi thực quản bị ảnh hưởng hoặc sử dụng thuốc làm mềm phân khi bị táo bón, hoặc nếu bệnh nhân bị phồng rộp hậu môn .
+- Các hướng dẫn thực hành lâm sàng có sẵn trên trang web DEBRA* International bao gồm các hướng dẫn về chăm sóc sức khỏe răng miệng, chăm sóc vết thương, quản lý cơn đau, quản lý ung thư .
+- Hỗ trợ và thông tin thêm từ các chuyên gia chăm sóc sức khỏe và những người bị ảnh hưởng bởi EB: DEBRA (Hiệp hội nghiên cứu bệnh bong biểu bì Dystrophic Bullosa) quốc tế có hơn 50 nhóm thành viên trên toàn thế giới. Eb-Clinet là mạng lưới lâm sàng gồm các trung tâm và chuyên gia EB trên toàn thế giới.
+- DEBRA (Hiệp hội nghiên cứu bệnh bong biểu bì Dystrophic Bullosa) quốc tế có hơn 50 nhóm thành viên trên toàn thế giới.
+- Eb-Clinet là mạng lưới lâm sàng gồm các trung tâm và chuyên gia EB trên toàn thế giới.

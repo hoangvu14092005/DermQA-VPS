@@ -1,0 +1,110 @@
+# U lympho nội mạch — thông tin bổ sung
+
+Thể loại:
+
+Tổn thương (ung thư), Bệnh hệ thống
+
+SNOMED CT:
+
+399648005, 255102004
+
+**[Tổn thương (ung thư), Bệnh hệ thống](https://dermnetnz.org/topics/topics?category=Lesions+(cancerous))**
+
+
+# **U lympho nội mạch**
+
+Tác giả: Tiến sĩ Amaani Hussain, Bác sĩ Đào tạo Nền tảng, Quỹ Tín thác Dịch vụ Y tế Quốc gia (NHS) thuộc Bệnh viện Newcastle upon Tyne, Newcastle upon Tyne, Vương quốc Anh. Tổng Biên tập DermNet: Phó Giáo sư Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand. Biên tập bởi Gus Mitchell. Tháng 8 năm 2018.
+
+---
+
+## U lympho nội mạch là gì?
+
+U lympho nội mạch là một phân nhóm hiếm gặp của u lympho tế bào B lớn, trong đó các tế bào u lympho tăng sinh trong lòng mạch máu nhỏ . Bệnh thường biểu hiện bằng các dấu hiệu ở hệ thần kinh trung ương ( CNS ) và da. Biến thể da của u lympho nội mạch chỉ giới hạn ở da [1].
+U lympho nội mạch còn được gọi là u lympho tế bào B lớn nội mạch, u lympho nội mạch, u lympho tế bào lớn hướng mạch và u nội mô mạch ác tính . Do chẩn đoán u lympho nội mạch có thể khó khăn, bệnh thường chỉ được chẩn đoán thông qua khám nghiệm tử thi.
+![U lympho nội mạch giãn mạch](https://dermnetnz.org/assets/Uploads/intravascular-lymphoma-01.jpg)
+![U lympho nội mạch giãn mạch](https://dermnetnz.org/assets/Uploads/intravascular-lymphoma-02.jpg)
+![U lympho nội mạch giãn mạch](https://dermnetnz.org/assets/Uploads/intravascular-lymphoma-03.jpg)
+
+---
+
+## Ai mắc bệnh u lympho nội mạch?
+
+U lympho nội mạch rất hiếm gặp và tỷ lệ mắc thực sự vẫn chưa được biết rõ. Độ tuổi chẩn đoán điển hình nhất là 50–70 tuổi. Bệnh xảy ra như nhau ở cả nam và nữ [1–3].
+Biến thể da của u lympho nội mạch chủ yếu được chẩn đoán ở phụ nữ trẻ tuổi [1]. Có các dạng bệnh ở phương Tây và châu Á.
+
+---
+
+## Nguyên nhân nào gây ra bệnh u lympho nội mạch?
+
+U lympho nội mạch là do sự tăng sinh của các tế bào lympho dạng tân sinh trong mao mạch và các tiểu tĩnh mạch sau mao mạch . Các tế bào tân sinh này thường là tế bào B CD20+ trưởng thành (CD20 là kháng nguyên trên bề mặt của một số tế bào B), nhưng cũng có những trường hợp hiếm gặp u lympho nội mạch tế bào T hoặc tế bào NK [2].
+
+---
+
+## Đặc điểm lâm sàng của u lympho nội mạch là gì?
+
+Biểu hiện của u lympho nội mạch rất đa dạng. Thông thường, không giống như các dạng u lympho khác, u lympho này không có khối u hoặc tế bào u lympho lưu hành có thể phát hiện được.
+- Các triệu chứng của thể B, chẳng hạn như sốt nhẹ , đổ mồ hôi đêm và sụt cân, ảnh hưởng đến phần lớn bệnh nhân.
+- Các tổn thương ở dạng u lympho nội mạch dưới da tương tự như các tổn thương ở dạng nội tạng [4].
+- Các dấu hiệu thần kinh tiến triển nhanh bao gồm chứng mất trí, bệnh thần kinh và đột quỵ.
+- Các đặc điểm về da có ở 40% bệnh nhân mắc u lympho nội mạch bao gồm [1,4]: Các nốt sần và mảng bám (49%) Các đốm đỏ và xám Tổn thương ở chân (đặc biệt là mặt trong phía trước của đùi) và thân mình.
+- Các nốt sần và mảng bám (49%)
+- Các đốm đỏ và xám
+- Tổn thương ở chân (đặc biệt là mặt trong phía trước của đùi) và thân mình.
+Các đặc điểm da khác được thấy trong u lympho nội mạch bao gồm:
+- Phù nề da (28%) và giãn mạch (20%)
+- Tổn thương đau (24%).
+U lympho được tìm thấy ở các cơ quan khác ở khoảng 30% bệnh nhân có đặc điểm về da [1]. Lách, gan và tủy xương ít bị ảnh hưởng hơn.
+
+---
+
+## Biến chứng của u lympho nội mạch là gì?
+
+U lympho nội mạch sớm dẫn đến suy đa cơ quan , do ảnh hưởng đến tủy xương, thận , gan lách (gan và lách) và hệ thần kinh trung ương. Bệnh thường gây tử vong trong vòng vài tháng sau khi chẩn đoán.
+
+---
+
+## U lympho nội mạch được chẩn đoán như thế nào?
+
+[U lympho nội mạch được chẩn đoán bằng cách sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) sâu ở các tổn thương da hoặc bằng cách sinh thiết ngẫu nhiên vùng da có vẻ khỏe mạnh.
+- Lý tưởng nhất là chọn [u mạch máu anh đào](https://dermnetnz.org/topics/cherry-angioma) để sinh thiết nếu có (các tế bào tân sinh có thể bị mắc kẹt trong những u này) [5].
+- Sự thâm nhiễm quanh mạch máu phản ứng dưới dạng các tế bào lympho nhỏ và tế bào plasma đi kèm với các tế bào lympho bất thường trong các mao mạch da.
+- Nếu sinh thiết da không chẩn đoán được bệnh, cần tiến hành sinh thiết ở các cơ quan khác nghi ngờ có liên quan.
+- Phân tích miễn dịch các tế bào lympho nội mạch (sử dụng các dấu hiệu CD20 và các dấu hiệu khác) là cần thiết để phân biệt u lympho nội mạch tế bào B với các phân nhóm u lympho tế bào T hoặc tế bào NK hiếm gặp hơn.
+- Chụp hình ảnh nên bao gồm chụp cộng hưởng từ ( MRI ) để phát hiện nghi ngờ tổn thương hệ thần kinh trung ương.
+- Những phát hiện về máu không đặc hiệu có thể bao gồm [6]: Tăng lactate dehydrogenase và beta-2 microglobulin (ở 80–90% bệnh nhân) Thiếu máu (65%) Tăng tỷ lệ hồng cầu ( ESR ) (43%) Thay đổi chức năng thận, gan hoặc tuyến giáp (15–20%) Protein đơn dòng (14%).
+- Tăng lactate dehydrogenase và beta-2 microglobulin (ở 80–90% bệnh nhân)
+- Thiếu máu (65%)
+- Tăng tỷ lệ hồng cầu ( ESR ) (43%)
+- Thay đổi chức năng thận, gan hoặc tuyến giáp (15–20%)
+- Protein đơn dòng (14%).
+
+---
+
+## Chẩn đoán phân biệt đối với u lympho nội mạch là gì?
+
+Một số rối loạn khác có thể được xem xét ở những bệnh nhân có biểu hiện lâm sàng của u lympho nội mạch trên da. Các rối loạn này bao gồm:
+- [Viêm tắc tĩnh mạch](https://dermnetnz.org/topics/superficial-thrombophlebitis) — không có giãn mạch hoặc các đặc điểm toàn thân
+- [Viêm tắc tĩnh mạch di chuyển](https://dermnetnz.org/topics/trousseau-syndrome) — các vùng bị ảnh hưởng di chuyển và chủ yếu ảnh hưởng đến cẳng chân
+- [Bệnh hồng ban](https://dermnetnz.org/topics/erysipelas) — gây sốt và đau hạch bạch huyết (bệnh nhân bị u lympho nội mạch không sốt )
+- [Ban đỏ nốt](https://dermnetnz.org/topics/erythema-nodosum) — thường xuất hiện ở cẳng chân trước
+- [Viêm đa động mạch dạng nốt](https://dermnetnz.org/topics/cutaneous-polyarteritis-nodosa) — đặc trưng bởi [loét ở cẳng chân](https://dermnetnz.org/topics/leg-ulcer) và các nốt ở phân bố động mạch ; không có lợi cho đùi
+- [Bệnh Livedo racemosa](https://dermnetnz.org/topics/livedo-reticularis) — có thể kèm theo loét và sẹo
+- [Thuyên tắc nhiễm trùng](https://dermnetnz.org/topics/septic-emboli) — biểu hiện dưới dạng các nốt sẩn viêm mềm thường xuất hiện ở các ngón tay.
+Các phản ứng viêm hoặc miễn dịch khác của hạch bạch huyết tạo ra các tế bào lympho hoạt động trong các tĩnh mạch sau mao mạch mà không có bất kỳ triệu chứng nào về thể chất, rối loạn máu hoặc rối loạn chức năng cơ quan.
+[Bệnh lý mô](https://dermnetnz.org/topics/histiocytosis) bào nội bạch huyết là một tình trạng phản ứng của đại thực bào , liên quan đến [viêm khớp dạng thấp](https://dermnetnz.org/topics/rheumatoid-arthritis-and-the-skin) . Bệnh có thể biểu hiện bằng các tổn thương lâm sàng tương tự như u lympho nội mạch và có sự tăng sinh tế bào lớn nội mạch. Bệnh có thể được phân biệt với u lympho nội mạch bằng phương pháp miễn dịch biểu hiện, cho thấy không có dấu hiệu đặc hiệu của đại thực bào và không có dấu hiệu lympho [7].
+
+---
+
+## Phương pháp điều trị u lympho nội mạch là gì?
+
+Không có hướng dẫn hoặc bằng chứng nào được công bố từ các thử nghiệm có kiểm soát về điều trị u lympho nội mạch.
+Sự đồng thuận chung của các chuyên gia là bệnh nhân u lympho nội mạch nên được coi là bệnh lan tỏa . Phần lớn bệnh nhân được điều trị bằng [hóa trị liệu](https://dermnetnz.org/topics/skin-toxicity-of-chemotherapy-drugs) tích cực ; đặc biệt là sự kết hợp của thuốc kháng CD20 tái tổ hợp [rituximab](https://dermnetnz.org/topics/rituximab) , [cyclophosphamide](https://dermnetnz.org/topics/cyclophosphamide) , doxorubicin (hydroxydaunomycin), vincristine (Oncovin® ) và [steroid toàn thân](https://dermnetnz.org/topics/systemic-steroids) , chẳng hạn như prednisone hoặc prednisolone (R-CHOP) [1].
+Những người chỉ bị tổn thương một vùng da có thể được cân nhắc điều trị bằng [xạ trị](https://dermnetnz.org/topics/radiotherapy-for-malignant-skin-diseases) , có hoặc không có hóa trị.
+Theo dõi lâm sàng là bắt buộc để phát hiện sự tiến triển của bệnh và sự liên quan đến các cơ quan khác [4].
+
+---
+
+## Kết quả của bệnh u lympho nội mạch là gì?
+
+U lympho nội mạch thường có diễn biến tử vong do chẩn đoán muộn và bệnh đã tiến triển tại thời điểm chẩn đoán. [Sinh thiết](https://dermnetnz.org/topics/skin-biopsy) các tổn thương da cho phép chẩn đoán sớm.
+Nhìn chung, bệnh nhân mắc biến thể da của u lympho nội mạch có kết quả tốt hơn so với bệnh nhân bị ảnh hưởng đến các cơ quan khác (10% bệnh nhân mắc biến thể da có kết quả tử vong so với 85% bệnh nhân bị ảnh hưởng đến các cơ quan khác). Hình thái của các tổn thương da không dự đoán được diễn biến lâm sàng hoặc tiên lượng của u lympho; tuy nhiên, nhiều tổn thương da có liên quan đến kết quả xấu hơn so với các tổn thương đơn lẻ [1].

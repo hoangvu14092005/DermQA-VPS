@@ -1,0 +1,151 @@
+# Bệnh scorbut — thông tin bổ sung
+
+Thể loại:
+
+Bệnh hệ thống
+
+SNOMED CT:
+
+76169001, 714128003, 43706004, 109859000
+
+**[Bệnh hệ thống](https://dermnetnz.org/topics/topics?category=Systemic+diseases)**
+
+
+# **Bệnh scorbut**
+
+Tác giả: Vanessa Ngan, Biên tập viên, 2005; Cập nhật: Casey P. Schukow, Sinh viên Y khoa, Khoa Y học Nắn xương, Đại học Bang Michigan, Detroit, MI, Hoa Kỳ; Tiến sĩ Martin Keefe, Bác sĩ Da liễu, Christchurch, New Zealand. Biên tập bởi Gus Mitchell. Tháng 8 năm 2021
+
+---
+
+## Bệnh scorbut là gì?
+
+Bệnh scorbut (scorbutus) là bệnh lâm sàng do thiếu vitamin C (axit ascorbic) với các biểu hiện đặc trưng ở niêm mạc da và cơ xương .
+![Vết bầm tím](https://dermnetnz.org/assets/Uploads/systemic/scleg.jpg)
+![Xuất huyết quanh nang lông và bầm tím](https://dermnetnz.org/assets/Uploads/systemic/scpap.jpg)
+![Tóc xoắn và ban xuất huyết](https://dermnetnz.org/assets/Uploads/systemic/schair.jpg)
+
+---
+
+## Ai bị bệnh scorbut?
+
+Bệnh scorbut có thể ảnh hưởng đến mọi lứa tuổi, cả nam và nữ, và mọi chủng tộc. Bệnh này vẫn phổ biến đáng ngạc nhiên trên toàn thế giới, ở cả các nước phát triển và đang phát triển . Nhu cầu vitamin C cao nhất ở trẻ em và phụ nữ mang thai, và thấp nhất ở người cao tuổi.
+Ở các nước phát triển, tình trạng thiếu hụt vitamin C ảnh hưởng đến 10% phụ nữ và 14% nam giới. Các nhóm bị ảnh hưởng bao gồm:
+- Trẻ em có chế độ ăn uống rất hạn chế có thể mắc chứng rối loạn phổ tự kỷ, rối loạn ăn uống hoặc chế độ ăn kiêng theo trào lưu; bệnh hồng cầu hình liềm hoặc bệnh thalassemia cần truyền máu dẫn đến quá tải sắt; chạy thận nhân tạo; [bệnh đường ruột](https://dermnetnz.org/topics/cutaneous-manifestations-of-inflammatory-bowel-disease) như [bệnh celiac](https://dermnetnz.org/topics/gluten-enteropathy-in-patients-with-dermatitis-herpetiformis) hoặc [bệnh Crohn](https://dermnetnz.org/topics/crohn-skin-disease)
+- Người lớn có liên quan đến: Mang thai (do nhu cầu tăng lên) Rối loạn tâm thần và hành vi bao gồm trầm cảm, [chán ăn tâm thần](https://dermnetnz.org/topics/malnutrition-including-anorexia-nervosa) , [nghiện rượu](https://dermnetnz.org/topics/cutaneous-adverse-effects-of-alcohol) Hấp thu kém do bệnh đường ruột, thừa sắt hoặc uống quá nhiều rượu Bệnh nhân ung thư do chán ăn liên quan đến bệnh ác tính , điều trị hoặc trầm cảm.
+- Mang thai (do nhu cầu tăng lên)
+- Rối loạn tâm thần và hành vi bao gồm trầm cảm, [chán ăn tâm thần](https://dermnetnz.org/topics/malnutrition-including-anorexia-nervosa) , [nghiện rượu](https://dermnetnz.org/topics/cutaneous-adverse-effects-of-alcohol)
+- Hấp thu kém do bệnh đường ruột, thừa sắt hoặc uống quá nhiều rượu
+- Bệnh nhân ung thư do chán ăn liên quan đến bệnh ác tính , điều trị hoặc trầm cảm.
+- Người già và những người khác sống một mình, có thu nhập thấp, vô gia cư hoặc có răng kém và không có chế độ ăn uống cân bằng
+Ở các nước đang phát triển như miền bắc Ấn Độ, tỷ lệ mắc bệnh có thể lên tới 73,9% do hạn chế tiếp cận với trái cây và rau quả giàu vitamin C.
+
+---
+
+## Nguyên nhân gây ra bệnh scorbut là gì?
+
+Bệnh scorbut phát triển khi tình trạng thiếu hụt vitamin C kéo dài trong nhiều tháng làm giảm tổng lượng dự trữ của cơ thể từ 1500mg xuống dưới 300mg. Không giống như hầu hết các loài động vật khác, con người không thể tự tổng hợp vitamin C, vốn phải được hấp thụ từ chế độ ăn uống.
+Vitamin C cần thiết cho:
+- Duy trì cấu trúc xoắn ba của collagen , một thành phần thiết yếu của mô liên kết bao gồm hỗ trợ mạch máu
+- Tác dụng chống oxy hóa làm giảm các gốc tự do , có tác dụng lên quá trình chuyển hóa lipid , xơ vữa động mạch và bệnh tim mạch
+- Sự hấp thụ sắt từ ruột non gần .
+
+---
+
+## Các đặc điểm lâm sàng của bệnh scorbut là gì?
+
+Các triệu chứng lâm sàng ban đầu của bệnh scorbut không đặc hiệu và bao gồm:
+- Cảm giác khó chịu và uể oải nói chung
+- Ăn kém và không phát triển
+- Tính khí thất thường
+- Sốt và nhịp thở nhanh.
+Khi tình trạng bệnh tiến triển, các triệu chứng khó thở, suy nhược, thiếu máu , phù nề , thay đổi niêm mạc da, các triệu chứng về mắt và cơ xương sẽ xuất hiện.
+
+### Đặc điểm niêm mạc da của bệnh scorbut
+- Sẩn sừng hóa nang lông xuất hiện đầu tiên ở cánh tay trên, thường lan xuống chân và mông
+- Xuất huyết quanh nang lông , ban xuất huyết (có thể sờ thấy được ) và bầm tím ở chân
+- Tóc thường bị xoắn và dễ gãy (tóc xoắn ốc, tóc cổ thiên nga)
+- Vết thương chậm lành và sẹo cũ lại mở ra
+- [Xuất huyết dằm](https://dermnetnz.org/topics/splinter-haemorrhage) ở móng tay
+- Nướu đỏ, sưng ở những bệnh nhân có răng (đặc biệt là xung quanh răng cửa hàm trên) sau đó có thể chuyển sang màu tím hoặc đen
+- Chảy máu nướu răng
+- Răng lung lay và mất răng
+![ban xuất huyết](https://dermnetnz.org/assets/Uploads/systemic/scclu.jpg)
+![Vết bầm tím](https://dermnetnz.org/assets/collection-O/Scurvy/scurvy-00002.jpg)
+![Tóc xoắn ốc](https://dermnetnz.org/assets/collection-O/Scurvy/scurvy-00003.jpg)
+Các hình ảnh trong bộ sưu tập về vết bầm tím và lông xoắn ốc từ: Esteves A, Teixeira da Silva F, Carvalho J, Felgueiras P, Laranjeira P. Bệnh còi, chết đói và nhiễm bọ chét - một báo cáo trường hợp từ Châu Âu thế kỷ 21. Cureus. 2021;13(2):e13158.
+
+### Tác động của bệnh scorbut lên mắt
+- Khô mắt và kích ứng mắt
+- Xuất huyết dưới kết mạc , quanh hốc mắt hoặc hốc mắt
+
+### Tác động của bệnh scorbut lên cơ xương khớp
+- Xuất huyết khớp đau đớn
+- Xuất huyết dưới màng xương , đặc biệt là xương đùi và xương chày gần
+- Xâu chuỗi nối sụn sườn – 'chuỗi tràng hạt scorbut'
+- Chảy máu trong cơ dẫn đến phù gỗ
+- Đau dữ dội ở tay và chân (đặc điểm chính của bệnh scorbut ở trẻ sơ sinh) và ngại đi lại
+Những thiếu hụt dinh dưỡng khác thường liên quan đến bệnh scorbut và do đó các triệu chứng lâm sàng có thể lẫn lộn và gây nhầm lẫn.
+
+---
+
+## Các đặc điểm lâm sàng khác nhau như thế nào ở các loại da khác nhau?
+
+Xuất huyết và bầm tím quanh nang lông có thể có màu xanh sẫm hoặc màu tím ở những bệnh nhân có làn da sẫm màu.
+
+---
+
+## Bệnh scorbut có những biến chứng gì?
+
+- Xuất huyết và hậu quả của nó
+- Bệnh tim mạch
+- Vàng da
+
+---
+
+## Bệnh scorbut được chẩn đoán như thế nào?
+
+Bệnh scorbut cần được xem xét dựa trên biểu hiện lâm sàng và được xác nhận khi bệnh hồi phục sau khi bổ sung Vitamin C.
+Nồng độ vitamin C trong huyết thanh phản ánh lượng vitamin C hấp thụ gần đây hơn là lượng vitamin C dự trữ trong cơ thể, do đó không đáng tin cậy. Cần tiến hành điều tra các tình trạng thiếu hụt dinh dưỡng khác.
+Thiếu máu là tình trạng phổ biến và có thể là do giảm hấp thụ sắt, chảy máu, tan máu và các thiếu hụt dinh dưỡng khác.
+Ở trẻ em, trên phim X-quang có thể thấy những thay đổi đặc trưng:
+- Dấu hiệu Frankel , một đường dày đặc ở vùng hành xương do tăng canxi hóa của ma trận sụn
+- Vùng Trummerfeld do xuất huyết dưới màng xương
+- Dấu hiệu vòng Wimberger ở đầu xương
+- Dấu hiệu Pelkan do các vết nứt nhỏ.
+
+### Chụp X-quang bệnh scorbut ở trẻ em
+![Biển báo Frankel (mũi tên xanh), vùng Trummerfeld (mũi tên đỏ)](https://dermnetnz.org/assets/collection-O/Scurvy/scurvy-00001.jpg)
+Hình ảnh từ: Gallizzi R, Valenzise M, Passanisi S, Pajno GB, De Luca F, Zirilli G. Bệnh scorbut có thể xảy ra ngay cả ở trẻ em không có yếu tố nguy cơ tiềm ẩn: báo cáo ca bệnh. J Med Case Rep. 2020;14(1):18.
+
+---
+
+## Chẩn đoán phân biệt bệnh scorbut là gì?
+
+- Đốm xuất huyết , [ban xuất huyết](https://dermnetnz.org/topics/purpura) và bầm tím do [viêm mao mạch](https://dermnetnz.org/topics/capillaritis) , [viêm mạch da](https://dermnetnz.org/topics/cutaneous-vasculitis) , giảm tiểu cầu hoặc bất kỳ nguyên nhân nào khác
+- [Viêm nang lông](https://dermnetnz.org/topics/folliculitis)
+- [Viêm nướu và viêm nha chu](https://dermnetnz.org/topics/gingivitis-and-periodontitis)
+
+---
+
+## Phương pháp điều trị bệnh scorbut là gì?
+
+
+### Phòng ngừa
+Lượng vitamin C khuyến nghị hàng ngày ở Úc và New Zealand là 45 mg/ngày. Phụ nữ mang thai và cho con bú cần 55-85 mg/ngày. Người hút thuốc cũng cần lượng vitamin C cao hơn do quá trình trao đổi chất tăng lên. Một chế độ ăn uống cân bằng, bao gồm trái cây và rau củ tươi, cung cấp đủ vitamin C cho hầu hết mọi người.
+
+### Bổ sung vitamin C
+Người lớn: Uống Vitamin C 1000 mg/ngày chia làm nhiều lần trong ít nhất một tuần, sau đó uống 300-500 mg/ngày trong tuần tiếp theo, tiếp theo là liều lượng khuyến cáo hàng ngày.
+Trẻ em: Học viện Nhi khoa Hoa Kỳ khuyến cáo trẻ em nên dùng 100 mg 3 lần mỗi ngày trong ít nhất 1 tuần, sau đó dùng 100 mg mỗi ngày cho đến khi các triệu chứng biến mất.
+Vitamin C cũng có thể được tiêm tĩnh mạch, tiêm bắp hoặc qua đường trực tràng.
+
+### Điều trị biến chứng
+Đôi khi cần phải truyền máu khi bị thiếu máu nặng, đặc biệt là thiếu máu cấp tính liên quan đến xuất huyết.
+Trẻ em mắc bệnh về xương có thể phải phẫu thuật nếu các triệu chứng không thuyên giảm khi bổ sung.
+
+---
+
+## Hậu quả của bệnh scorbut là gì?
+
+Hầu hết các triệu chứng của bệnh scorbut đều nhanh chóng thuyên giảm trong vòng 24–72 giờ sau khi bắt đầu bổ sung Vitamin C. Những thay đổi về xương có thể mất vài tuần để hồi phục. Quá trình phục hồi hoàn toàn thường diễn ra trong vòng 1–3 tháng. Mất răng và di chứng do xuất huyết là những di chứng vĩnh viễn duy nhất.
+Nếu không được điều trị, bệnh scorbut có thể gây tử vong đột ngột.
+Hiểu được nguyên nhân gây bệnh scorbut, dù là do xã hội hay y tế, và giải quyết nguyên nhân này sẽ làm giảm nguy cơ tái phát.

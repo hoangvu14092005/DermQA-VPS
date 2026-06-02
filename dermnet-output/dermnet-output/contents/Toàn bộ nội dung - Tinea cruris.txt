@@ -1,0 +1,123 @@
+# Tinea cruris – thông tin bổ sung
+
+Thể loại:
+
+Nhiễm trùng
+
+SNOMED CT:
+
+399029005, 12804006, 39084003
+
+**[Nhiễm trùng](https://dermnetnz.org/topics/topics?category=Infections)**
+
+
+# **Tinea cruris**
+
+Tác giả: Được tạo năm 2003; Cập nhật: Katrina Tan, Sinh viên Y khoa, Đại học Monash, Melbourne, Úc; Tiến sĩ Martin Keefe, Bác sĩ Da liễu, Christchurch, New Zealand. Biên tập bởi Gus Mitchell. Tháng 6 năm 2021
+
+---
+
+## Bệnh lang ben là gì?
+
+Nấm bẹn, còn được gọi là 'ngứa bẹn', là một dạng [nấm da](https://dermnetnz.org/topics/tinea) đặc trưng do một loại nấm [dermatophyte](https://dermnetnz.org/topics/mycology-of-dermatophyte-infections) gây ra ở bẹn, vùng mu và đùi liền kề . Bệnh biểu hiện dưới dạng phát ban cấp tính hoặc mãn tính , không đối xứng .
+
+### Tinea cruris
+![Phát ban một bên ở háng](https://dermnetnz.org/assets/Uploads/doctors/fungal-infections/images/t-cruris2.jpg)
+![Đường biên giới được nâng cao và khoảng trống trung tâm](https://dermnetnz.org/assets/Uploads/fungal/tccru.jpg)
+![Mảng bám được xác định rõ ràng](https://dermnetnz.org/assets/Uploads/fungal/s/tineacrur3.jpg)
+
+---
+
+## Ai bị bệnh lang ben?
+
+Nấm bẹn ảnh hưởng đến cả hai giới, với tỷ lệ nam giới mắc bệnh cao hơn (3:1). Mọi lứa tuổi đều có thể mắc nấm bẹn, thanh thiếu niên và người lớn, phổ biến hơn trẻ em và người cao tuổi. Nấm bẹn có thể ảnh hưởng đến mọi chủng tộc, đặc biệt phổ biến ở vùng khí hậu nhiệt đới nóng ẩm .
+Các yếu tố nguy cơ gây bệnh lang ben bao gồm:
+- [Bệnh nấm](https://dermnetnz.org/topics/tinea-pedis) chân lâu năm [](https://dermnetnz.org/topics/tinea-pedis)
+- Các đợt bệnh nấm da đùi trước đó
+- Quần áo che phủ
+- [Béo phì](https://dermnetnz.org/topics/obesity-and-the-skin)
+- Đổ mồ hôi quá nhiều ( [tăng tiết mồ hôi](https://dermnetnz.org/topics/hyperhidrosis) )
+- [Bệnh tiểu đường](https://dermnetnz.org/topics/skin-problems-associated-with-diabetes-mellitus)
+- [Sử dụng steroid tại chỗ](https://dermnetnz.org/topics/topical-steroid) .
+
+---
+
+## Nguyên nhân gây ra bệnh lang ben là gì?
+
+Bệnh hắc lào ở bẹn do một loại nấm da gây ra, phổ biến nhất là Trichophyton rubrum và Epidermophyton floccosum .
+Sự lây lan của bệnh nhiễm trùng đến háng thường là từ bàn chân ( [bệnh nấm da chân](https://dermnetnz.org/topics/tinea-pedis) ) hoặc móng tay ( [bệnh nấm da unguium](https://dermnetnz.org/topics/fungal-nail-infections) ) do gãi hoặc sử dụng khăn tắm hoặc ga trải giường bị nhiễm bẩn.
+
+---
+
+## Các đặc điểm lâm sàng của bệnh lang ben là gì?
+
+- Bệnh lang ben thường bắt đầu ở nếp gấp da bẹn (bẹn) ở một bên, có thể tiến triển thành phát ban ở cả hai bên nhưng đặc trưng là không đối xứng.
+- Phát ban có thể lan xuống mặt trong của đùi hoặc xuống bụng dưới và vùng mu.
+- Có thể thấy tình trạng này ở mông và tầng sinh môn nhưng thường không ảnh hưởng đến dương vật, bìu và âm hộ.
+- Bệnh lang ben cấp tính có thể biểu hiện dưới dạng phát ban ẩm ướt và tiết dịch.
+- Bệnh hắc lào mạn tính biểu hiện bằng một mảng vảy lớn có ranh giới rõ ràng với viền nhô lên và khoảng trống ở giữa.
+- Vảy thường thấy rõ nhất ở rìa trước của mảng bám.
+- [Viêm nang lông](https://dermnetnz.org/topics/folliculitis) do nấm có thể biểu hiện dưới dạng sẩn và mụn mủ dọc theo viền nang lông.
+- Bệnh hắc lào ở bẹn thường gây ngứa.
+- [Kiểm tra bằng đèn Wood](https://dermnetnz.org/topics/wood-lamp-skin-examination) không phát hiện thấy huỳnh quang.
+![Phát ban có vảy ở nếp gấp da bẹn](https://dermnetnz.org/assets/collection-O/Tinea/tinea-cruris-0001.jpg)
+![Phát ban hai bên nhưng không đối xứng](https://dermnetnz.org/assets/manualthumbnails/fungal/img/s/tineacrur2.jpg)
+![Đường viền nâng cao, khoảng trống trung tâm](https://dermnetnz.org/assets/collection-O/Tinea/tinea-cruris-0002.jpg)
+
+### Các đặc điểm lâm sàng khác nhau như thế nào ở các loại da khác nhau?
+Bệnh hắc lào ở đùi thường gây ra tình trạng tăng sắc tố rõ rệt ở da.
+
+### Nội soi da bệnh nấm bẹn
+- Ban đỏ lan tỏa
+- Các đốm nâu có quầng trắng/vàng
+- Vi mụn mủ nang
+- Các sợi lông mã Morse — chỉ ra sự xâm lấn của các sợi lông tơ
+
+---
+
+## Bệnh lang ben đùi có những biến chứng gì?
+
+- Sự ngâm và nhiễm trùng thứ phát do vi khuẩn hoặc [nấm candida](https://dermnetnz.org/topics/candida)
+- Trầy xước thứ phát , lichen hóa và sắc tố
+- [Nấm da ẩn](https://dermnetnz.org/topics/tinea-incognito) do sử dụng steroid tại chỗ
+
+---
+
+## Bệnh lang ben đùi được chẩn đoán như thế nào?
+
+Bệnh hắc lào đùi nên được xem xét trong bối cảnh lâm sàng của phát ban có vảy không đối xứng ở háng và được xác nhận bằng cách cạo da để tìm nấm [xem [Xét nghiệm trong phòng thí nghiệm để tìm nhiễm trùng nấm](https://dermnetnz.org/topics/laboratory-tests-for-fungal-infection) ].
+[](https://dermnetnz.org/topics/skin-biopsy) Có thể thực hiện [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) , thường là để loại trừ các tình trạng da uốn cong khác [xem [Bệnh ngoài da và tình trạng ảnh hưởng đến nếp gấp cơ thể](https://dermnetnz.org/topics/skin-diseases-and-conditions-affecting-body-folds) ]. Mô học cho thấy các sợi nấm vách ngăn phân nhánh trên các vết nhuộm đặc biệt [xem [Bệnh lý nấm da thân](https://dermnetnz.org/topics/tinea-corporis-pathology) ]. [](https://dermnetnz.org/topics/tinea-corporis-pathology)
+
+---
+
+## Chẩn đoán phân biệt bệnh lang ben là gì?
+
+- Nhiễm trùng ở các nếp gấp như [hăm kẽ do nấm candida](https://dermnetnz.org/topics/candidiasis-of-skin-folds) , [ban đỏ](https://dermnetnz.org/topics/erythrasma)
+- Viêm da ở nếp gấp như [bệnh vẩy nến ở nếp gấp](https://dermnetnz.org/topics/flexural-psoriasis) , [viêm da tiết bã](https://dermnetnz.org/topics/seborrhoeic-dermatitis) , [bệnh pemphigus gia đình lành tính](https://dermnetnz.org/topics/benign-familial-pemphigus)
+- [Bệnh mô bào Langerhans](https://dermnetnz.org/topics/langerhans-cell-histiocytosis) - một nguyên nhân hiếm gặp gây phát ban ở nếp gấp ở trẻ rất nhỏ
+![Erythrasma](https://dermnetnz.org/assets/Uploads/bacterial/erythrasma12.jpg)
+![Bệnh vẩy nến ở nếp gấp](https://dermnetnz.org/assets/Uploads/scaly/flexural-psoriasis9-s.jpg)
+![Bệnh pemphigus gia đình lành tính](https://dermnetnz.org/assets/collection-O/Hailey-Hailey-disease/benign-familial-pemphigus-00029.jpg)
+
+---
+
+## Phương pháp điều trị bệnh lang ben là gì?
+
+
+### Các biện pháp chung và phòng ngừa
+- Lau khô cẩn thận sau khi rửa để tránh lây lan nấm từ chân
+- Quần áo rộng rãi
+- Điều trị các tác nhân gây bệnh như tăng tiết mồ hôi hoặc béo phì
+- Bột chống nấm bôi ngoài da sau khi tắm
+
+### Các biện pháp cụ thể
+- [Thuốc chống nấm tại chỗ](https://dermnetnz.org/topics/topical-antifungal-medication) như imidazole hoặc [terbinafine](https://dermnetnz.org/topics/terbinafine)
+- Thuốc chống nấm đường uống cho tình trạng nhiễm trùng lan rộng hoặc khó chữa , đặc biệt ở những bệnh nhân suy giảm miễn dịch , ví dụ như [griseofulvin](https://dermnetnz.org/topics/griseofulvin) , terbinafine, [itraconazole](https://dermnetnz.org/topics/itraconazole)
+- Điều trị nấm da ở các vị trí khác như nấm bàn chân, nấm da unguium
+- Steroid bôi ngoài da nhẹ có thể được sử dụng trong thời gian ngắn để giảm ngứa, nhưng không thích hợp để dùng đơn trị liệu hoặc dùng lâu dài.
+
+---
+
+## Kết quả của bệnh lang ben là gì?
+
+Nấm bẹn có thể khỏi nếu được điều trị thích hợp ở 80–90% trường hợp. Tuy nhiên, bệnh thường tái phát , đặc biệt nếu các yếu tố nguy cơ không được giải quyết hoặc ngừng điều trị bằng thuốc chống nấm trước khi khỏi bệnh về mặt nấm. Tình trạng tăng sắc tố còn sót lại có thể vẫn tồn tại trên da cùng màu.

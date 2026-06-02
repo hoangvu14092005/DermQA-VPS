@@ -1,0 +1,245 @@
+# Ung thư biểu mô tế bào đáy — thông tin bổ sung
+
+Thể loại:
+
+Tổn thương (ung thư)
+
+SNOMED CT:
+
+254701007
+
+**[Tổn thương (ung thư)](https://dermnetnz.org/topics/topics?category=Lesions+(cancerous))**
+
+
+# **Ung thư biểu mô tế bào đáy**
+
+Tác giả: Phó giáo sư danh dự Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand, 1997. Cập nhật tháng 12 năm 2015.
+
+---
+
+## Ung thư biểu mô tế bào đáy là gì?
+
+Ung thư biểu mô tế bào đáy (BCC) là một loại [ung thư tế bào sừng](https://dermnetnz.org/topics/keratinocyte-cancer) xâm lấn tại chỗ phổ biến (còn được gọi là ung thư không phải u hắc tố ). Đây là dạng [ung thư da](https://dermnetnz.org/topics/skin-cancer) phổ biến nhất . BCC còn được gọi là loét ở loài gặm nhấm và u đáy. Bệnh nhân mắc BCC thường phát triển nhiều khối u nguyên phát theo thời gian. [](https://dermnetnz.org/topics/keratinocyte-cancer) [](https://dermnetnz.org/topics/skin-cancer)
+
+---
+
+## Ai có thể mắc bệnh ung thư biểu mô tế bào đáy?
+
+Các yếu tố nguy cơ của BCC bao gồm:
+- Tuổi và giới tính : Ung thư biểu mô tế bào vảy (BCC) đặc biệt phổ biến ở nam giới lớn tuổi. Tuy nhiên, chúng cũng ảnh hưởng đến phụ nữ và người trẻ tuổi.
+- BCC trước đó hoặc dạng ung thư da khác ( [ung thư biểu mô tế bào vảy](https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma) , [u ác tính](https://dermnetnz.org/topics/melanoma) )
+- Tổn thương do ánh nắng mặt trời ( [lão hóa do ánh nắng](https://dermnetnz.org/topics/ageing-skin) , [sừng hóa do ánh sáng](https://dermnetnz.org/topics/actinic-keratosis) )
+- [Các đợt cháy nắng](https://dermnetnz.org/topics/sunburn) trước đó lặp lại [](https://dermnetnz.org/topics/sunburn)
+- Da trắng, mắt xanh và tóc vàng hoặc đỏ — lưu ý; BCC cũng có thể ảnh hưởng đến các loại da sẫm màu hơn
+- Chấn thương da trước đó , [bỏng nhiệt](https://dermnetnz.org/topics/thermal-burn) , bệnh tật (ví dụ như [bệnh lupus ban đỏ da](https://dermnetnz.org/topics/cutaneous-lupus-erythematosus) , [nốt ruồi tuyến bã nhờn](https://dermnetnz.org/topics/sebaceous-naevus) )
+- Hội chứng di truyền: BCC là một vấn đề đặc biệt đối với các gia đình có hội chứng nốt ruồi tế bào đáy ( [hội chứng Gorlin](https://dermnetnz.org/topics/basal-cell-naevus-syndrome) ), [hội chứng Bazex-Dupré-Christol](https://dermnetnz.org/topics/bazex-dupre-christol-syndrome) , hội chứng Rombo, hội chứng Oley và [bệnh khô da sắc tố](https://dermnetnz.org/topics/xeroderma-pigmentosum) [](https://dermnetnz.org/topics/basal-cell-naevus-syndrome) [](https://dermnetnz.org/topics/bazex-dupre-christol-syndrome) [](https://dermnetnz.org/topics/xeroderma-pigmentosum)
+- Các yếu tố nguy cơ khác bao gồm bức xạ ion hóa, tiếp xúc với [asen](https://dermnetnz.org/topics/chronic-arsenic-poisoning) , suy giảm miễn dịch do [bệnh tật](https://dermnetnz.org/topics/immunodeficiency) hoặc [thuốc men](https://dermnetnz.org/topics/drug-induced-immunosuppression) và sử dụng một số loại thuốc khác như hydrochlorothiazide.
+
+---
+
+## Nguyên nhân nào gây ra ung thư biểu mô tế bào đáy?
+
+Nguyên nhân gây ra BCC là do nhiều yếu tố.
+- Thông thường, có những đột biến DNA trong gen ức chế khối u vá (PTCH) , một phần của con đường truyền tín hiệu hedgehog.
+- Những triệu chứng này có thể xuất hiện khi tiếp xúc với tia cực tím.
+- [Nhiều khiếm khuyết gen](https://dermnetnz.org/topics/genetics-of-basal-cell-carcinoma) tự phát và di truyền có thể dẫn đến BCC.
+
+---
+
+## Đặc điểm lâm sàng của ung thư biểu mô tế bào đáy là gì?
+
+BCC là khối u da xâm lấn tại chỗ. Các đặc điểm chính là:
+- Mảng bám hoặc nốt sần phát triển chậm
+- Màu da, hồng hoặc có sắc tố
+- Kích thước thay đổi từ vài milimét đến vài centimet đường kính
+- Chảy máu tự phát hoặc loét.
+BCC rất hiếm khi đe dọa đến tính mạng. Một tỷ lệ nhỏ BCC phát triển nhanh, xâm lấn sâu và/hoặc di căn đến các hạch bạch huyết tại chỗ.
+
+---
+
+## Các loại ung thư biểu mô tế bào đáy
+
+Có một số loại BCC lâm sàng khác nhau và hơn 20 kiểu phát triển mô học của BCC.
+
+### BCC dạng nốt
+- Loại BCC phổ biến nhất trên khuôn mặt
+- Nốt sần sáng bóng hoặc có màu ngọc trai với bề mặt nhẵn
+- Có thể có vết lõm hoặc loét ở trung tâm, do đó các cạnh của nó có vẻ cuộn tròn
+- Các mạch máu chạy qua bề mặt của nó
+- Biến thể nang mềm, có chứa chất giống như thạch
+- Các loại vi nốt, vi nang và thâm nhiễm là các phân nhóm có khả năng gây xâm lấn
+- Còn được gọi là ung thư biểu mô dạng nang
+![Ung thư biểu mô tế bào đáy dạng nốt](https://dermnetnz.org/assets/Uploads/lesions/bcc1.jpg)
+![Ung thư biểu mô tế bào đáy dạng nốt](https://dermnetnz.org/assets/collection/Basal-cell-carcinoma/basal-cell-carcinoma-0019.jpg)
+![Ung thư biểu mô tế bào đáy dạng nốt](https://dermnetnz.org/assets/Uploads/lesions/w/bcc-104.jpg)
+![Ung thư biểu mô tế bào đáy dạng nốt](https://dermnetnz.org/assets/Uploads/lesions/w/bcc-105.jpg)
+
+### BCC bề mặt
+- Loại phổ biến nhất ở người trẻ tuổi
+- Loại phổ biến nhất ở phần thân trên và vai
+- Mảng bám không đều , có vảy nhẹ
+- Viền cuộn mỏng, trong suốt
+- Nhiều vi xói mòn
+![Ung thư biểu mô tế bào đáy](https://dermnetnz.org/assets/Uploads/lesions/bcc3.jpg)
+![Ung thư biểu mô tế bào đáy nông](https://dermnetnz.org/assets/Uploads/lesions/w/bcc-100.jpg)
+![Ung thư biểu mô tế bào đáy nông, mặt](https://dermnetnz.org/assets/Uploads/lesions/w/bcc-101.jpg)
+![Ung thư biểu mô tế bào đáy nông, lưng](https://dermnetnz.org/assets/Uploads/lesions/w/bcc-102.jpg)
+
+### BCC hình thái
+- Thường thấy ở vị trí giữa khuôn mặt
+- Mảng bám giống như sẹo, có ranh giới không rõ ràng
+- Mở rộng cận lâm sàng rộng và sâu
+- Có thể xâm nhập vào dây thần kinh da ( lan rộng quanh dây thần kinh )
+- Còn được gọi là BCC hình thái, hình thái hoặc xơ cứng
+![Ung thư biểu mô tế bào đáy hình thái](https://dermnetnz.org/assets/Uploads/lesions/bcc5.jpg)
+![Ung thư biểu mô tế bào đáy hình thái](https://dermnetnz.org/assets/Uploads/lesions/w/bcc-107.jpg)
+![Ung thư biểu mô tế bào đáy hình thái](https://dermnetnz.org/assets/Uploads/lesions/w/bcc-108.jpg)
+![Ung thư biểu mô tế bào đáy hình thái](https://dermnetnz.org/assets/Uploads/lesions/w/bcc-109.jpg)
+
+### Ung thư biểu mô đáy vảy
+- Ung thư biểu mô tế bào đáy hỗn hợp (BCC) và ung thư biểu mô tế bào vảy (SCC)
+- Mẫu hình tăng trưởng xâm lấn
+- Có khả năng gây hấn hơn các dạng BCC khác
+- Còn được gọi là ung thư biểu mô đáy vảy và ung thư biểu mô tế bào đáy vảy hỗn hợp
+![Ung thư biểu mô tế bào đáy](https://dermnetnz.org/assets/Uploads/lesions/bcc2.jpg)
+![Ung thư biểu mô tế bào đáy vảy](https://dermnetnz.org/assets/Uploads/lesions/w/basisquamous-01.jpg)
+![Ung thư biểu mô tế bào đáy vảy](https://dermnetnz.org/assets/Uploads/lesions/w/basisquamous-02.jpg)
+Xem thêm hình ảnh về ung thư biểu mô tế bào đáy.
+- [BCC ảnh hưởng đến hình ảnh khuôn mặt](https://dermnetnz-org.translate.goog/topics/basal-cell-carcinoma-affecting-the-face-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+- [BCC ảnh hưởng đến hình ảnh mũi](https://dermnetnz-org.translate.goog/topics/basal-cell-carcinoma-affecting-the-nose-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+- [BCC ảnh hưởng đến hình ảnh mí mắt](https://dermnetnz-org.translate.goog/topics/basal-cell-carcinoma-affecting-the-eyelid-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+- [BCC ảnh hưởng đến hình ảnh tai](https://dermnetnz-org.translate.goog/topics/basal-cell-carcinoma-affecting-the-ear-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+- [BCC ảnh hưởng đến hình ảnh thân cây](https://dermnetnz-org.translate.goog/topics/basal-cell-carcinoma-affecting-the-trunk-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+
+---
+
+## Biến chứng của ung thư biểu mô tế bào đáy
+
+
+### BCC tái phát
+BCC tái phát sau điều trị ban đầu không phải là hiếm. Các đặc điểm của BCC tái phát thường bao gồm:
+- Cắt bỏ không hoàn toàn hoặc biên độ hẹp khi cắt bỏ ban đầu
+- Các phân nhóm hình thái, vi nốt và thâm nhiễm
+- Vị trí ở đầu và cổ.
+![Sau PDT](https://dermnetnz.org/assets/Uploads/lesions/w/recurrent-bcc-01.jpg)
+![Sau phẫu thuật bề mặt](https://dermnetnz.org/assets/Uploads/lesions/w/recurrent-bcc-02.jpg)
+![Sau khi dùng fluorouracil](https://dermnetnz.org/assets/Uploads/lesions/w/recurrent-bcc-03.jpg)
+![Sau khi dùng imiquimod](https://dermnetnz.org/assets/Uploads/lesions/w/recurrent-bcc-04.jpg)
+
+### BCC nâng cao
+BCC tiến triển là khối u lớn, thường bị bỏ quên.
+- Chúng có thể có đường kính vài cm
+- Chúng có thể xâm nhập sâu vào các mô bên dưới da
+- Chúng khó hoặc không thể điều trị bằng phẫu thuật
+
+### BCC di căn
+- Rất hiếm
+- Khối u nguyên phát thường lớn, bị bỏ quên hoặc tái phát, nằm ở đầu và cổ, với phân nhóm hung hãn
+- Có thể đã có nhiều phương pháp điều trị trước đó
+- Có thể phát sinh ở nơi tiếp xúc với bức xạ ion hóa
+- Có thể gây tử vong
+
+---
+
+## Ung thư biểu mô tế bào đáy được chẩn đoán như thế nào?
+
+BCC được chẩn đoán lâm sàng bằng sự xuất hiện của tổn thương da phát triển chậm với hình ảnh điển hình. Chẩn đoán và [phân nhóm mô học thường được xác nhận về mặt bệnh lý](https://dermnetnz.org/topics/basal-cell-carcinoma-pathology) bằng [sinh thiết](https://dermnetnz.org/topics/skin-biopsy) chẩn đoán hoặc sau khi cắt bỏ.
+Một số BCC nông điển hình ở thân và chân tay được chẩn đoán lâm sàng và điều trị không phẫu thuật mà không cần xét nghiệm mô học.
+
+---
+
+## Phương pháp điều trị ung thư biểu mô tế bào đáy nguyên phát là gì?
+
+Việc điều trị BCC phụ thuộc vào loại, kích thước và vị trí của khối u, số lượng khối u cần điều trị, các yếu tố của bệnh nhân và sở thích hoặc chuyên môn của bác sĩ. Hầu hết BCC được điều trị bằng phẫu thuật. Khuyến cáo nên theo dõi lâu dài để kiểm tra các tổn thương mới và tái phát; việc theo dõi sau này có thể không cần thiết nếu mô học cho thấy ranh giới rõ ràng, rộng.
+
+### Sinh thiết cắt bỏ
+[Cắt bỏ](https://dermnetnz.org/topics/excision-of-skin-lesions) có nghĩa là cắt bỏ tổn thương và khâu lại da.
+- Phương pháp điều trị phù hợp nhất cho BCC dạng nốt, thâm nhiễm và hình thái.
+- Nên bao gồm khoảng 3 đến 5 mm vùng da bình thường xung quanh khối u.
+- Những tổn thương rất lớn có thể cần phải [ghép vạt](https://dermnetnz.org/topics/flaps) hoặc [ghép da](https://dermnetnz.org/topics/skin-grafting) để sửa chữa khiếm khuyết.
+- Bác sĩ bệnh học sẽ báo cáo các ranh giới sâu và bên .
+- Phẫu thuật tiếp theo được khuyến nghị cho những tổn thương chưa được cắt bỏ hoàn toàn.
+
+### Cắt bỏ được kiểm soát bằng kính hiển vi Mohs
+[Phẫu thuật kiểm soát bằng kính hiển vi Mohs](https://dermnetnz.org/topics/mohs-micrographic-surgery) bao gồm việc kiểm tra cẩn thận các mô cắt bỏ được đánh dấu dưới kính hiển vi , từng lớp một, để đảm bảo cắt bỏ hoàn toàn.
+- Tỷ lệ chữa khỏi bệnh rất cao đạt được nhờ các bác sĩ phẫu thuật Mohs được đào tạo.
+- Được sử dụng ở những vùng có nguy cơ cao trên khuôn mặt như mắt, môi và mũi.
+- Phù hợp với các phân nhóm không rõ ràng, hình thái, xâm lấn và tái phát.
+- Các khuyết tật lớn được sửa chữa bằng [vạt](https://dermnetnz.org/topics/flaps) hoặc [ghép da](https://dermnetnz.org/topics/skin-grafting) .
+
+### Phẫu thuật da nông
+Phẫu thuật da nông bao gồm cạo, [nạo](https://dermnetnz.org/topics/curettage-and-cautery) và [đốt điện](https://dermnetnz.org/topics/electrosurgery) . Đây là một kỹ thuật nhanh chóng sử dụng [gây tê tại chỗ](https://dermnetnz.org/topics/local-anaesthesia) và không cần [khâu](https://dermnetnz.org/topics/suture-materials) .
+- Phù hợp với BCC nông, có nốt nhỏ , xác định rõ .
+- Tổn thương thường nằm ở thân hoặc chân tay.
+- Vết thương được để hở để chữa lành theo ý định thứ cấp.
+- Băng vết thương ẩm sẽ giúp vết thương lành lại trong vòng vài tuần.
+- Chất lượng sẹo cuối cùng có thể thay đổi.
+
+### Liệu pháp lạnh
+[Liệu pháp lạnh](https://dermnetnz.org/topics/cryotherapy) là phương pháp điều trị tổn thương da nông bằng cách đông lạnh, thường là bằng nitơ lỏng.
+- Phù hợp với các BCC nông nhỏ trên các vùng da được che phủ ở thân và chân tay.
+- Tốt nhất nên tránh BCC ở vùng đầu, cổ và xa đầu gối.
+- Kỹ thuật đông lạnh-rã đông kép.
+- Kết quả là vết phồng rộp đóng vảy và lành lại sau vài tuần.
+- Để lại vết trắng vĩnh viễn.
+
+### Liệu pháp quang động
+[Liệu pháp quang động](https://dermnetnz.org/topics/photodynamic-therapy) (PDT) là kỹ thuật trong đó BCC được điều trị bằng hóa chất nhạy cảm với ánh sáng và tiếp xúc với ánh sáng sau đó vài giờ.
+- Thuốc chống nhạy cảm ánh sáng tại chỗ bao gồm kem bôi axit aminolevulinic và [kem bôi methyl aminolevulinate](https://dermnetnz.org/topics/methyl-aminolevulinate-photodynamic-therapy) .
+- Phù hợp với các BCC nhỏ, nông, có nguy cơ thấp.
+- Tốt nhất nên tránh nếu khối u ở vị trí có nguy cơ tái phát cao.
+- Gây ra phản ứng viêm , tối đa sau 3–4 ngày sau thủ thuật.
+- Điều trị lặp lại sau 7 ngày kể từ lần điều trị đầu tiên.
+- Kết quả thẩm mỹ tuyệt vời.
+
+### Kem Imiquimod
+[Imiquimod](https://dermnetnz.org/topics/imiquimod) là thuốc điều chỉnh phản ứng miễn dịch.
+- Tốt nhất nên sử dụng cho BCC nông có đường kính dưới 2 cm.
+- Áp dụng từ ba đến năm lần mỗi tuần, trong vòng 6–16 tuần.
+- Dẫn đến phản ứng viêm khác nhau, tối đa sau ba tuần.
+- Thông thường sẽ để lại sẹo nhỏ.
+
+### Kem Fluorouracil
+[Kem 5-Fluorouracil](https://dermnetnz.org/topics/5-fluorouracil-cream) là một chất gây độc tế bào tại chỗ .
+- Dùng để điều trị ung thư biểu mô tế bào đáy nông nhỏ .
+- Cần phải điều trị trong thời gian dài, ví dụ dùng hai lần mỗi ngày trong 6–12 tuần.
+- Gây ra phản ứng viêm.
+- Có tỷ lệ tái phát cao.
+Sự kết hợp giữa 5-FU và [calcipotriol](https://dermnetnz.org/topics/topics/calcipotriol) bôi ngoài da , bôi hai lần mỗi ngày trong 5-10 ngày, đã được chứng minh là hiệu quả hơn so với liệu pháp đơn trị.
+
+### Xạ trị
+[Có thể sử dụng xạ trị](https://dermnetnz.org/topics/radiotherapy-for-malignant-skin-diseases) hoặc điều trị bằng tia X để điều trị BCC nguyên phát hoặc như một phương pháp điều trị bổ sung nếu ranh giới không đầy đủ.
+- Chủ yếu được sử dụng khi phẫu thuật không phù hợp.
+- Tốt nhất nên tránh sử dụng ở bệnh nhân trẻ và những người có tình trạng di truyền dễ mắc ung thư da.
+- Đạt được kết quả thẩm mỹ tốt nhất khi sử dụng nhiều thành phần.
+- Thông thường, bệnh nhân phải đến khám một lần một tuần trong nhiều tuần.
+- Gây ra phản ứng viêm sau đó để lại sẹo.
+- Nguy cơ viêm da do xạ trị, tái phát muộn và khối u mới.
+
+---
+
+## Phương pháp điều trị ung thư biểu mô tế bào đáy di căn hoặc tiến triển là gì?
+
+Ung thư biểu mô tế bào vảy (BCC) nguyên phát, tái phát hoặc di căn tại chỗ cần được hội chẩn đa chuyên khoa . Thông thường, cần kết hợp nhiều phương pháp điều trị.
+- [Ca phẫu thuật](https://dermnetnz.org/topics/skin-surgery)
+- [Xạ trị](https://dermnetnz.org/topics/radiotherapy-for-malignant-skin-diseases)
+- Liệu pháp nhắm mục tiêu.
+Liệu pháp nhắm mục tiêu đề cập đến các chất ức chế đường dẫn truyền tín hiệu hedgehog , [vismodegib](https://dermnetnz.org/topics/vismodegib) và [sonidegib](https://dermnetnz.org/topics/sonidegib) . Những loại thuốc này có một số rủi ro và tác dụng phụ đáng kể.
+
+---
+
+## Làm thế nào để ngăn ngừa ung thư biểu mô tế bào đáy?
+
+Cách quan trọng nhất để phòng ngừa BCC là tránh [cháy nắng](https://dermnetnz.org/topics/sunburn) . Điều này đặc biệt quan trọng trong thời thơ ấu và giai đoạn đầu đời. Những người có làn da trắng và những người có tiền sử cá nhân hoặc gia đình mắc BCC nên [bảo vệ da khỏi ánh nắng mặt trời](https://dermnetnz.org/topics/sun-protection) hàng ngày, quanh năm và suốt đời.
+- Ở trong nhà hoặc dưới bóng râm vào giữa ngày.
+- Mặc [quần áo che phủ](https://dermnetnz.org/topics/sun-protective-clothing) .
+- [Thoa đều kem chống nắng](https://dermnetnz.org/topics/topical-sunscreen-agents) phổ rộng có chỉ số bảo vệ cao SPF50+ lên vùng da tiếp xúc với ánh nắng nếu ở ngoài trời.
+- Tránh tắm nắng trong nhà ( [giường tắm nắng, phòng tắm nắng](https://dermnetnz.org/topics/sunbeds-and-solaria) ).
+Uống [nicotinamide](https://dermnetnz.org/topics/nicotinamide) (vitamin B3) với liều 500 mg, hai lần mỗi ngày có thể làm giảm số lượng và mức độ nghiêm trọng của BCC.
+
+---
+
+## Triển vọng của bệnh ung thư biểu mô tế bào đáy là gì?
+
+Hầu hết các BCC đều được chữa khỏi bằng điều trị. Khả năng chữa khỏi cao nhất nếu điều trị được thực hiện khi tổn thương còn nhỏ.
+Khoảng 50% số người bị BCC phát triển ung thư da thứ hai trong vòng 3 năm sau lần đầu tiên. Họ cũng có nguy cơ mắc [các bệnh ung thư da](https://dermnetnz.org/topics/skin-cancer) khác cao hơn , đặc biệt là [ung thư hắc tố](https://dermnetnz.org/topics/melanoma) . Việc tự khám da định kỳ và kiểm tra da định kỳ hàng năm bởi một chuyên gia y tế giàu kinh nghiệm được khuyến nghị.

@@ -1,0 +1,115 @@
+# Vôi hóa mô — thông tin bổ sung
+
+Thể loại:
+
+Bệnh hệ thống, vấn đề về mạch máu
+
+SNOMED CT:
+
+237900002
+
+**[Bệnh hệ thống, vấn đề về mạch máu](https://dermnetnz.org/topics/topics?category=Systemic+diseases)**
+
+
+# **vôi hóa mô liên kết**
+
+Tác giả: Tiến sĩ Fiona Larsen, Bác sĩ Da liễu, New Zealand (2004). Cập nhật bởi Tiến sĩ Ian Coulson, Bác sĩ Da liễu, Vương quốc Anh (2024)Những người đóng góp trước đây: Phó Giáo sư Amanda Oakley, Bác sĩ da liễu, New Zealand (2016)
+
+---
+
+## Bệnh calciphylaxis là gì?
+
+Vôi hóa mô mỡ là tình trạng hoại tử ( chết tế bào ) của da và mô mỡ. Tình trạng này chủ yếu xảy ra ở những bệnh nhân mắc bệnh thận giai đoạn cuối. Đôi khi, tình trạng này còn được gọi là bệnh động mạch do tăng ure máu do vôi hóa hoặc bệnh mạch máu do vôi hóa.
+Trong những năm gần đây, tình trạng "calciphylaxis bình thường" ngày càng được nhận biết rộng rãi, xảy ra ở những người có chức năng thận bình thường và không phải lọc máu. Các yếu tố nguy cơ của calciphylaxis bình thường bao gồm sử dụng thuốc chống đông máu coumarin, sử dụng digoxin, béo phì, sụt cân đột ngột, bệnh lý ác tính tiềm ẩn hoặc rối loạn tự miễn .
+![Không có caption](https://dermnetnz.org/assets/Uploads/systemic/calciphylaxis1.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/systemic/calciphylaxis2.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/systemic/calciphylaxis3.jpg)
+
+---
+
+## Ai bị calciphylaxis?
+
+Hầu hết bệnh nhân bị vôi hóa mô liên kết đều mắc bệnh thận mãn tính . Các tình trạng khác liên quan đến lắng đọng canxi nhanh ở mô mềm và có nguy cơ bị vôi hóa mô liên kết bao gồm:
+- Béo phì
+- Bệnh tiểu đường
+- chủng tộc da trắng
+- Giới tính nữ
+- Giảm albumin máu
+- [Warfarin](https://dermnetnz.org/topics/warfarin-induced-skin-necrosis) ( [thuốc chống đông máu](https://dermnetnz.org/topics/anticoagulants-and-antiplatelet-agents) ).
+Năm 1981, khoảng 50 trường hợp calciphylaxis được báo cáo trong y văn thế giới. Ngày nay, tỷ lệ mắc bệnh ước tính khoảng 1% mỗi năm ở những bệnh nhân đang chạy thận nhân tạo.
+
+---
+
+## Nguyên nhân gây ra bệnh calciphylaxis là gì?
+
+Nguyên nhân gây vôi hóa mạch máu chưa được hiểu rõ. Nguyên nhân chính là do huyết khối (cục máu đông) làm tắc nghẽn các mạch máu nhỏ trên da , dẫn đến thiếu máu cục bộ lan rộng và hoại tử da. Người ta cho rằng cục máu đông hình thành do vôi hóa bên trong thành mạch máu.
+Trong suy thận mạn tính, tình trạng này thường đi kèm với một tình trạng gọi là cường tuyến cận giáp thứ phát. Thận bị tổn thương không bài tiết phosphate đúng cách, dẫn đến tích tụ phosphate trong máu, kết hợp với canxi. Nồng độ vitamin D giảm do suy thận và giảm hấp thu qua đường ruột. Xương trở nên kháng hormone tuyến cận giáp. Do đó, tuyến cận giáp tăng kích thước và sản xuất nhiều hormone hơn, đồng thời tăng lượng canxi lưu thông trong máu.
+Canxi hóa phosphat có thể xảy ra ở những người có nồng độ canxi và phosphat huyết thanh cao hoặc bình thường , có hoặc không bổ sung [vitamin D](https://dermnetnz.org/topics/vitamin-d) , ở những bệnh nhân đã chạy thận nhân tạo và ít gặp hơn ở những người chưa bắt đầu chạy thận nhân tạo hoặc những người đã ghép thận . Tình trạng này phổ biến hơn ở phụ nữ so với nam giới, ở những bệnh nhân béo phì so với những người có cân nặng bình thường và ở những bệnh nhân đang dùng corticosteroid hoặc các thuốc ức chế miễn dịch khác .
+Tình trạng canxi hóa mô thận cũng có thể xảy ra ở những bệnh nhân có chức năng thận bình thường. Nguyên nhân gây canxi hóa mô thận không do urê bao gồm:
+- Cường cận giáp nguyên phát
+- Bệnh ác tính
+- Bệnh gan do rượu
+- Bệnh mô liên kết
+- Bệnh tiểu đường.
+Người ta đã mô tả mức độ cao của metalloproteinase ma trận và một giả thuyết cho rằng protein elastin bị biến đổi về mặt hóa học cho phép lắng đọng canxi trên các mạch máu nhỏ.
+
+---
+
+## Các đặc điểm lâm sàng của bệnh calciphylaxis là gì?
+
+Bệnh vôi hóa da bắt đầu bằng những đốm màu tím trên bề mặt da ( [xuất huyết lưới](https://dermnetnz.org/topics/retiform-purpura) ), sau đó xuất huyết trong vùng bị ảnh hưởng. Có thể xuất hiện các mụn nước chứa đầy máu. Da chuyển sang màu đen ở trung tâm các tổn thương màu tím hình sao ( hình sao ) . Các tế bào da chết do thiếu máu nuôi dưỡng ( [hoại thư khô](https://dermnetnz.org/topics/dry-gangrene) ). Điều này gây ra các vết loét sâu và thường lan rộng . Can thiệp phẫu thuật có thể làm trầm trọng thêm tình trạng loét.
+Bệnh nhân bị calciphylaxis thường bị đau dữ dội, nóng rát và đôi khi ngứa ở vị trí tổn thương .
+Vôi hóa mô kẽ thường xảy ra ở chi dưới, là một trong những nguyên nhân gây ra [hội chứng ngón chân xanh.](https://dermnetnz.org/topics/blue-toe-syndrome) Các tổn thương ở vùng mỡ thân mình, bụng, mông hoặc đùi dường như nguy hiểm hơn các tổn thương ở cẳng chân và bàn chân.
+![Không có caption](https://dermnetnz.org/assets/Uploads/systemic/calciphylaxis4.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/systemic/calciphylaxis5.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/systemic/calciphylaxis6.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/systemic/w/calciphylaxis7.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/systemic/w/calciphylaxis8.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/systemic/w/calciphylaxis9.jpg)
+
+---
+
+## Biến chứng của bệnh calciphylaxis là gì?
+
+Bệnh vôi hóa mô có thể dẫn đến:
+- Loét mãn tính và lan rộng
+- Nhiễm trùng thứ phát với nhiễm trùng huyết
+- Cái chết.
+
+---
+
+## Bệnh calciphylaxis được chẩn đoán như thế nào?
+
+[Sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) hình nêm sâu có thể cần thiết để chẩn đoán calciphylaxis, vì hình ảnh tương tự có thể thấy trong các tình trạng khác như [viêm cân hoại tử](https://dermnetnz.org/topics/necrotising-fasciitis) , [cryoglobulinemia](https://dermnetnz.org/topics/cryoglobulinaemia) , [hội chứng kháng phospholipid](https://dermnetnz.org/topics/antiphospholipid-syndrome) , [hoại tử coumarin](https://dermnetnz.org/topics/warfarin-induced-skin-necrosis) và [viêm mạch](https://dermnetnz.org/topics/cutaneous-vasculitis) . Có thể cần sinh thiết nhiều lần , với nguy cơ lan truyền calciphylaxis. Bác sĩ giải phẫu bệnh tìm kiếm canxi lắng đọng trong các mạch máu bị sẹo và tắc nghẽn ở mô dưới da . Lắng đọng canxi quanh tuyến có thể được phát hiện khi không có vôi hóa mạch máu nhưng có thể rất khó phát hiện. Cũng có thể có tình trạng viêm mô mỡ ( [viêm mô mỡ](https://dermnetnz.org/topics/panniculitis) ). [xem [Bệnh lý calciphylaxis](https://dermnetnz.org/topics/calciphylaxis-pathology) ]
+Chụp X-quang chi bị ảnh hưởng có thể cho thấy tình trạng canxi hóa mạch máu bên trong da; tuy nhiên, tình trạng này cũng có thể thấy ở những bệnh nhân khỏe mạnh mắc bệnh thận không bị canxi hóa mạch máu.
+Chụp cắt lớp xương sử dụng bisphosphonates Tc 99m technetium ở những bệnh nhân bị vôi hóa mô cho thấy sự hấp thụ chất đánh dấu phóng xạ tăng lên ở các mô mềm trên khắp cơ thể và đặc biệt tăng lên ở các mảng cứng bị ảnh hưởng bởi vôi hóa mô (nhưng không có ở các vết loét do lưu lượng máu giảm tại các vị trí hoại tử mô).
+
+---
+
+## Phương pháp điều trị bệnh calciphylaxis là gì?
+
+Phương pháp điều trị tốt nhất cho bệnh calciphylaxis vẫn chưa rõ ràng. Khi bệnh này kết hợp với warfarin, cần thay thế [thuốc chống đông máu , ví dụ như heparin.](https://dermnetnz.org/topics/anticoagulants-and-antiplatelet-agents)
+Bước đầu tiên là bình thường hóa nồng độ các sản phẩm canxi và phốt phát và kiểm soát tình trạng tăng phosphat máu liên quan đến suy thận. Chế độ ăn hạn chế canxi và phốt phát cùng với lọc máu với nồng độ canxi dịch lọc thấp hơn là biện pháp quản lý ban đầu quan trọng trong điều trị calci hóa thận liên quan đến suy thận.
+Ở những bệnh nhân có nồng độ hormone tuyến cận giáp tăng cao đáng kể mà không thể kiểm soát bằng thuốc, phẫu thuật cắt bỏ tuyến cận giáp (cắt tuyến cận giáp) được cho là có thể giảm đau và thúc đẩy quá trình lành vết thương, đặc biệt là trong giai đoạn đầu của vết thương . Không nên thực hiện cắt tuyến cận giáp trong trường hợp calci hóa tuyến cận giáp không kèm cường cận giáp, vì điều này có thể dẫn đến nồng độ canxi trong máu thấp và bệnh lý về xương. Viên nén Cinacalcet cũng có thể được sử dụng để giảm cường cận giáp thứ phát.
+Một số bệnh nhân cũng có thể được điều trị bằng thuốc chống đông máu để giảm nguy cơ hình thành cục máu đông, nhưng những thuốc này không phải lúc nào cũng phù hợp hoặc hữu ích. Trong một số trường hợp, warfarin có thể được thay thế bằng heparin.
+Việc chăm sóc vết thương cẩn thận là điều cần thiết.
+- Giữ vết thương sạch sẽ.
+- Phẫu thuật cắt bỏ ( cắt bỏ ) mô hoại tử (đặc biệt nếu mô ẩm) – đôi khi điều này có nghĩa là phải cắt bỏ chi.
+- Thuốc kháng sinh toàn thân được chỉ định nếu bị nhiễm trùng lâm sàng.
+Truyền tĩnh mạch natri thiosulfat, một chất chống oxy hóa và tạo phức, cũng đã được sử dụng thành công để loại bỏ canxi. Quá trình lành bệnh diễn ra chậm trong vài tuần đến vài tháng. Lợi ích của natri thiosulfat có thể được theo dõi bằng cách sử dụng chụp cắt lớp xương với technetium Tc 99m để thấy sự giảm hấp thu chất đánh dấu phóng xạ ở các vùng bị ảnh hưởng.
+Etidronate, một loại bisphosphonate, được báo cáo là có lợi, nhưng bisphosphonate có thể không phù hợp với bệnh nhân đang thẩm phân máu.
+Các chất ức chế metalloproteinase ma trận như doxycycline đã được báo cáo là có tác dụng ngăn ngừa sự hình thành các tổn thương mới.
+Iloprost và cinacalcet (một loại thuốc calcimimetic) cũng đã được khuyến cáo.
+
+---
+
+## Làm thế nào để phòng ngừa bệnh calciphylaxis?
+
+Người ta vẫn chưa biết cách phòng ngừa calciphylaxis. Tuy nhiên, bệnh nhân suy thận mạn tính cần được bác sĩ chuyên khoa thận chăm sóc để theo dõi và điều trị cường cận giáp thứ phát, một nguyên nhân có thể xác định được gây calciphylaxis ở một số bệnh nhân.
+
+---
+
+## Triển vọng của bệnh calciphylaxis là gì?
+
+Tỷ lệ tử vong ở những bệnh nhân bị vôi hóa mạch máu liên quan đến bệnh thận mãn tính được báo cáo là 60–80%. Tử vong thường là do nhiễm trùng thứ phát ở vết loét và nhiễm trùng huyết.
+Tử vong ít có khả năng xảy ra hơn khi warfarin là nguyên nhân gây calciphylaxis, với 15 trong số 18 bệnh nhân được báo cáo là đã hồi phục hoàn toàn.

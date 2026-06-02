@@ -1,0 +1,138 @@
+# Ban đỏ nốt — thông tin bổ sung
+
+Thể loại:
+
+Bệnh toàn thân, Phát ban
+
+SNOMED CT:
+
+3286100569688007, 240360007, 961007, 74610006, 297940005, 238675007, 402969008
+
+**[Bệnh toàn thân, Phát ban](https://dermnetnz.org/topics/topics?category=Systemic+diseases)**
+
+
+# **Ban đỏ nốt**
+
+Bài viết gốc (1997) được cập nhật bởi: Ardalan Akbari, Sinh viên Y khoa, Khoa Y, Đại học British Columbia, Vancouver, Canada. Tổng biên tập DermNet: Phó Giáo sư Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand. Tháng 10 năm 2019.
+
+---
+
+## Ban đỏ nốt là gì?
+
+Ban đỏ nốt là một loại [viêm mô mỡ dưới da](https://dermnetnz.org/topics/panniculitis) , một rối loạn viêm ảnh hưởng đến mô mỡ dưới da . Bệnh biểu hiện bằng các nốt đỏ mềm ở mặt trước cẳng chân. Ít phổ biến hơn, chúng ảnh hưởng đến đùi và cẳng tay [1–3].
+![Ban đỏ nốt](https://dermnetnz.org/assets/Uploads/vascular/en1.jpg)
+![Ban đỏ nốt](https://dermnetnz.org/assets/Uploads/doctors/systemic/images/en2.jpg)
+![Ban đỏ nốt](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/s/pannic3.jpg)
+[Xem thêm hình ảnh về ban đỏ dạng nốt](https://dermnetnz-org.translate.goog/topics/erythema-nodosum-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp) .
+
+---
+
+## Ai mắc bệnh ban đỏ nút?
+
+Ban đỏ nốt có thể xảy ra ở mọi dân tộc, giới tính và độ tuổi, nhưng phổ biến nhất ở phụ nữ trong độ tuổi từ 25 đến 40 [4]. Bệnh này phổ biến ở phụ nữ gấp 3–6 lần so với nam giới, ngoại trừ trước [tuổi dậy](https://dermnetnz.org/topics/skin-changes-at-puberty) thì khi tỷ lệ mắc bệnh là như nhau ở cả hai giới [5].
+
+---
+
+## Nguyên nhân gây ra bệnh ban đỏ dạng nốt là gì?
+
+Ban đỏ nốt là phản ứng quá mẫn chưa rõ nguyên nhân ở 55% bệnh nhân [6]. Trong những trường hợp khác, nó liên quan đến nhiễm trùng , thuốc, tình trạng viêm hoặc ác tính đã được xác định [7].
+- Nhiễm trùng họng ( bệnh [liên cầu khuẩn](https://dermnetnz.org/topics/streptococcal-skin-infections) hoặc nhiễm virus)
+- [Bệnh lao](https://dermnetnz.org/topics/cutaneous-tuberculosis) nguyên phát ( [TB](https://dermnetnz.org/topics/bacterial/tuberculosis.html) ), một nguyên nhân hiếm gặp ở New Zealand
+- Nhiễm trùng Yersinia; gây tiêu chảy và đau bụng
+- [](https://dermnetnz.org/topics/genitourinary-chlamydia) Nhiễm trùng [Chlamydia](https://dermnetnz.org/topics/genitourinary-chlamydia)
+- Nhiễm nấm: [bệnh histoplasma](https://dermnetnz.org/topics/histoplasmosis) , [bệnh coccidioidomycosis](https://dermnetnz.org/topics/coccidioidomycosis)
+- Nhiễm ký sinh trùng : [bệnh amip](https://dermnetnz.org/topics/amoebiasis) , bệnh giardia
+[Các bệnh do vi-rút và vi khuẩn](https://dermnetnz.org/topics/bacterial-skin-infections) khác liên quan đến ban đỏ dạng nốt bao gồm [herpes simplex](https://dermnetnz.org/cme/viral-infections/herpes-simplex) , [viêm gan siêu vi](https://dermnetnz.org/topics/viral-hepatitis) , nhiễm [vi-rút gây suy giảm miễn dịch ở người](https://dermnetnz.org/cme/viral-infections/cutaneous-manifestations-of-human-immunodeficiency-virus) ( [HIV](https://dermnetnz.org/topics/skin-conditions-relating-to-hiv-infection) ), nhiễm Campylobacter và nhiễm Salmonella .
+
+### Ma túy (3–10%)
+- [Sulfonamid](https://dermnetnz.org/topics/sulfa-drugs-and-the-skin)
+- Amoxicillin
+- [Thuốc tránh thai đường uống](https://dermnetnz.org/topics/oral-contraceptive)
+- [Thuốc chống viêm không steroid](https://dermnetnz.org/topics/non-steroidal-anti-inflammatory-drugs-and-their-skin-side-effects)
+- Bromua
+- [Salicylat](https://dermnetnz.org/allergy-to-salicylate)
+- [Iốt](https://dermnetnz.org/topics/potassium-iodide)
+- [](https://dermnetnz.org/topics/gold) Muối [vàng](https://dermnetnz.org/topics/gold)
+
+### Viêm
+- [Bệnh viêm ruột](https://dermnetnz.org/topics/cutaneous-manifestations-of-inflammatory-bowel-disease) ( viêm loét đại tràng hoặc bệnh Crohn)
+- [Bệnh sarcoidosis](https://dermnetnz.org/topics/sarcoidosis) (11–-25%); Chụp X-quang cho thấy hạch rốn phổi hai bên trong [hội chứng Löfgren](https://dermnetnz.org/topics/loefgren-syndrome)
+- Bệnh ác tính
+- [U lympho](https://dermnetnz.org/topics/hodgkin-lymphoma)
+- Bệnh bạch cầu
+- [Bệnh Behçet](https://dermnetnz.org/topics/behcet-disease)
+
+### Người khác
+- [Mang thai](https://dermnetnz.org/topics/skin-changes-in-pregnancy) (2-5%)
+
+---
+
+## Các đặc điểm lâm sàng của bệnh ban đỏ dạng nốt là gì?
+
+Ban đỏ nốt biểu hiện bằng các nốt ban đỏ dưới da hai bên, mềm, đường kính 3–20 cm, xuất hiện trong một đến vài tuần. Chúng kèm theo sốt và đau khớp. Ở 50% trường hợp, mắt cá chân bị sưng và đau kéo dài đến vài tuần. Đầu gối và các khớp khác cũng có thể bị ảnh hưởng [8].
+
+### Những phát hiện lâm sàng phổ biến [9-12]
+- Các nốt sần xuất hiện ở phía trước cẳng chân, đầu gối và cánh tay và hiếm khi xuất hiện ở mặt và cổ.
+- Chúng không rõ ràng, ấm, hình bầu dục, tròn hoặc hình vòng cung và không có vết loét
+- Các nốt ban đầu có màu đỏ tươi đến đỏ đậm.
+- Chúng tự khỏi trong vòng tám tuần, thông qua biểu hiện giống vết bầm tím , nâu hoặc vàng/xanh lá cây được gọi là ban đỏ dạng sẹo.
+Ban đỏ nốt không gây sẹo vĩnh viễn.
+
+---
+
+## Biến chứng của bệnh ban đỏ dạng nút là gì?
+
+Ban đỏ nốt có ít biến chứng được biết đến và các tổn thương thường tự khỏi. Một biến chứng hiếm gặp là hoại tử mỡ bao bọc , hay còn gọi là 'u mỡ bao bọc di động' [14].
+
+---
+
+## Bệnh ban đỏ nút được chẩn đoán như thế nào?
+
+Ban đỏ nốt chủ yếu là chẩn đoán lâm sàng được xác nhận bằng xét nghiệm trong phòng thí nghiệm và mô bệnh học [8]. [Bệnh lý của ban đỏ nốt](https://dermnetnz.org/topics/pathology/erythema-nodosum-path.html) chủ yếu biểu hiện tình trạng viêm ở vách ngăn giữa các tiểu thùy mỡ dưới da mà không có viêm mạch [15].
+
+### Hỗ trợ điều tra [4,7]
+Các xét nghiệm phù hợp có thể bao gồm:
+- Công thức máu toàn phần với mức độ protein C phản ứng khác biệt (nguyên nhân nhiễm trùng và viêm)
+- Chụp X-quang ngực (bệnh lao và bệnh sarcoid)
+- Tăm bông họng và huyết thanh học antistreptolysin O và streptodornase (nhiễm trùng liên cầu khuẩn)
+- Huyết thanh học virus (tốt nhất là hai mẫu cách nhau bốn tuần)
+- Nuôi cấy phân và đánh giá trứng và ký sinh trùng ở những bệnh nhân có triệu chứng đường tiêu hóa
+- Xét nghiệm Mantoux hoặc QuantiFERON vàng ( [xét nghiệm bệnh lao](https://dermnetnz.org/topics/procedures/tb-screening.html) ).
+- [Sinh](https://dermnetnz.org/topics/procedures/biopsy.html) thiết da sâu hoặc cắt bỏ . [](https://dermnetnz.org/topics/procedures/biopsy.html)
+
+---
+
+## Chẩn đoán phân biệt bệnh ban đỏ dạng nốt là gì?
+
+Cần xem xét một loạt nguyên nhân gây viêm mô mỡ ở bệnh nhân có các nốt sần dưới da, đặc biệt nếu tổn thương không nằm ở chân, có vết loét hoặc các triệu chứng kéo dài hơn tám tuần.
+[Viêm mô mỡ](https://dermnetnz.org/topics/panniculitis) có thể chủ yếu là viêm vách ngăn (viêm giữa các tiểu thùy) hoặc viêm tiểu thùy (tế bào viêm trong các tiểu thùy mỡ dưới da) [16]. Có thể xảy ra tình trạng viêm hỗn hợp vách ngăn và tiểu thùy.
+Các nốt sần do viêm mô mỡ chủ yếu ở vách ngăn bao gồm:
+- Các dạng khác nhau của [bệnh xơ cứng bì](https://dermnetnz.org/topics/scleroderma)
+- [Viêm](https://dermnetnz.org/cme/systemic/cutaneous-vasculitis-cme) mạch máu trung bình , ví dụ, do [viêm đa động mạch](https://dermnetnz.org/topics/cutaneous-polyarteritis-nodosa) có các nốt dưới da mềm liên quan đến loét, hoại tử, xuất huyết dạng sống , sốt, đau khớp, đau cơ và bệnh thần kinh ngoại biên
+- [Bệnh hoại tử mỡ](https://dermnetnz.org/topics/necrobiosis-lipoidica)
+- [](https://dermnetnz.org/topics/recurrent-cutaneous-necrotising-eosinophilic-vasculitis) Viêm mô mỡ [tăng bạch cầu ái toan](https://dermnetnz.org/topics/recurrent-cutaneous-necrotising-eosinophilic-vasculitis)
+- [Nốt thấp khớp](https://dermnetnz.org/topics/rheumatoid-arthritis-and-the-skin) .
+Các nốt sần do viêm mô mỡ chủ yếu ở thùy bao gồm:
+- [Bệnh mô liên kết](https://dermnetnz.org/cme/systemic/connective-tissue-diseases) (ví dụ, viêm mô mỡ liên quan đến [bệnh lupus ban đỏ da](https://dermnetnz.org/topics/cutaneous-lupus-erythematosus) )
+- [Ban đỏ nốt phong (](https://dermnetnz.org/topics/lepra-reactions) [phản ứng phong](https://dermnetnz.org/topics/lepra-reactions) loại 2 do [bệnh phong](https://dermnetnz.org/topics/leprosy) )
+- [Viêm mô mỡ tụy](https://dermnetnz.org/topics/pancreatic-panniculitis) , trong đó các nốt dưới da có thể bị loét hoặc dao động. Xét nghiệm cho thấy nồng độ lipase, amylase và trypsin tăng cao.
+- Viêm mô mỡ dưới da do chấn thương
+- [Viêm mạch dạng nốt](https://dermnetnz.org/topics/nodular-vasculitis) / [ban đỏ cứng](https://dermnetnz.org/topics/nodular-vasculitis) trong đó các nốt loét, chảy dịch ảnh hưởng đến bắp chân sau
+- [Xơ vữa động mạch](https://dermnetnz.org/topics/lipodermatosclerosis) , là hậu quả của [suy tĩnh mạch](https://dermnetnz.org/topics/venous-insufficiency)
+- Nhiễm trùng mỡ dưới da do [vi khuẩn](https://dermnetnz.org/topics/bacterial-skin-infections) , [vi khuẩn lao](https://dermnetnz.org/cme/bacterial-infections/mycobacteria) hoặc [nấm , có thể gây ra](https://dermnetnz.org/cme/fungal-infections) áp xe loét, chảy dịch và chảy mủ
+- Sự xâm nhập ác tính .
+
+---
+
+## Phương pháp điều trị bệnh ban đỏ dạng nốt là gì?
+
+Điều trị hồng ban nút dựa trên bệnh lý nền. Cần điều trị nhiễm trùng nền.
+- Quản lý cơn đau có thể bao gồm nghỉ ngơi kéo dài, [colchicine](https://dermnetnz.org/topics/colchicine) (1–2 mg/ngày), [NSAID](https://dermnetnz.org/topics/non-steroidal-anti-inflammatory-drugs-and-their-skin-side-effects) ( [thuốc chống viêm không steroid](https://dermnetnz.org/topics/non-steroidal-anti-inflammatory-drugs-and-their-skin-side-effects) ) và [liệu pháp nén tĩnh](https://dermnetnz.org/topics/compression-therapy) mạch [4]. [](https://dermnetnz.org/topics/compression-therapy)
+- [Có thể kê đơn corticosteroid toàn thân](https://dermnetnz.org/cme/dermatitis/corticosteroids) (1 mg/kg mỗi ngày cho đến khi hết ban đỏ dạng nốt) nếu đã loại trừ nhiễm trùng, nhiễm trùng huyết và ác tính [9,11].
+- Có thể kê đơn [kali iodide](https://dermnetnz.org/topics/potassium-iodide) uống dưới dạng dung dịch siêu bão hòa (400–900 mg/ngày) trong một tháng nếu có sẵn [17].
+
+---
+
+## Kết quả của bệnh ban đỏ dạng nốt là gì?
+
+Ban đỏ dạng nút có diễn biến tương đối lành tính và thuận lợi. Điều quan trọng là phải xác định nguyên nhân tiềm ẩn, nếu có, và bắt đầu điều trị triệu chứng [4]. Hầu hết các trường hợp đều khỏi trong vòng vài ngày đến vài tuần. Khoảng một phần ba số trường hợp có thể tái phát , ban đỏ dạng nút có thể trở thành rối loạn mãn tính hoặc dai dẳng kéo dài 6 tháng và đôi khi kéo dài nhiều năm [13].

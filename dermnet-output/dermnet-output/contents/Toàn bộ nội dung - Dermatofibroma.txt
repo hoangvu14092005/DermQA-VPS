@@ -1,0 +1,87 @@
+# U xơ da — thông tin bổ sung
+
+Thể loại:
+
+Tổn thương (lành tính)
+
+SNOMED CT:
+
+427186000
+
+**[Tổn thương (lành tính)](https://dermnetnz.org/topics/topics?category=Lesions+(benign))**
+
+
+# **U xơ da**
+
+Tác giả: Tiến sĩ Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand, 1997. Cập nhật tháng 1 năm 2016. Sửa đổi tháng 9 năm 2020
+
+---
+
+## U xơ da là gì?
+
+U xơ da là một khối u xơ lành tính thường gặp ở da chân dưới.
+U xơ da còn được gọi là u mô bào xơ da .
+
+---
+
+## Ai có thể mắc bệnh u xơ da?
+
+U xơ da thường gặp ở người lớn. Mọi dân tộc đều có thể mắc u xơ da. U xơ da thông thường phổ biến ở phụ nữ hơn nam giới, mặc dù một số biến thể mô học thường được phát hiện ở nam giới nhiều hơn.
+
+---
+
+## Nguyên nhân nào gây ra bệnh u xơ da?
+
+Chưa rõ u xơ da là một quá trình phản ứng hay là một khối u thực sự. Các tổn thương bao gồm các nguyên bào sợi tăng sinh . Các tế bào mô đệm cũng có thể tham gia.
+Đôi khi chúng được cho là do chấn thương nhẹ , bao gồm côn trùng cắn, tiêm chích hoặc chấn thương do gai hoa hồng, nhưng không phải lúc nào cũng vậy. U xơ da đa ổ có thể phát triển ở những bệnh nhân có hệ miễn dịch suy yếu như HIV , suy giảm miễn dịch hoặc các bệnh tự miễn .
+
+---
+
+## Đặc điểm lâm sàng của bệnh u xơ da là gì?
+
+U xơ da thường biểu hiện dưới dạng một nốt sần hoặc nốt sần cứng đơn độc trên chi.
+- U xơ da có thể xuất hiện ở bất kỳ vị trí nào trên da.
+- Kích thước u xơ da thay đổi từ 0,5–1,5 cm đường kính; hầu hết các tổn thương có đường kính từ 7–10 mm.
+- U xơ da bám chặt vào bề mặt da và di chuyển qua mô dưới da .
+- Các vết lõm trên da khi véo vào tổn thương – dấu hiệu lõm hoặc vết lõm .
+- Màu sắc có thể từ hồng đến nâu nhạt ở da trắng, và từ nâu sẫm đến đen ở da sẫm màu; một số có màu nhạt hơn ở phần giữa.
+- U xơ da thường không gây ra triệu chứng, nhưng đôi khi gây đau, nhạy cảm hoặc ngứa.
+Các biến thể lâm sàng bao gồm dạng khổng lồ, dạng bùng phát và dạng nhiều dạng.
+![U xơ da](https://dermnetnz.org/assets/Uploads/lesions/dermfib3.jpg)
+![U xơ da](https://dermnetnz.org/assets/Uploads/lesions/dermfib1.jpg)
+![U xơ da](https://dermnetnz.org/assets/Uploads/lesions/s/df6.jpg)
+![U xơ da](https://dermnetnz.org/assets/Uploads/lesions/df5.jpg)
+![Dấu hiệu véo của bệnh u xơ da](https://dermnetnz.org/assets/Uploads/lesions/df4.jpg)
+![Nội soi da của u xơ da](https://dermnetnz.org/assets/Uploads/lesions/dermfib2.jpg)
+[Xem thêm hình ảnh của bệnh u xơ da](https://dermnetnz-org.translate.goog/topics/dermatofibroma-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp) .
+
+---
+
+## Biến chứng của bệnh u xơ da là gì?
+
+Vì u xơ da thường là những tổn thương nổi lên nên chúng có thể bị chấn thương, ví dụ như do dao cạo.
+Thỉnh thoảng có hàng chục trường hợp bùng phát trong vòng vài tháng, thường là do tình trạng suy giảm miễn dịch.
+U xơ da không dẫn đến ung thư. Tuy nhiên, đôi khi nó có thể bị nhầm lẫn với [u xơ da dạng nhú](https://dermnetnz.org/topics/dermatofibrosarcoma-protuberans) hoặc [u hắc tố mô liên kết](https://dermnetnz.org/topics/desmoplastic-melanoma) .
+
+---
+
+## U xơ da được chẩn đoán như thế nào?
+
+U xơ da thường dễ chẩn đoán lâm sàng, được hỗ trợ bởi [soi da](https://dermnetnz.org/topics/dermoscopy) . Hình ảnh soi da phổ biến nhất là một vùng trắng ở trung tâm được bao quanh bởi một mạng lưới sắc tố mờ . Tuy nhiên, có thể thấy các hình ảnh khác nhau ở các vùng da cùng màu.
+[Cắt bỏ](https://dermnetnz.org/topics/excision-of-skin-lesions) chẩn đoán hoặc [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) được thực hiện nếu có đặc điểm bất thường như tình trạng phì đại gần đây, loét hoặc cấu trúc và màu sắc không đối xứng trên da liễu.
+Bệnh [lý của u xơ da](https://dermnetnz.org/topics/dermatofibroma-fibrous-histiocytoma-pathology) biểu hiện các bó xoắn của sự tăng sinh tế bào hình thoi với sự lắng đọng collagen quá mức ở lớp hạ bì. Có nhiều biến thể bệnh lý bao gồm:
+- di động
+- phình động mạch
+- biểu mô
+- khác biệt
+- loại mắt cá chân bị lipid hóa
+- rào chắn
+- cholesterol cao
+Trong trường hợp nghi ngờ, [phương pháp nhuộm miễn dịch mô học](https://dermnetnz.org/topics/immunohistochemistry-stains) sẽ được sử dụng để xác nhận chẩn đoán.
+
+---
+
+## Phương pháp điều trị bệnh u xơ da là gì?
+
+U xơ da vô hại và hiếm khi gây ra bất kỳ triệu chứng nào. Thông thường, chỉ cần trấn an bệnh nhân. Nếu nó gây khó chịu hoặc lo lắng, tổn thương có thể được loại bỏ bằng phẫu thuật. Tái phát thường xảy ra do tổn thương thường lan rộng ra ngoài ranh giới lâm sàng.
+[Liệu pháp lạnh](https://dermnetnz.org/topics/cryotherapy) , sinh thiết cạo và điều trị [bằng tia laser](https://dermnetnz.org/topics/lasers-in-dermatology) hiếm khi thành công hoàn toàn.

@@ -1,0 +1,75 @@
+# U hạt Majocchi — thông tin bổ sung
+
+Thể loại:
+
+Nhiễm trùng, Rối loạn nang lông
+
+SNOMED CT:
+
+214600002
+
+**[Nhiễm trùng, Rối loạn nang lông](https://dermnetnz.org/topics/topics?category=Infections)**
+
+
+# **U hạt Majocchi**
+
+Tác giả: Bác sĩ Maneka Gnanasegaram, Nhà đăng ký Da liễu, Bệnh viện Greenlane, Auckland, New Zealand, 2012. Cập nhật bởi Bác sĩ Jannet Gomez. Tổng biên tập DermNet: Phó PGS. Giáo sư Amanda Oakley, Hamilton, New Zealand.Tháng 12 năm 2018.
+
+---
+
+## U hạt Majocchi là gì?
+
+U hạt Majocchi là tình trạng viêm [nang lông](https://dermnetnz.org/topics/folliculitis) ( nhiễm trùng nang lông ) sâu và dai dẳng do nhiễm nấm. U hạt Majocchi còn được gọi là u hạt trichophyticum . [](https://dermnetnz.org/topics/folliculitis)
+
+---
+
+## Ai mắc bệnh u hạt Majocchi?
+
+Nhiều dạng nấm da phổ biến ở cả nam và nữ trên toàn thế giới. U hạt Majocchi chủ yếu ảnh hưởng đến người lớn. Bệnh này phổ biến ở các nước đang phát triển . Các yếu tố liên quan dẫn đến nhiễm trùng nang lông sâu do nấm dermatophyte có thể bao gồm:
+- Nhiễm trùng kéo dài, không được điều trị
+- Khí hậu nhiệt đới
+- [Cạo râu](https://dermnetnz.org/topics/shaving) hoặc chấn thương da khác
+- [Steroid tại chỗ](https://dermnetnz.org/topics/topical-steroid) (gây ra [bệnh nấm da tiềm ẩn](https://dermnetnz.org/topics/tinea-incognito) )
+- [Ức chế miễn dịch](https://dermnetnz.org/topics/drug-induced-immunosuppression) , ví dụ như trong quá trình hóa trị hoặc sau khi cấy ghép nội tạng .
+
+---
+
+## Nguyên nhân gây ra bệnh u hạt Majocchi là gì?
+
+U hạt Majocchi là tình trạng nang lông bị nhiễm trùng bị phá vỡ khiến thân tóc và nấm xâm nhập vào lớp hạ bì và mô dưới da .
+Nhiễm trùng thường do Trichophyton rubrum gây ra . Các loại nấm khác có thể gây u hạt Majocchi bao gồm:
+- T. mentagrophytes
+- T. tonsurans
+- T. violaceum
+- Epidermophyton floccosum
+- [Các loại nấm](https://dermnetnz.org/topics/non-dermatophyte-mould-onychomycosis) mốc không phải nấm da , như [Aspergillus](https://dermnetnz.org/topics/aspergillosis) và Phoma .
+
+---
+
+## Đặc điểm lâm sàng của u hạt Majocchi là gì?
+
+U hạt Majocchi biểu hiện bằng mảng đỏ, có vảy không đều, trong đó có các sẩn nang , mụn mủ và nốt sần. Bệnh thường xuất hiện ở một bên cẳng chân.
+Bằng chứng về nhiễm nấm có thể được tìm thấy ở những vị trí khác như bong tróc ở lòng bàn chân ( [bệnh nấm bàn chân](https://dermnetnz.org/topics/tinea-pedis) ) hoặc móng chân vàng, không đều ( [bệnh nấm móng](https://dermnetnz.org/topics/fungal-nail-infections) ).
+Có hai dạng u hạt Majocchi.
+- Dạng sẩn quanh nang lông là tình trạng nhiễm trùng da khu trú và thường xảy ra ở những người khỏe mạnh
+- Mảng bám sâu dưới da hoặc dạng nốt sần xuất hiện ở những người bị [suy giảm miễn dịch](https://dermnetnz.org/topics/drug-induced-immunosuppression) tiềm ẩn .
+![U hạt Majocchi](https://dermnetnz.org/assets/Uploads/fungal/majocchi15.jpg)
+![U hạt Majocchi](https://dermnetnz.org/assets/Uploads/fungal/majocchi14.jpg)
+![U hạt Majocchi](https://dermnetnz.org/assets/Uploads/fungal/majocchi13.jpg)
+
+---
+
+## U hạt Majocchi được chẩn đoán như thế nào?
+
+Nghi ngờ được nêu ra do biểu hiện lâm sàng của u hạt Majocchi.
+Để xác nhận nhiễm trùng nấm, có thể lấy mẫu cạo và tóc từ vùng bị ảnh hưởng để soi kính hiển vi và nuôi cấy nấm (nấm học). Viêm hạt được phát hiện trên [sinh thiết](https://dermnetnz.org/topics/skin-biopsy) da .
+
+---
+
+## Phương pháp điều trị u hạt Majocchi là gì?
+
+Phương pháp điều trị được khuyến cáo cho bệnh u hạt Majocchi là dùng [thuốc chống nấm đường uống](https://dermnetnz.org/topics/oral-antifungal-medication) trong vòng 4 đến 6 tuần .
+- [Terbinafine](https://dermnetnz.org/topics/terbinafine)
+- [Itraconazole](https://dermnetnz.org/topics/itraconazole)
+- [Griseofulvin](https://dermnetnz.org/topics/griseofulvin) (không còn được bán ở New Zealand)
+[Thuốc chống nấm tại chỗ](https://dermnetnz.org/topics/topical-antifungal-medication) có thể không hiệu quả do nấm xâm nhập sâu vào nang tóc.

@@ -1,0 +1,249 @@
+# Bệnh lupus ban đỏ hệ thống — thông tin bổ sung
+
+Thể loại:
+
+Bệnh hệ thống, Tự miễn/tự viêm
+
+SNOMED CT:
+
+55464009, 4403486000, 239889005, 95332009, 7119001, 239891002, 403490003, 403489007, 707301001, 200938002, 238927000, 403497000, 403499002, 238928005, 403508004
+
+**[Bệnh hệ thống, Tự miễn/tự viêm](https://dermnetnz.org/topics/topics?category=Systemic+diseases)**
+
+
+# **Bệnh lupus ban đỏ hệ thống**
+
+Tác giả: Giáo sư danh dự Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand, tháng 2 năm 2015.
+
+---
+
+## Giới thiệu
+
+Lupus ban đỏ (LE) là một nhóm các bệnh viêm tự miễn dai dẳng , đa dạng .
+Lupus ban đỏ hệ thống (SLE) ảnh hưởng đến nhiều cơ quan (như da, khớp và thận) và xét nghiệm máu cho thấy có kháng thể tự miễn lưu hành. Các đặc điểm lâm sàng của SLE rất đa dạng và có thể chồng chéo với các bệnh lý và tình trạng khác. Tổn thương da hoặc [lupus ban đỏ hệ thống](https://dermnetnz.org/topics/cutaneous-lupus-erythematosus) (CLE) ảnh hưởng đến 80% bệnh nhân SLE.
+SLE đôi khi được gọi là bệnh lupus ban đỏ cấp tính và các đặc điểm trên da có thể được mô tả là bệnh lupus ban đỏ cấp tính.
+
+---
+
+## Nguyên nhân nào gây ra bệnh lupus ban đỏ hệ thống?
+
+Các yếu tố dẫn đến SLE bao gồm:
+- Khuynh hướng di truyền , bao gồm kiểu gen HLA -B8, -DR 3
+- Tiếp xúc với ánh sáng mặt trời
+- Nhiễm trùng do virus , đặc biệt là [virus Epstein-Barr](https://dermnetnz.org/topics/epstein-barr-virus)
+- Hormone
+- Các chất độc như [khói thuốc lá](https://dermnetnz.org/topics/smoking-and-its-effects-on-the-skin)
+- Thuốc trong [LE do thuốc gây ra](https://dermnetnz.org/topics/drug-induced-lupus-erythematosus)
+- Cảm xúc buồn bã.
+Biểu hiện của bệnh SLE là do mất khả năng điều hòa hệ thống miễn dịch của bệnh nhân.
+- Protein hạt nhân không được xử lý đúng cách.
+- Các mảnh vỡ hạt nhân tích tụ bên trong tế bào.
+- Điều này dẫn đến việc sản sinh ra các kháng thể tự miễn chống lại protein hạt nhân.
+- Các phức hợp miễn dịch không bị loại bỏ.
+- Hệ [thống bổ thể](https://dermnetnz.org/topics/the-complement-system) được kích hoạt.
+- Viêm dẫn đến tổn thương tế bào và mô.
+
+---
+
+## Ai mắc bệnh lupus ban đỏ hệ thống?
+
+SLE có thể ảnh hưởng đến cả nam và nữ ở mọi lứa tuổi. Mỗi năm, có khoảng 2–7 ca mới được chẩn đoán trong tổng số 100.000 người. SLE phổ biến hơn nhiều ở nữ giới so với nam giới, và thường khởi phát ở độ tuổi từ 15 đến 45.
+SLE phổ biến hơn và nghiêm trọng hơn ở người hút thuốc. [Hút thuốc](https://dermnetnz.org/topics/smoking-and-its-effects-on-the-skin) cũng làm giảm hiệu quả của [thuốc chống sốt rét](https://dermnetnz.org/topics/antimalarial) và các liệu pháp khác.
+Kháng thể tự miễn có thể xuất hiện ở những người không có biểu hiện của bệnh.
+
+---
+
+## Những đặc điểm về da của bệnh lupus ban đỏ hệ thống là gì?
+
+Khoảng 80% bệnh nhân SLE có tổn thương da ( [LE da](https://dermnetnz.org/topics/cutaneous-lupus-erythematosus) ), và đây là dấu hiệu đầu tiên của SLE ở khoảng một phần tư số bệnh nhân. Nó có thể biểu hiện dưới dạng các biểu hiện đặc hiệu hoặc không đặc hiệu của LE. Các tổn thương đặc hiệu của LE có xu hướng được kích hoạt hoặc làm trầm trọng thêm do tiếp xúc với tia cực tím và khu trú ở các vị trí tiếp xúc với ánh nắng mặt trời như mặt, cổ, vùng cổ và lưng trên.
+
+### SLE da cụ thể
+[Bệnh lupus ban đỏ](https://dermnetnz.org/topics/cutaneous-lupus-erythematosus) (CLE) có các biểu hiện cấp tính, bán cấp và mãn tính cụ thể .
+- Thông thường, SLE biểu hiện bằng CLE cấp tính.
+- Khoảng một nửa số bệnh nhân bị [LE da bán cấp](https://dermnetnz.org/topics/subacute-cutaneous-lupus-erythematosus) phát triển thành SLE nhẹ
+- Chỉ có 5% bệnh nhân mắc CLE mãn tính mắc SLE vì CLE biểu hiện như một vấn đề về da mà không liên quan đến các cơ quan khác.
+
+#### CLE cấp tính
+- Ban đỏ tím hình cánh bướm hoặc hình má ở giữa mặt với đường cắt sắc nét ở rìa bên , tự khỏi mà không để lại sẹo (có thể dẫn đến giãn mao mạch dai dẳng )
+- [Bệnh lupus ban đỏ hệ thống có bọng nước](https://dermnetnz.org/topics/bullous-systemic-lupus-erythematosus) : phát ban phồng rộp , nếu nghiêm trọng, có thể giống [hoại tử biểu bì nhiễm độc](https://dermnetnz.org/topics/stevens-johnson-syndrome-toxic-epidermal-necrolysis)
+- Phát ban dạng sẩn giống như [phát ban do thuốc dạng sởi](https://dermnetnz.org/topics/morbilliform-drug-reaction)
+- Loét và xói mòn niêm mạc ( [môi](https://dermnetnz.org/topics/cheilitis) , mũi, miệng, bộ phận sinh dục)
+- [Nhạy cảm với ánh sáng :](https://dermnetnz.org/topics/photosensitivity) Phát ban lupus chủ yếu xuất hiện ở những vùng tiếp xúc với ánh nắng mặt trời. Nhạy cảm với ánh sáng có thể từ nhẹ đến rất nặng, xuất hiện sau khi tiếp xúc với ánh sáng rất ít.
+- [Rụng tóc](https://dermnetnz.org/topics/hair-loss) lan tỏa ( rụng tóc không sẹo ) với thân tóc giòn
+
+#### LE da bán cấp
+- Các mảng phẳng, có vảy giống [bệnh vẩy nến](https://dermnetnz.org/topics/psoriasis) , thường có dạng mạng lưới
+- Tổn thương hình khuyên (hình nhẫn) đa vòng (hình tròn chồng lên nhau)
+- Các tổn thương sẽ lành lại với sẹo tối thiểu
+- Ảnh hưởng đến thân và cánh tay
+- Bùng phát khi tiếp xúc với ánh nắng mặt trời, nhưng thường không ảnh hưởng đến mặt và tay
+
+#### CLE mãn tính
+- [CLE](https://dermnetnz.org/topics/cutaneous-lupus-erythematosus) mãn tính ảnh hưởng đến 25% bệnh nhân mắc SLE
+- [Bệnh lupus ban đỏ dạng đĩa](https://dermnetnz.org/topics/discoid-lupus-erythematosus) cổ điển phổ biến nhất: các mảng tăng sắc tố cứng
+- Khu trú (trên cổ chiếm 80%) hoặc lan tỏa (trên và dưới cổ chiếm 20%)
+- Bệnh lupus phì đại ( mụn cóc )
+- Lupus ban đỏ
+- Viêm mô mỡ [dưới da lupus](https://dermnetnz.org/topics/panniculitis) /viêm sâu
+- Lupus niêm mạc (môi, mũi, miệng, bộ phận sinh dục)
+- [Bệnh lupus ban đỏ gây tê cóng](https://dermnetnz.org/topics/chilblain-lupus-erythematosus)
+- [Lupus ban đỏ dạng đĩa](https://dermnetnz.org/topics/discoid-lupus-erythematosus) / [chồng lấn liken](https://dermnetnz.org/topics/lichen-planus) phẳng
+- Tổn thương hình đĩa và [viêm mô mỡ](https://dermnetnz.org/topics/panniculitis) sẽ tự khỏi bằng cách để lại sẹo
+
+### Bệnh lupus ban đỏ cấp tính ở da
+![Phát ban hình cánh bướm](https://dermnetnz.org/assets/Uploads/immune/sle-05.jpg)
+![Bullous LE](https://dermnetnz.org/assets/Uploads/immune/w/sle-23.jpg)
+![Loét niêm mạc](https://dermnetnz.org/assets/Uploads/immune/w/sle-01.jpg)
+![Rụng tóc lan tỏa](https://dermnetnz.org/assets/Uploads/immune/w/sle-28.jpg)
+[Xem thêm hình ảnh về bệnh SLE cấp tính](https://dermnetnz-org.translate.goog/topics/systemic-lupus-erythematosus-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp) .
+
+### Lupus ban đỏ bán cấp ở da trong SLE
+![Bệnh lupus ban đỏ hệ thống](https://dermnetnz.org/assets/Uploads/immune/subacute-lupus-01.jpg)
+![Bệnh lupus ban đỏ hệ thống](https://dermnetnz.org/assets/Uploads/immune/subacute-lupus-02.jpg)
+![Bệnh lupus ban đỏ hệ thống](https://dermnetnz.org/assets/Uploads/immune/subacute-lupus-03.jpg)
+![Bệnh lupus ban đỏ hệ thống](https://dermnetnz.org/assets/Uploads/immune/sle-13.jpg)
+[Xem thêm hình ảnh về bệnh lupus ban đỏ trên da](https://dermnetnz-org.translate.goog/topics/cutaneous-lupus-erythematosus-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp) .
+
+### Bệnh lupus da mãn tính
+![Tumid ​​CLE](https://dermnetnz.org/assets/Uploads/immune/w/cdle-01.jpg)
+![Bệnh lupus ban đỏ](https://dermnetnz.org/assets/Uploads/immune/w/cdle-03.jpg)
+![CLE niêm mạc](https://dermnetnz.org/assets/Uploads/immune/cdle-04.jpg)
+
+### SLE da không đặc hiệu
+SLE da không đặc hiệu đề cập đến các đặc điểm liên quan đến bệnh lý tiềm ẩn chứ không phải là một đợt tự miễn. Những đặc điểm này có thể xảy ra trong [các bệnh lý](https://dermnetnz.org/topics/autoimmune-diseases-in-dermatology) [mô liên kết](https://dermnetnz.org/topics/connective-tissue-diseases) và tự miễn khác . [](https://dermnetnz.org/topics/autoimmune-diseases-in-dermatology)
+- Giãn mao mạch ở nếp gấp móng tay
+- [Hiện tượng Raynaud](https://dermnetnz.org/topics/raynaud-phenomenon) (ngón tay và ngón chân trắng bệch khi tiếp xúc với lạnh)
+- Bệnh lý mạch máu ở đầu ngón tay ( tắc nghẽn mạch máu nhỏ do huyết khối )
+- Tóc mỏng dần mà không bị giòn
+- Mề đay , có thể là bạch cầu trung tính khi sinh thiết
+- [Viêm mạch da](https://dermnetnz.org/topics/cutaneous-vasculitis) : ban xuất huyết sờ thấy được hoặc [viêm mạch nổi mề đay](https://dermnetnz.org/topics/urticarial-vasculitis) [](https://dermnetnz.org/topics/urticarial-vasculitis)
+- [Livedo reticularis](https://dermnetnz.org/topics/livedo-reticularis) (một mô hình mạng lưới mạch máu) ở 20–30% bệnh nhân mắc SLE
+- [Viêm](https://dermnetnz.org/topics/cutaneous-mucinoses) nhầy sẩn (chất nhầy lắng đọng trong da)
+- [Canxi hóa da](https://dermnetnz.org/topics/calcinosis-cutis) (vón cục canxi ở da)
+
+### Bệnh lupus ban đỏ da không đặc hiệu
+![Mao mạch nếp gấp móng tay](https://dermnetnz.org/assets/Uploads/immune/w/sle-47.jpg)
+![Bệnh mạch máu](https://dermnetnz.org/assets/Uploads/immune/sle-51.jpg)
+![Ban xuất huyết sờ thấy được](https://dermnetnz.org/assets/Uploads/immune/w/sle-52.jpg)
+![Livedo reticularis](https://dermnetnz.org/assets/Uploads/immune/w/sle-55.jpg)
+
+---
+
+## Các đặc điểm toàn thân của bệnh lupus ban đỏ hệ thống là gì?
+
+Nhiều triệu chứng toàn thân có thể xảy ra ở SLE và có thể dẫn đến bệnh nặng.
+- Tổng quát: mệt mỏi, khó chịu , đau mãn tính, sốt kèm theo bùng phát
+- Khớp: viêm khớp hoặc viêm màng hoạt dịch gây sưng, đau và cứng khớp buổi sáng
+- Phổi: viêm màng phổi hoặc tràn dịch màng phổi
+- Tim: viêm màng ngoài tim hoặc tràn dịch màng ngoài tim
+- Thận: protein , trụ niệu, viêm cầu thận
+- Não: co giật , loạn thần, lú lẫn
+- Hệ thần kinh: viêm đa dây thần kinh, viêm tủy, bệnh lý thần kinh ngoại biên
+- Máu: giảm số lượng hồng cầu, bạch cầu và tiểu cầu
+
+---
+
+## Bệnh lupus ban đỏ hệ thống được chẩn đoán như thế nào?
+
+Đôi khi, SLE có thể khó chẩn đoán do biểu hiện bệnh rất đa dạng và những người không mắc bệnh cũng có các triệu chứng tương tự. Nhiều nỗ lực đã được thực hiện để giúp các bác sĩ lâm sàng chẩn đoán bệnh, bao gồm tiêu chuẩn phân loại SLE của Hội Thấp khớp học Hoa Kỳ (sửa đổi năm 1997). Năm 2012, các tiêu chuẩn này đã được Hội Lupus Hệ thống Quốc tế Hợp tác (SLICC) sửa đổi.[1]
+Sử dụng tiêu chuẩn SLICC, SLE được chẩn đoán nếu bệnh nhân có một trong những triệu chứng sau theo thời gian:
+- Bốn tiêu chí bao gồm ≥ một tiêu chí lâm sàng và ≥ một tiêu chí miễn dịch
+- Viêm thận lupus được chứng minh bằng sinh thiết và kháng thể kháng nhân hoặc kháng thể kháng DNA sợi đôi
+Các tiêu chuẩn này phụ thuộc vào tiền sử, khám lâm sàng, loại trừ các nguyên nhân khác gây ra triệu chứng và kết quả xét nghiệm, bao gồm xét nghiệm máu và sinh thiết mô bị ảnh hưởng. Bốn trong số 17 tiêu chuẩn SLICC liên quan đến da.
+
+#### Tiêu chuẩn lâm sàng
+- Bệnh lupus ban đỏ da cấp tính hoặc bán cấp
+- Bệnh lupus da mãn tính
+- Loét miệng
+- Rụng tóc không sẹo
+- Viêm màng hoạt dịch liên quan đến 2 hoặc nhiều khớp
+- Viêm thanh mạc liên quan đến phổi hoặc tim
+- Liên quan đến thận
+- Sự liên quan đến thần kinh
+- Thiếu máu tan máu
+- giảm bạch cầu hoặc giảm lympho
+- Giảm tiểu cầu
+
+#### Tiêu chuẩn miễn dịch
+- Tăng mức ANA
+- Mức kháng thể anti-dsDNA tăng cao
+- Sự hiện diện của kháng thể chống Sm
+- Kháng thể kháng phospholipid dương tính (thuốc chống đông lupus, phản ứng huyết tương nhanh dương tính giả , kháng thể kháng cardiolipin nồng độ cao , kháng thể kháng 2- glycoprotein I dương tính)
+- Mức [bổ sung](https://dermnetnz.org/topics/the-complement-system) thấp
+- Thử nghiệm Coombs trực tiếp dương tính
+* Phòng khám hợp tác quốc tế về bệnh lupus hệ thống SLICC; kháng thể kháng nhân ANA; kháng thể kháng dsDNA kháng DNA sợi đôi
+
+### Chỉ số diện tích và mức độ nghiêm trọng của bệnh lupus ban đỏ da (CLASI)
+Chỉ số diện tích và mức độ nghiêm trọng của bệnh lupus ban đỏ da (CLASI) được phát triển nhằm mục đích phân loại mức độ nghiêm trọng của CLE. [2] Điểm hoạt động và tổn thương do bệnh gây ra được tính toán ở mỗi một trong 12 vị trí giải phẫu (tham khảo bài báo gốc đã xuất bản để biết chi tiết).
+Tổng điểm hoạt động bao gồm:
+- Mức độ đỏ (0–3) và thang đo (0–2)
+- Liên quan đến niêm mạc (0–1)
+- Rụng tóc gần đây (0–1), rụng tóc không sẹo (0–3)
+Tổng điểm sát thương bao gồm:
+- Mức độ rối loạn sắc tố (0–2) và sẹo (0–2)
+- Tình trạng rối loạn sắc tố kéo dài hơn 12 tháng làm tăng gấp đôi điểm rối loạn sắc tố
+- Sẹo da đầu (0,3,4,5,6)
+
+### Kết quả sinh thiết
+Bệnh nhân mắc SLE thường phải sinh [thiết da](https://dermnetnz.org/topics/skin-biopsy) .
+- CLE cấp tính: viêm da không đặc hiệu.
+- CLE bán cấp: các đặc điểm của bệnh lupus được ghi nhận ở lớp biểu bì và lớp hạ bì nông
+- [CLE dạng đĩa mạn tính](https://dermnetnz.org/topics/discoid-lupus-erythematosus-pathology) : đặc điểm điển hình của bệnh lupus với teo cơ và sẹo
+- Miễn dịch huỳnh quang trực tiếp có kết quả dương tính ở vùng da khỏe mạnh được bảo vệ khỏi ánh nắng mặt trời ở bệnh nhân SLE
+
+### Xét nghiệm máu
+Nhiều kháng thể tự miễn thường hiện diện trong SLE, thường ở nồng độ cao (xem tiêu chuẩn miễn dịch ở trên). Liên quan đến bệnh da trong SLE:
+- Khoảng 70% bệnh nhân mắc CLE bán cấp có kháng thể nhân chiết xuất dương tính là anti-Ro (còn gọi là anti-SSA) và anti-La (còn gọi là anti-SSB).
+- Thuốc chống Ro/La cũng liên quan đến [hội chứng Sjögren](https://dermnetnz.org/topics/sjoegren-syndrome) và nguy cơ mắc bệnh lupus ban đỏ ở trẻ sơ sinh .
+- [Nồng độ bổ thể](https://dermnetnz.org/topics/the-complement-system) huyết thanh thấp trong bệnh SLE có liên quan đến [viêm mạch nổi mề đay](https://dermnetnz.org/topics/urticarial-vasculitis) và bệnh thận. [](https://dermnetnz.org/topics/the-complement-system) [](https://dermnetnz.org/topics/urticarial-vasculitis)
+- Kháng thể kháng phospholipid có liên quan đến bệnh [Livingo Reticularis](https://dermnetnz.org/topics/livedo-reticularis) , huyết khối và biến chứng khi mang thai ( [hội chứng kháng phospholipid](https://dermnetnz.org/topics/antiphospholipid-syndrome) ).
+- Kháng thể anti-annexin 1 có thể là dấu hiệu chẩn đoán cho CLE dạng đĩa
+Bệnh nhân mắc SLE cũng cần phải kiểm tra chức năng thận, gan, tuyến giáp và các dấu hiệu viêm như protein phản ứng C ( CRP ), globulin miễn dịch và yếu tố dạng thấp.
+
+### Thử nghiệm kích thích ánh sáng
+[Các xét nghiệm kích thích ánh sáng](https://dermnetnz.org/topics/phototesting) đôi khi được thực hiện để xác nhận rằng tình trạng phát ban trên da có phải do tiếp xúc với các bước sóng cụ thể của tia cực tím hoặc bức xạ khả kiến ​​hay không.
+
+### Các xét nghiệm khác
+Các xét nghiệm khác tùy thuộc vào cơ quan bị ảnh hưởng. Ví dụ, chúng có thể bao gồm:
+- Xét nghiệm nước tiểu tìm trụ hyaline , creatinine, protein và máu
+- Huyết áp
+- Chụp X-quang ngực, siêu âm , chụp CT và MRI
+- Điện tâm đồ ( ECG ) và siêu âm tim
+- Kiểm tra thần kinh và cơ
+- Khám mắt
+- Nội soi đường tiêu hóa
+- Sinh thiết thận.
+
+---
+
+## Phương pháp điều trị bệnh lupus ban đỏ hệ thống là gì?
+
+
+### Các biện pháp phòng ngừa
+Các biện pháp sau đây rất cần thiết để giảm nguy cơ bùng phát và tổn thương cơ quan.
+- Bảo vệ cẩn thận [khỏi ánh nắng mặt trời](https://dermnetnz.org/topics/sun-protection) bằng [quần áo , phụ kiện và](https://dermnetnz.org/topics/sun-protective-clothing) [kem chống nắng](https://dermnetnz.org/topics/topical-sunscreen-agents) phổ rộng SPF 50+ . Chỉ dùng kem chống nắng thôi là không đủ.
+- [](https://dermnetnz.org/topics/smoking-and-its-effects-on-the-skin) Cai [thuốc lá](https://dermnetnz.org/topics/smoking-and-its-effects-on-the-skin)
+- Nghỉ ngơi khi cần thiết.
+
+### Liệu pháp tại chỗ
+Việc sử dụng [corticosteroid tại chỗ](https://dermnetnz.org/topics/topical-steroid) mạnh theo từng đợt rất quan trọng trong điều trị CLE. Thuốc nên được bôi chính xác lên các tổn thương da.
+Thuốc [ức chế calcineurin như](https://dermnetnz.org/topics/calcineurin-inhibitors) thuốc mỡ [tacrolimus](https://dermnetnz.org/topics/tacrolimus) và kem [pimecrolimus](https://dermnetnz.org/topics/pimecrolimus) cũng có thể được sử dụng. [](https://dermnetnz.org/topics/pimecrolimus)
+
+### Liệu pháp toàn thân
+Việc điều trị SLE phụ thuộc vào cơ quan nào chiếm ưu thế trong cơ thể bị ảnh hưởng. Thông thường, bất kỳ loại thuốc nào sau đây có thể được sử dụng đơn lẻ hoặc kết hợp.
+- [Corticosteroid toàn thân](https://dermnetnz.org/topics/systemic-steroids) , chẳng hạn như prednisone hoặc prednisolone. Đây là phương pháp điều trị chính cho bệnh nhân bị LE cấp tính nặng.
+- [Hydroxychloroquine và](https://dermnetnz.org/topics/hydroxychloroquine) [các thuốc chống sốt rét](https://dermnetnz.org/topics/antimalarial) khác —tỷ lệ đáp ứng khoảng 80% ở CLE.
+- [Methotrexate](https://dermnetnz.org/topics/methotrexate) — đáp ứng tốt nhất trong CLE bán cấp và CLE dạng đĩa
+- Thuốc ức chế miễn dịch như [azathioprine](https://dermnetnz.org/topics/azathioprine-and-mercaptopurine) , [mycophenolate](https://dermnetnz.org/topics/mycophenolate-mofetil) và [cyclophosphamide](https://dermnetnz.org/topics/cyclophosphamide)
+- [Globulin miễn dịch tiêm tĩnh mạch](https://dermnetnz.org/topics/intravenous-immunoglobulin)
+- Aspirin được khuyến cáo sử dụng cho [hội chứng kháng phospholipid](https://dermnetnz.org/topics/antiphospholipid-syndrome) .
+- Các liệu pháp sinh học được nhắm mục tiêu đang được đánh giá cho SLE bao gồm anifrolumab, belimumab ( các công thức tiêm tĩnh mạch và dưới da đã được FDA đăng ký để sử dụng trong SLE vào năm 2017) và [rituximab](https://dermnetnz.org/topics/rituximab) , abatacept, tocilizumab và eculizumab không theo chỉ định.[3] [](https://dermnetnz.org/topics/rituximab)
+CLE đôi khi cũng được điều trị bằng:
+- Retinoid ( [isotretinoin](https://dermnetnz.org/topics/isotretinoin) và [acitretin](https://dermnetnz.org/topics/acitretin) )
+- [Dapsone](https://dermnetnz.org/topics/dapsone) .
+
+---
+
+## Triển vọng của bệnh lupus ban đỏ hệ thống là gì?
+
+SLE dẫn đến bệnh mãn tính với các đợt bùng phát và giai đoạn thuyên giảm. Ở một số bệnh nhân, tất cả các dấu hiệu của bệnh hoạt động sẽ biến mất theo thời gian.

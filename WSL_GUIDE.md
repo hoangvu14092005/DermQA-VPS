@@ -1,34 +1,24 @@
-# Hướng dẫn đưa lên Git và Triển khai trên Linux WSL
+# Quy trình Triển khai và Chạy Đánh giá qua Miniconda (Conda)
 
-Tài liệu này hướng dẫn chi tiết cách cấu hình Git cho dự án `Dermnet-QA`, dọn dẹp các tệp tin không mong muốn, cài đặt môi trường trên máy Linux WSL mới và chạy đánh giá mô hình.
+Tài liệu này hướng dẫn chi tiết quy trình chạy **từng bước lần lượt** sử dụng **Miniconda (Conda)** trực tiếp trên Server GPU dùng chung (như `ai-train-a40-2`). 
 
----
-
-## 1. Những việc đã được thiết lập tự động
-
-1. **Dọn dẹp thư mục:**
-   - Đã xóa thư mục trống thừa `-Force/`.
-   - Đã xóa thư mục ẩn `VLMEvalKit/.git/` để mã nguồn tùy chỉnh của `VLMEvalKit` được đẩy lên cùng dự án chính (thành một monorepo).
-2. **Cấu hình Git & .gitignore:**
-   - Đã tạo tệp `.gitignore` để bỏ qua các file dữ liệu nặng (`dermnet-output/`, `docker/hf_cache/`, `docker/outputs/`) và khóa bảo mật nhạy cảm (`mykey.pem`).
-   - Đã khởi tạo Git repository (`git init`).
-   - Đã cấu hình remote `origin` trỏ về `https://github.com/hoangvu14092005/DermQA-VPS`.
+> [!NOTE]
+> Cách chạy qua Conda giúp cô lập môi trường hoàn hảo, không cần quyền quản trị (`sudo`), không cần cài đặt Docker hệ thống, và tối ưu hiệu năng phần cứng tốt nhất.
 
 ---
 
-## 2. Hướng dẫn các bước tiếp theo
+## BƯỚC 1: Đẩy toàn bộ dự án lên Git (Từ máy Windows của bạn)
 
-### Bước 1: Commit và Push code lên GitHub (Từ máy Windows hiện tại)
-Hãy mở terminal (PowerShell hoặc CMD) tại thư mục dự án trên máy Windows và chạy lần lượt các lệnh sau:
+Mở Terminal (PowerShell hoặc CMD) tại thư mục dự án `Dermnet-QA` trên máy Windows và chạy lần lượt các lệnh sau:
 
 ```powershell
-# 1. Thêm toàn bộ các tệp hợp lệ vào Git tracking
+# 1. Thêm toàn bộ mã nguồn, tệp tin cấu hình và ảnh dataset vào Git
 git add .
 
 # 2. Tạo commit đầu tiên
-git commit -m "Initial commit - DermNet VLM Eval Docker Setup"
+git commit -m "Initial commit - Conda setup with dataset"
 
-# 3. Đổi tên nhánh mặc định thành main (nếu chưa có)
+# 3. Đặt tên nhánh là main
 git branch -M main
 
 # 4. Đẩy mã nguồn lên GitHub
@@ -37,102 +27,100 @@ git push -u origin main
 
 ---
 
-### Bước 2: Cài đặt trên máy Linux WSL mới (Giả sử máy chưa cài gì)
-Khi bạn đã chuyển sang máy Linux WSL mới, hãy mở terminal WSL (Ubuntu) và chạy lần lượt các lệnh sau:
+## BƯỚC 2: Kết nối SSH và Tải mã nguồn về Server
 
-#### 1. Cập nhật hệ thống và cài đặt Python, Git
+1. Kết nối SSH vào server của bạn (User: `tp`, Host: `118.138.238.214`).
+2. Chạy lần lượt các lệnh sau trên terminal của server để tải code về thư mục cá nhân:
+
 ```bash
-sudo apt update && sudo apt upgrade -y
-sudo apt install -y git python3 python3-pip python3-venv curl
-```
+# 1. Di chuyển vào thư mục làm việc cá nhân của bạn
+cd ~/tungns
 
-#### 2. Cấu hình Docker
-*Khuyên dùng:* Cài đặt **Docker Desktop** trên Windows và kích hoạt tính năng **WSL Integration** (kết nối với Ubuntu) trong phần cài đặt của Docker Desktop. Cách này sẽ tự động tích hợp GPU NVIDIA và Docker vào WSL mà không cần cấu hình phức tạp.
+# 2. Tải dự án từ GitHub về thư mục này
+git clone https://github.com/hoangvu14092005/DermQA-VPS.git
 
-*Nếu bạn chỉ cài Docker Engine độc lập trực tiếp trong WSL:*
-```bash
-# Cài đặt Docker
-curl -fsSL https://get.docker.com -o get-docker.sh
-sudo sh get-docker.sh
-sudo usermod -aG docker $USER
-```
-
-#### 3. Cài đặt NVIDIA Container Toolkit (Bắt buộc để Docker dùng GPU)
-*(Chỉ cần thiết nếu bạn cài Docker Engine độc lập trong WSL; nếu dùng Docker Desktop kết nối WSL thì có thể bỏ qua bước này)*
-```bash
-# Cài đặt kho lưu trữ
-curl -fsSL https://nvidia.github.io/libnvidia-container/gpgkey | sudo gpg --dearmor -o /usr/share/keyrings/nvidia-container-toolkit-keyring.gpg \
-  && curl -s -L https://nvidia.github.io/libnvidia-container/stable/deb/nvidia-container-toolkit.list | \
-    sed 's#deb https://#deb [signed-by=/usr/share/keyrings/nvidia-container-toolkit-keyring.gpg] https://#g' | \
-    sudo tee /etc/apt/sources.list.d/nvidia-container-toolkit.list
-
-sudo apt-get update
-sudo apt-get install -y nvidia-container-toolkit
-
-# Khởi động lại Docker
-sudo nvidia-container-toolkit-config --mode=docker
-sudo systemctl restart docker
-```
-
-#### 4. Cài đặt thư viện Pandas trên WSL Host
-```bash
-pip3 install pandas
+# 3. Di chuyển vào thư mục dự án vừa tải về
+cd DermQA-VPS
 ```
 
 ---
 
-### Bước 3: Chạy dự án trên máy WSL mới
+## BƯỚC 3: Thiết lập môi trường ảo Conda
 
-Sau khi máy mới đã được cài đặt đầy đủ:
+Vì máy chủ đã được cài đặt sẵn Conda (hiển thị chữ `(base)` ở đầu dòng lệnh), bạn chạy các lệnh sau để khởi tạo môi trường riêng:
 
-1. **Tải code từ Git:**
-   ```bash
-   git clone https://github.com/hoangvu14092005/DermQA-VPS.git
-   cd DermQA-VPS
-   ```
-2. **Copy Dataset vào dự án:**
-   * Hãy đưa thư mục ảnh `dermnet-output/` vào thư mục của dự án trên WSL tại đường dẫn: `./dermnet-output/dermnet-output/images`.
-3. **Chuyển đổi đường dẫn Dataset phù hợp với Docker:**
-   ```bash
-   python3 docker/prepare_docker_dataset.py
-   ```
-4. **Build và Khởi chạy Docker:**
-   ```bash
-   # Thiết lập HF token nếu cần
-   export HF_TOKEN="your_huggingface_token"
-   
-   # Build & Chạy
-   docker compose build
-   docker compose up
-   ```
+```bash
+# 1. Tạo môi trường ảo mới tên là dermnet (dùng Python 3.10)
+conda create -n dermnet python=3.10 -y
+
+# 2. Kích hoạt môi trường ảo lên (tiền tố terminal sẽ chuyển sang (dermnet))
+conda activate dermnet
+
+# 3. Cài đặt các thư viện cơ bản cho việc xử lý file dữ liệu
+pip install pandas openpyxl
+```
 
 ---
 
-## 3. Cấu hình Model & Yêu cầu VRAM (Tips)
+## BƯỚC 4: Cài đặt các thư viện cho VLMEvalKit
 
-Bộ thư viện **VLMEvalKit** hỗ trợ rất nhiều mô hình. Dưới đây là cách bạn cấu hình và lựa chọn mô hình phù hợp với cấu hình phần cứng:
+Cài đặt các thư viện tính năng của bộ kit đánh giá trực tiếp trong môi trường ảo của bạn:
 
-### 1. Cách thay đổi mô hình chạy
-Mở tệp `docker-compose.yml`, tại phần `environment:`, bạn hãy sửa giá trị của biến `MODEL`:
-```yaml
-environment:
-  MODEL: "Qwen2.5-VL-3B-Instruct-AWQ" # Thay tên model tại đây
+```bash
+# 1. Di chuyển vào thư mục VLMEvalKit
+cd ~/tungns/DermQA-VPS/VLMEvalKit
+
+# 2. Cài đặt các thư viện phụ thuộc (sử dụng file không chứa polygon3 để tránh lỗi biên dịch C++)
+pip install -r requirements_no_polygon.txt
+
+# 3. Cài đặt VLMEvalKit ở chế độ editable
+pip install -e . --no-deps
+
+# 4. Cài đặt phiên bản sympy tương thích để tránh lỗi tính toán
+pip install sympy==1.13.1
 ```
 
-### 2. Các mô hình khuyên dùng & Yêu cầu phần cứng (Local GPU)
-*   **`Qwen2.5-VL-3B-Instruct-AWQ`** (Mặc định):
-    *   *Yêu cầu VRAM:* **6GB - 8GB VRAM** (Phù hợp cho card RTX 3060, RTX 4050, RTX 4060).
-    *   *Đặc điểm:* Bản lượng tử hóa nhẹ, độ chính xác khá tốt và thời gian suy luận nhanh.
-*   **`Qwen2.5-VL-7B-Instruct-AWQ`**:
-    *   *Yêu cầu VRAM:* **12GB - 16GB VRAM** (Phù hợp cho card RTX 3060 12GB, RTX 4070, RTX 4080).
-    *   *Đặc điểm:* Độ chính xác tốt hơn bản 3B, nhận diện tốt các đặc trưng ảnh y tế phức tạp.
-*   **`Qwen2.5-VL-3B-Instruct`** / **`Qwen2.5-VL-7B-Instruct`**:
-    *   Các bản không lượng tử (FP16), yêu cầu VRAM cao gấp 1.5 - 2 lần bản AWQ tương ứng.
+---
 
-> [!WARNING]
-> Các mô hình lớn hơn như **`Qwen2.5-VL-32B-Instruct`** hoặc **`72B-Instruct`** yêu cầu phần cứng chuyên dụng (tối thiểu **40GB - 80GB VRAM** như card A100/H100) để có thể chạy offline.
+## BƯỚC 5: Đồng bộ đường dẫn Dataset trên Server
 
-### 3. Sử dụng API để giảm tải phần cứng (Nếu GPU yếu)
-Nếu máy của bạn không có GPU mạnh, bạn có thể chuyển sang sử dụng mô hình qua API của các nhà cung cấp như OpenAI hay Google Gemini. Việc này yêu cầu bạn cấu hình API Key tương ứng trong biến môi trường:
-*   **Google Gemini (Khuyên dùng vì xử lý tiếng Việt rất tốt):** Cấu hình `MODEL` thành `GeminiFlash2-0` hoặc `GeminiPro1-5` trong `docker-compose.yml`.
-*   **OpenAI GPT:** Cấu hình `MODEL` thành `GPT4o` hoặc `GPT4o_MINI`.
+Vì các tệp dữ liệu TSV gốc lưu đường dẫn ảnh theo hệ điều hành Windows, ta cần chạy script Python để tự động nhận diện thư mục làm việc hiện tại và cập nhật đường dẫn ảnh phù hợp với Linux:
+
+```bash
+# 1. Di chuyển về thư mục gốc của dự án
+cd ~/tungns/DermQA-VPS
+
+# 2. Chạy script đồng bộ đường dẫn ảnh
+python3 prepare_local_dataset.py
+```
+*(Nếu thành công, terminal sẽ thông báo `THÀNH CÔNG: Cập nhật ...` kèm đường dẫn ví dụ trên Linux).*
+
+---
+
+## BƯỚC 6: Khởi chạy đánh giá mô hình
+
+Đảm bảo bạn vẫn đang ở trong môi trường ảo `(dermnet)`, chạy lệnh sau để thực thi quá trình đánh giá:
+
+```bash
+# 1. Di chuyển vào thư mục VLMEvalKit
+cd ~/tungns/DermQA-VPS/VLMEvalKit
+
+# 2. Chạy lệnh đánh giá mô hình Qwen2.5-VL-3B-Instruct-AWQ (mặc định)
+python run.py --data DermNet_Test DermNet_Val_4k --model Qwen2.5-VL-3B-Instruct-AWQ --work-dir ../outputs --verbose
+```
+*Sau khi chạy xong, kết quả dạng file `.xlsx` sẽ tự động xuất hiện tại thư mục `~/tungns/DermQA-VPS/outputs/`.*
+
+---
+
+## BƯỚC 7: Cấu hình thay đổi Model & Yêu cầu VRAM (Mẹo thêm)
+
+Nếu bạn muốn thay đổi mô hình khác để đánh giá, tại lệnh chạy ở **BƯỚC 6**, hãy thay đổi tham số `--model <tên_model>`. Dưới đây là các mô hình khuyên dùng phù hợp với cấu hình GPU:
+
+*   **`Qwen2.5-VL-3B-Instruct-AWQ`** (Mặc định - Khuyên dùng cho GPU yếu):
+    *   *Yêu cầu VRAM:* **6GB - 8GB VRAM** (RTX 3060, RTX 4060).
+*   **`Qwen2.5-VL-7B-Instruct-AWQ`** (Cho kết quả chính xác hơn):
+    *   *Yêu cầu VRAM:* **12GB - 16GB VRAM** (RTX 3060 12GB, RTX 4070, A40).
+*   **`Qwen2.5-VL-32B-Instruct`** hoặc **`72B-Instruct`**:
+    *   *Yêu cầu VRAM:* **40GB - 80GB VRAM** (Cực kỳ nặng, chỉ chạy được trên GPU chuyên dụng hiệu năng cao).
+*   **Sử dụng API (Không tốn VRAM):**
+    *   Thay đổi `--model` thành `GeminiFlash2-0` hoặc `GPT4o_MINI` (Yêu cầu set API Key trong biến môi trường bằng lệnh `export GEMINI_API_KEY="key_của_bạn"` trước khi chạy).

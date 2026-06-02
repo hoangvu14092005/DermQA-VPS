@@ -1,0 +1,101 @@
+# Chloracne / MADISH — thông tin bổ sung
+
+Thể loại:
+
+Phản ứng
+
+SNOMED CT:
+
+83684005, 41105002
+
+**[Phản ứng](https://dermnetnz.org/topics/topics?category=Reactions)**
+
+
+# **Mụn trứng cá do clor / MADISH**
+
+Tác giả: Bác sĩ Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand. Được Vanessa Ngan, Biên tập viên, xem xét và cập nhật, tháng 2 năm 2014, Clare Morrison, Biên tập viên, tháng 4 năm 2014. Được Tiến sĩ Scott Barker, Bác sĩ Da liễu, Wellington, cập nhật, tháng 10 năm 2014.
+
+---
+
+## Bệnh mụn nước do clo là gì?
+
+Mụn do clo là một bệnh lý da hiếm gặp do một số hóa chất hydrocarbon thơm halogen hóa độc hại , bao gồm cả dioxin, gây ra. Bệnh phát triển vài tháng sau khi nuốt, hít hoặc chạm vào tác nhân gây bệnh.
+Cái tên "chloracne" dễ gây hiểu lầm, vì nó không liên quan đến mụn trứng cá. Thuật ngữ chính xác hơn là "MADISH" - Chuyển hóa u lành tính da do Dioxin mắc phải . Thay vì tuyến bã nhờn hoạt động quá mức , như thường thấy trong mụn trứng cá, các tuyến này tập trung hóa chất gây ra mụn và chuyển hóa nó cực kỳ chậm. Quá trình này làm thay đổi biểu hiện gen trong tuyến bã nhờn và biến chúng từ các tuyến sản xuất dầu mỡ hoạt động bình thường thành các nang da ( [hamartoma](https://dermnetnz.org/topics/hamartoma) ) của chloracne. [](https://dermnetnz.org/topics/hamartoma)
+Hầu hết các trường hợp mụn trứng cá do clo là do phơi nhiễm nghề nghiệp, nhưng mụn trứng cá do clo cũng có thể phát sinh sau khi bị ngộ độc môi trường. Một trăm chín mươi ba trường hợp mụn trứng cá do clo là kết quả của một tai nạn công nghiệp ở Seveso, Ý vào năm 1976. Ngộ độc dioxin cố ý được cho là nguyên nhân khiến Tổng thống Ukraine Victor Yushchenko thay đổi diện mạo vào tháng 9 năm 2004. Dioxin và các hydrocacbon thơm giống dioxin ở nồng độ rất thấp có mặt khắp nơi trong môi trường, nhưng việc tiếp xúc với môi trường thông thường không gây ra mụn trứng cá do clo.
+
+### Mụn trứng cá do clo
+![Tổng thống Victor Yushchenko, tháng 12 năm 2004 © TIME Nam Thái Bình Dương, với sự cho phép](https://dermnetnz.org/assets/Uploads/acne/yushchenko.jpg)
+
+---
+
+## Nguyên nhân gây ra bệnh mụn nước là gì?
+
+Bệnh mụn nước do clo gây ra do tiếp xúc với hydrocarbon thơm halogen hóa, thường có trong:
+- Thuốc diệt nấm
+- [Thuốc trừ sâu](https://dermnetnz.org/topics/insecticides-and-the-skin)
+- Thuốc diệt cỏ
+- Chất bảo quản gỗ
+Mụn trứng cá do clo là dấu hiệu phổ biến nhất trên da của ngộ độc dioxin. Các hóa chất chịu trách nhiệm bao gồm:
+- Chlornaphthalene
+- Polychlorbiphenyl (PCBc)
+- Polychlorinated dibenzo-p-dioxins (PCDD)
+- Polychlorinated dibenzofurone (PCDF)
+- Chất gây ô nhiễm chlorophenol
+- Trifluoromethyls
+- Các dẫn xuất pyrazole
+- Clorobenzen
+
+---
+
+## Ngộ độc cấp tính
+
+Tiếp xúc cấp tính với nồng độ cực cao các hóa chất gây hại được liệt kê ở trên có thể gây ra các triệu chứng toàn thân . Các triệu chứng này bao gồm:
+- Bệnh đường tiêu hóa sớm và đột ngột
+- Viêm tụy
+- Rối loạn chức năng gan
+- Bệnh thần kinh
+Khi các triệu chứng toàn thân này thuyên giảm, những thay đổi trên da bắt đầu xuất hiện, và đây là lúc chẩn đoán mụn trứng cá do clo có thể trở nên rõ ràng hơn. Người ta cho rằng những thay đổi trên da xảy ra khi hóa chất bắt đầu phân phối lại từ các hệ cơ quan khác vào tuyến bã nhờn (dầu).
+
+---
+
+## Đặc điểm của bệnh mụn nước là gì?
+
+Các đặc điểm của bệnh mụn nước là:
+- Mụn đầu đen và [mụn](https://dermnetnz.org/topics/comedonal-acne) đầu trắng (mụn đầu trắng và mụn đầu đen)
+- Các nốt sần và u nang không viêm
+Các tổn thương thường xuất hiện nhiều nhất ở má, sau tai, nách và bẹn. Mặc dù trông giống mụn trứng cá, nhưng da thường không nhờn; thực tế, các tuyến dầu thường nhỏ hơn bình thường.
+Các vấn đề về da khác được thấy ở bệnh nhân bị mụn trứng cá do clo bao gồm:
+- Lòng bàn tay và lòng bàn chân đổ mồ hôi ( tăng tiết mồ hôi )
+- [Bệnh porphyria cutanea tarda](https://dermnetnz.org/topics/porphyria-cutanea-tarda) ( sắc tố , lông mọc nhiều và phồng rộp ở vùng da hở )
+![Mụn đầu đen và u nang](https://dermnetnz.org/assets/Uploads/acne/chloracne2.jpg)
+![Tổn thương viêm](https://dermnetnz.org/assets/Uploads/acne/chloracne1.jpg)
+![Mụn đầu đen do clo](https://dermnetnz.org/assets/Uploads/acne/chloracne3.jpg)
+
+---
+
+## Các vấn đề sức khỏe khác
+
+Các vấn đề sức khỏe khác có thể bao gồm:
+- Chức năng gan bất thường
+- Mệt mỏi (rối loạn giấc ngủ)
+- Các bệnh về thần kinh ( bệnh thần kinh ngoại biên thoáng qua và bệnh não – có thể dẫn đến mất tập trung và trầm cảm)
+- Nồng độ mỡ máu lưu thông cao ( tăng lipid máu )
+- Bất lực
+- Bệnh tiểu đường loại 2
+Dữ liệu về mối liên quan với các vấn đề sức khỏe khác và dị tật bẩm sinh còn mâu thuẫn.
+
+---
+
+## Chẩn đoán bệnh trứng cá do clo được thực hiện như thế nào?
+
+Nồng độ hydrocarbon thơm halogen trong xét nghiệm máu không đáng tin cậy để chẩn đoán do sự phân bố lại các chất hóa học trong cơ thể và quá trình trao đổi chất của chúng.
+Chẩn đoán chủ yếu dựa trên tiền sử bệnh và ý kiến ​​chuyên gia lâm sàng. Sinh thiết da bị ảnh hưởng có thể cho thấy mật độ tuyến bã nhờn bình thường giảm và sự phát triển của u [hamartoma](https://dermnetnz.org/topics/hamartoma) da . Các xét nghiệm miễn dịch mô học (ví dụ CYP1A1) có thể được thực hiện trên các u hamartoma để xác định sự điều hòa tăng hoặc giảm biểu hiện gen nhằm hỗ trợ chẩn đoán lâm sàng.
+
+---
+
+## Phương pháp điều trị bệnh mụn nước do clo là gì?
+
+Sau khi xác định được bệnh chloracne, cần phải xác định nguồn tiếp xúc và phải đưa cá nhân bị ảnh hưởng cùng những công nhân khác ra khỏi khu vực tiếp xúc với chất này.
+Bệnh nghề nghiệp do tiếp xúc với hóa chất là một tình trạng bệnh lý phải khai báo. Nếu bạn sống tại New Zealand, hãy liên hệ với [Worksafe NZ](https://translate.google.com/website) thuộc Bộ Lao động New Zealand để biết thêm thông tin.
+Hầu hết các tổn thương do clo sẽ khỏi trong vòng 2 năm nếu ngừng tiếp xúc với hóa chất. Trong một số trường hợp, chúng tồn tại lâu hơn nhiều vì hóa chất vẫn tiếp tục được giải phóng chậm khỏi các tế bào mỡ.
+Các trường hợp mụn dai dẳng có thể được cải thiện bằng các phương pháp điều trị mụn trứng cá thông thường, đặc biệt là [kháng sinh](https://dermnetnz.org/topics/antibiotics-for-acne) đường uống và đôi khi là [isotretinoin](https://dermnetnz.org/topics/isotretinoin) . Mụn đầu đen và u nang có thể được cắt bỏ hoặc đốt điện.

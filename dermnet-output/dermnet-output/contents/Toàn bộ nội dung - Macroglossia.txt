@@ -1,0 +1,119 @@
+# Lưỡi to — thông tin bổ sung
+
+Thể loại:
+
+Điều trị
+
+SNOMED CT:
+
+25273001, 196592003, 270516002, 402455004, 449780004, 81780002
+
+**[Điều trị](https://dermnetnz.org/topics/topics?category=Treatments)**
+
+
+# **Lưỡi to**
+
+Tác giả: Tiến sĩ Cathlyna Saavedra, Cán bộ Nội trú, Bệnh viện Middlemore, Auckland, New Zealand. Tổng biên tập DermNet: Phó Giáo sư Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand. Biên tập bởi Gus Mitchell. Tháng 4 năm 2020.
+
+---
+
+## Lưỡi to là gì?
+
+Lưỡi to là tình trạng lưỡi to bất thường [[](https://dermnetnz.org/topics/conditions-affecting-the-tongue) 1]. Đây là một chẩn đoán lâm sàng được định nghĩa là lưỡi nhô ra ngoài răng hoặc xương ổ răng khi ở tư thế nghỉ. Tình trạng này có thể xảy ra riêng lẻ hoặc kết hợp với các tình trạng hoặc hội chứng khác [2].
+Nó có thể được phân loại thành hai loại chính [2]:
+- Lưỡi to thực sự, lưỡi to thực sự
+- Lưỡi to tương đối (còn gọi là lưỡi giả to), trong đó lưỡi có kích thước bình thường nhưng lại có vẻ lớn so với các cấu trúc giải phẫu liền kề .
+![Lưỡi to trong bệnh amyloidosis toàn thân](https://dermnetnz.org/assets/Uploads/doctors/systemic/images/amyl1.jpg)
+![Lưỡi to trong bệnh amyloidosis toàn thân](https://dermnetnz.org/assets/Uploads/macroglAmylo.jpg)
+![Lưỡi to trong bệnh amyloidosis toàn thân](https://dermnetnz.org/assets/Uploads/systemic/s/amyloid8.jpg)
+
+---
+
+## Ai bị bệnh lưỡi to?
+
+Bệnh lưỡi to thường được chẩn đoán ở trẻ sơ sinh và trẻ em [1]. Tỷ lệ mắc bệnh lưỡi to bẩm sinh được báo cáo là dưới 5 trên 100.000 ca sinh, phổ biến gấp đôi ở nữ giới so với nam giới và phổ biến gấp đôi ở người Mỹ gốc Phi so với người gốc Âu [3].
+Lưỡi to thực sự có thể là bẩm sinh hoặc mắc phải [1,2].
+Các tình trạng liên quan đến chứng lưỡi to bẩm sinh bao gồm [1,4]:
+- [Dị dạng mạch máu](https://dermnetnz.org/topics/capillary-vascular-malformation)
+- [Dị dạng bạch huyết](https://dermnetnz.org/topics/lymphatic-malformation)
+- [U máu ở trẻ sơ sinh](https://dermnetnz.org/topics/infantile-haemangioma-definition-and-pathogenesis)
+- Phì đại cơ vô căn và phì đại cơ bán phần
+- Hội chứng Beckwith-Wiedemann
+- Bệnh Mucopolysaccharidoses (hội chứng Hunter và hội chứng Hurler)
+- Bệnh teo cơ Becker và bệnh teo cơ Duchenne
+- [Bệnh u xơ thần kinh](https://dermnetnz.org/topics/neurofibromatosis) loại 1
+- [Bệnh tân sinh nội tiết đa dạng loại 2B](https://dermnetnz.org/topics/multiple-endocrine-neoplasia-type-2b) .
+Tình trạng lưỡi to mắc phải thường là do các tình trạng chuyển hóa hoặc viêm nhiễm , chẳng hạn như:
+- [Bệnh lắng đọng tinh bột](https://dermnetnz.org/topics/cutaneous-amyloidosis) hệ thống [](https://dermnetnz.org/topics/cutaneous-amyloidosis)
+- [Suy giáp](https://dermnetnz.org/topics/hypothyroidism)
+- [Bệnh to đầu chi](https://dermnetnz.org/topics/acromegaly)
+- Chấn thương và các thủ thuật phẫu thuật
+- Xạ trị
+- Bệnh xơ cứng teo cơ một bên .
+Lưỡi to tương đối thường do [hội chứng Down](https://dermnetnz.org/topics/dermatological-manifestations-of-down-syndrome) [5]. Nó cũng có thể xảy ra do phì đại amidan hoặc khối u đẩy lưỡi về phía trước, hoặc giảm thể tích khoang miệng do vòm miệng thấp [2].
+
+---
+
+## Nguyên nhân nào gây ra chứng lưỡi to?
+
+Nguyên nhân gây ra chứng lưỡi to phụ thuộc vào bất kỳ tình trạng bệnh lý tiềm ẩn nào. Ví dụ:
+- Một [dị tật mạch máu bẩm](https://dermnetnz.org/topics/capillary-vascular-malformation) sinh kéo dài vào thân lưỡi
+- Sự bất thường trong biểu hiện gen trên nhiễm sắc thể 11n gây ra chứng tăng sản cơ ở hội chứng Beckwith-Wiedemann
+- Lưỡi to xảy ra trong hội chứng Hurler và hội chứng Hunter thông qua dự trữ glycogen bất thường
+- Sự lắng đọng bất thường của protein amyloid gây ra tình trạng lưỡi to trong [bệnh amyloidosis](https://dermnetnz.org/topics/cutaneous-amyloidosis) [](https://dermnetnz.org/topics/cutaneous-amyloidosis)
+- Lưỡi to là kết quả của chứng teo cơ và sự thay thế mỡ sau đó trong bệnh nhược cơ và bệnh xơ cứng teo cơ một bên [1].
+
+---
+
+## Các đặc điểm lâm sàng của bệnh lưỡi to là gì?
+
+Các đặc điểm lâm sàng của bệnh lưỡi to thay đổi tùy theo nguyên nhân cơ bản và có thể từ nhẹ đến nặng [1].
+- Lưỡi to ra và nhô ra ngoài răng hoặc xương ổ răng khi nghỉ ngơi.
+- Đầu lưỡi thường có thể kéo dài tới mũi và cằm.
+- Hội chứng Beckwith-Wiedemann, [suy giáp](https://dermnetnz.org/topics/hypothyroidism) và [bệnh to đầu chi](https://dermnetnz.org/topics/acromegaly) gây ra tình trạng lưỡi to ra toàn thân với bề mặt nhẵn.
+- [Bệnh lắng đọng tinh bột](https://dermnetnz.org/topics/cutaneous-amyloidosis) , [bệnh u xơ thần kinh](https://dermnetnz.org/topics/neurofibromatosis) và [bệnh tân sinh nội tiết đa dạng, loại 2B](https://dermnetnz.org/topics/multiple-endocrine-neoplasia-type-2b) , gây ra tình trạng phì đại toàn thân với bề mặt nhiều nốt.
+- Dị tật bạch huyết gây ra tình trạng phì đại cục bộ với bề mặt sần sùi và nhiều mụn nước giống như mụn nước .
+- Khối u hoặc [u máu tăng sinh](https://dermnetnz.org/topics/infantile-haemangioma-definition-and-pathogenesis) gây ra tình trạng phì đại cục bộ.
+- Hemihypertrophy mô tả tình trạng phì đại một bên .
+
+---
+
+## Biến chứng của bệnh lưỡi to là gì?
+
+Các biến chứng của bệnh lưỡi to bao gồm:
+- [Loét (bệnh Riga-Fede)](https://dermnetnz.org/topics/riga-fede-disease) và nhiễm trùng thứ phát do lưỡi liên tục thè ra ngoài
+- Cắn hở, khía ở rìa bên của lưỡi, khoảng cách giữa các răng và sự nhô ra của xương hàm dưới [1]
+- Đường thở bị hẹp có thể gây ra tiếng thở ồn ào, chảy nước dãi, ngưng thở khi ngủ do tắc nghẽn và trong trường hợp nghiêm trọng, tắc nghẽn đường thở [2]
+- Khó khăn trong việc nói và phát âm
+- Khó khăn khi nhai và nuốt, có thể ảnh hưởng tiêu cực đến dinh dưỡng, đặc biệt là đối với trẻ sơ sinh và người lớn tuổi và gây đau khớp thái dương hàm [2].
+
+---
+
+## Bệnh lưỡi to được chẩn đoán như thế nào?
+
+Bệnh lưỡi to được chẩn đoán lâm sàng [1,2].
+Trong tử cung , siêu âm có thể phát hiện tình trạng lưỡi to [6]. Tia X có thể được sử dụng để xác định kích thước của lưỡi khi chủ yếu được sử dụng để đo kích thước của đầu.
+Chẩn đoán bất kỳ tình trạng bệnh lý tiềm ẩn nào cũng rất quan trọng. Các xét nghiệm có thể bao gồm phân tích gen , sinh thiết hoặc chọc hút kim nhỏ (FNA) [3].
+
+---
+
+## Chẩn đoán phân biệt cho bệnh lưỡi to là gì?
+
+Chẩn đoán phân biệt chính đối với tình trạng lưỡi to thực sự là tình trạng lưỡi to tương đối.
+Sưng lưỡi cấp tính có thể là do [phù mạch](https://dermnetnz.org/topics/angioedema) hoặc rối loạn viêm tại chỗ gây [viêm lưỡi](https://dermnetnz.org/topics/geographic-tongue) .
+
+---
+
+## Phương pháp điều trị bệnh lưỡi to là gì?
+
+Việc điều trị chứng lưỡi to phụ thuộc vào nguyên nhân cơ bản. Chứng lưỡi to bẩm sinh có thể tự khỏi khi trẻ lớn lên, khi lưỡi và khoang miệng thích nghi với kích thước lưỡi lớn hơn [1].
+Nhìn chung, việc điều trị bao gồm những điều sau đây [2]:
+- Quản lý bệnh toàn thân tiềm ẩn (nếu có)
+- Phẫu thuật — cắt lưỡi có thể cần thiết trong ít hơn 10% trường hợp bị lưỡi to nghiêm trọng hoặc các biến chứng của nó [1,2]
+- Điều trị các bất thường chỉnh nha thứ phát.
+
+---
+
+## Hậu quả của bệnh lưỡi to là gì?
+
+Tiên lượng cho bệnh nhân bị lưỡi to phụ thuộc rất nhiều vào mức độ nghiêm trọng, nguyên nhân cơ bản và khả năng điều trị thành công.

@@ -1,0 +1,115 @@
+# Viêm môi do ánh sáng — thông tin bổ sung
+
+Thể loại:
+
+Tổn thương (ung thư), Tổn thương (lành tính)
+
+SNOMED CT:
+
+46795000
+
+**[Tổn thương (ung thư), Tổn thương (lành tính)](https://dermnetnz.org/topics/topics?category=Lesions+(cancerous))**
+
+
+# **Viêm môi do ánh sáng**
+
+Tác giả: Tiến sĩ Mark Duffill, Bác sĩ da liễu, Hamilton, New Zealand, 2008. Được cập nhật bởi Tiến sĩ Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand, tháng 12 năm 2015.
+
+---
+
+## Viêm môi do ánh sáng là gì?
+
+Viêm môi do ánh sáng là dạng [dày sừng ánh sáng](https://dermnetnz.org/topics/actinic-keratosis) ở môi do tiếp xúc lâu ngày với ánh nắng mặt trời. Nó còn được gọi là viêm môi do ánh sáng, viêm môi do ánh nắng mặt trời, và đôi khi là viêm môi do ánh sáng với dị sản mô học .
+Viêm môi do ánh sáng cũng mô tả tình trạng môi bị ảnh hưởng bởi [chứng ngứa do ánh sáng](https://dermnetnz.org/topics/actinic-prurigo) , một dạng [nhạy cảm](https://dermnetnz.org/topics/photosensitivity) với ánh sáng hiếm gặp .
+
+---
+
+## Ai bị viêm môi do ánh sáng?
+
+Viêm môi do ánh sáng chủ yếu ảnh hưởng đến người lớn có làn da trắng sống ở vùng nhiệt đới hoặc cận nhiệt đới, đặc biệt là những người làm việc ngoài trời. Họ thường nhớ lại việc môi bị cháy nắng trong những năm trước. Họ cũng có thể bị [dày sừng ánh sáng](https://dermnetnz.org/topics/actinic-keratosis) và/hoặc các đốm đồi mồi trên các vùng da đầu, tai, mặt và tay tiếp xúc với ánh nắng mặt trời khác.
+Viêm môi do ánh sáng phổ biến ở nam giới gấp ba lần so với nữ giới.
+
+---
+
+## Nguyên nhân gây viêm môi do ánh sáng là gì?
+
+Viêm môi do ánh sáng là hậu quả của việc tiếp xúc lâu dài của môi dưới với tia cực tím từ mặt trời. Môi dưới dễ bị tổn thương hơn vùng da xung quanh vì biểu mô niêm mạc mỏng hơn và ít sắc tố hơn lớp biểu bì.
+
+---
+
+## Các đặc điểm lâm sàng của viêm môi do ánh sáng là gì?
+
+Viêm môi do ánh sáng thường ảnh hưởng nhiều nhất đến môi dưới (90%), biểu hiện như sau:
+- Khô
+- Da mỏng, dễ vỡ
+- Các mảng và sẩn dày, có vảy.
+Các đặc điểm lâm sàng khác của viêm môi do ánh sáng có thể bao gồm:
+- Sưng tấy
+- Đỏ
+- Đau nhức
+- Nứt nẻ , loét khu trú và đóng vảy
+- Mất ranh giới giữa viền môi đỏ và vùng da xung quanh
+- Các mảng dày màu trắng (bệnh bạch sừng)
+- Da đổi màu với các vùng nhợt nhạt hoặc vàng
+- Nếp gấp và đường viền môi nổi bật
+- Khó thoa son môi, son dễ bị lem ra các đường viền xung quanh.
+![Viêm môi do ánh sáng](https://dermnetnz.org/assets/Uploads/site-age-specific/cheilitis1.jpg)
+![Viêm môi do ánh sáng](https://dermnetnz.org/assets/Uploads/site-age-specific/cheilitis2.jpg)
+![Viêm môi do ánh sáng](https://dermnetnz.org/assets/Uploads/site-age-specific/cheilitis3.jpg)
+![Viêm môi do ánh sáng](https://dermnetnz.org/assets/Uploads/site-age-specific/cheilitis4.jpg)
+![Viêm môi do ánh sáng](https://dermnetnz.org/assets/Uploads/site-age-specific/cheilitis5.jpg)
+![Viêm môi do ánh sáng](https://dermnetnz.org/assets/Uploads/site-age-specific/cheilitis6.jpg)
+
+---
+
+## Biến chứng của viêm môi do ánh sáng là gì?
+
+Viêm môi do ánh sáng là một tình trạng tiền ác tính . Nó dẫn đến:
+- [Ung thư biểu mô trong biểu bì](https://dermnetnz.org/topics/intraepidermal-squamous-cell-carcinoma) (bệnh Bowen hoặc ung thư biểu mô tế bào vảy tại chỗ )
+- Ung thư biểu mô tế bào vảy xâm lấn [.](https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma)
+Ung thư môi phổ biến hơn ở [người hút thuốc](https://dermnetnz.org/topics/smoking-and-its-effects-on-the-skin) so với người không hút thuốc. Các yếu tố khác bao gồm virus gây u nhú ở người ( virus [mụn cóc](https://dermnetnz.org/topics/viral-wart) ), lạm dụng [rượu](https://dermnetnz.org/topics/cutaneous-adverse-effects-of-alcohol) và [suy giảm miễn dịch](https://dermnetnz.org/topics/immunodeficiency) .
+[Nên nghi ngờ ung thư biểu mô tế bào vảy xâm](https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma) lấn nếu môi bị đau cục bộ, hoặc xuất hiện vết loét dai dẳng hoặc nốt sần to .
+
+---
+
+## Viêm môi do ánh sáng được chẩn đoán như thế nào?
+
+Viêm môi do ánh sáng thường được chẩn đoán lâm sàng. [Sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) có thể được thực hiện nếu nghi ngờ [ung thư da](https://dermnetnz.org/topics/skin-cancer) hoặc nguyên nhân viêm gây [viêm môi](https://dermnetnz.org/topics/cheilitis) .
+Các đặc điểm mô học của viêm môi do ánh sáng là tình trạng dày lên hoặc teo đi ở môi, loạn sản biểu bì dày một phần , [tăng đàn hồi do ánh nắng](https://dermnetnz.org/topics/solar-elastosis) và viêm ở lớp hạ bì. [](https://dermnetnz.org/topics/solar-elastosis)
+
+---
+
+## Phương pháp điều trị viêm môi do ánh sáng là gì?
+
+
+### Các biện pháp chung
+Việc bỏ thuốc lá và [bảo vệ da khỏi ánh nắng mặt](https://dermnetnz.org/topics/sun-protection) trời quanh năm là điều cần thiết.
+- Hạn chế tiếp xúc với ánh nắng mặt trời
+- Đội mũ có vành rộng
+- Thường xuyên thoa [son dưỡng môi](https://dermnetnz.org/topics/topical-sunscreen-agents) có chứa kem chống nắng
+Đàn ông có thể cân nhắc việc nuôi ria mép.
+
+### Các biện pháp cụ thể
+Các liệu pháp tại chỗ cho bệnh viêm môi do ánh sáng không được chấp thuận. Chúng bao gồm:
+- [Retinoid tại chỗ](https://dermnetnz.org/topics/topical-retinoids)
+- [Kem 5-fluorouracil](https://dermnetnz.org/topics/5-fluorouracil-cream)
+- [Kem Imiquimod](https://dermnetnz.org/topics/imiquimod)
+- [Liệu pháp quang động](https://dermnetnz.org/topics/photodynamic-therapy) .
+Các phương pháp điều trị vật lý cho bệnh viêm môi do ánh sáng bao gồm:
+- [Liệu pháp lạnh](https://dermnetnz.org/topics/cryotherapy)
+- [Đốt điện](https://dermnetnz.org/topics/electrosurgery)
+- Phẫu thuật cắt bỏ môi ngoài (phẫu thuật cắt bỏ môi ngoài)
+- [Phá hủy bằng tia laser](https://dermnetnz.org/topics/laser-resurfacing) , ví dụ như tia laser carbon dioxide .
+Phẫu thuật cắt bỏ u nang và [điều trị bằng tia laser carbon dioxide](https://dermnetnz.org/topics/carbon-dioxide-laser-treatment) có kết quả khả quan nhất, ít tái phát hơn so với phương pháp lột da bằng hóa chất và liệu pháp quang động .
+
+---
+
+## Làm thế nào để ngăn ngừa viêm môi do ánh sáng?
+
+Viêm môi do ánh sáng có thể được ngăn ngừa bằng cách bảo vệ môi khỏi ánh nắng mặt trời. Ở [những người hút thuốc](https://dermnetnz.org/topics/smoking-and-its-effects-on-the-skin) , nguy cơ ung thư có thể giảm bằng cách cai thuốc lá.
+
+---
+
+## Triển vọng của bệnh viêm môi do ánh sáng là gì?
+
+Viêm môi do ánh sáng có thể cải thiện nhờ [việc bảo vệ](https://dermnetnz.org/topics/sun-protection) và điều trị hiệu quả. Tiếp xúc với ánh nắng mặt trời liên tục và không điều trị làm tăng nguy cơ [ung thư biểu mô tế bào vảy](https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma) , có khả năng đe dọa tính mạng.

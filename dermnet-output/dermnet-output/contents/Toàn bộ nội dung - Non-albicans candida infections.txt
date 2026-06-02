@@ -1,0 +1,98 @@
+# Nhiễm trùng nấm Candida không phải albicans — thông tin bổ sung
+
+Thể loại:
+
+Nhiễm trùng
+
+SNOMED CT:
+
+404503003, 714313009, 78048006, 79740000, 70572005, 72605008, 444877006, 47885008, 3491000146109, 76995006, 446237006, 115952005, 447841007
+
+**[Nhiễm trùng](https://dermnetnz.org/topics/topics?category=Infections)**
+
+
+# **Nhiễm trùng Candida không phải albicans**
+
+Tác giả: Riyad NH Seervai, nghiên cứu sinh Tiến sĩ/Bác sĩ tại Trường Y Baylor, Houston, Texas, Hoa Kỳ; Claire Jordan Wiggins, sinh viên Y khoa tại Trường Y Baylor, Houston, Texas, Hoa Kỳ. Bài viết được bình duyệt bởi Tiến sĩ Jane Morgan, Bác sĩ Sức khỏe Tình dục, Hamilton, New Zealand. Tổng Biên tập DermNet: Phó Giáo sư Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand. Biên tập bởi Gus Mitchell. Tháng 2 năm 2020.
+
+---
+
+## Nhiễm trùng Candida không phải Albicans là gì?
+
+Nhiễm trùng nấm Candida không phải albicans là [nhiễm trùng](https://dermnetnz.org/topics/fungal-skin-infections) do các loài nấm men [Candida](https://dermnetnz.org/topics/candida) khác ngoài [C. albicans](https://dermnetnz.org/topics/candida) gây ra . Các loại nhiễm trùng này bao gồm:
+- C. glabrata
+- C. krusei
+- C. kefyr
+- C. parapsilosis
+- C. tropicalis
+- C. dubliniensis
+- C. guilliermondii
+- C. orthopsilosis [1].
+Tỷ lệ mắc bệnh nấm candida không phải albicans đã tăng lên trong những năm gần đây.
+
+---
+
+## Ai có thể bị nhiễm nấm Candida không phải Albicans?
+
+Trong số các loài candida không phải albicans đã biết, chỉ có C. tropicalis , C. parapsilosis và C. orthopsilosis có thể được tìm thấy trên da khỏe mạnh ( vi sinh vật cộng sinh ) và có thể trở thành tác nhân gây bệnh [2].
+Nhiễm trùng thường phát triển trong bối cảnh [vết thương](https://dermnetnz.org/topics/wounds) hoặc da bị trầy xước, bệnh lý nền hoặc [suy giảm miễn dịch](https://dermnetnz.org/topics/drug-induced-immunosuppression) .
+- Các yếu tố độc lực như hình thành [màng sinh học](https://dermnetnz.org/topics/bacterial-biofilm) , enzyme thủy phân và bám dính vào mô vật chủ góp phần vào quá trình chuyển đổi từ loài cộng sinh sang loài gây bệnh [3].
+- Các yếu tố dẫn đến sự gia tăng nhiễm trùng [candida](https://dermnetnz.org/topics/candida) không phải albicans bao gồm việc sử dụng rộng rãi [các loại kháng sinh](https://dermnetnz.org/topics/antibiotics) phổ rộng , sử dụng [thuốc chống nấm](https://dermnetnz.org/topics/topical-antifungal-medication) theo kinh nghiệm và đặt ống thông tiểu và các thiết bị y tế khác [1,3].
+
+---
+
+## Các đặc điểm lâm sàng của nhiễm trùng nấm Candida không phải Albicans là gì?
+
+Các đặc điểm lâm sàng và biến chứng của bệnh nấm candida không phải albicans thường rất giống hoặc không thể phân biệt được với bệnh nấm candida do C. albicans gây ra [3].
+
+### Bệnh nấm candida âm hộ-âm đạo
+[Bệnh nấm candida âm hộ - âm đạo](https://dermnetnz.org/topics/vulvovaginal-candidiasis) là một trong những bệnh nhiễm trùng thường gặp nhất ở phụ nữ trưởng thành [4]. Bệnh biểu hiện bằng kích ứng âm hộ , ngứa, đau, khó chịu khi quan hệ tình dục ( [đau khi giao hợp](https://dermnetnz.org/topics/painful-sex-in-women) ) và khí hư màu trắng đục như sữa đông [4]. Nhiều loài không phải albicans đã được xác định trong bệnh nấm candida âm hộ - âm đạo , hầu hết các trường hợp liên quan đến C. glabrata , C. krusei , C. tropicalis , C. parapsilosis và C. dubliniensis .
+- C. glabrata chiếm 50–67% bệnh nấm âm hộ âm đạo không phải albicans được báo cáo [4].
+- Các loài Candida không phải albicans thường được phân lập từ phụ nữ không có triệu chứng nhiều hơn là từ phụ nữ bị viêm âm hộ âm đạo [4,5].
+- Một số nghiên cứu liên quan đến các loài không phải albicans với viêm âm hộ - âm đạo có triệu chứng đã chỉ ra rằng nhiễm trùng không phải albicans có thể biểu hiện các triệu chứng nhẹ hơn so với C. albicans [5].
+- Thất bại điều trị là một đặc điểm chung [4].
+
+### Bệnh nấm miệng
+Các loài Candida là một phần của hệ vi khuẩn đường miệng bình thường của người khỏe mạnh. [Bệnh nấm miệng](https://dermnetnz.org/topics/oral-candidiasis) là do sự phát triển quá mức của các loài Candida trong miệng. Hai dạng chính là bệnh nấm miệng trắng (bệnh nấm miệng giả mạc, bệnh nấm miệng tăng sản ) và bệnh nấm miệng ban đỏ ( bệnh nấm miệng teo , viêm lưỡi hình thoi giữa , viêm khóe miệng, [ban](https://dermnetnz.org/topics/geographic-tongue) [đỏ](https://dermnetnz.org/topics/angular-cheilitis) nướu dạng tuyến tính ). Các dạng khác là [bệnh nấm miệng niêm mạc mãn tính](https://dermnetnz.org/topics/chronic-mucocutaneous-candidiasis) , bệnh nấm miệng (bệnh nấm miệng ảnh hưởng đến môi) và bệnh nấm miệng đa ổ mãn tính [6]. [](https://dermnetnz.org/topics/chronic-mucocutaneous-candidiasis)
+Các loài không phải albicans có liên quan đến bệnh nấm miệng bao gồm:
+- C. dubliniensis
+- C. glabrata
+- C. kefyr
+- C. parapsilosis
+- C. stellatoidea
+- C. tropicalis [6].
+
+### Bệnh nấm candida toàn thân
+Nhiễm nấm Candida toàn thân là tình trạng nấm Candida xâm nhập và phát triển trong các hệ thống cơ quan cụ thể (còn gọi là nấm Candida lan tỏa ) hoặc trong máu (nhiễm nấm Candida huyết). Đây là một [bệnh nhiễm trùng cơ hội](https://dermnetnz.org/topics/opportunistic-infections) .
+- Sự gia tăng tỷ lệ mắc bệnh nấm candida toàn thân ở C. tropicalis và C. parapsilosis đã được báo cáo trên toàn thế giới [7-9].
+- Bệnh ác tính là một trong những nguyên nhân cơ bản chính; bệnh nấm candida toàn thân có liên quan đến tỷ lệ tử vong 30–50% ở bệnh nhân ung thư [8].
+- Các yếu tố nguy cơ khác bao gồm tiếp xúc với quinolone hoặc chất ức chế b-lactamase và sự hiện diện của ống thông tĩnh mạch trung tâm [9].
+
+---
+
+## Nhiễm trùng nấm candida không phải albicans được chẩn đoán như thế nào?
+
+Tất cả các trường hợp nhiễm nấm candida đều được chẩn đoán dựa trên các triệu chứng lâm sàng điển hình và bằng cách quan sát các sợi nấm giả và nấm men trên kính hiển vi của tăm bông và mẫu bệnh phẩm cạo. Xem [xét nghiệm trong phòng thí nghiệm để tìm nhiễm nấm](https://dermnetnz.org/topics/laboratory-tests-for-fungal-infection) .
+- Nuôi cấy nấm xác định Candida , loại trừ [nhiễm trùng do vi khuẩn](https://dermnetnz.org/topics/bacterial-skin-infections) và xác định độ nhạy cảm với thuốc chống nấm [tại chỗ](https://dermnetnz.org/topics/topical-antifungal-medication) hoặc [đường uống](https://dermnetnz.org/topics/oral-antifungal-medication) [10].
+- Có thể xác định các loài không phải albicans bằng các kỹ thuật sinh học phân tử và sinh hóa bao gồm phản ứng chuỗi polymerase ( PCR ) [1,3].
+![Kính hiển vi của C. dubliniensis](https://dermnetnz.org/assets/Uploads/640px-Candida_dubliniensis.jpg)
+![C. tropicalis trong nuôi cấy](https://dermnetnz.org/assets/Uploads/450px-Candida_tropicalis.jpg)
+
+---
+
+## Phương pháp điều trị nhiễm trùng Candida không phải albicans là gì?
+
+[Nhiễm trùng Candida](https://dermnetnz.org/topics/candida) được điều trị bằng ba loại thuốc chống nấm đã được chấp thuận: azole, echinocandins và amphotericin B. Khả năng kháng azole, mặc dù hiếm gặp ở C. albicans , nhưng lại thường gặp ở các loài không phải albicans [1,3].
+[Các loại thuốc chống nấm tại chỗ](https://dermnetnz.org/topics/topical-antifungal-medication) phổ biến nhất được sử dụng trong các thử nghiệm điều trị [bệnh nấm candida](https://dermnetnz.org/topics/candidiasis-pathology) ở da là clotrimazole, nystatin và miconazole, và chúng cho thấy hiệu quả tương đương [11]. [](https://dermnetnz.org/topics/candidiasis-pathology)
+Thuốc đặt âm đạo có chứa axit boric đã được báo cáo là có tác dụng chữa khỏi [bệnh nấm candida âm hộ và](https://dermnetnz.org/topics/vulvovaginal-candidiasis) âm đạo do C. glabrata, C. tropicalis và C. lusitania gây ra. [12]. [](https://dermnetnz.org/topics/vulvovaginal-candidiasis)
+[Thuốc kháng nấm](https://dermnetnz.org/topics/oral-antifungal-medication) toàn thân/ đường uống điều trị bệnh nấm candida da bao gồm [fluconazole](https://dermnetnz.org/topics/fluconazole) và [itraconazole](https://dermnetnz.org/topics/itraconazole) . [Voriconazole](https://dermnetnz.org/topics/voriconazole) và posaconazole được chỉ định cho bệnh nấm candida toàn thân nghiêm trọng.
+
+---
+
+## Candida auris : một loài mới nổi
+
+C. auris là một tác nhân gây bệnh kháng đa thuốc, có tỷ lệ mắc bệnh ngày càng tăng kể từ khi lần đầu tiên phân lập và phát hiện từ dịch tai vào năm 2009 [13]. Nhiễm nấm Candida toàn thân ở những bệnh nhân nguy kịch đang dùng kháng sinh phổ rộng và/hoặc thuốc chống nấm là biểu hiện phổ biến nhất. Nhiễm trùng da và mô mềm , bao gồm cả [nhiễm trùng vết thương](https://dermnetnz.org/topics/wound-infections) , cũng đã được phát hiện [13].
+- C. auris có thể xâm chiếm các vị trí trên cơ thể bao gồm mũi, bẹn, nách và trực tràng [13].
+- Các yếu tố nguy cơ nhiễm trùng C. auris bao gồm tiếp xúc với người bị nhiễm bệnh, các bệnh lý nền nghiêm trọng, các thủ thuật xâm lấn bao gồm phẫu thuật và đặt ống thông tiểu, [suy giảm miễn dịch](https://dermnetnz.org/topics/immunodeficiency) và [ức chế miễn dịch](https://dermnetnz.org/topics/drug-induced-immunosuppression) [13]. [](https://dermnetnz.org/topics/immunodeficiency) [](https://dermnetnz.org/topics/drug-induced-immunosuppression)
+- Kiểm soát và phòng ngừa nhiễm trùng là điều quan trọng để kiểm soát các đợt bùng phát tại các cơ sở chăm sóc sức khỏe [14].
+Các phương pháp điều trị C. auris cực kỳ hạn chế; echinocandin là lựa chọn được khuyến nghị thường xuyên nhất, mặc dù một số chủng được cho là kháng tất cả các loại thuốc chống nấm. Các loại thuốc hết hạn bằng sáng chế hoặc tái sử dụng đang được nghiên cứu để điều trị nhiễm trùng C. auris [15,16].

@@ -1,0 +1,163 @@
+# U hắc tố dạng nốt — thông tin bổ sung
+
+Thể loại:
+
+Tổn thương (ung thư)
+
+SNOMED CT:
+
+254731001, 427690002, 396487001, 254325002, 385346008, 385348009, 103419001, 385347004
+
+**[Tổn thương (ung thư)](https://dermnetnz.org/topics/topics?category=Lesions+(cancerous))**
+
+
+# **U hắc tố dạng nốt**
+
+Tác giả: Giáo sư Tiến sĩ Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand, 2011.
+
+---
+
+## U hắc tố dạng nốt là gì?
+
+U hắc tố dạng nốt là một dạng [u hắc tố](https://dermnetnz.org/topics/melanoma) xâm lấn . U hắc tố là một loại [ung thư da](https://dermnetnz.org/topics/skin-cancer) có khả năng nguy hiểm , phát sinh từ các tế bào sắc tố ( melanocyte ). [](https://dermnetnz.org/topics/melanoma) [](https://dermnetnz.org/topics/skin-cancer)
+Theo dữ liệu của Cơ quan Đăng ký Ung thư New Zealand , 2.256 ca u hắc tố xâm lấn được chẩn đoán vào năm 2008, và ít nhất 15% được báo cáo là u hắc tố dạng nốt. Có 371 ca tử vong do tất cả các loại u hắc tố vào năm 2008 (69% là nam giới) và khoảng một nửa trong số này là u hắc tố dạng nốt.
+
+---
+
+## U hắc tố dạng nốt là gì?
+
+Trong u hắc tố dạng nốt, các tế bào u hắc tố tăng sinh xuống dưới da – được gọi là tăng trưởng theo chiều dọc. Tổn thương biểu hiện dưới dạng một nốt (cục) phát triển nhanh chóng trong vài tuần đến vài tháng trước đó. Nó có thể xuất hiện mới trên da bình thường, hoặc trong một khối u hắc tố hiện có thuộc loại khác.
+Ung thư hắc tố dạng nốt có thể xâm nhập sâu vào da chỉ trong vòng vài tháng sau khi xuất hiện lần đầu.
+
+---
+
+## Ai mắc bệnh ung thư hắc tố dạng nốt?
+
+U hắc tố dạng nốt chiếm khoảng 15% u hắc tố ở Úc và New Zealand. Mặc dù phổ biến hơn ở những người da rất sáng (loại da 1 và 2), nó cũng có thể xảy ra ở những người dễ rám nắng (loại da 3), và đôi khi ở những người da nâu hoặc đen (loại da 4-6).
+U hắc tố dạng nốt phổ biến ở nam giới hơn nữ giới. Hầu hết bệnh nhân được chẩn đoán ở độ tuổi trên 50.
+Các yếu tố nguy cơ chính gây ra bệnh u hắc tố dạng nốt là:
+- Tuổi tác ngày càng tăng
+- Ung thư hắc tố xâm lấn trước đó hoặc ung thư hắc tố tại chỗ
+- Nhiều nốt ruồi melanocytic
+- Nhiều (>5) nốt ruồi bất thường (nốt ruồi trông buồn cười)
+- Da trắng dễ bị cháy nắng
+Loại ung thư này ít liên quan đến việc tiếp xúc với ánh nắng mặt trời hơn so với loại ung thư hắc tố [lan rộng bề mặt](https://dermnetnz.org/topics/superficial-spreading-melanoma) và loại [lentigo maligna .](https://dermnetnz.org/topics/lentigo-maligna-and-lentigo-maligna-melanoma)
+
+---
+
+## Ung thư hắc tố dạng nốt trông như thế nào?
+
+U hắc tố dạng nốt có thể xuất hiện ở bất kỳ vị trí nào nhưng thường gặp nhất ở vùng da hở ở đầu và cổ.
+U hắc tố dạng nốt biểu hiện là một khối u phát triển nhanh chóng (trong vài tuần đến vài tháng). Các đặc điểm của u hắc tố dạng nốt bao gồm:
+- Kích thước lớn hơn hầu hết các nốt ruồi – >6 mm và thường có đường kính một centimet trở lên khi chẩn đoán
+- Khối u cứng hình vòm, thường đối xứng
+- Màu đơn sắc hoặc sắc tố thay đổi – thường là đen, đỏ hoặc màu da
+- Bề mặt nhẵn, nhám, có vảy hoặc có mụn cóc
+- Loét hoặc chảy máu
+- Ngứa hoặc châm chích
+Một phần ba khối u ác tính dạng nốt không có sắc tố. Chúng không có các dấu hiệu cảnh báo ung thư hắc tố [theo tiêu chuẩn ABCDE](https://dermnetnz.org/topics/abcdes-of-melanoma) (Không đối xứng, Đường viền không đều, Màu sắc thay đổi, Đường kính lớn).
+![U hắc tố dạng nốt](https://dermnetnz.org/assets/Uploads/lesions/w/nm1.jpg)
+![U hắc tố dạng nốt](https://dermnetnz.org/assets/Uploads/lesions/w/nm2.jpg)
+![U hắc tố dạng nốt](https://dermnetnz.org/assets/Uploads/lesions/w/nm3.jpg)
+[Xem thêm hình ảnh về u hắc tố dạng nốt.](https://dermnetnz-org.translate.goog/images/nodular-melanoma-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+
+---
+
+## Nguyên nhân gây ra bệnh u hắc tố dạng nốt là gì?
+
+U hắc tố dạng nốt là do sự phát triển của các tế bào sắc tố ác tính (tế bào hắc tố) cùng với lớp đáy của biểu bì. Những tế bào này đôi khi có thể xuất phát từ nốt ruồi hắc tố hiện có (khoảng 3%), nhưng thường xuất hiện trong một loại u hắc tố khác hoặc ở vùng da trước đây có vẻ ngoài bình thường. Nguyên nhân gây ra sự phát triển ác tính của tế bào hắc tố vẫn chưa được biết rõ, nhưng có khả năng là do một loạt các thay đổi trong DNA. Đột biến NRAS thường được tìm thấy ở những bệnh nhân mắc u hắc tố dạng nốt.
+
+---
+
+## Tôi nên làm xét nghiệm gì nếu bị u hắc tố dạng nốt?
+
+Việc chẩn đoán chính xác u hắc tố dạng nốt là rất quan trọng. Chẩn đoán lâm sàng được hỗ trợ bằng soi da và sinh thiết da (thường là sinh thiết cắt bỏ ). Những người có u hắc tố dày hơn 1 mm có thể được khuyên nên sinh thiết hạch bạch huyết , chụp chiếu và xét nghiệm máu.
+
+### soi da
+[Soi da](https://dermnetnz.org/topics/procedures/dermoscopy.html) , hoặc sử dụng máy soi da , do bác sĩ da liễu hoặc bác sĩ khác được đào tạo về cách sử dụng, có thể rất hữu ích trong việc phân biệt u hắc tố dạng nốt với các tổn thương da khác , chẳng hạn như:
+- Nốt ruồi hắc [tố](https://dermnetnz.org/topics/lesions/moles.html)
+- [Sừng hóa bã nhờn](https://dermnetnz.org/topics/lesions/seborrhoeic-keratosis.html)
+- [Ung thư biểu mô tế bào đáy](https://dermnetnz.org/topics/lesions/basal-cell-carcinoma.html) sắc tố [](https://dermnetnz.org/topics/lesions/basal-cell-carcinoma.html)
+- Tổn thương mạch máu , chẳng hạn như [u mạch](https://dermnetnz.org/topics/vascular/angioma.html) và [u hạt mủ](https://dermnetnz.org/topics/vascular/pyogenic-granuloma.html) .
+Các đặc điểm da liễu thường được quan sát thấy nhất của bệnh u hắc tố dạng nốt là:
+- Cấu trúc không đối xứng không có tổ chức
+- Các mô hình mạch máu không điển hình
+- Cấu trúc màu xanh xám
+- Nhiều màu sắc.
+
+### Chẩn đoán cắt bỏ tổn thương nghi ngờ là u hắc tố dạng nốt
+Nếu nghi ngờ tổn thương da là u hắc tố dạng nốt, cần phải cắt bỏ ngay lập tức ( [sinh thiết cắt bỏ](https://dermnetnz.org/topics/procedures/excision.html) ). Tốt nhất nên tránh [sinh thiết](https://dermnetnz.org/topics/procedures/biopsy.html) nhỏ , trừ khi tổn thương lớn bất thường. Sinh thiết rạch hoặc sinh thiết đục có thể gây hiểu lầm.
+Chẩn [đoán bệnh lý u hắc tố](https://dermnetnz.org/topics/pathology/melanoma-path.html) có thể khó khăn. [U hắc tố dạng nốt](https://dermnetnz.org/topics/pathology/melanoma-path.html) có rất ít hoặc không có sự lan rộng của tế bào ác tính trong lớp biểu bì; các tế bào u hắc tố được tìm thấy trong lớp hạ bì hoặc lớp mỡ dưới da . Có thể cần phải thực hiện thêm các xét nghiệm nhuộm miễn dịch mô học.
+
+### Báo cáo bệnh lý trong u hắc tố dạng nốt
+Báo cáo của nhà nghiên cứu bệnh học phải bao gồm mô tả đại thể về mẫu vật và khối u ác tính (nhìn bằng mắt thường) và mô tả vi thể .
+- Chẩn đoán ung thư hắc tố nguyên phát
+- Độ dày Breslow đến gần nhất 0,1 mm
+- Mức độ xâm lược của Clark
+- Biên độ cắt bỏ (mô khỏe mạnh xung quanh khối u )
+- Tốc độ phân bào – thước đo tốc độ tế bào sinh sôi
+- Có loét hay không
+Báo cáo cũng có thể bao gồm các bình luận về loại tế bào và mô hình tăng trưởng, sự xâm lấn mạch máu hoặc dây thần kinh , phản ứng viêm , thoái triển và liệu có nốt ruồi ban đầu (neevus) đi kèm hay không.
+
+### Độ dày Breslow là gì?
+Độ dày Breslow được báo cáo cho các khối u ác tính xâm lấn. Độ dày này được đo theo chiều dọc tính bằng milimét từ đỉnh lớp hạt (hoặc đáy của vết loét nông) đến điểm sâu nhất của khối u. Đây là một yếu tố dự báo mạnh mẽ về kết quả; khối u ác tính càng dày thì khả năng di căn (lan rộng) càng cao.
+
+### Mức độ xâm lược của Clark là bao nhiêu?
+Mức độ Clark chỉ ra mặt phẳng giải phẫu của sự xâm lấn.
+Mức độ Đặc trưng Cấp độ 1 U hắc tố tại chỗ Cấp độ 2 U hắc tố đã xâm lấn vào lớp hạ bì nhú Cấp độ 3 U hắc tố đã lấp đầy lớp hạ bì nhú Cấp độ 4 U hắc tố đã xâm lấn lớp hạ bì lưới Cấp độ 5 U hắc tố đã xâm lấn mô dưới da
+Mức Clark càng sâu, nguy cơ di căn (lan truyền thứ phát) càng cao. Nó hữu ích trong việc dự đoán kết quả ở các khối u mỏng và ít hữu ích hơn đối với các khối u dày so với giá trị độ dày Breslow.
+
+---
+
+## Phương pháp điều trị ung thư hắc tố dạng nốt là gì?
+
+Điều trị ban đầu cho u hắc tố nguyên phát là cắt bỏ; tổn thương cần được cắt bỏ hoàn toàn với khoảng cách 2-3 cm là mô bình thường. Việc điều trị tiếp theo chủ yếu phụ thuộc vào độ dày Breslow của tổn thương.
+Sau khi sinh thiết cắt bỏ ban đầu; biên độ cắt bỏ xuyên tâm, được đo lâm sàng từ rìa khối u ác tính, được khuyến nghị trong Hướng dẫn Quản lý U hắc tố của Úc và New Zealand (2008) được thể hiện trong bảng dưới đây. Điều này có thể cần phải dùng vạt hoặc ghép để đóng vết thương. Đôi khi, bác sĩ giải phẫu bệnh sẽ báo cáo việc cắt bỏ không hoàn toàn khối u ác tính, mặc dù biên độ rộng. Điều này có nghĩa là phẫu thuật hoặc xạ trị tiếp theo sẽ được khuyến nghị để đảm bảo khối u đã được loại bỏ hoàn toàn.
+Độ dày Biên độ cắt bỏ U hắc tố tại chỗ 5mm U hắc tố < 1,0mm 1cm U hắc tố 1,0–2,0mm 1–2cm U hắc tố 2,0–4,0mm 1–2cm U hắc tố > 4,0mm 2cm
+
+---
+
+## Phân loại ung thư hắc tố
+
+Phân loại giai đoạn ung thư hắc tố nghĩa là tìm hiểu xem ung thư hắc tố đã di căn khỏi vị trí ban đầu trên da hay chưa. Hầu hết các chuyên gia về ung thư hắc tố đều tham khảo hướng dẫn phân loại giai đoạn ung thư hắc tố da của Ủy ban Ung thư Liên hợp Hoa Kỳ (AJCC) (2009). Về cơ bản, các giai đoạn ung thư hắc tố bao gồm:
+Sân khấu Đặc trưng Giai đoạn 0 U hắc tố tại chỗ Giai đoạn 1 U hắc tố mỏng có độ dày <2 mm Giai đoạn 2 U hắc tố dày > 2 mm Giai đoạn 3 Ung thư hắc tố lan rộng đến các hạch bạch huyết tại chỗ Giai đoạn 4 Đã phát hiện di căn xa
+
+---
+
+## Có nên cắt bỏ hạch bạch huyết không?
+
+Nếu hạch bạch huyết tại chỗ to lên do [u hắc tố di căn](https://dermnetnz.org/topics/lesions/metastatic-melanoma.html) , cần phải cắt bỏ hoàn toàn. Việc này đòi hỏi phải phẫu thuật, thường dưới gây mê toàn thân. Nếu hạch không to lên, có thể cần xét nghiệm để xem có sự lan rộng vi thể của u hắc tố hay không. Xét nghiệm này được gọi là [sinh thiết hạch gác](https://dermnetnz.org/topics/procedures/sentinel-node-biopsy.html) .
+Ở New Zealand, nhiều bác sĩ phẫu thuật khuyến nghị [sinh thiết hạch gác](https://dermnetnz.org/topics/procedures/sentinel-node-biopsy.html) cho các khối u ác tính dày hơn 1 mm, đặc biệt là ở người trẻ tuổi. Tuy nhiên, mặc dù sinh thiết có thể giúp phân loại giai đoạn ung thư, nhưng nó không mang lại lợi ích sống còn. Hiện nay, việc có cần thiết phải sinh thiết hạch gác hay không vẫn còn gây tranh cãi.
+Hạch bạch huyết chứa khối u ác tính di căn thường tăng kích thước nhanh chóng. Hạch bị ảnh hưởng thường không đau và có độ cứng đến cứng. Nếu tình trạng này xảy ra giữa các lần tái khám theo kế hoạch, hãy báo ngay cho bác sĩ.
+Nếu khối u ác tính lan rộng , có thể cần các phương pháp điều trị khác nhưng không phải lúc nào cũng thành công trong việc loại bỏ ung thư. [Liệu pháp miễn dịch](https://dermnetnz.org/topics/treatments/immunotherapy-melanoma.html) , các thuốc sinh học như [ipilimumab](https://dermnetnz.org/topics/treatments/ipilimumab.html) và các chất ức chế BRAF [như dabrafenib](https://dermnetnz.org/topics/treatments/dabrafenib.html) và [vemurafenib](https://dermnetnz.org/topics/treatments/vemurafenib.html) đang cho thấy nhiều hứa hẹn. [](https://dermnetnz.org/topics/treatments/dabrafenib.html) [](https://dermnetnz.org/topics/treatments/vemurafenib.html)
+
+---
+
+## Điều gì xảy ra khi theo dõi bệnh ung thư hắc tố?
+
+Mục đích chính của việc theo dõi là phát hiện sớm các trường hợp tái phát, nhưng nó cũng mang lại cơ hội chẩn đoán u hắc tố nguyên phát mới ngay khi có thể. U hắc tố xâm lấn thứ hai xảy ra ở 5-10% bệnh nhân; u hắc tố tại chỗ không liên quan ảnh hưởng đến hơn 20% bệnh nhân u hắc tố.
+Hướng dẫn của Úc và New Zealand về quản lý bệnh ung thư hắc tố (2008) đưa ra các khuyến nghị sau đây để theo dõi bệnh nhân mắc bệnh ung thư hắc tố xâm lấn.
+- [Tự kiểm tra da](https://dermnetnz.org/topics/procedures/self-skin-examination.html)
+- Kiểm tra da định kỳ bởi chuyên gia chăm sóc sức khỏe được bệnh nhân yêu cầu
+- Khoảng thời gian theo dõi tốt nhất là sáu tháng một lần trong năm năm đối với bệnh nhân mắc bệnh giai đoạn 1, ba tháng một lần hoặc bốn tháng một lần trong năm năm đối với bệnh nhân mắc bệnh giai đoạn 2 hoặc 3 và hàng năm sau đó đối với tất cả bệnh nhân.
+- Cần xem xét nhu cầu của từng bệnh nhân trước khi đưa ra phương án theo dõi phù hợp
+- Cung cấp giáo dục và hỗ trợ để giúp bệnh nhân thích nghi với bệnh tật của họ
+Các cuộc hẹn tái khám có thể được thực hiện bởi bác sĩ đa khoa hoặc bác sĩ chuyên khoa của bệnh nhân, hoặc có thể được chia sẻ.
+Các cuộc hẹn tiếp theo có thể bao gồm:
+- Kiểm tra vết sẹo nơi khối u ác tính nguyên phát được loại bỏ
+- Cảm nhận về các hạch bạch huyết khu vực
+- Khám da tổng quát
+- Khám sức khỏe toàn diện
+- Đối với những người có nhiều [nốt ruồi](https://dermnetnz.org/topics/lesions/moles.html) hoặc [nốt ruồi không điển hình](https://dermnetnz.org/topics/lesions/atypical-naevi.html) , cần chụp toàn thân và chụp ảnh đại thể và da liễu liên tiếp các tổn thương tế bào hắc tố cần quan tâm ( [lập bản đồ nốt ruồi](https://dermnetnz.org/topics/procedures/mole-mapping.html) ).
+Đối với những người mắc bệnh nguyên phát ở giai đoạn tiến triển hơn, việc theo dõi có thể bao gồm:
+- Xét nghiệm máu, bao gồm LDH
+- Chẩn đoán hình ảnh: siêu âm , chụp X-quang, chụp CT , chụp MRI và chụp PET .
+Xét nghiệm thường không có giá trị đối với bệnh nhân ung thư hắc tố giai đoạn 1/2 trừ khi có dấu hiệu hoặc triệu chứng tái phát hoặc di căn. Và không cần xét nghiệm đối với những bệnh nhân khỏe mạnh, những người vẫn khỏe mạnh trong năm năm hoặc lâu hơn sau khi cắt bỏ ung thư hắc tố, bất kể giai đoạn nào.
+
+---
+
+## Triển vọng của bệnh nhân mắc bệnh u hắc tố dạng nốt là gì?
+
+Nguy cơ lây lan và tử vong do ung thư hắc tố xâm lấn phụ thuộc vào một số yếu tố, nhưng yếu tố chính là độ dày được đo của khối u hắc tố tại thời điểm phẫu thuật cắt bỏ.
+Hướng dẫn về U hắc tố báo cáo rằng di căn rất hiếm gặp đối với u hắc tố <0,75 mm và nguy cơ đối với khối u dày 0,75–1 mm là khoảng 5%. Nguy cơ tăng dần theo độ dày, do đó u hắc tố >4 mm có nguy cơ di căn khoảng 40%.
+Số liệu thống kê của New Zealand do Cơ quan Đăng ký Ung thư thu thập từ năm 1994 đến năm 2004 cho thấy có 15.839 ca u hắc tố xâm lấn. Trong số này, 52% có độ dày dưới 0,75 mm, 22% có độ dày từ 0,76 đến 1,49 mm, 15% có độ dày từ 1,5 đến 3 mm và 11% có độ dày trên 3 mm. Các khối u dày hơn có khả năng được chẩn đoán ở nam giới cao hơn một chút và có nhiều khả năng xảy ra ở người lớn tuổi hơn người trẻ tuổi.

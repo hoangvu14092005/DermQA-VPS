@@ -1,0 +1,184 @@
+# Viêm da quanh miệng — thông tin bổ sung
+
+Thể loại:
+
+Phát ban
+
+SNOMED CT:
+
+238751002, 403367007, 403655004
+
+**[Phát ban](https://dermnetnz.org/topics/topics?category=Rashes)**
+
+
+# **Viêm da quanh nhân tạo**
+
+Tác giả: Bác sĩ Nayab Shah, Bệnh viện Hoàng gia Perth, Úc. Biên tập bởi Gus Mitchell. Tháng 7 năm 2022
+
+---
+
+## Viêm da quanh nhân tạo là gì?
+
+Viêm da quanh nhân tạo (POD) là một bệnh viêm da mạn tính khá phổ biến . Bệnh chủ yếu ảnh hưởng đến các lỗ trên da , đúng như tên gọi, bao gồm quanh mắt, lỗ mũi, miệng và đôi khi là bộ phận sinh dục.
+Viêm da quanh miệng có thể chỉ giới hạn ở một lỗ duy nhất, khi đó nó được gọi một cách chính xác hơn là:
+- Viêm da quanh miệng (vị trí bị ảnh hưởng điển hình)
+- [Viêm da quanh mắt](https://dermnetnz.org/topics/periocular-dermatitis)
+- Viêm da quanh mũi
+- Viêm da quanh vùng sinh dục (liên quan đến môi lớn, bìu hoặc hậu môn ).
+![Sẩn đỏ quanh miệng không ảnh hưởng đến vùng da quanh miệng trong viêm da quanh miệng](https://dermnetnz.org/assets/collection/Perioral-dermatitis/perioral-dermatitis-0001.jpg)
+![Sẩn ở nếp gấp quanh miệng và mũi má không ảnh hưởng đến vùng da quanh miệng trong viêm da quanh miệng](https://dermnetnz.org/assets/collection/Perioral-dermatitis/perioral-dermatitis-0008.jpg)
+![Viêm da quanh miệng](https://dermnetnz.org/assets/Uploads/acne/perioral-dermatitis/3403.jpg)
+![Viêm da quanh mắt](https://dermnetnz.org/assets/Uploads/acne/perioral-dermatitis/3406.jpg)
+![Viêm da quanh miệng](https://dermnetnz.org/assets/Uploads/acne/perioral-dermatitis/3408.jpg)
+[Nhấp vào đây để xem thêm hình ảnh](https://dermnetnz-org.translate.goog/images/periorificial-dermatitis-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+
+---
+
+## Ai bị viêm da quanh mắt?
+
+Viêm da quanh da thường gặp hơn ở phụ nữ da sáng và thường ảnh hưởng đến phụ nữ trẻ đến trung niên (20–45 tuổi). Tuy nhiên, tình trạng này cũng xảy ra ở trẻ nhỏ, thường từ 7 tháng đến 13 tuổi.
+Tỷ lệ mắc bệnh và mức độ phổ biến chính xác vẫn chưa được biết rõ.
+
+---
+
+## Nguyên nhân gây viêm da quanh nhân tạo là gì?
+
+Nguyên nhân chính xác vẫn chưa được hiểu rõ. Một cơ chế được đề xuất là rối loạn chức năng biểu bì là nguyên nhân chính , dẫn đến:
+- Tăng cường sự thâm nhập của các tác nhân ngoại sinh qua lớp sừng , gây ra phản ứng kích ứng
+- Tăng cường mất nước qua biểu bì dẫn đến tình trạng căng và khô, khiến bệnh nhân phải tăng cường sử dụng các sản phẩm bôi ngoài da , dẫn đến kích ứng nhiều hơn.
+
+### Các yếu tố rủi ro liên quan đến POD
+- Việc sử dụng steroid theo mọi đường ( [bôi ngoài da](https://dermnetnz.org/topics/topical-steroid) , hít, xịt mũi) là phổ biến nhất. Việc sử dụng có thể là vô tình (ví dụ, xịt mũi) hoặc cố ý.
+- Sử dụng trong mỹ phẩm.
+- Rối loạn chức năng hàng rào biểu bì thứ phát do: Thiếu hụt dinh dưỡng ví dụ như [thiếu kẽm](https://dermnetnz.org/topics/acrodermatitis-enteropathica) [Sử dụng chất làm mềm](https://dermnetnz.org/topics/emollients-and-moisturisers) gây tắc nghẽn dẫn đến tình trạng mất nước, ví dụ như chất làm mềm gốc parafin hoặc dầu mỏ [Sử dụng kem chống nắng](https://dermnetnz.org/topics/topical-sunscreen-agents) , đặc biệt là kem chống nắng vật lý cho trẻ em.
+- Thiếu hụt dinh dưỡng ví dụ như [thiếu kẽm](https://dermnetnz.org/topics/acrodermatitis-enteropathica)
+- [Sử dụng chất làm mềm](https://dermnetnz.org/topics/emollients-and-moisturisers) gây tắc nghẽn dẫn đến tình trạng mất nước, ví dụ như chất làm mềm gốc parafin hoặc dầu mỏ
+- [Sử dụng kem chống nắng](https://dermnetnz.org/topics/topical-sunscreen-agents) , đặc biệt là kem chống nắng vật lý cho trẻ em.
+- Các chất gây dị ứng / kích ứng như [kem đánh răng](https://dermnetnz.org/topics/contact-reactions-to-toothpaste-and-other-oral-hygiene-products) và chất trám răng.
+- Các sinh vật gây nhiễm trùng như Demodex spp. , Candida albicans và vi khuẩn hình thoi đã được nuôi cấy từ các tổn thương , tuy nhiên, ý nghĩa của chúng vẫn chưa rõ ràng.
+- Người ta đã quan sát thấy những thay đổi về hormone do sử dụng thuốc tránh thai đường uống, mang thai và các đợt bùng phát tiền kinh nguyệt .
+- Cơ địa dị ứng .
+Các yếu tố vật lý bao gồm tia UV , nhiệt và gió có vẻ làm tình trạng viêm da quanh mắt trở nên trầm trọng hơn.
+
+---
+
+## Các đặc điểm lâm sàng của viêm da quanh nhân tạo là gì?
+
+Các đặc điểm trên da của viêm da quanh nhân tạo bao gồm:
+- Một đợt bùng phát dạng mụn trứng cá Các cụm sẩn, mụn nước và mụn mủ có màu từ da đến đỏ Thường nhỏ hơn 2mm mỗi vết; có thể hợp nhất thành các tổn thương lớn hơn Nền đỏ có viền sắc nét
+- Các cụm sẩn, mụn nước và mụn mủ có màu từ da đến đỏ
+- Thường nhỏ hơn 2mm mỗi vết; có thể hợp nhất thành các tổn thương lớn hơn
+- Nền đỏ có viền sắc nét
+- Da xung quanh thường [khô](https://dermnetnz.org/topics/dry-skin)
+- Bề mặt da có vảy và bong tróc
+- Cảm giác nóng rát hoặc căng da
+- [Ngứa](https://dermnetnz.org/topics/pruritus) .
+Đau rất hiếm, mặc dù da thường nhạy cảm và bệnh nhân vẫn khỏe mạnh về mặt toàn thân.
+Mặc dù thường chỉ giới hạn ở lỗ bị ảnh hưởng, POD nghiêm trọng hơn có thể lan đến cằm, má, mí mắt dưới bên , mí mắt trên, trán và vùng giữa hai lông mày. Vùng da quanh lông mày thường không bị ảnh hưởng, nhưng hiếm khi bị ảnh hưởng trong các trường hợp nghiêm trọng.
+[Thuốc steroid bôi ngoài da](https://dermnetnz.org/topics/topical-steroid) có thể che khuất vết phát ban ban đầu và cũng có thể gây ra các tác dụng phụ trên da do steroid gây ra.
+![Viêm da quanh miệng do sử dụng mặt nạ phun khí dung steroid](https://dermnetnz.org/assets/collection/Perioral-dermatitis/perioral-dermatitis-0002.jpg)
+![Sẩn và mụn mủ (một đặc điểm bất thường) trong viêm da quanh miệng](https://dermnetnz.org/assets/collection/Perioral-dermatitis/perioral-dermatitis-0006.jpg)
+![Viêm da quanh miệng do sử dụng steroid tại chỗ quá liều](https://dermnetnz.org/assets/collection/Perioral-dermatitis/perioral-dermatitis-0007.jpg)
+[Nhấp vào đây để xem thêm hình ảnh](https://dermnetnz-org.translate.goog/images/periorificial-dermatitis-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+
+### Viêm da quanh miệng dạng lupus
+Đây là một phân nhóm nghiêm trọng của POD. Các nốt phát ban dày đặc hơn và lớn hơn với các sẩn màu nâu đỏ. Vùng da bị ảnh hưởng có thâm nhiễm dạng lupus , với màu thạch táo đặc trưng trên kính hiển vi. Phân nhóm này có thể để lại sẹo vĩnh viễn.
+
+### Viêm da quanh miệng dạng hạt ở trẻ em (CGPD)
+[CGPD](https://dermnetnz.org/topics/periorificial-dermatitis-in-children) là một biến thể hiếm gặp thường gặp ở trẻ em da sẫm màu. Trước đây, nó được gọi là FACE (Bùng phát ban mặt ở trẻ em gốc Phi-Caribe). Tuy nhiên, sau đó nó đã được đổi tên vì được phát hiện ở trẻ em da sáng màu và không có nguồn gốc Phi-Caribe.
+Bệnh nhân biểu hiện các sẩn đơn sắc, màu da, đỏ hoặc vàng nâu , hình vòm. CGPD thường không có mụn mủ và mụn nước, ban đỏ và bong vảy ít nổi bật hơn so với POD cổ điển. Ngoài ra, các đặc điểm mô học giữa CGPD và POD cũng khác nhau.
+Da nhân tạo cũng có thể bị ảnh hưởng với tình trạng phát ban ở cổ, ngực và tứ chi, ngoài viêm kết mạc và viêm bờ mi.
+
+---
+
+## Biến chứng của viêm da quanh nhân tạo là gì?
+
+- Viêm da quanh nhân tạo dạng hạt — một biến thể của viêm da quanh nhân tạo có biểu hiện là các nốt sẩn màu vàng dai dẳng . Tình trạng này chủ yếu xảy ra ở trẻ nhỏ và gần như luôn xảy ra sau khi sử dụng corticosteroid . Trên mô bệnh học có thâm nhiễm quanh nang lông dạng hạt .
+- Tình trạng này chủ yếu xảy ra ở trẻ nhỏ và gần như luôn xảy ra sau khi sử dụng corticosteroid .
+- Trên mô bệnh học có thâm nhiễm quanh nang lông dạng hạt .
+- [Bệnh trứng cá đỏ do steroid](https://dermnetnz.org/topics/steroid-rosacea) biểu hiện bằng các nốt sần lớn trên mặt do steroid, mụn mủ và [giãn mạch](https://dermnetnz.org/topics/telangiectasia) ở giữa mặt, bao gồm trán và má.
+- Viêm da quanh mắt nghiêm trọng có thể tái phát sau khi ngừng đột ngột việc sử dụng [steroid bôi ngoài da](https://dermnetnz.org/topics/topical-steroid) mạnh trên da mặt.
+- Căng thẳng về mặt tâm lý.
+
+---
+
+## Viêm da quanh nhân tạo được chẩn đoán như thế nào?
+
+POD là một chẩn đoán lâm sàng. Các xét nghiệm khác có thể được sử dụng là:
+- [Tăm bông và cạo da](https://dermnetnz.org/topics/dermatological-investigations-and-tests) để nuôi cấy và thử nghiệm kali hydroxit (KOH) để loại trừ nhiễm trùng do vi khuẩn và nấm .
+- [Kiểm tra miếng dán](https://dermnetnz.org/topics/patch-tests) để kiểm tra [viêm da tiếp xúc dị ứng](https://dermnetnz.org/topics/allergic-contact-dermatitis) .
+- [Sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) khi chẩn đoán chưa chắc chắn và có thể phát hiện: Viêm quanh mạch máu và quanh nang lông kèm theo phù nề và thâm nhiễm lympho bào Bệnh xốp biểu bì Áp xe nang lông ở những trường hợp nặng.
+- Viêm quanh mạch máu và quanh nang lông kèm theo phù nề và thâm nhiễm lympho bào
+- Bệnh xốp biểu bì
+- Áp xe nang lông ở những trường hợp nặng.
+CGPD đặc trưng bởi mô quanh nang lông và mô thượng bì chứa các u hạt không hoại tử, bao quanh bởi tế bào lympho và thường là các tế bào khổng lồ. Ngoài ra, có thể xuất hiện tình trạng xốp hóa biểu bì.
+
+---
+
+## Chẩn đoán phân biệt cho bệnh viêm da quanh nhân tạo là gì?
+
+Chẩn đoán phân biệt phụ thuộc vào vị trí liên quan.
+
+### POD mặt
+- [Bệnh trứng cá đỏ](https://dermnetnz.org/topics/rosacea) — bệnh nhân thường lớn tuổi hơn, phân bố khác nhau và không có biến chứng liên quan đến bệnh trứng cá đỏ như bệnh u mũi sư tử
+- [Mụn trứng cá](https://dermnetnz.org/topics/acne) — mụn đầu đen , nốt sần và u nang xuất hiện không phải là triệu chứng điển hình của POD
+- [Viêm da tiết bã nhờn](https://dermnetnz.org/topics/seborrhoeic-dermatitis) — phân bố khác nhau bao gồm cả vùng chân tóc trán, da đầu và trước xương ức.
+- [Viêm da tiếp xúc](https://dermnetnz.org/topics/contact-dermatitis) — [dị ứng](https://dermnetnz.org/topics/allergic-contact-dermatitis) và [kích ứng](https://dermnetnz.org/topics/irritant-contact-dermatitis) ( ngứa thường dữ dội hơn)
+- [Viêm da do liếm môi](https://dermnetnz.org/topics/lip-lickers-dermatitis)
+- [Chốc lở](https://dermnetnz.org/topics/impetigo) .
+
+### CGPD
+- [Bệnh trứng cá đỏ dạng hạt](https://dermnetnz.org/topics/rosacea)
+- [Bệnh sarcoidosis](https://dermnetnz.org/topics/sarcoidosis)
+- [Lupus miliaris phổ biến faciei](https://dermnetnz.org/topics/lupus-miliaris-disseminatus-faciei-pathology) .
+
+---
+
+## Phương pháp điều trị viêm da quanh nhân tạo là gì?
+
+Viêm da quanh nhân tạo là một tình trạng lành tính , tự khỏi , không gây hậu quả toàn thân . Tuy nhiên, về mặt thẩm mỹ, bệnh nhân có thể không chấp nhận được, dẫn đến gánh nặng bệnh tật đáng kể và gây ra những căng thẳng tâm lý. Viêm da quanh nhân tạo thường đáp ứng tốt với các phương pháp điều trị.
+Chỉ số mức độ nghiêm trọng của POD (PODSI) đã được sử dụng trong tài liệu để giúp định lượng mức độ nghiêm trọng của bệnh và phản ứng với điều trị.
+
+### Các biện pháp chung
+Phương pháp không điều trị nên được áp dụng cho tất cả bệnh nhân POD và có thể giúp giải quyết hoàn toàn các trường hợp nhẹ. Khuyến cáo bệnh nhân:
+- Ngừng sử dụng tất cả mỹ phẩm trang điểm và các sản phẩm bôi ngoài da, bao gồm [kem chống nắng](https://dermnetnz.org/topics/topical-sunscreen-agents) và thuốc làm mềm da Tốt nhất là chỉ rửa mặt bằng nước ấm cho đến khi hết phát ban, sau đó cân nhắc sử dụng sữa rửa mặt không chứa xà phòng.
+- Tốt nhất là chỉ rửa mặt bằng nước ấm cho đến khi hết phát ban, sau đó cân nhắc sử dụng sữa rửa mặt không chứa xà phòng.
+- Có thể sử dụng [chất làm mềm](https://dermnetnz.org/topics/emollients-and-moisturisers) dịu nhẹ không chứa chất bảo quản/phụ gia để điều trị tình trạng khô da. Tránh dùng kem và thuốc mỡ gây bít tắc lỗ chân lông vì chúng có thể làm trầm trọng thêm tình trạng POD.
+- Có thể sử dụng kem chống nắng dạng gel hoặc dạng lỏng
+- Ngừng tất cả các loại corticosteroid bôi ngoài da Giảm dần liều steroid trong nhiều tuần, chuyển sang steroid có hiệu lực thấp hơn trước khi ngừng và thay thế bằng [pimecrolimus bôi ngoài da](https://dermnetnz.org/topics/pimecrolimus) [Tacrolimus](https://dermnetnz.org/topics/tacrolimus) là một lựa chọn thay thế nhưng có ít bằng chứng hơn Có thể xảy ra bùng phát khi ngừng thuốc — không nên tiếp tục sử dụng steroid.
+- Giảm dần liều steroid trong nhiều tuần, chuyển sang steroid có hiệu lực thấp hơn trước khi ngừng và thay thế bằng [pimecrolimus bôi ngoài da](https://dermnetnz.org/topics/pimecrolimus)
+- [Tacrolimus](https://dermnetnz.org/topics/tacrolimus) là một lựa chọn thay thế nhưng có ít bằng chứng hơn
+- Có thể xảy ra bùng phát khi ngừng thuốc — không nên tiếp tục sử dụng steroid.
+Nên tiếp tục sử dụng steroid dạng xịt mũi, dạng hít và dạng uống vì lý do y khoa, nhưng sẽ làm tăng thời gian hồi phục. Rửa mặt và miệng sau khi sử dụng steroid dạng xịt mũi hoặc dạng hít có thể giúp ích.
+
+### Các biện pháp cụ thể
+Có các phương pháp điều trị tại chỗ và/hoặc toàn thân; thời gian điều trị thường là 4–8 tuần nhưng có thể cần kéo dài. Bệnh có thể tái phát nếu thời gian điều trị quá ngắn.
+
+#### Các tác nhân tại chỗ
+- [Metronidazol 0,75–1%](https://dermnetnz.org/topics/metronidazole)
+- [Erythromycin 1%](https://dermnetnz.org/topics/erythromycin)
+- [Pimecrolimus 1%](https://dermnetnz.org/topics/pimecrolimus) hai lần mỗi ngày trong tối đa 4 tuần
+Các phương pháp điều trị tại chỗ thường không được dung nạp do tình trạng nhạy cảm ở mặt; nếu được dung nạp, có thể thay đổi sau mỗi 6–8 tuần nếu bệnh nhân không đáp ứng.
+Các liệu pháp tại chỗ khác có ít bằng chứng chứng minh hiệu quả và độ an toàn. Bao gồm:
+- [Axit azelaic](https://dermnetnz.org/topics/azelaic-acid)
+- [Clindamycin](https://dermnetnz.org/topics/clindamycin)
+- [Tacrolimus](https://dermnetnz.org/topics/tacrolimus)
+- Adapalene
+- Sulfacetamide/lưu huỳnh
+- [Liệu pháp quang động](https://dermnetnz.org/topics/photodynamic-therapy) .
+
+#### Liệu pháp toàn thân
+- [Tetracycline](https://dermnetnz.org/topics/tetracycline) — được khuyến cáo là thuốc đầu tay và thường có tác dụng nhanh
+- [Erythromycin](https://dermnetnz.org/topics/erythromycin) — thuốc đầu tay cho phụ nữ mang thai và trẻ em dưới 8 tuổi Azithromycin là một lựa chọn thay thế.
+- Azithromycin là một lựa chọn thay thế.
+Liều thấp hơn liều kháng sinh có thể hiệu quả đối với một số bệnh nhân. Trong trường hợp kháng thuốc toàn thân, có thể cân nhắc kết hợp liệu pháp uống và bôi ngoài da.
+- [Isotretinoin](https://dermnetnz.org/topics/isotretinoin) — bằng chứng ở mức độ thấp cho các trường hợp khó điều trị .
+- Cefcapene pivoxil hydrochloride — bằng chứng hạn chế về hiệu quả và độ an toàn.
+
+---
+
+## Kết quả của viêm da quanh nhân tạo là gì?
+
+Viêm da quanh nhân tạo, bao gồm CGPD, thường diễn biến mạn tính, có thể kéo dài hàng tháng đến hàng năm nếu không điều trị. Thông thường, không để lại sẹo hoặc rối loạn sắc tố da, ngoại trừ các trường hợp nặng và dạng lupus.
+Nếu được điều trị, hầu hết bệnh nhân đều hồi phục tốt. Nếu POD tái phát sau khi ngừng kháng sinh hoặc trong tương lai, có thể áp dụng lại phương pháp điều trị tương tự.
+[Nhấp vào đây để xem hình ảnh](https://dermnetnz-org.translate.goog/images/periorificial-dermatitis-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)

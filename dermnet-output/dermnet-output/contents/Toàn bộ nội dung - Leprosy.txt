@@ -1,0 +1,154 @@
+# Bệnh phong — thông tin bổ sung
+
+Thể loại:
+
+Nhiễm trùng
+
+SNOMED CT:
+
+81004002, 240402003, 240403008, 70143003, 416483009, 416257001, 21560005, 14386001
+
+**[Nhiễm trùng](https://dermnetnz.org/topics/topics?category=Infections)**
+
+
+# **Bệnh phong**
+
+Tác giả: Vanessa Ngan, Nhân viên biên tập, 2003. Tổng biên tập DermNet: Phụ tá A/Giáo sư Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand. Đã cập nhật: Bác sĩ Sachin Manohar Shetty, Bác sĩ tư vấn da liễu, Phòng khám da Puttur, Puttur, Bang Karnataka, Ấn Độ, năm 2018. Sửa đổi vào tháng 9 năm 2020. Bản sao do Gus Mitchell biên tập. Tháng 9 năm 2020. Bản sửa đổi DermNet tháng 1 năm 2021.
+
+---
+
+## Bệnh phong là gì?
+
+Bệnh phong, còn gọi là bệnh Hansen, là một bệnh nhiễm trùng mãn tính do vi khuẩn gây ra , chủ yếu ảnh hưởng đến da và dây thần kinh ngoại biên , thường do vi khuẩn Mycobacterium leprae gây ra . Hình thái bệnh phụ thuộc vào phản ứng miễn dịch của người bệnh đối với nhiễm trùng.
+
+---
+
+## Ai mắc bệnh phong?
+
+Bệnh phong có thể ảnh hưởng đến mọi chủng tộc trên toàn thế giới. Tuy nhiên, bệnh phổ biến nhất ở các vùng ấm áp, ẩm ướt thuộc vùng nhiệt đới và cận nhiệt đới. Năm 2017, hơn 200.000 ca phong mới được ghi nhận trên toàn thế giới. Tỷ lệ mắc bệnh trên toàn thế giới được báo cáo là khoảng 5,5 triệu người, với 80% số ca này được tìm thấy ở 5 quốc gia: Ấn Độ, Indonesia, Myanmar, Brazil và Nigeria. Tại New Zealand, có 38 trường hợp được báo cáo trong thập kỷ 2004-2013, phần lớn các trường hợp sống ở khu vực Tây Thái Bình Dương hoặc Đông Nam Á: hầu hết các trường hợp đến từ Samoa. Một số ít trường hợp mới được phát hiện hàng năm tại Úc, ảnh hưởng đến người dân bản địa và người di cư từ các vùng lưu hành bệnh .
+Nhiễm trùng có thể xảy ra ở mọi lứa tuổi. Có hai độ tuổi đỉnh điểm: 10–14 tuổi và 35–44 tuổi. Bệnh hiếm khi xảy ra ở trẻ sơ sinh và trẻ nhỏ.
+Cơ chế lây truyền bệnh vẫn còn gây tranh cãi. Người ta tin rằng bệnh lây truyền qua đường hô hấp do hít phải các giọt bắn trong không khí từ người bị nhiễm bệnh khi họ hắt hơi hoặc ho. Trong 80% các trường hợp mới, bệnh nhân có tiền sử tiếp xúc kéo dài với người mắc bệnh phong chưa được điều trị. Phần lớn những người tiếp xúc sẽ không biểu hiện triệu chứng. Thời gian ủ bệnh dài; trung bình khoảng 5 năm, dao động từ 6 tháng đến 20 năm. Các triệu chứng ban đầu thường nhẹ và chỉ được phát hiện nhiều năm sau khi tiếp xúc.
+Tatu là nguồn lây nhiễm quan trọng ở Brazil và các bang miền Nam Hoa Kỳ. Những người săn bắt, giết, chế biến hoặc ăn thịt tatu có nguy cơ cao bị nhiễm M. leprae .
+Một số gen đã được xác định làm tăng nguy cơ nhiễm M. leprae . Ước tính có tới 95% dân số thế giới không có gen dễ bị nhiễm M. leprae .
+
+---
+
+## Nguyên nhân gây ra bệnh phong là gì?
+
+Bệnh phong gần như luôn do M. leprae gây ra , một loại trực khuẩn kháng axit nội bào, có họ hàng với Mycobacterium tuberculosis và Mycobacterium ulcerans . M. leprae phát triển tốt nhất ở nhiệt độ mát, giải thích tại sao nó thường ảnh hưởng đến da và các dây thần kinh nông ngoại biên. Nó phân chia rất chậm và mất nhiều năm mới đạt đến số lượng đủ để biểu hiện các dấu hiệu nhiễm trùng.
+Mycobacterium lepromatosis được xác định bằng cách giải trình tự bộ gen các mẫu phân lập ở Mexico và sau đó đã được xác định ở nhiều quốc gia khác. Người ta tin rằng nó đã đến châu Mỹ theo các quần thể di cư từ châu Á qua eo biển Bering, trong khi M. leprae di cư theo những người thực dân từ Cựu Thế giới.
+Biểu hiện lâm sàng của bệnh phong phụ thuộc vào phản ứng miễn dịch với M. leprae/bệnh phong và trải dài trên một phổ từ bệnh phong u đa trực khuẩn (LL) biểu hiện khả năng miễn dịch hạn chế hoặc thấp với M. leprae/bệnh phong đến bệnh phong củ ít trực khuẩn (TT) có phản ứng miễn dịch mạnh.
+
+---
+
+## Các đặc điểm lâm sàng của bệnh phong là gì?
+
+Ở hơn 90% bệnh nhân, triệu chứng đầu tiên được nhận thấy là tê bì. Cảm giác đầu tiên bị mất là nhiệt độ, tiếp theo là cảm giác chạm nhẹ, đau, và sau đó là áp lực sâu. Điều này có thể xảy ra trước khi phát triển các tổn thương da nhiều năm. Các tổn thương da ban đầu thường không xác định, biểu hiện dưới dạng một hoặc một số ít các mảng giảm sắc tố trước khi tiến triển thành các loại u củ hoặc u phong ranh giới.
+
+### Bệnh phong củ
+Bệnh phong củ (TT) là thể ít vi khuẩn được xác định trên lâm sàng bởi:
+- Một vài (1–2) mảng đỏ được xác định rõ ràng với viền nổi hoặc một mảng giảm sắc tố lớn hơn có đường kính dưới 10 cm
+- Mất mồ hôi với da khô ráp không có lông ở các mảng
+- Mất cảm giác ở các tổn thương
+- Các dây thần kinh bị ảnh hưởng sẽ dày lên và đau khi ấn vào.
+![Mảng ban đỏ được xác định rõ trên má ở vùng da có màu](https://dermnetnz.org/assets/collection-O/Leprosy/leprosy-tuberculoid-00001.jpg)
+
+### Bệnh phong lao ranh giới
+Bệnh phong lao ranh giới (BT) biểu hiện bằng:
+- Tổn thương tương tự TT nhưng lớn hơn về kích thước, nhiều hơn (5-20) và có thể kém rõ ràng hơn
+- Phân phối không đối xứng
+- Tổn thương vệ tinh
+- Gây tê trên các tổn thương ít rõ rệt hơn so với TT
+- Các dây thần kinh ngoại biên bị ảnh hưởng theo kiểu không đối xứng và có thể gây biến dạng và tàn tật.
+![Không có caption](https://dermnetnz.org/assets/Uploads/doctors/bacterial-infections/images/leprosy1.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/doctors/bacterial-infections/images/leprosy2.jpg)
+![Bệnh phong BT với phản ứng loại 1](https://dermnetnz.org/assets/Uploads/bacterial/leprosy3.jpg)
+
+### Bệnh phong ranh giới ranh giới
+Bệnh phong ranh giới (BB) là một dạng bệnh phong hiếm gặp, thoáng qua và không ổn định được xác định bởi:
+- Nhiều tổn thương có kích thước, hình dạng và phân bố khác nhau
+- Tổn thương màu da hoặc ban đỏ
+- Tổn thương hình đĩa ngược đặc trưng nhưng hiếm gặp, có các cạnh dốc và phần giữa lõm ( tổn thương hình phô mai Thụy Sĩ ).
+![Tổn thương màu đỏ có kích thước khác nhau. Hình dạng đặc trưng của 'phô mai Thụy Sĩ' (mũi tên đen)](https://dermnetnz.org/assets/collection-O/Leprosy/leprosy-borderline-borderline-00001.jpg)
+
+### Bệnh phong u ranh giới
+Bệnh phong thể ranh giới (BL) được đặc trưng bởi:
+- Tổn thương đối xứng hai bên lan rộng
+- Các vết dát , sẩn và nốt sần có kích thước và hình dạng khác nhau
+- Cảm giác và sự phát triển của tóc vẫn bình thường trong một tổn thương
+- Đặc điểm tê tay và tê chân
+- Tổn thương lan rộng ở dây thần kinh ngoại biên .
+![Sự phân bố không đối xứng của các mảng thâm nhiễm hồng ban ở da màu](https://dermnetnz.org/assets/collection-O/Leprosy/leprosy-borderline-lepromatous-00001.jpg)
+
+### Bệnh phong u
+Bệnh phong u (LL) là dạng bệnh phong nhiều trực khuẩn được xác định bởi:
+- Các triệu chứng ban đầu của nghẹt mũi, chảy dịch và chảy máu
+- Sưng và dày lên ở chân tay, đặc biệt là mắt cá chân và chân, sau đó loét
+- Các mảng ban đỏ và giảm sắc tố lan rộng, không rõ nét, có bề mặt bóng và cảm giác bình thường
+- Tiến triển thành tình trạng thâm nhiễm lan rộng của da hình thành các nốt sần và mảng bám
+- Khuôn mặt sư tử đặc trưng với trán dày, mất lông mày và lông mi ( [madarosis](https://dermnetnz.org/topics/madarosis) ), mũi biến dạng và dái tai dày lên
+- Sự tham gia của các hệ thống khác: Mắt — gây tê giác mạc, viêm giác mạc , loét giác mạc, viêm màng bồ đào , bệnh tăng nhãn áp , mù ​​lòa không hồi phục Tinh hoàn — viêm tinh hoàn , teo tinh hoàn , vô sinh Gan — viêm gan , bệnh lắng đọng amyloid gan Thận — viêm cầu thận, bệnh lắng đọng amyloid ở thận Xương — loãng xương, tiêu xương ngón tay.
+- Mắt — gây tê giác mạc, viêm giác mạc , loét giác mạc, viêm màng bồ đào , bệnh tăng nhãn áp , mù ​​lòa không hồi phục
+- Tinh hoàn — viêm tinh hoàn , teo tinh hoàn , vô sinh
+- Gan — viêm gan , bệnh lắng đọng amyloid gan
+- Thận — viêm cầu thận, bệnh lắng đọng amyloid ở thận
+- Xương — loãng xương, tiêu xương ngón tay.
+![Không có caption](https://dermnetnz.org/assets/Uploads/bacterial/leprosy4.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/bacterial/leprosy5.jpg)
+![Khuôn mặt sư tử với tình trạng mất lông mày và da mặt thâm nhiễm](https://dermnetnz.org/assets/collection-O/Leprosy/leprosy-lepromatous-00001.jpg)
+Một số biến thể lâm sàng của bệnh phong u được mô tả.
+- Phong histoid — nhiều sẩn và nốt sần hình vòm, màu da đến đỏ đồng (u phong histoid) với kích thước thay đổi, chủ yếu ở chân tay và thân mình, hoặc dọc theo các dây thần kinh ngoại biên, đặc biệt ở nam giới. Thể này có đặc điểm mô học đặc trưng , ​​và thường bùng phát trong quá trình điều trị LL, phản ánh tình trạng trực khuẩn kháng thuốc hoặc mất miễn dịch cục bộ . Có lo ngại rằng thể phong này có thể hoạt động như một ổ chứa, gây khó khăn cho việc loại trừ.
+- Bệnh phong Lucio (phong lan tỏa) — biểu hiện bằng tổn thương thâm nhiễm mịn trên da, đặc biệt là ở mặt và tay. Bệnh này đặc biệt phổ biến ở Trung và Nam Mỹ, nơi nó được gọi là 'lepra bonita' (phong đẹp).
+- Tổn thương dạng sùi mào gà — là các nốt sần hoặc mảng tăng sừng hình sợi , giống sừng hoặc nứt nẻ ở phần xa của chi dưới và bàn chân. Đây là một biểu hiện hiếm gặp ở bệnh phong dạng sùi mào gà tiến triển.
+
+### Bệnh phong histoid
+![Sẩn và nốt sần hình vòm ở da có màu](https://dermnetnz.org/assets/collection-O/Leprosy/leprosy-histoid-00001.jpg)
+
+### Bệnh phong thần kinh thuần túy
+Bệnh phong thần kinh nguyên phát (PNL) phổ biến ở Ấn Độ và Nepal. Bệnh chỉ biểu hiện bằng đau và dày dây thần kinh ngoại biên mà không có tổn thương da. Tuy nhiên, tổn thương thần kinh có thể dẫn đến mất cảm giác và loét dinh dưỡng . Chẩn đoán rất khó khăn và cần sinh thiết thần kinh.
+![Loét dinh dưỡng ở gót chân](https://dermnetnz.org/assets/collection-O/Leprosy/leprosy-pure-neural-00002.jpg)
+
+---
+
+## Biến chứng của bệnh phong là gì?
+
+[Phản ứng phong](https://dermnetnz.org/topics/lepra-reactions) xảy ra ở 30–50% bệnh nhân phong. Chúng có thể xảy ra trước, hoặc thường xuyên hơn, sau khi bắt đầu điều trị. Đây là những phản ứng đột ngột do sự giải phóng trực khuẩn hoạt động miễn dịch hoặc các sản phẩm của nó, dẫn đến các triệu chứng và dấu hiệu tại chỗ hoặc toàn thân . Những phản ứng này là nguyên nhân gây ra hầu hết các tổn thương thần kinh, biến dạng và tàn tật.
+
+---
+
+## Bệnh phong được chẩn đoán như thế nào?
+
+Bệnh phong có những triệu chứng lâm sàng rất đặc trưng và [phương pháp soi da](https://dermnetnz.org/topics/dermoscopy-of-leprosy) đang được sử dụng thường xuyên hơn để hỗ trợ chẩn đoán lâm sàng.
+Chẩn đoán phải được xác nhận bằng một trong những xét nghiệm sau đây.
+- Phết da bằng dao rạch — dùng lưỡi dao sắc rạch một đường nhỏ trên da dái tai, trán hoặc vùng da bị tổn thương , sau đó dùng dao cạo lớp hạ bì lộ ra trên một phiến kính và kiểm tra trực khuẩn kháng axit dưới kính hiển vi ; chỉ hữu ích đối với bệnh phong nhiều trực khuẩn.
+- Xét nghiệm Lepromin — là xét nghiệm nội bì để phát hiện tình trạng quá mẫn chậm với kháng nguyên M. leprae ; mặc dù không đặc hiệu, nhưng xét nghiệm này hữu ích trong việc phân loại loại bệnh phong.
+- [Sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) — có thể cho thấy các đặc điểm điển hình, tùy thuộc vào loại bệnh phong (xem [Bệnh lý phong](https://dermnetnz.org/topics/leprosy-pathology) ); có thể cần phải nhuộm đặc biệt để chứng minh trực khuẩn.
+- Phản ứng PCR DNA của M. leprae rất đặc hiệu trong việc phát hiện vi khuẩn gây bệnh phong.
+
+---
+
+## Chẩn đoán phân biệt bệnh phong là gì?
+
+Danh sách chẩn đoán phân biệt tiềm năng cho bệnh phong rất dài và phụ thuộc vào loại bệnh và các đặc điểm lâm sàng.
+- Các mảng và nốt giảm sắc tố có thể cần phải được phân biệt với [bệnh vảy phấn trắng](https://dermnetnz.org/topics/pityriasis-alba) , [bệnh lang ben](https://dermnetnz.org/topics/pityriasis-versicolor) , [bệnh leishmaniasis](https://dermnetnz.org/topics/leishmaniasis) hoặc [bệnh ghẻ cóc](https://dermnetnz.org/topics/yaws) .
+- Các tổn thương sắc tố và nổi lên có thể giống với các bệnh nhiễm trùng da khác bao gồm [bệnh leishmaniasis ở da](https://dermnetnz.org/topics/leishmaniasis) và bệnh lupus thông thường.
+
+---
+
+## Phương pháp điều trị bệnh phong là gì?
+
+Việc điều trị bệnh phong nhằm mục đích ngăn chặn nhiễm trùng đang hoạt động và giảm thiểu các biến chứng cũng như biến dạng. Các khuyết tật còn lại có thể cần phẫu thuật tái tạo để phục hồi chức năng, cho phép bệnh nhân hoạt động hàng ngày.
+Hầu hết các quốc gia lưu hành bệnh đều áp dụng liệu pháp đa thuốc (MDT) kháng sinh theo khuyến cáo của WHO; việc kết hợp các loại thuốc được lựa chọn và thời gian điều trị phụ thuộc vào loại bệnh phong. Hướng dẫn năm 2018 của WHO khuyến nghị ba loại thuốc, bao gồm [clofazimine](https://dermnetnz.org/topics/clofazimine) trong 6 tháng đối với bệnh phong ít vi khuẩn và 12 tháng đối với bệnh phong nhiều vi khuẩn.
+Các loại kháng sinh hàng đầu được sử dụng trong điều trị bệnh phong là [dapsone](https://dermnetnz.org/topics/dapsone) , [rifampicin](https://dermnetnz.org/topics/rifampicin) và clofazimine. Các lựa chọn thuốc khác bao gồm ofloxacin, moxifloxacin, minocycline, clarithromycin, rifapentine và diarylquinolone. Vắc-xin và các hình thức liệu pháp miễn dịch khác đang được thử nghiệm.
+
+---
+
+## Hậu quả của bệnh phong là gì?
+
+Khi đã bắt đầu điều trị thích hợp, các tổn thương da sẽ dần thuyên giảm. Tuy nhiên, tổn thương thần kinh không thể phục hồi.
+
+---
+
+## Bệnh phong có thể phòng ngừa được không?
+
+Dự phòng sau phơi nhiễm bằng rifampicin làm giảm 50% sự phát triển của bệnh phong ít vi khuẩn.

@@ -1,0 +1,110 @@
+# Hội chứng Ramsay Hunt — thông tin bổ sung
+
+Thể loại:
+
+Nhiễm trùng
+
+SNOMED CT:
+
+21954000
+
+**[Nhiễm trùng](https://dermnetnz.org/topics/topics?category=Infections)**
+
+
+# **Hội chứng Ramsay Hunt**
+
+Tác giả: Adhar Mehta, sinh viên y khoa, Đại học Auckland, Auckland, New Zealand. Tổng biên tập DermNet New Zealand: Giáo sư danh dự Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand. Biên tập viên: Maria McGivern. Tháng 4 năm 2017.
+
+---
+
+## Hội chứng Ramsay Hunt là gì?
+
+Hội chứng Ramsay Hunt là một bệnh lý thần kinh ngoại biên mặt hiếm gặp . Đây là một dạng [bệnh zona](https://dermnetnz.org/topics/herpes-zoster) do virus varicella zoster (VZV) tái hoạt động ở hạch gối của dây thần kinh sọ não số VII, chi phối dây thần kinh mặt.
+- Hội chứng Ramsay Hunt được đặc trưng bởi tình trạng yếu một bên mặt và các mụn nước gây đau - ở ống tai cùng bên với tình trạng liệt mặt hoặc bên trong miệng.
+- Đôi khi, tổn thương dây thần kinh sọ não VIII gây ra các triệu chứng thính giác và/hoặc tiền đình (chóng mặt). Nhiễm trùng cũng có thể lan đến các dây thần kinh sọ não III, IV, V, VI, IX, X, XI và XII.
+- Một số bệnh nhân có thể không có mụn nước, trong trường hợp này bệnh nhiễm trùng được gọi là zona không có herpes.
+Hội chứng Ramsay Hunt còn được gọi là herpes zoster oticus, viêm hạch gối, bệnh Ramsay Hunt và hội chứng Hunt. Tên gọi này được đặt ra bởi nhà thần kinh học James Ramsay Hunt vào năm 1907.
+
+---
+
+## Ai mắc hội chứng Ramsay Hunt?
+
+Hội chứng Ramsay Hunt xảy ra ở những người có tiền sử mắc bệnh thủy [đậu](https://dermnetnz.org/topics/chickenpox) .
+- Hội chứng Ramsay Hunt rất hiếm gặp, với tỷ lệ mắc bệnh khoảng 5 trên 100.000 dân.
+- Bệnh này phổ biến ở phụ nữ hơn nam giới một chút.
+- Hội chứng Ramsay Hunt chủ yếu gặp ở người lớn, đặc biệt là những người trên 60 tuổi, nhưng hiếm khi gặp ở trẻ em.
+- 12% trường hợp liệt dây thần kinh mặt ngoại biên là do hội chứng Ramsay Hunt.
+- Hội chứng Ramsay Hunt là nguyên nhân phổ biến thứ hai gây ra chứng liệt mặt ngoại biên không do chấn thương .
+
+---
+
+## Nguyên nhân nào gây ra hội chứng Ramsay Hunt?
+
+Sau khi nhiễm VZV nguyên phát (ví dụ như [thủy đậu](https://dermnetnz.org/topics/chickenpox) ), có một giai đoạn tiềm ẩn mà VZV vẫn nằm im trong các tế bào thần kinh của dây thần kinh sọ, hạch rễ sau và hạch tự chủ . Sự tái hoạt của VZV trong hạch gối của dây thần kinh sọ số VII là nguyên nhân dẫn đến hội chứng này. VZV cũng có thể lan xuống các sợi trục của các dây thần kinh sọ khác có chung nguồn cung cấp máu với hạch gối.
+Sự tái hoạt động của VZV có nhiều khả năng xảy ra đối với:
+- Những người bị suy [giảm miễn dịch](https://dermnetnz.org/topics/immunodeficiency) , chẳng hạn như nhiễm [vi-rút gây suy giảm miễn dịch ở người (HIV)](https://dermnetnz.org/topics/skin-conditions-relating-to-hiv-infection) hoặc bệnh ác tính
+- Những người đang điều trị [ức chế miễn dịch](https://dermnetnz.org/topics/drug-induced-immunosuppression) , [corticosteroid](https://dermnetnz.org/topics/systemic-steroids) , hóa trị hoặc xạ trị
+- Những người bị nhiễm trùng hoặc căng thẳng về thể chất hoặc tinh thần.
+
+---
+
+## Hội chứng Ramsay Hunt có những đặc điểm lâm sàng nào?
+
+Các triệu chứng đặc trưng của hội chứng Ramsay Hunt là liệt dây thần kinh mặt một bên và phát ban mụn nước đau ở tai và niêm mạc hầu họng hoặc vòm miệng. Khoảng 20% ​​bệnh nhân bị liệt dây thần kinh mặt vài ngày trước khi mụn nước xuất hiện. Khoảng 10% bệnh nhân mắc hội chứng Ramsay Hunt không xuất hiện mụn nước.
+Các triệu chứng khác của hội chứng Ramsay Hunt có thể bao gồm:
+- Các triệu chứng giống cúm, chẳng hạn như sốt và đau đầu, trong 3–7 ngày trước khi phát ban xuất hiện Cảm giác đau nhức hoặc đau ở tai Các vết dát , sẩn và mụn nước hợp nhất ở các vị trí đau, sau đó vỡ ra và đóng vảy Mất cảm giác vị giác ở hai phần ba phía trước của lưỡi Mắt khô và miệng khô Ù tai , mất thính lực hoặc tăng nhạy cảm với âm thanh, chóng mặt , buồn nôn và nôn Các triệu chứng do rối loạn chức năng của các dây thần kinh sọ khác.
+- Cảm giác đau nhức hoặc đau ở tai
+- Các vết dát , sẩn và mụn nước hợp nhất ở các vị trí đau, sau đó vỡ ra và đóng vảy
+- Mất cảm giác vị giác ở hai phần ba phía trước của lưỡi
+- Mắt khô và miệng khô
+- Ù tai , mất thính lực hoặc tăng nhạy cảm với âm thanh, chóng mặt , buồn nôn và nôn
+- Các triệu chứng do rối loạn chức năng của các dây thần kinh sọ khác.
+![Bệnh zona](https://dermnetnz.org/assets/Uploads/ramsay-hunt-02.jpg)
+![Liệt dây thần kinh mặt](https://dermnetnz.org/assets/Uploads/ramsay-hunt-03.jpg)
+![Liệt dây thần kinh mặt](https://dermnetnz.org/assets/Uploads/ramsay-hunt-01.jpg)
+
+---
+
+## Hội chứng Ramsay Hunt được chẩn đoán như thế nào?
+
+Chẩn đoán hội chứng Ramsay Hunt thường được thực hiện lâm sàng. Chẩn đoán có thể được xác nhận thông qua xét nghiệm phản ứng chuỗi polymerase VZV (sử dụng dịch tiết tai ). Xét nghiệm này đặc biệt hữu ích để phân biệt hội chứng Ramsay Hunt do zona thần kinh với liệt dây thần kinh mặt cấp tính tự phát .
+Chụp cộng hưởng từ ( MRI ) có thể được thực hiện nếu có các triệu chứng thần kinh đa sọ .
+
+---
+
+## Phương pháp điều trị hội chứng Ramsay Hunt là gì?
+
+Khả năng phục hồi hoàn toàn cao hơn nếu bắt đầu điều trị bằng thuốc kháng vi-rút trong vòng 72 giờ sau khi xuất hiện triệu chứng. Các lựa chọn điều trị cho hội chứng Ramsay Hunt là:
+- [Aciclovir](https://dermnetnz.org/topics/aciclovir) 800 mg uống năm lần mỗi ngày trong 7 ngày
+- Valaciclovir 1 g ba lần mỗi ngày trong 7 ngày
+- Famciclovir 500 mg ba lần mỗi ngày trong 7 ngày
+- Liệu pháp phối hợp thuốc kháng vi-rút và prednisone (uống 60 mg mỗi ngày trong 5 ngày).
+Điều trị triệu chứng trong hội chứng Ramsay Hunt cấp tính có thể bao gồm:
+- [Corticosteroid toàn thân](https://dermnetnz.org/topics/systemic-steroids)
+- Thuốc giảm đau opioid
+- Thuốc chống co giật , chẳng hạn như [gabapentin](https://dermnetnz.org/topics/topics/gabapentin/) và pregabalin
+- Chườm đá lên vết phồng rộp
+- Một miếng che mắt nếu không thể nhắm mắt
+- Nước mắt nhân tạo và thuốc mỡ bôi trơn để chống khô mắt
+- Kích thích thần kinh điện xuyên da (TENS) và rung động
+- Dung dịch nhôm sulfat ấm dùng ngoài da .
+[Thuốc capsaicin](https://dermnetnz.org/topics/topics/capsaicin/) bôi ngoài da có thể được sử dụng để điều trị [chứng đau dây thần kinh sau zona](https://dermnetnz.org/topics/post-herpetic-neuralgia) nhưng không được dung nạp tốt trên da mặt.
+
+---
+
+## Hậu quả của hội chứng Ramsay Hunt là gì?
+
+Hội chứng Ramsay Hunt có tiên lượng kém hơn so với liệt Bell; nghĩa là khả năng phục hồi hoàn toàn thấp hơn, đặc biệt nếu không bắt đầu điều trị bằng thuốc kháng vi-rút trong vòng 72 giờ kể từ khi xuất hiện triệu chứng.
+Thang điểm House-Brachmann , có mối tương quan với mức độ rối loạn chức năng dây thần kinh mặt, có thể được sử dụng như một công cụ tiên lượng .
+Các yếu tố tiên lượng kém bao gồm:
+- Bệnh tiểu đường
+- Tuổi cao (> 60)
+- Tăng huyết áp
+- Chóng mặt.
+Các biến chứng có thể bao gồm:
+- Liệt mặt vĩnh viễn
+- Mất thính lực
+- Đồng vận động (các cử động khuôn mặt không mong muốn liên quan đến các cử động có chủ đích)
+- Bệnh lý thần kinh đa sọ
+- Viêm tủy ( viêm tủy sống )
+- [Đau dây thần kinh sau zona](https://dermnetnz.org/topics/post-herpetic-neuralgia) .

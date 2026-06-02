@@ -1,0 +1,69 @@
+# U nang Trichilemmal — thông tin bổ sung
+
+Thể loại:
+
+Rối loạn nang lông
+
+SNOMED CT:
+
+254677004, 401158006
+
+**[Rối loạn nang lông](https://dermnetnz.org/topics/topics?category=Follicular+disorder)**
+
+
+# **U nang Trichilemmal**
+
+Tác giả: Anila Kapadia, Chuyên viên Đăng ký Da liễu, Quỹ Ủy thác NHS Bệnh viện Giảng dạy York, Vương quốc Anh. Cố vấn nội dung: Tiến sĩ Calum Lyon, Bác sĩ Da liễu Tư vấn, Quỹ Ủy thác NHS Bệnh viện Giảng dạy York, Vương quốc Anh. Biên tập viên: Clare Morrison. Tháng 6 năm 2014.
+
+---
+
+## U nang lông trichilemmal là gì?
+
+U nang Trichilemmal , còn được gọi là u nang pilar, là một u nang chứa đầy keratin , bắt nguồn từ bao chân tóc ngoài. Keratin là protein cấu tạo nên tóc và móng. U nang Trichilemmal thường gặp nhất ở da đầu và thường được chẩn đoán ở phụ nữ trung niên. Chúng thường di truyền trong gia đình, vì chúng có kiểu di truyền trội trên nhiễm sắc thể thường (tức là khuynh hướng mắc u nang có thể được truyền từ cha mẹ sang con cái, bất kể giới tính , và đứa trẻ có 1/2 khả năng thừa hưởng u nang này).
+
+---
+
+## Các đặc điểm lâm sàng của u nang trichilemmal là gì ?
+
+U nang lông trichilemmal có thể trông giống [u nang](https://dermnetnz.org/topics/cutaneous-cysts-and-pseudocysts) biểu bì và thường bị gọi nhầm là u nang bã nhờn . U nang lông trichilemmal biểu hiện dưới dạng một hoặc nhiều nốt sần dưới da chắc, di động, có đường kính từ 0,5 đến 5 cm. Không giống như u nang biểu bì, u nang lông trichilemmal không có điểm trung tâm. U nang lông trichilemmal có thể gây đau nếu bị viêm.
+
+### U nang pilar
+![Hình ảnh từ Tiến sĩ Calum Lyon](https://dermnetnz.org/assets/Uploads/lesions/pilar-cyst-2.jpg)
+![U nang pilar](https://dermnetnz.org/assets/Uploads/lesions/pilar-cyst.jpg)
+![U nang pilar](https://dermnetnz.org/assets/Uploads/cyst1.jpg)
+[Thêm hình ảnh về u nang ...](https://dermnetnz-org.translate.goog/topics/epidermoid-and-trichilemmal-cyst-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+
+---
+
+## Sự khác biệt giữa u nang trichilemmal và u nang biểu bì là gì ?
+
+
+### U nang Trichilemmal
+- Vị trí phổ biến nhất của u nang trichilemmal là da đầu (90%) và bìu.
+- Không có điểm trung tâm.
+- Nguồn gốc là bẹ rễ bên ngoài.
+- Thành nang dày và không dễ vỡ.
+- Mô học : không có lớp hạt .
+
+### U nang biểu bì
+- Vị trí phổ biến nhất của [u nang biểu bì](https://dermnetnz.org/topics/epidermoid-cyst) là mặt, cổ và thân mình.
+- Có điểm trung tâm.
+- Nguồn gốc là biểu mô hoặc phễu nang lông .
+- Thành nang mỏng manh và dễ vỡ.
+- Mô học: có lớp hạt
+
+---
+
+## Những phát hiện về mặt mô học trong u nang lông là gì ?
+
+Bệnh [lý củanang lôngtrichilemmal](https://dermnetnz.org/topics/trichilemmal-cyst-pathology) rất đặc trưng. Thành nang là biểu mô vảy tầng (da) có lớp ngoài dẹt, giống như lớp bao chân ngoài của nang lông. Lớp trong không có lớp hạt. Nang cho thấy lớp keratin màu hồng rất đặc trên nhuộm hematoxylin và eosin.
+
+---
+
+## Phương pháp điều trị u nang lông trichilemmal là gì ?
+
+Không cần thiết phải cắt bỏ nang lông nếu chúng không gây triệu chứng. Tuy nhiên, việc rạch và dẫn lưu dưới [gây tê tại chỗ](https://dermnetnz.org/topics/local-anaesthesia) sẽ giúp bệnh nhân thoải mái hơn, và việc cắt bỏ tự nguyện trước khi vỡ sẽ ngăn ngừa sẹo.
+Điều trị phẫu thuật bao gồm một trong các phương pháp sau:
+- Cắt bỏ u nang, tức là loại bỏ mà không cắt vào u nang và giữ nguyên vùng da xung quanh
+- Rạch tiếp theo là ép phần bên trong ra ngoài và loại bỏ thành nang – phương pháp này thường đạt hiệu quả tốt nhất bằng cách dùng một mũi đục phẫu thuật để ép nang ra ngoài qua lỗ.
+Viêm cấp tính sau khi vỡ thường bị chẩn đoán nhầm là [nhiễm trùng do vi khuẩn](https://dermnetnz.org/topics/bacterial-skin-infections) . [Thuốc kháng sinh](https://dermnetnz.org/topics/antibiotics) không có nhiều tác dụng trừ khi thực sự có nhiễm trùng .

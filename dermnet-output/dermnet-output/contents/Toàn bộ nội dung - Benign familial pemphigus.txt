@@ -1,0 +1,114 @@
+# Bệnh pemphigus gia đình lành tính — thông tin bổ sung
+
+Thể loại:
+
+Di truyền
+
+SNOMED CT:
+
+79468000
+
+**[Di truyền](https://dermnetnz.org/topics/topics?category=Genetic)**
+
+
+# **Bệnh pemphigus gia đình lành tính**
+
+Tác giả: Tiến sĩ Steven Lamb, Chuyên viên đăng ký da liễu, Bệnh viện Waikato, Hamilton, New Zealand. 2001. Được cập nhật bởi Giáo sư danh dự Amanda Oakley, tháng 9 năm 2016. Bản cập nhật nhỏ vào tháng 6 năm 2023.
+
+---
+
+## Bệnh pemphigus lành tính gia đình là gì?
+
+Bệnh pemphigus gia đình lành tính còn được gọi là bệnh Hailey-Hailey. Đây là một bệnh da phồng rộp di truyền hiếm gặp được anh em nhà Hailey mô tả lần đầu tiên vào năm 1939.
+Không liên quan đến [bệnh pemphigus thông thường](https://dermnetnz.org/topics/pemphigus-vulgaris) , bệnh Hailey-Hailey không phải là bệnh tự miễn và có tiên lượng khác nhau.
+![Bệnh Hailey-Hailey ở nách](https://dermnetnz.org/assets/Uploads/hailey-hailey-axilla2.jpg)
+![Bệnh Hailey-Hailey ở ngực](https://dermnetnz.org/assets/Uploads/hailey-hailey-chest.jpg)
+![Bệnh Hailey-Hailey ở nách](https://dermnetnz.org/assets/Uploads/systemic/w/hailey-hailey.jpg)
+
+---
+
+## Ai mắc bệnh pemphigus lành tính gia đình?
+
+Bệnh pemphigus lành tính gia đình thường xuất hiện ở độ tuổi từ hai đến bốn mươi, mặc dù nó có thể xảy ra ở mọi lứa tuổi. Sau đó, bệnh có xu hướng kéo dài suốt đời. Bệnh có thể ảnh hưởng đến mọi người thuộc mọi chủng tộc.
+
+---
+
+## Nguyên nhân gây ra bệnh pemphigus lành tính gia đình là gì?
+
+Bệnh pemphigus lành tính gia đình là một rối loạn da di truyền, mặc dù đôi khi cũng có những trường hợp lẻ tẻ phát sinh mà không có tiền sử gia đình. Nguyên nhân gây bệnh hiện đã được xác định trên một gen gọi là ATP2C1 nằm trên nhiễm sắc thể 3q21-24. Gen này mã hóa cho protein SPCA1 (Secretory Pathway Calcium/manganese-ATPase), một bơm canxi và mangan. Các tế bào da ( keratinocyte ) dính vào nhau thông qua các cấu trúc gọi là desmosome , và dường như desmosome không thể lắp ráp đúng cách nếu thiếu canxi.
+Khiếm khuyết di truyền trong bệnh pemphigus gia đình lành tính khiến các tế bào da tách rời nhau. Thông thường, các tế bào được xếp chặt với nhau giống như gạch và vữa. Bệnh nhân mắc bệnh Hailey-Hailey có "vữa" khiếm khuyết và các tế bào bị vỡ ra, giống như một bức tường gạch đổ nát.
+
+---
+
+## Đặc điểm lâm sàng của bệnh pemphigus lành tính gia đình là gì?
+
+Bệnh pemphigus lành tính gia đình thường bắt đầu bằng phát ban da đóng vảy, đối xứng , đau , xói mòn ở các nếp gấp da. Vị trí thường gặp bao gồm nách, bẹn, cổ, dưới vú và giữa mông. Các tổn thương có xu hướng xuất hiện rồi biến mất và không để lại sẹo. Khi các tổn thương lớn hơn, phần giữa sẽ mờ dần, để lại hình dạng vòng tròn điển hình. Nếu các tổn thương tồn tại trong một thời gian, chúng có thể dày lên. Sau đó, da có xu hướng bị loét, để lại các vết nứt khá đau đớn.
+Nhiệt độ, mồ hôi và ma sát thường làm bệnh trầm trọng hơn và hầu hết bệnh nhân có triệu chứng nặng hơn vào những tháng mùa hè.
+Hiếm khi, pemphigus gia đình lành tính có thể xuất hiện ở một bên hoặc theo đường thẳng , hoặc có thể ảnh hưởng đến niêm mạc . Các dải trắng trên móng tay và các hố ở lòng bàn tay cũng có thể xuất hiện.
+![Không có caption](https://dermnetnz.org/assets/collection-O/Hailey-Hailey-disease/benign-familial-pemphigus-00030.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/h-h-d-blisters.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/hailey-hailey-close-up2.jpg)
+
+---
+
+## Biến chứng của bệnh pemphigus lành tính gia đình là gì?
+
+Đối với nhiều bệnh nhân, pemphigus gia đình lành tính là một tình trạng nhẹ, nhưng đối với những người khác , cơn đau và mùi có thể là vấn đề nghiêm trọng. [Nhiễm trùng](https://dermnetnz.org/topics/bacterial-skin-infections) thứ phát do vi khuẩn , không hiếm gặp, có thể gây ra mùi khó chịu. [Herpes simplex](https://dermnetnz.org/topics/herpes-simplex) có thể lây nhiễm vào các vết phồng rộp và có thể tiến triển thành nhiễm trùng do virus lan rộng , gây đau đớn ( [eczema herpeticum](https://dermnetnz.org/topics/eczema-herpeticum) ). [](https://dermnetnz.org/topics/eczema-herpeticum)
+
+---
+
+## Bệnh pemphigus lành tính gia đình được chẩn đoán như thế nào?
+
+Thông thường, bệnh pemphigus gia đình lành tính được chẩn đoán dựa trên biểu hiện lâm sàng và tiền sử gia đình, nhưng nó thường bị nhầm lẫn với các vấn đề về da khác. [Chốc lở](https://dermnetnz.org/topics/impetigo) , [tưa miệng](https://dermnetnz.org/topics/candidiasis-of-skin-folds) , [nấm bẹn](https://dermnetnz.org/topics/tinea-cruris) (nấm bẹn) và các tình trạng phồng rộp khác có vẻ tương tự.
+Chẩn đoán có thể cần [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) . [Mô bệnh học đặc trưng](https://dermnetnz.org/topics/familial-benign-pemphigus-pathology) với các lớp tế bào da bong tróc ('tách gai') xếp thành hàng như 'một hàng bia mộ'. Không giống như [pemphigus thông thường](https://dermnetnz.org/topics/pemphigus-vulgaris) , xét nghiệm miễn dịch huỳnh quang tìm kháng thể cho kết quả âm tính.
+Hiện vẫn chưa có xét nghiệm chẩn đoán nào dành cho các thành viên trong gia đình.
+
+---
+
+## Bệnh pemphigus lành tính gia đình được điều trị như thế nào?
+
+Không có cách chữa khỏi bệnh Hailey-Hailey. Việc điều trị chỉ nhằm mục đích giảm triệu chứng và ngăn ngừa bùng phát.
+
+### Lời khuyên chung
+- Tránh các yếu tố kích hoạt như [cháy nắng](https://dermnetnz.org/topics/sunburn) , đổ mồ hôi và ma sát nếu có thể; khi trời nóng, hãy ở trong nhà có quạt hoặc máy điều hòa và hạn chế lượng bài tập thể dục.
+- Rửa sạch và lau khô các nếp gấp da cẩn thận, một hoặc hai lần mỗi ngày bằng xà phòng nhẹ và nước.
+- Mặc quần áo mềm, rộng rãi và có miếng lót thấm hút ở đồ lót.
+- Nếu thừa cân, hãy cố gắng giảm mỡ cơ thể để giảm thiểu ma sát.
+- Đắp gạc ướt, ví dụ như pha loãng nhôm axetat với tỷ lệ 1:40 hoặc giấm, để làm khô các mảng rỉ dịch.
+- Tắm [thuốc tẩy](https://dermnetnz.org/topics/bleach-baths-in-patients-with-skin-infections) hai lần một tuần để giảm nhiễm trùng bề mặt.
+- Đắp hỗn hợp kẽm lên vùng da bị viêm.
+- Sử dụng chất chống mồ hôi như dạng lăn và dạng kem có chứa muối nhôm và bột rắc có chứa thuốc kháng cholinergic, diphemanil 2%.
+
+### Đơn thuốc tại chỗ
+- [](https://dermnetnz.org/topics/topical-steroid) Kem [corticosteroid](https://dermnetnz.org/topics/topical-steroid) (cortisone) sử dụng trong thời gian ngắn (ví dụ một đến hai tuần) có hiệu quả trong điều trị các tổn thương bị viêm; chúng có hiệu quả tốt nhất nếu bắt đầu sớm.
+- Thuốc kháng sinh bôi ngoài da như [clindamycin](https://dermnetnz.org/topics/clindamycin) hoặc [mupirocin](https://dermnetnz.org/topics/mupirocin) được sử dụng trong thời gian ngắn để điều trị nhiễm trùng tại chỗ nhưng tốt nhất nên tránh sử dụng trong thời gian dài do nguy cơ gây ra tình trạng kháng thuốc của vi khuẩn , ví dụ như [MRSA](https://dermnetnz.org/topics/methicillin-resistant-staphylococcus-aureus) .
+- Sử dụng kem kết hợp corticosteroid /kháng sinh trong thời gian ngắn cũng có thể có hiệu quả.
+- [Benzoyl peroxide](https://dermnetnz.org/topics/benzoyl-peroxide) là một [chất khử trùng](https://dermnetnz.org/topics/antiseptic) hữu ích có dạng kem hoặc dạng sữa rửa mặt.
+- [Kem Ketoconazole](https://dermnetnz.org/topics/ketoconazole) có thể được sử dụng trong trường hợp nhiễm nấm.
+- [](https://dermnetnz.org/topics/calcipotriol) Kem [calcipotriol có tác dụng với một số bệnh nhân.](https://dermnetnz.org/topics/calcipotriol)
+- [Kem Fluorouracil](https://dermnetnz.org/topics/5-fluorouracil-cream) đã được báo cáo là có hiệu quả ở ít nhất một bệnh nhân.
+- [Các chất ức chế calcineurin](https://dermnetnz.org/topics/calcineurin-inhibitors) tại chỗ như kem [pimecrolimus hoặc](https://dermnetnz.org/topics/pimecrolimus) thuốc mỡ [tacrolimus](https://dermnetnz.org/topics/tacrolimus) đã được báo cáo là có thể làm giảm nhu cầu sử dụng [steroid tại chỗ](https://dermnetnz.org/topics/topical-steroid) . [](https://dermnetnz.org/topics/topical-steroid)
+
+### Đơn thuốc uống
+- [Liệu trình dùng thuốc kháng sinh](https://dermnetnz.org/topics/antibiotics) đường uống kéo dài , chẳng hạn như [tetracycline](https://dermnetnz.org/topics/tetracycline) có thể có hiệu quả.
+- Nếu nhiễm virus [herpes](https://dermnetnz.org/topics/herpes-simplex) tái phát , bác sĩ sẽ kê đơn thuốc kháng vi-rút đường uống như [aciclovir](https://dermnetnz.org/topics/aciclovir) .
+- Thuốc kháng cholinergic như glycopyrrolate có thể được kê đơn để giảm [chứng tăng tiết mồ hôi](https://dermnetnz.org/topics/hyperhidrosis) (đổ mồ hôi quá nhiều).
+- Một số loại thuốc uống khác ( [retinoid](https://dermnetnz.org/topics/acitretin) , [ciclosporin](https://dermnetnz.org/topics/ciclosporin) , [dapsone](https://dermnetnz.org/topics/dapsone) và [methotrexate](https://dermnetnz.org/topics/methotrexate) ) đã được báo cáo trong một số trường hợp riêng lẻ là có hiệu quả một phần, nhưng các thử nghiệm quy mô lớn vẫn chưa được thực hiện.
+
+### Các phương pháp điều trị khác
+- [Tiêm corticosteroid](https://dermnetnz.org/topics/intralesional-steroid-injection) vào mảng bám bị viêm
+- [Độc tố Botulinum](https://dermnetnz.org/topics/botulinum-toxin) giúp giảm tiết mồ hôi ở nách và bẹn, do đó làm giảm sự xâm nhập của vi sinh vật và tình trạng bùng phát
+- [Liệu pháp quang trị liệu](https://dermnetnz.org/topics/phototherapy) (tia cực tím) cũng đã được sử dụng.
+- [Liệu pháp quang động](https://dermnetnz.org/topics/photodynamic-therapy) có nhiều mức độ thành công khác nhau.
+- [](https://dermnetnz.org/topics/laser-resurfacing) Một nghiên cứu đã báo cáo rằng [tia laser có ích, ví dụ như](https://dermnetnz.org/topics/laser-resurfacing) [tia laser](https://dermnetnz.org/topics/carbon-dioxide-laser-treatment) [CO2](https://dermnetnz.org/topics/carbon-dioxide-laser-treatment) hoặc tia laser [Er:YAG](https://dermnetnz.org/topics/eryag-laser-treatment) làm bốc hơi vùng da bị ảnh hưởng hoặc [tia laser nhuộm xung](https://dermnetnz.org/topics/pulsed-dye-laser-treatment) giúp tăng cường quá trình chữa lành vết thương [.](https://dermnetnz.org/topics/carbon-dioxide-laser-treatment)
+- Trong những trường hợp nghiêm trọng, có thể [phẫu thuật để loại bỏ phần da bị ảnh hưởng. Thông thường, cần phải](https://dermnetnz.org/topics/skin-surgery) [ghép da](https://dermnetnz.org/topics/skin-grafting) để phục hồi vết thương.
+- [Phương pháp mài da](https://dermnetnz.org/topics/dermabrasion) được cho là mang lại kết quả tuyệt vời lâu dài.
+- [Cấy ghép Afamelanotide](https://dermnetnz.org/topics/afamelanotide) đã chữa khỏi bệnh Hailey-Hailey ở 2 bệnh nhân.
+- Một số báo cáo cho thấy bệnh Hailey-Hailey có thể cải thiện nhờ điều trị bằng naltrexone liều thấp.
+- [Thuốc sinh học](https://dermnetnz.org/topics/biologics) (ví dụ: [dupilumab](https://dermnetnz.org/topics/dupilumab) , [adalimumab](https://dermnetnz.org/topics/topics/adalimumab-for-psoriasis) , [etanercept](https://dermnetnz.org/topics/etanercept-for-psoriasis) ) và thuốc ức chế phân tử nhỏ (ví dụ: [apremilast](https://dermnetnz.org/topics/apremilast) , [upadacitinib](https://dermnetnz.org/topics/topics/upadacitinib) , [abrocitinib](https://dermnetnz.org/topics/abrocitinib) ) là những lựa chọn điều trị mới nổi cho các trường hợp kháng thuốc , mặc dù vẫn chưa có thử nghiệm trên quy mô lớn . [](https://dermnetnz.org/topics/apremilast) [](https://dermnetnz.org/topics/topics/upadacitinib) [](https://dermnetnz.org/topics/abrocitinib)
+
+---
+
+## Bệnh pemphigus lành tính gia đình có cải thiện theo thời gian không?
+
+Nhiều bệnh nhân có thời gian thuyên giảm lâu dài và tình trạng bệnh sẽ cải thiện theo tuổi tác.

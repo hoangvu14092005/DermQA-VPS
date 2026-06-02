@@ -1,0 +1,77 @@
+# Giãn mao mạch nhện — thông tin bổ sung
+
+Thể loại:
+
+Các vấn đề về mạch máu
+
+SNOMED CT:
+
+195382003, 402835008, 402836009, 402837000
+
+**[Các vấn đề về mạch máu](https://dermnetnz.org/topics/topics?category=Blood+vessel+problems)**
+
+
+# **Giãn mao mạch nhện**
+
+Tác giả: Phó Giáo sư Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand. Biên tập bởi: Maria McGivern/Gus Mitchell. Tháng 12 năm 2017.
+
+---
+
+## Giãn mao mạch mạng nhện là gì?
+
+Giãn mao mạch nhện (số nhiều: telangiectases) bao gồm các mạch máu giãn nở, và đặc trưng lâm sàng là hình dạng giống như nhện. Sở dĩ có tên này vì nó có một nốt sẩn đỏ ở giữa (phần thân của 'nhện') mà từ đó các đường màu đỏ mảnh (chân nhện) kéo dài theo hướng xuyên tâm. Một cách giải thích khác cho tên gọi này là các đường màu đỏ tạo thành một mạng lưới giống như nhện. Các tên gọi khác của giãn mao mạch nhện là u mạch nhện (một cách gọi sai), nốt ruồi nhện và nốt ruồi araneus.
+![Không có caption](https://dermnetnz.org/assets/Uploads/vascular/s/spider-ang1.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/vascular/s/spider-ang2.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/vascular/spider-ang7.jpg)
+[Xem thêm hình ảnh về bệnh giãn mao mạch mạng nhện.](https://dermnetnz-org.translate.goog/topics/spider-telangiectasis-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+
+---
+
+## Ai có thể mắc phải chứng giãn mao mạch nhện?
+
+Giãn mao mạch đơn độc thường gặp ở trẻ em và người lớn, ảnh hưởng đến 10–15% dân số. Mặc dù có thể ảnh hưởng đến người thuộc mọi chủng tộc, giãn mao mạch đơn độc thường dễ thấy hơn ở người da sáng màu so với người da màu. Giãn mao mạch đa ổ thường gặp nhất ở [phụ nữ mang thai](https://dermnetnz.org/topics/skin-changes-in-pregnancy) , phụ nữ dùng [thuốc tránh thai kết hợp đường uống](https://dermnetnz.org/topics/oral-contraceptive) , bệnh nhân mắc [bệnh gan](https://dermnetnz.org/topics/skin-manifestations-of-gastrointestinal-disease) (đặc biệt là xơ gan do lạm dụng [rượu](https://dermnetnz.org/topics/cutaneous-adverse-effects-of-alcohol) ) và người bị [cường giáp](https://dermnetnz.org/topics/hyperthyroidism) .
+![Giãn mao mạch ở bệnh nhân xơ gan](https://dermnetnz.org/assets/Uploads/telangiectasia-liver-cirrhosis.jpg)
+
+---
+
+## Nguyên nhân nào gây ra chứng giãn mao mạch mạng nhện?
+
+Giãn mao mạch mạng nhện là một dị dạng mạch máu mắc phải . Tình trạng này xảy ra do sự suy yếu của một cơ nhỏ hạn chế kích thước của tiểu động mạch. Dòng chảy tăng lên theo nhịp đập qua mạch máu ( sẩn trung tâm ) dẫn đến giãn các mạch máu xa (các đường màu đỏ).
+Giãn mao mạch mạng nhện có thể tự phát hoặc do estrogen tuần hoàn gây ra , estrogen tăng cao ở phụ nữ mang thai, phụ nữ dùng thuốc tránh thai kết hợp và người mắc bệnh gan. Nhiều yếu tố tăng trưởng nội mô mạch máu có thể liên quan.
+
+---
+
+## Các đặc điểm lâm sàng của bệnh giãn mao mạch nhện là gì?
+
+Giãn mao mạch mạng nhện thường xuất hiện ở mặt, cổ và ngực trên (điều này được cho là liên quan đến sự phân bố của tĩnh mạch lớn dẫn lưu tim, tĩnh mạch chủ trên ). Giãn mao mạch mạng nhện cũng có thể xuất hiện ở bàn tay, cánh tay hoặc các vị trí khác. Giãn mao mạch mạng nhện có kích thước và số lượng khác nhau, thường lớn hơn và nhiều hơn ở những người mắc bệnh gan nặng khi có các dấu hiệu da khác của bệnh gan như [ban đỏ lòng bàn tay](https://dermnetnz.org/topics/palmar-erythema) , [bạch móng](https://dermnetnz.org/topics/white-nail) và vàng da. Có thể xuất hiện một tiểu động mạch trung tâm giãn mà không có mao mạch hướng tâm , và các mao mạch này có thể khác nhau về đường kính, chiều dài và số lượng. Chúng cũng có thể có hình ngôi sao.
+Các tổn thương có thể chảy máu tạm thời khi bị chấn thương nhưng không gây ra bất kỳ triệu chứng hoặc biến chứng nào.
+
+---
+
+## Bệnh giãn mao mạch nhện được chẩn đoán như thế nào?
+
+Giãn mao mạch mạng nhện được chẩn đoán dựa trên hình ảnh điển hình. Sự chèn ép tiểu động mạch trung tâm dẫn đến sự biến mất của các mao mạch hướng tâm, vốn nhanh chóng được lấp đầy khi áp lực được giải phóng. Điều này được quan sát rõ nhất qua một vật thể trong suốt, chẳng hạn như lam kính hoặc thấu kính của [máy soi da](https://dermnetnz.org/topics/dermatoscope-overview) tiếp xúc .
+
+---
+
+## Chẩn đoán phân biệt cho bệnh giãn mao mạch mạng nhện là gì?
+
+Để hỗ trợ chẩn đoán phân biệt, hãy xem trang DermNet về [u mạch](https://dermnetnz.org/topics/cherry-angioma) và giãn mạch.
+Giãn mao mạch mạng nhện khác với 'tĩnh mạch mạng nhện', là các tĩnh mạch giãn màu xanh xuất hiện ở đùi và cẳng chân và thường liên quan đến chứng giãn tĩnh mạch.
+
+---
+
+## Phương pháp điều trị giãn mao mạch do nhện là gì?
+
+Giãn mao mạch nhện là tình trạng vô hại và không cần điều trị. Tổn thương mất thẩm mỹ có thể được loại bỏ bằng cách phá hủy tiểu động mạch trung tâm nuôi dưỡng, nhưng điều này có thể để lại sẹo nhỏ. Các phương pháp điều trị giãn mao mạch nhện bao gồm:
+- [Liệu pháp lạnh](https://dermnetnz.org/topics/cryotherapy)
+- [Đốt điện](https://dermnetnz.org/topics/electrosurgery)
+- [Ánh sáng xung cường độ cao](https://dermnetnz.org/topics/intense-pulsed-light-therapy)
+- [Laser](https://dermnetnz.org/topics/lasers-in-dermatology) mạch máu .
+Phẫu thuật [cắt bỏ](https://dermnetnz.org/topics/skin-biopsy) hiếm khi cần thiết và chắc chắn sẽ để lại sẹo.
+
+---
+
+## Hậu quả của bệnh giãn mao mạch nhện là gì?
+
+Giãn mao mạch mạng nhện có thể kéo dài hoặc biến mất. Ở phụ nữ, giãn mao mạch do estrogen thường biến mất trong vòng 6 tháng sau khi sinh con hoặc ngừng [thuốc tránh thai](https://dermnetnz.org/topics/oral-contraceptive) kết hợp . Chúng cũng có thể tái phát sau khi điều trị thành công ban đầu.

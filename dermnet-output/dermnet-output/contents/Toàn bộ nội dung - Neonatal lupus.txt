@@ -1,0 +1,101 @@
+# Bệnh lupus ban đỏ ở trẻ sơ sinh — thông tin bổ sung
+
+Thể loại:
+
+Tự miễn/viêm tự miễn, Phát ban
+
+SNOMED CT:
+
+95609003, 200936003, 310258001, 310260004, 310262007
+
+**[Tự miễn/viêm tự miễn, Phát ban](https://dermnetnz.org/topics/topics?category=Autoimmune/autoinflammatory)**
+
+
+# **Bệnh lupus ban đỏ ở trẻ sơ sinh**
+
+Tác giả: DermNet. Biên tập bởi Gus Mitchell. Tháng 4 năm 2021
+
+---
+
+## Bệnh lupus ban đỏ ở trẻ sơ sinh là gì?
+
+Bệnh lupus ban đỏ ở trẻ sơ sinh (LE) là một bệnh miễn dịch hiếm gặp, đặc biệt ảnh hưởng đến da và/hoặc tim của trẻ sơ sinh có mẹ dương tính với kháng thể anti-SSA(Ro), anti-SSB(La) hoặc anti-U1RNP.
+![Không có caption](https://dermnetnz.org/assets/Uploads/immune/lupus-neon2-s.jpg)
+![Bệnh lupus ban đỏ ở trẻ sơ sinh](https://dermnetnz.org/assets/Uploads/immune/lupus-neon1.jpg)
+
+---
+
+## Ai có thể mắc bệnh lupus ban đỏ ở trẻ sơ sinh?
+
+Bệnh lupus ban đỏ ở trẻ sơ sinh ảnh hưởng đến 10–15% trẻ sinh ra từ những bà mẹ có kháng thể anti-SSA(Ro), anti-SSB(La) hoặc anti-U1RNP dương tính.
+Kháng thể kháng SSA(Ro)/SSB(La) được phát hiện ở một số bệnh nhân mắc [hội chứng Sjögren](https://dermnetnz.org/topics/sjoegren-syndrome) , [lupus ban đỏ hệ thống](https://dermnetnz.org/topics/systemic-lupus-erythematosus) (SLE), [lupus ban đỏ bán cấp ở da](https://dermnetnz.org/topics/subacute-cutaneous-lupus-erythematosus) (SCLE), [viêm khớp dạng](https://dermnetnz.org/topics/rheumatoid-arthritis-and-the-skin) thấp hoặc các rối loạn mô liên kết khác. Tự kháng thể Ro và La cũng có thể dương tính ở những bà mẹ khỏe mạnh, không có triệu chứng , như được tìm thấy ở khoảng 50% trẻ sơ sinh được chẩn đoán mắc LE sơ sinh. Kháng thể kháng U1RNP là đặc trưng của [bệnh mô liên kết hỗn hợp](https://dermnetnz.org/topics/mixed-connective-tissue-disease) .
+LE ở da trẻ sơ sinh phổ biến hơn ở trẻ sơ sinh gái (2:1) và tiếp xúc với kháng thể tự miễn La hơn là kháng thể tự miễn Ro.
+Bệnh lupus ban đỏ ở trẻ sơ sinh có thể ảnh hưởng đến mọi dân tộc.
+
+---
+
+## Nguyên nhân nào gây ra bệnh lupus ban đỏ ở trẻ sơ sinh?
+
+Bệnh lupus ban đỏ sơ sinh là do sự vận chuyển thụ động của các tự kháng thể Ro/La qua nhau thai sau 16 tuần thai kỳ. Các kháng thể này nhắm vào các kháng nguyên nhân chiết xuất được (ENA).
+Kháng thể tự miễn Ro đặc biệt liên quan đến sự phát triển các biểu hiện về tim của bệnh lupus ban đỏ ở trẻ sơ sinh.
+
+---
+
+## Các đặc điểm lâm sàng của bệnh lupus ban đỏ ở trẻ sơ sinh là gì?
+
+
+### Đặc điểm da của bệnh lupus ban đỏ ở trẻ sơ sinh
+Những thay đổi về da có thể xuất hiện ngay khi trẻ mới sinh hoặc trở nên rõ ràng trong vòng 3 tháng sau sinh, thường là ngay sau lần đầu tiên tiếp xúc với ánh nắng mặt trời.
+- Nhạy cảm với ánh sáng
+- Mảng ban đỏ hình khuyên và hình đĩa giống như LE bán cấp ở da chủ yếu xuất hiện ở đầu và cổ, nhưng có thể ảnh hưởng đến bất kỳ vị trí da nào
+- Phát ban quanh mắt trông giống như mắt gấu trúc
+- Xuất huyết dưới da
+- [Giãn mao mạch](https://dermnetnz.org/topics/telangiectasia)
+![Phát ban quanh mắt](https://dermnetnz.org/assets/Uploads/immune/lupus-neon.jpg)
+![Phát ban giống SCLE hình khuyên](https://dermnetnz.org/assets/Uploads/immune/lupus-neon3.jpg)
+
+### Các đặc điểm không phải da của bệnh lupus ban đỏ ở trẻ sơ sinh
+- Block tim bẩm sinh động mạch thất : có thể hoàn toàn, độ ba, độ hai hoặc không liên tục
+- Bệnh gan mật: viêm gan, gan to
+- Bất thường về số lượng máu : thiếu máu tan máu , giảm bạch cầu , giảm tiểu cầu
+- Bất thường thần kinh
+
+---
+
+## Biến chứng của bệnh lupus ban đỏ ở trẻ sơ sinh là gì?
+
+Bệnh lupus ban đỏ tim ở trẻ sơ sinh có thể gây biến chứng xơ hóa nội tâm mạc và bệnh cơ tim giãn nở với tỷ lệ mắc bệnh và tử vong đáng kể.
+
+---
+
+## Bệnh lupus ban đỏ ở trẻ sơ sinh được chẩn đoán như thế nào?
+
+Bệnh lupus ban đỏ ở trẻ sơ sinh cần được nghi ngờ lâm sàng ở trẻ sơ sinh có khối tim bẩm sinh và/hoặc phát ban điển hình, và được xác nhận bằng xét nghiệm kháng thể tự miễn ANA, Ro và La (ENA) ở cả mẹ và bé.
+Xét nghiệm máu cũng nên bao gồm xét nghiệm công thức máu và xét nghiệm chức năng gan.
+Điện tâm đồ được khuyến cáo nếu tình trạng block tim chưa được chẩn đoán trước khi sinh trên siêu âm như nhịp tim chậm bất thường trong tuần thứ 16–26 của thai kỳ (tam cá nguyệt thứ hai hoặc thứ ba).
+[Sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) thường không cần thiết khi có các triệu chứng lâm sàng điển hình. Mô học được báo cáo cho thấy những thay đổi về không bào ở lớp đáy , cũng liên quan đến phần phụ , với thâm nhiễm lympho bào quanh phần phụ và quanh mạch máu nông và sâu .
+
+---
+
+## Chẩn đoán phân biệt bệnh lupus ban đỏ ở trẻ sơ sinh là gì?
+
+- [Nấm da thân](https://dermnetnz.org/topics/tinea-corporis)
+- [Viêm da tiết bã nhờn](https://dermnetnz.org/topics/seborrhoeic-dermatitis) /cứt trâu
+- [Bệnh giang](https://dermnetnz.org/topics/syphilis) mai bẩm sinh .
+
+---
+
+## Phương pháp điều trị bệnh lupus ban đỏ ở trẻ sơ sinh là gì?
+
+[Hydroxychloroquine](https://dermnetnz.org/topics/hydroxychloroquine) được báo cáo là làm giảm nguy cơ mắc bệnh tim bẩm sinh ở trẻ sơ sinh ở phụ nữ mang thai có tự kháng thể Ro và/hoặc La. Các nghiên cứu ban đầu dường như không cho thấy bất kỳ lợi ích nào đối với các biểu hiện không liên quan đến tim của bệnh lupus sơ sinh. Tuy nhiên, một loạt ca bệnh lớn sau đó đã báo cáo rằng nguy cơ mắc bệnh lupus sơ sinh ở da giảm, mặc dù phát ban khởi phát muộn hơn khi dùng hydroxychloroquine để điều trị SLE.
+[Chống nắng](https://dermnetnz.org/topics/sun-protection) giúp giảm nguy cơ phát ban da. Có thể bôi steroid tại chỗ lên các tổn thương da.
+Cần phải có máy tạo nhịp tim vĩnh viễn trong trường hợp block tim hoàn toàn, thường có thể phát hiện được trước khi sinh.
+
+---
+
+## Hậu quả của bệnh lupus ban đỏ ở trẻ sơ sinh là gì?
+
+Các đặc điểm trên da của bệnh lupus ban đỏ sơ sinh sẽ dần hồi phục trong vòng 6–12 tháng khi kháng thể từ mẹ đào thải khỏi hệ tuần hoàn của bé. Teo biểu bì nhẹ , giãn mao mạch và rối loạn sắc tố có thể vẫn tồn tại , đặc biệt nếu tổn thương da bị viêm nặng. Những thay đổi về gan, máu và thần kinh cũng sẽ hồi phục trong khoảng thời gian tương tự.
+Các triệu chứng về tim không tự khỏi và tỷ lệ tử vong ở trẻ sơ sinh bị block tim lên tới 20% mặc dù đã cấy máy tạo nhịp tim.
+Trẻ em bị ảnh hưởng nên được theo dõi cho đến khi trưởng thành vì nguy cơ mắc bệnh thấp khớp hoặc các bệnh tự miễn khác cao hơn .
+Nguy cơ mắc lupus ban đỏ sơ sinh ở những lần mang thai tiếp theo lên tới 50%. Do đó, những lần mang thai tiếp theo cần được theo dõi bằng siêu âm tim định kỳ. Việc theo dõi những bà mẹ không có triệu chứng là rất quan trọng do nguy cơ mắc bệnh mô liên kết sau này như lupus ban đỏ hệ thống (SLE).

@@ -1,0 +1,125 @@
+# Bệnh vảy cá liên kết X lặn — thông tin bổ sung
+
+Thể loại:
+
+Di truyền
+
+SNOMED CT:
+
+717041008, 72523005, 13059002, 64634000
+
+**[Di truyền](https://dermnetnz.org/topics/topics?category=Genetic)**
+
+
+# **Bệnh vảy cá liên kết X lặn**
+
+Tác giả: Anusha Preethi Panthagani, Nhà đăng ký Da liễu, Bệnh viện Hoàng gia Edinburgh, Scotland, Vương quốc Anh; Trưởng biên tập: Tiến sĩ Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand, tháng 9 năm 2015.
+
+---
+
+## Bệnh vảy cá liên kết nhiễm sắc thể X lặn là gì?
+
+[Bệnh vảy cá](https://dermnetnz.org/topics/ichthyosis) liên kết nhiễm sắc thể X lặn là một rối loạn di truyền khiến da rất khô. Các đặc điểm bao gồm da bị bong tróc , mỏng hoặc hình thoi, dính chặt, màu nâu sẫm hoặc xám nhạt . Vảy da thường nổi rõ ở gáy, thân trên và mặt duỗi của các chi. Tình trạng này thường xuất hiện ngay sau khi sinh hoặc trong vòng 6 tháng sau sinh.
+Bệnh vảy cá liên kết nhiễm sắc thể X lặn có liên quan đến tình trạng đục giác mạc, tinh hoàn ẩn và các bất thường về thần kinh .
+Đôi khi nó còn được gọi là bệnh vảy cá liên kết nhiễm sắc thể X.
+
+---
+
+## Nguyên nhân nào gây ra bệnh vảy cá liên kết nhiễm sắc thể X lặn?
+
+Bệnh vảy cá liên kết nhiễm sắc thể X lặn là một rối loạn do đột biến enzyme steroid sulfatase (STS). STS tham gia vào quá trình chuyển hóa cholesterol sulfat ở da. Thiếu hụt STS dẫn đến tích tụ cholesterol sulfat ở lớp ngoài của da, gây rối loạn chức năng hàng rào bảo vệ da và giữ lại các tế bào da ngoài ( tế bào sừng ), gây ra tình trạng bong tróc điển hình.
+Gen mã hóa STS đã được lập bản đồ ở phần xa nhất của nhiễm sắc thể X.
+- 90% bệnh nhân mắc bệnh vảy cá liên kết X bị mất hoàn toàn gen này.
+- Các trường hợp khác bao gồm mất đoạn một phần hoặc đột biến điểm.
+- Sự mất đoạn có thể xảy ra ở các gen lân cận gây ra khiếm khuyết gen liền kề.
+Do đó, bệnh nhân mắc bệnh vảy cá liên kết X cũng nên được đánh giá khiếm khuyết gen liền kề. Các đoạn mất đoạn nhiễm sắc thể lớn hơn có thể dẫn đến:
+- Hội chứng Kallmann
+- Khuyết tật trí tuệ
+- Bệnh loạn sản sụn điểm liên kết X lặn
+- Dáng người thấp bé.
+![Di truyền của bệnh vảy cá liên kết nhiễm sắc thể X*](https://dermnetnz.org/assets/Uploads/X-linked-Ichthyosis.jpg)
+*Hình ảnh được cung cấp bởi Genetics 4 Medics
+
+---
+
+## Ai mắc bệnh vảy cá liên kết nhiễm sắc thể X lặn?
+
+Bệnh vảy cá liên kết X di truyền theo kiểu lặn vì nếu cá thể đó cũng có gen STS bình thường thì tình trạng bệnh sẽ không biểu hiện.
+Nữ giới có hai nhiễm sắc thể X , nam giới có một. Một người đàn ông mắc bệnh vảy cá liên kết X sẽ truyền gen bệnh vảy cá cho con gái mình thông qua nhiễm sắc thể X. Con gái trở thành người mang gen bệnh và thường mang một gen bệnh và một gen bình thường. Họ có thể truyền gen bất thường cho khoảng một nửa số con gái và một nửa số con trai của mình - những người sau đó sẽ biểu hiện bệnh vảy cá. Như vậy:
+- Nam giới thường bị ảnh hưởng.
+- Phụ nữ thường được bảo vệ bởi nhiễm sắc thể X thứ hai. Họ là người mang gen bệnh.
+Khoảng 1/6.000 nam giới mắc bệnh vảy cá liên kết nhiễm sắc thể X lặn, không có mối liên hệ rõ ràng nào về chủng tộc hay địa lý. Có rất ít trường hợp được báo cáo ở nữ giới. Người ta cho rằng những phụ nữ này thừa hưởng gen bệnh vảy cá từ cả hai bên gia đình.
+
+---
+
+## Đặc điểm lâm sàng của bệnh vảy cá liên kết nhiễm sắc thể X lặn là gì?
+
+Bệnh vảy cá liên kết nhiễm sắc thể X lặn biểu hiện bằng tình trạng bong tróc rõ rệt.
+- Tỷ lệ thường được phân bố đối xứng.
+- Nó thể hiện rõ hơn ở bề mặt duỗi của các chi và bên thân mình.
+- Vảy có thể giống vảy cá; màu nâu hoặc xám có thể khiến chúng trông "bẩn thỉu".
+- Mặt thường không có vảy, ngoại trừ vùng trước tai ( trước tai ). Đôi khi, các nếp gấp , cổ và da đầu cũng bị ảnh hưởng.
+- Vảy trên da đầu, cổ và vùng trước tai có xu hướng biến mất trong thời thơ ấu.
+- Rất hiếm khi xảy ra ở lòng bàn tay và lòng bàn chân.
+- Tóc và móng tay bình thường.
+- Thông thường tình trạng bong tróc sẽ cải thiện vào mùa hè và xấu đi vào thời tiết khô và lạnh.
+![Bệnh vảy cá liên kết nhiễm sắc thể X lặn](https://dermnetnz.org/assets/Uploads/scaly/x-linked-ichthyosis-1.jpg)
+![Bệnh vảy cá liên kết nhiễm sắc thể X lặn](https://dermnetnz.org/assets/Uploads/scaly/w/x-linked-ichthyosis-2.jpg)
+![Bệnh vảy cá liên kết nhiễm sắc thể X lặn](https://dermnetnz.org/assets/Uploads/scaly/w/x-linked-ichthyosis-3.jpg)
+![Bệnh vảy cá liên kết nhiễm sắc thể X lặn](https://dermnetnz.org/assets/Uploads/scaly/w/x-linked-ichthyosis-4.jpg)
+![Bệnh vảy cá liên kết X](https://dermnetnz.org/assets/Uploads/x-linked-ichthyosis-3.jpg)
+![Bệnh vảy cá liên kết X](https://dermnetnz.org/assets/Uploads/x-linked-ichthyosis-4.jpg)
+Các biểu hiện không phải ở da của tình trạng thiếu hụt STS cũng có thể xảy ra.
+- Do STS nhau thai thấp, các bà mẹ mang thai có thể phải chịu đựng quá trình chuyển dạ kéo dài khi sinh những đứa trẻ bị ảnh hưởng.
+- Đục giác mạc có thể xảy ra ở cả nam và nữ mang gen bệnh.
+- Tinh hoàn ẩn ( ẩn tinh hoàn ) thường gặp ở nam giới mắc bệnh vảy cá liên kết nhiễm sắc thể X nhiều hơn so với dân số nói chung.
+- Ngoài ra còn có nguy cơ ung thư tinh hoàn tăng cao , không phụ thuộc vào tình trạng tinh hoàn bị teo.
+- Có thể liên quan đến thần kinh bao gồm động kinh, khuyết tật trí tuệ và giảm khả năng ngửi (giảm khứu giác).
+Sự tham gia của các gen liền kề ở những bệnh nhân mắc bệnh vảy cá liên kết X lặn có thể dẫn đến nhiều đặc điểm bổ sung khác nhau.
+
+---
+
+## Bệnh vảy cá liên kết nhiễm sắc thể X lặn được chẩn đoán như thế nào?
+
+Chẩn đoán chủ yếu dựa vào tiền sử bệnh và kết quả lâm sàng.
+Phân tích sinh hóa sau khi sinh trên nhau thai, nguyên bào sợi da và tế bào sừng bao gồm:
+- Điện di protein huyết thanh
+- Xét nghiệm hoạt động STS.
+Phân tích di truyền bao gồm:
+- Southern blot
+- [Lai tạo in situ huỳnh quang](https://dermnetnz.org/topics/cytogenetic-testing) ( [FISH](https://dermnetnz.org/topics/cytogenetic-testing) )
+- Phản ứng chuỗi polymerase ( PCR ).
+Phân tích di truyền đã bỏ sót một số trường hợp bệnh vảy cá liên kết nhiễm sắc thể X do đột biến điểm.
+Các xét nghiệm chẩn đoán trước sinh đối với bệnh vảy cá liên kết nhiễm sắc thể X bao gồm:
+- Giảm nồng độ estrogen trong nước tiểu của mẹ
+- Sự hiện diện của steroid sulfat không thủy phân trong nước tiểu của mẹ
+- Phân tích di truyền trên các nhung mao màng đệm hoặc mẫu dịch ối , nếu biết tiền sử gia đình có khiếm khuyết gen STS.
+[Sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) thường không hữu ích trong việc xác nhận bệnh vì các phát hiện vi thể trên biểu bì có thể rất khó phát hiện. Chúng có thể bao gồm:
+- Tăng sừng hóa
+- Tăng hạt.
+
+---
+
+## Phương pháp điều trị bệnh vảy cá liên kết nhiễm sắc thể X lặn là gì?
+
+Hiện chưa có phương pháp điều trị dứt điểm bệnh vảy cá liên kết nhiễm sắc thể X và bằng chứng hiện tại còn hạn chế. Chưa có nhiều nghiên cứu công suất lớn về phương pháp điều trị.
+Mục tiêu của điều trị là cải thiện tình trạng bong tróc da và cải thiện vẻ ngoài của da. Ở một số bệnh nhân, việc điều trị có thể không cần thiết. Các lựa chọn bao gồm:
+- Chà xát bằng đá bọt hoặc miếng bọt biển tẩy tế bào chết để loại bỏ vảy
+- [Chất làm mềm](https://dermnetnz.org/topics/emollients-and-moisturisers) được thoa sau khi tắm để dưỡng ẩm cho da
+- Thuốc làm bong vảy da tại chỗ có chứa axit lactic, [axit glycolic](https://dermnetnz.org/topics/alpha-hydroxy-acid-facial-treatments) , [axit salicylic](https://dermnetnz.org/topics/salicylic-acid) và [urê](https://dermnetnz.org/topics/urea) ; các chất này có thể giúp bong tróc và cải thiện vẻ ngoài của da
+- [Isotretinoin](https://dermnetnz.org/topics/topical-retinoids) bôi ngoài da [](https://dermnetnz.org/topics/topical-retinoids)
+- Gel tazarotene 0,05% bôi ngoài da ( retinoid chọn lọc thụ thể )
+- [Thuốc mỡ calcipotriol](https://dermnetnz.org/topics/calcipotriol) dưới 100 g/tuần và kem liarozole 5% (chưa có trên thị trường)
+- [Acitretin](https://dermnetnz.org/topics/acitretin) uống ; việc sử dụng thuốc này bị hạn chế do gây quái thai và tác dụng phụ
+- Thuốc uống liarozole (một chất ngăn chặn chuyển hóa axit retinoic , hiện chưa có trên thị trường).
+Bệnh nhân và gia đình cũng có thể được tư vấn di truyền để biết thêm thông tin về bệnh vảy cá liên kết nhiễm sắc thể X và mô hình di truyền.
+Các nghiên cứu đang được tiến hành để xem liệu bệnh nhân có thể được điều trị bằng phương pháp chuyển gen hay không.
+Nam giới nên được khuyên tự kiểm tra tinh hoàn thường xuyên.
+
+---
+
+## Hậu quả của bệnh vảy cá liên kết nhiễm sắc thể X lặn là gì?
+
+Bệnh vảy cá liên kết nhiễm sắc thể X lặn là một tình trạng bệnh mãn tính và kéo dài trong suốt cuộc đời trưởng thành.
+- Khả năng mở rộng có thể cải thiện theo thời gian.
+- Tuổi thọ trung bình là bình thường.

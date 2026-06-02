@@ -1,0 +1,134 @@
+# Nhiễm trùng mycobacteria không điển hình — thông tin bổ sung
+
+Thể loại:
+
+Nhiễm trùng
+
+SNOMED CT:
+
+111812000, 240416008, 402980008, 402981007, 15845006, 240417004
+
+**[Nhiễm trùng](https://dermnetnz.org/topics/topics?category=Infections)**
+
+
+# **Nhiễm trùng mycobacteria không điển hình**
+
+Tác giả: Vanessa Ngan, Biên tập viên, 2003. Được xem xét và cập nhật bởi Tiến sĩ Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand; và Vanessa Ngan, Biên tập viên; tháng 6 năm 2014.
+
+---
+
+## Nhiễm trùng mycobacteria không điển hình là gì?
+
+Nhiễm trùng do vi khuẩn Mycobacteria không điển hình là nhiễm trùng do một loài vi khuẩn Mycobacterium khác với Mycobacterium tuberculosis , vi khuẩn gây bệnh lao phổi và lao ngoài phổi bao gồm cả [lao da](https://dermnetnz.org/topics/cutaneous-tuberculosis) ; và Mycobacterium leprae , nguyên nhân gây [bệnh phong](https://dermnetnz.org/topics/leprosy) .
+Vi khuẩn Mycobacteria không điển hình có thể gây ra nhiều loại nhiễm trùng khác nhau, được chia thành bốn hội chứng lâm sàng sau:
+- Bệnh phổi
+- Viêm hạch bạch huyết
+- Bệnh da và mô mềm
+- Bệnh lan truyền
+Nhiễm trùng da thường dẫn đến các nốt sần và mảng bám đóng vảy . [Áp xe](https://dermnetnz.org/topics/cutaneous-abscess) có thể phát triển trong nhiễm trùng da và xương. [](https://dermnetnz.org/topics/cutaneous-abscess)
+
+### Nhiễm trùng mycobacteria không điển hình ở da
+![](https://dermnetnz.org/assets/Uploads/fishtank-granuloma-2-v2.jpg)
+![Mycobacterium chelonae](https://dermnetnz.org/assets/Uploads/site-age-specific/ulcer-01.jpg)
+![Mycobacterium abscessus](https://dermnetnz.org/assets/Uploads/bacterial/w/atypical-mycobacteria-08.jpg)
+[Xem thêm hình ảnh nhiễm trùng do vi khuẩn lao](https://dermnetnz-org.translate.goog/images/atypical-mycobacterial-infection-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+
+---
+
+## Nguyên nhân nào gây ra nhiễm trùng mycobacteria không điển hình?
+
+Có rất nhiều loài vi khuẩn Mycobacteria khác nhau. Cho đến nay, ít nhất 30 loài vi khuẩn Mycobacteria không gây bệnh lao hoặc bệnh phong đã được xác định. Một số loài gây nhiễm trùng Mycobacteria không điển hình bao gồm:
+- Mycobacteria avium-nội bào
+- Mycobacterium kansasii
+- Mycobacterium marinum
+- Mycobacterium ulcerans
+- Mycobacterium chelonae
+- Mycobacterium fortuitum
+- Mycobacterium abscessus
+Mycobacterium avium-intracellulare và Mycobacterium kansasii chủ yếu gây bệnh phổi tương tự như bệnh lao phổi, trong khi Mycobacterium marinum, Mycobacterium ulcerans, Mycobacterium fortuitum và Mycobacterium chelonae gây nhiễm trùng da.
+
+---
+
+## Các đặc điểm lâm sàng của nhiễm trùng do vi khuẩn Mycobacteria không điển hình là gì?
+
+Các đặc điểm lâm sàng của nhiễm trùng mycobacteria không điển hình phụ thuộc vào loại mycobacteria gây nhiễm trùng.
+Mycobacteria avium-nội bào
+- Còn được gọi là MAC ( phức hợp Mycobacterium avium )
+- Nhiễm trùng mycobacteria không phải lao phổ biến nhất liên quan đến AIDS
+- Các triệu chứng bao gồm sốt , sưng hạch bạch huyết , tiêu chảy, mệt mỏi, sụt cân và khó thở
+- Có thể phát triển thành MAC phổi
+- Tổn thương da không phổ biến và không đặc hiệu
+Mycobacterium kansasii
+- Có thể gây nhiễm trùng mãn tính ở phổi tương tự như bệnh lao phổi
+- Nhiễm trùng mycobacteria không phải lao phổ biến thứ hai liên quan đến AIDS
+- Các triệu chứng bao gồm sốt, sưng hạch bạch huyết và tiếng ran phổi và thở khò khè
+- Tổn thương da có thể xảy ra riêng lẻ hoặc là một phần của bệnh lan rộng hơn
+Mycobacterium marinum
+- Còn được gọi là u hạt bể cá , u hạt hồ bơi
+- Nhiễm trùng không phổ biến thường xảy ra ở những người tiếp xúc với nước ngọt hoặc nước mặn bị ô nhiễm trong hoạt động giải trí hoặc nghề nghiệp
+- Thông thường, một khối u hoặc mụn mủ vỡ ra tạo thành vết loét đóng vảy hoặc áp xe
+- Các khối u khác có thể xuất hiện xung quanh tổn thương ban đầu , đặc biệt dọc theo đường dẫn lưu bạch huyết (dạng sporotrichoid)
+- Thường ảnh hưởng đến khuỷu tay, đầu gối, mu bàn chân, đốt ngón tay hoặc ngón tay
+- Nhiều tổn thương và bệnh lan rộng có thể xảy ra ở những bệnh nhân suy giảm miễn dịch
+- Hiếm khi gây ra các khớp đỏ, sưng và đau (viêm bao hoạt dịch, viêm gân, viêm khớp , viêm tủy xương )
+![Mycobacterium marinum](https://dermnetnz.org/assets/Uploads/bacterial/atyp-mb2.jpg)
+![Mycobacterium marinum](https://dermnetnz.org/assets/Uploads/bacterial/w/atypical-mycobacteria-06.jpg)
+![Mycobacterium marinum](https://dermnetnz.org/assets/Uploads/bacterial/m-marinum-1.jpg)
+[Xem thêm hình ảnh nhiễm trùng do vi khuẩn lao](https://dermnetnz-org.translate.goog/images/atypical-mycobacterial-infection-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+Mycobacterium ulcerans
+- Còn được gọi là [loét Buruli](https://dermnetnz.org/topics/buruli-ulcer) , Kumasi, loét Bairnsdale
+- Nhiễm trùng phổ biến nhất ở Trung và Tây Phi xung quanh các khu vực thảm thực vật tươi tốt và đầm lầy nhưng cũng có thể xảy ra ở Úc
+- Tìm thấy ở cá, lưỡng cư và nước
+- Nốt sần đơn độc, không đau và đôi khi ngứa có kích thước 1–2 cm phát triển khoảng 7–14 ngày sau khi nhiễm trùng qua da bị trầy xước
+- Trong vòng một đến hai tháng, nốt sần có thể vỡ ra thành vết loét nông lan rộng nhanh chóng và có thể ảnh hưởng đến 15% bề mặt da của bệnh nhân.
+- Loét và hoại tử là do độc tố mycolactone
+- Nhiễm trùng nghiêm trọng có thể phá hủy mạch máu , dây thần kinh và xâm lấn xương
+- Các nền văn hóa phát triển rất chậm
+Mycobacterium chelonae
+- Phân bố trên toàn thế giới : tìm thấy trong nước máy và các nguồn nước khác
+- Có thể theo dõi hình xăm, chấn thương hoặc phẫu thuật
+- Chủ yếu ảnh hưởng đến những người trung niên có một số mức độ suy giảm miễn dịch
+- Có thể gây sốt, bệnh phổi, nhiễm trùng khớp, bệnh về mắt và các bệnh nhiễm trùng cơ quan khác
+- Có thể dẫn đến vết thương không lành, nốt sần dưới da , viêm mô tế bào hoặc áp xe
+- Suy giảm miễn dịch có thể gây ra các tổn thương lan tỏa khắp cơ thể
+![Mycobacterium chelonae](https://dermnetnz.org/assets/Uploads/bacterial/w/atypical-mycobacteria-12.jpg)
+![Mycobacterium chelonae](https://dermnetnz.org/assets/Uploads/bacterial/w/atypical-mycobacteria-15.jpg)
+![Mycobacterium chelonae](https://dermnetnz.org/assets/Uploads/bacterial/w/atypical-mycobacteria-10.jpg)
+Mycobacterium abscessus
+- Phân loài của M. chelonae
+- Có trong nước, đất, bụi, động vật
+- Hiếm khi gây bệnh cho con người nhưng có thể khó chẩn đoán và điều trị
+- Có thể gây nhiễm trùng da sau vết thương do đâm thủng, hình xăm, chấn thương da hoặc phẫu thuật
+- Có thể gây nhiễm trùng phổi và nhiễm trùng lan tỏa ở những người bị suy giảm miễn dịch
+![Mycobacterium abscessus](https://dermnetnz.org/assets/Uploads/bacterial/w/atypical-mycobacteria-08.jpg)
+![Mycobacterium abscessus](https://dermnetnz.org/assets/Uploads/bacterial/w/atypical-mycobacteria-09.jpg)
+Mycobacterium fortuitum
+- Phân bố trên toàn thế giới: được tìm thấy trong các nguồn nước tự nhiên và nước đã qua xử lý, nước thải và đất
+- Bệnh ngoài da tại chỗ , viêm tủy xương, nhiễm trùng khớp và bệnh về mắt có thể xảy ra sau chấn thương (bao gồm cả hình xăm, cạo râu sau đó ngâm chân)
+- Thường ảnh hưởng đến bệnh nhân trẻ khỏe mạnh
+- Suy giảm miễn dịch nghiêm trọng, đặc biệt là AIDS, có thể gây ra các tổn thương lan tỏa trên da và mô mềm
+- Thường là nguyên nhân gây nhiễm trùng vết thương và vị trí phẫu thuật từ nguồn nước bị ô nhiễm
+- Gây ra tổn thương da loét không lành, nhọt và/hoặc các nốt sần dưới da
+[Xem thêm hình ảnh nhiễm trùng do vi khuẩn lao](https://dermnetnz-org.translate.goog/images/atypical-mycobacterial-infection-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+
+---
+
+## Nhiễm trùng do vi khuẩn Mycobacteria không điển hình được chẩn đoán như thế nào?
+
+Vi khuẩn mycobacteria không điển hình được chẩn đoán bằng phương pháp nuôi cấy mô. Cần có các điều kiện cụ thể, chẳng hạn như nhiệt độ mát, vì vậy phòng xét nghiệm phải được thông báo về nghi ngờ của bác sĩ lâm sàng về chẩn đoán này. Nhiễm trùng có [các đặc điểm bệnh lý](https://dermnetnz.org/topics/mycobacterium-marinum-skin-infection-pathology) cụ thể trên [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) .
+Các công cụ chẩn đoán khác được sử dụng bao gồm nghiên cứu hình ảnh chụp X-quang và gần đây hơn là xét nghiệm phản ứng chuỗi polymerase ( PCR ) trên tăm bông lấy dịch loét hoặc sinh thiết mô.
+
+---
+
+## Phương pháp điều trị nhiễm trùng do vi khuẩn Mycobacteria không điển hình là gì?
+
+Điều trị nhiễm trùng mycobacteria không điển hình phụ thuộc vào tác nhân gây bệnh và mức độ nghiêm trọng của nhiễm trùng. Trong hầu hết các trường hợp, cần phải dùng một liệu trình [kháng sinh . Các loại kháng sinh này bao gồm](https://dermnetnz.org/topics/antibiotics) [rifampicin](https://dermnetnz.org/topics/rifampicin) , ethambutol, isoniazid, [minocycline](https://dermnetnz.org/topics/tetracycline) , ciprofloxacin, clarithromycin, azithromycin và cotrimoxazole. Thông thường, điều trị bao gồm phối hợp nhiều loại thuốc.
+Hãy cân nhắc những điểm sau đây khi điều trị nhiễm trùng do vi khuẩn mycobacteria không điển hình bằng kháng sinh:
+- Các loài Mycobacterium marinum thường kháng isoniazid, streptomycin, pyrazinamide và axit para-aminosalicylic. Các thuốc kháng khuẩn hiệu quả bao gồm [tetracycline](https://dermnetnz.org/topics/tetracycline) , fluoroquinolon, macrolide (ví dụ: clarithromycin), [rifampicin](https://dermnetnz.org/topics/rifampicin) và [sulfonamid](https://dermnetnz.org/topics/sulfa-drugs-and-the-skin) (cotrimoxazole). Thời gian điều trị nên kéo dài ít nhất 4–6 tuần, và đôi khi lên đến hai tháng.
+- Mycobacterium kansasii nên được điều trị bằng ít nhất 3 loại thuốc trong 12–18 tháng. Một trong số đó phải là [rifampicin](https://dermnetnz.org/topics/rifampicin) , hiện vẫn là nền tảng trong điều trị nhiễm trùng này.
+- Mycobacterium chelonae và M fortuitum được điều trị tốt nhất bằng clarithromycin hoặc azithromycin trong các trường hợp nhiễm trùng tại chỗ , đặc biệt nếu dùng kèm phẫu thuật cắt lọc . Nhiễm trùng lan tỏa cần điều trị kết hợp, thường là macrolide và aminoglycoside , ví dụ, kết hợp amikacin, tobramycin, imipenem, clarithromycin.
+- Việc điều trị Mycobacterium ulcerans đạt hiệu quả cao nhất nếu bắt đầu điều trị ở những tổn thương dưới 6 tháng tuổi và có đường kính dưới 10 cm. [Rifampicin](https://dermnetnz.org/topics/rifampicin) và streptomycin là những loại kháng sinh hiện đang được khuyến cáo.
+- Phẫu thuật được sử dụng như một phương pháp hỗ trợ điều trị kháng sinh ở những bệnh nhân bị nhiễm trùng nặng. Hầu hết các tổn thương cuối cùng sẽ tự lành sau 6–9 tháng nhưng có thể để lại sẹo và biến dạng nặng nề.
+- Bệnh nhân AIDS đang dùng thuốc ức chế protease HIV không thể điều trị bằng [rifampicin](https://dermnetnz.org/topics/rifampicin) vì rifampicin làm tăng đáng kể sự phân hủy của các thuốc này. Rifabutin là một lựa chọn thay thế phù hợp. [](https://dermnetnz.org/topics/rifampicin)
+Đôi khi cần phải phẫu thuật cắt bỏ các hạch bạch huyết bị nhiễm trùng và cắt lọc tích cực các tổn thương da bị nhiễm trùng. Trong trường hợp nghiêm trọng, có thể cần ghép da để phục hồi vết thương phẫu thuật.
+Một số bệnh nhiễm trùng sẽ tự khỏi, thường để lại sẹo đáng kể.

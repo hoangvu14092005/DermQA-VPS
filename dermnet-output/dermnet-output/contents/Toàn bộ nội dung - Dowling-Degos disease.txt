@@ -1,0 +1,119 @@
+# Bệnh Dowling-Degos — thông tin bổ sung
+
+Thể loại:
+
+Di truyền
+
+SNOMED CT:
+
+239054009, 69971003, 239133004, 239085000
+
+**[Di truyền](https://dermnetnz.org/topics/topics?category=Genetic)**
+
+
+# **Bệnh Dowling-Degos**
+
+Tác giả: Tiến sĩ Delwyn Dyall-Smith FACD, Bác sĩ da liễu, 2010.
+
+---
+
+## Bệnh Dowling-Degos là gì?
+
+Bệnh Dowling-Degos là một bệnh di truyền hiếm gặp ở da, biểu hiện ở người trưởng thành với tình trạng tăng sắc tố , đặc biệt là ở các nếp gấp da. Bệnh này còn được gọi là ' dị tật lưới sắc tố ở các nếp gấp '. Điều quan trọng là phải phân biệt bệnh này với bệnh gai [đen (acanthosis nigricans)](https://dermnetnz.org/topics/acanthosis-nigricans) , một bệnh lý da liễu có thể là dấu hiệu của các bệnh lý nội khoa. [](https://dermnetnz.org/topics/acanthosis-nigricans)
+Có một số biến thể có thể xảy ra của bệnh Dowling-Degos:
+- Dowling-Degos cục bộ
+- Dowling-Degos tổng quát
+- Bệnh Galli-Galli
+- Sắc tố lưới ở đầu chi Kitamura
+- Bệnh Haber
+- Sắc tố đối xứng của Dohi
+Trong một số trường hợp, sắc tố không xuất hiện.
+
+---
+
+## Ai mắc bệnh Dowling-Degos?
+
+Bệnh Dowling-Degos và các biến thể của nó có thể được di truyền từ một trong hai cha mẹ ( di truyền trội trên nhiễm sắc thể thường ) hoặc xuất hiện không có tiền sử gia đình (rời rạc). Dường như có sự chiếm ưu thế ở nữ giới trong các trường hợp được báo cáo. Bệnh Dowling-Degos cổ điển khởi phát ở tuổi trưởng thành, thường gặp nhất ở độ tuổi 20 hoặc 30, nhưng đôi khi muộn hơn. Bệnh dần trở nên trầm trọng hơn theo thời gian. Các khiếm khuyết gen dẫn đến mất khả năng sản xuất keratin 5 gần đây đã được phát hiện ở một số gia đình mắc bệnh.
+
+---
+
+## Khiếm khuyết di truyền trong bệnh Dowling-Degos là gì?
+
+Một số gia đình mắc bệnh Dowling-Degos và bệnh Galli-Galli cổ điển hiện đã được nghiên cứu về mặt di truyền. Tất cả đều cho thấy đột biến gen dẫn đến protein keratin 5 rất ngắn , khiến protein này gần như không hoạt động. Keratin 5 tham gia vào quá trình vận chuyển sắc tố melanin từ tế bào hắc tố sang tế bào sừng. Nhiều khả năng các biến thể khác nhau là do các đột biến khác nhau trong gen.
+
+---
+
+## Các đặc điểm lâm sàng của bệnh Dowling-Degos là gì?
+
+Bệnh Dowling-Degos chỉ ảnh hưởng đến da và không có tác động bên trong. Vùng da bị ảnh hưởng bởi bệnh Dowling-Degos có thể bị ngứa, đặc biệt là vào mùa hè khi tác động của nhiệt độ, mồ hôi và ma sát làm trầm trọng thêm tình trạng tăng sắc tố và ngứa. Bệnh này không gây phồng rộp.
+Có năm dạng bệnh Dowling-Degos và Galli-Galli cổ điển được mô tả.
+
+### 1. Tăng sắc tố
+Sắc tố dạng tàn nhang thường xuất hiện đầu tiên ở giai đoạn đầu của tuổi trưởng thành, ở các nếp gấp lớn của da như nách, bẹn, giữa và dưới vú. Các vị trí phổ biến cũng bao gồm cánh tay trên, mặt trong đùi trên, sau đầu gối và cổ. Nó có thể khu trú ở một vùng như cơ quan sinh dục (bìu hoặc âm hộ ) (bệnh Dowling-Degos khu trú) hoặc dần dần lan rộng ra hầu hết bề mặt da (bệnh Dowling-Degos toàn thân). Sắc tố có thể trở nên trầm trọng hơn trong thai kỳ và khi tiếp xúc với ánh nắng mặt trời.
+Một số mô hình đã được mô tả:
+- Các mẫu hình lốm đốm hoặc lưới
+- 'Đốm đen' – những chấm đen nhỏ tập trung ở nang lông
+- Các đốm phẳng ( sẩn ) hoặc các đốm nhỏ hơi nổi lên ( sẩn )
+- Nhiều sắc thái khác nhau của màu nâu hoặc đen.
+
+### 2. Sẩn nang lông
+Đây là những đốm nhỏ , có vảy , có sắc tố hoặc không có sắc tố nổi lên trên nang lông.
+
+### Bệnh Dowling-Degos không sắc tố
+![Bệnh Dowling-Degos](https://dermnetnz.org/assets/Uploads/colour/w/dowling-degos-1.jpg)
+![Bệnh Dowling-Degos](https://dermnetnz.org/assets/Uploads/colour/w/dowling-degos-2.jpg)
+![Bệnh Dowling-Degos](https://dermnetnz.org/assets/Uploads/colour/w/dowling-degos-3.jpg)
+![Bệnh Dowling-Degos](https://dermnetnz.org/assets/Uploads/colour/w/dowling-degos-4.jpg)
+
+### 3. Giảm sắc tố
+Đây là những đốm nhỏ phẳng ( dấu chấm ) hoặc những đốm nổi lên ( sẩn ) nhạt màu hơn da bình thường.
+
+### 4. Mụn đầu đen
+Đây là những nốt mụn đầu đen thường xuất hiện ở cổ.
+
+### 5. Sẹo
+Đây là những vết sẹo rỗ giống mụn trứng cá thường xuất hiện ở cằm.
+
+---
+
+## Có rối loạn nào liên quan đến bệnh Dowling-Degos không?
+
+[Viêm tuyến mồ hôi mủ](https://dermnetnz.org/topics/hidradenitis-suppurativa) đã được báo cáo có liên quan đến bệnh Dowling-Degos thường xuyên hơn dự kiến. Do đó, bệnh nhân mắc bệnh Dowling-Degos có nhiều khả năng cũng bị viêm tuyến mồ hôi mủ.
+Các tình trạng khác có liên quan không chắc chắn hiếm khi được báo cáo có liên quan đến bệnh Dowling-Degos cổ điển:
+- [Ung thư biểu mô tế bào vảy](https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma) và [u sừng gai](https://dermnetnz.org/topics/keratoacanthoma)
+- Những bất thường ở phần phụ của da như [loạn dưỡng móng](https://dermnetnz.org/topics/nail-terminology) và không có lông tơ.
+- [Sừng hóa bã nhờn](https://dermnetnz.org/topics/seborrhoeic-keratosis)
+- [U](https://dermnetnz.org/topics/cutaneous-cysts-and-pseudocysts) nang biểu bì hoặc nang trichilemmal [](https://dermnetnz.org/topics/cutaneous-cysts-and-pseudocysts)
+Đã có một số báo cáo trường hợp mô tả những bệnh nhân có các đặc điểm chồng chéo giữa bệnh Dowling-Degos cổ điển và các tình trạng sau đây, nhưng hiện nay người ta cho rằng đây là các biến thể của bệnh Dowling-Degos.
+
+### Sắc tố lưới Kitamura
+Tình trạng sắc tố lưới Kitamura ở đầu chi thường xuất hiện lần đầu ở thời thơ ấu hoặc thanh thiếu niên như sau:
+- Tàn nhang sẫm màu ở mu bàn tay và mu bàn chân
+- Hố lòng bàn tay
+- Sự không liên tục của [các đường vân tay](https://dermnetnz.org/topics/fingerprints)
+- U nang biểu bì
+- Các đốm phẳng (dạng dát) hoặc nổi lên (sẩn) với sắc tố giảm hoặc không có
+
+### Bệnh Haber
+Bệnh Haber bao gồm tình trạng đỏ mặt giống như [bệnh trứng cá đỏ](https://dermnetnz.org/topics/rosacea) nhạy cảm với ánh nắng mặt trời bắt đầu từ thời thơ ấu cũng như tình trạng tăng sắc tố giống như tàn nhang và nhiều tổn thương mụn cóc sẫm màu giống như bệnh sừng hóa tiết bã nhờn trên thân mình.
+
+### Sắc tố đối xứng của Dohi
+Tình trạng mất sắc tố Dohi đối xứng bắt đầu xuất hiện ở trẻ sơ sinh hoặc trẻ nhỏ dưới dạng các đốm phẳng (dạng chấm) có màu sắc tăng hoặc giảm ở mu bàn tay.
+
+---
+
+## Chẩn đoán bệnh Dowling-Degos được thực hiện như thế nào?
+
+Chẩn đoán được thực hiện dựa trên các đặc điểm lâm sàng và xác nhận bằng [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) .
+Có hai biến thể mô học ( bệnh lý ) (xem [bệnh lý học bệnh Dowling-Degos](https://dermnetnz.org/topics/dowling-degos-disease-pathology) ):
+- Bệnh Dowling-Degos cổ điển – biểu bì xuất hiện các đường rãnh lưới phân nhánh dài (giống gạc hươu) với sắc tố melanin tăng ở đầu. Không có sự gia tăng số lượng tế bào hắc tố .
+- Bệnh Galli-Galli – ngoài các đặc điểm trên, còn có tình trạng phân tách tế bào da (tế bào da tách rời) với lớp sừng hóa bên trên ( tế bào lớp sừng vẫn giữ nguyên nhân ).
+
+---
+
+## Bệnh Dowling-Degos được điều trị như thế nào?
+
+Không có phương pháp điều trị nào thành công. Nhiều loại kem đã được thử nghiệm, bao gồm [steroid bôi ngoài da](https://dermnetnz.org/topics/topical-steroid) , [axit azelaic](https://dermnetnz.org/topics/azelaic-acid) , [retinoid bôi ngoài da](https://dermnetnz.org/topics/topical-retinoids) và các chất làm mất sắc tố như [hydroquinone](https://dermnetnz.org/topics/hydroquinone) .
+Steroid bôi ngoài da có thể giúp giảm ngứa. Đã có một báo cáo về trường hợp gel adapalene retinoid bôi ngoài da kiểm soát được ngứa và làm mờ sắc tố, nhưng tình trạng ngứa nhanh chóng tái phát khi ngừng thuốc. Retinoid toàn thân cũng không hiệu quả.
+Điều trị bằng laser Er-YAG cho vùng phát ban giữa hai vú đã được báo cáo là giúp theo dõi lâu dài ở một bệnh nhân. Vùng da được điều trị vẫn sạch nhưng các đốm mới tiếp tục xuất hiện ở vùng da chưa được điều trị.
+Vì Dowling-Degos là một căn bệnh di truyền nên không có phương pháp điều trị khỏi hoàn toàn.

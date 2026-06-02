@@ -1,0 +1,112 @@
+# Chàm tĩnh mạch — thông tin bổ sung
+
+Thể loại:
+
+Bệnh chàm, các vấn đề về mạch máu
+
+SNOMED CT:
+
+366362000, 35498005, 709666005, 762536003, 238377008
+
+**[Bệnh chàm, các vấn đề về mạch máu](https://dermnetnz.org/topics/topics?category=Eczemas)**
+
+
+# **Chàm tĩnh mạch**
+
+Tác giả: Phó giáo sư Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand, 1997. Cập nhật tháng 1 năm 2016.
+
+---
+
+## Chàm tĩnh mạch là gì?
+
+Chàm tĩnh mạch là một dạng [chàm/viêm da](https://dermnetnz.org/topics/dermatitis) phổ biến , ảnh hưởng đến một hoặc cả hai chân dưới, liên quan đến [suy tĩnh mạch](https://dermnetnz.org/topics/venous-insufficiency) . Bệnh này còn được gọi là viêm da do trọng lực.
+
+---
+
+## Ai bị bệnh chàm tĩnh mạch?
+
+Chàm tĩnh mạch thường gặp nhất ở bệnh nhân trung niên và cao tuổi — được báo cáo là ảnh hưởng đến 20% người trên 70 tuổi. Bệnh liên quan đến:
+- Tiền sử huyết khối tĩnh mạch sâu ở chi bị ảnh hưởng
+- Tiền sử viêm [mô tế bào](https://dermnetnz.org/topics/cellulitis) ở chi bị ảnh hưởng
+- Sưng mãn tính ở cẳng chân, trầm trọng hơn khi thời tiết nóng và đứng lâu
+- [Tĩnh mạch giãn](https://dermnetnz.org/topics/varicose-veins)
+- [Loét ứ trệ](https://dermnetnz.org/topics/stasis-ulcer) .
+
+---
+
+## Nguyên nhân gây ra bệnh chàm tĩnh mạch là gì?
+
+Bệnh chàm tĩnh mạch dường như là do chất lỏng tích tụ trong các mô và kích hoạt phản ứng miễn dịch bẩm sinh .
+Thông thường, khi đi bộ, các cơ chân bơm máu lên và các van trong tĩnh mạch ngăn ngừa ứ đọng. Một cục máu đông trong các tĩnh mạch sâu ở chân (huyết khối tĩnh mạch sâu hoặc DVT) hoặc giãn tĩnh mạch có thể làm hỏng các van. Kết quả là áp lực ngược tăng lên và dịch tích tụ trong các mô. Phản ứng viêm xảy ra.
+
+---
+
+## Các đặc điểm lâm sàng của bệnh chàm tĩnh mạch là gì?
+
+Chàm tĩnh mạch có thể hình thành các mảng riêng biệt hoặc hợp lưu và lan rộng. Các đặc điểm bao gồm:
+- Các mảng đỏ ngứa, phồng rộp và đóng vảy ; hoặc các mảng khô nứt nẻ và có vảy ở một hoặc cả hai cẳng chân
+- Sắc tố da nâu cam do lắng đọng haemosiderin
+- [Teo da](https://dermnetnz.org/topics/atrophie-blanche) (sẹo trắng không đều, xung quanh có đốm đỏ)
+- Hình dạng 'chai sâm panh' của cẳng chân — hẹp ở mắt cá chân và cứng ( [xơ cứng bì](https://dermnetnz.org/topics/lipodermatosclerosis) )
+![Chàm tĩnh mạch](https://dermnetnz.org/assets/Uploads/grav-derm-alt-v2.jpg)
+![Xơ vữa động mạch](https://dermnetnz.org/assets/Uploads/dermatitis/lipodermatosclerosis.jpg)
+![Loét tĩnh mạch](https://dermnetnz.org/assets/Uploads/dermatitis/ulcer.jpg)
+
+---
+
+## Biến chứng của bệnh chàm tĩnh mạch là gì?
+
+- [Chốc lở](https://dermnetnz.org/topics/impetigo) – nhiễm trùng thứ phát với tụ cầu vàng gây ra vảy màu vàng
+- [Viêm mô tế bào](https://dermnetnz.org/topics/cellulitis) - nhiễm trùng do Streptococcus pyogenes : có thể có hiện tượng đỏ, sưng, đau, sốt , một vệt đỏ chạy dọc chân và các hạch sưng ở bẹn
+- [Bệnh chàm thứ phát](https://dermnetnz.org/topics/disseminated-secondary-eczema) — bệnh chàm lan sang các vùng khác trên cơ thể
+- [Tiếp xúc dị ứng](https://dermnetnz.org/topics/allergic-contact-dermatitis) với một hoặc nhiều thành phần của thuốc mỡ hoặc kem được sử dụng
+
+---
+
+## Bệnh chàm tĩnh mạch được chẩn đoán như thế nào?
+
+Chẩn đoán bệnh chàm tĩnh mạch là chẩn đoán lâm sàng.
+[Có thể tiến hành thử nghiệm vá](https://dermnetnz.org/topics/patch-tests) nếu nghi ngờ bị [dị ứng tiếp xúc](https://dermnetnz.org/topics/allergic-contact-dermatitis) .
+
+---
+
+## Phương pháp điều trị bệnh chàm tĩnh mạch là gì?
+
+
+### Giảm sưng ở chân
+- Không nên đứng trong thời gian dài.
+- Đi bộ thường xuyên.
+- Nâng cao chân khi ngồi: nếu chân bạn bị sưng, chúng cần phải cao hơn hông để thoát dịch hiệu quả.
+- Nâng cao chân giường qua đêm.
+- Trong giai đoạn cấp tính của bệnh chàm, băng bó rất quan trọng để giảm sưng.
+- Khi bệnh chàm đã thuyên giảm, hãy mang [vớ hoặc tất áp lực phân](https://dermnetnz.org/topics/compression-therapy) cấp trong thời gian dài. Có thể mua vớ áp lực vừa phải đến cao tại các công ty cung cấp vật tư phẫu thuật. Ép nhẹ bằng vớ du lịch có thể là đủ, và những loại vớ này rất dễ mang. Có thể mua vớ tại các hiệu thuốc, cửa hàng du lịch và cửa hàng thể thao. Mang hai đôi sẽ có độ ép chặt hơn.
+- [Chiết xuất hạt dẻ ngựa](https://dermnetnz.org/topics/horse-chestnut-extract) dường như có lợi cho ít nhất một số bệnh nhân mắc bệnh tĩnh mạch.
+
+### Điều trị bệnh chàm
+- Lau khô các mảng rỉ dịch bằng dung dịch Condy ( [kali permanganat](https://dermnetnz.org/topics/potassium-permanganate) ) hoặc giấm loãng trên gạc dưới dạng gạc đắp.
+- [Thuốc kháng](https://dermnetnz.org/topics/antibiotics) sinh uống như [flucloxacillin](https://dermnetnz.org/topics/penicillin) có thể được kê đơn để điều trị nhiễm trùng thứ phát.
+- Bôi [steroid bôi ngoài da](https://dermnetnz.org/topics/topical-steroid) theo chỉ định : bắt đầu bằng kem steroid mạnh , bôi chính xác hàng ngày lên các mảng da cho đến khi chúng phẳng ra. Sau vài ngày, chuyển sang kem steroid nhẹ hơn (ví dụ: hydrocortisone) cho đến khi các mảng da ngứa biến mất (điều trị duy trì). Tham khảo ý kiến ​​bác sĩ nếu bạn sử dụng kem steroid trong hơn vài tuần. Lạm dụng có thể làm mỏng da, nhưng thỉnh thoảng có thể sử dụng các liệu trình ngắn với chế phẩm mạnh hơn nếu cần để kiểm soát tình trạng viêm da. [Thuốc mỡ hắc ín than đá](https://dermnetnz.org/topics/coal-tar) cũng có thể giúp ích.
+- Sử dụng [kem dưỡng ẩm](https://dermnetnz.org/topics/emollients-and-moisturisers) thường xuyên để giữ cho da chân mịn màng và mềm mại. Nếu da bị bong tróc nhiều, [kem urê](https://dermnetnz.org/topics/urea) có thể đặc biệt hiệu quả.
+- Bảo vệ da khỏi bị tổn thương: điều này có thể dẫn đến nhiễm trùng hoặc loét khó lành.
+
+### Điều trị giãn tĩnh mạch
+- Tham khảo ý kiến ​​của bác sĩ phẫu thuật mạch máu về [bệnh giãn tĩnh mạch](https://dermnetnz.org/topics/varicose-veins) .
+- Những bệnh này có thể được điều trị bằng phẫu thuật, bằng tia laser nội tĩnh mạch hoặc [liệu pháp xơ cứng](https://dermnetnz.org/topics/leg-vein-therapies) . [](https://dermnetnz.org/topics/leg-vein-therapies)
+- Tĩnh mạch giãn có thể tái phát sau một ca phẫu thuật thành công vì bệnh tĩnh mạch tiến triển.
+
+---
+
+## Làm thế nào để ngăn ngừa bệnh chàm tĩnh mạch?
+
+Không thể ngăn ngừa hoàn toàn bệnh chàm tĩnh mạch nhưng có thể giảm số lượng và mức độ nghiêm trọng của các đợt bùng phát bằng các biện pháp sau.
+- Tránh đứng hoặc ngồi trong thời gian dài với chân co xuống.
+- Mang [vớ hoặc tất bó](https://dermnetnz.org/topics/compression-therapy) .
+- Tránh và điều trị sưng chân.
+- Thoa [chất làm mềm da](https://dermnetnz.org/topics/emollients-and-moisturisers) thường xuyên và đều đặn lên vùng da khô.
+- Tránh dùng xà phòng; chỉ dùng nước hoặc [chất tẩy rửa không chứa xà phòng](https://dermnetnz.org/topics/soaps-and-cleansers) khi tắm.
+
+---
+
+## Triển vọng của bệnh chàm tĩnh mạch là gì?
+
+Chàm tĩnh mạch có xu hướng tái phát hoặc mạn tính suốt đời. Điều trị tái phát kịp thời bằng [steroid bôi ngoài da](https://dermnetnz.org/topics/topical-steroid) .

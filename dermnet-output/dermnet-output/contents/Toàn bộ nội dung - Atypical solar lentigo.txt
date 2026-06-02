@@ -1,0 +1,103 @@
+# Lentigo mặt trời bất thường — thông tin bổ sung
+
+Thể loại:
+
+Tổn thương (ung thư)
+
+SNOMED CT:
+
+72100002
+
+**[Tổn thương (ung thư)](https://dermnetnz.org/topics/topics?category=Lesions+(cancerous))**
+
+
+# **Lentigo mặt trời bất thường**
+
+Tác giả: Tổng biên tập DermNet, Phó Giáo sư Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand. Biên tập bởi Gus Mitchell. Tháng 4 năm 2018.
+
+---
+
+## Lentigo mặt trời bất thường là gì?
+
+U sắc tố mặt trời không điển hình là u [sắc tố mặt trời](https://dermnetnz.org/topics/solar-lentigo) có những đặc điểm bất thường. Thuật ngữ này có thể được sử dụng khi bác sĩ lâm sàng không chắc chắn liệu một vết nâu phẳng ( [lentigo](https://dermnetnz.org/topics/lentigo) ) là u [sắc tố mặt trời](https://dermnetnz.org/topics/solar-lentigo) lành tính hay [u hắc tố tại chỗ](https://dermnetnz.org/topics/melanoma-in-situ) (một dạng [ung thư hắc tố](https://dermnetnz.org/topics/melanoma) giai đoạn đầu , một loại [ung thư da](https://dermnetnz.org/topics/skin-cancer) ). Số nhiều của lentigo là lentigines. [](https://dermnetnz.org/topics/solar-lentigo) [](https://dermnetnz.org/topics/lentigo) [](https://dermnetnz.org/topics/solar-lentigo) [](https://dermnetnz.org/topics/melanoma-in-situ) [](https://dermnetnz.org/topics/melanoma) [](https://dermnetnz.org/topics/skin-cancer)
+Byrom và cộng sự đã đặt tên cho loại lentigo mặt trời không ổn định là một loại lentigo mặt trời bất thường cụ thể ở da bị tổn thương do ánh nắng mặt trời [1]. Không giống như lentigo mặt trời thông thường, chủ yếu là tế bào sừng , lentigo không ổn định có các vùng tăng sinh tế bào hắc tố trên mô học.
+![Lentigo mặt trời bất thường](https://dermnetnz.org/assets/Uploads/atypical-solar-lentigo-03.jpg)
+![Lentigo mặt trời bất thường](https://dermnetnz.org/assets/Uploads/atypical-solar-lentigo-01.jpg)
+![Lentigo mặt trời bất thường](https://dermnetnz.org/assets/Uploads/atypical-solar-lentigo-02.jpg)
+Các vết nám da bất thường là những mảng màu nâu lớn, phẳng, có hình dạng, cấu trúc và màu sắc không đều.
+
+---
+
+## Ai sẽ bị nám da mặt bất thường?
+
+Các vết nám da điển hình và không điển hình xuất hiện ở [vùng da bị tổn thương do ánh nắng mặt trời và lão hóa](https://dermnetnz.org/topics/ageing-skin) . Các vết nám da thường ảnh hưởng nhất đến những người trên 50 tuổi có làn da sáng ( [loại da Fitzpatrick](https://dermnetnz.org/topics/skin-phototype) I và II) dành nhiều thời gian làm việc ngoài trời hoặc vui chơi ngoài trời.
+Các vết nám da không điển hình cũng có thể xuất hiện ở những người mắc chứng rối loạn di truyền khiến da bị tổn thương do ánh nắng mặt trời từ khi còn nhỏ (ví dụ: [bệnh khô da sắc tố](https://dermnetnz.org/topics/xeroderma-pigmentosum) ) hoặc những người đang dùng [thuốc ức chế miễn dịch](https://dermnetnz.org/topics/drug-induced-immunosuppression) .
+Các đặc điểm khác của tổn thương do ánh nắng mặt trời có thể xuất hiện ở vùng da xung quanh, loang lổ [2]. Những đặc điểm này có thể bao gồm:
+- Tàn nhang ( [ephelides](https://dermnetnz.org/topics/ephelis) )
+- [Giảm sắc tố dạng giọt](https://dermnetnz.org/topics/idiopathic-guttate-hypomelanosis)
+- [Elastosis năng lượng mặt trời](https://dermnetnz.org/topics/solar-elastosis)
+- [](https://dermnetnz.org/topics/actinic-keratosis) [Bệnh sừng hóa ánh sáng](https://dermnetnz.org/topics/solar-lentigo)
+- [Lentigo mặt trời](https://dermnetnz.org/topics/solar-lentigo)
+- Các dạng khác của [lentigo](https://dermnetnz.org/topics/lentigo)
+- [Viêm sừng tiết bã nhờn](https://dermnetnz.org/topics/seborrhoeic-keratosis)
+- [Ung thư da](https://dermnetnz.org/topics/skin-cancer) (ví dụ, [ung thư biểu mô tế bào đáy](https://dermnetnz.org/topics/basal-cell-carcinoma) , [ung thư biểu mô tế bào vảy](https://dermnetnz.org/topics/squamous-cell-carcinoma-pathology) và [ung thư hắc tố](https://dermnetnz.org/topics/melanoma) ).
+
+---
+
+## Nguyên nhân gây ra tình trạng nám da không điển hình là gì?
+
+Các đốm đồi mồi bất thường do ánh nắng mặt trời được cho là do những thay đổi di truyền ở tế bào sừng và tế bào hắc tố do tiếp xúc với [tia cực tím](https://dermnetnz.org/topics/ultraviolet-radiation-and-human-health) . [Sừng hóa dạng lichen](https://dermnetnz.org/topics/lichenoid-keratosis) là do phản ứng miễn dịch tại chỗ.
+
+---
+
+## Những đặc điểm lâm sàng của chứng lentigo do ánh nắng không điển hình là gì?
+
+Một loại lentigo mặt trời bất thường xuất hiện ở mặt, tai, cổ, bàn tay, cẳng tay hoặc lưng trên. Đây là một dát đơn độc và rõ rệt.
+Khi so sánh với các lentigine mặt trời xung quanh, một lentigo mặt trời không điển hình có thể:
+- Có kích thước lớn hơn và hình dạng không đều hơn
+- Có lề sắc nét hơn hoặc ít rõ ràng hơn
+- Có màu tối hơn và có nhiều biến thể màu sắc hơn
+- Bị viêm (đỏ) hoặc có thể có các vùng bị giảm sắc tố (mất màu)
+- Có màu xám hoặc tím do phản ứng viêm .
+Một lentigo mặt trời không điển hình có thể nằm cạnh hoặc tạo thành một phần của [lentigo mặt trời](https://dermnetnz.org/topics/solar-lentigo) điển hình hơn , tức là [u hắc tố tại chỗ](https://dermnetnz.org/topics/melanoma-in-situ) (có thể là [lentigo ác tính](https://dermnetnz.org/topics/lentigo-maligna-and-lentigo-maligna-melanoma) hoặc [u hắc tố dạng lentigin](https://dermnetnz.org/topics/lentiginous-melanoma) ), hoặc cả hai.
+
+---
+
+## Chẩn đoán phân biệt của chứng lentigo mặt trời không điển hình là gì?
+
+Chẩn đoán phân biệt cho chứng lentigo do ánh nắng mặt trời không điển hình có thể bao gồm:
+- [Lentigo mặt trời](https://dermnetnz.org/topics/solar-lentigo)
+- [U hắc tố tại chỗ](https://dermnetnz.org/topics/melanoma-in-situ)
+- [Sừng hóa dạng lichen](https://dermnetnz.org/topics/lichenoid-keratosis)
+- [Viêm sừng tiết bã nhờn](https://dermnetnz.org/topics/seborrhoeic-keratosis)
+- [Sừng hóa sắc tố ánh](https://dermnetnz.org/topics/actinic-keratosis) sáng [](https://dermnetnz.org/topics/actinic-keratosis)
+- Các dạng khác của [lentigo](https://dermnetnz.org/topics/lentigo)
+- [Nốt ruồi melanocytic](https://dermnetnz.org/topics/melanocytic-naevus) nối .
+
+---
+
+## Biến chứng của bệnh lentigo mặt trời bất thường là gì?
+
+Biến chứng chính của u sắc tố mặt trời bất thường là không chẩn đoán được [u hắc tố tại chỗ](https://dermnetnz.org/topics/melanoma-in-situ) . Một số u sắc tố mặt trời bất thường cũng có thể là tiền thân của u hắc tố tại chỗ , đặc biệt là biến thể mô học , u sắc tố mặt trời không ổn định.
+
+---
+
+## Bệnh lentigo mặt trời không điển hình được chẩn đoán như thế nào?
+
+Tàn nhang mặt trời không điển hình được đánh giá lâm sàng và bằng [phương pháp soi da](https://dermnetnz.org/topics/dermoscopy) . [Khám bệnh lý](https://dermnetnz.org/topics/dermatopathology) thường đưa đến chẩn đoán chính xác hơn, chẳng hạn như [tàn nhang mặt trời](https://dermnetnz.org/topics/solar-lentigo) , [dày sừng dạng lichen](https://dermnetnz.org/topics/lichenoid-keratosis) , tàn nhang mặt trời không ổn định, tăng sản tàn nhang không điển hình, nốt ruồi hắc tố nối không điển hình hoặc [u hắc tố tại chỗ](https://dermnetnz.org/topics/melanoma-in-situ) .
+Nếu có sự tăng sinh tế bào hắc tố trong một nốt ruồi mặt trời không điển hình, cần cắt bỏ toàn bộ tổn thương và kiểm tra mô học nhiều lớp của mẫu bệnh phẩm. Lưu ý rằng một nốt ruồi mặt trời không điển hình có thể biểu hiện các đặc điểm của nốt ruồi mặt trời, nốt ruồi mặt trời không ổn định, dày sừng quang hóa và u hắc tố tại chỗ (và thậm chí là [u hắc tố](https://dermnetnz.org/topics/melanoma-pathology) xâm lấn ). [](https://dermnetnz.org/topics/melanoma-pathology)
+
+---
+
+## Phương pháp điều trị chứng lentigo do ánh nắng không điển hình là gì?
+
+Thấu kính mặt trời bất thường thường [được cắt bỏ](https://dermnetnz.org/topics/excision-of-skin-lesions) .
+Các tổn thương không được cắt bỏ cần được theo dõi cẩn thận, tốt nhất là sử dụng [phương pháp soi da](https://dermnetnz.org/topics/dermoscopy) tuần tự ( [lập bản đồ nốt ruồi)](https://dermnetnz.org/topics/photographic-skin-surveillance) . Những thay đổi quan sát được có thể bao gồm tăng kích thước, thay đổi hình dạng, cấu trúc và màu sắc.
+Sự bất đối xứng lớn hơn trong phân bố cấu trúc và màu sắc trên da liễu nên dẫn đến việc cắt bỏ tổn thương. Các tổn thương ổn định có thể tiếp tục được quan sát.
+
+---
+
+## Hậu quả của bệnh lentigo mặt trời bất thường là gì?
+
+Kết quả phụ thuộc vào chẩn đoán thực tế.
+Bệnh lentigo do ánh nắng và dày sừng dạng lichen là vô hại. [U hắc tố tại chỗ](https://dermnetnz.org/topics/melanoma-in-situ) có thể tiến triển thành [u hắc tố](https://dermnetnz.org/topics/melanoma) xâm lấn . [](https://dermnetnz.org/topics/melanoma-in-situ) [](https://dermnetnz.org/topics/melanoma)

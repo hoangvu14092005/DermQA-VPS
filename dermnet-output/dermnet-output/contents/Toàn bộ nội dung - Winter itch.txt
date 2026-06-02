@@ -1,0 +1,92 @@
+# Ngứa mùa đông — thông tin bổ sung
+
+Thể loại:
+
+Phát ban
+
+SNOMED CT:
+
+201025002
+
+**[Phát ban](https://dermnetnz.org/topics/topics?category=Rashes)**
+
+
+# **Ngứa mùa đông**
+
+Tác giả: Bác sĩ Varitsara Mangkorntongsakul, Cán bộ Y tế Cấp cơ sở, Khu Y tế Địa phương Bờ biển Trung tâm, Gosford/Hamlyn Terrace, NSW, Úc. Tổng Biên tập DermNet: Phó Giáo sư Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand. Biên tập bởi Gus Mitchell/Maria McGivern. Tháng 8 năm 2018.
+
+---
+
+## Ngứa mùa đông là gì?
+
+Ngứa mùa đông, còn được gọi là ngứa hiemalis, là một loại [viêm da](https://dermnetnz.org/topics/dermatitis) cận lâm sàng , ảnh hưởng đến mọi người trong thời tiết lạnh.
+
+### Dấu hiệu lâm sàng của ngứa mùa đông
+![Rõ ràng là da bình thường](https://dermnetnz.org/assets/Uploads/winter-itch-1.jpg)
+![Sự lột da](https://dermnetnz.org/assets/Uploads/winter-itch-2.jpg)
+![Viêm da](https://dermnetnz.org/assets/Uploads/winter-itch-3.jpg)
+
+---
+
+## Ai bị ngứa vào mùa đông?
+
+Ngứa mùa đông có thể ảnh hưởng đến những người khỏe mạnh ở mọi lứa tuổi, nhưng phổ biến hơn ở người lớn tuổi có [da khô](https://dermnetnz.org/topics/dry-skin) .
+- Bệnh này không phổ biến ở trẻ em và thanh thiếu niên.
+- Nó ảnh hưởng đến cả nam giới và nữ giới như nhau.
+- Nó không bị ảnh hưởng bởi tình trạng kinh tế xã hội hay vệ sinh cá nhân.
+
+---
+
+## Nguyên nhân gây ngứa vào mùa đông là gì?
+
+Nguyên nhân chính xác gây ngứa mùa đông vẫn chưa được biết rõ. Các yếu tố liên quan đến ngứa mùa đông bao gồm:
+- Ngứa liên quan đến thời tiết lạnh, thường đi kèm với [da khô](https://dermnetnz.org/topics/dry-skin)
+- Ngứa xuất hiện vào mùa thu và mùa đông, và hết vào những tháng mùa hè
+- Các triệu chứng trở nên trầm trọng hơn khi mặc một số loại [vải](https://dermnetnz.org/topics/textile-contact-dermatitis) nhất định , chẳng hạn như vải nỉ hoặc vải len.
+Các triệu chứng tương tự cũng được báo cáo ở những bệnh nhân tiếp xúc với điều hòa không khí lạnh trong những tháng mùa hè. Ngứa mùa đông không bị ảnh hưởng bởi tần suất tắm hoặc nhiệt độ nước tắm.
+
+---
+
+## Các triệu chứng lâm sàng của ngứa mùa đông là gì?
+
+Ngứa mùa đông không gây phát ban ban đầu có thể nhìn thấy được . Vùng da bị ảnh hưởng nhìn chung có vẻ khỏe mạnh, nhưng thường hơi khô.
+- Cảm giác ngứa ảnh hưởng đến hầu hết hoặc toàn bộ các bộ phận của cơ thể, nhưng thường xảy ra nhất ở chân.
+- Các vị trí điển hình là mặt trong của đùi, phía trên và sau đầu gối, trên bắp chân và xung quanh mắt cá chân.
+- Nó không ảnh hưởng đến tay, chân, mặt hoặc da đầu.
+- Mức độ kích ứng có thể từ nhẹ đến nặng; khi nghiêm trọng, nó có thể gây ra sự đau đớn và khó chịu lớn, có thể cần phải được chăm sóc y tế.
+- Cảm giác ngứa xuất hiện đột ngột và thường rõ nhất vào ban đêm và khi cởi quần áo.
+Tổn thương thứ phát phát sinh do hậu quả của [việc gãi lâu ngày](https://dermnetnz.org/topics/pruritus) .
+- Da trở nên đỏ và có nhiều vết xước đáng chú ý.
+- Da bị trầy xước có thể khô, sần sùi và dày lên ( [lichen hóa](https://dermnetnz.org/topics/lichen-simplex) ).
+- Chà xát mạnh vào da có thể gây bong tróc da.
+- Có thể có tình trạng [viêm nang lông](https://dermnetnz.org/topics/folliculitis) thứ phát , với tình [trạng sợi tóc bị rách và gãy](https://dermnetnz.org/topics/defects-of-the-hair-shaft) do gãi liên tục.
+
+---
+
+## Ngứa mùa đông được chẩn đoán như thế nào?
+
+Ngứa mùa đông có thể liên quan và nhầm lẫn với các bệnh khác gây ngứa, đặc biệt là [viêm da](https://dermnetnz.org/topics/dermatitis) (có phát ban rõ rệt) và [ngứa](https://dermnetnz.org/topics/pruritus) liên quan đến các bệnh toàn thân (có xu hướng lan rộng ).
+Việc ghi chép bệnh sử chi tiết và kiểm tra cẩn thận là rất quan trọng để loại trừ [các nguyên nhân tiềm ẩn khác gây ngứa](https://dermnetnz.org/topics/differential-diagnosis-of-itchy-skin) .
+
+---
+
+## Cách điều trị ngứa mùa đông là gì?
+
+Điều trị chủ yếu là giảm triệu chứng và ngăn ngừa gãi.
+- Tắm nước ấm trước khi ngủ. Một số người cho biết việc thêm natri bicarbonate vào nước (một phần tư cốc baking soda hòa tan trong bồn tắm đầy nước) có tác dụng tốt.
+- [Chất làm mềm da](https://dermnetnz.org/topics/emollients-and-moisturisers) là thành phần chính trong điều trị. Thoa kem dưỡng ẩm sau khi tắm và bất cứ khi nào da cảm thấy ngứa hoặc khô.
+- Mặc quần áo nhẹ như lụa, vải lanh và vải mỏng.
+- Tránh các loại vải gây kích ứng như quần áo len.
+- Sử dụng [corticosteroid tại chỗ](https://dermnetnz.org/topics/topical-steroid) để điều trị [viêm da](https://dermnetnz.org/topics/dermatitis) thứ phát và [bệnh liken đơn giản](https://dermnetnz.org/topics/lichen-simplex) .
+- [Kem capsaicin](https://dermnetnz.org/topics/capsaicin) có thể hữu ích cho các vùng da bị ngứa dai dẳng .
+
+### Đơn thuốc
+Thuốc toàn thân không được chỉ định để điều trị ngứa mùa đông, nhưng [thuốc kháng histamine](https://dermnetnz.org/topics/antihistamines) đường uống và [corticosteroid toàn thân](https://dermnetnz.org/topics/systemic-steroids) đôi khi được kê đơn như một thử nghiệm lâm sàng.
+
+---
+
+## Hậu quả của tình trạng ngứa mùa đông là gì?
+
+Ngứa mùa đông thường sẽ khỏi sau những tháng mùa đông.
+- Thời gian ngứa khác nhau tùy từng người. Nó có thể kéo dài vài ngày hoặc vài tuần, và đôi khi kéo dài suốt mùa đông.
+- Ngứa mùa đông có thể tái phát trong suốt cuộc đời của một người hoặc biến mất vĩnh viễn sau lần ngứa đầu tiên.

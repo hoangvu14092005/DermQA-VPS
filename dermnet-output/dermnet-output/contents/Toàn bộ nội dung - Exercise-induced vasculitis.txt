@@ -1,0 +1,94 @@
+# Viêm mạch do tập thể dục — thông tin bổ sung
+
+Thể loại:
+
+Phản ứng, Vấn đề về mạch máu
+
+SNOMED CT:
+
+402664001, 718217000, 85461008
+
+**[Phản ứng, Vấn đề về mạch máu](https://dermnetnz.org/topics/topics?category=Reactions)**
+
+
+# **Viêm mạch do tập thể dục**
+
+Tác giả: Brian Wu, Tiến sĩ Y khoa, Trường Y khoa Keck, Los Angeles, Hoa Kỳ; Tổng biên tập: Tiến sĩ Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand, tháng 6 năm 2015.
+
+---
+
+## Viêm mạch do tập thể dục là gì?
+
+Viêm mạch do tập thể dục là một dạng [viêm mạch máu nhỏ ở da](https://dermnetnz.org/topics/cutaneous-small-vessel-vasculitis) vô hại . Tình trạng này còn được gọi là viêm mạch máu của người chơi golf.
+Đây là một rối loạn viêm bạch cầu trung tính liên quan đến các mạch máu nhỏ hoặc vừa ở da và mô dưới da .
+Khi chỉ có các mạch máu mao mạch nhỏ bị ảnh hưởng thì tình trạng này còn được gọi là viêm mao mạch do tập thể dục.
+
+---
+
+## Các đặc điểm lâm sàng của viêm mạch do tập thể dục là gì?
+
+Viêm mạch do tập thể dục chủ yếu ảnh hưởng đến một hoặc cả hai cẳng chân và đùi, với một hoặc nhiều đợt phát ban có các đặc điểm sau:
+- Liên quan đến da hở và bảo vệ da được bảo vệ bằng tất hoặc vớ
+- Các mảng đỏ, tổn thương mề đay ( vết sưng ) và [ban xuất huyết](https://dermnetnz.org/topics/purpura) (đốm tím) [](https://dermnetnz.org/topics/purpura)
+- Phù nề (sưng) ở chân bị ảnh hưởng
+- Ngứa dữ dội, châm chích, đau hoặc nóng rát
+Bệnh nhân vẫn khỏe mạnh, không sốt , không khó chịu hoặc có các triệu chứng khác.
+Các tổn thương sẽ khỏi sau 3 đến 4 tuần. Vết thâm nâu tím có thể tồn tại lâu hơn.
+![Viêm mạch do tập thể dục](https://dermnetnz.org/assets/Uploads/vascular/exercise-vasculitis-1.jpg)
+![Viêm mạch do tập thể dục](https://dermnetnz.org/assets/Uploads/vascular/exercise-vasculitis-2.jpg)
+![Viêm mạch do tập thể dục](https://dermnetnz.org/assets/Uploads/vascular/exercise-vasculitis-3.jpg)
+![Viêm mạch do tập thể dục](https://dermnetnz.org/assets/Uploads/vascular/exercise-vasculitis-4.jpg)
+
+---
+
+## Ai có thể bị viêm mạch do tập thể dục?
+
+Bệnh nhân bị viêm mạch do tập thể dục thường là nữ và trên 50 tuổi. Họ thường khỏe mạnh và năng động.
+Các hoạt động phổ biến có thể gây ra viêm mạch do tập thể dục bao gồm:
+- Chạy bộ và chạy bộ, đặc biệt là chạy đường dài
+- Đi bộ đường dài và leo núi
+- Thể dục nhịp điệu bước
+- Thể hình
+- Golf
+- Bơi lội
+Người ta cũng nghi ngờ rằng có thể có yếu tố di truyền hoặc gia đình gây ra tình trạng viêm mạch do tập thể dục.
+
+---
+
+## Chẩn đoán phân biệt viêm mạch do tập thể dục
+
+Các dạng [viêm mạch ngoài da hoặc toàn thân](https://dermnetnz.org/topics/cutaneous-vasculitis) khác có thể trầm trọng hơn do tập thể dục nhưng không phải do tập thể dục gây ra. Trong những trường hợp này, viêm mạch có thể do một bệnh lý hoặc tình trạng tiềm ẩn. [Viêm mao mạch](https://dermnetnz.org/topics/capillaritis) do tập thể dục thường biểu hiện các triệu chứng lâm sàng nhẹ hơn.
+
+---
+
+## Nguyên nhân nào gây ra viêm mạch do tập thể dục?
+
+Đúng như tên gọi, viêm mạch do tập thể dục thường xảy ra do hoạt động cơ bắp quá sức, đặc biệt là trong thời tiết ấm áp và ẩm ướt . Người ta cho rằng cơ chế điều hòa nhiệt độ bên trong cơ bắp chân bị phá vỡ, dẫn đến giảm hồi lưu tĩnh mạch và ứ máu . Kết quả cuối cùng là viêm và tổn thương mạch máu .
+
+---
+
+## Viêm mạch do tập thể dục được chẩn đoán như thế nào?
+
+Chẩn đoán viêm mạch do tập thể dục có thể khó khăn. Việc chẩn đoán dựa trên tiền sử bệnh và khám lâm sàng. Một số người có thể được tiến hành các xét nghiệm như:
+- Xét nghiệm trong phòng thí nghiệm
+- Chụp ảnh, ví dụ như chụp X-quang và siêu âm
+- [Sinh thiết da](https://dermnetnz.org/topics/skin-biopsy)
+Xét nghiệm và chụp chiếu được thực hiện vì 2 lý do chính.
+- Để loại trừ nguyên nhân khác gây [viêm mạch da](https://dermnetnz.org/topics/cutaneous-vasculitis)
+- Để xác định xem các cơ quan khác có bị ảnh hưởng hay không, từ đó chẩn đoán viêm mạch hệ thống .
+[Sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) cho thấy [viêm mạch bạch cầu](https://dermnetnz.org/topics/leukocytoclastic-vasculitis-pathology) trong viêm mạch do vận động. Xét nghiệm miễn dịch huỳnh quang trực tiếp các tổn thương mới cho thấy [bổ thể](https://dermnetnz.org/topics/the-complement-system) và globulin miễn dịch trong thành mạch máu.
+
+---
+
+## Phương pháp điều trị viêm mạch do tập thể dục là gì?
+
+Việc quản lý tình trạng viêm mạch do tập thể dục bao gồm:
+- Tạm thời ngừng tập thể dục mạnh.
+- Nâng cao chi bị ảnh hưởng
+- Vớ y khoa giúp giảm khó chịu và đẩy nhanh quá trình lành vết thương. Chúng có thể giúp ngăn ngừa viêm mạch do tập thể dục.
+- Thuốc chống viêm không steroid và [thuốc kháng histamine](https://dermnetnz.org/topics/antihistamines) để giảm các triệu chứng nóng rát và ngứa.
+Bệnh nhân bị viêm mạch tái phát do tập thể dục nên tránh tập thể dục mạnh trong thời tiết ấm áp. Mặc dù chưa có báo cáo nào về việc sử dụng chúng trong điều trị viêm mạch do tập thể dục, các phương pháp điều trị tích cực có thể kiểm soát viêm mạch máu nhỏ bao gồm:
+- [Colchicin](https://dermnetnz.org/topics/colchicine)
+- [Dapsone](https://dermnetnz.org/topics/dapsone)
+- [Hydroxychloroquine](https://dermnetnz.org/topics/hydroxychloroquine)
+[Steroid toàn thân](https://dermnetnz.org/topics/systemic-steroids) , ví dụ như prednisone, được dành riêng cho tình trạng viêm mạch da nghiêm trọng như có phồng rộp hoặc loét , và không cần thiết cho tình trạng viêm mạch do tập thể dục.

@@ -1,0 +1,121 @@
+# U hắc tố tại chỗ — thông tin bổ sung
+
+Thể loại:
+
+Tổn thương (ung thư)
+
+SNOMED CT:
+
+109266006, 302836005, 402556000
+
+**[Tổn thương (ung thư)](https://dermnetnz.org/topics/topics?category=Lesions+(cancerous))**
+
+
+# **U hắc tố tại chỗ**
+
+Tác giả: Phó Giáo sư Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand. Biên tập bởi Gus Mitchell. Tháng 4 năm 2018.
+
+---
+
+## U hắc tố tại chỗ là gì?
+
+U hắc tố tại chỗ là dạng [u hắc tố](https://dermnetnz.org/topics/melanoma) nguyên phát giai đoạn đầu , trong đó các tế bào ác tính chỉ giới hạn ở mô gốc, tức lớp biểu bì. U hắc tố tại chỗ còn được gọi là u hắc tố tại chỗ và u hắc tố cấp độ 1. [](https://dermnetnz.org/topics/melanoma)
+Vì u hắc tố tại chỗ không gây tử vong nên việc phát hiện sớm u hắc tố ở giai đoạn tại chỗ sẽ làm tăng khả năng sống sót sau u hắc tố và dẫn đến ít bệnh tật hơn cũng như giảm chi phí so với u hắc tố tiến triển hơn [1].
+Việc quản lý ung thư hắc tố đang có nhiều tiến triển. Để biết các khuyến nghị mới nhất, hãy tham khảo [Hướng dẫn thực hành lâm sàng về chẩn đoán và quản lý ung thư hắc](https://translate.google.com/website) tố của Hội đồng Ung thư Úc . [](https://translate.google.com/website)
+![U hắc tố tại chỗ](https://dermnetnz.org/assets/Uploads/mel-is10.jpg)
+![U hắc tố tại chỗ](https://dermnetnz.org/assets/Uploads/mel-is11.jpg)
+![U hắc tố tại chỗ](https://dermnetnz.org/assets/Uploads/mel-is12.jpg)
+Xem thêm [hình ảnh của bệnh ung thư hắc tố tại chỗ](https://dermnetnz-org.translate.goog/images/melanoma-in-situ-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp) .
+
+---
+
+## Phân loại u hắc tố tại chỗ
+
+U hắc tố tại chỗ được phân loại theo vị trí cơ thể và các đặc điểm lâm sàng cũng như mô học . Đây là giai đoạn đầu của các phân nhóm u hắc tố bắt nguồn từ lớp biểu bì. Các phân nhóm phổ biến nhất là:
+- [Lentigo maligna](https://dermnetnz.org/topics/lentigo-maligna-and-lentigo-maligna-melanoma)
+- [U hắc tố dạng lentigin](https://dermnetnz.org/topics/lentiginous-melanoma) tại chỗ
+- [U hắc tố lan rộng bề mặt](https://dermnetnz.org/topics/superficial-spreading-melanoma) tại chỗ.
+Các dạng hiếm gặp của bệnh ung thư hắc tố có thể có giai đoạn tại chỗ bao gồm:
+- [U hắc tố dạng lentigin ở acral](https://dermnetnz.org/topics/acral-lentiginous-melanoma)
+- [U hắc tố móng](https://dermnetnz.org/topics/melanoma-of-the-nail-unit)
+- [U hắc tố niêm mạc](https://dermnetnz.org/topics/mucosal-melanoma)
+- [U hắc tố mắt](https://dermnetnz.org/topics/ocular-melanoma) .
+
+---
+
+## Ai mắc bệnh ung thư hắc tố tại chỗ?
+
+Có 2423 ca đăng ký ung thư hắc tố ở New Zealand vào năm 2015. Sổ đăng ký ung thư New Zealand không công bố số liệu về ung thư hắc tố tại chỗ, nhưng dữ liệu chưa công bố cho thấy số người được chẩn đoán mắc ung thư hắc tố tại chỗ tương đương với số người được chẩn đoán mắc ung thư hắc tố xâm lấn [2].
+Độ tuổi trung bình được chẩn đoán là 61 tuổi, nhưng u hắc tố tại chỗ cũng có thể được chẩn đoán ở người trẻ [3]. Phần lớn bệnh được chẩn đoán ở những người có nhiều [nốt ruồi hắc tố](https://dermnetnz.org/topics/melanocytic-naevus) hoặc ở người lớn tuổi có làn da sáng.
+Bệnh nhân mắc bệnh u hắc tố tại chỗ cũng có thể được chẩn đoán mắc các dạng ung thư da sừng hóa khác , chẳng hạn như [ung thư biểu mô tế bào đáy](https://dermnetnz.org/topics/basal-cell-carcinoma) , [dày sừng ánh sáng](https://dermnetnz.org/topics/actinic-keratosis) , [ung thư biểu mô tế bào vảy trong thượng bì](https://dermnetnz.org/topics/intraepidermal-squamous-cell-carcinoma) và [ung thư biểu mô tế bào vảy da](https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma) .
+
+---
+
+## Nguyên nhân nào gây ra bệnh ung thư hắc tố tại chỗ?
+
+[Đột biến gen](https://dermnetnz.org/topics/genetics-of-melanoma) trong DNA của tế bào hắc tố được quan sát thấy ở u hắc tố tại chỗ. Nguyên nhân chủ yếu là do tiếp xúc với [tia cực tím](https://dermnetnz.org/topics/ultraviolet-radiation-and-human-health) .
+
+---
+
+## Đặc điểm lâm sàng của bệnh ung thư hắc tố tại chỗ là gì?
+
+Thông thường, u hắc tố tại chỗ là một mảng da có sắc tố không đều. Nó thường có các tiêu chuẩn ABCDE:
+- Sự đối xứng về hình dạng, màu sắc và cấu trúc
+- Bất thường thứ tự B
+- Biến thể màu sắc (đen, nâu, xám, hồng)
+- Khác với các tổn thương khác của bệnh nhân (và thường có đường kính > 6 mm)
+- E đang tiến hóa, thay đổi.
+Vị trí cơ thể và các đặc điểm lâm sàng khác của u hắc tố tại chỗ phụ thuộc vào phân nhóm u hắc tố (xem ở trên). Nhìn chung, u hắc tố tại chỗ có dạng dát (phẳng). Tuy nhiên, trong khoảng 8% trường hợp, u hắc tố tại chỗ dày lên và có thể đóng vảy do phản ứng dày lên của lớp biểu bì [3].
+
+---
+
+## Biến chứng của bệnh ung thư hắc tố tại chỗ là gì?
+
+Nếu không được điều trị, u hắc tố tại chỗ sẽ phát triển chậm. Một số u hắc tố tại chỗ phát triển thành ổ (trung tâm của một quá trình bệnh lý) hoặc một dạng u hắc tố xâm lấn nguy hiểm hơn.
+- Người ta cho rằng có chưa đến 5% u [hắc tố ác tính](https://dermnetnz.org/topics/lentigo-maligna-and-lentigo-maligna-melanoma) và [u hắc tố dạng lentigin](https://dermnetnz.org/topics/lentiginous-melanoma) chuyển thành u hắc tố xâm lấn.
+- Nguy cơ ung thư hắc tố tại chỗ tiến triển thành ung thư hắc tố xâm lấn theo thời gian cao hơn ở [ung thư hắc tố lan rộng bề mặt](https://dermnetnz.org/topics/superficial-spreading-melanoma) , [ung thư hắc tố lentigin đầu chi](https://dermnetnz.org/topics/acral-lentiginous-melanoma) và các dạng ung thư hắc tố khác, nhưng nguy cơ chính xác vẫn chưa được biết rõ.
+
+---
+
+## Chẩn đoán phân biệt của bệnh ung thư hắc tố tại chỗ là gì?
+
+Chẩn đoán phân biệt đối với bệnh u hắc tố tại chỗ bao gồm [u hắc tố](https://dermnetnz.org/topics/melanoma) xâm lấn , các dạng [ung thư da](https://dermnetnz.org/topics/skin-cancer) khác và các tổn thương da lành tính , chẳng hạn như [nốt ruồi hắc tố](https://dermnetnz.org/topics/melanocytic-naevus) hoặc [nốt ruồi nhỏ](https://dermnetnz.org/topics/lentigo) (những tổn thương này có thể được mô tả lâm sàng là [nốt ruồi không điển hình](https://dermnetnz.org/topics/atypical-melanocytic-naevus) hoặc [nốt ruồi nhỏ không điển hình do ánh nắng](https://dermnetnz.org/topics/atypical-solar-lentigo) ). [](https://dermnetnz.org/topics/melanocytic-naevus) [](https://dermnetnz.org/topics/lentigo) [](https://dermnetnz.org/topics/atypical-melanocytic-naevus) [](https://dermnetnz.org/topics/atypical-solar-lentigo)
+Lưu ý rằng ung thư hắc tố xuất hiện ở lớp hạ bì không có giai đoạn tại chỗ. Các phân nhóm ung thư hắc tố ở lớp hạ bì bao gồm:
+- [U hắc tố dạng nốt](https://dermnetnz.org/topics/nodular-melanoma)
+- [U hắc tố desmoplastic](https://dermnetnz.org/topics/desmoplastic-melanoma)
+- [U hắc tố di căn](https://dermnetnz.org/topics/metastatic-melanoma) .
+
+---
+
+## Ung thư hắc tố tại chỗ được chẩn đoán như thế nào?
+
+Có thể nghi ngờ u hắc tố tại chỗ bằng lâm sàng hoặc bằng [phương pháp soi da](https://dermnetnz.org/topics/dermoscopy) .
+Chẩn đoán được xác nhận bằng [xét nghiệm mô học khối u](https://dermnetnz.org/topics/melanoma-pathology) và phát hiện các tế bào hắc tố ác tính giới hạn ở lớp biểu bì và các cấu trúc phụ trợ của lớp biểu bì . Độ dày Breslow không được báo cáo cho u hắc tố tại chỗ.
+- U hắc tố tại chỗ thường được báo cáo là u hắc tố cấp độ 1 theo thang điểm Clark.
+- U hắc tố tại chỗ được coi là Giai đoạn 0 theo hướng dẫn phân loại của Ủy ban Ung thư Hoa Kỳ (AJCC).
+Nên kiểm tra nhiều lát cắt trên mẫu vật để đảm bảo không có vùng bệnh xâm lấn nào. [Các phương pháp nhuộm miễn dịch mô học](https://dermnetnz.org/topics/immunohistochemistry-stains) , chẳng hạn như yếu tố phiên mã liên quan đến bệnh vi thể (MITF) và gen HMG-BOX 10 liên quan đến Sry (SOX10), có thể hỗ trợ chẩn đoán [4].
+- Ở vùng da bị tổn thương do ánh nắng mặt trời, có thể khó phân biệt các dạng lành tính của chứng tăng sản hắc tố không điển hình và viêm dạng liken với u hắc tố tại chỗ.
+- Hình thái có thể khác nhau giữa các phân nhóm của bệnh ung thư hắc tố.
+- Chẩn đoán ban đầu về bệnh ung thư hắc tố tại chỗ có thể được chuyển thành bệnh ung thư hắc tố xâm lấn khi đánh giá các phần sâu hơn của mẫu cắt bỏ hoàn toàn .
+
+---
+
+## Ung thư hắc tố tại chỗ được điều trị như thế nào?
+
+U hắc tố tại chỗ được điều trị bằng [sinh thiết cắt bỏ](https://dermnetnz.org/topics/excision-of-skin-lesions) . Một kỹ thuật bảo tồn mô đặc biệt có thể được sử dụng cho u hắc tố tại chỗ lớn, chẳng hạn như [phẫu thuật vi phẫu Mohs](https://dermnetnz.org/topics/mohs-micrographic-surgery) hoặc cắt bỏ lập bản đồ theo giai đoạn [2].
+Khi biên phẫu thuật hẹp, một thủ thuật phẫu thuật thứ hai được thực hiện, bao gồm một biên lâm sàng 5–10mm của da bình thường, để đảm bảo loại bỏ hoàn toàn khối u ác tính. Phương pháp này được gọi là cắt bỏ rộng tại chỗ.
+Các phương pháp điều trị không phẫu thuật có thể được cân nhắc trong một số trường hợp u hắc tố tại chỗ, khi phẫu thuật bị chống chỉ định , bao gồm [kem imiquimod](https://dermnetnz.org/topics/imiquimod) (không theo chỉ định), tiêm interferon-alpha nội tổn thương, [xạ trị](https://dermnetnz.org/topics/radiotherapy-for-malignant-skin-diseases) và [liệu pháp laser](https://dermnetnz.org/topics/lasers-in-dermatology) . Tỷ lệ tái phát cao ở các phương pháp điều trị bậc hai này.
+
+---
+
+## Việc theo dõi bệnh ung thư hắc tố tại chỗ là gì?
+
+Hầu hết bệnh nhân mắc u hắc tố tại chỗ sẽ được khuyên nên tái khám với bác sĩ chuyên khoa hoặc bác sĩ đa khoa. Trọng tâm chính sẽ là khám da toàn thân, vì bệnh nhân mắc u hắc tố tại chỗ có nguy cơ mắc thêm u hắc tố nguyên phát tại chỗ hoặc u hắc tố xâm lấn cao gấp tám lần so với những người không mắc u hắc tố tại chỗ.
+
+---
+
+## Kết quả của bệnh ung thư hắc tố tại chỗ là gì?
+
+Bệnh nhân mắc u hắc tố tại chỗ có tuổi thọ tương đương với dân số nói chung. Các vấn đề khác hiếm gặp hơn do u hắc tố tại chỗ vì các tế bào ác tính bên trong lớp biểu bì không có khả năng di căn . Tuy nhiên, một ổ bệnh xâm lấn nhỏ có thể đã bị bỏ sót do không thể đánh giá toàn bộ các phần của tổn thương da lớn .
+Ung thư hắc tố tại chỗ đôi khi tái phát ở cùng một vị trí, đòi hỏi phải phẫu thuật thêm.
+Việc quản lý ung thư hắc tố đang có nhiều tiến triển. Để biết các khuyến nghị mới nhất, hãy tham khảo [Hướng dẫn thực hành lâm sàng về chẩn đoán và quản lý ung thư hắc tố của Hội đồng Ung thư Úc](https://translate.google.com/website) .

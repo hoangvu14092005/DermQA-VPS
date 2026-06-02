@@ -1,0 +1,55 @@
+# Purpura — thông tin bổ sung
+
+Thể loại:
+
+Điều trị, Các vấn đề về mạch máu
+
+SNOMED CT:
+
+423902002, 38778001, 284078000, 12393003, 423716004, 77643000, 724854007, 402654005, 402653004, 53312001, 20343006
+
+**[Điều trị, Các vấn đề về mạch máu](https://dermnetnz.org/topics/topics?category=Treatments)**
+
+
+# **ban xuất huyết**
+
+Tác giả: Vanessa Ngan, Cán bộ viết, 2005. Được cập nhật bởi Hon A/GS Amanda Oakley, tháng 11 năm 2015.
+
+---
+
+## Ban xuất huyết là gì?
+
+Ban xuất huyết là tên gọi của tình trạng da hoặc niêm mạc bị đổi màu do xuất huyết từ các mạch máu nhỏ.
+- Đốm xuất huyết là những tổn thương nhỏ, có màu đỏ tía , rộng tới 2mm
+- Vết bầm tím hoặc vết bầm tím là những vết máu thoát ra ngoài mạch máu lớn hơn.
+- Ban xuất huyết sờ thấy được là ban xuất huyết có thể cảm nhận được do tình trạng viêm mạch máu ( [viêm mạch](https://dermnetnz.org/topics/cutaneous-vasculitis) )
+- Xuất huyết sắc tố là dấu hiệu của xuất huyết dạng xuất huyết liên quan đến [viêm mao mạch](https://dermnetnz.org/topics/capillaritis)
+Máu thoát mạch thường bị vỡ và đổi màu trong vài tuần, từ tím, cam, nâu và thậm chí là xanh lam và xanh lục.
+
+---
+
+## Phân loại ban xuất huyết
+
+Có nhiều loại ban xuất huyết khác nhau. Việc phân loại phụ thuộc vào hình thái hoặc nguyên nhân gây bệnh.
+Rối loạn tiểu cầu Bệnh xuất huyết giảm tiểu cầu—do phá hủy tiểu cầu Xuất huyết giảm tiểu cầu nguyên phát ( vô căn ) do nguyên nhân tự miễn hoặc không rõ nguyên nhân Xuất huyết giảm tiểu cầu thứ phát do các yếu tố bên ngoài hoặc bên trong như thuốc, nhiễm trùng , bệnh toàn thân Các rối loạn đông máu khác Đông máu nội mạch lan tỏa – hình ảnh lâm sàng thay đổi từ một rối loạn nghiêm trọng và gây tử vong nhanh chóng ( [ban xuất huyết](https://dermnetnz.org/topics/purpura-fulminans) ) đến một rối loạn tương đối nhẹ [Giảm tiểu cầu do heparin](https://dermnetnz.org/topics/heparin-induced-thrombocytopenia) – ban xuất huyết và hoại tử do kháng thể chống tiểu cầu gây ra các nút tiểu cầu làm tắc nghẽn mạch máu [Hoại tử do warfarin gây ra](https://dermnetnz.org/topics/warfarin-induced-skin-necrosis) – ban xuất huyết và hoại tử do cục máu đông liên quan đến tình trạng thiếu hụt protein C tương đối ở giai đoạn đầu điều trị Rối loạn mạch máu Xuất huyết không do giảm tiểu cầu—rò rỉ máu qua thành mạch Tổn thương các mạch máu nhỏ Tăng áp lực trong lòng mạch Thiếu hụt hỗ trợ mạch máu, như ở da bị lão hóa hoặc bị tổn thương do ánh nắng mặt trời ( [ban xuất huyết ở người già](https://dermnetnz.org/topics/senile-purpura) )
+
+---
+
+## Dấu hiệu và triệu chứng của bệnh xuất huyết là gì?
+
+Các dấu hiệu và triệu chứng của ban xuất huyết khác nhau tùy theo loại ban xuất huyết. Có thể khái quát chung như sau.
+- Xuất huyết điểm thường xuất hiện trong bệnh xuất huyết giảm tiểu cầu. Có thể có một số chảy máu bên ngoài và bầm tím.
+- Các khiếm khuyết về đông máu thường biểu hiện dưới dạng các vết bầm tím lớn và chảy máu ngoài. Không có xuất huyết dưới da.
+- Viêm mạch máu ( [viêm mạch](https://dermnetnz.org/topics/cutaneous-vasculitis) ) gây ra ban xuất huyết dai dẳng và khu trú với thành phần viêm đỏ . Có thể sờ thấy được. Bầm tím và chảy máu ngoài không phổ biến.
+![Hút vết bầm tím](https://dermnetnz.org/assets/Uploads/vascular/s/purpura1.jpg)
+![Chấn thương](https://dermnetnz.org/assets/Uploads/vascular/s/purpura2.jpg)
+![Ứ trệ tĩnh mạch](https://dermnetnz.org/assets/Uploads/vascular/s/purpura3.jpg)
+![Viêm mạch](https://dermnetnz.org/assets/Uploads/vascular/s/purpura4.jpg)
+![Ban xuất huyết steroid](https://dermnetnz.org/assets/Uploads/vascular/s/purpura5.jpg)
+![Đông máu rải rác nội mạch](https://dermnetnz.org/assets/Uploads/vascular/s/purpura6.jpg)
+
+---
+
+## Phương pháp điều trị bệnh xuất huyết dưới da là gì?
+
+Nguyên nhân cơ bản của bệnh xuất huyết dưới da cần được xác định và điều trị phù hợp.

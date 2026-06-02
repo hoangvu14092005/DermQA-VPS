@@ -1,0 +1,120 @@
+# Ly thượng bì bọng nước mắc phải — thông tin bổ sung
+
+Thể loại:
+
+Tự miễn/tự viêm
+
+SNOMED CT:
+
+2772003, 403632002, 402450009, 402447006, 402448001, 402449009, 402451008
+
+**[Tự miễn/tự viêm](https://dermnetnz.org/topics/topics?category=Autoimmune/autoinflammatory)**
+
+
+# **Ly thượng bì bọng nước mắc phải**
+
+Tác giả: Vanessa Ngan, Biên tập viên (2003); được cập nhật bởi Tiến sĩ Ian Coulson, Bác sĩ da liễu, Vương quốc Anh (2024).Được biên tập bởi bộ phận nội dung DermNet.
+
+---
+
+## Ly thượng bì bọng nước là gì?
+
+[Bệnh bong biểu bì bóng nước](https://dermnetnz.org/topics/epidermolysis-bullosa) (EB) là tên gọi của một nhóm bệnh phồng rộp di truyền xuất hiện từ khi sinh ra.
+
+---
+
+## Ly thượng bì bóng nước mắc phải là gì?
+
+Bệnh ly thượng bì bóng nước mắc phải (EBA) là một [bệnh tự miễn hiếm gặp](https://dermnetnz.org/topics/autoimmune-diseases-in-dermatology) , trong đó các mụn nước dưới biểu mô căng xuất hiện tại vị trí chấn thương. Không giống như EB, EBA không di truyền và thường xuất hiện ở tuổi trưởng thành.
+Mụn nước EBA thường khu trú ở những vùng dễ bị tổn thương như tay, chân, đầu gối, khuỷu tay và mông. Đôi khi có tổn thương niêm mạc với mụn nước hình thành ở miệng, mũi và mắt.
+![Ly thượng bì bọng nước mắc phải](https://dermnetnz.org/assets/Uploads/immune/eba1.jpg)
+![Ly thượng bì bọng nước mắc phải](https://dermnetnz.org/assets/Uploads/immune/s/eba3.jpg)
+![Ly thượng bì bọng nước mắc phải](https://dermnetnz.org/assets/Uploads/immune/s/eba4.jpg)
+![Ly thượng bì bọng nước mắc phải](https://dermnetnz.org/assets/Uploads/immune/eba2.jpg)
+![Ly thượng bì bọng nước mắc phải](https://dermnetnz.org/assets/Uploads/immune/eba-hand.jpg)
+![Ly thượng bì bọng nước mắc phải](https://dermnetnz.org/assets/Uploads/immune/eba-feet.jpg)
+[Xem thêm hình ảnh bệnh ly thượng bì bọng nước acquisita](https://dermnetnz-org.translate.goog/images/epidermolysis-bullosa-acquisita-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+
+---
+
+## Ai mắc bệnh ly thượng bì bọng nước mắc phải và tại sao?
+
+EBA thường xảy ra ở thập kỷ thứ tư và thứ năm của cuộc đời. Cả nam và nữ thuộc mọi chủng tộc đều có thể bị ảnh hưởng. Tỷ lệ mắc bệnh ước tính từ 0,08 đến 0,5 ca trên một triệu người; 5% số ca được báo cáo ở trẻ em, với các ca được báo cáo từ 2 tuần tuổi. Hầu hết các trường hợp xuất hiện ở độ tuổi từ 50 đến 70. Một trường hợp sơ sinh đã được báo cáo do kháng thể truyền qua nhau thai.
+Một số bệnh nhân mắc EBA được báo cáo mắc các bệnh tự miễn khác , thường gặp nhất là [bệnh Crohn](https://dermnetnz.org/topics/crohn-skin-disease) , [viêm khớp dạng thấp](https://dermnetnz.org/topics/rheumatoid-arthritis-and-the-skin) , viêm tuyến giáp và [lupus ban đỏ hệ thống](https://dermnetnz.org/topics/systemic-lupus-erythematosus) , hoặc các vấn đề sức khỏe như [bệnh lắng đọng tinh bột](https://dermnetnz.org/topics/cutaneous-amyloidosis) , đa u tủy và hiếm khi là ung thư phổi và u lympho. Những bệnh nhân khác chỉ gặp vấn đề về da.
+
+---
+
+## Nguyên nhân gây ra bệnh ly thượng bì bọng nước mắc phải là gì?
+
+Các nhà nghiên cứu đã phát hiện kháng thể tự miễn dịch immunoglobulin (Ig)-G liên kết mô nhắm vào vùng NC1 của collagen loại VII (Col7) ở những bệnh nhân bị ảnh hưởng. Collagen loại VII là thành phần cấu trúc chính của các sợi neo. Chúng gắn màng đáy của biểu bì với lớp hạ bì bên dưới. Việc mất các sợi neo dẫn đến hình thành các mụn nước ngay dưới biểu bì trong một vùng được gọi là lớp màng đặc.
+
+---
+
+## Đặc điểm lâm sàng của bệnh ly thượng bì bọng nước mắc phải là gì?
+
+EBA có nhiều biểu hiện lâm sàng khác nhau.
+Phân loại EBA Đặc điểm lâm sàng Dạng cơ học cổ điển của EBA Đây là hình thức EBA phổ biến nhất ở người Châu Âu Các mụn nước và bọng nước căng chủ yếu ở bề mặt duỗi của bàn tay, đầu gối, đốt ngón tay, khuỷu tay và mắt cá chân Các mụn nước niêm mạc dễ vỡ Các tổn thương lành lại sẽ để lại sẹo đáng kể và [mụn thịt](https://dermnetnz.org/topics/milium) (các đốm trắng nhỏ) Giống như dạng di truyền của bệnh ly thượng bì bóng nước loạn dưỡng Dạng EBA không cổ điển/không cơ học ( EBA gây viêm ) Các túi và bọng nước căng lan rộng không tập trung ở các vị trí dễ bị chấn thương Thường ảnh hưởng đến thân và nếp gấp da Đỏ da , ngứa và hình thành mảng bám Chữa lành với sẹo tối thiểu và hình thành mụn thịt Giống như [pemphigoid bọng nước](https://dermnetnz.org/topics/bullous-pemphigoid) Dạng chủ yếu của EBA ở niêm mạc Niêm mạc bị ảnh hưởng bao gồm niêm mạc má , nướu , vòm miệng, kết mạc, vòm họng , thực quản , hậu môn và bộ phận sinh dục Có thể dẫn đến sẹo niêm mạc đáng kể và rối loạn chức năng Giống như [bệnh pemphigoid niêm mạc](https://dermnetnz.org/topics/mucous-membrane-pemphigoid) EBA loại Brunsting-Perry Bệnh phồng rộp mãn tính tái phát Giới hạn ở đầu và cổ Giống như bệnh pemphigoid niêm mạc loại [Brunsting-Perry](https://dermnetnz.org/topics/brunsting-perry-cicatricial-pemphigoid) IgA- EBA Giống [bệnh viêm da bọng nước tuyến tính IgA](https://dermnetnz.org/topics/linear-iga-bullous-disease) Các lắng đọng IgA tuyến tính được tìm thấy ở vùng màng đáy Có xu hướng hung hăng với sẹo niêm mạc
+
+---
+
+## Bệnh ly thượng bì bóng nước được chẩn đoán như thế nào?
+
+Các xét nghiệm sau đây cần được thực hiện để chẩn đoán EBA.
+- [Sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) — cho thấy sự hiện diện của mụn nước dưới lớp biểu bì ( bọng nước dưới biểu bì ); thâm nhiễm các tế bào viêm hỗn hợp khác nhau ở lớp hạ bì; và u nang milia và sẹo ở các tổn thương cũ.
+- [Miễn dịch huỳnh quang trực tiếp (DIF) của](https://dermnetnz.org/topics/direct-immunofluorescence) sinh thiết da — hình ảnh này cho thấy sự lắng đọng của immunoglobulin ( IgG thường gặp hơn IgM hoặc IgA) và C3 theo một đường dọc theo đường nối hạ bì - biểu bì. Mạch máu không bị ảnh hưởng.
+- [Miễn dịch huỳnh quang gián tiếp](https://dermnetnz.org/topics/indirect-immunofluorescence) (IIF) của huyết thanh — phát hiện kháng thể tự miễn IgG lưu hành nồng độ thấp nhắm vào màng đáy. Trong thử nghiệm da phân tách muối, các chất phản ứng miễn dịch nằm ở đáy mụn nước.
+Các xét nghiệm khác để xác nhận chẩn đoán chỉ có sẵn ở một số trung tâm học thuật. Chúng bao gồm [2]:
+- Sinh thiết da để soi kính hiển vi điện tử miễn dịch trực tiếp và gián tiếp , phân tích kiểu răng cưa bằng DIF, lập bản đồ kháng nguyên phủ huỳnh quang và DIF trên da bị phân tách muối.
+- Kính hiển vi điện tử miễn dịch .
+- Xét nghiệm máu để phát hiện kháng thể lưu hành với Col7: phương pháp miễn dịch vết, xét nghiệm miễn dịch liên kết với enzyme (ELISA), IIF chi tiết hơn và kết tủa miễn dịch.
+- Xét nghiệm Western blot.
+Nhóm Bệnh bọng nước Quốc tế (IBDG) đã đề xuất các tiêu chuẩn lâm sàng và chẩn đoán thống nhất cho EBA [1,2]. Nếu bệnh bọng nước tương thích về mặt lâm sàng và mô học với EBA, chẩn đoán được xác nhận nếu:
+- Sự lắng đọng IgG và/hoặc C3 tuyến tính dọc theo vùng màng đáy được chứng minh bằng phương pháp miễn dịch huỳnh quang trực tiếp (DIF) và,
+- Kháng thể tự miễn chống lại COL7 được phát hiện trong huyết thanh của bệnh nhân (thông qua xét nghiệm miễn dịch liên kết với enzyme).
+
+---
+
+## Chẩn đoán phân biệt bệnh ly thượng bì bóng nước mắc phải là gì?
+
+EBA có thể bắt chước các bệnh phồng rộp viêm khác, thường gặp nhất là [pemphigoid bóng nước](https://dermnetnz.org/topics/bullous-pemphigoid) , [bệnh IgA tuyến tính](https://dermnetnz.org/topics/linear-iga-bullous-disease) , [pemphigoid niêm mạc](https://dermnetnz.org/topics/mucous-membrane-pemphigoid) và [lupus ban đỏ hệ thống](https://dermnetnz.org/topics/systemic-lupus-erythematosus) bóng nước (cũng liên quan đến kháng thể tự miễn anti-Col7).
+Loại mụn nước cơ học không viêm có thể giống với bệnh porphyria da muộn.
+So với bệnh pemphigoid bóng nước, EBA [2]:
+- Xảy ra ở những người trẻ tuổi, thường dưới 70 tuổi
+- Có sự tham gia nổi bật của đầu và cổ
+- Bao gồm niêm mạc
+- Các tổn thương lành lại bằng cách để lại sẹo và hình thành mụn thịt
+- Có thể xảy ra ở vị trí chấn thương cơ học.
+
+---
+
+## Phương pháp điều trị bệnh bong biểu bì bọng nước mắc phải là gì?
+
+Mục tiêu chính trong điều trị EBA là bảo vệ da và ngăn ngừa hình thành mụn nước, thúc đẩy quá trình chữa lành và ngăn ngừa biến chứng.
+Vì EBA được coi là một bệnh tự miễn, nên việc sử dụng các thuốc ức chế miễn dịch để điều chỉnh hoặc giảm phản ứng tự miễn và giảm sản xuất tự kháng thể là hợp lý. Các thuốc này có thể bao gồm:
+- [Azathioprine](https://dermnetnz.org/topics/azathioprine-and-mercaptopurine)
+- [Dapsone](https://dermnetnz.org/topics/dapsone)
+- [Colchicin](https://dermnetnz.org/topics/colchicine)
+- [Corticosteroid](https://dermnetnz.org/topics/systemic-steroids)
+- [Mycophenolate mofetil](https://dermnetnz.org/topics/mycophenolate-mofetil)
+- [Vàng](https://dermnetnz.org/topics/gold)
+- [Methotrexate](https://dermnetnz.org/topics/methotrexate)
+- [Cyclophosphamide](https://dermnetnz.org/topics/cyclophosphamide)
+- [Globulin miễn dịch tiêm tĩnh mạch](https://dermnetnz.org/topics/intravenous-immunoglobulin)
+- [Rituximab](https://dermnetnz.org/topics/rituximab) .
+Do căn bệnh này hiếm gặp nên rất khó để chắc chắn loại thuốc nào có hiệu quả nhất.
+Các chiến lược quản lý quan trọng khác bao gồm:
+- Điều trị bất kỳ bệnh lý tiềm ẩn nào.
+- Tham khảo ý kiến ​​của các chuyên gia khác như nha sĩ và bác sĩ nhãn khoa.
+- Tránh gây chấn thương vật lý trực tiếp lên bề mặt da.
+- Tránh ăn thức ăn cứng, giòn hoặc có hàm lượng axit cao ở những bệnh nhân bị tổn thương miệng.
+
+---
+
+## Tiên lượng thế nào?
+
+Viêm khớp dạng thấp (EBA) là một bệnh viêm mạn tính có giai đoạn thuyên giảm một phần và đợt cấp. Nếu được điều trị và chăm sóc đúng cách, bệnh nhân có thể sống một cuộc sống bình thường. Các vấn đề có thể phát sinh bao gồm:
+- Nhiễm trùng vết thương hở và vết loét
+- Sẹo nghiêm trọng có thể gây biến dạng , hạn chế vận động và hẹp thực quản
+- Bệnh nha chu
+- Sẹo kết mạc và mù lòa
+- Tác dụng phụ của thuốc.

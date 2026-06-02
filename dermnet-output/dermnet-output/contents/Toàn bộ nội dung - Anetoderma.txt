@@ -1,0 +1,69 @@
+# Anetoderma — thông tin bổ sung
+
+Thể loại:
+
+Tổn thương (lành tính)
+
+SNOMED CT:
+
+238828009
+
+**[Tổn thương (lành tính)](https://dermnetnz.org/topics/topics?category=Lesions+(benign))**
+
+
+# **Anetoderma**
+
+Tác giả: Tiến sĩ Delwyn Dyall-Smith FACD, Bác sĩ da liễu, Úc, 2011.
+
+---
+
+## Anetoderma là gì?
+
+Anetoderma là một tình trạng hiếm gặp, trong đó mô đàn hồi ở lớp hạ bì bị mất, dẫn đến da bị lõm. Tình trạng này còn được gọi là teo điểm vàng .
+
+---
+
+## Ai bị bệnh Anetoderma và tại sao?
+
+Bệnh Anetoderma thường ảnh hưởng đến phụ nữ nhiều hơn nam giới, và độ tuổi thường gặp là 15–25. Tỷ lệ mắc bệnh có thể tăng lên ở trẻ sinh non, đặc biệt là trẻ sinh non nhẹ cân, và các tổn thương có thể phát triển ở những nơi có gắn các chất kết dính như dây dẫn theo dõi.
+Bệnh Anetoderma có vẻ như phổ biến nhất ở Trung Âu.
+Có một số trường hợp hiếm gặp bệnh anetoderma ảnh hưởng đến các thành viên trong gia đình, bao gồm cả cặp song sinh cùng trứng.
+Có hai dạng dị ứng da không điển hình - nguyên phát và thứ phát. Nguyên nhân gây ra dạng nguyên phát vẫn chưa được biết rõ.
+Viêm da cơ địa thứ phát xảy ra ở vị trí của các bệnh lý da không liên quan khác bao gồm:
+- Nhiễm trùng — [thủy đậu](https://dermnetnz.org/topics/chickenpox) , [giang mai](https://dermnetnz.org/topics/syphilis)
+- Khối u — [pilomatrixoma](https://dermnetnz.org/topics/pilomatricoma) , [plasmacytoma](https://dermnetnz.org/topics/plasmacytoma) , schwannoma, [u lympho tế bào B ở da](https://dermnetnz.org/topics/cutaneous-b-cell-lymphoma) , [u hạt vàng ở trẻ em](https://dermnetnz.org/topics/juvenile-xanthogranuloma)
+- [U máu ở trẻ sơ sinh](https://dermnetnz.org/topics/infantile-haemangioma-definition-and-pathogenesis)
+- Tình trạng viêm da – [mụn trứng cá](https://dermnetnz.org/topics/acne-and-other-follicular-disorders) , [u hạt hình khuyên](https://dermnetnz.org/topics/granuloma-annulare) , [lupus profundus](https://dermnetnz.org/topics/cutaneous-lupus-erythematosus)
+Cả hai dạng bệnh da liễu đều có thể liên quan đến các bệnh toàn thân bao gồm:
+- Nhiễm trùng – [Bệnh Lyme](https://dermnetnz.org/topics/lyme-disease) (Borrelia), [bệnh phong](https://dermnetnz.org/topics/leprosy) , [nhiễm HIV](https://dermnetnz.org/topics/skin-conditions-relating-to-hiv-infection)
+- Các tình trạng viêm/ tự miễn – [bệnh lupus ban đỏ hệ thống](https://dermnetnz.org/topics/systemic-lupus-erythematosus) (SLE), [bệnh Graves](https://dermnetnz.org/topics/skin-problems-associated-with-thyroid-disease) , [bệnh Addison](https://dermnetnz.org/topics/addison-disease) , [hội chứng Sjögren](https://dermnetnz.org/topics/sjoegren-syndrome) ,
+- Thuốc – penicillamine
+Có vẻ như có mối liên hệ đặc biệt với sự hiện diện của kháng thể kháng phospholipid , thường không có các đặc điểm khác cần thiết để chẩn đoán [hội chứng kháng phospholipid](https://dermnetnz.org/topics/antiphospholipid-syndrome) .
+Phân loại cũ về các loại Schweninger-Buzzi và Jadassohn-Pellizari, không viêm so với viêm, không còn được coi là hữu ích vì cả hai loại tổn thương đều có thể được nhìn thấy ở cùng một bệnh nhân và nhiều tổn thương không viêm trên lâm sàng cho thấy tình trạng viêm trên mô học. Phân loại này không dự đoán được tiên lượng và do đó không còn được sử dụng nữa.
+Có nhiều giả thuyết được đưa ra để mô tả cơ chế phát triển của bệnh anetoderma, nhưng hiện tại vẫn chưa có lời giải thích rõ ràng.
+
+---
+
+## Đặc điểm lâm sàng của bệnh anetoderma
+
+Biểu hiện lâm sàng điển hình của bệnh anetoderma là nhiều tổn thương tròn , rõ ràng, kích thước 1–2 cm, có da nhăn nheo phủ lên vết lõm có thể sờ thấy được , được gọi là dấu hiệu lỗ khuy áo.
+Các tổn thương có thể phẳng, nổi lên hoặc lõm xuống, có màu da hoặc trắng xanh.
+Tổn thương Anetoderma thường gặp nhất ở ngực, lưng, cổ và cánh tay, nhưng bất kỳ vị trí nào cũng có thể bị ảnh hưởng. Chúng không liên quan đến nang lông .
+![Không có caption](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/s/anetoderma01.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/s/anetoderma02.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/anetoderma03.jpg)
+![Sẹo thủy đậu](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/s/chickenpox-scars.jpg)
+![Bệnh lupus ban đỏ](https://dermnetnz.org/assets/Uploads/immune/lupus-profundus.jpg)
+
+---
+
+## Bệnh da liễu được chẩn đoán như thế nào?
+
+Anetoderma cần được xem xét lâm sàng để bác sĩ giải phẫu bệnh biết cách nhuộm đặc biệt trên mẫu [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) . Điều này là cần thiết để chứng minh sự mất các sợi đàn hồi ở lớp trung bì trên và giữa bì. Trên các mẫu nhuộm thông thường, da trông tương đối bình thường, có thể có một số dấu hiệu viêm.
+Một số tác giả đề xuất thực hiện xét nghiệm máu để kiểm tra huyết thanh Borrelia khi cần thiết và để kiểm tra các tình trạng tự miễn dịch bao gồm kháng thể kháng phospholipid (thuốc chống đông lupus và kháng cardiolipin).
+
+---
+
+## Phương pháp điều trị bệnh viêm da dị ứng là gì?
+
+Không có phương pháp điều trị thành công nào có thể đảo ngược các tổn thương đã hình thành của bệnh da liễu. Có thể cắt bỏ các tổn thương riêng lẻ. Khi đã chẩn đoán được bệnh lý nền, việc điều trị thành công có thể ngăn ngừa sự hình thành các tổn thương tiếp theo.

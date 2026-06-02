@@ -1,0 +1,111 @@
+# Bệnh lý đa trung tâm của bệnh lý võng mạc mô bào — thông tin bổ sung
+
+Thể loại:
+
+Tổn thương (lành tính), Di truyền
+
+SNOMED CT:
+
+84241008, 402883006, 49783001, 60401004
+
+**[Tổn thương (lành tính), Di truyền](https://dermnetnz.org/topics/topics?category=Lesions+(benign))**
+
+
+# **Reticulohistiocytosis đa trung tâm**
+
+Tác giả: Tiến sĩ Lauren Thomas, RMO, Bệnh viện Hoàng gia Darwin, Darwin, NT, Úc. Tổng biên tập DermNet: Phó Giáo sư Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand. Biên tập bởi Gus Mitchell. Tháng 10 năm 2019.
+
+---
+
+## Reticulohistiocytosis đa trung tâm là gì?
+
+Bệnh lý tăng sinh tế bào lưới đa trung tâm là một dạng bệnh lý khớp đa hệ thống rất hiếm gặp [.](https://dermnetnz.org/topics/reticulohistiocytosis) Bệnh lý tăng sinh tế bào lưới là một loại bệnh lý tăng sinh [tế bào lưới không phải tế bào Langerhans](https://dermnetnz.org/topics/non-langerhans-cell-histiocytosis) . Bệnh lý tăng sinh tế bào lưới đa trung tâm được đặc trưng bởi các tổn thương da và niêm mạc , và viêm khớp [1]. [](https://dermnetnz.org/topics/reticulohistiocytosis) [](https://dermnetnz.org/topics/non-langerhans-cell-histiocytosis)
+Bệnh lý lưới mô bào đa trung tâm được gọi là viêm da khớp dạng mỡ , thấp khớp dạng mỡ và lưới mô bào tế bào khổng lồ .
+![Bệnh mô bào đa trung tâm](https://dermnetnz.org/assets/Uploads/multicentric-histiocytosis-007.jpg)
+![Bệnh mô bào đa trung tâm](https://dermnetnz.org/assets/Uploads/multicentric-histiocytosis-006.jpg)
+![Bệnh mô bào đa trung tâm](https://dermnetnz.org/assets/Uploads/multicentric-histiocytosis-005.jpg)
+![Bệnh mô bào đa trung tâm](https://dermnetnz.org/assets/Uploads/multicentric-histiocytosis-003.jpg)
+![Bệnh mô bào đa trung tâm](https://dermnetnz.org/assets/Uploads/multicentric-histiocytosis-002.jpg)
+![Bệnh mô bào đa trung tâm](https://dermnetnz.org/assets/Uploads/multicentric-histiocytosis-001.jpg)
+
+---
+
+## Ai mắc bệnh reticulohistiocytosis đa trung tâm?
+
+Bệnh lý võng mạc đa trung tâm phổ biến hơn ở phụ nữ so với nam giới, với tỷ lệ 3:1 [1]. Độ tuổi trung bình của những người bị bệnh võng mạc đa trung tâm là 47 tuổi (độ tuổi từ 8-74) [5].
+Trong khoảng 1 trong 4 trường hợp, bệnh lý tăng sinh tế bào lưới đa trung tâm có liên quan đến bệnh ác tính bên trong [1]. Các bệnh ác tính phổ biến nhất liên quan đến bệnh lý tăng sinh tế bào lưới đa trung tâm là ung thư biểu mô phổi, dạ dày, vú, cổ tử cung , đại tràng và buồng trứng.
+
+---
+
+## Nguyên nhân nào gây ra bệnh lý lưới mô bào đa trung tâm?
+
+Nguyên nhân của bệnh lý tăng sinh tế bào lưới đa trung tâm vẫn chưa được biết rõ. Các bất thường về phân tử đã được báo cáo trong các con đường MAP2K1, TT2 và các con đường khác [5]. Liệu bệnh lý tăng sinh tế bào lưới đa trung tâm có phải là một rối loạn cận ung thư thực sự hay không vẫn còn gây tranh cãi.
+- Chưa có loại ung thư nhất quán nào liên quan đến bệnh lý lưới mô bào đa trung tâm.
+- Vì bệnh lý lưới mô bào đa trung tâm rất hiếm gặp nên mối liên quan với bệnh ung thư có thể chỉ là ngẫu nhiên.
+- Chưa xác định được mối tương quan giữa việc loại bỏ ung thư và sự biến mất hoặc cải thiện tình trạng tăng sinh lưới mô bào đa trung tâm.
+Bệnh lý lưới mô bào đa trung tâm cũng liên quan đến:
+- [Viêm mạch](https://dermnetnz.org/topics/cutaneous-vasculitis)
+- Các bệnh tự miễn bao gồm [hội chứng Sjögren](https://dermnetnz.org/topics/sjoegren-syndrome) và xơ gan mật nguyên phát [3]
+- Tăng lipid máu.
+
+---
+
+## Các đặc điểm lâm sàng của bệnh lý lưới mô bào đa trung tâm là gì?
+
+Bệnh lý tăng sinh tế bào lưới đa trung tâm gây ra các sẩn , nốt sần và viêm khớp nặng, phá hủy nhanh chóng. Bệnh có thể ảnh hưởng đến xương, gân, cơ, khớp và các cơ quan đơn độc (ví dụ: tuyến giáp, mắt, phổi, thận và gan) [1].
+- Ở một nửa số bệnh nhân, dấu hiệu đầu tiên của bệnh là viêm khớp.
+- Ở một phần tư, sẩn và nốt sần là dấu hiệu đầu tiên.
+- Phần còn lại phát triển các biểu hiện ở da và khớp cùng lúc.
+
+### Viêm khớp
+Viêm khớp thường gặp nhất ở ngón tay, bàn tay, đầu gối và vai, nhưng bất kỳ khớp nào cũng có thể bị ảnh hưởng. Đây là một bệnh viêm khớp tiến triển đối xứng , có thể kèm theo cứng khớp và sưng khớp. Các triệu chứng của viêm khớp có thể tăng giảm, nhưng cũng có thể nhanh chóng trở nên nghiêm trọng và dẫn đến phá hủy và biến dạng khớp ở khoảng 45% bệnh nhân. Điều quan trọng là tình trạng này có thể không có triệu chứng tại thời điểm phát hiện bệnh, do đó cần được phát hiện trên phim chụp X-quang.
+
+### Đặc điểm da
+Tổn thương da do bệnh lý lưới mô bào đa trung tâm thường xảy ra ở nửa trên cơ thể, đặc biệt là mặt, tai, bề mặt niêm mạc (môi, lưỡi, nướu, lỗ mũi, họng, mí mắt), bàn tay và cẳng tay.
+- Có các nốt sần và nốt sần màu vàng hoặc nâu đỏ có đường kính từ 1–2 mm đến vài cm.
+- Các tổn thương xuất hiện riêng lẻ hoặc thành từng cụm hoặc thành từng đám có hình dạng giống đá cuội.
+- Tổn thương niêm mạc xuất hiện ở khoảng 50% trường hợp.
+- Các tổn thương trên da có thể gây phá hủy sụn quanh tai và mũi.
+- Có thể xuất hiện nhiều cục u nhỏ xung quanh móng tay , được gọi là 'hạt san hô'.
+- Các tổn thương thường không có triệu chứng, nhưng một phần ba bệnh nhân phàn nàn về ngứa [2].
+Đã có báo cáo về việc soi da nhiều sẩn ở một bệnh nhân. Tất cả đều cho thấy "dấu hiệu mặt trời lặn" với màu vàng ở trung tâm và viền hồng cam. Hầu hết cũng có cấu trúc lưới màu nâu và ít gặp hơn là thấy sự thay đổi giống sẹo trắng ở trung tâm [6].
+Bệnh lý lưới mô bào đa trung tâm có thể kèm theo các triệu chứng toàn thân , bao gồm:
+- Giảm cân
+- Sốt
+- Sự khó chịu
+- Đau cơ
+- Khó nuốt
+- Bệnh hạch bạch huyết [2].
+
+---
+
+## Bệnh lý lưới mô bào đa trung tâm được chẩn đoán như thế nào?
+
+Bệnh hồng cầu lưới được chẩn đoán dựa trên đặc điểm mô học của [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) , cho thấy:
+- Nhiều tế bào khổng lồ đa nhân
+- Các tế bào mô với tế bào chất ưa eosin và hình dạng kính mờ [1]
+- Nhuộm miễn dịch mô học dương tính đối với các tế bào mô có nguồn gốc từ tế bào đơn nhân - đại thực bào và nhiều cytokine , bao gồm cả yếu tố hoại tử khối u -alpha ( TNF -α).
+Chẩn đoán cụ thể bệnh lý lưới mô bào đa trung tâm được đưa ra khi chụp X-quang cho thấy tình trạng viêm khớp xói mòn điển hình , đặc biệt là ở bàn tay.
+Các tế bào mô và tế bào khổng lồ đa nhân cũng có thể được tìm thấy trong các khớp và đôi khi trong các cơ quan nội tạng.
+Xét nghiệm máu không phải là chẩn đoán; chúng có thể bao gồm các xét nghiệm huyết học thường quy , xét nghiệm lipid máu , xét nghiệm tuyến giáp, protein C phản ứng ( CRP ) và yếu tố dạng thấp. Hầu hết bệnh nhân mắc bệnh tăng sinh lưới mô bào đa trung tâm đều bị thiếu máu nhẹ; 30–60% bệnh nhân bị tăng lipid máu và tốc độ lắng hồng cầu ( ESR )/ protein C phản ứng (CRP) tăng cao [2,3].
+[Xét nghiệm da tuberculin](https://dermnetnz.org/topics/tuberculosis-screening) dương tính được tìm thấy ở 12–50% bệnh nhân mắc bệnh tăng sinh lưới mô bào đa trung tâm và phổ biến hơn ở những nơi bệnh lao lưu hành [3].
+Sau khi chẩn đoán bệnh lý đa trung tâm do reticulohistiocytosis, cần tiến hành khai thác tiền sử bệnh và khám sức khỏe tổng quát cùng với các xét nghiệm sàng lọc ác tính phù hợp với độ tuổi, bao gồm chụp X-quang ngực và siêu âm bụng/khung chậu [1].
+
+---
+
+## Phương pháp điều trị bệnh tăng sinh lưới mô bào đa trung tâm là gì?
+
+Không có phương pháp điều trị đặc hiệu hoặc chữa khỏi bệnh lý đa trung tâm do bệnh lý hồng cầu lưới. Các phương pháp sau đây đã được báo cáo là có hiệu quả:
+- [Methotrexate](https://dermnetnz.org/topics/methotrexate)
+- Các liệu trình ngắn ngày dùng [corticosteroid toàn thân](https://dermnetnz.org/topics/systemic-steroids) (prednisolone/prednisone đường uống)
+- [Ciclosporin](https://dermnetnz.org/topics/ciclosporin)
+- [Azathioprine](https://dermnetnz.org/topics/azathioprine-and-mercaptopurine)
+- [Cyclophosphamide](https://dermnetnz.org/topics/cyclophosphamide)
+- [Leflunomide](https://dermnetnz.org/topics/leflunomide)
+- [Etanercept](https://dermnetnz.org/topics/etanercept-for-psoriasis) [4].
+
+---
+
+## Kết quả của bệnh lý lưới mô bào đa trung tâm là gì?
+
+Ở nhiều bệnh nhân, tình trạng tăng hồng cầu lưới đa trung tâm có thể thuyên giảm sau một liệu trình trung bình 8 năm; tuy nhiên, đến thời điểm này, tình trạng hủy hoại khớp đáng kể có thể đã xảy ra. Viêm khớp hoại tử có thể phát triển ở 50% trường hợp [2]. Bệnh nhân bị liệt, biến dạng khớp và khuôn mặt biến dạng.

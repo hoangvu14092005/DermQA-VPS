@@ -1,0 +1,133 @@
+# Chàm tổ đỉa (pompholyx) — thông tin bổ sung
+
+Thể loại:
+
+Bệnh chàm
+
+SNOMED CT:
+
+201201000, 23856007, 402222007, 123698008, 402216003, 402218002, 784292007, 238561006
+
+**[Bệnh chàm](https://dermnetnz.org/topics/topics?category=Eczemas)**
+
+
+# **Bệnh chàm tổ đỉa (pompholyx)**
+
+Tháng 2 năm 2023Tác giả: Maitreyi Aria Jain (Sinh viên Y khoa) và Phó Giáo sư Danh dự Paul Jarrett (Bác sĩ Da liễu),Bệnh viện Middlemore và Khoa Y, Đại học Auckland, New Zealand (2023)Bác sĩ da liễu đánh giá: Tiến sĩ Ian CoulsonĐược biên tập bởi bộ phận nội dung DermNet
+
+---
+
+## Bệnh chàm tổ đỉa là gì?
+
+[Chàm](https://dermnetnz.org/topics/atopic-dermatitis) tổ đỉa (pompholyx) là một dạng phát ban ngứa, mạn tính , tái phát , thường đối xứng ở lòng bàn tay, ngón tay và lòng bàn chân. Bệnh đặc trưng bởi các mụn nước nhỏ, nằm sâu, kích thước 1–2 mm, chứa đầy dịch tại các vị trí này, sẽ tự khỏi sau vài tuần và đóng vảy.
+Có nhiều tranh cãi xoay quanh thuật ngữ và định nghĩa chính xác nhưng những tên gọi khác cho tình trạng này bao gồm pompholyx, viêm da mụn nước cấp tính và tái phát ở tay , chàm lòng bàn tay và bàn chân cấp tính , chàm nội sinh mụn nước , cheiropompholyx (ảnh hưởng đến bàn tay), podopompholyx hoặc pedopompholyx (ảnh hưởng đến bàn chân) và cheiropodopompholyx.
+![Các mụn nước và mụn nước riêng biệt trên da lòng bàn tay](https://dermnetnz.org/assets/Uploads/dermatitis/pompholyx/3529.jpg)
+![Mụn nước và mụn nước trên ngón tay trong bệnh chàm mụn nước](https://dermnetnz.org/assets/Uploads/dermatitis/pompholyx/3519.jpg)
+![Sự phát triển rộng rãi của tiền đình và phồng rộp ở lòng bàn chân - bệnh chàm mụn nước thường có tính đối xứng](https://dermnetnz.org/assets/Uploads/dermatitis/pompholyx/3538.jpg)
+[Nhấp vào đây để xem thêm hình ảnh](https://dermnetnz-org.translate.goog/images/dyshidrotic-eczema-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+
+---
+
+## Ai mắc bệnh chàm tổ đỉa?
+
+Tỷ lệ mắc bệnh chàm tổ đỉa (pompholyx) chưa được biết rõ. Khoảng 20% ​​bệnh nhân được đánh giá tại phòng khám [xét nghiệm áp da](https://dermnetnz.org/topics/patch-tests) về [viêm da bàn tay](https://dermnetnz.org/topics/hand-dermatitis) bị chàm tổ đỉa (pompholyx). Tỷ lệ mắc bệnh dường như không tương quan với tuổi tác hoặc giới tính.
+
+---
+
+## Nguyên nhân nào gây ra bệnh chàm tổ đỉa?
+
+Nguyên nhân gây ra bệnh chàm tổ đỉa (pompholyx) vẫn chưa được biết rõ.
+Bệnh này không liên quan đến tình trạng tắc nghẽn tuyến mồ hôi như người ta vẫn nghĩ khi căn bệnh này mới được phát hiện cách đây hơn 100 năm, nhưng có một số yếu tố liên quan đến rối loạn này, bao gồm:
+- [Dị ứng](https://dermnetnz.org/topics/atopy) — bằng chứng còn chưa thống nhất khi một số báo cáo đây là một rủi ro và những người khác thì không.
+- [Viêm da tiếp xúc](https://dermnetnz.org/topics/contact-dermatitis) : [Viêm da tiếp xúc dị ứng](https://dermnetnz.org/topics/allergic-contact-dermatitis) với nhiều loại kháng nguyên bao gồm [niken](https://dermnetnz.org/topics/nickel-allergy) , [crom](https://dermnetnz.org/topics/chrome-allergy) và [coban](https://dermnetnz.org/topics/allergy-to-cobalt) [Viêm da tiếp xúc kích ứng](https://dermnetnz.org/topics/irritant-contact-dermatitis) có thể làm tình trạng bệnh trầm trọng hơn .
+- [Viêm da tiếp xúc dị ứng](https://dermnetnz.org/topics/allergic-contact-dermatitis) với nhiều loại kháng nguyên bao gồm [niken](https://dermnetnz.org/topics/nickel-allergy) , [crom](https://dermnetnz.org/topics/chrome-allergy) và [coban](https://dermnetnz.org/topics/allergy-to-cobalt)
+- [Viêm da tiếp xúc kích ứng](https://dermnetnz.org/topics/irritant-contact-dermatitis) có thể làm tình trạng bệnh trầm trọng hơn .
+- [Nhiễm nấm](https://dermnetnz.org/topics/fungal-skin-infections) — Bệnh nấm da chân có thể liên quan đến tình trạng phát ban giống như bệnh tổ đỉa
+- [Cảm ứng quang](https://dermnetnz.org/topics/phototherapy) — liên quan đến tiếp xúc với tia cực tím A
+- [Liệu pháp immunoglobulin](https://dermnetnz.org/topics/intravenous-immunoglobulin)
+- [Tăng tiết mồ hôi](https://dermnetnz.org/topics/hyperhidrosis) — đổ mồ hôi quá nhiều là một yếu tố làm trầm trọng thêm
+- Các yếu tố khác: Sự thay đổi theo mùa cũng có thể làm trầm trọng thêm sự tái phát [Hút thuốc](https://dermnetnz.org/topics/smoking-and-its-effects-on-the-skin) [Thuốc tránh thai uống](https://dermnetnz.org/topics/oral-contraceptive) Aspirin.
+- Sự thay đổi theo mùa cũng có thể làm trầm trọng thêm sự tái phát
+- [Hút thuốc](https://dermnetnz.org/topics/smoking-and-its-effects-on-the-skin)
+- [Thuốc tránh thai uống](https://dermnetnz.org/topics/oral-contraceptive)
+- Aspirin.
+
+---
+
+## Các đặc điểm lâm sàng của bệnh chàm tổ đỉa là gì?
+
+Chàm tổ đỉa (pompholyx) là một tình trạng mãn tính, tái phát và biểu hiện dưới dạng các mụn nước nhỏ, sâu, chứa đầy dịch (mụn nước) ở hai bên ngón tay, bàn tay và bàn chân.
+- Các mụn nước nhỏ (1–2mm), thường đối xứng, không kèm theo ban đỏ và không xuất hiện ở bất kỳ vị trí nào khác trên cơ thể. Các mụn nước có thể hợp nhất thành các mụn nước lớn hơn.
+- Nó [ngứa kinh](https://dermnetnz.org/topics/pruritus) khủng .
+- Các mụn nước thường tự khỏi sau 2–3 tuần bong tróc.
+[Các mụn nước cũng có thể xuất hiện ở các loại viêm da tay](https://dermnetnz.org/topics/hand-dermatitis) khác .
+[Nhấp vào đây để xem hình ảnh](https://dermnetnz-org.translate.goog/images/dyshidrotic-eczema-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+
+---
+
+## Các đặc điểm lâm sàng khác nhau như thế nào ở các loại da khác nhau?
+
+Bệnh chàm tổ đỉa (pompholyx) được mô tả là 'giống như bột sắn' ở [những loại da](https://dermnetnz.org/topics/skin-phototype) sẫm màu , nhấn mạnh độ tương phản màu sắc lớn hơn của các mụn nước so với da ít sắc tố .
+
+---
+
+## Biến chứng của bệnh chàm tổ đỉa là gì?
+
+Bệnh chàm tổ đỉa (pompholyx) có thể dẫn đến:
+- [Nhiễm trùng](https://dermnetnz.org/topics/skin-infections) thứ phát , ví dụ, nhiễm trùng do vi [khuẩn Staphylococcus aureus](https://dermnetnz.org/topics/staphylococcal-skin-infection) hoặc [Streptococcus pyogenes](https://dermnetnz.org/topics/streptococcal-skin-infections) gây viêm mạch bạch huyết và viêm mô tế bào [](https://dermnetnz.org/topics/staphylococcal-skin-infection) [](https://dermnetnz.org/topics/streptococcal-skin-infections)
+- [Viêm quanh móng](https://dermnetnz.org/topics/paronychia) và loạn dưỡng móng nếu nằm cạnh hoặc gần nếp gấp móng
+- Khuyết tật về thể chất và tinh thần; chi phí kinh tế tiềm ẩn do mất cơ hội việc làm.
+
+---
+
+## Bệnh chàm tổ đỉa được chẩn đoán như thế nào?
+
+Đây là chẩn đoán lâm sàng vì tiền sử và biểu hiện lâm sàng là điển hình khi loại trừ các nguyên nhân khác.
+- Tình trạng tổn thương một bên nghi ngờ là nhiễm nấm (ví dụ, [bệnh nấm da tay](https://dermnetnz.org/topics/tinea-manuum) hoặc [nấm da chân](https://dermnetnz.org/topics/tinea-pedis) ) và cần phải [cạo da để](https://dermnetnz.org/topics/laboratory-tests-for-fungal-infection) [xét nghiệm tìm nấm](https://dermnetnz.org/topics/mycology-of-dermatophyte-infections) .
+- [Kiểm tra miếng dán](https://dermnetnz.org/topics/patch-tests) có thể được cân nhắc trong các trường hợp mãn tính hoặc không điển hình khi nghi ngờ có nguyên nhân tiếp xúc gây dị ứng.
+- [Sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) hiếm khi cần thiết và có thể cho thấy bệnh chàm xốp .
+
+---
+
+## Chẩn đoán phân biệt bệnh chàm tổ đỉa là gì?
+
+Chẩn đoán phân biệt bao gồm các tình trạng da sau:
+- [Bệnh vẩy nến mủ lòng bàn tay và bàn chân](https://dermnetnz.org/topics/palmoplantar-pustulosis)
+- [Viêm da tiếp xúc](https://dermnetnz.org/topics/irritant-contact-dermatitis) ( [kích ứng](https://dermnetnz.org/topics/irritant-contact-dermatitis) hoặc [dị ứng](https://dermnetnz.org/topics/allergic-contact-dermatitis) )
+- Nấm da ( [tay](https://dermnetnz.org/topics/tinea-manuum) và [chân](https://dermnetnz.org/topics/tinea-pedis) )
+- [Bệnh ghẻ](https://dermnetnz.org/topics/scabies)
+- [Bọng nước dạng pemphigus](https://dermnetnz.org/topics/bullous-pemphigoid) .
+
+---
+
+## Phương pháp điều trị bệnh chàm tổ đỉa là gì?
+
+
+### Các biện pháp chung
+- Tránh các yếu tố làm trầm trọng thêm vấn đề nếu có thể.
+- [Ngâm thuốc tím](https://dermnetnz.org/topics/potassium-permanganate) có thể có tác dụng trong giai đoạn cấp tính.
+
+### Các biện pháp cụ thể
+- Điều trị tại chỗ : [steroid bôi ngoài da](https://dermnetnz.org/topics/topical-steroid) (thường là loại mạnh hoặc cực mạnh) [Pimecrolimus](https://dermnetnz.org/topics/pimecrolimus) và [tacrolimus](https://dermnetnz.org/topics/tacrolimus) [](https://dermnetnz.org/topics/bexarotene) Gel [Bexarotene](https://dermnetnz.org/topics/bexarotene) Sử dụng thường xuyên [các chất làm mềm và dưỡng ẩm](https://dermnetnz.org/topics/emollients-and-moisturisers) [Iontophoresis](https://dermnetnz.org/topics/iontophoresis) hoặc [độc tố botulinum](https://dermnetnz.org/topics/botulinum-toxin) khi sử dụng cho [chứng tăng tiết mồ hôi](https://dermnetnz.org/topics/hyperhidrosis) [Thuốc chống nấm tại chỗ](https://dermnetnz.org/topics/topical-antifungal-medication) nếu được chỉ định cho trường hợp nhiễm nấm đã được ghi nhận.
+- [steroid bôi ngoài da](https://dermnetnz.org/topics/topical-steroid) (thường là loại mạnh hoặc cực mạnh)
+- [Pimecrolimus](https://dermnetnz.org/topics/pimecrolimus) và [tacrolimus](https://dermnetnz.org/topics/tacrolimus)
+- [](https://dermnetnz.org/topics/bexarotene) Gel [Bexarotene](https://dermnetnz.org/topics/bexarotene)
+- Sử dụng thường xuyên [các chất làm mềm và dưỡng ẩm](https://dermnetnz.org/topics/emollients-and-moisturisers)
+- [Iontophoresis](https://dermnetnz.org/topics/iontophoresis) hoặc [độc tố botulinum](https://dermnetnz.org/topics/botulinum-toxin) khi sử dụng cho [chứng tăng tiết mồ hôi](https://dermnetnz.org/topics/hyperhidrosis)
+- [Thuốc chống nấm tại chỗ](https://dermnetnz.org/topics/topical-antifungal-medication) nếu được chỉ định cho trường hợp nhiễm nấm đã được ghi nhận.
+- [Liệu pháp quang học](https://dermnetnz.org/topics/phototherapy) : Thuốc bôi psoralen và tia cực tím A (t [PUVA](https://dermnetnz.org/topics/puva-photochemotherapy) ).
+- Thuốc bôi psoralen và tia cực tím A (t [PUVA](https://dermnetnz.org/topics/puva-photochemotherapy) ).
+- Điều trị toàn thân : [Thuốc kháng histamine](https://dermnetnz.org/topics/antihistamines) Một liệu trình ngắn dùng [corticosteroid đường uống](https://dermnetnz.org/topics/systemic-steroids) để giảm đau ngay lập tức [Thuốc kháng sinh](https://dermnetnz.org/topics/antibiotics) uống hoặc [thuốc chống nấm](https://dermnetnz.org/topics/oral-antifungal-medication) nếu được chỉ định cho nhiễm trùng da thứ phát Các tác nhân dòng thứ hai bao gồm [methotrexate](https://dermnetnz.org/topics/methotrexate) , [ciclosporin](https://dermnetnz.org/topics/ciclosporin) , [azathioprine](https://dermnetnz.org/topics/azathioprine-and-mercaptopurine) và [mycophenolate](https://dermnetnz.org/topics/mycophenolate-mofetil) [Retinoid đường uống](https://dermnetnz.org/topics/oral-retinoids) bao gồm [alitretinoin](https://dermnetnz.org/topics/alitretinoin) , [acitretin](https://dermnetnz.org/topics/acitretin) và [isotretinoin](https://dermnetnz.org/topics/isotretinoin) [Các tác nhân sinh học](https://dermnetnz.org/topics/biological-agents-for-psoriasis) bao gồm [dupilumab](https://dermnetnz.org/topics/dupilumab) .
+- [Thuốc kháng histamine](https://dermnetnz.org/topics/antihistamines)
+- Một liệu trình ngắn dùng [corticosteroid đường uống](https://dermnetnz.org/topics/systemic-steroids) để giảm đau ngay lập tức
+- [Thuốc kháng sinh](https://dermnetnz.org/topics/antibiotics) uống hoặc [thuốc chống nấm](https://dermnetnz.org/topics/oral-antifungal-medication) nếu được chỉ định cho nhiễm trùng da thứ phát
+- Các tác nhân dòng thứ hai bao gồm [methotrexate](https://dermnetnz.org/topics/methotrexate) , [ciclosporin](https://dermnetnz.org/topics/ciclosporin) , [azathioprine](https://dermnetnz.org/topics/azathioprine-and-mercaptopurine) và [mycophenolate](https://dermnetnz.org/topics/mycophenolate-mofetil)
+- [Retinoid đường uống](https://dermnetnz.org/topics/oral-retinoids) bao gồm [alitretinoin](https://dermnetnz.org/topics/alitretinoin) , [acitretin](https://dermnetnz.org/topics/acitretin) và [isotretinoin](https://dermnetnz.org/topics/isotretinoin)
+- [Các tác nhân sinh học](https://dermnetnz.org/topics/biological-agents-for-psoriasis) bao gồm [dupilumab](https://dermnetnz.org/topics/dupilumab) .
+
+---
+
+## Hậu quả của bệnh chàm tổ đỉa là gì?
+
+Rối loạn này có thể mạn tính và theo chu kỳ. Có thể cần điều trị tuyến hai ngắn hạn hoặc dài hạn tùy thuộc vào diễn biến của bệnh. Tuy nhiên, đối với nhiều người, rối loạn sẽ tự ổn định theo thời gian và có thể ngừng điều trị.
+[Nhấp vào đây để xem hình ảnh](https://dermnetnz-org.translate.goog/images/dyshidrotic-eczema-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)

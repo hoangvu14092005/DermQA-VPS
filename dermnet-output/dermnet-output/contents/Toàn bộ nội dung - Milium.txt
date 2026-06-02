@@ -1,0 +1,92 @@
+# Milium — thông tin bổ sung
+
+Thể loại:
+
+Tổn thương (lành tính)
+
+SNOMED CT:
+
+254679001, 254680003, 238749001, 404097000, 129219004, 254681004
+
+**[Tổn thương (lành tính)](https://dermnetnz.org/topics/topics?category=Lesions+(benign))**
+
+
+# **Milium**
+
+Tác giả: Tiến sĩ Monisha Gupta, Bác sĩ da liễu, Sydney, Úc; Amanda Oakley FRACP, Bác sĩ da liễu, Hamilton, New Zealand, 2009.
+
+---
+
+## Milium là gì?
+
+Milium là một [nang](https://dermnetnz.org/topics/cutaneous-cysts-and-pseudocysts) nhỏ chứa keratin ( protein của da ); chúng thường mọc thành từng cụm và được gọi là milia . Những nang vô hại này biểu hiện dưới dạng những nốt nhỏ màu trắng ngọc trai nằm ngay dưới bề mặt da. [](https://dermnetnz.org/topics/cutaneous-cysts-and-pseudocysts)
+
+---
+
+## Đặc điểm lâm sàng của mụn thịt là gì?
+
+Milia phổ biến ở mọi lứa tuổi và cả hai giới. Chúng thường xuất hiện trên mặt và đặc biệt nổi bật ở [mí mắt](https://dermnetnz.org/topics/milium) và má, nhưng cũng có thể xuất hiện ở những nơi khác.
+Có nhiều loại mụn thịt khác nhau.
+
+### Milia ở trẻ sơ sinh
+- Ảnh hưởng đến 40–50% trẻ sơ sinh
+- Ít đến nhiều tổn thương
+- Thường thấy ở mũi, nhưng cũng có thể xuất hiện bên trong miệng ở rìa nướu ( nốt Bohn ) hoặc vòm miệng (hạt Epstein) hoặc rộng hơn ở da đầu, mặt và thân trên
+- Tự lành trong vòng vài tuần sau khi sinh.
+
+### Milia nguyên phát ở trẻ em và người lớn
+- Xuất hiện quanh [mí mắt](https://dermnetnz.org/topics/eyelid-skin-problems) , má, trán và bộ phận sinh dục.
+- Ở trẻ nhỏ, một hàng mụn thịt có thể xuất hiện dọc theo nếp gấp mũi.
+- Có thể khỏi sau vài tuần hoặc kéo dài trong nhiều tháng hoặc lâu hơn.
+
+### Milia vị thành niên
+- Liên quan đến hội chứng Rombo , [hội chứng naevus tế bào đáy](https://dermnetnz.org/topics/basal-cell-naevus-syndrome) , [hội chứng Bazex-Dupre-Christol](https://dermnetnz.org/topics/bazex-dupre-christol-syndrome) , [bệnh dày móng bẩm sinh](https://dermnetnz.org/topics/pachyonychia-congenita) , [hội chứng Gardner](https://dermnetnz.org/topics/gardner-syndrome) và các rối loạn di truyền khác
+- Có thể là bẩm sinh (có từ khi sinh ra) hoặc xuất hiện muộn hơn.
+
+### Milia ở trẻ em
+![Milia trung tâm mặt ở trẻ sơ sinh](https://dermnetnz.org/assets/Uploads/lesions/milia04.jpg)
+![Milia quanh mắt](https://dermnetnz.org/assets/Uploads/lesions/s/milia10.jpg)
+![Milia liên quan đến bệnh bong biểu bì bóng nước](https://dermnetnz.org/assets/Uploads/lesions/milia03.jpg)
+
+### Milia en plaque
+- Nhiều mụn thịt xuất hiện bên trong mảng bám bị viêm có đường kính lên tới vài cm.
+- Thường xuất hiện ở [mí mắt](https://dermnetnz.org/topics/eyelid-skin-problems) , sau tai, trên má hoặc hàm.
+- Ảnh hưởng đến trẻ em và người lớn, đặc biệt là phụ nữ trung niên.
+- Đôi khi liên quan đến các bệnh ngoài da khác bao gồm bệnh [giả u vàng sợi chun](https://dermnetnz.org/topics/pseudoxanthoma-elasticum) , [bệnh lupus ban đỏ dạng đĩa](https://dermnetnz.org/topics/cutaneous-lupus-erythematosus) , [bệnh liken phẳng](https://dermnetnz.org/topics/lichen-planus) .
+
+### Milia mọc nhiều
+- Nhiều mụn thịt xuất hiện trong vòng vài tuần đến vài tháng.
+- Tổn thương có thể không có triệu chứng hoặc ngứa.
+- Thường ảnh hưởng nhiều nhất đến mặt, cánh tay trên và thân trên.
+
+### Milia chấn thương
+- Xảy ra tại vị trí bị thương khi da đang lành lại.
+- Xuất phát từ ống dẫn mồ hôi ngoại tiết .
+- Các ví dụ bao gồm [bỏng nhiệt](https://dermnetnz.org/topics/thermal-burn) , [mài mòn da](https://dermnetnz.org/topics/dermabrasion) , [phát ban phồng rộp](https://dermnetnz.org/topics/immunological-disorders) như [bệnh pemphigoid bọng nước](https://dermnetnz.org/topics/bullous-pemphigoid) . Thường thấy ở mu bàn tay và ngón tay trong [bệnh porphyria cutanea tarda](https://dermnetnz.org/topics/porphyria-cutanea-tarda) và trên âm hộ trong [bệnh liken xơ cứng](https://dermnetnz.org/topics/lichen-sclerosus) (xem [U nang âm hộ](https://dermnetnz.org/topics/vulval-cysts) ).
+- Một nốt vôi hóa giống như hạt kê có thể phát triển sau khi xét nghiệm máu gót chân ở trẻ sơ sinh.
+
+### Milia liên quan đến ma túy
+- Có thể hiếm khi xảy ra sau khi sử dụng thuốc bôi ngoài da , chẳng hạn như phenol, [hydroquinone](https://dermnetnz.org/topics/hydroquinone) , [kem 5-fluorouracil](https://dermnetnz.org/topics/5-fluorouracil-cream) và [corticosteroid](https://dermnetnz.org/topics/topical-steroid) .
+![Milia-en-plaque](https://dermnetnz.org/assets/Uploads/milia-en-plaque-26.jpg)
+![Milia quanh mắt](https://dermnetnz.org/assets/Uploads/0160-milia-158.jpg)
+![Milia sau mụn nước pemphigoid](https://dermnetnz.org/assets/Uploads/milia-pemphigoid-27.jpg)
+[Xem thêm hình ảnh về mụn kê.](https://dermnetnz-org.translate.goog/topics/milia-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+
+---
+
+## Bệnh milia được chẩn đoán như thế nào?
+
+Milia có hình dạng đặc trưng. Tuy nhiên, đôi khi, [sinh thiết da có thể được thực hiện. Sinh thiết này cho thấy một](https://dermnetnz.org/topics/skin-biopsy) nang biểu bì nhỏ xuất phát từ nang lông tơ .
+Milia cần được phân biệt với các loại [u nang](https://dermnetnz.org/topics/cutaneous-cysts-and-pseudocysts) , [mụn đầu đen](https://dermnetnz.org/topics/comedonal-acne) , [u vàng](https://dermnetnz.org/topics/xanthoma) và [u nang lông](https://dermnetnz.org/topics/syringoma) khác . Milia dạng keo là những nốt sần màu vàng trên má và thái dương, thường xuất hiện khi tiếp xúc quá nhiều với ánh nắng mặt trời.
+Chúng cũng nên được phân biệt với các nang giống như hạt kê được ghi nhận trên [da liễu](https://dermnetnz.org/topics/dermoscopy) trong [bệnh sừng hóa tiết bã](https://dermnetnz.org/topics/seborrhoeic-keratosis) , [nốt ruồi](https://dermnetnz.org/topics/melanocytic-naevus) u nhú và một số [ung thư biểu mô tế bào đáy](https://dermnetnz.org/topics/basal-cell-carcinoma) . [](https://dermnetnz.org/topics/melanocytic-naevus) [](https://dermnetnz.org/topics/basal-cell-carcinoma)
+
+---
+
+## Phương pháp điều trị bệnh milia là gì?
+
+Milia không cần điều trị trừ khi chúng gây lo ngại cho bệnh nhân. Chúng thường tự khỏi trong vòng vài tháng. Nếu có thể, nên hạn chế tối đa chấn thương để ngăn ngừa sự phát triển của các tổn thương mới.
+- Có thể nạo bỏ phần tổn thương bằng cách sử dụng kim hoặc lưỡi dao vô trùng và nặn hoặc chích phần bên trong ra .
+- Chúng có thể bị tiêu diệt bằng phương pháp đốt điện và [nạo vét](https://dermnetnz.org/topics/curettage-and-cautery) hoặc [liệu pháp lạnh](https://dermnetnz.org/topics/cryotherapy) .
+- Đối với các tổn thương lan rộng , [retinoid bôi ngoài da](https://dermnetnz.org/topics/topical-retinoids) có thể hữu ích.
+- [Lột da bằng hóa chất](https://dermnetnz.org/topics/chemical-peels) , [mài da](https://dermnetnz.org/topics/dermabrasion) và [cắt bỏ bằng tia laser](https://dermnetnz.org/topics/laser-resurfacing) được cho là có hiệu quả khi sử dụng cho mụn thịt rất rộng.
+- Milia và mảng bám có thể cải thiện bằng minocycline (một loại kháng sinh [tetracycline](https://dermnetnz.org/topics/tetracycline) ).

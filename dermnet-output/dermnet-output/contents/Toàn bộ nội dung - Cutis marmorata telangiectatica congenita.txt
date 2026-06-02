@@ -1,0 +1,85 @@
+# Cutis marmorata telangiectatica congenita — thông tin bổ sung
+
+Thể loại:
+
+Di truyền, vấn đề về mạch máu
+
+SNOMED CT:
+
+254778000, 700063005, 403545005, 34748004
+
+**[Di truyền, vấn đề về mạch máu](https://dermnetnz.org/topics/topics?category=Genetic)**
+
+
+# **Cutis marmorata telangiectatica congenita**
+
+Tác giả: Tiến sĩ Emily Ryder, Chuyên gia đăng ký da liễu, Bệnh viện Waikato, Hamilton, New Zealand; Tổng biên tập: Tiến sĩ Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand, 2014. Được cập nhật bởi Tiến sĩ Lisa Connelly, Bác sĩ da liễu, New Plymouth, New Zealand, tháng 7 năm 2017.
+
+---
+
+## Cutis marmorata telangiectatica congenita là gì?
+
+Cutis marmorata telangiectatica congenita là một [dị tật mạch máu mao mạch bẩm](https://dermnetnz.org/topics/vascular/vascular-malformation.html) sinh hiếm gặp . Không nên nhầm lẫn với [cutis marmorata](https://dermnetnz.org/topics/vascular/cutis-marmorata.html) , một tình trạng da loang lổ sinh lý bình thường trong môi trường mát mẻ. [](https://dermnetnz.org/topics/vascular/vascular-malformation.html) [](https://dermnetnz.org/topics/vascular/cutis-marmorata.html)
+
+---
+
+## Ai bị bệnh cutis marmorata telangiectatica congenita?
+
+Bệnh u mạch máu bẩm sinh (CMTC) rất hiếm gặp. Bệnh thường xảy ra lẻ tẻ và các thành viên trong gia đình không bị ảnh hưởng. Tuy nhiên, đôi khi một số thành viên trong gia đình có thể mắc CMTC.
+
+---
+
+## Nguyên nhân gây ra cutis marmorata telangiectatica congenita?
+
+Nguyên nhân gây bệnh cutis marmorata telangiectatica congenita vẫn chưa được biết rõ nhưng nhiều khả năng là do đột biến gen . Một biến thể có thể có của gen ARL6IP6 đã được đề xuất.
+Trẻ có thể có các nốt ruồi bẩm sinh khác , chẳng hạn như nốt [cà phê sữa](https://dermnetnz.org/topics/cafe-au-lait-macule) , [nốt ruồi Mongolion (tăng sắc tố da)](https://dermnetnz.org/topics/lesions/mongolian-spot.html) , nốt ruồi Flammeus, [u mạch máu sắc tố](https://dermnetnz.org/topics/vascular-malformations-associated-with-steal-phenomena) loại 5 hoặc [các vết bớt mạch máu](https://dermnetnz.org/topics/vascular/vascular-malformation.html) khác .
+
+---
+
+## Các đặc điểm lâm sàng của bệnh cutis marmorata telangiectatica congenita là gì?
+
+Bệnh Cutis marmorata telangiectatica congenita xuất hiện ngay từ khi sinh. Bệnh đặc trưng bởi các mảng da loang lổ cố định với các mảng màu xanh lam đến tím nhạt hình lưới hoặc hình lưới ( [livedo reticularis](https://dermnetnz.org/topics/livedo-reticularis) ). Không giống như [bệnh cutis marmorata](https://dermnetnz.org/topics/cutis-marmorata) sinh lý , các vết này không mờ đi khi ấm lên. [](https://dermnetnz.org/topics/cutis-marmorata)
+CMTC có thể xuất hiện lõm do teo da (mất lớp hạ bì ). Teo biểu bì và hiếm khi loét cũng có thể xảy ra. Bệnh thường liên quan đến teo chi cùng bên (chi nhỏ hơn, ngắn hơn).
+Ngay sau khi sinh, các mảng da đỏ hoặc hồng cũng có thể bị nhầm lẫn với [vết bớt rượu vang](https://dermnetnz.org/topics/capillary-vascular-malformation) hoặc [u máu ở trẻ](https://dermnetnz.org/topics/infantile-haemangioma-definition-and-pathogenesis) sơ sinh .
+Hai dị tật bẩm sinh có liên quan đến bệnh giãn mao mạch bẩm sinh: Hội chứng Adams–Oliver và bệnh u mạch sắc tố.
+
+### Hội chứng Adams-Oliver
+Các đặc điểm chính của [hội chứng Adams–Oliver](https://dermnetnz.org/topics/adams-oliver-syndrome) là:
+- CMTC
+- Bất sản da đầu bẩm sinh
+- Dị tật giảm chi xa
+
+### Phakomatosis pigmentovascularis
+Các đặc điểm chính của [bệnh phakomatosis pigmentovascularis](https://dermnetnz.org/topics/vascular-malformations-associated-with-steal-phenomena) là:
+- Dị dạng mạch máu
+- Nốt ruồi hắc tố .
+
+### Các hiệp hội khác
+Bệnh đầu to – CMTC đã được đổi tên thành bệnh đầu to – dị dạng mao mạch (MCM) vì các tổn thương da ở MCM biểu hiện bằng [vết bớt rượu vang](https://dermnetnz.org/topics/capillary-vascular-malformation) dạng lưới chứ không phải là vết bớt da. [](https://dermnetnz.org/topics/capillary-vascular-malformation)
+Có thể thấy vết bớt da dai dẳng ở những bệnh nhân mắc [hội chứng Down](https://dermnetnz.org/topics/dermatological-manifestations-of-down-syndrome) , hội chứng tam nhiễm sắc thể 18 và [hội chứng Cornelia de Lange](https://dermnetnz.org/topics/cornelia-de-lange-syndrome) .
+Các dấu hiệu ngoài da của cutis marmorata telangiectatica congenita bao gồm:
+- Chân tay: 50% bệnh nhân sẽ có biểu hiện chiều dài chân tay không cân xứng và không đều
+- Mắt: bong võng mạc bẩm sinh, bệnh tăng nhãn áp , bệnh bạch cầu
+- CNS : chậm phát triển
+![Cutis marmorata telangiectatica congenita](https://dermnetnz.org/assets/Uploads/cmtc-01.jpg)
+![Cutis marmorata telangiectatica congenita](https://dermnetnz.org/assets/Uploads/cmtc-02.jpg)
+![Cutis marmorata telangiectatica congenita](https://dermnetnz.org/assets/Uploads/cmtc-03.jpg)
+
+---
+
+## Việc chẩn đoán bệnh cutis marmorata telangiectatica congenita được thực hiện như thế nào?
+
+Chẩn đoán bệnh giãn mao mạch bẩm sinh thường dựa trên việc xác định các triệu chứng da cụ thể của bác sĩ da liễu hoặc bác sĩ nhi khoa có kinh nghiệm.
+
+---
+
+## Quản lý bệnh cutis marmorata telangiectatica congenita
+
+Không có phương pháp điều trị cụ thể nào cho các tổn thương da do cutis marmorata telangiectatica congenita.
+Trẻ em bị ảnh hưởng với sự chênh lệch chiều dài chân nên được theo dõi bằng chụp X-quang chân đứng ở độ tuổi 10 (bé gái) hoặc 12 (bé trai), hoặc nếu sự chênh lệch chiều dài chân lớn hơn hoặc bằng 2 cm. Khuyến cáo nên chuyển đến bác sĩ chỉnh hình nếu sự chênh lệch chiều dài chân trên 2 cm để phẫu thuật cố định đầu xương (hợp nhất đĩa tăng trưởng xương) và cân nhắc phẫu thuật.
+
+---
+
+## Kết quả của c utis marmorata telangiectatica congenita là gì?
+
+Bệnh giãn mao mạch bẩm sinh Cutis marmorata sẽ mờ dần trong những năm đầu đời.

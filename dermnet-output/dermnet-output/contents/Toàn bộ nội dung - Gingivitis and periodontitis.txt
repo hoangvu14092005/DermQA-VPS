@@ -1,0 +1,109 @@
+# Viêm nướu và viêm nha chu — thông tin bổ sung
+
+Thể loại:
+
+Nhiễm trùng
+
+SNOMED CT:
+
+66383009, 41565005
+
+**[Nhiễm trùng](https://dermnetnz.org/topics/topics?category=Infections)**
+
+
+# **Viêm nướu và viêm nha chu**
+
+Tác giả: Brian Wu, Tiến sĩ Y khoa, Trường Y khoa Keck, Los Angeles, Hoa Kỳ; Tổng biên tập: Tiến sĩ Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand, tháng 11 năm 2015.
+
+---
+
+## Viêm nướu và viêm nha chu là gì?
+
+Viêm nướu là tình trạng viêm ở nướu ( lợi ), lớp niêm mạc có thể nhìn thấy được xung quanh răng.
+Viêm nha chu là một bệnh viêm mãn tính ảnh hưởng đến nướu, dây chằng và xương ổ răng bên dưới.
+
+---
+
+## Ai bị viêm nướu và viêm nha chu?
+
+Các yếu tố nguy cơ gây viêm nướu và viêm nha chu bao gồm:
+- Thực hành vệ sinh răng miệng kém hoặc không đầy đủ
+- Sử dụng thuốc lá
+- Yếu tố di truyền
+- Suy giảm miễn dịch
+- [](https://dermnetnz.org/topics/viral-skin-infections) Nhiễm trùng [do vi-rút](https://dermnetnz.org/topics/viral-skin-infections) và nấm men
+- Khô miệng
+- Những thay đổi về hormone liên quan đến kinh nguyệt và thai kỳ
+- Dinh dưỡng kém như [bệnh scorbut](https://dermnetnz.org/topics/scurvy)
+- Lạm dụng chất gây nghiện
+- Phục hình răng không vừa vặn
+- [Bệnh tiểu đường](https://dermnetnz.org/topics/skin-problems-associated-with-diabetes-mellitus) loại 1 , bệnh bạch cầu , [hội chứng Down ,](https://dermnetnz.org/topics/dermatological-manifestations-of-down-syndrome) hội chứng Papillon-Lefevre và [bệnh Crohn](https://dermnetnz.org/topics/orofacial-crohn-disease) .
+
+---
+
+## Nguyên nhân gây viêm nướu và viêm nha chu là gì?
+
+Viêm nướu là do:
+- Sự tích tụ mảng bám nếu răng không được chăm sóc đúng cách sẽ cứng lại thành cao răng và gây kích ứng nướu
+- Các rối loạn toàn thân như [bệnh tiểu đường](https://dermnetnz.org/topics/skin-problems-associated-with-diabetes-mellitus) hoặc bệnh bạch cầu có thể dẫn đến nhiễm trùng miệng
+- Tiếp xúc với kim loại nặng, [bệnh pellagra](https://dermnetnz.org/topics/pellagra) (thiếu niacin) và [bệnh scorbut](https://dermnetnz.org/topics/scurvy) (thiếu vitamin C) ảnh hưởng đến tính toàn vẹn của niêm mạc
+- Bệnh ngoài da, đặc biệt là [bệnh liken phẳng](https://dermnetnz.org/topics/erosive-lichen-planus) ở miệng gây tổn thương niêm mạc dẫn đến viêm và nhiễm trùng thứ phát ở nướu.
+Sự tích tụ của cao răng dẫn đến viêm nha chu. Cao răng gây kích ứng nướu và hình thành các túi chứa đầy vi khuẩn , mảng bám và cao răng. Nhiễm trùng sau đó có thể nghiêm trọng.
+
+---
+
+## Các đặc điểm lâm sàng của viêm nướu và viêm nha chu là gì?
+
+Bệnh nhân bị viêm nướu có biểu hiện:
+- Nướu sưng tấy, đỏ sẫm
+- Nướu mềm và dễ chảy máu
+- Hơi thở có mùi hôi.
+Bệnh nhân bị viêm nha chu ở giai đoạn nặng hơn có thể có các biểu hiện sau:
+- Nướu sưng, mềm, tụt xuống, màu đỏ tươi hoặc tím
+- Khoảng trống mới giữa các răng
+- Hơi thở có mùi hôi
+- Mủ giữa răng và nướu
+- Răng lung lay.
+
+### Viêm nướu
+![Không có caption](https://dermnetnz.org/assets/Uploads/site-age-specific/gingivitis-01.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/site-age-specific/gingivitis-02.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/site-age-specific/gingivitis-03.jpg)
+
+---
+
+## Biến chứng của viêm nướu và viêm nha chu là gì?
+
+Biến chứng chính của viêm nướu không được điều trị là viêm nha chu. Các biến chứng do viêm nha chu bao gồm:
+- Tổn thương mô mềm trong miệng
+- Mất răng
+- Phá hủy xương ổ răng
+- Tăng nguy cơ mắc bệnh động mạch vành
+- Tăng nguy cơ mắc [bệnh tiểu đường](https://dermnetnz.org/topics/skin-problems-associated-with-diabetes-mellitus)
+- Tăng nguy cơ mắc các bệnh về đường hô hấp như hen suyễn
+- Tăng nguy cơ mắc [bệnh viêm khớp dạng thấp](https://dermnetnz.org/topics/rheumatoid-arthritis-and-the-skin)
+Mối liên hệ giữa bệnh viêm nha chu và nguy cơ mắc các bệnh mãn tính nghiêm trọng này vẫn chưa được hiểu đầy đủ.
+
+---
+
+## Viêm nướu và viêm nha chu được chẩn đoán như thế nào?
+
+Chẩn đoán viêm nướu và viêm nha chu dựa trên việc kiểm tra kỹ lưỡng miệng bệnh nhân, bao gồm má, nướu và lưỡi. Có thể sử dụng đầu dò để kiểm tra các túi nướu .
+Chụp X-quang cũng có thể được thực hiện để đánh giá tổn thương có thể xảy ra ở các cấu trúc xương bên dưới.
+
+---
+
+## Viêm nướu và viêm nha chu được điều trị như thế nào?
+
+Điều trị viêm nướu bao gồm:
+- Làm sạch răng kỹ lưỡng (cạo vôi răng) để loại bỏ mảng bám và cao răng
+- Chăm sóc tại nhà bao gồm đánh răng ít nhất hai lần một ngày bằng bàn chải lông mềm, sử dụng [nước súc miệng](https://dermnetnz.org/topics/mouthwash) và chỉ nha khoa
+- Kiểm tra răng định kỳ
+- Điều trị các tình trạng bệnh lý tiềm ẩn
+Các phương pháp điều trị bổ sung cho bệnh viêm nha chu bao gồm:
+- Cạo vôi răng để loại bỏ mảng bám ở chân răng
+- [Thuốc kháng](https://dermnetnz.org/topics/antibiotics) sinh uống để điều trị nhiễm trùng
+- Phẫu thuật vạt
+- Ghép mô mềm
+- Ghép xương
+- Phục hồi mô có hướng dẫn

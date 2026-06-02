@@ -1,0 +1,76 @@
+# U nang lông — thông tin bổ sung
+
+Thể loại:
+
+Tổn thương (lành tính), Rối loạn nang lông
+
+SNOMED CT:
+
+274901004, 77956009
+
+**[Tổn thương (lành tính), Rối loạn nang lông](https://dermnetnz.org/topics/topics?category=Lesions+(benign))**
+
+
+# **U nang lông**
+
+Tác giả: Tiến sĩ Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand, 2004. Được cập nhật bởi Phó giáo sư Oakley vào tháng 5 năm 2017.
+
+---
+
+## U nang lông là gì?
+
+U nang lông (pilomatricoma) là một [khối u nang lông](https://dermnetnz.org/topics/hair-follicle-tumours) hiếm gặp, vô hại, có nguồn gốc từ các tế bào nền lông . Nó còn được gọi là 'pilomatrixoma', và đôi khi được gọi là ' u biểu mô vôi hóa Malherbe'.
+
+---
+
+## Ai mắc bệnh u nang lông?
+
+U nang lông thường được chẩn đoán ở trẻ nhỏ nhưng cũng có thể ảnh hưởng đến người lớn. Bệnh này dường như phổ biến hơn ở nữ giới so với nam giới.
+Đã có báo cáo về nhiều trường hợp u tuyến lông liên quan đến bệnh lý thần kinh hiếm gặp là loạn dưỡng cơ . Một số trường hợp u tuyến lông cũng được báo cáo phát sinh ở những bệnh nhân mắc nhiều rối loạn di truyền khác . Phần lớn không liên quan đến bất kỳ bất thường nào khác.
+
+---
+
+## Nguyên nhân gây ra bệnh u nang lông là gì?
+
+Nguyên nhân gây ra u nang lông hiện được biết là do đột biến cục bộ trong tế bào ma trận lông. Một proto- oncogene hoạt động quá mức có tên là BCL-2 cho thấy quá trình chết tế bào bình thường bị ức chế, và đột biến ở CTNNB1 trong hầu hết các trường hợp cho thấy sự mất điều hòa của phức hợp protein gọi là beta-catenin/LEF-1.
+
+---
+
+## Đặc điểm lâm sàng của u nang lông là gì?
+
+U nang lông biểu hiện là một tổn thương đơn lẻ có màu da hoặc màu tím .
+- Chúng thường xuất hiện ở đầu và cổ, nhưng cũng có thể xuất hiện ở bất kỳ vị trí nào.
+- Chúng thường không gây ra bất kỳ triệu chứng nào, nhưng có thể gây đau.
+- Chúng có thể có màu da, màu trắng hoặc màu đỏ.
+- Chúng có thể có hình dạng đều đặn hoặc không đều đặn.
+- Hầu hết các u nang lông có đường kính từ 5–10 mm.
+- Chúng có thể duy trì ổn định trong nhiều năm hoặc phát triển chậm về kích thước lên đến vài cm đường kính.
+- U nang lông có đặc điểm là canxi hóa bên trong tổn thương, khiến vùng tổn thương cứng và có xương, và thường có hình dạng góc cạnh ( dấu hiệu 'lều' ).
+![](https://dermnetnz.org/assets/Uploads/lesions/pilomatricoma.jpg)
+![](https://dermnetnz.org/assets/Uploads/lesions/pilomatricoma2.jpg)
+![](https://dermnetnz.org/assets/Uploads/lesions/pilomatricoma3.jpg)
+![U nang lông khổng lồ](https://dermnetnz.org/assets/Uploads/lesions/w/giant-pilomatricoma.jpg)
+
+---
+
+## Biến chứng của u nang lông là gì?
+
+Biến chứng của u nang lông rất hiếm gặp. Tuy nhiên, đôi khi chúng phát triển đến kích thước khổng lồ (đường kính vài cm), và [ung thư biểu mô nang lông](https://dermnetnz.org/topics/pilomatrix-carcinoma) ( ung thư ) rất hiếm khi được báo cáo.
+
+---
+
+## Chẩn đoán u nang lông được thực hiện như thế nào?
+
+Nếu nghi ngờ u nang lông, [soi da](https://dermnetnz.org/topics/dermoscopy) có thể hữu ích, cho thấy một vùng trung tâm không có cấu trúc màu trắng hoặc xanh xám. Đôi khi có thể quan sát thấy ban đỏ và giãn mao mạch .
+![Không có caption](https://dermnetnz.org/assets/Uploads/pilomatricoma-01.jpg)
+![Nội soi da u lông mao](https://dermnetnz.org/assets/Uploads/pilomatricoma-dermoscopy-01.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/pilomatricoma-macro.jpg)
+![Nội soi da của u nang lông](https://dermnetnz.org/assets/Uploads/pilomatricoma-dermoscopy.jpg)
+Nếu bản chất của các tổn thương da chưa rõ ràng, có thể đề nghị siêu âm . Siêu âm pilomatricoma được mô tả như một hình bánh rán nằm trong lớp hạ bì (lớp giữa của da) có đuôi (đuôi biểu thị tình trạng vôi hóa). Ngoài ra, tình trạng vôi hóa có thể được phát hiện bằng chụp X-quang.
+[Sinh thiết](https://dermnetnz.org/topics/skin-biopsy) sẽ giúp xác định nguyên nhân gây tổn thương. Hoặc, toàn bộ tổn thương có thể được cắt bỏ, vừa giúp chẩn đoán vừa giúp điều trị. [Mô học của u nang lông](https://dermnetnz.org/topics/pilomatricoma-pathology) rất đáng chú ý. Nó có thể cho thấy một khối u ranh giới rõ nét được bao quanh bởi một lớp vỏ xơ hoặc một khối u ranh giới kém mà không có lớp vỏ. Có các tế bào ' ưa kiềm ' nhuộm màu tối và các tế bào 'bóng' không có nhân. Hầu hết các tổn thương đều tìm thấy lắng đọng canxi.
+
+---
+
+## Phương pháp điều trị u nang lông là gì?
+
+U nang lông thường [được cắt bỏ](https://dermnetnz.org/topics/excision-of-skin-lesions) bằng phẫu thuật . Chúng không tự biến mất và nếu không được cắt bỏ hoàn toàn, chúng có thể tái phát.

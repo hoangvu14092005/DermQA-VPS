@@ -1,0 +1,151 @@
+# Viêm da tiếp xúc do không khí — thông tin bổ sung
+
+Thể loại:
+
+Phản ứng, phát ban
+
+SNOMED CT:
+
+40275004, 724829007, 15681161000119107, 19364004
+
+**[Phản ứng, phát ban](https://dermnetnz.org/topics/topics?category=Reactions)**
+
+
+# **Viêm da tiếp xúc qua không khí**
+
+Tác giả: Bác sĩ Sarajane Ting, Bác sĩ đa khoa, Wellington, New Zealand; Phó Giáo sư Rosemary Nixon, Bác sĩ da liễu, Melbourne, Úc. Phó Giáo sư Tiến sĩ Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand. Biên tập bởi Gus Mitchell/Maria McGivern. Tháng 9 năm 2019.
+
+---
+
+## Viêm da tiếp xúc qua không khí là gì?
+
+Viêm da tiếp xúc qua không khí là tình trạng [viêm da](https://dermnetnz.org/cme/dermatitis) cấp tính và mãn tính ở các bộ phận cơ thể tiếp xúc, đặc biệt là vùng mặt, do các hạt lơ lửng trong không khí gây ra. Các hạt này có thể bao gồm sợi, bụi, hơi, thuốc xịt, khí và vật liệu thực vật. [](https://dermnetnz.org/cme/dermatitis)
+[Viêm da tiếp xúc](https://dermnetnz.org/cme/dermatitis/contact-dermatitis-cme) được định nghĩa là lây truyền qua không khí dựa trên các yếu tố sau:
+- Sự tồn tại của tác nhân gây bệnh dễ bay hơi hoặc trong không khí
+- Biểu hiện lâm sàng
+- Tiền sử bệnh nhân
+- [Kiểm tra miếng dán](https://dermnetnz.org/topics/patch-tests) .
+![Viêm da tiếp xúc qua đường không khí ở mí mắt](https://dermnetnz.org/assets/Uploads/contact-dermatitis-eyelid-airborne.jpg)
+![Viêm da do dị ứng với epoxy trong không khí](https://dermnetnz.org/assets/Uploads/dermatitis-epoxy-face.jpg)
+![Viêm da tiếp xúc trong không khí do phấn hoa thực vật](https://dermnetnz.org/assets/Uploads/dermatitis-plant-pollen.jpg)
+
+---
+
+## Viêm da tiếp xúc qua không khí được phân loại như thế nào?
+
+Viêm da tiếp xúc qua không khí bao gồm:
+- [Viêm da tiếp xúc kích ứng](https://dermnetnz.org/topics/irritant-contact-dermatitis) trong không khí [](https://dermnetnz.org/topics/irritant-contact-dermatitis)
+- [Viêm da tiếp xúc dị ứng](https://dermnetnz.org/topics/allergic-contact-dermatitis) do không khí [](https://dermnetnz.org/topics/allergic-contact-dermatitis)
+- Viêm da do nhiễm độc ánh sáng trong không khí (xem trang DermNet về [Viêm da tiếp xúc do ánh sáng](https://dermnetnz.org/topics/photocontact-dermatitis) )
+- Viêm da dị ứng do tiếp xúc với không khí .
+Ngoài việc gây ra bệnh viêm da, bệnh ngoài da do không khí cũng có thể biểu hiện như sau:
+- [Mề đay tiếp xúc](https://dermnetnz.org/topics/contact-urticaria) trong không khí [](https://dermnetnz.org/topics/contact-urticaria)
+- Phản ứng dạng mụn trứng cá
+- Một [vụ phun trào dạng địa y](https://dermnetnz.org/topics/lichenoid-drug-eruption)
+- [Viêm da tróc vảy](https://dermnetnz.org/topics/erythroderma)
+- Viêm da tiếp xúc dạng lympho
+- [ban xuất huyết](https://dermnetnz.org/topics/purpura)
+- Phản ứng mụn mủ
+- [Giãn mạch](https://dermnetnz.org/topics/telangiectasia)
+- Phản ứng giống [ban đỏ đa dạng](https://dermnetnz.org/cme/emergencies/erythema-multiforme-cme) .
+
+---
+
+## Ai bị viêm da tiếp xúc qua không khí?
+
+Viêm da tiếp xúc qua không khí có thể ảnh hưởng đến bất kỳ ai; bệnh này thường gặp ở những nghề nghiệp liên quan đến việc tiếp xúc với [các chất gây dị ứng](https://dermnetnz.org/topics/contact-allergens) đã biết (xem trang DermNet về [bệnh da nghề nghiệp](https://dermnetnz.org/topics/occupational-skin-disease) ).
+Người lao động trong các ngành công nghiệp sau đây thường bị ảnh hưởng:
+- [Sản xuất sơn và sơn](https://dermnetnz.org/topics/skin-problems-in-painters-and-decorators)
+- [Làm tóc](https://dermnetnz.org/topics/skin-problems-in-hairdressers-and-barbers)
+- [Ngành công nghiệp làm đẹp](https://dermnetnz.org/topics/skin-problems-in-beauticians)
+- [Xây dựng và xây dựng](https://dermnetnz.org/topics/occupational-dermatitis-among-construction-workers)
+- Ngành công nghiệp sơn phủ bề mặt
+- Sản xuất đồ nội thất, ngành công nghiệp gỗ và nghề mộc
+- [Dược phẩm, dược phẩm và chăm sóc sức khỏe](https://dermnetnz.org/topics/occupational-skin-disorders-in-medical-and-nursing-personnel)
+- [Nông nghiệp](https://dermnetnz.org/topics/skin-problems-in-farmers) .
+Tiền sử cá nhân bị dị ứng , đặc biệt là [viêm da dị ứng](https://dermnetnz.org/cme/dermatitis/atopic-dermatitis) , cũng là một yếu tố nguy cơ gây [viêm da tiếp xúc kích ứng và dị ứng](https://dermnetnz.org/topics/irritant-contact-dermatitis) trong không khí .
+
+---
+
+## Nguyên nhân gây viêm da tiếp xúc qua không khí là gì?
+
+Nguyên nhân gây viêm da tiếp xúc qua không khí có thể là do nghề nghiệp hoặc không do nghề nghiệp. Dưới đây là một số tác nhân phổ biến gây viêm da tiếp xúc qua không khí.
+
+### Viêm da tiếp xúc dị ứng do không khí
+Các chất gây dị ứng trong không khí có thể gây ra bệnh viêm da tiếp xúc dị ứng bao gồm:
+- [Chất bảo quản](https://dermnetnz.org/contact-allergy-to-preservatives) — đặc biệt là [methylisothiazolinone](https://dermnetnz.org/methylisothiazolinone-allergy) , [formaldehyde](https://dermnetnz.org/formaldehyde-allergy) và [benzalkonium chloride](https://dermnetnz.org/topics/benzalkonium-chloride-contact-dermatitis) — gần đây đã xảy ra dịch viêm da tiếp xúc dị ứng trong không khí do methylisothiazolinone trong sơn gốc nước trên tường mới sơn.
+- [Paraphenylenediamine](https://dermnetnz.org/allergy-to-paraphenylenediamine) trong thuốc nhuộm tóc và [amoni persulfate (thuốc tẩy tóc)](https://dermnetnz.org/allergy-to-ammonium-persulfate)
+- Các thành phần nhựa, [cao su](https://dermnetnz.org/allergy-to-rubber-accelerators) và keo — bao gồm [nhựa epoxy](https://dermnetnz.org/allergy-to-epoxy-resin) , [nhựa phenol-formaldehyde](https://dermnetnz.org/allergy-to-para-tertiary-butylphenol-formaldehyde-resin) , [acrylate](https://dermnetnz.org/topics/allergy-to-acrylate) , [isocyanate](https://dermnetnz.org/topics/allergic-contact-dermatitis-to-isocyanate) và [thiuram](https://dermnetnz.org/topics/allergy-to-rubber-accelerators)
+- [Thực vật](https://dermnetnz.org/topics/plants-that-cause-skin-problems) , nhựa tự nhiên và các chất gây dị ứng gỗ - bao gồm Parthenium hysterophorus , [Compositae](https://dermnetnz.org/compositae-allergy) , [nhựa thông](https://dermnetnz.org/rosin-allergy) từ cây thông, [keo ong](https://dermnetnz.org/contact-allergy-to-propolis) , gỗ nhiệt đới, [Tanacetum parthenium(feverfew)](https://dermnetnz.org/topics/feverfew) ; Viêm da parthenium phổ biến ở Ấn Độ
+- [Thuốc](https://dermnetnz.org/topics/drug-eruptions) — budesonide, omeprazole, olanzapine, tetrazepam và statin
+- Kim loại — đặc biệt là [vàng](https://dermnetnz.org/topics/gold) , [thủy ngân](https://dermnetnz.org/topics/thiomersal-allergy) và [niken](https://dermnetnz.org/nickel-allergy) .
+
+### Viêm da tiếp xúc kích ứng trong không khí
+Các chất gây kích ứng trong không khí gây ra bệnh viêm da tiếp xúc kích ứng bao gồm:
+- [Sợi thủy tinh](https://dermnetnz.org/topics/fibreglass-dermatitis)
+- Chlorothalonil
+- Không khí được lọc bằng áp lực đường thở dương liên tục (CPAP); điều này có thể gây [viêm](https://dermnetnz.org/topics/blepharitis) bờ mi do tiếp xúc kích ứng trong không khí .
+
+### Phản ứng dị ứng ánh sáng
+Các phản ứng dị ứng ánh sáng có thể gây viêm da tiếp xúc qua không khí bao gồm:
+- [Dị ứng thuốc](https://dermnetnz.org/topics/drug-induced-photosensitivity) — chlorpromazine và carprofen
+- Olaquindox (dùng trong thú y)
+- Thuốc trừ sâu.
+
+### Mề đay tiếp xúc
+Các chất gây dị ứng trong không khí có thể gây ra [bệnh nổi mề đay tiếp xúc](https://dermnetnz.org/topics/contact-urticaria) bao gồm:
+- [Mủ cao su](https://dermnetnz.org/latex-allergy)
+- Amoxicillin
+- [Nhựa epoxy](https://dermnetnz.org/allergy-to-epoxy-resin)
+- [Amoni persulfat](https://dermnetnz.org/allergy-to-ammonium-persulfate) (thuốc tẩy tóc)
+- Sâu bướm rước thông ( Thaumetopoea pityocampa ).
+
+---
+
+## Các đặc điểm lâm sàng của bệnh viêm da tiếp xúc qua không khí là gì?
+
+Viêm da tiếp xúc do không khí thường phân bố đối xứng. Các vùng da tiếp xúc thường bị ảnh hưởng nhất, bao gồm mặt, mu bàn tay , cổ, ngực trên và cẳng tay. [Viêm da tiếp xúc mí mắt](https://dermnetnz.org/topics/eyelid-contact-dermatitis) thường gặp và có thể là vùng da duy nhất bị ảnh hưởng. Đôi khi, các vùng da được che phủ cũng có thể bị ảnh hưởng do sự tích tụ các hạt bụi lơ lửng trong không khí dưới lớp quần áo.
+Các triệu chứng phổ biến của bệnh viêm da tiếp xúc qua không khí bao gồm ngứa, nóng rát và châm chích.
+Viêm da tiếp xúc do không khí thường biểu hiện bằng các mảng đỏ lan tỏa , có vảy , nhưng cũng có thể xuất hiện các mảng . Đôi khi, phát ban mủ có thể xuất hiện do [nhiễm trùng thứ phát do vi khuẩn](https://dermnetnz.org/topics/wound-infections) . [](https://dermnetnz.org/topics/wound-infections)
+
+---
+
+## Viêm da tiếp xúc qua không khí được chẩn đoán như thế nào?
+
+Việc chẩn đoán viêm da tiếp xúc qua không khí có thể khó khăn. Việc chẩn đoán dựa trên việc khai thác tiền sử lâm sàng toàn diện, thời gian xuất hiện các triệu chứng, xem xét các phơi nhiễm nghề nghiệp và ngoài nghề nghiệp, và tìm ra sự phân bố và hình thái đặc trưng của phát ban khi khám thực thể.
+Các xét nghiệm có thể cân nhắc là:
+- [Kiểm tra miếng dán](https://dermnetnz.org/topics/patch-tests)
+- [Kiểm tra bằng miếng vá ảnh](https://dermnetnz.org/topics/phototesting) .
+
+---
+
+## Chẩn đoán phân biệt cho bệnh viêm da tiếp xúc qua không khí là gì?
+
+Viêm da tiếp xúc qua không khí cần được phân biệt với các tình trạng sau:
+- [Viêm da tiếp xúc kích ứng](https://dermnetnz.org/topics/irritant-contact-dermatitis) không lây truyền qua không khí và [viêm da tiếp xúc dị ứng](https://dermnetnz.org/topics/allergic-contact-dermatitis)
+- [Viêm da tiếp xúc ánh sáng](https://dermnetnz.org/topics/photocontact-dermatitis) không lây truyền qua đường không khí — trái ngược với viêm da tiếp xúc qua đường không khí, viêm da tiếp xúc ánh sáng không lây truyền qua đường không khí không ảnh hưởng đến các vùng 'tối' như mí mắt, nếp gấp sau tai và vùng dưới cằm (các cơ giữa cằm và cổ)
+- [Viêm da tiếp xúc toàn thân](https://dermnetnz.org/topics/systemic-contact-dermatitis)
+- Viêm da tiếp xúc ngoài da
+- [Viêm da dị ứng](https://dermnetnz.org/cme/dermatitis/atopic-dermatitis)
+- [Viêm da tiết bã](https://dermnetnz.org/cme/dermatitis/seborrhoeic-dermatitis) , đặc biệt là khi bệnh nhân [nhạy cảm với ánh sáng](https://dermnetnz.org/topics/photosensitivity) [](https://dermnetnz.org/cme/phototherapy/photosensitivity-cme) .
+
+---
+
+## Phương pháp điều trị viêm da tiếp xúc qua không khí là gì?
+
+Việc điều trị viêm da tiếp xúc qua không khí phụ thuộc vào nguyên nhân cụ thể. Sau khi xác định được chất cụ thể gây viêm da tiếp xúc qua không khí, cần nỗ lực hết sức để giảm thiểu tiếp xúc với chất đó. Đôi khi cần thay đổi công việc hoặc nơi ở để giảm thiểu tiếp xúc.
+Các biện pháp khác bao gồm:
+- [Chất làm mềm](https://dermnetnz.org/cme/dermatitis/emollients)
+- [Corticosteroid tại chỗ](https://dermnetnz.org/topics/topical-steroid) .
+Đối với những trường hợp nghiêm trọng, phương pháp điều trị có thể bao gồm:
+- [Steroid toàn thân](https://dermnetnz.org/topics/systemic-steroids)
+- [Azathioprine](https://dermnetnz.org/topics/azathioprine-and-mercaptopurine)
+- [Mycophenolate](https://dermnetnz.org/topics/mycophenolate-mofetil)
+- [Methotrexate](https://dermnetnz.org/topics/methotrexate)
+- [Thuốc Ciclosporin](https://dermnetnz.org/topics/ciclosporin) .
+
+---
+
+## Hậu quả của viêm da tiếp xúc qua không khí là gì?
+
+Viêm da tiếp xúc do tiếp xúc với không khí có thể ảnh hưởng đáng kể đến chất lượng cuộc sống của bệnh nhân. Bệnh thường có thể hồi phục hoàn toàn nếu tránh tiếp xúc thêm, nhưng trong những trường hợp nghiêm trọng như viêm da do Parthenium , thường cần phải [ức chế miễn dịch . Một số bệnh nhân có thể](https://dermnetnz.org/topics/drug-induced-immunosuppression) tiến triển thành [viêm da actinic mãn tính](https://dermnetnz.org/topics/chronic-actinic-dermatitis) .

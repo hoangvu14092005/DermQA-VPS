@@ -1,0 +1,68 @@
+# Naevus anaemia – thông tin bổ sung
+
+Thể loại:
+
+Tổn thương (lành tính)
+
+SNOMED CT:
+
+40929003
+
+**[Tổn thương (lành tính)](https://dermnetnz.org/topics/topics?category=Lesions+(benign))**
+
+
+# **Naevus anemicus**
+
+Tác giả: Phó Giáo sư danh dự Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand, 2015.
+
+---
+
+## Nốt ruồi thiếu máu là gì?
+
+Nốt ruồi thiếu máu ( nevus anemicus) là một dị tật mạch máu mao mạch hoặc vết bớt hiếm gặp, trong đó có một vùng da nhợt nhạt tại một vị trí .
+
+---
+
+## Ai bị bệnh naevus anemicus?
+
+Nốt ruồi thiếu máu thường được phát hiện lần đầu ở trẻ nhỏ, mặc dù có khả năng xuất hiện từ khi sinh. Nốt ruồi thiếu máu xuất hiện ở mọi chủng tộc. Nốt ruồi thiếu máu được báo cáo là phổ biến ở nữ giới hơn nam giới.
+Đã có báo cáo về nốt ruồi thiếu máu ở những bệnh nhân mắc [bệnh u xơ thần kinh loại I](https://dermnetnz.org/topics/neurofibromatosis) và trong một hội chứng hiếm gặp , [u sắc tố mạch máu](https://dermnetnz.org/topics/vascular-malformations-associated-with-steal-phenomena) .
+
+---
+
+## Nguyên nhân gây ra nốt ruồi thiếu máu là gì?
+
+Các mảng nhợt nhạt thấy được ở nốt ruồi thiếu máu là do co mạch. Các mạch máu bất thường bên trong nốt ruồi làm tăng nhạy cảm với [adrenaline](https://dermnetnz.org/topics/the-physiology-and-pharmacology-of-adrenaline) và noradrenaline (các catecholamine lưu hành). Catecholamine dẫn đến co mạch thông qua tương tác với các thụ thể α-adrenergic. Chức năng kém của các thụ thể α-adrenergic ở thành cơ mạch máu và tăng phản ứng của các thụ thể α-adrenergic có thể dẫn đến co mạch vĩnh viễn trong nốt ruồi thiếu máu. Người ta cũng cho rằng có thể có sự bất thường trong việc cảm ứng E selectin (một phân tử kết dính ) ở nội mô.
+
+---
+
+## Đặc điểm lâm sàng của nốt ruồi thiếu máu là gì?
+
+Nốt ruồi thiếu máu thường là một mảng nhợt nhạt, không triệu chứng , không chuyển sang màu đỏ khi chà xát. Nốt ruồi thường có hình tròn, hình bầu dục hoặc hình dải . Có thể thấy các dát vệ tinh xung quanh mảng chính. Dạng khảm với nhiều nốt ruồi thiếu máu có thể trông giống như lưới hoặc hình lưới. Nốt ruồi này không gây ra bất kỳ triệu chứng nào.
+Nốt ruồi thiếu máu thường ảnh hưởng đến thân mình nhưng có thể xuất hiện ở bất kỳ vị trí nào trên cơ thể.
+Đôi khi, các bất thường mạch máu khác cũng được ghi nhận ở gần đó, chẳng hạn như [dị dạng mao mạch (bớt rượu vang)](https://dermnetnz.org/topics/capillary-vascular-malformation) .
+![Naevus anemicus](https://dermnetnz.org/assets/Uploads/vascular/naevus-anaemicus-1.jpg)
+![Naevus anemicus](https://dermnetnz.org/assets/Uploads/vascular/naevus-anaemicus-2.jpg)
+![Naevus anemicus](https://dermnetnz.org/assets/Uploads/vascular/naevus-anaemicus-3.jpg)
+![Naevus anemicus](https://dermnetnz.org/assets/Uploads/vascular/naevus-anaemicus-4.jpg)
+![Naevus anemicus](https://dermnetnz.org/assets/Uploads/vascular/naevus-anaemicus-5.jpg)
+![Naevus anemicus](https://dermnetnz.org/assets/Uploads/vascular/naevus-anaemicus-6.jpg)
+
+---
+
+## Bệnh nốt ruồi thiếu máu được chẩn đoán như thế nào?
+
+Nốt ruồi thiếu máu là một tình trạng nhẹ và không phải lúc nào cũng dễ nhận biết. Chẩn đoán dựa vào hình dạng. Sự tương phản giữa vùng da bị ảnh hưởng, nơi các mạch máu bị co thắt, và vùng da bình thường có thể được loại bỏ bằng cách ấn vào vùng da xung quanh bằng lam kính ( diascopy ). Kết quả [sinh thiết](https://dermnetnz.org/topics/skin-biopsy) cho thấy da bình thường.
+Naevus anemicus có thể bị nhầm lẫn với [các tổn thương nhạt màu](https://dermnetnz.org/topics/skin-pigmentation-problems) khác trên da, chẳng hạn như [naevus vô sắc](https://dermnetnz.org/topics/achromic-naevus) , [bệnh vảy phấn trắng](https://dermnetnz.org/topics/pityriasis-alba) , [lang ben](https://dermnetnz.org/topics/pityriasis-versicolor) , [bạch biến](https://dermnetnz.org/topics/vitiligo) , giảm sắc tố sau viêm , các đốm lá tro của [bệnh xơ cứng củ](https://dermnetnz.org/topics/tuberous-sclerosis) , [giảm sắc tố da dạng dát tiến triển](https://dermnetnz.org/topics/progressive-macular-hypomelanosis) và sẹo. [](https://dermnetnz.org/topics/tuberous-sclerosis) [](https://dermnetnz.org/topics/progressive-macular-hypomelanosis)
+
+---
+
+## Phương pháp điều trị bệnh nốt ruồi thiếu máu là gì?
+
+Không cần điều trị hoặc không có phương pháp điều trị nào cho nốt ruồi thiếu máu, đây là tình trạng nhẹ và vô hại. Có thể sử dụng [biện pháp ngụy trang thẩm mỹ nếu muốn.](https://dermnetnz.org/topics/cosmetic-camouflage)
+
+---
+
+## Hậu quả của bệnh nốt ruồi thiếu máu là gì?
+
+Nốt ruồi thiếu máu không thay đổi trong thời gian dài.

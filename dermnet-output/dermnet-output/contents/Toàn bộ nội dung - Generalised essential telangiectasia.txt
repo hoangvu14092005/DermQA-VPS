@@ -1,0 +1,70 @@
+# Giãn mạch máu thiết yếu toàn thể — thông tin bổ sung
+
+Thể loại:
+
+Các vấn đề về mạch máu
+
+SNOMED CT:
+
+238763007
+
+**[Các vấn đề về mạch máu](https://dermnetnz.org/topics/topics?category=Blood+vessel+problems)**
+
+
+# **Giãn mạch máu thiết yếu toàn thể**
+
+Tác giả: Vanessa Ngan, Biên tập viên, 2003.
+
+---
+
+## Giãn mạch máu toàn thân là gì?
+
+[Giãn mạch](https://dermnetnz.org/topics/telangiectasia) là thuật ngữ dùng để mô tả tình trạng giãn nở vĩnh viễn của các mạch máu nhỏ , tạo ra các vết nhỏ màu đỏ trên da và niêm mạc .
+Giãn mao mạch nguyên phát hoặc nguyên phát là tình trạng giãn mao mạch không rõ nguyên nhân. Không có bệnh lý da hoặc nội tạng nào trước đó hoặc đồng thời. Giãn mao mạch nguyên phát toàn thân chỉ là một loại giãn mao mạch nguyên phát và được gọi như vậy vì nó phân bố rộng khắp cơ thể .
+![Giãn mao mạch thiết yếu](https://dermnetnz.org/assets/Uploads/vascular/ess-telang1.jpg)
+![Giãn mao mạch thiết yếu](https://dermnetnz.org/assets/Uploads/vascular/ess-telang2.jpg)
+![Giãn mao mạch thiết yếu](https://dermnetnz.org/assets/Uploads/vascular/ess-telang4.jpg)
+![Giãn mao mạch thiết yếu](https://dermnetnz.org/assets/Uploads/vascular/ess-telang3.jpg)
+
+---
+
+## Nguyên nhân gây ra chứng giãn mạch máu toàn thân là gì?
+
+Nguyên nhân gây giãn mao mạch vô căn toàn thân vẫn chưa rõ ràng. Đôi khi có thể có tiền sử gia đình, điều này cho thấy yếu tố di truyền .
+- Nó không liên quan đến [chứng giãn tĩnh mạch](https://dermnetnz.org/topics/varicose-veins) hoặc các rối loạn tĩnh mạch khác .
+- Các yếu tố môi trường như tiếp xúc với ánh nắng mặt trời có thể đóng vai trò trong sự phát triển của bệnh.
+
+---
+
+## Ai có thể mắc chứng giãn mạch máu toàn thân?
+
+Giãn mạch máu toàn thân thường xuất hiện lần đầu ở độ tuổi từ 40–50 và ảnh hưởng đến phụ nữ nhiều hơn nam giới.
+
+---
+
+## Những dấu hiệu và triệu chứng của bệnh giãn mao mạch vô căn là gì?
+
+Giãn mạch máu toàn thân được đặc trưng bởi các đặc điểm sau:
+- Các mạch máu mao mạch giãn nở màu đỏ hoặc hồng, thường có đường kính nhỏ hơn 0,2mm theo dạng ren hoặc dạng nhánh cây
+- Thường gặp nhất ở bàn chân, mắt cá chân và cẳng chân nhưng có thể xuất hiện ở thân và các bộ phận trên cơ thể như bàn tay và cánh tay
+- Khi áp lực được đặt vào các vị trí bị ảnh hưởng, hiện tượng tái nhợt xảy ra tạm thời trước khi máu được đổ đầy vào không gian đó.
+- Các telangiectase có thể kết hợp với nhau để tạo thành một mảng đỏ lan tỏa
+- Thông thường không có triệu chứng nhưng có thể xuất hiện cảm giác ngứa ran hoặc tê.
+Giãn mao mạch có thể phát triển chậm hoặc nhanh. Chúng thường lan dần sang các bộ phận khác của cơ thể. Chúng tồn tại vô thời hạn và không tự khỏi.
+Ngoài những đau khổ về mặt cảm xúc có thể do giãn mạch gây ra, giãn mạch vô căn toàn thân là một tình trạng lành tính không liên quan đến bất kỳ biến chứng nào về mặt thể chất.
+
+---
+
+## Chẩn đoán phân biệt của chứng giãn mạch máu toàn thân là gì?
+
+Các loại [giãn mao mạch](https://dermnetnz.org/topics/telangiectasia) khác được mô tả trên DermNet bao gồm:
+- [Angioma serpiginosum](https://dermnetnz.org/topics/angioma-serpiginosum) ( naevus mạch máu )
+- [Rối loạn vận động mạch máu](https://dermnetnz.org/topics/ataxia-telangiectasia) (một hội chứng di truyền )
+- [Giãn mao mạch mạng nhện](https://dermnetnz.org/topics/spider-telangiectasis) (một [tổn thương mạch máu](https://dermnetnz.org/topics/vascular-skin-problems) phổ biến )
+
+---
+
+## Có những phương pháp điều trị nào cho chứng giãn mạch máu toàn thân?
+
+Rất khó để loại bỏ các giãn mạch trong chứng giãn mạch vô căn toàn thân. Những bệnh nhân tự ti có thể sử dụng mỹ phẩm che phủ hoặc kem dưỡng da rám nắng để che giấu các giãn mạch.
+Những bệnh nhân này thường không đáp ứng với [liệu pháp xơ cứng](https://dermnetnz.org/topics/sclerotherapy) . Gần đây, nhiều loại [laser mạch máu (laser](https://dermnetnz.org/topics/facial-red-vein-and-vascular-birthmark-treatments) [Nd-YAG](https://dermnetnz.org/topics/ndyag-laser-treatment) tần số kép , laser [đồng bromide](https://dermnetnz.org/topics/copper-bromide-laser) và [laser nhuộm xung](https://dermnetnz.org/topics/pulsed-dye-laser-treatment) ) đã cho thấy hiệu quả trong điều trị giãn mạch máu nguyên phát toàn thân.

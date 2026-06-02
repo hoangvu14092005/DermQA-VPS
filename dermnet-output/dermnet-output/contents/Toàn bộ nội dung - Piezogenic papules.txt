@@ -1,0 +1,63 @@
+# Sẩn áp điện — thông tin bổ sung
+
+Thể loại:
+
+Tổn thương (lành tính)
+
+SNOMED CT:
+
+50510006
+
+**[Tổn thương (lành tính)](https://dermnetnz.org/topics/topics?category=Lesions+(benign))**
+
+
+# **Sẩn áp điện**
+
+Tác giả: Tiến sĩ Peggy Chen, Bác sĩ da liễu, Bệnh viện Waikato, Hamilton, New Zealand, 2013.
+
+---
+
+## Sẩn áp điện là gì?
+
+Sẩn Piezogenic là những nốt sẩn mềm, màu da, thường gặp ở bàn chân và cổ tay. Chúng là kết quả của sự thoát vị mỡ qua lớp hạ bì. Tên gọi 'piezogenic' ám chỉ nguồn gốc của các nốt sẩn là áp lực.
+
+---
+
+## Ai bị sẩn áp điện?
+
+Người ở mọi lứa tuổi, giới tính và sắc tộc đều dễ bị sẩn áp. Chúng thường gặp ở phụ nữ thừa cân hoặc béo phì. Chúng cũng liên quan đến các bệnh lý mô liên kết tiềm ẩn như hội chứng Ehlers-Danlos , bàn chân bẹt và vận động quá sức.
+Sẩn áp điện không rõ nguyên nhân.
+
+---
+
+## Đặc điểm lâm sàng của sẩn áp điện là gì?
+
+Sẩn piezogenic thường không có triệu chứng và được phát hiện tình cờ. Đôi khi chúng có thể gây đau.
+![Sẩn áp điện](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/s/piezogenic-papules1.jpg)
+![Sẩn áp điện](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/piezogenic-papules5.jpg)
+![Sẩn áp điện](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/piezogenic-papules7.jpg)
+[Xem thêm hình ảnh về sẩn áp điện.](https://dermnetnz-org.translate.goog/topics/piezogenic-papule-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+
+---
+
+## Chẩn đoán được thực hiện như thế nào?
+
+Sẩn áp điện thường được chẩn đoán lâm sàng vì những đặc điểm sau:
+- Sẩn sẽ biến mất khi bệnh nhân không chịu lực
+- Sẩn thường có thể bị nén
+- Chúng chủ yếu xuất hiện ở rìa sau và bên của gót chân
+- Chúng thường là song phương
+
+---
+
+## Phương pháp điều trị sẩn áp huyết là gì?
+
+Không cần điều trị nếu không có triệu chứng.
+Đối với các tổn thương gây đau , phương pháp điều trị bảo tồn có thể bao gồm:
+- Hạn chế tập thể dục chịu trọng lượng
+- Giảm cân
+- Vớ nén
+- Miếng đệm chân bằng cao su xốp hoặc miếng lót gót chân bằng nhựa xốp
+- Tham khảo ý kiến ​​của bác sĩ chuyên khoa chân có thể hữu ích.
+Tiêm corticosteroid vào tổn thương đã được chứng minh là có tác dụng giảm đau cho những bệnh nhân bị sẩn áp huyết có hội chứng Ehlers-Danlos tiềm ẩn.
+Phẫu thuật cắt bỏ có thể hữu ích nếu các triệu chứng vẫn tiếp diễn mặc dù đã áp dụng các biện pháp điều trị trên nhưng hiếm khi cần thiết.

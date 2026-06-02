@@ -1,0 +1,91 @@
+# Rụng tóc do thuốc — thông tin bổ sung
+
+Thể loại:
+
+Phản ứng, Rối loạn nang lông
+
+SNOMED CT:
+
+201146008, 73383004, 762391009, 762390005
+
+**[Phản ứng, Rối loạn nang lông](https://dermnetnz.org/topics/topics?category=Reactions)**
+
+
+# **Rụng tóc do thuốc**
+
+Tác giả: Tiến sĩ Delwyn Dyall-Smith FACD, Bác sĩ da liễu, 2009.
+
+---
+
+## Rụng tóc do thuốc là gì?
+
+Rụng tóc do thuốc là tình trạng [rụng tóc lan](https://dermnetnz.org/topics/diffuse-alopecia) tỏa không để lại sẹo, thường có thể hồi phục , xảy ra trong vòng vài ngày đến vài tuần sau khi bắt đầu dùng thuốc mới hoặc thay đổi liều lượng.
+
+---
+
+## Ai bị rụng tóc do thuốc?
+
+Sự phát triển và mức độ rụng tóc phụ thuộc vào cả loại thuốc và cơ địa từng người. Một số loại thuốc gây rụng tóc ở hầu hết bệnh nhân dùng đúng liều. Một số loại thuốc khác chỉ thỉnh thoảng gây rụng tóc.
+Có hai loại rụng tóc do thuốc:
+- Rụng tóc anagen – tình trạng rụng những sợi tóc đang phát triển
+- [Rụng tóc telogen](https://dermnetnz.org/topics/telogen-effluvium) – tình trạng rụng tóc đang nghỉ ngơi hoặc tóc nang
+
+### rụng tóc anagen
+[Rụng tóc sau sinh](https://dermnetnz.org/topics/anagen-effluvium) thường là do [thuốc hóa trị](https://dermnetnz.org/topics/skin-toxicity-of-chemotherapy-drugs) và hiếm khi do [vàng](https://dermnetnz.org/topics/gold) , [colchicine](https://dermnetnz.org/topics/colchicine) hoặc ngộ độc [asen](https://dermnetnz.org/topics/chronic-arsenic-poisoning) , bismuth, [thallium](https://dermnetnz.org/topics/thallium-poisoning) hoặc axit boric.
+
+### Rụng tóc telogen
+Rụng tóc telogen là cơ chế gây ra hầu hết các loại rụng tóc do thuốc khác. Danh sách các nguyên nhân có thể do thuốc rất dài, bao gồm:
+- Thuốc chống đông máu — [heparin](https://dermnetnz.org/topics/heparin-induced-skin-necrosis) , [warfarin](https://dermnetnz.org/topics/warfarin-induced-skin-necrosis) và có thể là các thuốc chống đông máu mới hơn như rivaroxaban, dabigatran và apixaban
+- Thuốc chống tăng huyết áp — thuốc chẹn beta, thuốc ức chế men chuyển ACE
+- hormone — [thuốc tránh thai đường uống](https://dermnetnz.org/topics/oral-contraceptive) (trong/sau/khi thay đổi), liệu pháp thay thế hormone, androgen
+- Thuốc chống co giật — axit valproic 12–28% ( phụ thuộc liều ), carbamazepine lên đến 6%, phenytoin
+- Thuốc ổn định tâm trạng và thuốc chống trầm cảm — hầu hết, chẳng hạn như lithium 12–19%
+- Những thuốc khác — cimetidine, retinoid ( [acitretin](https://dermnetnz.org/topics/acitretin) > [isotretinoin](https://dermnetnz.org/topics/isotretinoin) ), thuốc kháng giáp, thuốc hạ cholesterol , interferon, thuốc chống nhiễm trùng, amphetamine, [thuốc chống viêm không steroid (NSAID)](https://dermnetnz.org/topics/non-steroidal-anti-inflammatory-drugs-and-their-skin-side-effects) , bromocriptine, levodopa, một số thuốc chống loạn thần và thuốc chống lo âu, hiếm khi là thuốc chống trầm cảm ba vòng như [amitriptyline](https://dermnetnz.org/topics/tricyclic-antidepressants) và vắc-xin (nghi ngờ, không chắc chắn).
+Rụng tóc telogen cũng có thể xảy ra do [phản ứng thuốc](https://dermnetnz.org/topics/drug-eruptions) nghiêm trọng như [hội chứng Stevens-Johnson/hoại tử biểu bì nhiễm độc](https://dermnetnz.org/topics/stevens-johnson-syndrome-toxic-epidermal-necrolysis) hoặc [hội chứng quá mẫn với thuốc](https://dermnetnz.org/topics/drug-hypersensitivity-syndrome) , trong trường hợp này tóc sẽ rụng sau vài tuần đến vài tháng kể từ khi mắc bệnh cấp tính và sẽ mọc lại từ từ.
+
+---
+
+## Các đặc điểm lâm sàng của chứng rụng tóc do thuốc là gì?
+
+Rụng tóc do thuốc thường [lan tỏa](https://dermnetnz.org/topics/diffuse-alopecia) và không để lại sẹo. Rụng tóc có thể theo từng đợt như [rụng tóc kiểu nam hoặc kiểu androgen](https://dermnetnz.org/topics/male-pattern-hair-loss) hoặc [rụng tóc kiểu nữ](https://dermnetnz.org/topics/female-pattern-hair-loss) . Da đầu là vị trí bị ảnh hưởng phổ biến nhất, nhưng tất cả lông trên cơ thể, bao gồm cả lông mày và lông mi, đều có thể bị rụng do hóa trị.
+Rụng tóc do rụng tóc anagen có thể trở nên rõ ràng trong vòng vài ngày đến vài tuần sau khi bắt đầu hóa trị, trong khi rụng tóc do rụng tóc telogen thường trở nên rõ ràng sau 2–4 tháng.
+Trong một nghiên cứu trên phụ nữ đang hóa trị ung thư vú , thời gian trung bình từ khi bắt đầu hóa trị đến khi rụng tóc là 4-5 tuần, nhưng một số trường hợp có thể xuất hiện sớm nhất là hai tuần. Tình trạng rụng tóc đạt mức cao nhất ở chu kỳ thứ hai, với hơn 1000 sợi tóc/ngày ở những trường hợp nặng. Ngay cả khi đã hóa trị, mức độ rụng tóc có thể dao động từ không có tác dụng rõ rệt đến rụng tóc nghiêm trọng, nhanh chóng và lan rộng, ngay cả khi dùng cùng một loại thuốc và phác đồ điều trị.
+![Mất anagen trong quá trình hóa trị](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/drug-alopecia1.jpg)
+![Sự tái sinh sau khi rụng tóc từng mảng liên quan đến itraconazole](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/drug-alopecia2.jpg)
+![Sự tái phát của tóc telogen được nhìn thấy rõ nhất ở chân tóc](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/drug-alopecia3.jpg)
+
+---
+
+## Chẩn đoán được thực hiện như thế nào?
+
+Cách duy nhất để xác nhận tình trạng rụng tóc nghi ngờ do thuốc là ngừng sử dụng thuốc ít nhất ba tháng và quan sát tóc mọc lại. Tuy nhiên, các bước chẩn đoán dưới đây có thể cần thiết.
+
+### 1. Lịch sử
+Cần khai thác chi tiết tiền sử dùng thuốc của tất cả bệnh nhân bị rụng tóc lan tỏa không sẹo, tập trung vào ba tháng trước khi phát hiện rụng tóc. Tiền sử này bao gồm tất cả các loại thuốc mới, bất kỳ thay đổi nào về liều lượng, và cả các loại thực phẩm chức năng không kê đơn . Danh sách này phải bao gồm hóa trị, thuốc tránh thai đường uống và liệu pháp thay thế hormone. Các nguyên nhân khác gây rụng tóc lan tỏa cũng nên được hỏi, chẳng hạn như sức khỏe tổng quát, bệnh tật hoặc phẫu thuật gần đây và tiền sử ăn uống. Cần lưu ý tiền sử gia đình về rụng tóc có kiểu hình ( androgenetic ).
+
+### 2. Kiểm tra
+Kiểm tra da đầu để đánh giá mức độ và kiểu rụng tóc, tình trạng đỏ hoặc bong tróc da đầu, cũng như chiều dài, đường kính và độ gãy của thân tóc.
+
+### 3. Thử nghiệm kéo tóc
+Xét nghiệm nhổ tóc bao gồm việc nhẹ nhàng kéo một cụm tóc từ gốc đến ngọn. Thông thường chỉ có 1-2 sợi tóc rụng. Trong trường hợp rụng tóc, có thể có 10-15 sợi tóc rụng. Các sợi tóc bị nhổ có thể được kiểm tra dưới kính hiển vi để tìm các bóng tóc anagen hoặc telogen, các vết gãy và sự thuôn nhọn.
+
+### 4. Sinh thiết da đầu
+Có thể cần phải sinh [thiết da](https://dermnetnz.org/topics/skin-biopsy) ở vùng có tóc mỏng để loại trừ các nguyên nhân khác gây [rụng tóc lan tỏa](https://dermnetnz.org/topics/diffuse-alopecia) .
+
+### 5. Xét nghiệm máu
+Nếu không rõ nguyên nhân gây rụng tóc, thông thường cần phải thực hiện ít nhất các xét nghiệm công thức máu, xét nghiệm sắt và xét nghiệm chức năng tuyến giáp.
+
+---
+
+## Điều trị rụng tóc do thuốc
+
+Thông thường, phương pháp điều trị duy nhất cần thiết cho rụng tóc do thuốc là ngừng sử dụng thuốc nếu có thể. Sau khi ngừng thuốc, tình trạng rụng tóc sẽ ổn định, mặc dù quá trình này có thể mất đến 6 tháng. Dấu hiệu tóc mọc lại thường thấy trong vòng 3–6 tháng, nhưng có thể mất 12–18 tháng để phục hồi về mặt thẩm mỹ.
+Phương pháp điều trị hiệu quả nhất để giảm rụng tóc do hóa trị liệu cho đến nay là làm mát đầu bệnh nhân để giảm lưu lượng máu quanh nang tóc. Thiết bị làm mát tóc được đeo trong 30 phút trước khi truyền thuốc gây bệnh, trong khi truyền và trong 90 phút sau đó.
+[Calcipotriol](https://dermnetnz.org/topics/calcipotriol) bôi ngoài da không hiệu quả trong một thử nghiệm trên bệnh nhân ung thư vú đang hóa trị. Ở chuột, [minoxidil](https://dermnetnz.org/topics/minoxidil-solution) bôi ngoài da và [ciclosporin](https://dermnetnz.org/topics/ciclosporin) bôi ngoài da kích thích tái phát sau khi [dùng cyclophosphamide](https://dermnetnz.org/topics/cyclophosphamide) .
+
+---
+
+## Cơ chế đề xuất
+
+- Việc ức chế sự phân chia tế bào hoặc sự chết của các tế bào ma trận tóc do thuốc hóa trị liệu sẽ dẫn đến tình trạng teo nhỏ thân tóc (có thể khiến thân tóc bị gãy nếu nghiêm trọng) và tình trạng rụng tóc anagen.
+- Đẩy nang tóc vào giai đoạn nghỉ ngơi sớm (từ anagen sang telogen) sẽ dẫn đến rụng tóc telogen.

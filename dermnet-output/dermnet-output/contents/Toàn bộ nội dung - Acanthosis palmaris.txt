@@ -1,0 +1,96 @@
+# Lòng bàn tay — thông tin bổ sung
+
+Thể loại:
+
+Bệnh hệ thống
+
+SNOMED CT:
+
+238637007, 238636003, 49783001
+
+**[Bệnh hệ thống](https://dermnetnz.org/topics/topics?category=Systemic+diseases)**
+
+
+# **Lòng bàn tay**
+
+Tác giả: Kelvin Truong, Nghiên cứu viên Da liễu; Raquel Ruiz Araujo, Bác sĩ Chuyên khoa Da liễu, Bệnh viện Westmead, New South Wales, Úc. Biên tập bởi Gus Mitchell. Tháng 2 năm 2022
+
+---
+
+## Lòng bàn tay là gì?
+
+Bệnh lòng bàn tay là một tình trạng da rất hiếm gặp ảnh hưởng đến lòng bàn tay và lòng bàn chân; bệnh có đặc điểm là da dày lên giống như niêm mạc dạ dày của một số loài động vật (lòng bàn tay).
+Lòng bàn tay lòng bàn tay, còn được gọi là bệnh gai lòng bàn tay hoặc bệnh dày da vân tay mắc phải, thường liên quan đến bệnh ác tính nội tạng. Lòng bàn tay lòng bàn tay lòng bàn tay là một bệnh da liễu cận ung thư ; một nhóm các bệnh lý da do ung thư gây ra và có cùng cơ sở di truyền . Bệnh này thường đi kèm với [bệnh gai đen](https://dermnetnz.org/topics/acanthosis-nigricans) . [](https://dermnetnz.org/topics/acanthosis-nigricans)
+![Lòng bàn tay](https://dermnetnz.org/assets/Uploads/systemic/tripe-palms.jpg)
+![Bệnh gai đen](https://dermnetnz.org/assets/Uploads/systemic/acanthosis.jpg)
+
+---
+
+## Ai sẽ bị bệnh lòng bàn tay?
+
+Có khoảng 100 trường hợp lòng bàn tay bị phù nề được ghi nhận trong tài liệu y khoa. Bệnh này phổ biến ở nam giới hơn nữ giới.
+Khoảng 90% trường hợp lòng bàn tay đầy hơi có liên quan đến bệnh ác tính nội tạng. Những thay đổi về da có thể xuất hiện trước khi chẩn đoán hoặc phát triển trong quá trình chẩn đoán bệnh ác tính.
+Bệnh lòng bàn tay cũng có liên quan đến các tình trạng không phải ung thư như:
+- [Bọng nước dạng pemphigus](https://dermnetnz.org/topics/bullous-pemphigoid)
+- [Bệnh vẩy nến](https://dermnetnz.org/topics/psoriasis)
+- [Viêm da tróc vảy](https://dermnetnz.org/topics/erythroderma) .
+
+---
+
+## Nguyên nhân nào gây ra bệnh lòng bàn tay phồng rộp?
+
+Cơ chế chính xác gây ra bệnh lòng bàn tay lòng bò vẫn chưa được biết rõ. Người ta cho rằng các tế bào ung thư tiết ra các yếu tố tăng trưởng , chẳng hạn như yếu tố tăng trưởng biểu bì -α và yếu tố tăng trưởng chuyển dạng -α, gây ra sự phát triển của các tế bào da (hay cụ thể hơn là tế bào sừng ) và do đó xuất hiện bệnh lòng bàn tay lòng bò.
+Các loại ung thư thường liên quan đến lòng bàn tay bao gồm:
+- Ung thư dạ dày
+- Ung thư phổi.
+Và ít thường xuyên hơn:
+- Ung thư vú
+- Ung thư đường tiết niệu sinh dục .
+
+---
+
+## Bệnh lòng bàn tay có những đặc điểm lâm sàng nào?
+
+Thông thường, bệnh nhân bị lòng bàn tay đầy hơi có biểu hiện da dày lên ở lòng bàn tay. Sự dày lên này có thể làm nổi bật sự thay đổi về da vân tay, biểu hiện dưới dạng hoa văn nhung. Sự dày lên này thường làm da có màu vàng. Những đặc điểm này tương tự như niêm mạc dạ dày, do đó tình trạng da này được gọi là lòng bàn tay đầy hơi. Lòng bàn chân cũng có thể bị ảnh hưởng.
+Bệnh lòng bàn tay nổi mề đay thường đi kèm với [bệnh gai đen](https://dermnetnz.org/topics/acanthosis-nigricans) ác tính ở khoảng 7/10 trường hợp. Bệnh gai đen là một tình trạng da đặc trưng bởi tình trạng sẫm màu và mịn màng ở các nếp gấp trên cơ thể, chẳng hạn như cổ, nách và bẹn. [](https://dermnetnz.org/topics/acanthosis-nigricans)
+Cây lòng bàn tay có thể được tìm thấy bên cạnh:
+- Móng tay dùi trống (1 trong 5 người)
+- Ngứa da (1 trong 4 người)
+- [Bệnh u](https://dermnetnz.org/topics/florid-cutaneous-papillomatosis) nhú da [](https://dermnetnz.org/topics/florid-cutaneous-papillomatosis)
+- [Sừng hóa bã nhờn](https://dermnetnz.org/topics/seborrhoeic-keratosis) phát triển nhanh nhiều ( [dấu hiệu của Leser-Trélat](https://dermnetnz.org/topics/sign-of-leser-trelat) ).
+
+---
+
+## Bệnh lòng bàn tay dạ dày được chẩn đoán như thế nào?
+
+Bệnh lòng bàn tay lòng bàn chân được chẩn đoán lâm sàng. Sinh thiết da không hữu ích trong việc xác nhận chẩn đoán, vì các phát hiện mô học không đặc hiệu.
+
+---
+
+## Chẩn đoán phân biệt bệnh lòng bàn tay đầy lá là gì?
+
+Biểu hiện lâm sàng của bệnh lòng bàn tay có thể như sau:
+- [Bệnh sừng hóa cận u](https://dermnetnz.org/topics/acrokeratosis-neoplastica)
+- [Bệnh to đầu chi](https://dermnetnz.org/topics/acromegaly)
+- [Bệnh lý xương khớp phì đại phổi](https://dermnetnz.org/topics/hypertrophic-osteoarthropathy-and-digital-clubbing)
+- [Pachydermoperiostosis](https://dermnetnz.org/topics/pachydermodactyly)
+- [Keratoderma lòng bàn tay và bàn chân](https://dermnetnz.org/topics/palmoplantar-keratoderma)
+- [Tuyến giáp bất sản](https://dermnetnz.org/topics/hyperthyroidism) .
+
+---
+
+## Phương pháp điều trị bệnh lòng bàn tay là gì?
+
+Bệnh nhân có biểu hiện lòng bàn tay đầy hơi và không có tiền sử ung thư cần được kiểm tra để xác định bệnh lý ác tính. Bao gồm:
+- Tiền sử bệnh lý chi tiết
+- Khám sức khỏe toàn diện
+- Xét nghiệm máu
+- Hình ảnh
+- Tiến hành điều tra thêm dựa trên những phát hiện.
+Việc điều trị bệnh lòng bàn tay dạ dày rất khó khăn. Vì bệnh lòng bàn tay dạ dày rất hiếm gặp, nên có rất ít bằng chứng chất lượng cao để hướng dẫn cách điều trị. Việc điều trị bằng retinoid đường uống đã có hiệu quả.
+
+---
+
+## Hậu quả của bệnh lòng bàn tay là gì?
+
+Khoảng 3 trong 10 trường hợp lòng bàn tay dạ dày sẽ khỏi khi ung thư tiềm ẩn được kiểm soát. Tuy nhiên, lòng bàn tay dạ dày có thể vẫn tồn tại mặc dù ung thư tiềm ẩn đã thuyên giảm .

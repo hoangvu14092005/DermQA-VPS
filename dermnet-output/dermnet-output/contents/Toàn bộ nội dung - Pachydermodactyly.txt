@@ -1,0 +1,102 @@
+# Pachydermodactyly — thông tin bổ sung
+
+Thể loại:
+
+Bệnh mô liên kết
+
+SNOMED CT:
+
+238857008
+
+**[Bệnh mô liên kết](https://dermnetnz.org/topics/topics?category=Connective+tissue+diseases)**
+
+
+# **Pachydermodactyly**
+
+Tác giả: Tiến sĩ Dushyanth Gnanappiragasam, Chuyên gia Đăng ký Da liễu; Tiến sĩ Karen Harman, Bác sĩ Da liễu Tư vấn, Quỹ NHS Bệnh viện Đại học Leicester, Vương quốc Anh. Tổng Biên tập DermNet: Phó Giáo sư Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand. Biên tập bởi Gus Mitchell. Tháng 1 năm 2020.
+
+---
+
+## Pachydermodactyly là gì?
+
+Pachydermodactyly là một [bệnh u xơ](https://dermnetnz.org/topics/fibromatosis) ngón lành tính, biểu hiện bằng tình trạng dày lên quanh khớp tiến triển không triệu chứng, thường gặp nhất ở quanh khớp liên đốt ngón tay gần. Tổn thương khớp liên đốt ngón tay xa ( DIP ) hoặc khớp bàn ngón tay ( MCP ) đã được mô tả. [](https://dermnetnz.org/topics/fibromatosis)
+![Không có caption](https://dermnetnz.org/assets/Uploads/pachydermodactyly-1.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/pachydermodactyly-2.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/pachydermodactyly-3.jpg)
+
+---
+
+## Ai mắc chứng pachydermodactyly?
+
+Bệnh da dày ngón tay thường gặp nhất ở thanh thiếu niên và nam giới trẻ tuổi. Tỷ lệ nam/nữ mắc bệnh là 4:1 [1,2].
+
+---
+
+## Nguyên nhân gây ra chứng pachydermodactyly là gì?
+
+Nguyên nhân chính xác của chứng dày da ngón chân (pachydermodactyly) vẫn chưa được hiểu rõ hoàn toàn. Nó có liên quan đến kích thích cơ học lặp đi lặp lại ở những người có cơ địa di truyền. Các yếu tố nội tiết tố cũng có thể có ảnh hưởng, được minh họa bằng sự phổ biến ở nam giới và các triệu chứng xuất hiện ở tuổi dậy thì.
+Các tác nhân gây bệnh phổ biến được xác định là các thói quen như đan xen, duỗi, chà xát và bẻ ngón tay, và tăng kích ứng cơ học liên quan đến việc sử dụng máy tính, công việc, thể thao chuyên nghiệp và các hoạt động âm nhạc.
+Các mối liên quan với [bệnh xơ cứng củ](https://dermnetnz.org/topics/tuberous-sclerosis) và [hội chứng Ehlers-Danlos](https://dermnetnz.org/topics/ehlers-danlos-syndrome) đã được báo cáo [1,2].
+Sinh lý bệnh được cho là do sự lắng đọng collagen bất thường ở lớp hạ bì , đặc biệt là các sợi collagen loại III và loại V lỏng lẻo.
+
+---
+
+## Đặc điểm lâm sàng của bệnh pachydermodactyly là gì?
+
+Pachydermodactyly biểu hiện bằng tình trạng dày mô mềm đối xứng ở da hai bên khớp liên đốt ngón tay gần, thường ảnh hưởng nhất đến ngón trỏ , ngón giữa và ngón áp út của cả hai bàn tay. Ngón cái và ngón áp út hiếm khi bị ảnh hưởng. Một số bệnh nhân cũng có thể bị tăng sừng hóa , lichen hóa và tăng sắc tố da. Cử động của các ngón tay không bị hạn chế. Pachydermodactyly không liên quan đến các triệu chứng như đau hoặc cứng khớp. Không có bằng chứng về viêm màng hoạt dịch.
+Các ngón chân không bao giờ bị ảnh hưởng.
+
+---
+
+## Chẩn đoán phân biệt bệnh dày da ngón tay là gì?
+
+Các tình trạng khác có thể được xem xét trong chẩn đoán phân biệt bệnh dày da ngón tay bao gồm:
+- [Đệm khớp ngón tay](https://dermnetnz.org/topics/knuckle-pads)
+- Miếng đệm khớp ngón tay giả.
+Việc không có triệu chứng và các dấu hiệu khác khiến các tình trạng sau đây khó có thể xảy ra:
+- [Viêm khớp dạng thấp](https://dermnetnz.org/topics/rheumatoid-arthritis-and-the-skin)
+- [Viêm khớp vẩy nến](https://dermnetnz.org/topics/psoriatic-arthritis)
+- [Viêm khớp tự phát thiếu niên](https://dermnetnz.org/topics/juvenile-idiopathic-arthritis)
+- [Bệnh vi địa cầu](https://dermnetnz.org/topics/microgeodic-disease)
+- [Xơ cứng hệ thống](https://dermnetnz.org/topics/systemic-sclerosis) giai đoạn đầu [](https://dermnetnz.org/topics/systemic-sclerosis)
+- Sclerodactyly
+- Bệnh dày da màng xương nguyên phát và thứ phát.
+
+---
+
+## Bệnh pachydermodactyly được chẩn đoán như thế nào?
+
+Tiêu chuẩn chẩn đoán đã được đề xuất [2]:
+- không có triệu chứng
+- không có tình trạng cứng khớp buổi sáng ở các khớp liên quan
+- không đau hoặc nhạy cảm liên quan đến các khớp bị ảnh hưởng
+- sưng tấy ở hai bên ngón tay và không lan ra xung quanh ngón tay
+- xét nghiệm trong phòng thí nghiệm bình thường/âm tính đối với bệnh viêm khớp
+- Chụp X-quang thông thường chỉ thấy mô mềm bị sưng.
+Các cuộc điều tra về bệnh lý viêm khớp có thể bao gồm:
+- Yếu tố dạng thấp (RF)
+- Kháng thể peptide citrullinated vòng ( Anti-CCP)
+- Kháng thể kháng nhân (ANA)
+- Kháng nguyên hạt nhân có thể chiết xuất (ENA)
+- Protein phản ứng C ( CRP )
+- Chụp X-quang thường quy để đánh giá tình trạng sưng mô mềm, loãng xương quanh khớp, màng xương, xói mòn , u nang hoặc gai xương
+- Siêu âm để tìm kiếm tình trạng phì đại màng hoạt dịch , mạch máu và xói mòn xương.
+Các đặc điểm được thấy trong sinh thiết da bao gồm [1,3]:
+- Tăng sinh nguyên bào sợi
+- Sự lắng đọng collagen bất thường ở lớp hạ bì giữa và sâu
+- Tăng lắng đọng chất nhầy xung quanh các sợi collagen làm tắc nghẽn các tuyến mồ hôi eccrine
+- Đôi khi có hiện tượng tăng sừng và tăng sắc tố.
+Tình trạng viêm thường không xảy ra.
+
+---
+
+## Phương pháp điều trị bệnh dày da ngón chân là gì?
+
+Tình trạng da dày ngón tay có thể hồi phục hoặc khỏi hẳn khi ngừng kích thích cơ học (nếu có).
+[Corticosteroid tiêm nội tổn thương (triamcinolone)](https://dermnetnz.org/topics/intralesional-steroid-injection) và phẫu thuật cắt bỏ đã được thử nghiệm trong những trường hợp nghiêm trọng và mang lại một số lợi ích.
+
+---
+
+## Hậu quả của bệnh pachydermodactyly là gì?
+
+Nhìn chung, tình trạng da dày ngón tay vẫn ổn định. Hiếm khi thấy biến dạng hoặc tổn thương khớp vĩnh viễn.

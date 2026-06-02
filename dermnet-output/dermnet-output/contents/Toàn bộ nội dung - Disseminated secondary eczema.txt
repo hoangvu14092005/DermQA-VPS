@@ -1,0 +1,84 @@
+# Bệnh chàm thứ phát lan tỏa — thông tin bổ sung
+
+Thể loại:
+
+Bệnh chàm
+
+SNOMED CT:
+
+238591001, 3014005
+
+**[Bệnh chàm](https://dermnetnz.org/topics/topics?category=Eczemas)**
+
+
+# **Chàm thứ phát lan tỏa**
+
+Tác giả: Vanessa Ngan, Biên tập viên, 2003. Cập nhật bởi Phó giáo sư Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand, tháng 7 năm 2014.
+
+---
+
+## Bệnh chàm thứ phát lan tỏa là gì?
+
+Chàm thứ phát lan tỏa là [bệnh viêm da](https://dermnetnz.org/topics/dermatitis) cấp tính , toàn thân xuất hiện do phản ứng với bệnh viêm da tại chỗ . [](https://dermnetnz.org/topics/dermatitis)
+Nó còn được gọi là phản ứng id, viêm da tự nhạy cảm và tự chàm.
+![Không có caption](https://dermnetnz.org/assets/Uploads/dermatitis/a-ecz1.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/dermatitis/a-ecz2.jpg)
+
+---
+
+## Nguyên nhân nào gây ra bệnh chàm thứ phát lan tỏa?
+
+Nguyên nhân gây ra bệnh chàm thứ phát lan tỏa vẫn chưa được biết rõ. Các giả thuyết cho rằng đây là phản ứng miễn dịch với một thành phần của da và/hoặc với các tác nhân gây nhiễm trùng hoặc cytokine lưu hành.
+
+---
+
+## Ai bị bệnh chàm thứ phát lan tỏa?
+
+Bệnh chàm thứ phát lan tỏa có thể xảy ra ở trẻ em và người lớn, nhưng thường được chẩn đoán ở người lớn tuổi với tình trạng phát ban nguyên phát ở cẳng chân không được điều trị.
+Các loại bệnh chàm/viêm da phổ biến xảy ra trước bệnh chàm thứ phát lan tỏa—một loại eczematida—là:
+- [Bệnh chàm tĩnh mạch](https://dermnetnz.org/topics/venous-eczema) mãn tính [](https://dermnetnz.org/topics/venous-eczema)
+- [Viêm da tiếp xúc](https://dermnetnz.org/topics/contact-dermatitis) cấp tính [](https://dermnetnz.org/topics/contact-dermatitis)
+- [Chàm dạng đĩa](https://dermnetnz.org/topics/discoid-eczema) cấp tính hoặc mãn tính .
+Nhiễm trùng liên quan đến bệnh chàm thứ phát lan tỏa bao gồm:
+- [Nhiễm trùng da do nấm](https://dermnetnz.org/topics/fungal-skin-infections) ví dụ như bệnh [nấm da chân](https://dermnetnz.org/topics/tinea-pedis) hoặc [nấm móng](https://dermnetnz.org/topics/kerion) — [dermatophytide](https://dermnetnz.org/topics/dermatophytide-reactions)
+- [Nhiễm trùng da do vi khuẩn](https://dermnetnz.org/topics/bacterial-skin-infections) , ví dụ như [nhiễm trùng vết thương](https://dermnetnz.org/topics/wound-infections) hoặc [bỏng nhiệt](https://dermnetnz.org/topics/thermal-burn) — vi khuẩn
+- [Nhiễm virus](https://dermnetnz.org/topics/viral-skin-infections) , ví dụ như [u mềm lây](https://dermnetnz.org/topics/molluscum-contagiosum)
+- [Nhiễm trùng chân khớp](https://dermnetnz.org/topics/bugs) như [ghẻ](https://dermnetnz.org/topics/scabies) hoặc [chấy rận](https://dermnetnz.org/topics/lice) — chân dài.
+
+---
+
+## Các đặc điểm lâm sàng của bệnh chàm thứ phát lan tỏa là gì?
+
+Chàm thứ phát lan tỏa biểu hiện là một bệnh chàm cấp tính, đối xứng , toàn thân. Bệnh thường gây ngứa dữ dội, khó ngủ.
+- Cẳng tay, cẳng chân, đùi và thân mình thường bị ảnh hưởng.
+- Biểu hiện rất đa dạng và bao gồm mụn nước, cục u, mảng đóng vảy ( [chàm hình đĩa](https://dermnetnz.org/topics/discoid-eczema) ), sẩn nang , phát ban dạng sởi , tổn thương hình bia và [viêm da mụn nước ở bàn tay](https://dermnetnz.org/topics/dyshidrotic-eczema) . [](https://dermnetnz.org/topics/discoid-eczema) [](https://dermnetnz.org/topics/dyshidrotic-eczema)
+- Thỉnh thoảng, bệnh nhân có thể cảm thấy không khỏe với triệu chứng sốt và chán ăn.
+Các phản ứng dị ứng không phải chàm bao gồm [ban đỏ dạng nốt](https://dermnetnz.org/topics/erythema-nodosum) , [bệnh da liễu trung tính sốt cấp tính](https://dermnetnz.org/topics/acute-febrile-neutrophilic-dermatosis) , [bệnh vẩy nến giọt](https://dermnetnz.org/topics/guttate-psoriasis) và [tình trạng da phồng rộp](https://dermnetnz.org/topics/blistering-skin-conditions) .
+
+---
+
+## Bệnh chàm thứ phát lan tỏa được chẩn đoán như thế nào?
+
+Các triệu chứng lâm sàng của bệnh chàm thứ phát lan tỏa rất đặc trưng. Việc tìm ra nguyên nhân phụ thuộc vào việc khai thác kỹ lưỡng tiền sử bệnh lý ban đầu của bệnh. Đôi khi bệnh nhân không liên hệ phát ban nhẹ mãn tính với tình trạng phát ban lan rộng và có triệu chứng hiện tại.
+Các cuộc điều tra bổ sung có thể được xem xét bao gồm:
+- [Soi](https://dermnetnz.org/topics/trichoscopy) da ( soi [da đầu](https://dermnetnz.org/topics/head-lice) ) để tìm trứng chấy và hang để tìm mạt [ghẻ](https://dermnetnz.org/topics/scabies) [](https://dermnetnz.org/topics/head-lice) [](https://dermnetnz.org/topics/scabies)
+- Tăm bông lấy các vùng đóng vảy hoặc mụn mủ để [xét nghiệm vi khuẩn học](https://dermnetnz.org/topics/laboratory-tests-for-bacterial-infections)
+- Cạo các mảng vảy hình khuyên hoặc không có lông để [xét nghiệm nấm học](https://dermnetnz.org/topics/mycology-of-dermatophyte-infections) [](https://dermnetnz.org/topics/mycology-of-dermatophyte-infections)
+- [Sinh thiết](https://dermnetnz.org/topics/skin-biopsy) da tổn thương nguyên phát và phát ban thứ phát mô học là một bệnh viêm da xốp
+- mô học là một bệnh viêm da xốp
+- Công thức máu ở bệnh nhân không khỏe
+- Chuyển đến [xét nghiệm miếng dán](https://dermnetnz.org/topics/patch-tests) nếu nghi ngờ [dị ứng tiếp xúc](https://dermnetnz.org/topics/allergic-contact-dermatitis) Không nên tiến hành thử nghiệm vá da trong giai đoạn cấp tính của bệnh chàm thứ phát lan tỏa nhưng có thể lên kế hoạch thực hiện sau vài tháng khi bệnh đã ổn định.
+- Không nên tiến hành thử nghiệm vá da trong giai đoạn cấp tính của bệnh chàm thứ phát lan tỏa nhưng có thể lên kế hoạch thực hiện sau vài tháng khi bệnh đã ổn định.
+
+---
+
+## Phương pháp điều trị bệnh chàm thứ phát lan tỏa là gì?
+
+Phát ban nguyên phát cần được điều trị tích cực. Có thể cần điều trị toàn thân , chẳng hạn như [kháng sinh](https://dermnetnz.org/topics/antibiotics) nếu nhiễm khuẩn hoặc [thuốc kháng nấm đường uống](https://dermnetnz.org/topics/oral-antifungal-medication) nếu nhiễm [nấm dermatophytide](https://dermnetnz.org/topics/dermatophytide-reactions) đã được xác định .
+Chàm thứ phát thường lan rộng và có nhiều triệu chứng. Việc điều trị có thể bao gồm:
+- Giới thiệu để đánh giá và điều trị chuyên khoa, bao gồm cả việc nhập viện
+- [Băng ướt](https://dermnetnz.org/topics/wet-wraps) hoặc băng gạc cho các mảng chàm chảy dịch
+- [Thuốc tím](https://dermnetnz.org/topics/potassium-permanganate) 1:10.000 ngâm vào vùng bị rỉ dịch cục bộ, nhiễm trùng
+- Kem bôi [steroid tại chỗ](https://dermnetnz.org/topics/topical-steroid) hiệu quả trong 1–3 tuần
+- [Corticosteroid toàn thân](https://dermnetnz.org/topics/systemic-steroids) , chẳng hạn như prednisone hoặc prednisolone trong vài tuần
+- [Thuốc kháng histamine](https://dermnetnz.org/topics/antihistamines) an thần uống vào ban đêm.

@@ -1,0 +1,67 @@
+# Mề đay do tì đè muộn — thông tin bổ sung
+
+Thể loại:
+
+Phản ứng
+
+SNOMED CT:
+
+387788000, 387787005
+
+**[Phản ứng](https://dermnetnz.org/topics/topics?category=Reactions)**
+
+
+# **Mề đay do tì đè muộn**
+
+Tác giả: Tiến sĩ Mark Duffill, Bác sĩ da liễu, Hamilton, New Zealand, 2008.
+
+---
+
+## Mề đay do tì đè là gì?
+
+Mề đay do tì đè là một dạng [mề đay mãn tính](https://dermnetnz.org/topics/chronic-inducible-urticaria) có đặc điểm là xuất hiện các vết sưng và/hoặc [phù mạch](https://dermnetnz.org/topics/angioedema) sau khi bị tì đè lên da.
+- Mề đay do tì đè có thể xảy ra ngay sau khi có kích thích do tì đè hoặc phổ biến hơn là mề đay do tì đè muộn, xảy ra sau khoảng thời gian từ 4–6 giờ.
+- Tổn thương có thể xảy ra do nhiều kích thích khác nhau, bao gồm đứng, đi bộ, mặc quần áo chật hoặc ngồi trên bề mặt cứng.
+- Mề đay do tì đè đôi khi có thể trở nên trầm trọng hơn do nhiệt, aspirin hoặc kinh nguyệt.
+Mề đay do tì đè không phổ biến nhưng có lẽ không phải là hiếm gặp. Đây là một bệnh mãn tính với thời gian mắc bệnh trung bình là 9 năm. Độ tuổi khởi phát cao nhất là từ 20 đến 30. Bệnh còn được gọi là mề đay do tì đè muộn/ phù mạch.
+![Mề đay do tì đè](https://dermnetnz.org/assets/Uploads/reactions/pressure1.jpg)
+![Mề đay do tì đè](https://dermnetnz.org/assets/Uploads/reactions/pressure2.jpg)
+![Mề đay do tì đè](https://dermnetnz.org/assets/Uploads/reactions/pressure3.jpg)
+
+---
+
+## Triệu chứng của bệnh mề đay do tì đè là gì?
+
+Tổn thương trong mề đay do tì đè bao gồm đỏ và sưng da và mô dưới da . Tổn thương có thể kéo dài từ 8–72 giờ.
+- Bàn tay, bàn chân, thân, mông, chân và mặt thường bị ảnh hưởng nhiều nhất.
+- Các vết loét có thể kèm theo sốt , khó chịu , mệt mỏi và đôi khi là ớn lạnh, đau đầu và đau khớp nói chung.
+- Các vùng bị ảnh hưởng có thể không phát triển các tổn thương mới trong 1-2 ngày.
+- Có tới 60% bệnh nhân bị nổi mề đay do tì đè cũng bị [nổi mề đay mãn tính,](https://dermnetnz.org/topics/urticaria-an-overview) [nổi mề đay vẽ](https://dermnetnz.org/topics/dermographism) nổi tức thì và/hoặc chậm , và/hoặc [phù mạch](https://dermnetnz.org/topics/angioedema) .
+Mề đay do tì đè có tác động tiêu cực đáng kể đến chất lượng cuộc sống của bệnh nhân, gây hạn chế đáng kể trong các hoạt động hàng ngày như đi bộ hoặc đứng lâu. Bệnh có thể gây tàn tật ở những bệnh nhân lao động chân tay.
+
+---
+
+## Nguyên nhân gây ra bệnh mề đay do tì đè muộn là gì?
+
+Nguyên nhân gây mề đay do tì đè vẫn chưa rõ ràng nhưng có khả năng là một [bệnh tự miễn](https://dermnetnz.org/topics/autoimmune-diseases-in-dermatology) . Các tế bào gọi là tế bào mast đóng vai trò quan trọng trong quá trình này. Tế bào mast là các tế bào mô chứa hóa chất, bao gồm histamine , gây ra tình trạng nổi mề đay.
+
+---
+
+## Cần phải tiến hành những xét nghiệm gì khi mắc bệnh mề đay do tì đè muộn?
+
+Chẩn đoán mề đay do tì đè muộn được thực hiện trên lâm sàng. Có thể xác nhận nếu xuất hiện vết sưng tấy muộn sau khi ấn một kích thích áp lực chuẩn. Tình trạng này thường gây đau. Trong trường hợp mề đay do tì đè tức thì, vết sưng tấy sẽ xuất hiện trong vòng vài phút sau khi ấn.
+Công thức máu có thể cho thấy số lượng tế bào bạch cầu và ESR tăng lên , nhưng thường là bình thường.
+Sinh [thiết da](https://dermnetnz.org/topics/skin-biopsy) của bệnh mề đay do tì đè muộn cho thấy thâm nhiễm viêm thay đổi theo độ tuổi của vết loét. Không phát hiện thấy [tình trạng viêm mạch](https://dermnetnz.org/topics/cutaneous-vasculitis) . [](https://dermnetnz.org/topics/cutaneous-vasculitis)
+
+---
+
+## Quản lý bệnh mề đay do tì đè muộn
+
+Kết quả điều trị bệnh mề đay do tì đè tương đối đáng thất vọng.
+- Giảm thiểu áp lực kích thích ở mức có thể.
+- [Thuốc kháng histamin](https://dermnetnz.org/topics/antihistamines) giúp kiểm soát bệnh nổi mề đay mãn tính liên quan nhưng hiếm khi làm giảm bệnh nổi mề đay do tì đè.
+- [Corticosteroid bôi ngoài da](https://dermnetnz.org/topics/topical-steroid) clobetasol propionate siêu mạnh có thể làm giảm viêm. Sử dụng thường xuyên có thể gây mỏng da. Các loại steroid bôi ngoài da nhẹ hơn không mang lại hiệu quả.
+- [Corticosteroid toàn thân](https://dermnetnz.org/topics/systemic-steroids) tạo ra nhiều phản ứng khác nhau và sử dụng lâu dài có thể gây ra nhiều tác dụng phụ có hại.
+- Các liệu pháp khác có thể bao gồm thuốc kháng viêm không steroid ( NSAID ), [colchicine](https://dermnetnz.org/topics/colchicine) , [dapsone](https://dermnetnz.org/topics/dapsone) , [sulfasalazine](https://dermnetnz.org/topics/sulfasalazine) và [montelukast](https://dermnetnz.org/topics/leukotriene-antagonists) .
+- [Ciclosporin](https://dermnetnz.org/topics/ciclosporin) , [methotrexate](https://dermnetnz.org/topics/methotrexate) và [gamma globulin tiêm tĩnh mạch](https://dermnetnz.org/topics/intravenous-immunoglobulin) đã được sử dụng cho một số ít bệnh nhân mắc bệnh nặng và khó điều trị .
+- [Thuốc ức chế yếu tố hoại tử khối u alpha](https://dermnetnz.org/topics/tumour-necrosis-factor-inhibitors) đã được báo cáo là có lợi cho một số bệnh nhân.

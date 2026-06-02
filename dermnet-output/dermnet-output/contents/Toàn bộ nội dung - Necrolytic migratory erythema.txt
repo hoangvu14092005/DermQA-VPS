@@ -1,0 +1,75 @@
+# Ban đỏ di trú hoại tử — thông tin bổ sung
+
+Thể loại:
+
+Bệnh toàn thân, Phát ban
+
+SNOMED CT:
+
+15576007, 16424000, 302823005
+
+**[Bệnh toàn thân, Phát ban](https://dermnetnz.org/topics/topics?category=Systemic+diseases)**
+
+
+# **Ban đỏ di trú hoại tử**
+
+Tác giả: Tiến sĩ Amanda Oakley, Bác sĩ da liễu, Bệnh viện Waikato, Hamilton, New Zealand, 2004.
+
+---
+
+## Ban đỏ di trú hoại tử là gì?
+
+Ban đỏ di trú hoại tử là một dạng phát ban đặc trưng thường xuất hiện trong hội chứng glucagonoma . Hội chứng glucagonoma là do một khối u ung thư phát triển chậm nằm trong tế bào alpha của tuyến tụy. Glucagonoma rất hiếm gặp và ảnh hưởng đến người lớn trên 50 tuổi. Khối u tiết ra quá nhiều hormone glucagon.
+Hậu quả của việc dư thừa glucagon cũng bao gồm:
+- Bệnh tiểu đường
+- Giảm cân
+- Tiêu chảy
+- Các triệu chứng thần kinh và tâm thần
+- Huyết khối tĩnh mạch (cục máu đông)
+- Thiếu máu
+- Nồng độ axit amin lưu thông thấp
+Các tình trạng bệnh lý khác có thể dẫn đến phát ban tương tự:
+- Xơ gan
+- Bệnh celiac
+- Xơ nang gây kém hấp thu ở ruột
+- Thiếu hụt dinh dưỡng axit amin , kẽm và axit béo thiết yếu
+- Hiếm khi, điều trị bằng glucagon liều cao cho chứng tăng insulin máu bẩm sinh (đây được gọi là ban đỏ di trú hoại tử do thầy thuốc gây ra )
+
+---
+
+## Ban đỏ di trú hoại tử trông như thế nào?
+
+Ban đỏ di trú hoại tử có thể ảnh hưởng đến bất kỳ vị trí nào, nhưng thường gặp nhất là vùng sinh dục và hậu môn , mông, bẹn và cẳng chân. Mức độ phát ban dao động. Ban đầu, vùng da đỏ hình vòng tròn, phồng rộp, xói mòn và đóng vảy. Ban có thể khá ngứa và đau. Khi lành, có thể để lại vết thâm nâu.
+Nó cũng gây ra tình trạng lưỡi trơn đau, miệng đau, môi khô nứt nẻ và móng tay có rãnh.
+![Ban đỏ di trú hoại tử](https://dermnetnz.org/assets/Uploads/systemic/s/glucagon1.jpg)
+![Ban đỏ di trú hoại tử](https://dermnetnz.org/assets/Uploads/systemic/s/glucagon2.jpg)
+![Ban đỏ di trú hoại tử](https://dermnetnz.org/assets/Uploads/systemic/s/glucagon3.jpg)
+![Ban đỏ di trú hoại tử](https://dermnetnz.org/assets/Uploads/systemic/glucagonoma1.jpg)
+![Ban đỏ di trú hoại tử](https://dermnetnz.org/assets/Uploads/systemic/glucagonoma2.jpg)
+Ban đỏ di trú hoại tử trông giống như phát ban xuất hiện trong [bệnh viêm da ruột](https://dermnetnz.org/topics/acrodermatitis-enteropathica) , nguyên nhân là do thiếu kẽm.
+
+---
+
+## Ban đỏ di trú hoại tử phát sinh như thế nào?
+
+Người ta vẫn chưa biết nguyên nhân gây phát ban. Nguyên nhân có thể là do thiếu hụt kẽm, axit amin hoặc axit béo thiết yếu, có thể do khối u làm giảm lượng albumin, chất vận chuyển các chất này đi khắp cơ thể.
+Glucagon dư thừa có thể làm tăng tình trạng viêm da, đặc biệt là ở những vị trí ma sát. Nó cũng làm tăng đường huyết , cuối cùng dẫn đến bệnh tiểu đường. Glucagon phá hủy protein và chất béo, dẫn đến sụt cân, thiếu máu và giảm nồng độ axit amin.
+Bệnh ban đỏ di trú hoại tử được chẩn đoán như thế nào?
+Xét nghiệm máu có thể bao gồm:
+- Công thức máu có thể cho thấy tình trạng thiếu máu
+- Xét nghiệm dung nạp glucose để đánh giá bệnh tiểu đường
+- Chức năng gan, có thể phát hiện các khối u thứ phát ở gan
+- Nồng độ glucagon trong huyết thanh có thể cao gấp 1000 lần bình thường
+- Mức độ axit amin có thể rất thấp
+- Nồng độ insulin huyết thanh , gastrin và peptide ruột hoạt mạch có thể tiết lộ các bất thường về nội tiết khác
+Sinh [thiết da](https://dermnetnz.org/topics/skin-biopsy) của chứng ban đỏ di cư hoại tử có thể phát hiện tình trạng viêm và tách lớp bề mặt của biểu bì.
+U glucagon thường được phát hiện ở đuôi tụy bằng chụp cắt lớp vi tính ( CT ), mặc dù chụp X-quang ngực thông thường, chụp cộng hưởng từ ( MRI ) và chụp động mạch trục tạng cũng có thể hữu ích.
+
+---
+
+## Phương pháp điều trị bệnh ban đỏ di trú hoại tử là gì?
+
+Ban đỏ di trú hoại tử thường biến mất sau khi khối u glucagonoma được phẫu thuật cắt bỏ. Tuy nhiên, nếu khối u đã di căn đến các cơ quan khác như gan, phẫu thuật sẽ không hiệu quả.
+Trong khi chờ phẫu thuật, somatostatin, một loại thuốc ức chế glucagon, có thể hữu ích. Bổ sung kẽm có thể giúp cải thiện hoàn toàn tình trạng phát ban ở một số bệnh nhân.
+Các phương pháp điều trị hóa trị bao gồm streptozocin, fluorouracil, dacarbazine và octreotide cũng có thể có hiệu quả với một số bệnh nhân.
+Khoảng 50% bệnh nhân tử vong trong vòng 5 năm sau khi được chẩn đoán mắc bệnh ban đỏ di trú hoại tử.

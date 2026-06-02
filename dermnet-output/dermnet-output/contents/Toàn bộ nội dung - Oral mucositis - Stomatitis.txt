@@ -1,0 +1,86 @@
+# Viêm miệng — thông tin bổ sung
+
+Thể loại:
+
+Viêm
+
+SNOMED CT:
+
+61170000, 89013002, 31783001, 109775009, 57920007, 109257007, 1089991000119109, 403636004, 7847004, 45534005, 66383009, 405737000, 79740000
+
+**[Viêm](https://dermnetnz.org/topics/topics?category=Inflammation)**
+
+
+# **Viêm miệng**
+
+Tác giả: Tiến sĩ Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand, 2011.
+
+---
+
+## Viêm miệng là gì?
+
+Viêm miệng là tình trạng viêm niêm mạc miệng, bao gồm mặt trong của môi, má, nướu, lưỡi và cổ họng. Đây là một loại viêm niêm mạc. Nó có thể cấp tính hoặc mãn tính , nhẹ hoặc nghiêm trọng.
+Viêm môi được gọi là [viêm môi](https://dermnetnz.org/topics/cheilitis) , viêm lưỡi là viêm lưỡi , viêm nướu là [viêm lợi](https://dermnetnz.org/topics/gingivitis-and-periodontitis) , và viêm phía sau miệng là viêm họng.
+
+---
+
+## Triệu chứng của bệnh viêm miệng là gì?
+
+Viêm miệng gây ra đau, rát và nhức. Bệnh có thể biểu hiện bằng:
+- Các mảng đỏ
+- [Loét miệng](https://dermnetnz.org/topics/mouth-ulcer)
+- [Phồng rộp](https://dermnetnz.org/topics/bullous-drug-eruptions)
+- Lột da
+- Sưng tấy
+- [Rối loạn cảm giác miệng](https://dermnetnz.org/topics/oral-dysaesthesia) (tê liệt)
+- [Hội chứng bỏng miệng](https://dermnetnz.org/topics/viral-skin-infections) – đau rát mặc dù bề ngoài bình thường.
+Những điều này có thể dẫn tới mất nước và suy dinh dưỡng.
+
+---
+
+## Nguyên nhân gây viêm miệng là gì?
+
+Viêm miệng có thể do chấn thương, nhiễm trùng , dị ứng , bệnh toàn thân hoặc bệnh ngoài da. Nguyên nhân phổ biến nhất là:
+- Khô miệng / xerostomia
+- [Nhiễm trùng do virus](https://dermnetnz.org/topics/viral-skin-infections)
+- [](https://dermnetnz.org/topics/candida) Nhiễm trùng [Candida albicans](https://dermnetnz.org/topics/candida)
+- Chấn thương bao gồm phẫu thuật
+- Hút thuốc lá
+- [Độc tính của thuốc hóa trị liệu](https://dermnetnz.org/topics/skin-toxicity-of-chemotherapy-drugs) – bao gồm [methotrexate](https://dermnetnz.org/topics/methotrexate) dùng cho bệnh vẩy nến và các bệnh lý về da khác
+- [Xạ trị trị liệu](https://dermnetnz.org/topics/radiotherapy-for-malignant-skin-diseases) , ví dụ như [ung thư miệng.](https://dermnetnz.org/topics/oral-cancer)
+Một số nguyên nhân gây viêm miệng được liệt kê trong bảng dưới đây.
+Nguyên nhân gây viêm miệng Nhiễm trùng do vi khuẩn [Bệnh nha chu hoại tử](https://dermnetnz.org/topics/necrotising-periodontal-disease) [Nhiễm trùng Mycoplasma](https://dermnetnz.org/topics/mycoplasma-pneumoniae-infection) [Bệnh giang mai](https://dermnetnz.org/topics/syphilis) [Bệnh lậu](https://dermnetnz.org/topics/gonorrhoea) Hiếm gặp: [Bệnh Actinomyces](https://dermnetnz.org/topics/actinomycosis) , [bệnh lao](https://dermnetnz.org/topics/cutaneous-tuberculosis) Nhiễm trùng nấm [Nhiễm trùng Candida albicans](https://dermnetnz.org/topics/candida) ( [bệnh tưa miệng](https://dermnetnz.org/topics/oral-candidiasis) , tưa miệng) Hiếm gặp: [Bệnh nấm phổi](https://dermnetnz.org/topics/blastomycosis) , [bệnh nấm men](https://dermnetnz.org/topics/cryptococcosis) , [bệnh nấm zygomycosis](https://dermnetnz.org/topics/zygomycosis) Nhiễm trùng do virus [Nhiễm virus herpes simplex](https://dermnetnz.org/topics/herpes-simplex) [Nhiễm trùng thủy đậu](https://dermnetnz.org/topics/chickenpox) hoặc [herpes zoster](https://dermnetnz.org/topics/herpes-zoster) [Nhiễm trùng Enterovirus](https://dermnetnz.org/topics/enteroviral-infections) – [Tay chân miệng](https://dermnetnz.org/topics/hand-foot-and-mouth-disease) , hoặc [Herpangina](https://dermnetnz.org/topics/herpangina) [Nhiễm virus Epstein-Barr](https://dermnetnz.org/topics/epstein-barr-virus) – [Bệnh bạch cầu đơn nhân nhiễm trùng](https://dermnetnz.org/topics/infectious-mononucleosis) [Bệnh sởi](https://dermnetnz.org/topics/measles) – Đốm Koplik Rối loạn hệ thống [Suy dinh dưỡng](https://dermnetnz.org/topics/malnutrition-including-anorexia-nervosa) bao gồm [thiếu sắt](https://dermnetnz.org/topics/iron-deficiency) và thiếu vitamin C ( [bệnh scorbut](https://dermnetnz.org/topics/scurvy) ) [Bệnh viêm ruột](https://dermnetnz.org/topics/cutaneous-manifestations-of-inflammatory-bowel-disease) [Bệnh Behçet](https://dermnetnz.org/topics/behcet-disease) [Bệnh Kawasaki](https://dermnetnz.org/topics/kawasaki-disease) [Ban đỏ đa dạng](https://dermnetnz.org/topics/erythema-multiforme) [Hội chứng Stevens-Johnson / hoại tử biểu bì nhiễm độc](https://dermnetnz.org/topics/stevens-johnson-syndrome-toxic-epidermal-necrolysis) Ma túy [Viêm miệng do nicotine](https://dermnetnz.org/topics/nicotine-stomatitis) [Độc tính của thuốc hóa trị](https://dermnetnz.org/topics/skin-toxicity-of-chemotherapy-drugs) [](https://dermnetnz.org/topics/methotrexate) Viêm miệng do [Methotrexate](https://dermnetnz.org/topics/methotrexate) [Phát ban do thuốc dạng lichen](https://dermnetnz.org/topics/lichenoid-drug-eruption) Kích ứng vật lý [Bỏng nhiệt](https://dermnetnz.org/topics/thermal-burn) do chân nóng hoặc đồ uống nóng [Viêm miệng do răng giả](https://dermnetnz.org/topics/denture-stomatitis) Viêm miệng tiếp xúc [Viêm miệng tiếp xúc](https://dermnetnz.org/topics/contact-stomatitis) do chất kích ứng (thức ăn có tính axit hoặc sắc) và dị ứng , ví dụ như [sesquiterpene lactones](https://dermnetnz.org/topics/compositae-allergy) trong thức ăn, [kem đánh răng](https://dermnetnz.org/topics/contact-reactions-to-toothpaste-and-other-oral-hygiene-products) hoặc [keo ong](https://dermnetnz.org/topics/contact-allergy-to-propolis) Bệnh miễn dịch bọng nước [Rối loạn miễn dịch bọng nước](https://dermnetnz.org/topics/oral-blistering-diseases) [Pemphigus thông thường](https://dermnetnz.org/topics/pemphigus-vulgaris) [Bệnh pemphigus cận u](https://dermnetnz.org/topics/paraneoplastic-pemphigus) [Bệnh bóng nước IgA tuyến tính](https://dermnetnz.org/topics/linear-iga-bullous-disease) [Bọng nước dạng pemphigus](https://dermnetnz.org/topics/bullous-pemphigoid) [Pemphigoid niêm mạc](https://dermnetnz.org/topics/mucous-membrane-pemphigoid) [Pemphigoid thai kỳ](https://dermnetnz.org/topics/pemphigoid-gestationis) Khác [Viêm loét miệng mãn tính](https://dermnetnz.org/topics/chronic-ulcerative-stomatitis) [Loét áp tơ tái phát](https://dermnetnz.org/topics/aphthous-ulcer) [Lưỡi bản đồ / viêm lưỡi di cư](https://dermnetnz.org/topics/geographic-tongue) [Địa y phẳng xói mòn](https://dermnetnz.org/topics/erosive-lichen-planus) [Bệnh lupus ban đỏ](https://dermnetnz.org/topics/cutaneous-lupus-erythematosus) [Viêm da do progesterone tự miễn](https://dermnetnz.org/topics/autoimmune-progesterone-dermatitis) [Bạch sản miệng](https://dermnetnz.org/topics/carcinoma-in-situ-of-oral-cavity) ( tình trạng tiền ung thư )
+![Bệnh nấm miệng](https://dermnetnz.org/assets/Uploads/site-age-specific/candida-stomatitis.jpg)
+![Nhiễm trùng herpes simplex nghiêm trọng](https://dermnetnz.org/assets/Uploads/site-age-specific/herpetic-stomatitis.jpg)
+![Viêm miệng do bức xạ](https://dermnetnz.org/assets/Uploads/site-age-specific/radiation-stomatitis.jpg)
+![Hoại tử biểu bì nhiễm độc](https://dermnetnz.org/assets/Uploads/site-age-specific/ten-stomatitis.jpg)
+![Dị ứng tiếp xúc](https://dermnetnz.org/assets/Uploads/site-age-specific/stomatitis1.jpg)
+![Địa y phẳng xói mòn](https://dermnetnz.org/assets/Uploads/site-age-specific/erosive-lp.jpg)
+
+---
+
+## Những cuộc điều tra nào cần được tiến hành?
+
+Các cuộc điều tra có liên quan phụ thuộc vào nguyên nhân có thể gây viêm miệng và liệu nó có kèm theo các triệu chứng khác bên trong hoặc phát ban trên da hay không.
+Chúng có thể bao gồm:
+- Tăm bông vi khuẩn
+- Tăm bông virus
+- Cạo mô để nghiên cứu [nấm](https://dermnetnz.org/topics/mycology-of-dermatophyte-infections)
+- [Sinh thiết](https://dermnetnz.org/topics/skin-biopsy) để làm mô học và miễn dịch huỳnh quang trực tiếp
+- Xét nghiệm máu
+- [Kiểm tra miếng dán](https://dermnetnz.org/topics/patch-tests) để xác định dị ứng tiếp xúc
+
+---
+
+## Điều trị viêm miệng như thế nào?
+
+Việc điều trị viêm miệng phụ thuộc vào nguyên nhân. Nếu viêm miệng do dị ứng với thuốc, cần ngừng thuốc ngay lập tức. Tuy nhiên, có thể cần tiếp tục dùng thuốc gây viêm miệng khi viêm miệng xuất hiện do phản ứng phụ dự kiến ​​của hóa trị.
+Nhiễm trùng có thể cần điều trị đặc hiệu như [dùng thuốc kháng sinh](https://dermnetnz.org/topics/antibiotics) cho viêm họng do liên cầu [khuẩn](https://dermnetnz.org/topics/streptococcal-skin-infections) , [thuốc chống nấm tại chỗ](https://dermnetnz.org/topics/topical-antifungal-medication) hoặc [thuốc chống nấm đường uống](https://dermnetnz.org/topics/oral-antifungal-medication) cho nhiễm trùng candida.
+Cần xác định và khắc phục tình trạng thiếu hụt dinh dưỡng, ví dụ, axit folic có thể làm giảm viêm miệng do [methotrexate](https://dermnetnz.org/topics/methotrexate) gây ra.
+Bệnh mụn nước miễn dịch có thể được điều trị bằng [corticosteroid toàn thân](https://dermnetnz.org/topics/systemic-steroids) hoặc các phương pháp điều trị ức chế miễn dịch khác .
+Điều trị triệu chứng có thể bao gồm:
+- [](https://dermnetnz.org/topics/antiseptic) [Nước súc miệng](https://dermnetnz.org/topics/mouthwash) [sát trùng](https://dermnetnz.org/topics/antiseptic) [](https://dermnetnz.org/topics/mouthwash)
+- Keo dán bảo vệ
+- [](https://dermnetnz.org/topics/local-anaesthesia) [Nước súc miệng](https://dermnetnz.org/topics/mouthwash) hoặc xịt [gây tê tại chỗ](https://dermnetnz.org/topics/local-anaesthesia)
+- Thuốc giảm đau uống (thuốc giảm đau)
+- [Corticosteroid tại chỗ](https://dermnetnz.org/topics/topical-steroid) .

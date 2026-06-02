@@ -1,0 +1,121 @@
+# Viêm nang lông giả barbae – thông tin bổ sung
+
+Thể loại:
+
+Rối loạn nang lông
+
+SNOMED CT:
+
+399205006
+
+**[Rối loạn nang lông](https://dermnetnz.org/topics/topics?category=Follicular+disorder)**
+
+
+# **Viêm nang lông giả**
+
+Tác giả: Hana Numan, Biên tập viên Y khoa Cấp cao, Nhân viên DermNet. Tiến sĩ Jannet Gomez, Sinh viên Sau đại học chuyên ngành Da liễu Lâm sàng, Vương quốc Anh, 2016; Phó Giáo sư Amanda Oakley, Bác sĩ Da liễu, New Zealand, 1998. Biên tập bởi Gus Mitchell. Tháng 2 năm 2022
+
+---
+
+## Viêm nang lông giả barbae là gì?
+
+Viêm nang lông giả (PFB) là một phản ứng viêm phổ biến của nang lông , thường gặp nhất ở mặt do [cạo lông](https://dermnetnz.org/topics/shaving) . Còn được gọi là "sẩn do dao cạo" hoặc "sẩn do cạo râu", tình trạng này cũng có thể xảy ra ở bất kỳ vị trí nào trên cơ thể khi cạo hoặc nhổ lông, bao gồm nách , vùng mu và chân. [](https://dermnetnz.org/topics/shaving)
+[Viêm nang lông barbae](https://dermnetnz.org/topics/folliculitis-barbae) có biểu hiện tương tự nhưng là do nhiễm trùng. Viêm nang lông và viêm nang lông giả có thể cùng tồn tại.
+![Viêm nang lông giả](https://dermnetnz.org/assets/Uploads/pseudofolliculitis-6.jpg)
+![Viêm nang lông giả](https://dermnetnz.org/assets/Uploads/pseudofolliculitis-8.jpg)
+![Lông râu mọc ngược](https://dermnetnz.org/assets/Uploads/pseudofolliculitis-1.jpg)
+
+---
+
+## Ai bị viêm nang lông giả barbae?
+
+Mặc dù PFB có thể xảy ra ở nam giới thuộc mọi chủng tộc, nhưng nó chủ yếu ảnh hưởng đến nam giới gốc Phi (khoảng 45–80%). Điều này có thể là do tỷ lệ tóc xoăn chặt, thô cao hơn ở người châu Phi. Một nghiên cứu đã chứng minh rằng sự hiện diện của một thay thế nucleotide đơn trong keratin đặc hiệu của lớp nang tóc (K6hf) là một yếu tố nguy cơ bổ sung. Nó cũng có thể ảnh hưởng đến phụ nữ thuộc mọi chủng tộc, đặc biệt là ở vùng bẹn.
+Tình trạng này liên quan đến kỹ thuật cạo râu không đúng cách và phổ biến hơn ở người dùng dao cạo lưỡi so với người dùng dao cạo điện.
+
+---
+
+## Nguyên nhân gây viêm nang lông giả barbae là gì?
+
+Người ta cho rằng các nốt sần do dao cạo gây ra do sự xâm nhập vào nang lông hoặc xuyên nang lông của các sợi lông xoăn chặt, thường có bản chất thô. Chúng cũng có thể xuất hiện ở các nếp gấp da hoặc mô sẹo, tạo điều kiện cho lông thẳng xâm nhập trở lại.
+Điều này thường xảy ra do cạo sát, vì tóc cắt sẽ có đầu nhọn và có thể mọc lại bằng một trong các cách sau:
+- Chọc thủng bề mặt da (xuyên nang lông)
+- Rút lại dưới bề mặt da và đâm xuyên qua biểu mô nang lông (trong nang lông).
+Điều này sau đó dẫn đến phản ứng viêm do dị vật. Các nang lông bị tổn thương rất dễ bị nhiễm trùng, gây ra [viêm nang lông](https://dermnetnz.org/topics/folliculitis-barbae) .
+
+---
+
+## Các đặc điểm lâm sàng của bệnh viêm nang lông là gì?
+
+- Một dạng phát ban giống như mụn trứng cá biểu hiện bằng lông mọc ngược kèm theo các nốt sần nang lông màu đỏ hoặc màu da .
+- Thường gặp nhất ở mặt và cổ của nam giới sau khi cạo râu. Dưới đường viền hàm là nơi điển hình có các nang lông mọc theo nhiều hướng khác nhau. PFB cũng có thể xảy ra ở bất kỳ vị trí nào mà lông được cạo hoặc nhổ, bao gồm nách, vùng mu và chân.
+- Dưới đường viền hàm là nơi điển hình có các nang lông mọc theo nhiều hướng khác nhau.
+- PFB cũng có thể xảy ra ở bất kỳ vị trí nào mà lông được cạo hoặc nhổ, bao gồm nách, vùng mu và chân.
+- Có thể ngứa hoặc đau.
+- Các tổn thương có thể chảy máu khi cạo.
+- Có thể cùng tồn tại và trở nên trầm trọng hơn do [bệnh chàm/viêm da](https://dermnetnz.org/topics/dermatitis) .
+- Sau khi lành, [tình trạng tăng sắc tố sau viêm](https://dermnetnz.org/topics/postinflammatory-hyperpigmentation) và sẹo có thể xảy ra.
+
+---
+
+## Các đặc điểm lâm sàng khác nhau như thế nào ở các loại da khác nhau?
+
+Viêm nang lông giả thường gặp hơn ở những người có làn da sẫm màu . Tình trạng này cũng dễ xảy ra hơn ở những người có tóc xoăn và thô.
+Biến chứng của viêm nang lông giả là gì?
+- [Viêm nang lông](https://dermnetnz.org/topics/folliculitis-barbae)
+- [Áp xe](https://dermnetnz.org/topics/cutaneous-abscess)
+- [Tăng sắc tố sau viêm](https://dermnetnz.org/topics/postinflammatory-hyperpigmentation)
+- Sẹo bao gồm [sẹo lồi](https://dermnetnz.org/topics/keloid-and-hypertrophic-scar)
+![Viêm nang lông giả](https://dermnetnz.org/assets/Uploads/pseudofolliculitis-7.jpg)
+![Viêm nang lông giả](https://dermnetnz.org/assets/Uploads/doctors/bacterial-infections/images/folliculitis11.jpg)
+![Sẩn tròn sắc tố ở vùng râu trong bệnh viêm nang lông giả](https://dermnetnz.org/assets/collection/Pseudofolliculitis-barbae/pseudofolliculitis-barbae-0001.jpg)
+
+---
+
+## Viêm nang lông giả barbae được chẩn đoán như thế nào?
+
+Viêm nang lông giả là một chẩn đoán lâm sàng. Nội soi da có thể được sử dụng để hỗ trợ quan sát lông mọc ngược và loại trừ các chẩn đoán phân biệt.
+
+---
+
+## Chẩn đoán phân biệt viêm nang lông giả barbae là gì?
+
+- [Viêm nang lông](https://dermnetnz.org/topics/folliculitis-barbae)
+- [Nấm da râu](https://dermnetnz.org/topics/tinea-barbae)
+- [Mụn trứng cá thông thường](https://dermnetnz.org/topics/acne-vulgaris)
+- [Viêm nang lông sẹo lồi](https://dermnetnz.org/topics/folliculitis-keloidalis) (keloidalis nuchae)
+- [Bệnh sarcoidosis da](https://dermnetnz.org/topics/sarcoidosis)
+
+---
+
+## Phương pháp điều trị và phòng ngừa viêm nang lông là gì?
+
+Cách chữa trị an toàn và dứt điểm nhất là ngừng cạo râu, do đó bệnh nhân nên được giải thích rõ ràng nguyên nhân gây ra PFB. Điều này có thể không phù hợp với nhiều người (ví dụ: lý do công việc, văn hóa hoặc cá nhân). Nếu ngừng cạo râu, có thể mất vài tuần để phản ứng viêm chấm dứt (trong khi lông mọc lại).
+
+### Các biện pháp chung
+- [Đảm bảo kỹ thuật cạo râu](https://dermnetnz.org/topics/shaving) đúng hoặc thử nghiệm nhiều kỹ thuật khác nhau để tìm ra phương pháp phù hợp nhất. Việc này cũng có thể có lợi khi: Cạo theo hướng nang lông, không cạo ngược lại Không kéo căng da Sử dụng nét ngắn Sử dụng lưỡi dao sắc bén Tránh cạo râu ở cùng một vùng hai lần (để lại khoảng 1 mm râu) Cạo bằng tay không cạo râu ra sau lưng (để giảm sự cám dỗ làm căng da, và do đó giúp cạo sát hơn).
+- Cạo theo hướng nang lông, không cạo ngược lại
+- Không kéo căng da
+- Sử dụng nét ngắn
+- Sử dụng lưỡi dao sắc bén
+- Tránh cạo râu ở cùng một vùng hai lần (để lại khoảng 1 mm râu)
+- Cạo bằng tay không cạo râu ra sau lưng (để giảm sự cám dỗ làm căng da, và do đó giúp cạo sát hơn).
+- Thử chuyển từ dao cạo râu sang máy cạo râu điện.
+- Giảm hoạt động cạo râu, ví dụ chỉ cạo râu cách ngày.
+- [Hãy cân nhắc các phương pháp triệt lông](https://dermnetnz.org/topics/hair-removal-techniques) thay thế như [liệu pháp laser](https://dermnetnz.org/topics/lasers-in-dermatology) .
+- Đảm bảo da được [dưỡng ẩm](https://dermnetnz.org/topics/emollients-and-moisturisers) đầy đủ — các chế phẩm có chứa [axit glycolic](https://dermnetnz.org/topics/alpha-hydroxy-acid-facial-treatments) có thể tẩy tế bào chết trên bề mặt da và giảm nguy cơ xuất hiện các vết viêm mới.
+
+### Các biện pháp cụ thể
+- Kem [bôi steroid](https://dermnetnz.org/topics/topical-steroid) và/hoặc thuốc kháng khuẩn tại chỗ (ví dụ, [clindamycin](https://dermnetnz.org/topics/clindamycin) , [erythromycin](https://dermnetnz.org/topics/erythromycin) ) có thể làm giảm tình trạng viêm nhẹ và ngứa. [](https://dermnetnz.org/topics/clindamycin) [](https://dermnetnz.org/topics/erythromycin)
+- Các phương pháp điều trị mụn tại chỗ như [benzoyl peroxide](https://dermnetnz.org/topics/benzoyl-peroxide) và [tretinoin](https://dermnetnz.org/topics/isotretinoin) được sử dụng để ngăn ngừa tình trạng tăng sừng nang lông.
+- Thuốc kháng sinh uống như [tetracycline](https://dermnetnz.org/topics/tetracycline) có thể làm giảm viêm.
+- Đắp gạc bằng nước ấm, nước muối sinh lý hoặc dung dịch muối sinh lý (dung dịch nhôm axetat) trong 10 phút có thể giúp làm dịu vùng da bị tổn thương và loại bỏ lớp vảy.
+- Thuốc tẩy lông hóa học có thể giúp ngăn ngừa PFB như kem tẩy lông bari sunfua và canxi thioglycolate; những chất này có thể gây kích ứng.
+- [Liệu pháp quang động](https://dermnetnz.org/topics/photodynamic-therapy) .
+- [Triệt lông bằng laser (Nd YAG)](https://dermnetnz.org/topics/ndyag-laser-treatment) .
+
+---
+
+## Hậu quả của bệnh viêm nang lông là gì?
+
+Viêm nang lông giả thường thuyên giảm khoảng 4–6 tuần sau khi ngừng sử dụng phương pháp triệt lông gây ra tình trạng này (thường là cạo). Khả năng bị nổi mụn do dao cạo có thể giảm bớt bằng cách thử một phương pháp triệt lông khác.
+Nếu không có thay đổi nào được thực hiện, tình trạng này có thể sẽ kéo dài. Các biến chứng như nhiễm trùng hoặc sẹo có thể phát sinh và cần phải điều trị thêm.

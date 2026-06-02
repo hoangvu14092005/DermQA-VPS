@@ -1,0 +1,158 @@
+# U hắc tố không có sắc tố — thông tin bổ sung
+
+Thể loại:
+
+Tổn thương (ung thư)
+
+SNOMED CT:
+
+276751004
+
+**[Tổn thương (ung thư)](https://dermnetnz.org/topics/topics?category=Lesions+(cancerous))**
+
+
+# **U hắc tố không có sắc tố**
+
+Tác giả: Aamenah Al-Ani, Sinh viên Y khoa, Đại học Auckland, Auckland, New Zealand. Tổng biên tập DermNet: Phó Giáo sư Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand. Tháng 1 năm 2018.
+
+---
+
+## U hắc tố không có sắc tố là gì?
+
+U hắc tố không sắc tố là một dạng [u hắc tố](https://dermnetnz.org/topics/melanoma) trong đó các tế bào ác tính có rất ít hoặc không có sắc tố. Thuật ngữ "u hắc tố không sắc tố" thường được dùng để chỉ các tổn thương chỉ mất một phần sắc tố, trong khi u hắc tố không sắc tố thực sự, trong đó các tổn thương không có sắc tố, lại rất hiếm gặp.
+![U hắc tố dạng nốt](https://dermnetnz.org/assets/Uploads/amelanotic-melanoma.jpg)
+![U hắc tố móng](https://dermnetnz.org/assets/Uploads/amelanotic-nail-melanoma.jpg)
+![U hắc tố không có sắc tố 3mm](https://dermnetnz.org/assets/Uploads/amelanotic-melanoma-3mm.jpg)
+[Xem thêm hình ảnh của u hắc tố không có sắc tố](https://dermnetnz-org.translate.goog/images/amelanotic-melanoma-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+
+---
+
+## Ai mắc bệnh ung thư hắc tố không có sắc tố?
+
+U hắc tố không sắc tố chiếm khoảng 2–20% tổng số u hắc tố. Tỷ lệ mắc u hắc tố không sắc tố thực sự rất khó ước tính, vì nhiều tổn thương giảm sắc tố được gọi là u hắc tố.
+Các yếu tố nguy cơ phát triển bệnh ung thư hắc tố không sắc tố bao gồm:
+- Tuổi tác ngày càng tăng — mặc dù u hắc tố không có sắc tố chiếm tỷ lệ đáng kể trong u hắc tố ở trẻ nhỏ
+- Da tiếp xúc với ánh nắng mặt trời — đặc biệt là ở người lớn tuổi bị tổn thương da mãn tính do ánh nắng mặt trời
+- Những người có tàn nhang nghiêm trọng, tóc đỏ , da trắng và dễ bị cháy nắng so với bệnh u hắc tố sắc tố .
+
+---
+
+## Nguyên nhân nào gây ra bệnh ung thư hắc tố không có sắc tố?
+
+U hắc tố ác tính là do tế bào hắc tố ác tính gây ra . Sự phát triển ác tính ở tế bào hắc tố là do những thay đổi di truyền trong DNA , nhưng nguyên nhân và cách thức xảy ra vẫn chưa được biết rõ. Các tế bào u hắc tố trong u hắc tố không có hắc tố không thể sản xuất các hạt melanin trưởng thành , dẫn đến các tổn thương thiếu sắc tố.
+Việc thiếu sắc tố có thể là do:
+- U hắc tố không có sắc tố có thể là một phân nhóm kém biệt hóa của u hắc tố điển hình
+- U hắc tố không có sắc tố có thể là u hắc tố biệt hóa kém đã mất đi kiểu hình bình thường của nó
+- Các tế bào u hắc tố không có sắc tố có thể giữ nguyên bản chất tế bào hắc tố nhưng có khả năng hình thành các kiểu hình khác nhau (đa năng)
+- Biến thể dòng mầm có hại trong gen giảm sắc tố bạch tạng ở người .
+
+---
+
+## Đặc điểm lâm sàng của bệnh ung thư hắc tố không sắc tố là gì?
+
+U hắc tố không sắc tố thường được mô tả là "có màu da". Một tỷ lệ đáng kể u có màu đỏ, hồng hoặc đỏ. Các tổn thương ban đầu điển hình biểu hiện dưới dạng các tổn thương dạng dát không đối xứng , có thể đồng nhất màu hồng hoặc đỏ và có thể có sắc tố nâu nhạt, nâu hoặc xám nhạt ở vùng ngoại vi. Đường viền có thể rõ hoặc không rõ.
+Bất kỳ loại u ác tính nào cũng có thể không có sắc tố.
+- [U hắc tố dạng nốt có thể giống](https://dermnetnz.org/topics/nodular-melanoma) [nốt ruồi (nốt ruồi)](https://dermnetnz.org/topics/melanocytic-naevus) màu da hoặc màu hồng hoặc [ung thư biểu mô tế bào đáy](https://dermnetnz.org/topics/basal-cell-carcinoma) .
+- Với [bệnh ung thư hắc tố dưới móng](https://dermnetnz.org/topics/melanoma-of-the-nail-unit) , 25% là không có hắc tố.
+- Với [bệnh u hắc tố desmoplastic](https://dermnetnz.org/topics/desmoplastic-melanoma) , trên 50% là không có hắc tố.
+- [Ung thư hắc tố di căn](https://dermnetnz.org/topics/metastatic-melanoma) thường biểu hiện bằng các tổn thương không có sắc tố ngay cả khi tổn thương chính có sắc tố.
+U hắc tố không sắc tố có thể không biểu hiện các [tiêu chuẩn lâm sàng ABCDE](https://dermnetnz.org/topics/abcdes-of-melanoma) (Không đối xứng, Đường viền không đều, Biến đổi màu sắc, Đường kính lớn) thường được sử dụng làm dấu hiệu cảnh báo u hắc tố. Bệnh nhân và bác sĩ lâm sàng có thể không cảnh giác với các tổn thương không sắc tố nghi ngờ là u hắc tố, do đó u hắc tố không sắc tố thường bị chẩn đoán nhầm. Việc mở rộng các dấu hiệu cảnh báo ABCD để bao gồm 3 chữ R (Đỏ, Nổi, Thay đổi gần đây) có thể giúp sàng lọc u hắc tố không sắc tố.
+
+---
+
+## Ung thư hắc tố không có sắc tố được chẩn đoán như thế nào?
+
+
+### Đặc điểm lâm sàng
+U hắc tố không có sắc tố có rất ít hoặc không có sắc tố và có thể khó chẩn đoán về mặt lâm sàng.
+Tiền sử quan sát thấy sự thay đổi ở tổn thương của bệnh nhân là yếu tố chẩn đoán quan trọng đối với các tổn thương không có sắc tố và u ác tính hắc tố nên được xem xét trong chẩn đoán phân biệt.
+Việc kiểm tra toàn bộ bề mặt da cũng rất quan trọng vì tổn thương do ánh nắng mặt trời (ví dụ, [sừng hóa ánh sáng](https://dermnetnz.org/topics/actinic-keratosis) ) và các tổn thương sắc tố khác có thể cung cấp manh mối lâm sàng cho thấy tổn thương không sắc tố hoặc giảm sắc tố có thể là u hắc tố không có sắc tố.
+![U hắc tố lan rộng bề mặt không có sắc tố tại chỗ](https://dermnetnz.org/assets/Uploads/amelanotic-melanoma-2m.jpg)
+![U hắc tố dạng nốt không có sắc tố](https://dermnetnz.org/assets/Uploads/12a-amelanotic-melanoma.jpg)
+![U hắc tố dạng nốt không có sắc tố](https://dermnetnz.org/assets/Uploads/amelanotic-melanoma-m.jpg)
+
+### soi da
+[Soi da](https://dermnetnz.org/topics/dermoscopy) , tức là kiểm tra tổn thương bằng máy soi da , có thể hữu ích trong việc chẩn đoán các tổn thương đáng ngờ. Hình thái mạch máu nên được đánh giá cẩn thận nếu tổn thương không có sắc tố.
+Các đặc điểm da liễu đặc trưng của bệnh u hắc tố không có sắc tố là:
+- Sắc tố không đều (nếu có)
+- Các chấm hoặc khối cầu không đều (ở các vùng có sắc tố)
+- Các mô hình mạch máu đa hình bao gồm các vùng màu đỏ sữa, mất sắc tố dạng lưới , các mạch máu không đều dạng chấm, các mạch máu không đều dạng tuyến tính hoặc sự kết hợp của các mạch máu không đều dạng chấm và tuyến tính (phát hiện da liễu thường gặp nhất)
+- Đường màu trắng.
+
+### Soi da khối u ác tính (tổn thương tương tự như trên)
+![U hắc tố lan rộng bề mặt tại chỗ](https://dermnetnz.org/assets/Uploads/amelanotic-melanoma-2d.jpg)
+![U hắc tố dạng nốt](https://dermnetnz.org/assets/Uploads/12b-amelanotic-melanoma.jpg)
+![U hắc tố dạng nốt](https://dermnetnz.org/assets/Uploads/amelanotic-melanoma-d.jpg)
+
+### Sinh thiết
+Các tổn thương nghi ngờ là u hắc tố không sắc tố nên được cắt bỏ với biên độ lâm sàng 2–3 mm và gửi đi để chẩn đoán bệnh lý ( [sinh thiết cắt bỏ](https://dermnetnz.org/topics/excision-of-skin-lesions) ).
+U hắc tố không có sắc tố có thể có nhiều [biểu hiện bệnh lý](https://dermnetnz.org/topics/melanoma-pathology) khác nhau . U hắc tố không có sắc tố có thể ngụy trang thành nhiều khối u không phải tế bào hắc tố.
+- Một đặc điểm chính là không có hạt melanin; các vết bẩn phát hiện hạt melanin bao gồm vết bẩn Fontana-Masson.
+- [Nhuộm miễn dịch mô học](https://dermnetnz.org/topics/immunohistochemistry-stains) có thể phát hiện một số sắc tố còn sót lại trong khối u ác tính không có hắc tố và xác định các tế bào ác tính là tế bào hắc tố.
+- Kính hiển vi điện tử có thể được sử dụng để chứng minh tiền melanosome trong những trường hợp không rõ ràng.
+
+### Báo cáo bệnh lý
+Báo cáo của nhà nghiên cứu bệnh học có cả mô tả ở cấp độ đại thể và vi thể về tổn thương đã cắt bỏ và bao gồm:
+- Chẩn đoán ung thư hắc tố nguyên phát
+- Độ dày Breslow đến gần nhất 0,1 mm
+- Mức độ xâm lược của Clark
+- Biên độ cắt bỏ (mô bình thường xung quanh khối u )
+- Tốc độ phân bào (tốc độ tế bào tăng sinh nhanh như thế nào )
+- Có loét hay không.
+Báo cáo cũng có thể bao gồm các bình luận về loại tế bào và mô hình tăng trưởng, xâm lấn mạch máu hoặc dây thần kinh , phản ứng viêm , thoái triển , miễn dịch mô học và liệu có bất kỳ tổn thương tế bào hắc tố lành tính ban đầu nào liên quan hay không .
+
+#### Độ dày Breslow là gì?
+Độ dày Breslow được báo cáo cho các khối u ác tính xâm lấn . Đây là phép đo theo chiều dọc tính bằng milimét từ đỉnh của lớp hạt (hoặc đáy của vết loét nông) đến điểm sâu nhất của khối u. Độ dày Breslow là yếu tố tiên lượng tại chỗ quan trọng nhất trong khối u ác tính nguyên phát, vì khối u ác tính dày hơn có nhiều khả năng di căn (lan rộng).
+
+#### Mức độ xâm lược của Clark là bao nhiêu?
+Mức Clark biểu thị mặt phẳng giải phẫu của sự xâm lấn. Điều này hữu ích để dự đoán kết quả ở các khối u mỏng và ít hữu ích hơn đối với các khối u dày hơn so với giá trị độ dày Breslow.
+
+---
+
+## Chẩn đoán phân biệt đối với bệnh ung thư hắc tố không có sắc tố là gì?
+
+Về mặt lâm sàng, u hắc tố không sắc tố có thể biểu hiện dưới dạng các mảng , mảng hoặc nốt sần có vảy đỏ với đường viền không đều, giống với nhiều tổn thương da khác như:
+- [Ung thư biểu mô tế bào đáy](https://dermnetnz.org/topics/basal-cell-carcinoma)
+- [Nốt ruồi Spitz](https://dermnetnz.org/topics/spitz-naevus)
+- [Viêm sừng tiết bã nhờn](https://dermnetnz.org/topics/seborrhoeic-keratosis)
+- [Bệnh sừng hóa ánh sáng](https://dermnetnz.org/topics/actinic-keratosis)
+- [U hạt sinh mủ](https://dermnetnz.org/topics/pyogenic-granuloma)
+- [U xơ da](https://dermnetnz.org/topics/dermatofibroma)
+- [U sừng gai](https://dermnetnz.org/topics/keratoacanthoma)
+- [Ung thư biểu mô tế bào vảy trong biểu bì](https://dermnetnz.org/topics/intraepidermal-squamous-cell-carcinoma) .
+![Ung thư biểu mô tế bào đáy dạng nang](https://dermnetnz.org/assets/Uploads/nodulocystic-bcc.jpg)
+![Nốt ruồi Spitz](https://dermnetnz.org/assets/Uploads/melanocytic-naevus-019.jpg)
+![U hạt sinh mủ](https://dermnetnz.org/assets/Uploads/pyogenic-granuloma-023.jpg)
+
+---
+
+## Phương pháp điều trị bệnh ung thư hắc tố không có sắc tố là gì?
+
+U hắc tố không có sắc tố được điều trị theo cách tương tự như u hắc tố sắc tố.
+Sau khi cắt bỏ chẩn đoán, bước tiếp theo là cắt bỏ rộng tại chỗ vết thương với khoảng cách 10–20 mm là mô bình thường. Phạm vi phẫu thuật phụ thuộc vào độ dày Breslow của khối u ác tính và vị trí của nó. Khối u ác tính không có sắc tố có thể được cắt bỏ không hoàn toàn mặc dù đã có khoảng cách được khuyến nghị vì khoảng cách thường khó xác định. Kiểm tra mô học toàn diện , bao gồm nhuộm miễn dịch mô học, giúp xác định ranh giới của khối u. Có thể cần phải cắt bỏ lại. Khoảng cách được khuyến nghị trong Tiêu chuẩn cung cấp dịch vụ tạm thời năm 2013 cho bệnh nhân ung thư hắc tố tại New Zealand như sau:
+- [U hắc tố tại chỗ (Tis)](https://dermnetnz.org/topics/melanoma-in-situ) : 5–10 mm
+- U hắc tố < 1 mm (T1): 10 mm
+- U hắc tố 1–2 mm (T2): 10–20 mm
+- U hắc tố 2–4 mm (T3): 20 mm
+- U hắc tố > 4 mm (T4): 20 mm
+[Sinh thiết hạch gác](https://dermnetnz.org/topics/sentinel-lymph-node-biopsy) có thể được thảo luận với những bệnh nhân có khối u ác tính dày hơn 0,8 mm. Điều này có thể cung cấp thông tin về giai đoạn bệnh và tiên lượng.
+U hắc tố ác tính không có sắc tố có thể [di căn](https://dermnetnz.org/topics/metastatic-melanoma) (lan đến các vị trí xa như hạch bạch huyết hoặc các nơi khác trong cơ thể). Những trường hợp này cần được điều trị riêng biệt, có thể bao gồm [phẫu thuật](https://dermnetnz.org/topics/skin-surgery) , [xạ trị](https://dermnetnz.org/topics/radiotherapy-for-malignant-skin-diseases) , hóa trị hoặc [liệu pháp nhắm mục tiêu](https://dermnetnz.org/topics/targeted-cancer-therapies) .
+
+---
+
+## Quá trình theo dõi bệnh ung thư hắc tố không có sắc tố diễn ra như thế nào?
+
+Theo dõi là một phần quan trọng trong việc quản lý u hắc tố không sắc tố vì nó cho phép phát hiện sớm các trường hợp tái phát. Nó cũng cho phép phát hiện sớm các u hắc tố nguyên phát mới. U hắc tố xâm lấn thứ phát xảy ra ở 5–10% bệnh nhân và u hắc tố tại chỗ không liên quan ảnh hưởng đến hơn 20% bệnh nhân.
+Hướng dẫn thực hành lâm sàng năm 2008 về quản lý bệnh ung thư hắc tố ở Úc và New Zealand khuyến nghị những điều sau đây để theo dõi bệnh nhân mắc bệnh ung thư hắc tố xâm lấn:
+- [Tiến hành tự kiểm tra da](https://dermnetnz.org/topics/self-skin-examination) .
+- Bệnh nhân nên tiến hành kiểm tra da thường xuyên với chuyên gia chăm sóc sức khỏe mà họ yêu cầu.
+- Khoảng thời gian theo dõi tốt nhất là 6 tháng một lần trong 5 năm đối với bệnh nhân mắc bệnh giai đoạn 1, 3 tháng một lần hoặc 4 tháng một lần trong 5 năm đối với bệnh nhân mắc bệnh giai đoạn 2 hoặc 3 và hàng năm sau đó đối với tất cả bệnh nhân.
+- Cần xem xét nhu cầu của từng bệnh nhân trước khi đưa ra phương án theo dõi phù hợp.
+- Cần cung cấp giáo dục và hỗ trợ để giúp bệnh nhân thích nghi với bệnh tật.
+
+---
+
+## Kết quả của bệnh ung thư hắc tố không có sắc tố là gì?
+
+Tiên lượng của u hắc tố không sắc tố tương tự như u hắc tố sắc tố. Các yếu tố tiên lượng bao gồm độ dày Breslow của u hắc tố tại thời điểm cắt bỏ (đây được coi là yếu tố quan trọng nhất), vị trí tổn thương, tuổi và giới tính của bệnh nhân. Quan trọng hơn, do các đặc điểm lâm sàng không điển hình , u hắc tố không sắc tố có thể bị chẩn đoán muộn và do đó, thường tiến triển hơn u hắc tố sắc tố khi được chẩn đoán.
+Nguy cơ di căn liên quan trực tiếp đến độ dày Breslow, trong đó u hắc tố dày hơn có khả năng di căn cao hơn. Hướng dẫn Thực hành Lâm sàng năm 2008 về Quản lý U hắc tố tại Úc và New Zealand báo cáo rằng di căn hiếm gặp ở u hắc tố mỏng (< 0,75 mm), với nguy cơ tăng lên 5% đối với u hắc tố dày 0,75–1,00 mm. U hắc tố dày hơn 4,0 mm có nguy cơ di căn cao hơn đáng kể là 40%.

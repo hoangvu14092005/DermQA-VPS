@@ -1,0 +1,85 @@
+# Bệnh tăng tiết mồ hôi do rụng trứng — thông tin bổ sung
+
+Thể loại:
+
+Bệnh hệ thống
+
+SNOMED CT:
+
+26147006, 238753004
+
+**[Bệnh hệ thống](https://dermnetnz.org/topics/topics?category=Systemic+diseases)**
+
+
+# **Tăng tiết mồ hôi sắc tố**
+
+Tác giả: Bác sĩ Duncan Lyons, Bác sĩ Nội trú, Bệnh viện Đại học Gold Coast, Gold Coast, Queensland, Úc. Biên tập viên Y khoa: Bác sĩ Helen Gordon, Chuyên gia Da liễu, Auckland, New Zealand. Tổng biên tập DermNet: Phó Giáo sư Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand. Biên tập bởi Gus Mitchell. Tháng 7 năm 2020.
+
+---
+
+## Bệnh đổ mồ hôi sắc tố là gì?
+
+Tăng tiết mồ hôi sắc tố là tình trạng tuyến mồ hôi apocrine sản xuất ra mồ hôi có màu .
+![Má chuyển sang màu xanh](https://dermnetnz.org/assets/Uploads/apocrine-chromhidrosis-01.jpg)
+![Da đầu đổi màu xanh](https://dermnetnz.org/assets/Uploads/apocrine-chromhidrosis-02.jpg)
+![Lau sạch vết đổi màu xanh bằng tăm bông tẩm cồn](https://dermnetnz.org/assets/Uploads/apocrine-chromhidrosis-03.jpg)
+
+---
+
+## Ai mắc chứng tăng tiết mồ hôi?
+
+Tăng tiết mồ hôi sắc tố (apocrine chromositrosis) rất hiếm gặp. Tình trạng này thường bắt đầu sau tuổi dậy thì, khi các tuyến apocrine đã trưởng thành, nhưng cũng đã được ghi nhận ở trẻ sơ sinh. Tăng tiết mồ hôi sắc tố xảy ra ở cả hai giới.
+
+---
+
+## Nguyên nhân nào gây ra chứng đổ mồ hôi sắc tố?
+
+Tăng tiết mồ hôi do tuyến mồ hôi apocrine (apocrine chromositrosis) là do các hạt lipofuscin trong tuyến mồ hôi apocrine. Người ta cho rằng lipofuscin được sản xuất từ ​​quá trình oxy hóa các axit béo không bão hòa trong tuyến. Mức độ oxy hóa cao hơn dẫn đến màu sắc sẫm hơn. Nguyên nhân của hiện tượng này vẫn chưa được biết rõ.
+
+---
+
+## Các đặc điểm lâm sàng của bệnh tăng tiết mồ hôi đầu rụng là gì?
+
+Bệnh tăng tiết mồ hôi sắc tố biểu hiện bằng tình trạng mồ hôi có màu tập trung ở các tuyến mồ hôi ở nách , trên mặt (đặc biệt là má), quầng vú và vùng hậu môn sinh dục .
+Mồ hôi có thể có màu xanh lam, đen, xanh lá cây, nâu hoặc vàng, tùy thuộc vào trạng thái oxy hóa của lipofuscin, làm ố da và quần áo. Bệnh nhân đặc biệt dễ nhận thấy tình trạng này sau khi tập thể dục hoặc căng thẳng về cảm xúc, và có thể dẫn đến việc phải thay quần áo nhiều lần mỗi ngày.
+Việc tiết mồ hôi có màu có thể xuất hiện trước khi có cảm giác ngứa ran hoặc nóng ở vùng da bị ảnh hưởng.
+
+---
+
+## Chẩn đoán phân biệt bệnh tăng tiết mồ hôi đầu rụng là gì?
+
+Cần phân biệt chứng tăng tiết mồ hôi apocrine với [chứng tăng tiết mồ hôi giả](https://dermnetnz.org/topics/pseudochromhidrosis) và [chứng tăng tiết mồ hôi eccrine](https://dermnetnz.org/topics/eccrine-chromhidrosis) .
+
+### Bệnh đổ mồ hôi giả
+[Mồ hôi giả sắc tố](https://dermnetnz.org/topics/pseudochromhidrosis) là mồ hôi bị đổi màu sau khi đã được tiết ra. Tình trạng này phổ biến hơn mồ hôi sắc tố.
+
+### Tăng tiết mồ hôi sắc tố ngoại tiết
+[Tăng tiết mồ hôi sắc tố là tình trạng](https://dermnetnz.org/topics/eccrine-chromhidrosis) tuyến mồ hôi sắc tố sản xuất ra mồ hôi có màu .
+
+---
+
+## Bệnh tăng tiết mồ hôi đầu rụng được chẩn đoán như thế nào?
+
+Bệnh tăng tiết mồ hôi sắc tố thường được chẩn đoán lâm sàng. Có thể sử dụng các xét nghiệm sau để xác nhận chẩn đoán:
+- Biểu hiện mồ hôi từ vùng bị ảnh hưởng có thể tiết ra mồ hôi màu và nhanh khô
+- [Kiểm tra đèn gỗ](https://dermnetnz.org/topics/wood-lamp-skin-examination) có thể cho thấy huỳnh quang màu vàng
+- Kính hiển vi của mồ hôi đổi màu mới tiết ra cho thấy các hạt lipofuscin
+- Sinh [thiết da](https://dermnetnz.org/topics/skin-biopsy) xác nhận chẩn đoán nếu tìm thấy các hạt sắc tố lipofuscin dương tính với PAS trong các tế bào đỉnh của tuyến mồ hôi.
+Các xét nghiệm khác có thể bao gồm:
+- Cạo da và nuôi cấy để loại trừ vi khuẩn sinh sắc tố gây bệnh giả mồ hôi
+- Xét nghiệm chức năng gan và chức năng thận để loại trừ tình trạng tăng bilirubin máu và urê máu.
+
+---
+
+## Điều trị bệnh tăng tiết mồ hôi đầu rụng như thế nào?
+
+Các phương pháp điều trị có hiệu quả trong điều trị chứng đổ mồ hôi nhiều do tăng tiết mồ hôi bao gồm:
+- Kem bôi ngoài da [capsaicin](https://dermnetnz.org/topics/capsaicin) , có tác dụng làm giảm chất P (một chất dẫn truyền thần kinh quan trọng trong quá trình sản xuất mồ hôi ở tuyến mồ hôi apocrine)
+- [Tiêm độc tố Botulinum](https://dermnetnz.org/topics/botulinum-toxin) loại A.
+Những phương pháp điều trị này tạm thời làm giảm tiết mồ hôi và tình trạng đổi màu sẽ tái phát khi tác dụng giảm tiết mồ hôi mất đi.
+
+---
+
+## Hậu quả của bệnh tăng tiết mồ hôi đầu rụng là gì?
+
+Tăng tiết mồ hôi đầu (apocrine chromicdrosis) là một tình trạng mãn tính lành tính . Tình trạng này sẽ giảm dần theo tuổi tác khi các tuyến apocrine dần dần hoạt động kém đi.

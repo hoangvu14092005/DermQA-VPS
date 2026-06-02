@@ -1,0 +1,85 @@
+# Naevus xứ Ota, naevus xứ Ito và naevus xứ Hori — thông tin bổ sung
+
+Thể loại:
+
+Tổn thương (lành tính)
+
+SNOMED CT:
+
+254817005, 48543002
+
+**[Tổn thương (lành tính)](https://dermnetnz.org/topics/topics?category=Lesions+(benign))**
+
+
+# **Naevus của Ota, naevus của Ito và naevus của Hori**
+
+Tác giả: Vanessa Ngan, Biên tập viên, 2003.
+
+---
+
+## Nốt ruồi là gì?
+
+Nốt ruồi (tiếng Mỹ: nevus , nevi) là một dị tật giới hạn và ổn định của một thành phần da. [Nốt ruồi](https://dermnetnz.org/topics/congenital-naevi) (tiếng Mỹ: nevi) thường xuất hiện ngay từ khi sinh, thường được gọi là vết bớt màu nâu. Nốt ruồi được tạo thành từ tế bào hắc tố ( tế bào sắc tố sản xuất melanin ) được gọi là nốt ruồi hắc tố hoặc nốt ruồi sắc tố . [](https://dermnetnz.org/topics/congenital-naevi)
+
+---
+
+## Ota, Ito và Hori naevi là gì?
+
+Nốt ruồi Ota, nốt ruồi Ito và nốt ruồi Hori là những nốt ruồi tế bào hắc tố đặc biệt có màu nâu xám hoặc xanh xám. Chúng là những dạng tăng sinh hắc tố ở da , trong đó các tế bào nốt ruồi nằm sâu trong lớp hạ bì.
+- Nốt ruồi Ota xuất hiện trên trán và mặt, xung quanh vùng mắt. Có thể xảy ra tình trạng tăng sắc tố ở một số vùng của mắt ( củng mạc , giác mạc , mống mắt, võng mạc).
+- Nốt ruồi Hori tương tự như nốt ruồi Ota nhưng ảnh hưởng đến cả hai bên mặt
+- Nốt ruồi Ito nằm ở vùng vai và cánh tay trên (đai vai).
+Bệnh tăng sắc tố da cũng có thể xảy ra ở những nơi khác trên cơ thể, bao gồm cả bên trong miệng.
+
+### Nốt ruồi Ota
+![Nốt ruồi Ota](https://dermnetnz.org/assets/Uploads/lesions/ota2.jpg)
+![Nốt ruồi Ota](https://dermnetnz.org/assets/Uploads/lesions/ota.jpg)
+![Nốt ruồi Ota](https://dermnetnz.org/assets/Uploads/lesions/ota3.jpg)
+
+### Naevus của Ito
+![Naevus của Ito](https://dermnetnz.org/assets/Uploads/lesions/ito.jpg)
+![Naevus của Ito](https://dermnetnz.org/assets/Uploads/lesions/melanocytosis-ito.jpg)
+
+---
+
+## Bệnh tăng sắc tố da xuất hiện như thế nào và ai có nguy cơ mắc bệnh?
+
+Nguyên nhân gây ra chứng tăng sinh hắc tố ở da vẫn chưa được biết rõ. Các đột biến cụ thể đã được phát hiện trong tế bào hắc tố ở da, thường gặp nhất là GNAQ hoặc GNA11. Các nhà nghiên cứu cho rằng hormone đóng vai trò trong sự phát triển của chúng. Vai trò của tia cực tím được cho là nhỏ vì nó không tác động đến các tế bào hắc tố ở sâu trong da.
+Nốt ruồi Ota phổ biến hơn nhiều so với nốt ruồi Ito. Những nốt ruồi này xuất hiện ngay từ khi sinh ở 50% trường hợp nhưng có thể xuất hiện trong giai đoạn vị thành niên hoặc trưởng thành. Nốt ruồi Hori không xuất hiện ngay từ khi sinh và do đó là một dạng tăng sắc tố mắc phải.
+Nốt ruồi Ota và Ito thường gặp nhất ở người châu Á; 0,2–0,6% người Nhật Bản có nốt ruồi Ota. Chúng xuất hiện thường xuyên hơn ở phụ nữ. Cả hai dạng nốt ruồi này đều không phổ biến ở người da trắng.
+
+---
+
+## Những dấu hiệu, triệu chứng và biến chứng của bệnh tăng sắc tố da là gì?
+
+Trong tất cả các dạng bệnh tăng sắc tố da:
+- Màu sắc có thể thay đổi bao gồm các sắc thái nâu-tím, tím-xanh lam hoặc xanh lam-xanh lục
+- Nốt ruồi xuất hiện ở trẻ em có thể phát triển chậm và sẫm màu cho đến khi trưởng thành
+- Màu sắc hoặc màu sắc cảm nhận được của nốt ruồi có thể thay đổi tùy theo điều kiện cá nhân và môi trường, ví dụ như mệt mỏi, kinh nguyệt, thời tiết nóng
+- Nếu ảnh hưởng đến mắt, bệnh tăng sản hắc tố hiếm khi gây ra bệnh tăng nhãn áp
+- [Ung thư hắc tố](https://dermnetnz.org/topics/melanoma) rất hiếm khi phát triển trong tình trạng tăng sinh hắc tố ở da và thường được báo cáo ở người da trắng. [Ung thư hắc tố ở mắt](https://dermnetnz.org/topics/ocular-melanoma) hiếm khi được báo cáo ở màng mạch, não, hốc mắt, mống mắt, thể mi và dây thần kinh thị giác kết hợp với nốt ruồi Ota.
+
+---
+
+## Chẩn đoán bệnh tăng sắc tố da được thực hiện như thế nào?
+
+Chẩn đoán bệnh tăng sắc tố da thường được thực hiện bằng cách quan sát sự đổi màu da điển hình. Bệnh được phân loại theo vị trí bị ảnh hưởng.
+Một số bệnh nhân có thể phải sinh thiết da để xác nhận sự hiện diện của tế bào hắc tố trong lớp hạ bì.
+Các tình trạng da khác dẫn đến da xanh xao hoặc xám cũng có thể được xem xét. Bao gồm:
+- [Nốt ruồi xanh](https://dermnetnz.org/topics/blue-naevus)
+- [Sắc tố do thuốc gây ra](https://dermnetnz.org/topics/drug-induced-pigmentation) , thường là do minocycline, một loại kháng sinh [tetracycline](https://dermnetnz.org/topics/tetracycline)
+- [Nám da](https://dermnetnz.org/topics/melasma)
+- [Sắc tố sau viêm](https://dermnetnz.org/topics/postinflammatory-hyperpigmentation)
+- [Bệnh liken phẳng sắc tố](https://dermnetnz.org/topics/erythema-dyschromicum-perstans) và [bệnh da xám](https://dermnetnz.org/topics/erythema-dyschromicum-perstans)
+
+---
+
+## Có những phương pháp điều trị nào cho bệnh tăng sắc tố tế bào?
+
+Việc điều trị chứng tăng sắc tố da có thể bao gồm [ngụy trang thẩm mỹ](https://dermnetnz.org/topics/cosmetic-camouflage) để che đi các vết biến dạng và [điều trị bằng laser (thường sử dụng laser](https://dermnetnz.org/topics/lasers-in-dermatology) [Nd:YAG](https://dermnetnz.org/topics/ndyag-laser-treatment) chuyển mạch Q 1064nm , [Alexandrite](https://dermnetnz.org/topics/alexandrite-laser-treatment) hoặc QS [ruby](https://dermnetnz.org/topics/ruby-laser-treatment) ) hoặc [ánh sáng xung cường độ cao (IPL)](https://dermnetnz.org/topics/intense-pulsed-light-therapy) . [](https://dermnetnz.org/topics/ndyag-laser-treatment) [](https://dermnetnz.org/topics/alexandrite-laser-treatment) [](https://dermnetnz.org/topics/ruby-laser-treatment) [](https://dermnetnz.org/topics/intense-pulsed-light-therapy)
+- [Tia laser pico giây](https://dermnetnz.org/topics/picosecond-laser) có thể là thiết bị hiệu quả nhất.
+- Các thiết bị laser và ánh sáng hoạt động bằng cách phá hủy các tế bào hắc tố ở da.
+- Cần phải thực hiện nhiều phương pháp điều trị, thường là kết hợp nhiều thiết bị.
+- Điều trị bằng tia laser có hiệu quả hơn trong điều trị bệnh tăng sắc tố ở những người da sáng so với những người da sẫm màu.
+- Tái phát thường xảy ra sau khi điều trị bằng tia laser, đôi khi dẫn đến tình trạng da sẫm màu hơn so với trước khi điều trị.
+Nếu mắt bị ảnh hưởng, cần khám mắt định kỳ để phát hiện bệnh tăng nhãn áp. Bất kỳ thay đổi nào ở nốt ruồi cũng cần được bác sĩ da liễu đánh giá.

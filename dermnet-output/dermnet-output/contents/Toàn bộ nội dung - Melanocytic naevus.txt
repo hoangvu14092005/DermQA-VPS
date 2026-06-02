@@ -1,0 +1,156 @@
+# Nốt ruồi hắc tố — thông tin bổ sung
+
+Thể loại:
+
+Tổn thương (lành tính)
+
+SNOMED CT:
+
+400096001, 402552003, 399899001, 400010006, 398696001, 302838006, 398943008, 254804007, 398028009, 254806009, 254815002, 201281002, 398660000, 254817005, 40467008, 398028009, 254811006, 254812004, 254818000
+
+**[Tổn thương (lành tính)](https://dermnetnz.org/topics/topics?category=Lesions+(benign))**
+
+
+# **Nốt ruồi hắc tố**
+
+Tác giả: Tiến sĩ Amanda Oakley, Bác sĩ da liễu, Hamilton New Zealand, năm 1997. Cập nhật vào tháng 1 năm 2016.Nguồn: Nhiều hình ảnh được cung cấp bởi MoleMap NZ.
+
+---
+
+## Nốt ruồi hắc tố là gì?
+
+Nốt ruồi (tiếng Mỹ: 'nevus'), hay nốt ruồi, là một tổn thương da lành tính phổ biến do sự tăng sinh cục bộ của các tế bào sắc tố (melanocyte). Đôi khi nó được gọi là nốt ruồi tế bào hoặc chỉ đơn giản là 'naevus' (nhưng lưu ý rằng có nhiều loại [nốt ruồi khác).](https://dermnetnz.org/topics/congenital-naevi) Nốt ruồi tế bào hắc tố màu nâu hoặc đen chứa sắc tố melanin , vì vậy cũng có thể được gọi là nốt ruồi sắc tố .
+Nốt ruồi hắc tố có thể xuất hiện ngay từ khi sinh ( [nốt ruồi hắc tố bẩm sinh](https://dermnetnz.org/topics/congenital-melanocytic-naevi) ) hoặc xuất hiện muộn hơn (nốt ruồi mắc phải). Có nhiều loại nốt ruồi hắc tố bẩm sinh và mắc phải (cách viết tiếng Mỹ là 'nevi').
+
+---
+
+## Ai bị nốt ruồi hắc tố?
+
+Hầu như mọi người đều có ít nhất một nốt ruồi hắc tố.
+- Khoảng 1% số người sinh ra đã có một hoặc nhiều nốt ruồi hắc tố bẩm sinh . Tình trạng này thường xảy ra lẻ tẻ, với một số ít trường hợp có di truyền bẩm sinh .
+- Những người da trắng có xu hướng có nhiều nốt ruồi hắc tố hơn những người da sẫm màu.
+- Nốt ruồi hắc tố xuất hiện trong thời thơ ấu (từ 2 đến 10 tuổi) có xu hướng nổi bật và dai dẳng nhất trong suốt cuộc đời.
+- Nốt ruồi hắc tố xuất hiện muộn hơn ở trẻ em hoặc người trưởng thành thường xuất hiện sau khi tiếp xúc với ánh nắng mặt trời và có thể mờ dần hoặc thoái triển sau này.
+Hầu hết người da trắng ở New Zealand đều có 20–50 nốt ruồi hắc tố.
+
+---
+
+## Nguyên nhân nào gây ra nốt ruồi hắc tố?
+
+Mặc dù lý do chính xác cho sự gia tăng tế bào nốt ruồi tại chỗ vẫn chưa được biết rõ, nhưng rõ ràng là số lượng nốt ruồi hắc tố ở một người phụ thuộc vào các yếu tố di truyền , mức độ tiếp xúc với ánh nắng mặt trời và tình trạng miễn dịch.
+- Những người có nhiều nốt ruồi hắc tố thường có thành viên trong gia đình cũng có nhiều tổn thương tương tự.
+- Đột biến thể khảm ở gen RAS có liên quan đến [nốt ruồi hắc tố bẩm sinh](https://dermnetnz.org/topics/congenital-melanocytic-naevi) .
+- Có thể xuất hiện nốt ruồi hắc tố mới sau khi sử dụng thuốc ức chế BRAF ( [vemurafenib](https://dermnetnz.org/topics/vemurafenib) , [dabrafenib](https://dermnetnz.org/topics/dabrafenib) ).
+- Những người sống ở Úc và New Zealand có nhiều nốt ruồi hơn so với người thân của họ sống ở Bắc Âu.
+- [Điều trị ức chế miễn dịch](https://dermnetnz.org/topics/drug-induced-immunosuppression) có thể làm tăng số lượng nốt ruồi.
+
+---
+
+## Các đặc điểm lâm sàng của nốt ruồi hắc tố là gì?
+
+Nốt ruồi hắc tố có nhiều biểu hiện lâm sàng, hình ảnh da liễu và mô học khác nhau .
+- Chúng có thể xuất hiện ở bất kỳ bộ phận nào của cơ thể.
+- Chúng có hình dạng khác nhau tùy thuộc vào vị trí trên cơ thể.
+- Chúng có thể phẳng hoặc lồi.
+- Chúng có nhiều màu sắc khác nhau, từ màu hồng hoặc màu da đến màu nâu sẫm, xanh thép hoặc đen.
+- Những người da sáng thường có nốt ruồi màu sáng và những người da sẫm màu thường có nốt ruồi màu nâu sẫm hoặc đen.
+- Mặc dù chủ yếu có hình tròn hoặc hình bầu dục, nhưng đôi khi nốt ruồi cũng có hình dạng bất thường.
+- Chúng có kích thước đường kính từ vài milimét đến vài centimet.
+
+---
+
+## Phân loại nốt ruồi hắc tố
+
+
+### Bớt sắc tố bẩm sinh
+[Nốt ruồi hắc tố bẩm sinh](https://dermnetnz.org/topics/congenital-melanocytic-naevi) được phân loại theo kích thước thực tế hoặc kích thước dự đoán khi trưởng thành ở kích thước tối đa và các đặc điểm cụ thể.
+Nốt ruồi bẩm sinh nhỏ Nốt ruồi bẩm sinh trung bình Nốt ruồi khổng lồ Nốt ruồi bẩm sinh có lông Nốt ruồi bẩm sinh nhỏ có đường kính 1,5 cm. Nốt ruồi bẩm sinh trung bình có đường kính từ 1,5–19,9 cm. Nốt ruồi hắc tố bẩm sinh lớn hoặc khổng lồ có kích thước ≥ 20 cm Nốt ruồi bẩm sinh có lông mọc dài và dày. ![](/assets/Uploads/lesions/small.jpg) ![ ](/assets/Uploads/lesions/medium.jpg) ![](/assets/Uploads/lesions/giant.jpg) ![](/assets/Uploads/lesions/w/hairy2.jpg)
+Café au lait macule Nốt ruồi có đốm Nốt ruồi Ota đốm Mông Cổ Café au lait macule là một mảng màu nâu phẳng. Nốt ruồi lốm đốm là mảng màu nâu phẳng có các đốm sẫm màu hơn. [Nốt ruồi Ota](https://dermnetnz.org/topics/naevus-of-ota-ito-hori) là vết màu nâu xanh quanh trán, mắt và má. [Đốm Mông Cổ](https://dermnetnz.org/topics/lumbosacral-dermal-melanocytosis) là một vết lớn màu xanh thường thấy ở mông trẻ sơ sinh. ![ ](/assets/Uploads/lesions/calm2.jpg) ![](/assets/Uploads/lesions/speckled2.jpg) ![](/assets/Uploads/lesions/w/ota4.jpg) ![ ](/assets/Uploads/lesions/w/mongolian.jpg)
+Phân loại bệnh lý của nốt ruồi hắc tố liên quan đến vị trí tìm thấy tế bào nốt ruồi trên da.
+Nốt ruồi nối Nốt ruồi ở da Nốt ruồi kép Nốt ruồi kết hợp Nốt ruồi nối có các nhóm hoặc tổ tế bào nốt ruồi ở chỗ nối giữa lớp biểu bì và lớp hạ bì. Nốt ruồi phẳng. Nốt ruồi ở bì hoặc trong bì có các tổ tế bào nốt ruồi ở lớp hạ bì. Nốt sẩn , mảng hoặc nốt sần có bề mặt có cuống , dạng u nhú (nốt ruồi Unna) hoặc nhẵn (nốt ruồi Miescher). Nốt ruồi kép có các ổ tế bào nốt ruồi ở ranh giới biểu bì - hạ bì cũng như bên trong lớp hạ bì. Vùng trung tâm nhô lên, bao quanh bởi một mảng phẳng. Nốt ruồi kết hợp có hai loại nốt ruồi riêng biệt trong cùng một tổn thương – thường là nốt ruồi xanh và nốt ruồi kép. ![ ](/assets/Uploads/lesions/mole2.jpg) ![](/assets/Uploads/lesions/mole3.jpg) ![](/assets/Uploads/lesions/compound-naevus.jpg) ![](/assets/manualthumbnails/lesions/img/combined-naevus-sm.jpg)
+[Xem thêm hình ảnh nốt ruồi](https://dermnetnz-org.translate.goog/topics/mole-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp) .
+[Soi da](https://dermnetnz.org/topics/dermoscopy) đã đưa ra một phân loại mới dựa trên các kiểu sắc tố của nốt ruồi hắc tố. Ví dụ bao gồm:
+Nốt ruồi lưới Nốt ruồi hình cầu Nốt ruồi xanh Nốt ruồi hình sao Nốt ruồi dạng lưới cho thấy một mạng lưới các đường màu nâu giao nhau. Nốt ruồi hình cầu đặc trưng với các cấu trúc hình bầu dục màu nâu tập trung. Nốt ruồi xanh là tổn thương không có cấu trúc đồng nhất, có màu xanh thép. Nốt ruồi hình sao cho thấy các đường xuyên tâm xung quanh vùng ngoại vi của tổn thương. ![](/assets/Uploads/lesions/reticular.jpg) ![](/assets/Uploads/lesions/globular.jpg) ![ ](/assets/Uploads/lesions/blue-naevus.jpg) ![](/assets/Uploads/lesions/starburst.jpg)
+Nốt ruồi liên quan đến vị trí: mặt Nốt ruồi liên quan đến vị trí: acral Naevus có đặc điểm đặc biệt Nốt ruồi không thể phân loại Nốt ruồi trên mặt tiết lộ mạng lưới giả xung quanh nang lông Nốt ruồi Acral (nốt ruồi ở lòng bàn tay và lòng bàn chân) có xu hướng tạo thành các đường song song. Naevi với các đặc điểm đặc biệt bao gồm naevi chàm (hình minh họa), naevi kích ứng và [naevi quầng](https://dermnetnz.org/topics/halo-naevus) . Nốt ruồi không thể phân loại không có bất kỳ kiểu mẫu nào khác. ![ ](/assets/Uploads/lesions/facial.jpg) ![](/assets/Uploads/lesions/acral.jpg) ![](/assets/Uploads/lesions/meyerson.jpg) ![](/assets/Uploads/lesions/unclassifiable.jpg)
+
+### Nốt ruồi hắc tố mắc phải
+Nốt ruồi thông thường xuất hiện sau khi sinh có thể được gọi là nốt ruồi mắc phải. Nốt ruồi mắc phải có nhiều tên gọi khác nhau và có sự trùng lặp đáng kể về mô tả.
+Nốt ruồi đặc trưng là nhóm nốt ruồi chiếm ưu thế ở một cá nhân có nhiều nốt ruồi.
+Nốt ruồi nâu đặc Nốt ruồi hồng đậm Nốt ruồi nhật thực Nốt ruồi hình con gà trống Nốt ruồi nâu đặc có sắc tố nâu đồng nhất. Nốt ruồi màu hồng đậm xuất hiện ở những người da trắng và không có sắc tố melanin. Nốt ruồi nhật thực có một vòng hoặc một đoạn của vòng, có sắc tố sẫm màu hơn xung quanh phần trung tâm màu nâu rám nắng hoặc hồng. Thường xuất hiện ở da đầu. Nốt ruồi hình hoa thị, hay nốt ruồi en cocarde/cockade, có một nốt ruồi sẫm màu ở giữa được bao quanh bởi các vòng tròn đồng tâm có sắc tố sáng và tối giống như một hoa thị. ![](/assets/Uploads/lesions/solid-brown.jpg) ![](/assets/Uploads/solid-pink.jpg) ![](/assets/Uploads/lesions/eclipse-naevus.jpg) ![](/assets/Uploads/lesions/naevus-en-cocarde.jpg)
+Nốt ruồi với tình trạng giảm sắc tố quanh nang lông Nốt ruồi trứng chiên nốt ruồi dạng nốt ruồi Nốt ruồi có sắc tố lệch tâm Nốt ruồi kèm theo giảm sắc tố quanh nang lông có các đốm trắng xung quanh mỗi sợi lông. Dễ phát hiện hơn bằng phương pháp soi da. Nốt ruồi trứng chiên là nốt ruồi hỗn hợp có viền phẳng chứa sắc tố xung quanh phần trung tâm gồ ghề – phần gồ ghề có thể sáng màu hơn hoặc tối màu hơn viền có sắc tố. Nốt ruồi dạng hạt đậu là những tổn thương nhỏ, màu nâu sẫm hoặc đen, phẳng, thường có viền hơi nhạt màu – những người có nhiều nốt ruồi dạng hạt đậu được cho là có kiểu hình giống báo gêpa. Dấu hiệu Bolognia là một vùng nhỏ, vô hại, có màu sẫm hơn ở một bên nốt ruồi. ![](/assets/Uploads/follicular-hypopigmentation.jpg) ![](/assets/Uploads/lesions/fried-egg-naevus-sm.jpg) ![ ](/assets/Uploads/doctors/dermoscopy-course/images/lentiginous-naevus-1.jpg) ![](/assets/Uploads/lesions/eccentric-pigment.jpg)
+Các loại nốt ruồi hắc tố không phổ biến bao gồm:
+- [Nốt ruồi Spitz](https://dermnetnz.org/topics/spitz-naevus) hay nốt ruồi tế bào biểu mô : nốt ruồi hình vòm màu hồng (Spittz điển hình) hoặc màu nâu (Spittz sắc tố) xuất hiện ở trẻ em và thanh thiếu niên.
+- Nốt ruồi hình cây sậy: loại nốt ruồi Spitz có sắc tố sẫm màu với họa tiết da hình sao
+- Nốt ruồi ác tính : một cụm các nốt ruồi giống nhau
+- Nốt ruồi hôn: nốt ruồi hắc tố liền kề ở mí mắt trên và dưới, do hình thành nốt ruồi trước khi mí mắt tách ra trong tử cung.
+Thuật ngữ [nốt ruồi bất thường](https://dermnetnz.org/topics/atypical-melanocytic-naevus) có thể được sử dụng theo nhiều cách.
+- Một tổn thương lành tính có một số đặc điểm lâm sàng hoặc mô bệnh học của [bệnh u ác tính](https://dermnetnz.org/topics/melanoma)
+- Nốt ruồi hắc tố có đặc điểm cụ thể: lớn (> 5 mm); ranh giới không rõ ràng hoặc không đều; màu sắc đa dạng; có thành phần phẳng và gồ ghề.
+- Hoặc bất kỳ nốt ruồi nào trông lạ mắt; lớn hoặc khác với nốt ruồi khác của bệnh nhân.
+Nốt ruồi không điển hình thường xuất hiện ở người da trắng và do tiếp xúc với ánh nắng mặt trời. Chúng có thể đơn độc hoặc nhiều. Bệnh lý được báo cáo là nốt ruồi loạn sản dạng nối hoặc nốt ruồi kép và có các đặc điểm mô học đặc trưng (nốt ruồi Clark).
+Nốt ruồi thông thường Nốt ruồi ở da sẫm màu Nốt ruồi bất thường Nốt ruồi loạn sản Nốt ruồi thông thường là nốt ruồi phẳng có một màu duy nhất và đồng nhất. Ở làn da sẫm màu, nốt ruồi thường có màu đen. Những người có nhiều nốt ruồi bất thường có nguy cơ mắc bệnh u hắc tố (nốt ruồi ung thư) cao hơn. Nốt ruồi loạn sản là nốt ruồi bất thường có tiêu chuẩn mô học cụ thể. ![](/assets/Uploads/lesions/common-mole.jpg) ![](/assets/Uploads/lesions/dark-naevus.jpg) ![](/assets/Uploads/lesions/img/moles-sm.jpg) ![](/assets/Uploads/lesions/dysplastic.jpg)
+Nốt ruồi xanh Nốt ruồi tế bào nốt ruồi Miescher Unna naevus [Nốt ruồi xanh](https://dermnetnz.org/topics/blue-naevus) là một loại nốt ruồi ở da có sắc tố đậm. Nốt ruồi tế bào là nốt ruồi ở da không có sắc tố. Nốt ruồi Miescher là nốt ruồi ở da nhẵn, hình vòm, thường thấy ở mặt. Nốt ruồi Unna là nốt ruồi dạng u nhú ở da có hình dạng giống quả mâm xôi. ![ ](/assets/Uploads/lesions/blue-naevus5.jpg) ![](/assets/Uploads/lesions/cellular-naevus.jpg) ![](/assets/Uploads/lesions/miescher.jpg) ![](/assets/Uploads/lesions/unna-naevus.jpg)
+Bớt Meyerson Hạch quầng Nốt ruồi Spitz Nốt ruồi sậy [Nốt ruồi Meyerson](https://dermnetnz.org/topics/meyerson-naevus) là nốt ruồi bị ảnh hưởng bởi quầng [chàm/viêm da](https://dermnetnz.org/topics/dermatitis) . [Nốt ruồi Halo](https://dermnetnz.org/topics/halo-naevus) hay nốt ruồi Sutton có quầng trắng xung quanh nốt ruồi. Nốt ruồi sẽ mờ dần theo thời gian. [Nốt ruồi Spitz](https://dermnetnz.org/topics/spitz-naevus) hay nốt ruồi tế bào biểu mô là nốt ruồi hình vòm màu hồng (nốt ruồi Spitz điển hình) hoặc màu nâu (nốt ruồi Spitz sắc tố) xuất hiện ở trẻ em và thanh thiếu niên. Nốt ruồi hình thoi hoặc nốt ruồi tế bào hình thoi là nốt ruồi có màu rất sẫm với các tế bào hắc tố ở da hình thoi , thường thấy ở các chi. ![](/assets/Uploads/lesions/w/meyerson5.jpg) ![](/assets/Uploads/lesions/halo.jpg) ![ ](/assets/Uploads/lesions/s/spitz3.jpg) ![ ](/assets/Uploads/lesions/w/reed-naevus.jpg)
+Nốt ruồi tái phát Nốt ruồi ác tính nốt ruồi Acral Nốt ruồi ở móng tay Nốt ruồi tái phát là tình trạng sắc tố xuất hiện trở lại ở vết sẹo sau khi phẫu thuật cắt bỏ nốt ruồi – nốt ruồi này có thể có hình dạng kỳ lạ. Nốt ruồi ác tính là một cụm các nốt ruồi hoặc tàn nhang giống nhau. Nốt ruồi Acral là nốt ruồi ở lòng bàn tay hoặc lòng bàn chân. Nốt ruồi ở móng gây ra một dải sắc tố dọc theo móng tay . ![](/assets/Uploads/lesions/recurrent-naevus.jpg) ![](/assets/Uploads/lesions/agminated.jpg) ![ ](/assets/Uploads/doctors/lesions/images/acral-naevus.jpg) ![](/assets/Uploads/hair-nails-sweat/a/nail-nevus-dermoscopy.jpg)
+[Xem thêm hình ảnh của halo naevi](https://dermnetnz-org.translate.goog/topics/halo-mole-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+[Xem thêm hình ảnh về nốt ruồi bất thường.](https://dermnetnz-org.translate.goog/topics/atypical-naevus-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+
+---
+
+## Biến chứng của bệnh nốt ruồi hắc tố là gì?
+
+Mọi người lo lắng về nốt ruồi của mình vì họ đã nghe nói về [bệnh u hắc tố](https://dermnetnz.org/topics/melanoma) , một dạng tăng sinh ác tính của tế bào hắc tố, là nguyên nhân phổ biến nhất gây tử vong do [ung thư da](https://dermnetnz.org/topics/skin-cancer) .
+- Lúc đầu, u ác tính có thể trông giống như nốt ruồi hắc tố vô hại , nhưng theo thời gian, cấu trúc của nó trở nên rối loạn hơn và có xu hướng mở rộng.
+- Những người có nhiều nốt ruồi có nguy cơ mắc bệnh ung thư hắc tố cao hơn những người có ít nốt ruồi, đặc biệt là nếu họ có hơn 100 nốt ruồi.
+Nốt ruồi hắc tố đôi khi thay đổi vì những lý do khác ngoài ung thư hắc tố, ví dụ như sau khi tiếp xúc với ánh nắng mặt trời hoặc trong thời kỳ mang thai. Chúng có thể to ra, thoái triển hoặc biến mất.
+- Nốt [ruồi Meyerson](https://dermnetnz.org/topics/meyerson-naevus) gây ngứa và khô vì xung quanh nó được bao quanh bởi bệnh chàm.
+- Nốt ruồi Sutton hoặc [halo](https://dermnetnz.org/topics/halo-naevus) được bao quanh bởi một mảng trắng và mờ dần trong nhiều năm
+- Nốt ruồi tái phát là nốt ruồi xuất hiện ở vết sẹo sau phẫu thuật cắt bỏ nốt ruồi hắc tố — nốt ruồi này có thể có hình dạng kỳ lạ.
+
+---
+
+## Nốt ruồi hắc tố được chẩn đoán như thế nào ?
+
+Nốt ruồi hắc tố thường được chẩn đoán lâm sàng dựa trên hình ảnh điển hình. Nếu có bất kỳ nghi ngờ nào về chẩn đoán, bạn có thể tham khảo ý kiến ​​chuyên gia trực tiếp hoặc thông qua hình ảnh lâm sàng và soi da. Điều này đặc biệt quan trọng nếu:
+- Nốt ruồi thay đổi kích thước, hình dạng, cấu trúc hoặc màu sắc
+- Một nốt ruồi mới phát triển ở tuổi trưởng thành (> 40 tuổi)
+- Nó có vẻ khác với nốt ruồi khác của người đó (còn gọi là vịt con xấu xí)
+- Nó có đặc điểm ABCD (Không đối xứng, Không đều viền, Thay đổi màu sắc, Đường kính > 6 mm)
+- Nó chảy máu, đóng vảy hoặc ngứa.
+Hầu hết các tổn thương da có những đặc điểm này thực sự vô hại khi được chuyên gia đánh giá bằng [phương pháp soi da](https://dermnetnz.org/topics/dermoscopy) . Hình ảnh soi da kỹ thuật số ngắn hạn có thể được sử dụng cho các tổn thương phẳng không rõ ràng để kiểm tra sự thay đổi theo thời gian.
+Các nốt ruồi vẫn còn nghi ngờ là [ung thư hắc tố](https://dermnetnz.org/topics/melanoma) sẽ được cắt bỏ để làm xét nghiệm mô bệnh học (sinh thiết chẩn đoán ) . Không khuyến khích sinh thiết một phần [vì](https://dermnetnz.org/topics/skin-biopsy) có thể bỏ sót vùng thay đổi do ung thư.
+
+---
+
+## Phương pháp điều trị bệnh nốt ruồi hắc tố là gì ?
+
+Hầu hết các nốt ruồi hắc tố đều vô hại và có thể được loại bỏ một cách an toàn. Chúng có thể được loại bỏ trong các trường hợp sau:
+- Để loại trừ ung thư
+- Nếu nốt ruồi gây phiền toái: có thể bị kích ứng bởi quần áo, lược hoặc dao cạo
+- Lý do thẩm mỹ: nốt ruồi trông không đẹp mắt.
+Các kỹ thuật phẫu thuật bao gồm:
+- [Sinh thiết cắt bỏ nốt](https://dermnetnz.org/topics/excision-of-skin-lesions) ruồi hắc tố phẳng hoặc đáng ngờ
+- [Sinh thiết cạo](https://dermnetnz.org/topics/skin-biopsy) của nốt ruồi melanocytic lồi ra
+- [](https://dermnetnz.org/topics/electrosurgery) Phá hủy [bằng phẫu thuật điện](https://dermnetnz.org/topics/electrosurgery)
+- [Tia laser](https://dermnetnz.org/topics/lasers-in-dermatology) để làm giảm sắc tố hoặc loại bỏ lông thô.
+
+---
+
+## Có thể ngăn ngừa nốt ruồi hắc tố không?
+
+Số lượng nốt ruồi hắc tố có thể được giảm thiểu bằng cách bảo vệ da khỏi ánh nắng mặt trời ngay từ khi mới sinh. Chỉ [dùng kem chống nắng](https://dermnetnz.org/topics/topical-sunscreen-agents) thôi là không đủ để ngăn ngừa sự xuất hiện của nốt ruồi mới.
+Ở mọi lứa tuổi, [việc chống nắng](https://dermnetnz.org/topics/sun-protection) đều rất quan trọng để làm giảm [quá trình lão hóa da](https://dermnetnz.org/topics/ageing-skin) và nguy cơ [ung thư da](https://dermnetnz.org/topics/skin-cancer) .
+- Tại New Zealand, [Cảnh báo chống nắng SunSmart](https://translate.google.com/website) sẽ đưa ra lời khuyên khi nào cần bảo vệ.
+- [Che chắn kỹ](https://dermnetnz.org/topics/sun-protective-clothing) . Đội mũ, mặc áo dài tay và váy dài hoặc quần dài. Chọn vải chống nắng (UPF 40+) khi ra ngoài trời.
+- Thoa [kem chống nắng](https://dermnetnz.org/topics/topical-sunscreen-agents) lên những vùng da không thể che phủ. Chọn kem chống nắng phổ rộng có chỉ số bảo vệ cao (SPF 50+), thoa thường xuyên lên những vùng da tiếp xúc trực tiếp với ánh nắng.
+
+---
+
+## Triển vọng của bệnh nốt ruồi hắc tố là gì ?
+
+Hầu hết các nốt ruồi hắc tố xuất hiện ở trẻ em sẽ tồn tại mãi mãi. Thanh thiếu niên và người trẻ tuổi thường có số lượng nốt ruồi nhiều nhất. Về sau, số lượng nốt ruồi ít hơn vì một số nốt ruồi sẽ mờ dần.
+Để tăng cơ hội phát hiện sớm [bệnh ung thư hắc tố](https://dermnetnz.org/topics/melanoma) , hãy khuyến nghị:
+- Tự [kiểm tra da](https://dermnetnz.org/topics/self-skin-examination) hàng tháng
+- Bệnh nhân nhận thấy sự thay đổi đáng kể ở nốt ruồi hoặc tổn thương mới nên cho bác sĩ hoặc bác sĩ da liễu biết.
+- Kiểm tra da thường xuyên ở những bệnh nhân có nhiều nốt ruồi, [nốt ruồi không điển hình](https://dermnetnz.org/topics/atypical-melanocytic-naevus) hoặc đã từng bị ung thư da
+- Chụp ảnh toàn thân và chụp ảnh da liễu kỹ thuật số ( [lập bản đồ nốt ruồi](https://dermnetnz.org/topics/photographic-skin-surveillance) ) cho những bệnh nhân có nguy cơ mắc bệnh u hắc tố cao, đặc biệt là những người có nhiều nốt ruồi hắc tố.

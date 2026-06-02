@@ -1,0 +1,83 @@
+# Rụng tóc do kéo giãn — thông tin bổ sung
+
+Thể loại:
+
+Rối loạn nang lông
+
+SNOMED CT:
+
+67488005, 238725004, 400088006
+
+**[Rối loạn nang lông](https://dermnetnz.org/topics/topics?category=Follicular+disorder)**
+
+
+# **Rụng tóc do kéo giãn**
+
+Tác giả: Anila Kapadia, Chuyên viên Đăng ký Da liễu, Quỹ Ủy thác NHS Bệnh viện Giảng dạy York, Vương quốc Anh. Cố vấn nội dung: Tiến sĩ Calum Lyon, Bác sĩ Da liễu Tư vấn, Quỹ Ủy thác NHS Bệnh viện Giảng dạy York, Vương quốc Anh. Biên tập viên: Clare Morrison. 2014
+
+---
+
+## Rụng tóc do kéo giãn là gì?
+
+Rụng tóc do lực kéo là một dạng [rụng tóc](https://dermnetnz.org/topics/hair-loss) mắc phải , do căng thẳng kéo dài hoặc lặp đi lặp lại trên tóc da đầu. Tình trạng này được mô tả lần đầu tiên vào năm 1907 ở những người đến từ Greenland bị rụng tóc dọc theo đường chân tóc do buộc tóc đuôi ngựa quá chặt trong thời gian dài.
+
+---
+
+## Nguyên nhân nào gây ra chứng rụng tóc do kéo giãn?
+
+Rụng tóc do lực kéo có thể do:
+- Thường xuyên búi tóc chặt, tết ​​tóc kiểu cornrow, tết ​​tóc dreadlock, tết ​​tóc dệt và tết tóc
+- Sử dụng tóc nối
+- Sử dụng thuốc duỗi tóc và con lăn.
+Tình trạng này cũng có thể do tóc quá dài. Tình trạng này thường liên quan đến [phụ nữ Mỹ](https://dermnetnz.org/topics/hair-care-practices-in-women-of-african-descent) gốc Phi tết tóc quá chặt, dẫn đến rụng tóc ở hai bên đầu ( da đầu thái dương ). Rụng tóc do lực kéo cũng được mô tả ở nam giới theo đạo Sikh, những người xoắn chặt phần tóc chưa cắt trên da đầu (dẫn đến rụng tóc da đầu) hoặc phần râu chưa cắt dưới cằm (gây rụng tóc do lực kéo dưới hàm).
+Rụng tóc do kéo giãn ảnh hưởng đến mọi người thuộc mọi sắc tộc hoặc độ tuổi. Khả năng mắc chứng rụng tóc do kéo giãn tăng theo tuổi tác, có thể là do thói quen này kéo dài.
+
+---
+
+## Các đặc điểm lâm sàng của chứng rụng tóc do kéo giãn là gì?
+
+Có sự khác biệt lớn về biểu hiện lâm sàng của rụng tóc do kéo giãn. Nếu không có dấu hiệu nghi ngờ rụng tóc do kéo giãn, việc chẩn đoán có thể khó khăn. Bệnh nhân có thể biểu hiện:
+- Ngứa
+- Đỏ
+- Tỷ lệ
+- Viêm nang lông hoặc mụn mủ
+- Nhiều sợi tóc ngắn bị gãy
+- Tóc mỏng và rụng
+Rụng tóc do lực kéo chủ yếu ảnh hưởng đến phần trước (mặt trước) và hai bên da đầu, nhưng vị trí rụng tóc do lực kéo hoàn toàn phụ thuộc vào thói quen chăm sóc tóc của mỗi người, có thể liên quan hoặc không liên quan đến nguồn gốc dân tộc của họ. "Dấu hiệu rìa" thường thấy ở những bệnh nhân bị rụng tóc do lực kéo ở đường viền tóc – điều này có nghĩa là một phần tóc vẫn còn ở rìa trán và/hoặc thái dương của đường viền tóc. Ban đầu, rụng tóc do lực kéo không gây sẹo (không để lại sẹo), nhưng lực kéo kéo quá mức và kéo dài sẽ phá hủy nang tóc và gây rụng tóc vĩnh viễn.
+![Rụng tóc do kéo giãn](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/traction.jpg)
+![Rụng tóc do kéo giãn](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/traction2.jpg)
+![Rụng tóc do kéo giãn](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/traction-alopecia-2.jpg)
+![Rụng tóc do kéo giãn](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/traction-alopecia-3.jpg)
+![Rụng tóc do kéo giãn](https://dermnetnz.org/assets/Uploads/traction-alopecia-5.jpg)
+![Rụng tóc do kéo giãn](https://dermnetnz.org/assets/Uploads/traction-alopecia-4.jpg)
+
+---
+
+## Những phát hiện về mặt mô học trong tình trạng rụng tóc do kéo giãn là gì?
+
+Kết quả mô học của [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) lấy từ vùng rụng tóc do kéo giãn sẽ khác nhau tùy thuộc vào giai đoạn tiến triển của bệnh.
+Giai đoạn đầu biểu hiện bằng:
+- Trichomalacia (tóc mỏng đi)
+- Số lượng tóc catagen (giai đoạn trung gian của chu kỳ tóc ) và telogen (tóc củ) tăng lên
+- Số lượng nang tóc thoái hóa bình thường
+- Tuyến bã nhờn (dầu) được bảo tồn .
+Ở giai đoạn sau:
+- Lông tơ (lông ngắn mịn) phát triển
+- Tuyến bã nhờn và nang lông cuối cùng giảm đi và được thay thế bằng các đường dẫn xơ hóa (sẹo).
+- Tình trạng viêm nhẹ hoặc không có.
+
+---
+
+## Phương pháp điều trị rụng tóc do kéo giãn là gì?
+
+Những người bị rụng tóc do lực kéo nên cân nhắc thay đổi cách chăm sóc và tạo kiểu tóc để ngăn ngừa tình trạng tóc xấu đi thêm.
+- Nới lỏng kiểu tóc.
+- Cắt tóc dài.
+- Tránh để tóc và da đầu bị ảnh hưởng tiếp xúc với hóa chất và nhiệt.
+Các phương pháp điều trị y tế được báo cáo đã được sử dụng trong chứng rụng tóc do kéo giãn bao gồm:
+- [Thuốc kháng sinh](https://dermnetnz.org/topics/treatments/antibiotics.html) để ngăn ngừa nhiễm trùng
+- [](https://dermnetnz.org/topics/treatments/topical-steroids.html) [Steroid](https://dermnetnz.org/topics/treatments/intralesional-steroids.html) [tại chỗ](https://dermnetnz.org/topics/treatments/topical-steroids.html) hoặc tiêm vào tổn thương [](https://dermnetnz.org/topics/treatments/intralesional-steroids.html)
+- [](https://dermnetnz.org/topics/treatments/topical-antifungal.html) Dầu gội [chống nấm tại chỗ](https://dermnetnz.org/topics/treatments/topical-antifungal.html)
+- Thực phẩm bổ sung Biotin
+- [Minoxidil](https://dermnetnz.org/topics/treatments/minoxidil.html)
+- [Phẫu thuật thay tóc](https://dermnetnz.org/topics/procedures/hair-replacement.html)

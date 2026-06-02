@@ -1,0 +1,77 @@
+# U nhú teo ác tính — thông tin bổ sung
+
+Thể loại:
+
+Các vấn đề về mạch máu
+
+SNOMED CT:
+
+400171002
+
+**[Các vấn đề về mạch máu](https://dermnetnz.org/topics/topics?category=Blood+vessel+problems)**
+
+
+# **U nhú teo ác tính**
+
+Tác giả: Tiến sĩ Darshan Singh MBChB, Trưởng khoa Da liễu, Bệnh viện Waikato, Hamilton, New Zealand, 2001. Được cập nhật bởi Phó giáo sư Amanda Oakley, tháng 1 năm 2016.
+
+---
+
+## Bệnh sẩn teo ác tính là gì?
+
+U nhú teo ác tính là một dạng bệnh lý tắc nghẽn mạch máu nhỏ . Các mạch máu bị ảnh hưởng bao gồm mạch máu nuôi da, đường tiêu hóa và hệ thần kinh trung ương.
+Bệnh sẩn teo ác tính còn được gọi là bệnh Degos.
+
+---
+
+## Ai mắc bệnh sẩn teo ác tính?
+
+U nhú teo ác tính là một rối loạn rất hiếm gặp. Bệnh thường xảy ra ở người trẻ da trắng nhưng đã được báo cáo ở các chủng tộc khác và ở mọi lứa tuổi.
+
+---
+
+## Nguyên nhân gây ra bệnh sẩn teo ác tính là gì?
+
+Nguyên nhân cơ bản gây tắc nghẽn mạch máu trong bệnh sẩn teo ác tính hiện vẫn chưa được biết rõ. Nguyên nhân có thể là do đột biến gen bổ thể hoặc một số yếu tố đông máu khác. Một số giả thuyết khác đã được đề xuất.
+
+---
+
+## Đặc điểm lâm sàng của bệnh sẩn teo ác tính là gì?
+
+
+### Da
+Tổn thương da là đặc điểm đặc trưng của bệnh sẩn teo ác tính. Các tổn thương thường xuất hiện nhiều và chủ yếu ở thân và cánh tay. Chúng thường bắt đầu là những đốm nhỏ màu đỏ nổi lên, đường kính 2–5 mm. Sau vài ngày, chúng lớn dần và hình thành một đốm trắng ở trung tâm, lõm xuống so với vùng da đỏ xung quanh. Chúng lành lại và để lại sẹo lõm màu trắng sứ.
+
+### Hệ tiêu hóa
+Biến chứng đường tiêu hóa của sẩn teo ác tính ở 50% bệnh nhân mắc bệnh toàn thân là do thiếu máu nuôi dưỡng niêm mạc ruột. Chúng có thể dẫn đến các biến chứng nghiêm trọng, bao gồm thủng ruột. Các triệu chứng thường gặp là đau bụng đột ngột hoặc xuất huyết tiêu hóa (nôn ra máu hoặc đi ngoài ra máu).
+
+### Hệ thần kinh
+Tắc nghẽn mạch máu não trong bệnh sẩn teo ác tính ở 20% bệnh nhân có thể dẫn đến đột quỵ, đau đầu, động kinh hoặc các triệu chứng thần kinh không đặc hiệu , chẳng hạn như mất trí nhớ hoặc thay đổi cảm giác.
+
+### Các cơ quan khác
+Các cơ quan khác đôi khi bị ảnh hưởng bởi bệnh sẩn teo ác tính bao gồm mắt, thận, tim và gan.
+
+### Tổn thương da do bệnh sẩn teo ác tính
+![U nhú teo ác tính](https://dermnetnz.org/assets/Uploads/systemic/degos3.jpg)
+![U nhú teo ác tính](https://dermnetnz.org/assets/Uploads/systemic/degos2.jpg)
+![U nhú teo ác tính](https://dermnetnz.org/assets/Uploads/degos1.jpg)
+
+---
+
+## Bệnh sẩn teo ác tính được chẩn đoán như thế nào?
+
+U xơ teo ác tính được chẩn đoán lâm sàng và bằng [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) cho thấy tắc nghẽn các mạch máu nhỏ.
+Không có xét nghiệm máu cụ thể nào, và hầu hết kết quả đều bình thường. Các xét nghiệm bổ sung, bao gồm cả chẩn đoán hình ảnh, sẽ phụ thuộc vào các triệu chứng và dấu hiệu toàn thân.
+
+---
+
+## Phương pháp điều trị bệnh sẩn teo ác tính là gì?
+
+[Thuốc chống tiểu cầu](https://dermnetnz.org/topics/anticoagulants-and-antiplatelet-agents) như aspirin và dipyridamole có thể làm giảm số lượng tổn thương mới ở một số bệnh nhân chỉ bị tổn thương da.
+Đã có báo cáo về lợi ích từ các phương pháp điều trị thử nghiệm sử dụng eculizumab ( kháng thể đơn dòng liên kết bổ sung C5) và treprostinil ( chất tương tự prostacyclin ).[1]
+
+---
+
+## Triển vọng của bệnh u nhú teo ác tính là gì?
+
+U nhú teo ác tính thường được coi là một bệnh lý mạch máu nghiêm trọng vì nó ảnh hưởng đến nhiều cơ quan và gây tử vong trong vòng 2-3 năm. Tuy nhiên, trong một số trường hợp, bệnh chỉ giới hạn ở da và có vẻ khá lành tính (vô hại).

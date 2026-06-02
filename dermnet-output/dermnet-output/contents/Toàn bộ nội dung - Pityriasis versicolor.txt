@@ -1,0 +1,97 @@
+# Lang ben — thông tin bổ sung
+
+Thể loại:
+
+Nhiễm trùng
+
+SNOMED CT:
+
+56454009, 29619007, 707291006, 10171000087105, 447178007
+
+**[Nhiễm trùng](https://dermnetnz.org/topics/topics?category=Infections)**
+
+
+# **Lang ben**
+
+Tác giả: Phó Giáo sư Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand, 1997. Cập nhật tháng 9 năm 2014. Bản sửa đổi DermNet tháng 8 năm 2021
+
+---
+
+## Lang ben là bệnh gì?
+
+Lang ben là một bệnh nhiễm trùng nấm men phổ biến ở da, trong đó xuất hiện các mảng da đổi màu, bong tróc trên ngực và lưng.
+![Không có caption](https://dermnetnz.org/assets/Uploads/fungal/pitver1.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/fungal/pitver4.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/fungal/s/pitver12.jpg)
+Thuật ngữ "pityriasis" được dùng để mô tả các tình trạng da mà vảy trông giống như vảy cám. Màu sắc đa dạng của pityriasis versicolor tạo nên phần thứ hai của tên gọi, "versicolor". Pityriasis versicolor đôi khi còn được gọi là tinea versicolor, mặc dù thuật ngữ "tinea" chỉ nên được sử dụng cho nhiễm nấm [dermatophyte](https://dermnetnz.org/topics/tinea) .
+
+---
+
+## Ai mắc bệnh lang ben?
+
+Lang ben thường ảnh hưởng đến người trẻ tuổi và phổ biến hơn ở nam giới so với nữ giới. Bệnh cũng có thể ảnh hưởng đến trẻ em, thanh thiếu niên và người cao tuổi.
+Lang ben phổ biến hơn ở vùng khí hậu nóng ẩm so với khí hậu mát mẻ, khô ráo. Bệnh thường ảnh hưởng đến những người đổ mồ hôi nhiều. Bệnh có thể hết vào những tháng mùa đông và tái phát vào mỗi mùa hè.
+Mặc dù không được coi là bệnh truyền nhiễm theo nghĩa thông thường, nhưng bệnh lang ben đôi khi ảnh hưởng đến nhiều hơn một thành viên trong gia đình.
+
+---
+
+## Nguyên nhân gây ra bệnh lang ben là gì?
+
+Bệnh lang ben là do sự phát triển của sợi nấm thuộc chi [Malassezia](https://dermnetnz.org/topics/malassezia-infections) .
+Malassezia là một phần của [hệ vi sinh vật](https://dermnetnz.org/topics/microorganisms-found-on-the-skin) da bình thường ( vi sinh vật được tìm thấy trên da bình thường). Chúng phụ thuộc vào lipid để tồn tại. Mười bốn loài Malassezia khác nhau đã được xác định. Các loài phổ biến nhất được nuôi cấy từ bệnh lang ben là M. globosa , M. restricta và M. sympodialis .
+Thông thường, malassezia mọc thưa thớt ở vùng da tiết bã nhờn (da đầu, mặt và ngực) mà không gây phát ban. Người ta vẫn chưa biết lý do tại sao đôi khi chúng lại phát triển mạnh hơn trên bề mặt da để hình thành lang ben. Một giả thuyết cho rằng có liên quan đến con đường chuyển hóa phụ thuộc tryptophan.
+Nấm men gây ra sự mở rộng của các melanosome ( hạt sắc tố ) bên trong các tế bào hắc tố nền ở thể lang ben nâu. Việc phát hiện nấm men trong các mẫu cạo từ thể lang ben này dễ dàng hơn so với thể lang ben trắng.
+Loại lang ben màu trắng hoặc giảm sắc tố được cho là do một loại hóa chất do nấm malassezia sản xuất ra, khuếch tán vào lớp biểu bì và làm suy yếu chức năng của tế bào hắc tố.
+Loại lang ben màu hồng có tình trạng viêm nhẹ, do viêm da do nấm Malassezia hoặc các chất chuyển hóa của nấm gây ra.
+
+---
+
+## Đặc điểm lâm sàng của bệnh lang ben là gì?
+
+Lang ben ảnh hưởng đến thân, cổ và/hoặc cánh tay, và ít gặp ở các vùng khác trên cơ thể. Các mảng da có thể có màu nâu đồng, nhạt hơn vùng da xung quanh, hoặc màu hồng. Các mảng da nhạt màu có thể phổ biến hơn ở vùng da sẫm màu; tình trạng này được gọi là lang ben trắng. Đôi khi các mảng da bắt đầu có vảy và màu nâu, sau đó chuyển sang giai đoạn không vảy và màu trắng.
+Bệnh lang ben thường không có triệu chứng , nhưng ở một số người bệnh có thể gây ngứa nhẹ.
+Nhìn chung, các mảng da nhợt nhạt hoặc sẫm màu do bệnh lang ben không dễ bị [cháy nắng](https://dermnetnz.org/topics/sunburn) hơn so với vùng da xung quanh.
+Lang ben hồng, lang ben giảm sắc tố và tăng sắc tố thường được xem là các biến thể riêng biệt nhưng đôi khi có thể cùng tồn tại. Lang ben hồng cũng có thể cùng tồn tại với [viêm da tiết bã](https://dermnetnz.org/topics/seborrhoeic-dermatitis) vì cả hai đều liên quan đến sự phát triển quá mức của nấm Malassezia.
+![Lang ben](https://dermnetnz.org/assets/Uploads/fungal/pityriasis-versicolor/3481.jpg)
+![Lang ben](https://dermnetnz.org/assets/Uploads/fungal/pversic.jpg)
+![Lang ben](https://dermnetnz.org/assets/Uploads/fungal/pityriasis-versicolor/3505.jpg)
+[Xem thêm hình ảnh về bệnh lang ben](https://dermnetnz-org.translate.goog/topics/pityriasis-versicolor-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp) .
+
+---
+
+## Bệnh lang ben được chẩn đoán như thế nào?
+
+Lang ben thường được chẩn đoán lâm sàng. Các xét nghiệm sau đây có thể hữu ích.
+- [Kiểm tra đèn Wood](https://dermnetnz.org/topics/wood-lamp-skin-examination) (ánh sáng đen) — có thể quan sát thấy huỳnh quang màu vàng-xanh lục ở các vùng bị ảnh hưởng
+- [Soi da bệnh lang ben](https://dermnetnz.org/topics/dermoscopy-of-pityriasis-versicolor) – nhợt nhạt , nền mạng lưới sắc tố mờ nhạt và vảy
+- Kính hiển vi của một vết cạo da (sử dụng kali hydroxit (KOH) để loại bỏ tế bào da) — các sợi nấm và tế bào nấm men trông giống như mì spaghetti và thịt viên
+- Nuôi cấy nấm — điều này thường được báo cáo là tiêu cực, vì rất khó để thuyết phục nấm men phát triển trong phòng thí nghiệm
+- [Sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) — các thành phần nấm có thể được nhìn thấy bên trong các tế bào ngoài của da ( lớp sừng ) trên [mô bệnh học](https://dermnetnz.org/topics/pityriasis-versicolor-pathology) . Có thể cần phải nhuộm màu đặc biệt.
+![Kính hiển vi của Malassezia furfur](https://dermnetnz.org/assets/Uploads/fungal/pitver3.jpg)
+
+---
+
+## Phương pháp điều trị bệnh lang ben là gì?
+
+
+### Các biện pháp chuyên đề
+Bệnh lang ben nhẹ được điều trị bằng [thuốc chống nấm tại chỗ](https://dermnetnz.org/topics/topical-antifungal-medication) .
+- [](https://dermnetnz.org/topics/selenium-sulfide) Dầu gội [selen sunfua](https://dermnetnz.org/topics/selenium-sulfide)
+- Kem bôi /dầu gội azole (econazole, ketoconazole)
+- Gel Terbinafine
+Nên thoa thuốc rộng khắp da từ xương hàm trở xuống và để trên da từ 5-15 phút trước khi tắm lại. Nên thực hiện hàng ngày trong một tuần, sau đó hàng tuần trong một tháng.
+
+### Các biện pháp hệ thống
+[Thuốc chống nấm đường uống](https://dermnetnz.org/topics/oral-antifungal-medication) , [itraconazole](https://dermnetnz.org/topics/itraconazole) và [fluconazole](https://dermnetnz.org/topics/fluconazole) , được sử dụng để điều trị bệnh lang ben khi bệnh lan rộng hoặc nếu các thuốc bôi ngoài da không có tác dụng.
+Tập thể dục mạnh một giờ sau khi uống thuốc có thể giúp thuốc thấm vào da, từ đó có thể tiêu diệt nấm men hiệu quả. Nên tránh tắm trong vài giờ. Điều trị trong vài ngày có thể giúp chữa khỏi nhiều trường hợp bệnh vảy phấn dài hạn, hoặc ít nhất là trong vài tháng.
+[Terbinafine](https://dermnetnz.org/topics/terbinafine) uống , một loại thuốc chống nấm dùng để điều trị nhiễm nấm da, không có hiệu quả đối với các bệnh nhiễm nấm men như lang ben.
+
+### Các biện pháp phòng ngừa
+Việc sử dụng lại thuốc điều trị tại chỗ như dầu gội chứa selen sunfua hàng tháng sau khi phát ban đã khỏi thường sẽ ngăn ngừa tái phát.
+
+---
+
+## Triển vọng của bệnh lang ben là gì?
+
+Lang ben thường khỏi hoàn toàn sau điều trị nhưng thường tái phát khi điều kiện thuận lợi cho nấm Malassezia phát triển. Vảy bề mặt mịn là dấu hiệu của nhiễm trùng đang hoạt động và một khi vảy này biến mất, tình trạng nhiễm trùng không còn tiếp diễn nữa. Màu sắc có thể kéo dài hàng tuần hoặc hàng tháng, đặc biệt là tình trạng giảm sắc tố , và không phải là dấu hiệu của việc điều trị thất bại.
+Lang ben thường tái phát khi thời tiết ấm áp và ẩm ướt trở lại. Sử dụng thuốc bôi ngoài da thường xuyên sẽ giảm thiểu nguy cơ này.

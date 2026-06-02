@@ -1,0 +1,87 @@
+# Viêm da đầu chi dạng sẩn ở trẻ em — thông tin bổ sung
+
+Thể loại:
+
+Nhiễm trùng, phát ban
+
+SNOMED CT:
+
+82721003
+
+**[Nhiễm trùng, phát ban](https://dermnetnz.org/topics/topics?category=Infections)**
+
+
+# **Viêm da đầu chi dạng sẩn ở trẻ em**
+
+Tác giả: Giáo sư danh dự Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand, 1999. Cập nhật tháng 9 năm 2015.
+
+---
+
+## Viêm da đầu chi dạng sẩn ở trẻ em là gì?
+
+Viêm da sẩn ở trẻ em là phản ứng đặc trưng của da với [nhiễm trùng do vi-rút](https://dermnetnz.org/topics/viral-skin-infections) , trong đó có phát ban sẩn kéo dài trong vài tuần.
+Những tên gọi khác được sử dụng cho tình trạng da này bao gồm hội chứng Gianotti-Crosti , viêm da đầu chi dạng sẩn mụn nước ở trẻ em, viêm da đầu chi dạng sẩn ở trẻ sơ sinh và viêm da đầu chi dạng sẩn ở trẻ sơ sinh.
+
+### Viêm da đầu chi dạng sẩn ở trẻ em ở mặt, khuỷu tay và đầu gối
+![Hội chứng Gianotti-Crosti](https://dermnetnz.org/assets/Uploads/viral/gcs07.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/viral/s/gcs4.jpg)
+![Hội chứng Gianotti-Crosti](https://dermnetnz.org/assets/Uploads/viral/gcs29.jpg)
+
+---
+
+## Ai bị viêm da sẩn ở trẻ em?
+
+Viêm da đầu chi dạng sẩn ở trẻ em chủ yếu ảnh hưởng đến trẻ em từ 6 tháng đến 12 tuổi. Bệnh hiếm khi được mô tả ở người lớn.
+Người ta thường quan sát thấy các trường hợp tập trung lại với nhau và thường có tiền sử nhiễm trùng đường hô hấp trên .
+
+---
+
+## Nguyên nhân gây ra bệnh viêm da sẩn ở trẻ em là gì?
+
+Phát ban là phản ứng với nhiễm trùng virus toàn thân . Các loại virus cụ thể gây viêm da đầu chi dạng sẩn ở trẻ em có thể bao gồm:
+- [Nhiễm trùng viêm gan B](https://dermnetnz.org/topics/viral-hepatitis)
+- [Virus Epstein-Barr](https://dermnetnz.org/topics/epstein-barr-virus) (EBV)
+- Virus Cytomegalovirus (CMV)
+- [Nhiễm trùng Enterovirus](https://dermnetnz.org/topics/enteroviral-infections)
+- Echovirus
+- Vi-rút thể hợp bào gây bệnh lý hô hấp
+- SARS-CoV-2 ( [COVID-19](https://dermnetnz.org/topics/covid-19) ).
+Mặc dù ban đầu được mô tả ở trẻ em mắc viêm gan B, nhưng việc tiêm vắc-xin phòng ngừa loại vi-rút này ở hầu hết mọi người có nghĩa là EBV hiện là mối liên quan phổ biến nhất.
+Tiêm chủng đôi khi cũng có liên quan đến tình trạng viêm da sẩn ở trẻ em.
+
+---
+
+## Các đặc điểm lâm sàng của bệnh viêm da sẩn ở trẻ em là gì?
+
+Viêm da đầu chi dạng sẩn ở trẻ em biểu hiện trong vòng 3 hoặc 4 ngày. Ban đỏ xỉn màu xuất hiện đầu tiên ở đùi và mông, sau đó ở mặt ngoài cánh tay và cuối cùng là trên mặt. Ban thường có tính đối xứng.
+Các đốm riêng lẻ có đường kính 5–10 mm và có màu đỏ sẫm. Về sau, chúng thường chuyển sang màu tím, đặc biệt là ở chân, do máu rò rỉ từ các mao mạch. Chúng có thể phát triển thành các mụn nước chứa đầy dịch ( vesicle ).
+Viêm da sẩn ở trẻ em thường không ngứa.
+Trẻ bị viêm da đầu chi dạng sẩn có thể cảm thấy khá khỏe hoặc sốt nhẹ. Các hạch bạch huyết sưng nhẹ ở nách và bẹn có thể kéo dài trong nhiều tháng. Khi viêm da đầu chi dạng sẩn do viêm gan B gây ra, gan có thể to, nhưng hiếm khi có vàng da.
+
+### Viêm da đầu chi dạng sẩn ở tay và mông thời thơ ấu
+![Hội chứng Gianotti-Crosti](https://dermnetnz.org/assets/Uploads/viral/gcs22.jpg)
+![Hội chứng Gianotti-Crosti](https://dermnetnz.org/assets/Uploads/viral/s/gcs59.jpg)
+![Hội chứng Gianotti-Crosti](https://dermnetnz.org/assets/Uploads/viral/gcs40.jpg)
+[Xem thêm hình ảnh về](https://dermnetnz-org.translate.goog/topics/infantile-papular-acrodermatitis-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp) [bệnh viêm da đầu chi ở trẻ em](https://dermnetnz-org.translate.goog/topics/infantile-papular-acrodermatitis-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp) .
+
+---
+
+## Viêm da đầu chi dạng sẩn ở trẻ em được chẩn đoán như thế nào?
+
+Biểu hiện lâm sàng của viêm da đầu chi dạng sẩn khá đặc trưng, ​​và nhiều trẻ không cần bất kỳ xét nghiệm cụ thể nào. Tuy nhiên, xét nghiệm máu có thể bao gồm:
+- Công thức máu
+- Chức năng gan
+- Huyết thanh học virus hoặc PCR.
+
+---
+
+## Có phương pháp điều trị nào cho bệnh viêm da sẩn ở trẻ em?
+
+Không có phương pháp điều trị đặc hiệu cho bệnh viêm da đầu chi dạng sẩn ở trẻ em. Có thể kê đơn kem bôi [steroid](https://dermnetnz.org/topics/topical-steroid) nhẹ hoặc [thuốc làm mềm da](https://dermnetnz.org/topics/emollients-and-moisturisers) để giảm ngứa. [](https://dermnetnz.org/topics/emollients-and-moisturisers)
+
+---
+
+## Triển vọng của bệnh viêm da sẩn ở trẻ em là gì?
+
+Viêm da đầu chi dạng sẩn sẽ mờ dần sau 2–8 tuần với tình trạng bong tróc nhẹ. Viêm da đầu chi dạng sẩn ít có khả năng tái phát nhưng đã được báo cáo.
+Nếu bị viêm gan B, gan cần từ 6 tháng đến 4 năm để phục hồi hoàn toàn. Đôi khi có tình trạng viêm gan dai dẳng và nhiễm virus dai dẳng.

@@ -1,0 +1,61 @@
+# Mề đay do ánh nắng mặt trời — thông tin bổ sung
+
+Thể loại:
+
+Phản ứng, phát ban
+
+SNOMED CT:
+
+10347006, 238513004, 22649008, 259608005
+
+**[Phản ứng, phát ban](https://dermnetnz.org/topics/topics?category=Reactions)**
+
+
+# **Mề đay do ánh nắng mặt trời**
+
+Tác giả: Vanessa Ngan, Biên tập viên, 2006.
+
+---
+
+## Mề đay do ánh nắng mặt trời là gì?
+
+Mề đay do ánh nắng mặt trời là một dạng [mề đay mãn tính](https://dermnetnz.org/topics/chronic-inducible-urticaria) hiếm gặp , trong đó da bị sưng lên chỉ trong vài phút sau khi tiếp xúc với ánh sáng mặt trời tự nhiên hoặc nguồn sáng nhân tạo phát ra [tia cực tím](https://dermnetnz.org/topics/ultraviolet-radiation-and-human-health) . Phản ứng có thể giảm dần trong vòng vài phút hoặc kéo dài đến một giờ hoặc hơn, gây ra tình trạng mất khả năng vận động nghiêm trọng.
+
+---
+
+## Nguyên nhân gây ra bệnh mề đay do ánh nắng mặt trời là gì?
+
+Nguyên nhân gây ra mề đay do ánh nắng mặt trời chưa được xác định rõ ràng nhưng có thể là do phản ứng kháng nguyên - kháng thể . Dường như một chất hóa học được tạo ra trong cơ thể (một chất gây dị ứng ánh sáng ) phản ứng với tia UV gây ra phản ứng dị ứng biểu hiện dưới dạng [mề đay](https://dermnetnz.org/topics/urticaria-an-overview) .
+
+---
+
+## Ai bị nổi mề đay do ánh nắng?
+
+Mề đay do ánh nắng rất hiếm gặp. Bệnh có thể xảy ra ở cả nam và nữ ở mọi lứa tuổi. Độ tuổi khởi phát trung bình là 35, nhưng cũng có trường hợp xảy ra ở [trẻ](https://dermnetnz.org/topics/urticaria-in-children) sơ sinh đến 70 tuổi.
+
+---
+
+## Các đặc điểm lâm sàng của bệnh mề đay do ánh nắng là gì?
+
+Phát ban ngứa, châm chích xuất hiện trong vòng vài phút sau khi tiếp xúc với ánh nắng mặt trời trong thời gian ngắn (dưới 30 phút). Phát ban có thể trông giống như vết loét, đỏ và sưng. Phát ban thường ảnh hưởng đến các vùng da hở thường được che chắn khỏi ánh nắng mặt trời bằng quần áo, ví dụ như lưng. Mặt và mặt trên của bàn tay thường xuyên tiếp xúc với ánh nắng mặt trời có thể không bị ảnh hưởng hoặc chỉ bị ảnh hưởng nhẹ. Điều này có thể được cho là do sự thích nghi hoặc "cứng hóa" của các vùng da tiếp xúc lâu dài này.
+Nếu các vùng lớn trên cơ thể bị ảnh hưởng, tình trạng mất chất lỏng qua da có thể dẫn đến chóng mặt, đau đầu, buồn nôn và nôn.
+Những vùng được che phủ bằng quần áo mỏng cũng có thể bị ảnh hưởng, tùy thuộc vào tia cực tím phát ra và độ mỏng của vải.
+![Mề đay do ánh nắng mặt trời](https://dermnetnz.org/assets/Uploads/reactions/solar-urticaria.jpg)
+![Mề đay do ánh nắng mặt trời](https://dermnetnz.org/assets/Uploads/reactions/solar-urticaria1.jpg)
+
+---
+
+## Làm thế nào để chẩn đoán bệnh mề đay do ánh nắng?
+
+Các triệu chứng lâm sàng của mề đay do ánh nắng mặt trời có thể tương tự như các bệnh da liễu do ánh sáng khác, vì vậy việc khai thác tiền sử bệnh chính xác là rất quan trọng. Các triệu chứng đặc trưng của mề đay do ánh nắng mặt trời bao gồm:
+- Phát ban xuất hiện trong vòng vài phút sau khi tiếp xúc. Trong một số ít trường hợp, một số bệnh nhân nổi mề đay do ánh nắng mặt trời có thể có phản ứng chậm với ánh sáng mặt trời.
+- Khi ngừng tiếp xúc với ánh nắng mặt trời, phát ban sẽ nhanh chóng biến mất (trong vòng vài phút đến vài giờ, hiếm khi kéo dài quá 24 giờ).
+[Kiểm tra bằng ảnh](https://dermnetnz.org/topics/phototesting) được sử dụng để xác nhận chẩn đoán.
+
+---
+
+## Phương pháp điều trị bệnh mề đay do ánh nắng là gì?
+
+Ngay khi bệnh nhân được che chắn khỏi ánh nắng mặt trời, phát ban sẽ tự động biến mất trong vòng vài phút đến vài giờ. Phát ban sẽ biến mất hoàn toàn mà không để lại dấu vết.
+Bệnh nhân bị mề đay do ánh nắng mặt trời phải áp dụng các biện pháp tránh hoặc giảm thiểu tiếp xúc với ánh nắng mặt trời bằng cách tuân thủ các biện pháp [bảo vệ da ,](https://dermnetnz.org/topics/sun-protection) bao gồm [kem chống nắng](https://dermnetnz.org/topics/topical-sunscreen-agents) và [mặc quần áo chống nắng](https://dermnetnz.org/topics/sun-protective-clothing) . [Thuốc kháng histamine](https://dermnetnz.org/topics/antihistamines) đường uống có thể giúp giảm sưng tấy và ngứa , nhưng hiếm khi ngăn ngừa hoàn toàn phản ứng này.
+Đối với những bệnh nhân có phản ứng nghiêm trọng và không thể kiểm soát tình trạng bệnh bằng các biện pháp phòng ngừa, [liệu pháp quang trị liệu](https://dermnetnz.org/topics/phototherapy) và/hoặc [quang hóa trị liệu](https://dermnetnz.org/topics/puva-photochemotherapy) có thể được cân nhắc. Các phương pháp điều trị này giúp bệnh nhân giảm nhạy cảm với tia UV và thường được thực hiện trước những tháng mùa hè. Quá trình giảm nhạy cảm thường diễn ra trong thời gian ngắn và có thể cần điều trị lặp lại.

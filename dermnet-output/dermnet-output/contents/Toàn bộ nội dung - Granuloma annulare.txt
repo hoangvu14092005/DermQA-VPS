@@ -1,0 +1,117 @@
+# U hạt vòng — thông tin bổ sung
+
+Thể loại:
+
+Phát ban
+
+SNOMED CT:
+
+65508009, 402364005, 402365006, 402363004, 402366007
+
+**[Phát ban](https://dermnetnz.org/topics/topics?category=Rashes)**
+
+
+# **U hạt vòng**
+
+Tác giả: Giáo sư danh dự Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand, 1997. Cập nhật tháng 10 năm 2015. Sửa đổi tháng 9 năm 2020.Đánh giá bác sĩ da liễu: Tiến sĩ Ian Coulson, Vương quốc Anh (2025)
+
+---
+
+## U hạt vòng là gì?
+
+U hạt vòng (GA) là một tình trạng viêm da phổ biến, đặc trưng lâm sàng là các sẩn và mảng tròn , nhẵn, đổi màu , và u hạt hoại tử trên mô học . U hạt vòng còn được gọi chính xác hơn là sẩn hoại tử.
+
+---
+
+## Ai mắc bệnh u hạt vòng?
+
+U hạt vòng thường gặp nhất trên da trẻ em, thanh thiếu niên hoặc người trẻ tuổi. Dạng tổng quát thường gặp hơn ở người lớn tuổi ( trung bình 50 tuổi). Tỷ lệ nữ mắc bệnh cao hơn nam giới với tỷ lệ 2:1.
+
+---
+
+## Nguyên nhân gây ra bệnh u hạt vòng là gì?
+
+U hạt vòng có thể là phản ứng quá mẫn chậm với một thành phần của lớp hạ bì hoặc là một kiểu phản ứng với nhiều tác nhân kích thích. Các trường hợp kích thích được báo cáo bao gồm nhiều loại nhiễm trùng và nhiễm khuẩn da, cũng như các loại chấn thương da. Viêm được trung gian bởi yếu tố hoại tử khối u alpha ( TNF -α). Nguyên nhân gây ra tình trạng này vẫn chưa được biết rõ.
+Ngoài ra, còn có một số mối liên quan được báo cáo với các tình trạng toàn thân bao gồm viêm tuyến giáp tự miễn , [đái tháo đường](https://dermnetnz.org/topics/skin-problems-associated-with-diabetes-mellitus) , các bệnh tự miễn đặc hiệu ở cơ quan khác, tăng lipid máu và hiếm khi liên quan đến u lympho , [nhiễm HIV](https://dermnetnz.org/topics/skin-conditions-relating-to-hiv-infection) và khối u rắn .
+
+---
+
+## Đặc điểm lâm sàng của bệnh u hạt vòng là gì?
+
+U hạt vòng có thể xuất hiện ở bất kỳ vị trí nào trên cơ thể và đôi khi lan rộng. Nó chỉ ảnh hưởng đến da. U hạt vòng có thể không gây ra triệu chứng, nhưng các vùng bị ảnh hưởng thường đau khi gõ. Các mảng bám có xu hướng thay đổi hình dạng, kích thước và vị trí từ từ.
+
+### U hạt khu trú hình khuyên
+Dạng khu trú là loại phổ biến nhất của u hạt vòng nói chung và đặc biệt ở trẻ em. Một hoặc nhiều nốt sần màu da hoặc đỏ tạo thành vòng trên da ở các khớp, đặc biệt là các khớp ngón tay. Bề mặt nhẵn và phần giữa của mỗi vòng thường hơi lõm. U hạt vòng khu trú thường ảnh hưởng đến các ngón tay hoặc mu bàn tay, nhưng cũng thường gặp ở mặt trên bàn chân hoặc mắt cá chân, và trên một hoặc cả hai khuỷu tay. Các vòng tròn có thể đơn độc hoặc nhiều, và phát triển ra ngoài, duy trì hình dạng vòng trước khi dần dần biến mất.
+![U hạt vòng](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/ga1.jpg)
+![U hạt vòng](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/s/ga8.jpg)
+![U hạt vòng](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/ga11.jpg)
+[Xem thêm hình ảnh của u hạt vòng](https://dermnetnz-org.translate.goog/topics/granuloma-annulare-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp) ...
+
+### U hạt vòng lan tỏa toàn thân
+U hạt vòng toàn thân thường biểu hiện ở người lớn dưới dạng các mảng lan rộng màu da, hồng nhạt hoặc hơi tím nhạt. Thể lan tỏa bao gồm các sẩn nhỏ, thường xếp đối xứng thành các vòng tròn không rõ ràng, đường kính từ 10 cm trở lên. Chúng thường xuất hiện xung quanh các nếp gấp da ở thân mình (nách, bẹn). Ngứa là triệu chứng thường gặp. Đây là dạng phổ biến nhất liên quan đến HIV.
+![U hạt vòng](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/ga3.jpg)
+![U hạt vòng](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/ga6.jpg)
+![U hạt vòng](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/ga4.jpg)
+
+### U hạt vòng dưới da
+U hạt vòng dưới da là một dạng hiếm gặp, chủ yếu gặp ở trẻ em. Bệnh biểu hiện dưới dạng các cục u ( nốt sần ) dai như cao su ở rìa da đầu, đầu ngón tay và cẳng chân. U hạt vòng dưới da còn được gọi là nốt giả dạng thấp vì các tổn thương dưới da trông khá giống nốt dạng thấp; tuy nhiên, chúng không liên quan đến [viêm khớp dạng thấp](https://dermnetnz.org/topics/rheumatoid-arthritis-and-the-skin) .
+![U hạt vòng](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/s/deep-ga.jpg)
+![U hạt vòng](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/s/deep-ga2.jpg)
+
+### U hạt vòng thủng
+U hạt vòng thủng biểu hiện dưới dạng các mảng hoặc sẩn màu vàng, trên đó hình thành lớp vảy do collagen bị tổn thương bị đào thải qua lớp biểu bì. U hạt vòng thủng thường khu trú ở bàn tay, nhưng đôi khi các mảng có thể xuất hiện ở bất kỳ vị trí nào trên cơ thể, đặc biệt là trong các vết sẹo. [Soi da](https://dermnetnz.org/topics/dermoscopy) giúp xác nhận sự hiện diện của các lỗ thủng trong các sẩn nhỏ bên trong các mảng điển hình của u hạt vòng thủng. Các tổn thương thủng thường ngứa hoặc đau. U hạt vòng thủng không phổ biến, ngoại trừ ở người Hawaii bản địa và liên quan đến HIV. Mọi lứa tuổi đều có thể bị ảnh hưởng.
+![U hạt vòng](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/ga12.jpg)
+
+### U hạt vòng không điển hình
+U hạt vòng không điển hình mô tả:
+- U hạt hình khuyên ở những vị trí bất thường, chẳng hạn như mặt, lòng bàn tay và tai
+- U hạt hình khuyên có phân bố nhạy sáng
+- U hạt vòng có triệu chứng hoặc nghiêm trọng bất thường
+
+### Viêm da hạt kẽ
+[Viêm da hạt kẽ](https://dermnetnz.org/topics/granulomatous-dermatitis) là một phát hiện được ghi nhận trên mô học ở một số bệnh nhân có u hạt vòng lan rộng hoặc các rối loạn khác có biểu hiện lâm sàng tương tự.
+
+---
+
+## Bệnh u hạt vòng được chẩn đoán như thế nào?
+
+U hạt vòng thường được chẩn đoán lâm sàng do hình dạng đặc trưng. Tuy nhiên, đôi khi chẩn đoán không rõ ràng, và có thể cần xem xét các bệnh lý khác. [Sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) thường cho thấy tình trạng thoái hóa hoại tử collagen của da , bao quanh bởi phản ứng viêm. Xem [bệnh lý u hạt vòng.](https://dermnetnz.org/topics/granuloma-annulare-pathology)
+U hạt vòng thường bị chẩn đoán nhầm ban đầu là [nấm da](https://dermnetnz.org/topics/tinea) do hình dạng vòng; việc không có vảy bề mặt sẽ giúp phân biệt với bệnh này và các phát ban có vảy khác như [chàm dạng đĩa](https://dermnetnz.org/topics/discoid-eczema) hoặc [vẩy nến](https://dermnetnz.org/topics/psoriasis) . Một số người cho rằng [u hạt vòng](https://dermnetnz.org/topics/actinic-granuloma) là một biến thể nặng hơn của u hạt vòng do ánh sáng, trong khi một số khác lại cho rằng đây là một thực thể riêng biệt. [](https://dermnetnz.org/topics/discoid-eczema) [](https://dermnetnz.org/topics/psoriasis) [](https://dermnetnz.org/topics/actinic-granuloma)
+
+---
+
+## Có phương pháp điều trị nào cho bệnh u hạt vòng?
+
+Trong hầu hết các trường hợp, u hạt vòng không cần điều trị vì các mảng này tự biến mất sau vài tháng mà không để lại dấu vết. Tuy nhiên, đôi khi chúng tồn tại trong nhiều năm. Điều trị không thể chữa khỏi hoàn toàn nhưng có thể giúp ích cho từng tổn thương riêng biệt.
+
+### Liệu pháp tại chỗ
+Các lựa chọn cần cân nhắc bao gồm:
+- [Thuốc mỡ corticosteroid bôi ngoài da](https://dermnetnz.org/topics/topical-steroid) dưới dạng bịt kín
+- [Tiêm steroid vào tổn thương](https://dermnetnz.org/topics/intralesional-steroid-injection)
+- Tiêu hủy bằng [liệu pháp lạnh](https://dermnetnz.org/topics/cryotherapy) hoặc cắt bỏ bằng [tia laser](https://dermnetnz.org/topics/lasers-in-dermatology)
+- [Kem Imiquimod](https://dermnetnz.org/topics/imiquimod)
+- [Thuốc ức chế calcineurin](https://dermnetnz.org/topics/calcineurin-inhibitors) tại chỗ ( [tacrolimus](https://dermnetnz.org/topics/tacrolimus) và [pimecrolimus](https://dermnetnz.org/topics/pimecrolimus) ).
+
+### Liệu pháp toàn thân
+Liệu pháp toàn thân có thể được cân nhắc trong trường hợp u hạt vòng lan rộng. Các phương pháp điều trị sau đây đã được báo cáo là có hiệu quả với ít nhất một số trường hợp u hạt vòng lan tỏa. Tuy nhiên, không có phương pháp nào trong số này có thể điều trị khỏi hoàn toàn và có thể có tác dụng phụ.
+- [Steroid toàn thân](https://dermnetnz.org/topics/systemic-steroids)
+- [Isotretinoin](https://dermnetnz.org/topics/isotretinoin)
+- [Methotrexate](https://dermnetnz.org/topics/methotrexate)
+- [Kali iodua](https://dermnetnz.org/topics/potassium-iodide)
+- [Dapsone](https://dermnetnz.org/topics/dapsone)
+- [Hydroxychloroquine](https://dermnetnz.org/topics/hydroxychloroquine)
+- Pentoxifylline
+- Allopurinol (lưu ý: allopurinol cũng được coi là nguyên nhân gây ra bệnh u hạt vòng lan tỏa)
+- Kết hợp [kháng sinh](https://dermnetnz.org/topics/antibiotics) một lần mỗi tháng: [rifampicin](https://dermnetnz.org/topics/rifampicin) , ofloxacin, [minocycline](https://dermnetnz.org/topics/tetracycline)
+- [Quang hóa trị](https://dermnetnz.org/topics/puva-photochemotherapy) (PUVA)
+- Liệu pháp quang trị liệu UVA1 (không có ở New Zealand)
+- [Liệu pháp quang động](https://dermnetnz.org/topics/photodynamic-therapy)
+- [Ciclosporin](https://dermnetnz.org/topics/ciclosporin)
+- [Thuốc sinh học đặc biệt là](https://dermnetnz.org/topics/biological-agents-for-psoriasis) thuốc ức chế TNFα như [adalimumab](https://dermnetnz.org/topics/adalimumab-for-psoriasis) và [infliximab](https://dermnetnz.org/topics/infliximab-for-psoriasis)
+- Trong thử nghiệm, thuốc ức chế Janus kinase (JAK) đường uống và tại chỗ bao gồm [tofacitinib](https://dermnetnz.org/topics/tofacitinib)
+
+---
+
+## Triển vọng của bệnh u hạt vòng là gì?
+
+Các tổn thương riêng lẻ của u hạt vòng khu trú có xu hướng khỏi trong vòng vài tháng hoặc vài năm, mặc dù chúng có thể tái phát ngay cả ở cùng một vị trí. Các biến thể toàn thân và không điển hình dai dẳng hơn , đôi khi kéo dài hàng thập kỷ.

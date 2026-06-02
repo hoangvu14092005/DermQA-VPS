@@ -1,0 +1,99 @@
+# Chàm núm vú — thông tin bổ sung
+
+Thể loại:
+
+Bệnh chàm
+
+SNOMED CT:
+
+237463009
+
+**[Bệnh chàm](https://dermnetnz.org/topics/topics?category=Eczemas)**
+
+
+# **Chàm núm vú**
+
+Tác giả: Nicole S. Kim, Sinh viên Y khoa, Đại học Toronto, Canada; Tiến sĩ Yuliya Velykoredko, Bác sĩ Nội trú Da liễu, Đại học Toronto, Toronto, Canada. Tổng Biên tập DermNet: Phó Giáo sư Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand. Biên tập bởi Gus Mitchell/Maria McGivern. Tháng 9 năm 2018.
+
+---
+
+## Chàm núm vú là gì?
+
+Chàm núm vú là tình trạng [viêm da](https://dermnetnz.org/topics/dermatitis) khu trú ở núm vú và quầng vú , đặc trưng bởi ban đỏ và bong tróc. Bệnh có thể gây ngứa và đau. Chàm núm vú có thể là biểu hiện tại chỗ của [viêm da cơ địa/chàm](https://dermnetnz.org/topics/atopic-dermatitis) khi xuất hiện cùng với các dạng chàm cổ điển liên quan đến tuổi tác ở các vị trí khác trên cơ thể, hoặc có thể xảy ra riêng lẻ. [](https://dermnetnz.org/topics/dermatitis) [](https://dermnetnz.org/topics/atopic-dermatitis)
+![Chàm núm vú](https://dermnetnz.org/assets/Uploads/nipple-eczema-07.jpg)
+![Chàm núm vú](https://dermnetnz.org/assets/Uploads/nipple-eczema-02.jpg)
+![Chàm núm vú](https://dermnetnz.org/assets/Uploads/nipple-eczema-03.jpg)
+
+---
+
+## Ai bị chàm núm vú?
+
+Chàm núm vú có thể xảy ra ở bất kỳ ai như một tình trạng đơn độc; tuy nhiên, nó thường xảy ra ở những bệnh nhân hiện tại hoặc đã từng bị chàm ở nơi khác. Chàm núm vú chủ yếu được chẩn đoán ở trẻ em gái vị thành niên, bất kể tiền sử [viêm da dị ứng](https://dermnetnz.org/topics/atopic-dermatitis) , nhưng nó cũng có thể ảnh hưởng đến trẻ sơ sinh, trẻ em và cả nam giới và phụ nữ lớn tuổi. Chàm núm vú đôi khi có thể ảnh hưởng đến phụ nữ cho con bú không bị dị ứng [1,2]. [xem phần [Các vấn đề về tiết sữa và núm vú](https://dermnetnz.org/topics/lactation-and-nipple-problems) ]
+
+---
+
+## Nguyên nhân nào gây ra bệnh chàm núm vú?
+
+Viêm da núm vú có thể do yếu tố di truyền và các tác nhân kích thích từ môi trường. Bệnh thường gặp trong các loại [viêm da](https://dermnetnz.org/topics/dermatitis) khác nhau , chủ yếu là [viêm da dị ứng](https://dermnetnz.org/topics/atopic-dermatitis) , [viêm da tiếp xúc kích ứng](https://dermnetnz.org/topics/irritant-contact-dermatitis) và [viêm da tiếp xúc dị ứng](https://dermnetnz.org/topics/allergic-contact-dermatitis) . [](https://dermnetnz.org/topics/dermatitis) [](https://dermnetnz.org/topics/atopic-dermatitis) [](https://dermnetnz.org/topics/irritant-contact-dermatitis) [](https://dermnetnz.org/topics/allergic-contact-dermatitis)
+- Bệnh nhân bị [viêm da dị ứng có nguy cơ cao bị chàm núm vú. Khiếm khuyết tiềm ẩn trong](https://dermnetnz.org/topics/atopic-dermatitis) [chức năng hàng rào bảo vệ](https://dermnetnz.org/topics/barrier-function-in-atopic-dermatitis) da làm tăng độ nhạy cảm và dẫn đến [phản ứng miễn dịch](https://dermnetnz.org/topics/skin-immune-system) không được điều hòa với các kháng nguyên cụ thể (xem [nguyên nhân gây viêm da dị ứng](https://dermnetnz.org/topics/causes-of-atopic-dermatitis) ) [3]. [](https://dermnetnz.org/topics/skin-immune-system) [](https://dermnetnz.org/topics/causes-of-atopic-dermatitis)
+- [Viêm da tiếp xúc kích ứng](https://dermnetnz.org/topics/irritant-contact-dermatitis) là kết quả của sự kích ứng bởi nhiều [tác nhân tại chỗ](https://dermnetnz.org/topics/topical-medications-for-skin-conditions) , [xà phòng](https://dermnetnz.org/topics/soaps-and-cleansers) , chất tẩy rửa, [quần áo](https://dermnetnz.org/topics/textile-contact-dermatitis) [](https://dermnetnz.org/topics/sun-protective-clothing) và [nước hoa](https://dermnetnz.org/topics/fragrance-mix-allergy) .
+- [Viêm da tiếp xúc dị ứng](https://dermnetnz.org/topics/allergic-contact-dermatitis) là do [phản ứng quá mẫn](https://dermnetnz.org/topics/allergies-explained) chậm với [các chất gây dị ứng tiếp xúc](https://dermnetnz.org/topics/contact-allergens) . Chất gây dị ứng có thể là một thành phần trong [thuốc bôi ngoài da](https://dermnetnz.org/topics/topical-medications-for-skin-conditions) dùng cho núm vú (ví dụ: [hương liệu](https://dermnetnz.org/topics/fragrance-mix-allergy) , [chất bảo quản) .](https://dermnetnz.org/topics/contact-allergy-to-preservatives) [](https://dermnetnz.org/topics/food-additives) , lanolin [ [cồn len](https://dermnetnz.org/topics/contact-reactions-to-lanolin) ] hoặc vitamin E), một loại thuốc điều trị tại chỗ (ví dụ, kem [kháng sinh](https://dermnetnz.org/topics/cutaneous-adverse-reactions-to-antibiotics) ), một loại thảo dược (ví dụ, [hoa cúc](https://dermnetnz.org/topics/chamomile) , [lô hội](https://dermnetnz.org/topics/aloe-vera-and-the-skin) hoặc dầu [cây trà](https://dermnetnz.org/topics/manuka) ), hoặc một loại kim loại (ví dụ, [niken](https://dermnetnz.org/topics/nickel-allergy) liên quan đến [xỏ khuyên trên cơ thể](https://dermnetnz.org/topics/body-piercing) ) [1,3]. [](https://dermnetnz.org/topics/cutaneous-adverse-reactions-to-antibiotics) [](https://dermnetnz.org/topics/chamomile) [](https://dermnetnz.org/topics/aloe-vera-and-the-skin) [](https://dermnetnz.org/topics/manuka) [](https://dermnetnz.org/topics/nickel-allergy) [](https://dermnetnz.org/topics/body-piercing)
+
+---
+
+## Các đặc điểm lâm sàng của bệnh chàm núm vú là gì?
+
+Chàm núm vú thường ảnh hưởng đến da ở một hoặc cả hai quầng vú , nhưng phần quầng vú ở gốc núm vú và bản thân núm vú thường không bị ảnh hưởng. Chàm núm vú hiếm khi lan đến vùng da quanh quầng vú (xung quanh quầng vú) hoặc phần còn lại của vú.
+Viêm núm vú cấp tính có thể biểu hiện bằng các sẩn và mảng đỏ , mụn nước , rỉ dịch, đóng vảy hoặc xói mòn. Viêm núm vú mãn tính có biểu hiện khô, đóng vảy , lichen hóa trên nền ban đỏ hoặc tăng sắc tố . Viêm núm vú thường gây ngứa và đau, đặc biệt là ở [phụ nữ đang cho con bú](https://dermnetnz.org/topics/lactation-and-medications-used-in-dermatology) [3,4]. [](https://dermnetnz.org/topics/lactation-and-medications-used-in-dermatology)
+
+---
+
+## Biến chứng của bệnh chàm núm vú là gì?
+
+[Nhiễm trùng thứ phát](https://dermnetnz.org/topics/wound-infections) có thể xảy ra do các vết nứt và tổn thương da ở bệnh chàm núm vú. Nhiễm [khuẩn tụ cầu vàng](https://dermnetnz.org/topics/staphylococcal-skin-infection) có thể dẫn đến viêm vú hoặc [áp xe](https://dermnetnz.org/topics/cutaneous-abscess) vú nếu không được điều trị kịp thời.
+Các biến chứng khác bao gồm các tác dụng phụ hiếm gặp liên quan đến các tác nhân điều trị được sử dụng cho bệnh chàm núm vú, chẳng hạn như teo da do sử dụng quá nhiều [corticosteroid](https://dermnetnz.org/topics/topical-steroid) mạnh hoặc [viêm nang lông](https://dermnetnz.org/topics/folliculitis) do chất làm mềm [gây tắc](https://dermnetnz.org/topics/emollients-and-moisturisers) nghẽn [3,4].
+
+---
+
+## Bệnh chàm núm vú được chẩn đoán như thế nào?
+
+Chẩn đoán chàm núm vú được thực hiện trên lâm sàng. Đôi khi, có thể cần phải làm thêm các xét nghiệm khác.
+- [Xét nghiệm vá](https://dermnetnz.org/topics/patch-tests) có thể xác định kháng nguyên gây bệnh [viêm da tiếp xúc dị ứng](https://dermnetnz.org/topics/allergic-contact-dermatitis) .
+- [Xét nghiệm nấm](https://dermnetnz.org/topics/mycology-of-dermatophyte-infections) ( soi kính hiển vi sau khi bôi kali hydroxit và [nuôi cấy mẫu da cạo](https://dermnetnz.org/topics/laboratory-tests-for-fungal-infection) ở vùng bị ảnh hưởng) được chỉ định nếu có rìa tổn thương có vảy hoặc vết loét và có thể giúp loại trừ nhiễm [nấm da](https://dermnetnz.org/topics/tinea) hoặc nấm [candida](https://dermnetnz.org/topics/candida) ở vú.
+- [Có thể lấy tăm bông để nuôi cấy](https://dermnetnz.org/topics/laboratory-tests-for-bacterial-infections) nhằm xác định bất kỳ [nhiễm trùng thứ phát nào](https://dermnetnz.org/topics/wound-infections) có thể làm chậm phản ứng điều trị.
+- [Sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) có thể được thực hiện để loại trừ [bệnh Paget](https://dermnetnz.org/topics/mammary-paget-disease) , đặc biệt là trong rối loạn một bên núm vú ở bệnh nhân lớn tuổi [3–5].
+
+---
+
+## Chẩn đoán phân biệt bệnh chàm núm vú là gì?
+
+Những tình trạng khác cần được xem xét ở bệnh nhân bị chàm núm vú bao gồm:
+- [Viêm da tiếp xúc dị ứng](https://dermnetnz.org/topics/allergic-contact-dermatitis) [5]
+- [Nhiễm trùng do vi khuẩn](https://dermnetnz.org/topics/bacterial-skin-infections) (ví dụ, [viêm mô tế bào](https://dermnetnz.org/topics/cellulitis) , [chốc lở](https://dermnetnz.org/topics/impetigo) hoặc viêm vú)
+- [Nhiễm trùng nấm](https://dermnetnz.org/topics/fungal-skin-infections)
+- [Bệnh ghẻ demodicosis](https://dermnetnz.org/topics/demodex) [6]
+- [Các bệnh viêm da](https://dermnetnz.org/cme/dermatopathology/inflammatory-skin-diseases) khác , chủ yếu [là bệnh vẩy nến](https://dermnetnz.org/topics/psoriasis)
+- [Bệnh Paget vú](https://dermnetnz.org/topics/mammary-paget-disease) [4].
+Nên cân nhắc chẩn đoán [viêm da tiếp xúc dị ứng](https://dermnetnz.org/topics/allergic-contact-dermatitis) nếu đáp ứng tối thiểu với các phương pháp điều trị thông thường cho bệnh chàm núm vú, đặc biệt ở những bệnh nhân có tổn thương hai bên lan rộng ra ngoài quầng vú. [Bệnh Paget vú](https://dermnetnz.org/topics/mammary-paget-disease) , một dạng ung thư biểu mô ống tuyến vú phát triển chậm , nên được loại trừ ở người lớn có tổn thương chàm một bên núm vú mạn tính kéo dài hơn ba tháng mà không cải thiện sau khi sử dụng [steroid bôi ngoài da](https://dermnetnz.org/topics/topical-steroid) . [](https://dermnetnz.org/topics/mammary-paget-disease) [](https://dermnetnz.org/topics/topical-steroid)
+Các tình trạng hiếm gặp khác có thể bị nhầm lẫn với bệnh chàm núm vú bao gồm [u tuyến xói mòn](https://dermnetnz.org/topics/nipple-papillomatosis) , [bệnh vẩy nến](https://dermnetnz.org/topics/psoriasis) , [bệnh Hailey-Hailey](https://dermnetnz.org/topics/familial-benign-pemphigus-pathology) và [bệnh pemphigus](https://dermnetnz.org/topics/pemphigus-foliaceus) . [Ung thư da](https://dermnetnz.org/topics/skin-cancer) (ví dụ, [ung thư biểu mô tế bào vảy trong biểu bì](https://dermnetnz.org/topics/intraepidermal-squamous-cell-carcinoma) , [ung thư biểu mô tế bào đáy](https://dermnetnz.org/topics/basal-cell-carcinoma) và [u ác tính](https://dermnetnz.org/topics/melanoma) ) nên được loại trừ khi có mức độ nghi ngờ hợp lý [4].
+
+---
+
+## Phương pháp điều trị bệnh chàm núm vú là gì?
+
+Cần giải quyết các nguyên nhân đa yếu tố gây chàm núm vú. Việc phòng ngừa tái phát là chìa khóa, và bệnh nhân nên được khuyến khích tránh các tác nhân gây kích ứng và dị ứng nếu đã biết. Việc chăm sóc da thường xuyên nên bao gồm [kem dưỡng ẩm](https://dermnetnz.org/topics/emollients-and-moisturisers) , vì chúng sẽ giúp phục hồi chức năng hàng rào bảo vệ da và giảm đau, ngứa [3,4]. [](https://dermnetnz.org/topics/emollients-and-moisturisers)
+[Corticosteroid tại chỗ](https://dermnetnz.org/topics/topical-steroid) (đặc biệt là dạng thuốc mỡ ) là phương pháp điều trị chính cho hầu hết các trường hợp chàm núm vú. Chúng có tác dụng tốt và dễ dàng được hấp thụ qua lớp da mỏng ở quầng vú .
+- Steroid bôi ngoài da có hiệu lực vừa phải được sử dụng cho các trường hợp bệnh nặng hoặc khó chữa .
+- Steroid có hiệu lực thấp thích hợp cho bệnh chàm nhẹ hoặc liệu pháp duy trì sau khi điều trị bằng steroid có hiệu lực vừa phải [1,4].
+Đối với phụ nữ đang cho con bú bị chàm núm vú, nên bôi [steroid tại chỗ](https://dermnetnz.org/topics/topical-steroid) sau khi cho con bú. Trước khi cho con bú, nên lau sạch lớp bôi để tránh các tác dụng phụ tiềm ẩn liên quan đến steroid bằng cách vắt sữa mẹ ra và dùng sữa này để lau sạch thuốc mỡ steroid; chất béo trong sữa có thể giúp giữ ẩm cho núm vú và giảm thiểu tình trạng khô.
+[Hiếm khi cần dùng steroid toàn thân](https://dermnetnz.org/topics/systemic-steroids) để điều trị bệnh chàm giới hạn ở núm vú hoặc da vú.
+[Thuốc ức chế calcineurin tại chỗ](https://dermnetnz.org/topics/calcineurin-inhibitors) (ví dụ như [tacrolimus](https://dermnetnz.org/topics/tacrolimus) và [pimecrolimus](https://dermnetnz.org/topics/pimecrolimus) ) cũng hữu ích, nhưng có ít thông tin trong tài liệu về các tác dụng phụ tiềm ẩn đối với trẻ bú mẹ.
+[Nhiễm trùng da do vi khuẩn thứ phát](https://dermnetnz.org/topics/wound-infections) ( [S. aureus](https://dermnetnz.org/topics/staphylococcal-skin-infection) ) nên được điều trị bằng [kháng sinh](https://dermnetnz.org/topics/antibiotics) . Kháng sinh toàn thân đã cho thấy khả năng loại bỏ nhiễm trùng tốt hơn so với kháng sinh tại chỗ; chúng cũng ít có khả năng gây ra [vi khuẩn kháng methicillin](https://dermnetnz.org/topics/methicillin-resistant-staphylococcus-aureus) và ít có khả năng gây [dị ứng kháng sinh](https://dermnetnz.org/topics/cutaneous-adverse-reactions-to-antibiotics) [3].
+Đau hoặc cảm giác nóng rát ở núm vú có thể được giảm bớt bằng cách uống paracetamol; phương pháp này thường an toàn cho [bà mẹ đang cho con bú](https://dermnetnz.org/topics/lactation-and-medications-used-in-dermatology) [1,4].
+
+---
+
+## Hậu quả của bệnh chàm núm vú là gì?
+
+Chàm núm vú thường diễn biến mạn tính với nhiều mức độ tái phát và thuyên giảm khác nhau. Mục đích là ngăn ngừa các đợt bùng phát bằng cách xác định và tránh các yếu tố thúc đẩy.
+Bệnh nhân nên được giáo dục về cách chăm sóc da cơ bản. Bệnh chàm núm vú nhẹ thường có thể được kiểm soát tốt bằng cách tránh dùng [xà phòng](https://dermnetnz.org/topics/soaps-and-cleansers) , sử dụng [thuốc làm mềm](https://dermnetnz.org/topics/emollients-and-moisturisers) da và bôi [steroid](https://dermnetnz.org/topics/topical-steroid) tại chỗ khi bệnh chàm đang hoạt động [3,4].

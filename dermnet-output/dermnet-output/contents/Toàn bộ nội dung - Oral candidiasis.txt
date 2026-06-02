@@ -1,0 +1,111 @@
+# Bệnh nấm miệng - thông tin bổ sung
+
+Thể loại:
+
+Nhiễm trùng
+
+SNOMED CT:
+
+79740000, 746223008, 235071003, 402998007, 235070002, 707318002, 234568006, 402997002, 402996006, 235069003, 278521000, 7522008
+
+**[Nhiễm trùng](https://dermnetnz.org/topics/topics?category=Infections)**
+
+
+# **Bệnh nấm miệng**
+
+Được biên soạn năm 2003 bởi Bác sĩ Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand. Bản cập nhật mới nhất của Bác sĩ Jannet Gomez, tháng 3 năm 2017. Bản sửa đổi DermNet tháng 10 năm 2021
+
+---
+
+## Bệnh nấm miệng là gì?
+
+Bệnh tưa miệng là bệnh nhiễm trùng do nấm ở miệng, thường được gọi là 'tưa miệng' vì các đốm trắng trông giống như ngực của loài chim cùng tên.
+Mặc dù [nấm candida](https://dermnetnz.org/topics/candida) có mặt trong 50% hệ vi khuẩn bình thường trong miệng khỏe mạnh, nhưng nó gây nhiễm trùng (bệnh candida) khi số lượng tế bào nấm men xâm nhập vào niêm mạc tăng lên.
+
+---
+
+## Ai có thể mắc bệnh nấm miệng?
+
+Các yếu tố nguy cơ phát triển bệnh nấm miệng bao gồm:
+- Tuổi thơ hay tuổi già
+- Ở trẻ sơ sinh, nhiễm trùng nấm âm đạo ở mẹ
+- Các bệnh tiềm ẩn nghiêm trọng, chẳng hạn như ung thư , [suy giảm miễn dịch](https://dermnetnz.org/topics/immunodeficiency) nguyên phát hoặc nhiễm [vi-rút gây suy giảm miễn dịch ở người](https://dermnetnz.org/topics/skin-conditions-relating-to-hiv-infection) [](https://dermnetnz.org/topics/immunodeficiency) [](https://dermnetnz.org/topics/skin-conditions-relating-to-hiv-infection)
+- Nhiễm trùng Candida ở nơi khác, ví dụ như ở trẻ sơ sinh, viêm da tã lót
+- Khô miệng do bệnh tuyến nước bọt hoặc thuốc, ví dụ [thuốc kháng histamin](https://dermnetnz.org/topics/antihistamines) , thuốc lợi tiểu [](https://dermnetnz.org/topics/antihistamines)
+- [Răng giả](https://dermnetnz.org/topics/denture-stomatitis) , đặc biệt là khi chúng không được vệ sinh thường xuyên hoặc không vừa vặn
+- Hút thuốc
+- Chấn thương miệng
+- [Thuốc kháng](https://dermnetnz.org/topics/antibiotics) sinh phổ rộng [](https://dermnetnz.org/topics/antibiotics)
+- Thiếu hụt dinh dưỡng, ví dụ như thiếu [sắt](https://dermnetnz.org/topics/iron-deficiency) hoặc vitamin B
+- Corticosteroid dạng hít dùng để điều trị hen suyễn, chẳng hạn như beclometasone, budesonide, fluticasone.
+Bệnh nấm candida hầu họng được báo cáo ở những bệnh nhân [COVID-19 nhập viện và](https://dermnetnz.org/topics/covid-19) không có triệu chứng . [](https://dermnetnz.org/topics/covid-19)
+
+---
+
+## Nguyên nhân gây bệnh nấm miệng là gì?
+
+Tác nhân gây bệnh thường gặp là Candida albicans , nhưng ít nhất bảy loài Candida khác cũng có thể gây bệnh nấm miệng, bao gồm C. tropicalis, C. glabrata, C. kruesi và các loài khác. C. dubliniensis cũng được ghi nhận ở bệnh nhân HIV . Xem [Nhiễm trùng Candida không phải albicans](https://dermnetnz.org/topics/non-albicans-candida-infections) .
+![Bệnh tưa miệng](https://dermnetnz.org/assets/Uploads/fungal/oral-thrush.jpg)
+![Bệnh nấm miệng](https://dermnetnz.org/assets/Uploads/fungal/candor.jpg)
+![Viêm góc môi](https://dermnetnz.org/assets/Uploads/fungal/ocan1.jpg)
+[Thêm hình ảnh về bệnh nấm miệng](https://dermnetnz-org.translate.goog/topics/candida-affecting-the-lips-mouth-and-face-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp) .
+
+---
+
+## Các đặc điểm lâm sàng của bệnh nấm miệng là gì?
+
+Bệnh Candida có thể xuất hiện đột ngột như một bệnh nhiễm trùng cấp tính hoặc kéo dài trong thời gian dài như một bệnh nhiễm trùng mãn tính .
+- Bệnh nấm Candida màng giả cấp tính. Có những mảng trắng trên nướu, lưỡi và bên trong miệng có thể bong ra để lại vùng da bị trầy xước.
+- Có những mảng trắng trên nướu, lưỡi và bên trong miệng có thể bong ra để lại vùng da bị trầy xước.
+- Bệnh nấm Candida teo cấp tính . Có những mảng đỏ bóng nhẵn trên lưỡi. Miệng rất đau.
+- Có những mảng đỏ bóng nhẵn trên lưỡi. Miệng rất đau.
+- Bệnh nấm candida teo mạn tính. Tình trạng này thường gặp ở những người đeo răng giả. Niêm mạc bên dưới bị đỏ và sưng.
+- Tình trạng này thường gặp ở những người đeo răng giả. Niêm mạc bên dưới bị đỏ và sưng.
+- [Viêm khóe môi](https://dermnetnz.org/topics/angular-cheilitis) . Có những vết nứt đỏ đau ở mỗi bên miệng, dễ xảy ra hơn nếu môi trên nhô ra ngoài môi dưới, tạo thành rãnh sâu ẩm ướt. Viêm khóe môi do nấm candida và/hoặc tụ cầu vàng thường xảy ra ở những người dùng thuốc [isotretinoin](https://dermnetnz.org/topics/isotretinoin) trị [mụn trứng cá](https://dermnetnz.org/topics/acne-and-other-follicular-disorders) ; thuốc này làm khô môi.
+- Có những vết nứt đỏ đau ở mỗi bên miệng, dễ xảy ra hơn nếu môi trên nhô ra ngoài môi dưới, tạo thành rãnh sâu ẩm ướt. Viêm khóe môi do nấm candida và/hoặc tụ cầu vàng thường xảy ra ở những người dùng thuốc [isotretinoin](https://dermnetnz.org/topics/isotretinoin) trị [mụn trứng cá](https://dermnetnz.org/topics/acne-and-other-follicular-disorders) ; thuốc này làm khô môi.
+- Bệnh nấm Candida tăng sản mãn tính . Đây là một loại bạch sản niêm mạc miệng ( mảng trắng ) bên trong má hoặc trên lưỡi, kèm theo các nốt sần hoặc cục u dai dẳng . Bệnh thường ảnh hưởng đến [người hút thuốc](https://dermnetnz.org/topics/smoking-and-its-effects-on-the-skin) và là tiền ác tính. Các mảng đỏ (hồng sản), cũng như các mảng trắng, có thể báo hiệu sự thay đổi ác tính. [](https://dermnetnz.org/topics/smoking-and-its-effects-on-the-skin)
+- Đây là một loại bạch sản niêm mạc miệng ( mảng trắng ) bên trong má hoặc trên lưỡi, kèm theo các nốt sần hoặc cục u dai dẳng . [](https://dermnetnz.org/topics/smoking-and-its-effects-on-the-skin)
+- [Bệnh nấm candida niêm mạc mãn tính](https://dermnetnz.org/topics/chronic-mucocutaneous-candidiasis) Biểu hiện là tình trạng nhiễm trùng miệng giả mạc mãn tính. Da và móng cũng bị ảnh hưởng.
+- Biểu hiện là tình trạng nhiễm trùng miệng giả mạc mãn tính. Da và móng cũng bị ảnh hưởng.
+- Viêm lưỡi giữa hình thoi Viêm hình thoi ở phía sau lưỡi.
+- Viêm hình thoi ở phía sau lưỡi.
+- Candida có thể gây ra nhiễm trùng thứ phát ở các bệnh lý niêm mạc miệng khác như [liken phẳng](https://dermnetnz.org/topics/lichen-planus) hoặc [lưỡi bản đồ](https://dermnetnz.org/topics/geographic-tongue) .
+Nhiễm trùng nghiêm trọng có thể lan xuống cổ họng ( nhiễm trùng thực quản ) và gây khó khăn khi nuốt.
+
+---
+
+## Bệnh nấm miệng được chẩn đoán như thế nào?
+
+Soi kính hiển vi và nuôi cấy mẫu bệnh phẩm từ da giúp chẩn đoán nhiễm trùng candida. Tuy nhiên, vì candida có thể sống trên bề mặt niêm mạc một cách vô hại, nên cần phải có sự tương quan lâm sàng. Nó cũng có thể lây nhiễm thứ phát cho một bệnh lý tiềm ẩn.
+Trong trường hợp bệnh nấm miệng lan rộng, nội soi được thực hiện để xem mức độ tổn thương trong đường tiêu hóa.
+
+---
+
+## Bệnh nấm miệng được điều trị như thế nào?
+
+
+### Các biện pháp chung bao gồm phòng ngừa
+Thực hiện vệ sinh răng miệng tốt.
+- Đánh răng thường xuyên.
+- Sử dụng nước muối ấm để súc miệng.
+- Tránh sử dụng/lạm dụng [nước súc miệng](https://dermnetnz.org/topics/mouthwash) sát trùng vì chúng làm thay đổi hệ vi khuẩn trong miệng.
+- Nếu sử dụng ống hít steroid để điều trị bệnh hen suyễn, hãy uống nước và súc miệng sau khi hít.
+Người đeo răng giả:
+- Làm sạch răng giả bằng chế phẩm chống nấm candida, chẳng hạn như dung dịch natri hypoclorit 1%.
+- Tháo răng giả qua đêm.
+
+### Các biện pháp cụ thể
+[Nước súc miệng](https://dermnetnz.org/topics/mouthwash) có tác dụng chống nấm bao gồm:
+- Triclosan
+- Chlorhexidine gluconate
+- Công thức tinh dầu .
+[Các sản phẩm chống nấm tại chỗ](https://dermnetnz.org/topics/topical-antifungal-medication) cho bệnh nấm miệng bao gồm:
+- Uống hỗn dịch nystatin (1 ml, 4 lần/ngày) hoặc viên ngậm (cho bệnh viêm miệng do răng giả )
+- Amphotericin B (5 ml hoặc 1 viên ngậm 10 mg, 4 lần mỗi ngày)
+- Gel miconazole (uống 2,5 ml sau ăn, ngày 4 lần).
+Việc điều trị nên được tiếp tục trong vòng 1–4 tuần hoặc cho đến khi các triệu chứng hết hẳn trong 7 ngày.
+Các phương pháp điều trị toàn thân bao gồm:
+- [Fluconazole](https://dermnetnz.org/topics/fluconazole) 100–150 mg mỗi ngày trong 10 ngày (đặc biệt đối với nhiễm trùng màng giả)
+- [Itraconazole](https://dermnetnz.org/topics/itraconazole)
+- [Voriconazole](https://dermnetnz.org/topics/voriconazole)
+- Amphotericin B

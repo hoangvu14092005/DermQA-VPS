@@ -1,0 +1,56 @@
+# U xương dưới móng — thông tin bổ sung
+
+Thể loại:
+
+Tổn thương (lành tính)
+
+SNOMED CT:
+
+26904005, 281498002, 281499005, 75789001, 254044004
+
+**[Tổn thương (lành tính)](https://dermnetnz.org/topics/topics?category=Lesions+(benign))**
+
+
+# **Exostosis dưới móng**
+
+Tác giả: Tiến sĩ Kenneth Wong, Bác sĩ da liễu, Bệnh viện Greenlane, Auckland, New Zealand, 2009.
+
+---
+
+## Bệnh lý ngoại xương dưới móng là gì?
+
+U xương dưới móng là tình trạng xương mọc ra từ đầu ngón chân hoặc ngón tay. Tình trạng này xảy ra bên dưới móng, do đó có thuật ngữ "u xương dưới móng". Đây là một khối u lành tính bắt nguồn từ xương và sụn. Dupuytren lần đầu tiên mô tả tình trạng này vào năm 1817.
+
+---
+
+## Nguyên nhân nào gây ra chứng phình xương dưới móng?
+
+Nguyên nhân chưa rõ. Kích ứng xương liên tục được cho là một yếu tố gây bệnh. Chấn thương trước đó và nhiễm trùng lâu năm có thể góp phần gây ra tình trạng này. Có hai bệnh lý di truyền có thể biểu hiện dưới dạng u xương dưới móng: hội chứng u xương nhiều ổ và hội chứng u xương nhiều ổ - chậm phát triển trí tuệ.
+
+---
+
+## Các đặc điểm lâm sàng của bệnh xương hóa dưới móng là gì?
+
+Vị trí tổn thương phổ biến nhất là ở ngón chân cái, thường ở mặt trong hoặc mặt trong . Ít gặp hơn, tình trạng xuất tiết dưới móng có thể xảy ra ở các ngón tay, phổ biến nhất là ở ngón trỏ và ngón giữa.
+U xương dưới móng có thể xảy ra ở mọi lứa tuổi, nhưng một nửa số trường hợp được báo cáo có xu hướng xảy ra ở độ tuổi 20. Phụ nữ thường bị ảnh hưởng nhiều hơn.
+Một nốt sần cứng phát triển bên dưới nền móng và khi nó phát triển lên trên, phiến móng sẽ tách khỏi nền móng ( [ly móng](https://dermnetnz.org/topics/onycholysis) ), thường gây đau. Tổn thương thường phát triển chậm trong vài tuần đến vài tháng.
+![Exostosis dưới móng](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/exostosis.jpg)
+![Exostosis dưới móng](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/subungual-exostosis1.jpg)
+
+---
+
+## Cần phải tiến hành những cuộc điều tra nào?
+
+Điều quan trọng là phải chụp X-quang tổn thương để xác định nguồn gốc xương. Sinh thiết hiếm khi cần thiết.
+
+---
+
+## Chẩn đoán phân biệt bệnh lý xương dưới móng
+
+Các tổn thương ở vùng này có thể xuất hiện tương tự như chứng phình xương dưới móng bao gồm mụn cóc dưới móng ( [mụn cóc do virus](https://dermnetnz.org/topics/viral-wart) ), [u hạt mủ](https://dermnetnz.org/topics/pyogenic-granuloma) , u sụn xương, [u hắc tố dưới móng](https://dermnetnz.org/topics/melanoma-of-the-nail-unit) không có hắc tố và [khối u glomus](https://dermnetnz.org/topics/glomus-tumour) . [](https://dermnetnz.org/topics/melanoma-of-the-nail-unit) [](https://dermnetnz.org/topics/glomus-tumour)
+
+---
+
+## Bệnh u xương dưới móng được điều trị như thế nào?
+
+Phẫu thuật cắt bỏ tổn thương là phương pháp điều trị được lựa chọn. Phương pháp này thường được thực hiện dưới gây tê tại chỗ ở ngón tay, được gọi là "phong bế ngón tay". Khối u được cắt bỏ hoàn toàn và xương bên dưới được nạo sạch để ngăn ngừa tái phát trong tương lai.

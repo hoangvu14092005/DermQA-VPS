@@ -1,0 +1,96 @@
+# Piebaldism — thông tin bổ sung
+
+Thể loại:
+
+Rối loạn sắc tố
+
+SNOMED CT:
+
+718122005, 247564004, 14740001
+
+**[Rối loạn sắc tố](https://dermnetnz.org/topics/topics?category=Pigmentary+disorders)**
+
+
+# **Piebaldism**
+
+Tác giả: Vanessa Ngan, Biên tập viên, 2005. Bản cập nhật DermNet tháng 8 năm 2021
+
+---
+
+## Bệnh hói đầu là gì?
+
+Bệnh hói đầu là một rối loạn sắc tố di truyền hiếm gặp, đặc trưng bởi [tình trạng](https://dermnetnz.org/topics/leukoderma) da trắng và tóc trắng ( [bạch tạng](https://dermnetnz.org/topics/poliosis) ) xuất hiện khi mới sinh.
+Tên gọi piebaldism bắt nguồn từ sự kết hợp giữa từ “pie” trong tiếng Anh có nghĩa là chim ác là (một loài chim có bộ lông đen trắng) và từ “bald” trong tiếng Anh có nghĩa là đại bàng đầu trắng (một loài chim quốc gia của Hoa Kỳ có đầu lông trắng). Do đó, đặc điểm chính của piebaldism là một mảng lông trắng ở trán (một mảng lông trắng ngay phía trên trán).
+![Không có caption](https://dermnetnz.org/assets/Uploads/colour/piebald3.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/colour/piebald4.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/colour/piebald2.jpg)
+
+---
+
+## Ai bị chứng hói đầu?
+
+Bệnh hói đầu là một bệnh di truyền trội trên nhiễm sắc thể thường , do đó mỗi đứa trẻ của cha mẹ bị bệnh đều có 50% khả năng thừa hưởng chứng rối loạn này.
+
+---
+
+## Nguyên nhân gây ra chứng hói đầu là gì?
+
+Piebaldism là một bệnh lý thần kinh ngoại biên do đột biến gen tiền ung thư KIT trên nhiễm sắc thể số 4, chiếm 75% các trường hợp; hơn 45 đột biến điểm, đột biến mất đoạn, đột biến nối nucleotide và đột biến chèn gen KIT khác nhau đã được xác định. Đột biến gen KIT gây ra sự di chuyển bất thường của nguyên bào hắc tố từ mào thần kinh đến da trong phôi thai, dẫn đến các mảng da thiếu tế bào hắc tố. Mức độ nghiêm trọng của tình trạng này tương quan với đột biến cụ thể trong gen KIT .
+
+---
+
+## Đặc điểm lâm sàng của bệnh hói đầu là gì?
+
+- Tóc trắng ở 80-90% số người bị ảnh hưởng ( [bệnh bại liệt](https://dermnetnz.org/topics/vitiligo) )
+- [Bệnh bạch biến](https://dermnetnz.org/topics/leukoderma) (mảng trắng do thiếu tế bào hắc tố) ở phần giữa trán
+- Lông mày và lông mi cũng có thể bị ảnh hưởng, liên tục hoặc không liên tục với phần tóc mái.
+- Các mảng da trắng cũng có thể xuất hiện trên mặt (đặc biệt là cằm), thân và chân tay; bàn tay và bàn chân thường không bị ảnh hưởng
+- Thường có một đường viền hẹp của da tăng sắc tố bao quanh các mảng trắng không có sắc tố
+- Đôi khi các đảo da bình thường hoặc tăng sắc tố xuất hiện trong các mảng trắng
+- [Các đốm màu cà phê sữa](https://dermnetnz.org/topics/cafe-au-lait-macule) và tàn nhang ở nếp gấp có thể phát triển
+Dạng nhẹ có thể chỉ xuất hiện các mảng trắng nhỏ , trong khi ở dạng nặng hơn, có thể xuất hiện các mảng trắng ở trán và các mảng trắng lớn hơn trên thân và chân tay.
+![Không có caption](https://dermnetnz.org/assets/Uploads/colour/piebald5.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/colour/piebald6.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/colour/piebald7.jpg)
+
+---
+
+## Biến chứng của bệnh hói đầu là gì?
+
+- [Tác động tâm lý xã hội](https://dermnetnz.org/topics/psychosocial-factors-in-dermatology)
+- [Cháy nắng](https://dermnetnz.org/topics/sunburn) các mảng da trắng
+- [Ung thư da](https://dermnetnz.org/topics/skin-cancer) phát triển ở các mảng trắng
+
+---
+
+## Bệnh hói đầu được chẩn đoán như thế nào?
+
+Bệnh hói đầu có thể được nghi ngờ về mặt lâm sàng ngay khi sinh hoặc ngay sau đó.
+[Sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) từ bệnh bạch tạng ở những bệnh nhân bị chứng hói đầu cho thấy tình trạng thiếu hoàn toàn tế bào hắc tố và sắc tố melanin .
+Xét nghiệm di truyền trên máu ngoại vi có thể xác nhận chẩn đoán.
+
+---
+
+## Chẩn đoán phân biệt bệnh hói đầu là gì?
+
+- [Bạch tạng](https://dermnetnz.org/topics/vitiligo) : là một bệnh bạch tạng mắc phải và cấu trúc cũng như sự phân bố của các tổn thương khá khác nhau
+- [Hội chứng Waardenburg](https://dermnetnz.org/topics/waardenburg-syndrome) : bao gồm điếc và khoảng cách giữa hai mắt lớn hơn bình thường
+- [Nốt ruồi không sắc tố](https://dermnetnz.org/topics/achromic-naevus) : số lượng tế bào hắc tố bình thường nhưng sự vận chuyển melanosome bị suy giảm [](https://dermnetnz.org/topics/achromic-naevus)
+
+---
+
+## Phương pháp điều trị bệnh hói đầu là gì?
+
+Bệnh nhân phải được giáo dục về việc sử dụng [kem chống nắng](https://dermnetnz.org/topics/topical-sunscreen-agents) , [các biện pháp bảo vệ khỏi ánh nắng mặt trời](https://dermnetnz.org/topics/sun-protection) và tránh ánh nắng mặt trời trong những giờ cao điểm tiếp xúc với tia UV , và [tự kiểm tra da](https://dermnetnz.org/topics/self-skin-examination) để phát hiện [ung thư da](https://dermnetnz.org/topics/skin-cancer) .
+Những bệnh nhân tự ti về ngoại hình của mình có thể được hưởng lợi từ các phương pháp điều trị sau:
+- [Mài mòn da](https://dermnetnz.org/topics/dermabrasion) ở các vùng mất sắc tố sau đó áp dụng hỗn dịch tế bào giàu tế bào hắc tố
+- Cấy ghép tế bào hắc tố bằng cách cạo lớp da trên cùng ( biểu bì ) và thay thế bằng lớp da được cạo từ vùng có sắc tố
+- Ghép biểu bì hút hoặc ghép đục lỗ toàn bộ độ dày
+- Có thể cần kết hợp các phương pháp này và có thể được tăng cường bằng cách bổ sung [liệu pháp ánh sáng UV](https://dermnetnz.org/topics/phototherapy)
+[Các kỹ thuật ngụy trang thẩm mỹ](https://dermnetnz.org/topics/cosmetic-camouflage) có thể che giấu sự thay đổi sắc tố của tóc và da.
+
+---
+
+## Hậu quả của bệnh hói đầu là gì?
+
+Chứng hói đầu xuất hiện từ khi sinh ra và sự thay đổi sắc tố thường không thay đổi trong suốt cuộc đời. Các chấm và mảng sắc tố có thể phát triển ở rìa hoặc bên trong các mảng bạch bì. Bạch bì có thể tiến triển trong một số trường hợp hiếm gặp.

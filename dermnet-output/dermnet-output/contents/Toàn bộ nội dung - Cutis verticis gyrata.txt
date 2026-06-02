@@ -1,0 +1,76 @@
+# Cutis verticis gyrata - thông tin bổ sung
+
+Thể loại:
+
+Thuật ngữ
+
+SNOMED CT:
+
+51603000, 765135003, 778044004
+
+**[Thuật ngữ](https://dermnetnz.org/topics/topics?category=Terminology)**
+
+
+# **Cutis verticis gyrata**
+
+Tác giả: Tiến sĩ Fiona Larsen, Nghiên cứu viên Da liễu Thủ thuật, Trung tâm Y tế UTSW, Dallas, TX, Hoa Kỳ, 2007. Bản sửa đổi DermNet tháng 9 năm 2021
+
+---
+
+## Cutis verticis gyrata là gì?
+
+Cutis verticis gyrata là tình trạng da đầu phát triển quá mức, tạo thành các nếp gấp phức tạp và rãnh sâu trên da giống như bề mặt não.
+![Không có caption](https://dermnetnz.org/assets/Uploads/cutis-verticis-gyrata-003.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/cutis-verticis-gyrata-004.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/cutis-verticis-gyrata-005.jpg)
+
+---
+
+## Ai bị bệnh cutis verticis gyrata?
+
+Tình trạng da đầu bị xoắn đỉnh (cutis verticis gyrata) thường gặp ở nam giới hơn nữ giới. Dạng chính của tình trạng da đầu bị xoắn đỉnh (cutis verticis gyrata) được báo cáo có tỷ lệ nam/nữ là 5:1. Tỷ lệ mắc bệnh da đầu bị xoắn đỉnh (cutis verticis gyrata) ở nữ giới có thể thấp hơn do tóc dài hơn có thể che giấu tình trạng này.
+Hầu hết các trường hợp nguyên phát phát triển sau [tuổi dậy thì](https://dermnetnz.org/topics/skin-changes-at-puberty) và thường xảy ra trước 30 tuổi. Một số dạng thứ phát của chứng da dày sừng nang lông, chẳng hạn như nốt ruồi trong bì dạng tiểu não , có thể xuất hiện ngay từ khi sinh.
+
+---
+
+## Nguyên nhân gây ra bệnh cutis verticis gyrata là gì?
+
+Da đầu bị xoắn đỉnh (cutis verticis gyrata) là kết quả của sự phát triển quá mức của da đầu. Tình trạng này có thể được phân loại như sau:
+- Da đầu bị cong vẹo nguyên phát: không có bất thường nào khác kèm theo. Nguyên phát nghĩa là nguyên nhân gây bệnh chưa được xác định.
+- Thoái hóa da đỉnh hồi không cần thiết nguyên phát: liên quan đến các rối loạn thần kinh tâm thần bao gồm bại não , động kinh, co giật và các bất thường về nhãn khoa, thường gặp nhất là đục thủy tinh thể.
+- Da đầu thứ phát bị thoái hóa đỉnh hồi: hậu quả của một số bệnh gây ra những thay đổi trong cấu trúc da đầu bao gồm: [Bệnh to đầu chi](https://dermnetnz.org/topics/acromegaly) [Nốt ruồi](https://dermnetnz.org/topics/melanocytic-naevus) [Các vết bớt](https://dermnetnz.org/topics/congenital-naevi) , bao gồm [nốt ruồi mô liên kết](https://dermnetnz.org/topics/connective-tissue-naevi) , u xơ và [nốt ruồi mỡ](https://dermnetnz.org/topics/naevus-lipomatosus-superficialis) Các quá trình viêm ( [chàm](https://dermnetnz.org/topics/dermatitis) , [vẩy nến](https://dermnetnz.org/topics/psoriasis) , [bệnh Darier](https://dermnetnz.org/topics/darier-disease) , [viêm nang lông](https://dermnetnz.org/topics/folliculitis) , [chốc lở](https://dermnetnz.org/topics/impetigo) , [viêm da dị ứng](https://dermnetnz.org/topics/eczema-dermatitis-and-allergies) , [mụn trứng cá](https://dermnetnz.org/topics/acne-and-other-follicular-disorders) ).
+- [Bệnh to đầu chi](https://dermnetnz.org/topics/acromegaly)
+- [Nốt ruồi](https://dermnetnz.org/topics/melanocytic-naevus)
+- [Các vết bớt](https://dermnetnz.org/topics/congenital-naevi) , bao gồm [nốt ruồi mô liên kết](https://dermnetnz.org/topics/connective-tissue-naevi) , u xơ và [nốt ruồi mỡ](https://dermnetnz.org/topics/naevus-lipomatosus-superficialis)
+- Các quá trình viêm ( [chàm](https://dermnetnz.org/topics/dermatitis) , [vẩy nến](https://dermnetnz.org/topics/psoriasis) , [bệnh Darier](https://dermnetnz.org/topics/darier-disease) , [viêm nang lông](https://dermnetnz.org/topics/folliculitis) , [chốc lở](https://dermnetnz.org/topics/impetigo) , [viêm da dị ứng](https://dermnetnz.org/topics/eczema-dermatitis-and-allergies) , [mụn trứng cá](https://dermnetnz.org/topics/acne-and-other-follicular-disorders) ).
+
+---
+
+## Đặc điểm lâm sàng của bệnh cutis verticis gyrata là gì?
+
+Da đầu bị xoắn đỉnh thường ảnh hưởng đến vùng giữa và sau da đầu, nhưng một số dạng có thể ảnh hưởng đến toàn bộ da đầu. Các nếp gấp mềm và xốp. Không thể điều chỉnh các nếp gấp bằng áp lực. Màu da không bị ảnh hưởng. Số lượng nếp gấp có thể dao động từ 2 đến hơn 10.
+![Không có caption](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/cvg2.jpg)
+![Được sự cho phép của Tiến sĩ Mohammad Mahmoud](https://dermnetnz.org/assets/Uploads/cutis-verticis-gyrata-03.jpg)
+![Cutis verticis gyrata](https://dermnetnz.org/assets/collection/Cutis-verticis-gyrata/cutis-verticus-gyrata-00001.jpg)
+
+---
+
+## Cutis verticis gyrata được chẩn đoán như thế nào?
+
+Cutis verticis gyrata thường là một chẩn đoán lâm sàng.
+Có thể tiến hành điều tra các tình trạng thần kinh liên quan hoặc các rối loạn tiềm ẩn bao gồm:
+- sinh thiết da
+- X quang như MRI.
+
+---
+
+## Phương pháp điều trị bệnh cutis verticis gyrata là gì?
+
+Việc điều trị bệnh da đầu xoắn bao gồm vệ sinh da đầu tốt để tránh tích tụ dịch tiết ở các rãnh trên da đầu.
+Có thể yêu cầu điều trị phẫu thuật triệt để vì lý do thẩm mỹ. Các tổn thương nhỏ tại chỗ có thể được cắt bỏ chỉ trong một lần phẫu thuật. Các tổn thương lớn hơn có thể được cắt bỏ bằng phương pháp cắt bỏ hàng loạt , đòi hỏi nhiều lần phẫu thuật.
+
+---
+
+## Kết quả của cutis verticis gyrata là gì?
+
+Da cuộn ngược là một tình trạng tiến triển . Tình trạng này chủ yếu gây khó chịu do vấn đề thẩm mỹ. Hiếm khi, nó có thể trở nên phức tạp do [u hắc tố](https://dermnetnz.org/topics/melanoma) phát triển bên trong nốt [ruồi hắc tố](https://dermnetnz.org/topics/melanocytic-naevus) .

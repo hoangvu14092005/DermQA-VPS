@@ -1,0 +1,126 @@
+# Bệnh nấm candida âm hộ - âm đạo — thông tin bổ sung
+
+Thể loại:
+
+Nhiễm trùng
+
+SNOMED CT:
+
+1085006, 72934000, 240707005, 708126004, 53326005, 444877006, 289552002, 271939006, 87728001, 72605008, 430963004
+
+**[Nhiễm trùng](https://dermnetnz.org/topics/topics?category=Infections)**
+
+
+# **Bệnh nấm candida âm hộ-âm đạo**
+
+Tác giả: Tiến sĩ Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand. 1997. Được cập nhật bởi Tiến sĩ Jannet Gomez, tháng 4 năm 2017.
+
+---
+
+## Bệnh nấm candida âm hộ-âm đạo là gì?
+
+Nhiễm nấm Candida âm hộ và âm đạo là các triệu chứng ở âm đạo và âm hộ do nấm men, thường gặp nhất là Candida albicans , gây ra . Bệnh ảnh hưởng đến 75% phụ nữ ít nhất một lần trong đời.
+Sự phát triển quá mức của nấm candida âm đạo có thể dẫn đến:
+- Khí hư âm đạo màu trắng như sữa đông
+- Cảm giác nóng rát ở âm đạo và âm hộ
+- Phát ban ngứa ở âm hộ và vùng da xung quanh.
+Những tên gọi khác được sử dụng cho bệnh nấm âm hộ - âm đạo là 'tưa âm đạo', 'monilia' và 'nấm candida âm hộ - âm đạo'.
+
+---
+
+## Nguyên nhân nào gây ra khí hư âm đạo?
+
+Khí hư là một quá trình bình thường giúp duy trì độ ẩm cho niêm mạc âm đạo. Lượng khí hư thay đổi tùy theo chu kỳ kinh nguyệt và thời điểm kích thích, trong suốt và dai ở nửa đầu chu kỳ, sau khi rụng trứng có màu trắng đục và dính. Khí hư có thể khô trên quần lót, để lại một vệt vàng nhạt. Loại khí hư này không cần dùng thuốc, ngay cả khi ra nhiều, như thường thấy trong thai kỳ. Lượng khí hư có xu hướng giảm dần sau khi mãn kinh.
+Các loại vi sinh vật phổ biến nhất liên quan đến khí hư bất thường ở âm đạo là:
+- Các loài Candida albicans và [không phải albicans](https://dermnetnz.org/topics/non-albicans-candida-infections)
+- [Bệnh Trichomoniasis](https://dermnetnz.org/topics/trichomoniasis) (do một loại ký sinh trùng nhỏ , Trichomonas vaginalis); bệnh này gây ra mùi tanh hoặc khó chịu và dịch tiết màu vàng, xanh lá cây hoặc có bọt
+- [Viêm âm đạo do vi khuẩn](https://dermnetnz.org/topics/bacterial-vaginosis) (do mất cân bằng lượng vi khuẩn bình thường sống trong âm đạo); gây ra khí hư loãng, màu trắng/xám và có mùi hôi.
+Khí hư âm đạo quá nhiều cũng có thể là do chấn thương, dị vật, [nhiễm trùng lây truyền qua đường tình dục](https://dermnetnz.org/topics/sexually-transmitted-infections) và [viêm](https://dermnetnz.org/topics/vaginitis) âm đạo . [](https://dermnetnz.org/topics/vaginitis)
+
+---
+
+## Nguyên nhân gây bệnh nấm candida âm hộ-âm đạo là gì?
+
+Bệnh nấm Candida âm hộ - âm đạo là do sự phát triển quá mức của nấm men trong âm đạo, thường gặp nhất là [C. albicans](https://dermnetnz.org/topics/candida) . Khoảng 20% ​​phụ nữ không mang thai trong độ tuổi từ 15 đến 55 có C. albicans trong âm đạo mà không có bất kỳ triệu chứng nào.
+Estrogen làm cho niêm mạc âm đạo trưởng thành và chứa glycogen, một chất nền mà C. albicans phát triển mạnh. Các triệu chứng thường xuất hiện vào nửa sau của chu kỳ kinh nguyệt, khi nồng độ progesterone cũng cao hơn. Thiếu estrogen làm cho bệnh nấm candida âm hộ - âm đạo ít phổ biến hơn ở phụ nữ trẻ và lớn tuổi sau mãn kinh.
+[Các loài candida nonalbicans](https://dermnetnz.org/topics/non-albicans-candida-infections) , đặc biệt là C. glabrata, được phát hiện ở 10–20% phụ nữ bị bệnh nấm candida âm hộ âm đạo tái phát .
+
+---
+
+## Ai có thể mắc bệnh nấm candida âm hộ-âm đạo?
+
+Nhiễm nấm Candida âm hộ - âm đạo thường gặp nhất ở phụ nữ trong độ tuổi sinh sản. Bệnh khá hiếm gặp ở phụ nữ trước tuổi dậy thì và sau mãn kinh. Bệnh có thể liên quan đến các yếu tố sau:
+- Bùng phát ngay trước và trong kỳ kinh nguyệt
+- Mang thai
+- [Thuốc tránh thai](https://dermnetnz.org/topics/oral-contraceptive) kết hợp liều cao hơn [](https://dermnetnz.org/topics/oral-contraceptive)
+- Liệu pháp thay thế hormone dựa trên estrogen sau thời kỳ [mãn kinh](https://dermnetnz.org/topics/menopause-and-the-skin) , bao gồm kem estrogen âm đạo
+- [Một liệu trình kháng sinh](https://dermnetnz.org/topics/antibiotics) phổ rộng như [tetracycline](https://dermnetnz.org/topics/tetracycline) hoặc amoxicillin
+- [Bệnh tiểu đường](https://dermnetnz.org/topics/skin-problems-associated-with-diabetes-mellitus)
+- Béo phì
+- [Thiếu máu do thiếu sắt](https://dermnetnz.org/topics/iron-deficiency)
+- [Suy giảm miễn dịch](https://dermnetnz.org/topics/immunodeficiency) như [nhiễm HIV](https://dermnetnz.org/topics/skin-conditions-relating-to-hiv-infection)
+- Một tình trạng da tiềm ẩn, chẳng hạn như [bệnh vẩy nến](https://dermnetnz.org/topics/psoriasis) âm hộ , [liken phẳng](https://dermnetnz.org/topics/lichen-planus) hoặc [liken xơ cứng](https://dermnetnz.org/topics/lichen-sclerosus)
+- Bệnh tật khác.
+
+---
+
+## Các triệu chứng là gì?
+
+Bệnh nấm candida âm hộ-âm đạo có đặc điểm:
+- Ngứa, đau và khó chịu nóng rát ở âm đạo và âm hộ
+- Đau rát khi đi tiểu ( tiểu khó )
+- Phù nề âm hộ , nứt nẻ và trầy xước
+- Khí hư âm đạo màu trắng đục hoặc giống như phô mai tươi
+- Phát ban đỏ tươi ảnh hưởng đến các bộ phận bên trong và bên ngoài âm hộ, đôi khi lan rộng ở bẹn đến vùng mu, bẹn và đùi.
+Người ta cho rằng phát ban là tình [trạng viêm da kích ứng](https://dermnetnz.org/topics/irritant-contact-dermatitis) thứ phát chứ không phải là nhiễm trùng da nguyên phát .
+Các triệu chứng có thể chỉ kéo dài vài giờ hoặc kéo dài trong nhiều ngày, nhiều tuần hoặc hiếm khi là nhiều tháng và có thể trở nên trầm trọng hơn khi quan hệ tình dục.
+- Viêm âm hộ âm đạo tái phát thường được định nghĩa là bốn đợt trở lên trong vòng một năm ( [viêm âm hộ âm đạo theo chu kỳ](https://dermnetnz.org/topics/cyclic-vulvovaginitis) ).
+- Bệnh nấm candida âm hộ , âm đạo mãn tính, dai dẳng có thể dẫn đến bệnh [liken đơn giản](https://dermnetnz.org/topics/lichen-simplex) — môi lớn ( môi ngoài có lông của âm hộ) dày lên, ngứa dữ dội.
+[Xem hình ảnh bệnh nấm candida âm hộ - âm đạo](https://dermnetnz-org.translate.goog/topics/vulvovaginal-candidiasis-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp) .
+
+---
+
+## Chẩn đoán bệnh nấm candida âm hộ - âm đạo được thực hiện như thế nào?
+
+Bác sĩ chẩn đoán tình trạng bệnh bằng cách kiểm tra vùng bị ảnh hưởng và nhận biết các triệu chứng lâm sàng điển hình.
+- Độ pH của âm đạo có xu hướng nằm trong phạm vi bình thường (3,8–4,5, tức là có tính axit), nhưng nấm candida có thể xuất hiện trong phạm vi pH rộng.
+- Chẩn đoán thường được xác nhận bằng cách soi kính hiển vi mẫu bệnh phẩm ướt , tăm bông âm đạo hoặc phết tế bào âm đạo, tốt nhất là thực hiện sau bốn tuần kể từ lần điều trị trước đó.
+- Trong những trường hợp tái phát, cần lấy mẫu dịch để nuôi cấy sau khi điều trị để xem vi khuẩn C. albicans có còn hiện diện hay không.
+Kết quả xét nghiệm tăm bông có thể gây hiểu lầm và cần phải xét nghiệm lại nếu các triệu chứng gợi ý nhiễm trùng candida tái phát.
+- C. albicans có thể xuất hiện mà không gây ra triệu chứng (kết quả dương tính giả).
+- Nấm men chỉ có thể được nuôi cấy khi có một lượng nhất định (kết quả âm tính giả).
+- Xét nghiệm từ bên ngoài âm đạo có thể cho kết quả âm tính, ngay cả khi nấm men có mặt bên trong âm đạo và có phát ban điển hình ở âm hộ.
+- Các triệu chứng của bệnh nhân có thể là do tình trạng bệnh lý tiềm ẩn về da như bệnh liken xơ cứng.
+Các xét nghiệm khác bao gồm nuôi cấy trong thạch Sabouraud chloramphenicol hoặc chromagar, xét nghiệm ống nghiệm, xét nghiệm thăm dò DNA bằng phản ứng chuỗi polymerase ( PCR ) và phép đo phổ để xác định loài candida cụ thể.
+Các nhà nghiên cứu vẫn đang tranh luận về việc liệu nấm Candida nonalbicans có gây bệnh hay không. Nếu phát hiện nấm Candida nonalbicans, phòng xét nghiệm có thể thực hiện xét nghiệm độ nhạy cảm bằng phương pháp khuếch tán đĩa để định hướng điều trị. Độ nhạy cảm với fluconazole dự đoán độ nhạy cảm với các thuốc azole đường uống và bôi ngoài da khác . C. glabrata thường kháng với liều chuẩn của các thuốc azole đường uống và bôi ngoài da.
+
+---
+
+## Điều trị bệnh nấm candida âm hộ - âm đạo như thế nào ?
+
+Có thể điều trị nhiễm trùng C. albicans phù hợp mà không cần đơn thuốc tại nhà thuốc. Nếu điều trị không hiệu quả hoặc các triệu chứng tái phát, hãy đến gặp bác sĩ để được khám và tư vấn trong trường hợp các triệu chứng là do nguyên nhân khác hoặc cần điều trị khác.
+Có nhiều phương pháp điều trị bệnh nấm candida hiệu quả.
+- [Thuốc đặt âm đạo](https://dermnetnz.org/topics/topical-antifungal-medication) , viên đặt âm đạo hoặc kem chống nấm tại chỗ có chứa clotrimazole hoặc miconazole — điều trị từ một đến ba ngày có thể cải thiện triệu chứng ở 90% phụ nữ có triệu chứng nhẹ. Lưu ý rằng các sản phẩm gốc dầu có thể làm giảm độ bền của cao su latex trong bao cao su và màng ngăn âm đạo.
+- Các công thức mới hơn bao gồm kem butoconazole và terconazole .
+- [](https://dermnetnz.org/topics/oral-antifungal-medication) Thuốc [kháng nấm đường uống có chứa](https://dermnetnz.org/topics/oral-antifungal-medication) [fluconazole](https://dermnetnz.org/topics/fluconazole) hoặc ít phổ biến hơn là [itraconazole](https://dermnetnz.org/topics/itraconazole) có thể được sử dụng nếu nhiễm trùng C. albicans nặng hoặc tái phát. Lưu ý rằng những thuốc này có thể tương tác với các thuốc khác, đặc biệt là statin, gây ra các tác dụng phụ.
+Nhiễm nấm Candida âm hộ - âm đạo thường xảy ra trong thai kỳ và có thể được điều trị bằng thuốc azole bôi ngoài da. Tốt nhất nên tránh dùng thuốc azole uống trong thai kỳ.
+Không phải tất cả các vấn đề về bộ phận sinh dục đều do nấm candida gây ra, vì vậy nếu điều trị không thành công, có thể là do nguyên nhân khác gây ra các triệu chứng.
+
+### Bệnh nấm candida tái phát
+Khoảng 5–10% phụ nữ vẫn bị nhiễm C. albicans mặc dù đã được điều trị thông thường đầy đủ. Ở một số phụ nữ, đây có thể là dấu hiệu của [thiếu sắt](https://dermnetnz.org/topics/iron-deficiency) , [đái tháo đường](https://dermnetnz.org/topics/skin-problems-associated-with-diabetes-mellitus) hoặc vấn đề miễn dịch, và cần được xét nghiệm thích hợp. Cần xác định phân loài và độ nhạy cảm của nấm men nếu xuất hiện tình trạng kháng thuốc.
+Các triệu chứng tái phát do nhiễm nấm Candida âm hộ - âm đạo là do nhiễm trùng dai dẳng, chứ không phải do tái nhiễm. Mục tiêu điều trị là ngăn ngừa sự phát triển quá mức của nấm Candida dẫn đến các triệu chứng, chứ không phải loại bỏ hoàn toàn.
+Các biện pháp sau đây có thể hữu ích.
+- Quần áo rộng rãi — tránh mặc quần tất bằng nylon gây bí bách .
+- Ngâm mình trong bồn nước muối. Tránh dùng xà phòng — hãy dùng sữa [rửa mặt không chứa xà phòng](https://dermnetnz.org/topics/soaps-and-cleansers) hoặc kem dưỡng ẩm để rửa.
+- Bôi [kem hydrocortisone](https://dermnetnz.org/topics/topical-steroid) theo từng đợt để giảm ngứa và điều trị [viêm da](https://dermnetnz.org/topics/eczema-dermatitis-and-allergies) thứ phát ở âm hộ.
+- Điều trị bằng kem chống nấm trước mỗi kỳ kinh nguyệt và trước khi điều trị bằng thuốc kháng sinh để ngăn ngừa tái phát.
+- [Đôi khi cần phải dùng thuốc chống nấm tại chỗ](https://dermnetnz.org/topics/topical-antifungal-medication) trong thời gian dài (nhưng bản thân thuốc này có thể gây [viêm da](https://dermnetnz.org/topics/dermatitis) hoặc dẫn đến sự phát triển của nấm candida không phải albicans).
+- [](https://dermnetnz.org/topics/oral-antifungal-medication) Thuốc [kháng nấm đường uống (thường là](https://dermnetnz.org/topics/oral-antifungal-medication) [fluconazole](https://dermnetnz.org/topics/fluconazole) ), được dùng đều đặn và ngắt quãng (ví dụ: 150–200 mg mỗi tuần một lần trong sáu tháng). Liều lượng và tần suất phụ thuộc vào mức độ nghiêm trọng của các triệu chứng. Tái phát xảy ra ở 50% phụ nữ bị nấm candida âm hộ - âm đạo tái phát khi ngừng thuốc, trong trường hợp này, việc điều trị lại có thể là cần thiết. Một số phụ nữ cần điều trị lâu dài.
+- Thuốc nhóm azole uống có thể cần đơn thuốc. Ở New Zealand, fluconazole liều đơn được bán không cần đơn tại các hiệu thuốc. Nhà sản xuất khuyến cáo không nên dùng fluconazole trong thai kỳ.
+- Axit boric (boron) 600 mg dùng đặt âm đạo vào ban đêm trong hai tuần giúp giảm sự hiện diện của nấm candida albicans và non-albicans ở 70% phụ nữ được điều trị. Thuốc có thể gây kích ứng và độc hại , vì vậy cần bảo quản an toàn, tránh xa tầm tay trẻ em và động vật. Sử dụng hai lần mỗi tuần có thể ngăn ngừa nhiễm trùng nấm men tái phát . Không nên sử dụng axit boric trong thời kỳ mang thai.
+Các biện pháp sau đây không được chứng minh là có hiệu quả.
+- Điều trị cho bạn tình — nam giới có thể bị phản ứng da thoáng qua ở dương vật, nhưng sẽ nhanh chóng khỏi khi dùng kem chống nấm. Điều trị cho nam giới không làm giảm số lần nhiễm nấm candida ở bạn tình nữ.
+- Chế độ ăn kiêng đặc biệt ít đường, ít men hoặc nhiều sữa chua
+- Đưa sữa chua vào âm đạo
+- Probiotics ( loài lactobacillus uống hoặc đặt âm đạo )
+- Các biện pháp khắc phục và bổ sung tự nhiên (trừ axit boric)

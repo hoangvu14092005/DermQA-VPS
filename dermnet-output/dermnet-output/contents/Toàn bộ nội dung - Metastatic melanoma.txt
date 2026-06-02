@@ -1,0 +1,152 @@
+# U hắc tố di căn — thông tin bổ sung
+
+Thể loại:
+
+Tổn thương (ung thư)
+
+SNOMED CT:
+
+443493003, 396389004, 402563000
+
+**[Tổn thương (ung thư)](https://dermnetnz.org/topics/topics?category=Lesions+(cancerous))**
+
+
+# **U hắc tố di căn**
+
+Tác giả: Tiến sĩ Maneka Gnanasegaram, Bác sĩ da liễu, Bệnh viện Waikato, Hamilton, New Zealand, 2011.
+
+---
+
+## Ung thư hắc tố di căn là gì?
+
+[Ung thư hắc tố](https://dermnetnz.org/topics/melanoma) là một loại ung thư da phát triển từ các tế bào sản xuất sắc tố ( tế bào hắc tố ) của da, niêm mạc , mắt, và hiếm khi ở các vị trí khác. Ung thư hắc tố di căn là ung thư hắc tố đã di căn đến các vị trí khác của cơ thể. Sự di căn này xảy ra thông qua hệ bạch huyết và/hoặc mạch máu. Ung thư hắc tố có thể lan đến mô dưới da, hạch bạch huyết và các cơ quan khác như phổi, gan, xương hoặc não.
+U hắc tố di căn có thể được phân loại thành tái phát tại chỗ , di căn quá cảnh , di căn hạch và di căn theo đường máu .
+
+### Tái phát tại chỗ của bệnh ung thư hắc tố
+Tái phát tại chỗ được định nghĩa là sự tái phát của khối u ác tính trong vòng 2cm tính từ vết sẹo phẫu thuật của khối u ác tính nguyên phát . Tình trạng này có thể là do khối u ác tính nguyên phát lan rộng trực tiếp hoặc do lan truyền qua mạch bạch huyết.
+
+### Di căn khối u ác tính trong quá trình vận chuyển
+Di căn trong quá trình vận chuyển là các khối u ác tính nằm trong các mạch bạch huyết cách vị trí của khối u ác tính nguyên phát hơn 2 cm.
+
+### Di căn u hắc tố hạch
+Di căn hạch là khối u ác tính di căn đến các hạch bạch huyết . Mỗi vị trí trên cơ thể ban đầu dẫn lưu đến một hoặc hai hạch bạch huyết gần đó . Các hạch bạch huyết bị ảnh hưởng đầu tiên là các hạch bạch huyết khu vực. Thông thường, các hạch bạch huyết bị ảnh hưởng sẽ to lên và có thể sờ thấy như một khối u qua da.
+
+### Sự lan truyền của khối u ác tính qua đường máu
+Di căn theo đường máu là sự lan truyền của các tế bào ung thư hắc tố vào máu, có thể xảy ra do khối u xâm lấn mạch máu hoặc do di căn hạch bạch huyết. Khi đã vào máu, các tế bào ung thư hắc tố có thể di chuyển đến các vị trí xa trong cơ thể và lắng đọng. Chúng có thể sinh sôi ở bất kỳ mô nào, nhưng thường phát triển ở phổi, trong hoặc dưới da, gan và não. Nhiều bệnh nhân cũng phát triển di căn ở xương, đường tiêu hóa, tim, tụy, tuyến thượng thận , thận, lách và tuyến giáp.
+
+### Bệnh hắc tố da lan tỏa
+[Bệnh hắc tố da lan tỏa](https://dermnetnz.org/topics/diffuse-melanosis-cutis) là một biểu hiện hiếm gặp của bệnh u hắc tố di căn trong đó toàn bộ bề mặt da thay đổi màu sắc.
+
+### Bệnh bạch tạng liên quan đến u hắc tố
+[Bạch biến](https://dermnetnz.org/topics/leukoderma) liên quan đến u hắc tố là tình trạng mất sắc tố xảy ra ở bệnh nhân u hắc tố di căn. Tình trạng này có thể biểu hiện dưới dạng các vùng trắng bên trong u hắc tố do thoái triển , u hắc tố hào quang, hoặc dưới dạng các mảng trắng giống [bạch biến](https://dermnetnz.org/topics/vitiligo) ở xa u hắc tố. Bạch biến liên quan đến u hắc tố di căn còn được gọi là bạch biến liên quan đến u hắc tố.
+Bệnh bạch biến cũng có thể được kích hoạt bởi các loại thuốc dùng để điều trị bệnh u hắc tố di căn, chẳng hạn như [ipilimumab,](https://dermnetnz.org/topics/ipilimumab) thuốc ức chế điểm kiểm soát miễn dịch ( [pembrolizumab](https://dermnetnz.org/topics/pembrolizumab) , [nivolumab](https://dermnetnz.org/topics/nivolumab) ) và thuốc ức chế BRAF ( [vemurafenib](https://dermnetnz.org/topics/vemurafenib) , [dabrafenib)](https://dermnetnz.org/topics/metastatic-melanoma) [xem thêm [Bệnh bạch biến do thuốc](https://dermnetnz.org/topics/drug-induced-vitiligo) ]. [](https://dermnetnz.org/topics/vemurafenib) [](https://dermnetnz.org/topics/metastatic-melanoma) [](https://dermnetnz.org/topics/drug-induced-vitiligo)
+
+---
+
+## Ai mắc bệnh ung thư hắc tố di căn?
+
+Ung thư hắc tố thường bắt đầu bằng một tổn thương đơn lẻ trên da hoặc niêm mạc. Tổn thương này có thể tiến triển thành di căn nếu không được phát hiện và điều trị hiệu quả ở giai đoạn sớm.
+Các yếu tố nguy cơ phát triển bệnh ung thư hắc tố bao gồm:
+- Tuổi tác (nguy cơ tăng theo tuổi tác)
+- Tiền sử ung thư da trước đó
+- Tiền sử gia đình mắc bệnh ung thư hắc tố
+- Có số lượng lớn nốt ruồi, đặc biệt là nốt ruồi không điển hình
+- Có làn da trắng dễ bị cháy nắng
+- Có làn da bị tổn thương do ánh nắng mặt trời.
+Nguy cơ di căn u hắc tố cao nhất ở những cá nhân mắc u hắc tố phát triển nhanh, hung hãn, u hắc tố không được phát hiện, u hắc tố nguyên phát tiến triển, u hắc tố chưa được cắt bỏ hoàn toàn (hoặc không được cắt bỏ) và/hoặc bị suy giảm miễn dịch.
+
+---
+
+## Di căn ung thư hắc tố da trông như thế nào?
+
+Di căn u hắc tố da thường phát triển nhanh chóng bên trong da (di căn da) hoặc dưới bề mặt da (di căn dưới da); di căn da phổ biến hơn di căn dưới da. Chúng thường cứng hoặc có độ đặc quánh. Di căn da có thể có bất kỳ màu nào nhưng thường có màu đen hoặc đỏ. Chúng cũng có thể loét và chảy máu.
+
+### U hắc tố di căn da
+![U hắc tố di căn](https://dermnetnz.org/assets/Uploads/lesions/metastatic-melanoma01.jpg)
+![U hắc tố di căn](https://dermnetnz.org/assets/Uploads/lesions/metastatic-melanoma02.jpg)
+![U hắc tố di căn](https://dermnetnz.org/assets/Uploads/lesions/metastatic-melanoma03.jpg)
+U hắc tố di căn biểu bì hiếm gặp. Trong trường hợp này, di căn phát triển nông hơn bình thường, bên trong lớp biểu bì. U hắc tố di căn biểu bì thường bị chẩn đoán nhầm ban đầu là u hắc tố nguyên phát. Chẩn đoán u hắc tố di căn biểu bì nên được xem xét nếu xuất hiện nhiều tổn thương có bệnh lý tương tự.
+Di căn dưới da là các khối u có màu da hoặc hơi xanh. Chúng thường không đau.
+
+### U hắc tố di căn dưới da
+![U hắc tố di căn](https://dermnetnz.org/assets/Uploads/lesions/metastatic-melanoma04.jpg)
+![U hắc tố di căn](https://dermnetnz.org/assets/Uploads/lesions/metastatic-melanoma05.jpg)
+![U hắc tố di căn](https://dermnetnz.org/assets/Uploads/lesions/metastatic-melanoma06.jpg)
+Sự tắc nghẽn các mạch bạch huyết do khối u ác tính ở hạch bạch huyết hoặc phẫu thuật cắt bỏ tuyến bạch huyết có thể dẫn đến sưng chi liên quan (phù bạch huyết).
+
+### U hắc tố di căn
+![U hắc tố hạch](https://dermnetnz.org/assets/Uploads/lesions/metastatic-melanoma08.jpg)
+![Chân sưng do u hắc tố hạch](https://dermnetnz.org/assets/Uploads/lesions/metastatic-melanoma07.jpg)
+![Di căn quá cảnh từ khối u ác tính nguyên phát ở bàn chân](https://dermnetnz.org/assets/Uploads/lesions/metastatic-melanoma09.jpg)
+[Xem thêm hình ảnh về bệnh ung thư hắc tố di căn](https://dermnetnz-org.translate.goog/topics/metastatic-melanoma-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp) .
+
+---
+
+## Ung thư hắc tố di căn được chẩn đoán như thế nào?
+
+Ung thư hắc tố di căn có thể được chẩn đoán dựa trên các tổn thương da đặc trưng.
+Các dấu hiệu khác bao gồm hạch bạch huyết to và/hoặc các triệu chứng liên quan đến các cơ quan khác. Người bị u hắc tố di căn có thể cảm thấy mệt mỏi, uể oải và sụt cân trước khi được chẩn đoán.
+
+### Điều tra
+Bệnh học mô học
+- Các tổn thương da và dưới da đáng ngờ nên được loại bỏ bằng sinh thiết cắt bỏ và sẽ cho thấy các đặc điểm đặc trưng của [bệnh lý u hắc tố di căn](https://dermnetnz.org/topics/melanoma-pathology) .
+- Sinh [thiết hạch gác](https://dermnetnz.org/topics/procedures/sentinel-node-biopsy.html) đôi khi được thực hiện sau khi chẩn đoán u hắc tố nguyên phát. Đây là sinh thiết hạch bạch huyết khu vực để xác định xem có di căn hạch bạch huyết tiềm ẩn (không sờ thấy được ) hay không.
+Xét nghiệm máu
+- Lactat dehydrogenase (LDH) trong huyết thanh là dấu hiệu của bệnh di căn tiến triển ở các vị trí xa. Khi nồng độ này tăng cao, tiên lượng xấu hơn , nhưng LDH thường vẫn bình thường ngay cả ở giai đoạn cuối của ung thư hắc tố di căn.
+- Các xét nghiệm khác không được sử dụng thường xuyên vì giá trị của chúng như là dấu hiệu chỉ ra sự hiện diện của di căn và/hoặc tiên lượng bệnh còn hạn chế.
+- Trong tương lai, [xét nghiệm phát hiện ung thư hắc tố dựa trên máu](https://dermnetnz.org/topics/blood-based-melanoma-detection) (sinh thiết lỏng) có thể sẽ khả dụng.
+[Điều tra chụp X-quang](https://dermnetnz.org/topics/radiographic-investigations-in-melanoma)
+- Chụp X-quang ngực — di căn phổi có thể nhìn thấy trên phim chụp X-quang ngực, tuy nhiên, do di căn u ác tính giống với các loại tổn thương phổi khác nên cũng có một số lượng đáng kể kết quả dương tính giả, nghĩa là đây không phải là xét nghiệm hữu ích.
+- Siêu âm — có thể phát hiện di căn gan và di căn hạch bạch huyết.
+- CT và MRI — có thể cho thấy các khối u di căn ở hầu hết các vị trí trên cơ thể.
+- Chụp cắt lớp phát xạ positron (PET) – đây là một tiến bộ quan trọng trong chẩn đoán hình ảnh bệnh di căn. Phương pháp này cho thấy các "điểm nóng" của mô đang chuyển hóa nhanh hơn mô bình thường. Phương pháp này được chứng minh có độ chính xác chẩn đoán cao đối với u hắc tố di căn.
+
+---
+
+## Có những phương pháp điều trị nào cho bệnh ung thư hắc tố di căn?
+
+
+### Ca phẫu thuật
+Trong một số trường hợp, khối u ác tính di căn có thể được loại bỏ bằng phẫu thuật. Đây là một lựa chọn điều trị thích hợp với mục đích chữa khỏi khi chỉ có di căn đơn độc ở da, mô dưới da hoặc hạch bạch huyết. Đôi khi, phẫu thuật được thực hiện khi nghi ngờ có di căn đến một cơ quan khác như gan. Phẫu thuật cũng có thể hữu ích trong việc giảm triệu chứng và cải thiện chất lượng cuộc sống, ngay cả khi không hy vọng chữa khỏi bệnh.
+
+### Hóa trị ung thư hắc tố
+Hóa trị có thể làm chậm tốc độ tiến triển của u hắc tố di căn nhưng không chữa khỏi bệnh. Các thuốc như dacarbazine, temozolomide và kết hợp các thuốc khác được sử dụng. Đôi khi, thuốc hóa trị được truyền thành công vào chi để điều trị di căn tại chỗ ( [tưới máu chi đơn độc](https://dermnetnz.org/topics/procedures/isolated-limb-perfusion.html) ), nhưng kỹ thuật này có thể gây ra các biến chứng nghiêm trọng.
+[Điện hóa trị](https://dermnetnz.org/topics/procedures/electrochemotherapy.html) là phương pháp điều trị mới sử dụng xung điện để tăng hiệu quả bằng cách tiêm trực tiếp [bleomycin](https://dermnetnz.org/topics/treatments/bleomycin.html) hoặc cisplatin vào di căn da.
+
+### Liệu pháp bổ trợ cho bệnh ung thư hắc tố
+[Interferon-α](https://dermnetnz.org/topics/interferon-regulatory-factor-4-gene) liều cao đã được chứng minh là cải thiện khả năng sống sót và giảm tỷ lệ tái phát ở bệnh nhân ung thư hắc tố nguy cơ cao. Các tác dụng phụ có thể khó chịu đựng đối với nhiều người và thậm chí có thể gây tử vong. Chúng bao gồm các triệu chứng giống cúm, mệt mỏi, trầm cảm và tiêu cơ vân (phá hủy mô cơ). Xem thêm: [Liệu pháp bổ trợ cho ung thư hắc tố](https://dermnetnz.org/topics/adjuvant-therapies-for-melanoma) .
+
+### Xạ trị cho bệnh ung thư hắc tố
+Xạ trị có thể hữu ích trong việc cải thiện các triệu chứng do bệnh di căn gây ra và cùng với phẫu thuật là phương pháp chính trong điều trị di căn não.
+
+### Liệu pháp miễn dịch cho bệnh ung thư hắc tố
+[Liệu pháp miễn dịch điều trị ung thư hắc tố](https://dermnetnz.org/topics/treatments/immunotherapy-melanoma.html) bao gồm interleukin -2, được tiêm tĩnh mạch. Tác dụng phụ bao gồm sốt , huyết áp thấp và nhịp tim không đều.
+[Interferon alfa 2b](https://dermnetnz.org/topics/interferon-regulatory-factor-4-gene) được tiêm dưới da hoặc tiêm tĩnh mạch. Tác dụng phụ bao gồm các triệu chứng giống cúm, trầm cảm và giảm số lượng tế bào.
+[Imiquimod](https://dermnetnz.org/topics/treatments/imiquimod.html) bôi ngoài da là một chất điều hòa miễn dịch được sử dụng đơn lẻ hoặc kết hợp với điều trị interleukin-2 tĩnh mạch. Kem Imiquimod được bôi trực tiếp lên di căn u hắc tố để tăng cường đáp ứng miễn dịch với khối u. Một số trường hợp đã ghi nhận đáp ứng tích cực của di căn trong quá trình di căn.
+
+### Thuốc bôi ngoài da dễ bị ung thư hắc tố
+[Diphenylcyclopropenone](https://dermnetnz.org/topics/treatments/diphencyprone.html) hoặc diphencyprone bôi ngoài da với nhiều nồng độ khác nhau (0,0001% đến 10%) dưới dạng dung dịch hoặc kem có thể hữu ích cho các di căn u hắc tố da nhỏ. Lần bôi đầu tiên sẽ làm bệnh nhân nhạy cảm với hóa chất trong khoảng 10 ngày. Việc bôi tiếp theo lên các tổn thương cách nhau hàng tuần sẽ gây ra [viêm da tiếp xúc dị ứng](https://dermnetnz.org/topics/dermatitis/contact-allergy.html) , có thể rất ngứa và khó chịu, và có thể lan rộng. Khi hiệu quả, các tổn thương đã được điều trị sẽ ngừng lan rộng, có thể co lại hoặc biến mất. Các phản ứng rõ rệt đã được báo cáo, bao gồm cả việc các hạch bạch huyết bị ảnh hưởng thoái triển.
+[Liệu pháp miễn dịch nội tổn thương cho di căn u hắc tố](https://dermnetnz.org/topics/treatments/topical-immunotherapy-melanoma.html) bằng [talimogene laherparepvec (T-VEC)](https://dermnetnz.org/topics/talimogene-laherparepvec) , Allovectin-7® và Rose Bengal đang được nghiên cứu.
+
+### Liệu pháp nhắm mục tiêu phân tử cho bệnh ung thư hắc tố
+- [Ipilimumab](https://dermnetnz.org/topics/treatments/ipilimumab.html) là kháng thể đơn dòng nhắm vào CTLA-4. Thuốc có thể giúp tăng tỷ lệ sống sót ở bệnh nhân ung thư hắc tố di căn.
+- [Vemurafenib](https://dermnetnz.org/topics/treatments/vemurafenib.html) , sorafenib và [dabrafenib nhắm vào](https://dermnetnz.org/topics/treatments/dabrafenib.html) protein BRAF bị đột biến trong một số khối u ác tính di căn. [Trametinib](https://dermnetnz.org/topics/treatments/trametinib.html) ức chế con đường truyền tín hiệu MAPK trong khối u ác tính có đột biến BRAF. [Obimetinib](https://dermnetnz.org/topics/cobimetinib) là chất ức chế MEK được dùng kết hợp với vemurafenib. Những [loại](https://dermnetnz.org/topics/cobimetinib) thuốc mới này có thể mang lại sự cải thiện ban đầu rất tốt, nhưng cuối cùng, khối u ác tính di căn vẫn tiến triển.
+- [Pembrolizumab nhắm vào](https://dermnetnz.org/topics/treatments/pembrolizumab.html) thụ thể PD-1 (programmed death 1) và có thể được sử dụng cho bệnh nhân mắc mọi dạng u hắc tố. Tỷ lệ đáp ứng khả quan đã được chứng minh qua dữ liệu thử nghiệm lâm sàng từ 173 bệnh nhân u hắc tố trong [nghiên cứu KEYNOTE-001](https://dermnetnz.org/topics/treatments/pembrolizumab-trials.html) .
+- [Nivolumab](https://dermnetnz.org/topics/treatments/nivolumab.html) là một kháng thể chặn thụ thể chết theo chương trình 1 (PD-1) ở người. [Các nghiên cứu Check-Mate](https://dermnetnz.org/topics/key-clinical-trial-evidence-for-nivolumab) cho thấy lợi ích lâm sàng trong điều trị u hắc tố di căn.
+- Các liệu pháp ngăn chặn sự hình thành mạch máu mới cũng có thể hữu ích như một phương pháp điều trị bổ sung.
+- Một số loại vắc-xin phòng ngừa ung thư hắc tố đã được phát triển với mục đích kích thích hệ miễn dịch chống lại các tế bào ung thư hắc tố. Đáng tiếc là cho đến nay, những loại vắc-xin này vẫn chưa mang lại kết quả như mong đợi.
+Với một loạt các liệu pháp mới đang được phát triển và nghiên cứu cho bệnh ung thư hắc tố, một số bệnh nhân chọn tham gia thử nghiệm lâm sàng. Điều này có thể đồng nghĩa với việc được tiếp cận một phương pháp điều trị mà nếu không thì sẽ không thể thực hiện được.
+Một báo cáo Cochrane năm 2018 đã xác nhận rằng thuốc ức chế điểm kiểm soát miễn dịch và thuốc nhắm mục tiêu phân tử nhỏ đã cải thiện đáng kể tiên lượng của bệnh nhân, đặc biệt là sự kết hợp giữa thuốc ức chế điểm kiểm soát miễn dịch và sự kết hợp giữa thuốc nhắm mục tiêu phân tử nhỏ, nhưng độc tính vẫn thường gặp.
+
+### Các phương pháp điều trị khác
+Một nghiên cứu sơ bộ nhỏ cho thấy thuốc chẹn beta có thể ngăn ngừa hoặc làm chậm sự tái phát của bệnh ung thư hắc tố.
+
+### Chăm sóc giảm nhẹ cho bệnh ung thư hắc tố
+Chăm sóc giảm nhẹ tập trung vào chất lượng cuộc sống hơn là thời gian sống. Nó bao gồm việc kiểm soát cơn đau và các triệu chứng khó chịu khác, đồng thời hỗ trợ bệnh nhân và gia đình họ.
+
+---
+
+## Triển vọng của bệnh nhân mắc bệnh ung thư hắc tố di căn là gì?
+
+Trong hầu hết các trường hợp, không thể chữa khỏi hoàn toàn u hắc tố di căn vì nó có xu hướng lan rộng đến nhiều vị trí. Điều trị tập trung vào việc cải thiện chất lượng cuộc sống và kéo dài thời gian sống.
+Tiên lượng của ung thư hắc tố phụ thuộc vào giai đoạn bệnh, dựa trên đặc điểm của khối u nguyên phát, di căn hạch và di căn xa. Tiên lượng xấu hơn khi số lượng hạch di căn nhiều hơn và di căn đến các cơ quan nội tạng và các vị trí xa.

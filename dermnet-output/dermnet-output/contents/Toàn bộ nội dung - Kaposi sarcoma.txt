@@ -1,0 +1,122 @@
+# Sarcoma Kaposi — thông tin bổ sung
+
+Thể loại:
+
+Tổn thương (ung thư)
+
+SNOMED CT:
+
+109385007, 109386005, 109388009, 703625002, 403979000, 403978008, 420524008
+
+**[Tổn thương (ung thư)](https://dermnetnz.org/topics/topics?category=Lesions+(cancerous))**
+
+
+# **Ung thư Kaposi**
+
+Tác giả: Tiến sĩ Jane Morgan, bác sĩ chuyên khoa sức khỏe tình dục, Bệnh viện Waikato, Hamilton, New Zealand, 2003. Tổng biên tập: Phó Giáo sư Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand. Cập nhật bởi Jannet Gomez; Tiến sĩ Amanda Oakley, tháng 2 năm 2017. Biên tập viên: Gus Mitchell.
+
+---
+
+## Bệnh u Kaposi là gì?
+
+Sarcoma Kaposi (KS) là một bệnh lý của tế bào nội mô mạch máu và hệ bạch huyết . Mặc dù có tên như vậy, nhưng hiện nay nó không còn được phân loại là sarcoma (một khối u ác tính có nguồn gốc trung mô) nữa vì nó là do tăng sản mạch máu đa trung tâm .
+Có bốn loại ung thư Kaposi.
+- Sarcoma Kaposi loại cổ điển — loại này ảnh hưởng đến nam giới lớn tuổi gốc Địa Trung Hải và Trung Âu và nam giới ở Châu Phi cận Sahara. Bệnh có liên quan đến bệnh tiểu đường, nhưng không liên quan đến nhiễm HIV .
+- [Ung thư Kaposi liên quan đến virus gây suy giảm miễn dịch ở người (HIV)](https://dermnetnz.org/topics/skin-conditions-relating-to-hiv-infection) — chủ yếu ảnh hưởng đến nam giới quan hệ tình dục đồng giới (MSM). Ung thư Kaposi là một trong những dạng ung thư phổ biến nhất ở Uganda và Zambia , đặc biệt là ở trẻ em.
+- Bệnh Kaposi sarcoma đặc hữu hoặc châu Phi — bệnh này xuất hiện ở một số vùng của châu Phi ở trẻ em và thanh thiếu niên.
+- Ung thư Kaposi do thuốc — là hậu quả của việc điều trị bằng thuốc gây [ức chế miễn dịch](https://dermnetnz.org/topics/drug-induced-immunosuppression) .
+Tại Hoa Kỳ, ung thư Kaposi đặc biệt phổ biến vào những năm 1980. Bệnh vẫn phổ biến ở nam giới nhiễm HIV có quan hệ tình dục đồng giới (MSM), với diễn biến rất nhanh. Bệnh ít gặp hơn ở người tiêm chích ma túy và hiếm gặp ở phụ nữ, người mắc bệnh máu khó đông, hoặc bạn tình của họ. Ung thư Kaposi liên quan đến HIV phổ biến ở phụ nữ hơn nam giới ở một số vùng tại Châu Phi. Bệnh đã trở nên ít phổ biến hơn ở Hoa Kỳ và Châu Âu nhờ phương pháp điều trị HIV bằng thuốc kháng vi-rút hoạt tính cao (HAART).
+Ung thư Kaposi do thầy thuốc là mối lo ngại đặc biệt đối với [bệnh nhân ghép tạng](https://dermnetnz.org/topics/skin-cancer-in-transplant-recipients) , đặc biệt là ở những khu vực có tỷ lệ nhiễm virus herpes sarcoma Kaposi ( KSHV) cao. Hầu hết bệnh nhân đều mang virus trước khi ghép , nhưng thuốc men khiến virus tái hoạt động. Việc sử dụng [corticosteroid](https://dermnetnz.org/topics/topical-steroid) và các thuốc sinh học như [rituximab](https://dermnetnz.org/topics/rituximab) , [infliximab](https://dermnetnz.org/topics/infliximab-for-psoriasis) và abatacept, được kê đơn cho các bệnh lý viêm mạn tính và tự miễn , cũng dễ dẫn đến ung thư Kaposi.
+
+---
+
+## Nguyên nhân gây ra bệnh sarcoma Kaposi là gì?
+
+Bệnh u Kaposi có nhiều nguyên nhân gây ra.
+- Nhiễm virus herpes sarcoma Kaposi (KSHV). Virus này còn được gọi là virus herpes 8 ở người (HHV8). Nó thường được tìm thấy ở MSM nhưng cũng đã được phát hiện ở người dị tính. Dữ liệu đang nổi lên cho thấy các phương thức lây truyền không qua đường tình dục có thể xảy ra, có thể qua nước bọt hoặc [vết cắn của động vật chân đốt](https://dermnetnz.org/topics/arthropod-bites-and-stings) .
+- Nó cũng liên quan đến việc sản xuất các cytokine hoặc protein truyền tín hiệu tế bào cụ thể , các yếu tố di truyền , yếu tố nội tiết tố và [suy giảm miễn dịch](https://dermnetnz.org/topics/immunodeficiency) . Giảm số lượng tế bào CD4 có liên quan chặt chẽ với bệnh sarcoma Kaposi cổ điển và liên quan đến AIDS.
+KSHV có thể nằm im hoặc nhân lên và gây bệnh. KSHV cũng có thể gây ra một số dạng u lympho không Hodgkin và bệnh Castleman.
+
+---
+
+## Bệnh u Kaposi biểu hiện như thế nào?
+
+Ung thư Kaposi biểu hiện dưới dạng các nốt , sẩn và cục màu đỏ đến tím ở bất kỳ vị trí nào trên da hoặc niêm mạc miệng, mũi và họng; hạch bạch huyết ; hoặc các cơ quan khác. Ban đầu, các tổn thương nhỏ và không đau, nhưng chúng có thể loét và trở nên đau đớn.
+Có nhiều dạng khác nhau:
+- KS cục bộ dạng nốt
+- KS cục bộ hung hăng
+- KS hạch bạch huyết tổng quát
+- Giai đoạn vá lỗi KS
+- Mảng bám cục bộ của KS
+- KS ngoại sinh
+- Mảng bám thâm nhiễm của KS
+- KS lan tỏa ở da và nội tạng
+- KS giãn mạch
+- Sẹo lồi KS
+- KS xuất huyết
+- KS giống u lympho/thể hang.
+Ung thư Kaposi thường bắt đầu bằng các mảng phẳng ở một hoặc cả hai chân, thường kết hợp với [phù bạch huyết](https://dermnetnz.org/topics/lymphoedema) . Các mảng này phát triển thành mảng bám, nốt sần hoặc khối u có vảy .
+Sarcoma Kaposi liên quan đến [nhiễm HIV](https://dermnetnz.org/topics/skin-conditions-relating-to-hiv-infection) có thể phát triển bất cứ lúc nào trong quá trình mắc bệnh. Nhìn chung, tình trạng suy giảm miễn dịch càng nặng (ví dụ, số lượng tế bào CD4 dưới 200/mm3 ) , sarcoma Kaposi càng lan rộng và ác tính.
+Tổn thương Kaposi sarcoma cũng có thể xuất hiện bên trong cơ thể; ở ruột, phổi, bộ phận sinh dục, hệ bạch huyết và các nơi khác. Những tổn thương bên trong này có thể gây ra các triệu chứng như:
+- Khó chịu khi nuốt
+- Chảy máu
+- Nôn ra máu
+- Đại tiện ra máu
+- Melaena
+- Tắc ruột
+- Hụt hơi
+- Chân bị sưng.
+![Giai đoạn vá lỗi KS](https://dermnetnz.org/assets/Uploads/lesions/patch2.jpg)
+![Giai đoạn mảng bám KS](https://dermnetnz.org/assets/Uploads/lesions/ks7.jpg)
+![KS cổ điển](https://dermnetnz.org/assets/Uploads/lesions/ks9.jpg)
+![Palatal KS](https://dermnetnz.org/assets/Uploads/lesions/oral.jpg)
+![Giai đoạn mảng bám KS](https://dermnetnz.org/assets/Uploads/lesions/ks4.jpg)
+![Giai đoạn khối u KS](https://dermnetnz.org/assets/Uploads/lesions/ks.jpg)
+[Xem thêm hình ảnh về bệnh u Kaposi](https://dermnetnz-org.translate.goog/topics/kaposi-sarcoma-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp) .
+
+---
+
+## Bệnh u Kaposi được chẩn đoán như thế nào?
+
+Xét nghiệm máu có thể không phát hiện bất thường , tùy thuộc vào việc có các rối loạn liên quan như AIDS hay không. Thiếu máu có thể phát sinh nếu có chảy máu. Xét nghiệm KSHV hoặc nồng độ kháng thể kháng KSHV rất khó diễn giải. Số lượng tế bào lympho CD4 và tải lượng HIV trong huyết tương được thực hiện ở những bệnh nhân nhiễm [HIV](https://dermnetnz.org/topics/skin-conditions-relating-to-hiv-infection) . [](https://dermnetnz.org/topics/skin-conditions-relating-to-hiv-infection)
+Hình ảnh tổn thương sarcoma Kaposi thường điển hình, nhưng [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) tổn thương cho phép chẩn đoán chính xác, vì các bệnh lý khác như [u hắc tố](https://dermnetnz.org/topics/melanoma) , [nhiễm nấm](https://dermnetnz.org/topics/fungal-skin-infections) và [u nấm sợi](https://dermnetnz.org/topics/mycetoma) có hình dạng và vị trí tương tự sarcoma Kaposi. [Mô bệnh học của sarcoma Kaposi](https://dermnetnz.org/topics/kaposi-sarcoma-pathology) cho thấy các tế bào hồng cầu trong các khoảng hở hình khe được hình thành do sự tăng sinh bất thường của tế bào thoi của tế bào nội mô và liên quan đến các tế bào viêm.
+
+### Phân loại và tiên lượng bệnh u Kaposi
+Đã có nhiều nỗ lực khác nhau để phân loại sarcoma Kaposi, tùy thuộc vào việc nó khu trú hay lan tỏa trong da, và liệu có hạch bạch huyết hoặc cơ quan nội tạng bị ảnh hưởng hay không. Mức độ ức chế miễn dịch hiện diện cũng có thể được sử dụng trong hệ thống phân loại giai đoạn.
+Sarcoma Kaposi có diễn biến đa dạng. Một số bệnh nhân chỉ xuất hiện một vài tổn thương da nhỏ, trong khi những người khác bị tổn thương cả bên ngoài lẫn bên trong lan rộng. Các tổn thương này có thể dẫn đến các biến chứng tử vong do chảy máu, tắc nghẽn hoặc thủng cơ quan. Sarcoma Kaposi không thể chữa khỏi, nhưng có thể điều trị và kiểm soát các triệu chứng.
+
+---
+
+## Phương pháp điều trị bệnh u Kaposi là gì?
+
+Trong bệnh HIV, nếu các tổn thương không lan rộng hoặc không gây khó chịu, cách tiếp cận tốt nhất thường là điều trị nhiễm trùng HIV tiềm ẩn bằng các phối hợp thuốc kháng vi-rút có hoạt tính cao giúp ức chế sự nhân lên của HIV (HAART).
+- Thuốc HAART làm giảm tần suất mắc bệnh Kaposi sarcoma và cũng có thể ngăn ngừa bệnh tiến triển hoặc phát triển các tổn thương mới.
+- Sự cải thiện chức năng miễn dịch được cho là sẽ làm giảm mức độ protein thúc đẩy tăng trưởng khối u.
+- Người ta thấy rằng HAART kết hợp với hóa trị liệu có hiệu quả hơn HAART đơn thuần hoặc hóa trị liệu đơn thuần trong điều trị bệnh sarcoma Kaposi.
+Bệnh u Kaposi do thuốc có thể cải thiện hoặc khỏi hẳn nếu có thể ngừng thuốc ức chế miễn dịch.
+Việc lựa chọn phương pháp điều trị cụ thể hơn chủ yếu phụ thuộc vào mức độ của bệnh.
+
+### Điều trị các tổn thương tại chỗ
+Các tổn thương nhỏ, khu trú thường chỉ được điều trị nếu chúng gây đau hoặc ảnh hưởng đến thẩm mỹ. Cần lưu ý rằng các tổn thương có xu hướng tái phát sau khi điều trị tại chỗ. Các phương pháp điều trị bao gồm:
+- [Liệu pháp lạnh](https://dermnetnz.org/topics/cryotherapy) bằng nitơ lỏng
+- [Xạ trị](https://dermnetnz.org/topics/radiotherapy-for-malignant-skin-diseases) . Phương pháp này hữu ích nhất đối với bệnh sarcoma Kaposi cổ điển và ít hiệu quả hơn đối với bệnh liên quan đến HIV.
+- Phẫu thuật cắt bỏ từng nốt riêng lẻ.
+- [Liệu pháp laser](https://dermnetnz.org/topics/lasers-in-dermatology) sử dụng [laser nhuộm xung hoặc](https://dermnetnz.org/topics/pulsed-dye-laser-treatment) laser carbon dioxide xung
+- Tiêm thuốc chống ung thư như vinblastine
+- Bôi [gel alitretinoin (Panretin®)](https://dermnetnz.org/topics/alitretinoin) tại chỗ . Thuốc này hiện chưa có mặt tại New Zealand.
+- [Điện hóa trị](https://dermnetnz.org/topics/electrochemotherapy) , một phương pháp điều trị mới sử dụng xung điện để tăng hiệu quả của [bleomycin](https://dermnetnz.org/topics/bleomycin) hoặc cisplatin tiêm vào khối u.
+
+### Điều trị các tổn thương rộng hoặc bên trong bằng liệu pháp toàn thân
+Một sự kết hợp của các loại thuốc chống ung thư sẽ được đưa ra, nhưng ở liều lượng thấp hơn bình thường nếu có tình trạng [suy giảm miễn dịch](https://dermnetnz.org/topics/drug-induced-immunosuppression) .
+Các phương pháp điều trị hóa trị khác được sử dụng tại một số trung tâm quốc tế bao gồm [bleomycin](https://dermnetnz.org/topics/bleomycin) , etoposide, paclitaxel, docetaxel và các dạng liposome của thuốc chống ung thư thông thường, doxorubicin hoặc daunorubicin. Liposomal nghĩa là thuốc được bao phủ trong các bong bóng chất béo nhỏ, hay còn gọi là liposome, cho phép hấp thu tốt hơn, dẫn đến ít độc tính cho tim và tủy hơn. Paclitaxel được chấp thuận sử dụng cho bệnh sarcoma Kaposi ở giai đoạn tiến triển hoặc như một lựa chọn điều trị hàng hai.
+Liệu pháp miễn dịch bao gồm việc sử dụng interferon-alpha và [imiquimod](https://dermnetnz.org/topics/imiquimod) , [sirolimus](https://dermnetnz.org/topics/sirolimus) và [thalidomide](https://dermnetnz.org/topics/thalidomide) .
+Sarcoma Kaposi có thể xuất hiện ở bệnh nhân ghép tạng . Việc chuyển từ [ciclosporin](https://dermnetnz.org/topics/ciclosporin) sang [sirolimus](https://dermnetnz.org/topics/sirolimus) (rapamycin) đã giúp điều trị khỏi bệnh. Điều này chủ yếu là do tác dụng chống tăng sinh và chống hình thành mạch máu của sirolimus ( chất ức chế mTOR ).
+Các thử nghiệm lâm sàng về nhiều liệu pháp khác nhau vẫn đang được tiến hành.
+- [Liệu pháp quang động](https://dermnetnz.org/topics/photodynamic-therapy) là sự kết hợp giữa chất nhạy cảm với ánh sáng và năng lượng ánh sáng.
+- [Isotretinoin](https://dermnetnz.org/topics/isotretinoin) là một dẫn xuất của vitamin A thường được dùng để điều trị [mụn trứng cá](https://dermnetnz.org/topics/acne) .
+- [Bexarotene](https://dermnetnz.org/topics/bexarotene) được sử dụng để điều trị [u lympho tế bào T ở da](https://dermnetnz.org/topics/cutaneous-t-cell-lymphoma) .
+- Thuốc ức chế cytokine ( [sinh học](https://dermnetnz.org/topics/biological-agents-for-psoriasis) )
+- Hormone thai kỳ, gonadotropin màng đệm ở người (HCG); tổn thương u Kaposi biến mất ở một số phụ nữ khi họ mang thai.
+- Ganciclovir, [cidofovir](https://dermnetnz.org/topics/cidofovir) và foscarnet ( thuốc kháng vi-rút ) gần đây đã được báo cáo là làm giảm tỷ lệ mắc bệnh sarcoma Kaposi ở những người đang được điều trị viêm võng mạc do CMV ( viêm võng mạc do cytomegalovirus) và hiện đang được nghiên cứu. [Aciclovir](https://dermnetnz.org/topics/aciclovir) , một loại thuốc kháng vi-rút khác, đã được thử nghiệm nhưng dường như không có hiệu quả.
+- Nhắm mục tiêu vào yếu tố tăng trưởng nội mô mạch máu (VEGF): các loại thuốc tác động lên thụ thể VEGF như bevacizumab và sorafenib đang được đánh giá.
+- Thuốc điều hòa miễn dịch lenalidomide cũng đang được thử nghiệm.

@@ -1,0 +1,113 @@
+# Viêm mủ toàn thân cấp tính — thông tin bổ sung
+
+Thể loại:
+
+Phản ứng
+
+SNOMED CT:
+
+702617007
+
+**[Phản ứng](https://dermnetnz.org/topics/topics?category=Reactions)**
+
+
+# **Viêm mủ ban đỏ toàn thân cấp tính**
+
+Tác giả: Tiến sĩ Diana Purvis, Chuyên gia đăng ký da liễu, Bệnh viện Green Lane, Auckland, New Zealand, 2008. Được cập nhật bởi Phó giáo sư danh dự Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand, tháng 9 năm 2015.
+
+---
+
+## Bệnh mụn mủ toàn thân cấp tính là gì?
+
+Viêm da mủ toàn thân cấp tính , hay AGEP, là một dạng phát ban do thuốc dạng mủ hiếm gặp , đặc trưng bởi mụn mủ nông .
+AGEP thường được phân loại là [phản ứng có hại nghiêm trọng trên da (SCAR)](https://dermnetnz.org/topics/severe-cutaneous-adverse-reaction) với thuốc kê đơn. Tình trạng này còn được gọi là viêm da mủ nhiễm độc .
+
+### Dấu hiệu sớm của bệnh mụn mủ toàn thân cấp tính
+![Không có caption](https://dermnetnz.org/assets/Uploads/reactions/agep4.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/agep-06.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/reactions/agep5.jpg)
+
+---
+
+## Ai mắc bệnh mụn mủ toàn thân cấp tính?
+
+AGEP ước tính có khoảng 3–5 ca mắc trên một triệu dân mỗi năm. Bệnh xảy ra ở cả nam và nữ, trẻ em và người lớn.
+
+---
+
+## Nguyên nhân nào gây ra bệnh mụn mủ toàn thân cấp tính?
+
+Hơn 90% trường hợp AGEP là do thuốc, thường gặp nhất là kháng sinh beta-lactam (ví dụ: [penicillin](https://dermnetnz.org/topics/penicillin) , cephalosporin). Các loại thuốc khác có thể gây AGEP được báo cáo bao gồm:
+- [Tetracycline](https://dermnetnz.org/topics/tetracycline)
+- [Sulfonamid](https://dermnetnz.org/topics/sulfa-drugs-and-the-skin)
+- Quinolone
+- [Thuốc chống nấm đường uống](https://dermnetnz.org/topics/oral-antifungal-medication) , đặc biệt là [terbinafine](https://dermnetnz.org/topics/terbinafine)
+- Thuốc chẹn kênh canxi như diltiazem
+- [Hydroxychloroquine](https://dermnetnz.org/topics/hydroxychloroquine)
+- Carbamazepin
+- Thuốc Paracetamol.
+AGEP thường khởi phát trong vòng 2 ngày sau khi tiếp xúc với thuốc gây dị ứng.
+Nhiễm trùng do virus ( [virus Epstein-Barr](https://dermnetnz.org/topics/epstein-barr-virus) , enterovirus, adenovirus, cytomegalovirus, virus viêm gan B và các loại khác) là những tác nhân thường gặp gây ra AGEP ở trẻ em. [Nhện cắn](https://dermnetnz.org/topics/spider-bite) cũng được cho là có liên quan đến một số trường hợp. Có nghi ngờ rằng một số loại thuốc thảo dược có thể gây ra AGEP.
+Nghiên cứu gần đây cho thấy AGEP có liên quan đến đột biến gen IL36RN . Những bất thường di truyền này khiến bệnh nhân dễ bị mụn mủ hơn khi được kê đơn một số loại thuốc nhất định hoặc khi tiếp xúc với nhiễm trùng. Những đột biến tương tự cũng được tìm thấy ở một số bệnh nhân mắc các bệnh mụn mủ khác như [vẩy nến mụn mủ toàn thân](https://dermnetnz.org/topics/generalised-pustular-psoriasis) , [mụn mủ lòng bàn tay và bàn chân](https://dermnetnz.org/topics/palmoplantar-pustulosis) và [viêm da đầu chi liên tục của Hallopeau](https://dermnetnz.org/topics/acrodermatitis-continua-of-hallopeau) . [](https://dermnetnz.org/topics/generalised-pustular-psoriasis) [](https://dermnetnz.org/topics/palmoplantar-pustulosis) [](https://dermnetnz.org/topics/acrodermatitis-continua-of-hallopeau)
+
+---
+
+## Các đặc điểm lâm sàng của bệnh mụn mủ toàn thân cấp tính là gì?
+
+Thông thường, AGEP bắt đầu ở mặt hoặc nách và bẹn, sau đó lan rộng hơn. Bệnh đặc trưng bởi sự xuất hiện nhanh chóng các vùng da đỏ, có mụn mủ vô trùng to bằng đầu kim. Bệnh thường xuất hiện nhiều hơn ở các nếp gấp da. Sưng mặt thường xảy ra.
+Tổn thương miệng ảnh hưởng đến khoảng 20% ​​bệnh nhân mắc AGEP.
+AGEP có thể đi kèm với sốt và khó chịu , nhưng bệnh nhân thường không quá mệt mỏi. Tổn thương nhiều cơ quan hiếm gặp nhưng có thể dẫn đến bệnh nặng.
+AGEP kéo dài trong một đến hai tuần và sau đó da sẽ bong ra với những mảng bong tróc nhỏ khi bệnh khỏi.
+
+### Hình thái của bệnh mụn mủ toàn thân cấp tính
+![Không có caption](https://dermnetnz.org/assets/Uploads/reactions/agep7.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/agep-04.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/AGEP-mouth.jpg)
+
+---
+
+## Biến chứng của bệnh mụn mủ toàn thân cấp tính là gì?
+
+Khoảng 10% bệnh nhân mắc AGEP có phản ứng nghiêm trọng liên quan đến rối loạn chức năng cơ quan (phổi, máu, thận, gan).
+AGEP có thể chồng chéo với [hội chứng quá mẫn thuốc](https://dermnetnz.org/topics/drug-hypersensitivity-syndrome) hoặc [hội chứng Stevens–Johnson/hoại tử biểu bì nhiễm độc](https://dermnetnz.org/topics/stevens-johnson-syndrome-toxic-epidermal-necrolysis) , có thể đe dọa tính mạng.
+Nhiễm trùng thứ phát không phổ biến.
+
+---
+
+## Bệnh mụn mủ toàn thân cấp tính được chẩn đoán như thế nào?
+
+AGEP thường được chẩn đoán lâm sàng. Các xét nghiệm hỗ trợ có thể bao gồm:
+- Xét nghiệm máu: thường thấy tăng bạch cầu trung tính và tăng các dấu hiệu viêm . Có thể có tăng bạch cầu ái toan và bất thường về thận hoặc gan và cần được theo dõi.
+- [Sinh thiết](https://dermnetnz.org/topics/skin-biopsy) da: mụn mủ dưới giác mạc chứa đầy bạch cầu trung tính . Xem [bệnh lý da liễu của AGEP](https://dermnetnz.org/topics/acute-generalised-exanthematous-pustulosis-pathology) .
+- [Kiểm tra miếng dán](https://dermnetnz.org/topics/patch-tests) : đôi khi được sử dụng để xác nhận dị ứng với tác nhân gây ra AGEP.
+
+---
+
+## Chẩn đoán phân biệt bệnh mụn mủ toàn thân cấp tính là gì?
+
+Các tình trạng da đôi khi khó phân biệt với AGEP bao gồm:
+- [Hội chứng Stevens-Johnson / hoại tử biểu bì nhiễm độc](https://dermnetnz.org/topics/stevens-johnson-syndrome-toxic-epidermal-necrolysis)
+- [Hội chứng quá mẫn thuốc](https://dermnetnz.org/topics/drug-hypersensitivity-syndrome)
+- [Các vụ phun trào thuốc khác](https://dermnetnz.org/topics/drug-eruptions)
+- [Bệnh vẩy nến mủ toàn thân](https://dermnetnz.org/topics/generalised-pustular-psoriasis)
+- [Bệnh da liễu trung tính](https://dermnetnz.org/topics/neutrophilic-dermatoses)
+- [Viêm mủ ban đỏ khu trú cấp tính](https://dermnetnz.org/topics/acute-localised-exanthematous-pustulosis) .
+
+---
+
+## Bệnh mụn mủ toàn thân cấp tính được điều trị như thế nào?
+
+Bệnh nhân mắc AGEP thường phải nhập viện trong vài ngày nhưng có thể được theo dõi tại nhà nếu họ cảm thấy đủ khỏe để ăn uống.
+Nên ngừng sử dụng thuốc mới sau khi AGEP bắt đầu, đặc biệt là [thuốc kháng sinh](https://dermnetnz.org/topics/antibiotics) .
+Sau đó, việc điều trị tập trung vào việc làm giảm các triệu chứng bằng [kem dưỡng ẩm](https://dermnetnz.org/topics/emollients-and-moisturisers) , [corticosteroid bôi ngoài da](https://dermnetnz.org/topics/topical-steroid) , [thuốc kháng histamine đường uống](https://dermnetnz.org/topics/antihistamines) và thuốc giảm đau cho đến khi phát ban biến mất. Liệu pháp toàn thân hiếm khi được chỉ định.
+
+---
+
+## Hậu quả của bệnh mụn mủ toàn thân cấp tính là gì?
+
+Phát ban AGEP bong ra và tự khỏi sau khoảng 10 ngày. Bệnh thường không tái phát trừ khi dùng lại cùng loại thuốc đã gây ra đợt phát ban đầu tiên. Đợt phát ban thứ hai có thể nghiêm trọng hơn.
+
+### Viêm mủ ban đỏ toàn thân cấp tính đang hồi phục
+![Không có caption](https://dermnetnz.org/assets/Uploads/agep-07.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/reactions/agep9.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/reactions/agep6.jpg)

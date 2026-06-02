@@ -1,0 +1,70 @@
+# Bệnh vẩy nến đỏ da toàn thân — thông tin bổ sung
+
+Thể loại:
+
+Tự miễn/tự viêm
+
+SNOMED CT:
+
+200977004
+
+**[Tự miễn/tự viêm](https://dermnetnz.org/topics/topics?category=Autoimmune/autoinflammatory)**
+
+
+# **Bệnh vẩy nến đỏ da toàn thân**
+
+Tác giả: Tiến sĩ Amy Stanway, Bác sĩ da liễu, Bệnh viện Waikato, Hamilton, New Zealand, 2004.
+
+---
+
+## Bệnh đỏ da toàn thân là gì?
+
+[Đỏ da](https://dermnetnz.org/topics/erythroderma) toàn thân là tình trạng da đỏ lan tỏa . Đây là một tình trạng da rất nghiêm trọng và có thể gây tử vong. Nó có thể là hậu quả của nhiều bệnh lý viêm da, thuốc và bệnh ác tính, nhưng trong một phần ba trường hợp, nguyên nhân là do [bệnh vẩy nến](https://dermnetnz.org/topics/psoriasis) .
+![Bệnh vẩy nến đỏ da toàn thân](https://dermnetnz.org/assets/Uploads/doctors/emergencies/images/ps-e1.jpg)
+![Bệnh vẩy nến đỏ da toàn thân](https://dermnetnz.org/assets/Uploads/doctors/scaly-rashes/images/ps-e2.jpg)
+![Bệnh vẩy nến đỏ da toàn thân](https://dermnetnz.org/assets/Uploads/scaly/ps-e4.jpg)
+![Bệnh vẩy nến đỏ da toàn thân](https://dermnetnz.org/assets/Uploads/doctors/emergencies/images/ps-e4.jpg)
+![Bệnh vẩy nến đỏ da toàn thân](https://dermnetnz.org/assets/Uploads/doctors/emergencies/images/ps-e5.jpg)
+![Bệnh vẩy nến đỏ da toàn thân](https://dermnetnz.org/assets/Uploads/scaly/s/psorederm.jpg)
+
+---
+
+## Nguyên nhân gây ra bệnh vẩy nến đỏ da toàn thân là gì?
+
+Bệnh vẩy nến đỏ da có thể được gây ra bởi:
+- Nhiễm trùng
+- Canxi thấp
+- Ngừng sử dụng [corticosteroid đường uống](https://dermnetnz.org/topics/systemic-steroids) (prednisone)
+- Ngừng sử dụng quá mức [corticosteroid bôi ngoài da mạnh](https://dermnetnz.org/topics/topical-steroid)
+- Các chế phẩm [hắc ín than đá](https://dermnetnz.org/topics/coal-tar) mạnh
+- Một số loại thuốc bao gồm lithium, [thuốc chống sốt rét](https://dermnetnz.org/topics/antimalarial) và interleukin II
+- Tiêu thụ quá nhiều [rượu](https://dermnetnz.org/topics/cutaneous-adverse-effects-of-alcohol)
+
+---
+
+## Các đặc điểm lâm sàng của bệnh vẩy nến đỏ da toàn thân là gì?
+
+Vảy nến đỏ da toàn thân thường xảy ra trong bối cảnh bệnh vẩy nến đã biết là nặng hơn hoặc không ổn định, nhưng hiếm khi có thể là biểu hiện đầu tiên của bệnh vẩy nến. Khởi phát có thể xảy ra cấp tính trong vài ngày hoặc vài tuần, hoặc tiến triển dần dần trong vài tháng từ tình trạng vẩy nến đã có từ trước.
+Các đặc điểm bao gồm bất kỳ dạng [ban đỏ da](https://dermnetnz.org/topics/erythroderma) nào (da khô đỏ khắp cơ thể).
+Các biến chứng bao gồm:
+- Mất nước
+- Suy tim
+- Sự nhiễm trùng
+- Hạ thân nhiệt
+- Mất protein và [suy dinh dưỡng](https://dermnetnz.org/topics/malnutrition-including-anorexia-nervosa)
+- Phù nề (sưng), đặc biệt là ở chân dưới
+- Cái chết
+
+---
+
+## Phương pháp điều trị bệnh vẩy nến đỏ da toàn thân là gì?
+
+Việc điều trị bệnh vẩy nến đỏ da toàn thân có thể khó khăn. Việc quản lý bao gồm:
+- Nhập viện để được chăm sóc hỗ trợ bao gồm truyền dịch tĩnh mạch và điều chỉnh nhiệt độ
+- [Thuốc làm mềm](https://dermnetnz.org/topics/emollients-and-moisturisers) dịu nhẹ và băng ướt làm mát
+- Nghỉ ngơi trên giường
+- Điều trị các biến chứng (ví dụ như thuốc kháng sinh, thuốc lợi tiểu (viên nước), hỗ trợ dinh dưỡng)
+- [Methotrexate](https://dermnetnz.org/topics/methotrexate) liều thấp , [ciclosporin](https://dermnetnz.org/topics/ciclosporin) hoặc [acitretin](https://dermnetnz.org/topics/acitretin)
+- Một số trường hợp riêng lẻ đã được báo cáo là có kết quả thành công với [các tác nhân sinh học](https://dermnetnz.org/topics/biological-agents-for-psoriasis) , bao gồm thuốc [ức](https://dermnetnz.org/topics/ustekinumab-for-psoriasis) [chế TNF-alpha](https://dermnetnz.org/topics/tumour-necrosis-factor-inhibitors) [adalimumab](https://dermnetnz.org/topics/adalimumab-for-psoriasis) , [etanercept](https://dermnetnz.org/topics/etanercept-for-psoriasis) và [infliximab ,](https://dermnetnz.org/topics/infliximab-for-psoriasis) thuốc ức chế IL12/23 ustekinumab và thuốc ức chế IL17 [bimekizumab](https://dermnetnz.org/topics/bimekizumab) . [](https://dermnetnz.org/topics/ustekinumab-for-psoriasis) [](https://dermnetnz.org/topics/bimekizumab)
+[Nên tránh dùng corticosteroid đường uống](https://dermnetnz.org/topics/systemic-steroids) nếu có thể vì việc cai thuốc có nguy cơ làm nặng thêm tình trạng đỏ da toàn thân và có thể gây ra [bệnh vảy nến mủ toàn thân](https://dermnetnz.org/topics/generalised-pustular-psoriasis) . Tuy nhiên, đôi khi chúng là phương pháp điều trị duy nhất có hiệu quả.
+[Các chế phẩm hắc ín bôi](https://dermnetnz.org/topics/coal-tar) ngoài da và [liệu pháp quang học](https://dermnetnz.org/topics/phototherapy) cũng nên tránh trong giai đoạn đầu điều trị bệnh vẩy nến đỏ da toàn thân vì chúng có thể làm tình trạng bệnh trở nên trầm trọng hơn.

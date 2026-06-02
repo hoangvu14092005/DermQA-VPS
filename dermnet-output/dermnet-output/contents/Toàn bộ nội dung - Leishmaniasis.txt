@@ -1,0 +1,243 @@
+# Bệnh Leishmaniasis — thông tin bổ sung
+
+Thể loại:
+
+Nhiễm trùng
+
+SNOMED CT:
+
+80612004, 41235001, 77327004, 240637006, 721813000, 38573008, 17794004, 240638001, 186803007, 67896006, 79357004
+
+**[Nhiễm trùng](https://dermnetnz.org/topics/topics?category=Infestations)**
+
+
+# **Bệnh Leishmaniasis**
+
+Tác giả: Vanessa Ngan, Nhân viên viết, 2005. Cập nhật bởi Tiến sĩ Catriona Wootton, Bác sĩ Da liễu, Vương quốc Anh, tháng 1 năm 2017.
+
+---
+
+## Bệnh leishmaniasis là gì?
+
+Bệnh Leishmaniasis là một [bệnh ký sinh trùng](https://dermnetnz.org/topics/bugs) lây truyền qua ruồi cát bị nhiễm động vật nguyên sinh Leishmania . Bệnh Leishmaniasis lưu hành ở hơn 70 quốc gia trên toàn thế giới và ước tính ảnh hưởng đến khoảng 12 triệu người.
+Bệnh leishmaniasis có nhiều dạng lâm sàng. Biểu hiện lâm sàng của bệnh phụ thuộc vào loài Leishmania , thay đổi tùy theo khu vực địa lý và phản ứng miễn dịch của vật chủ .
+Ký sinh trùng gây bệnh leishmaniasis ở người không được tìm thấy ở New Zealand, Úc, Nam Thái Bình Dương hoặc Nam Cực.
+
+### Bệnh leishmaniasis thế giới cũ
+![Không có caption](https://dermnetnz.org/assets/Uploads/cutaneous-leishmaniasis-12.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/cutaneous-leishmaniasis-14.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/cutaneous-leishmaniasis-19.jpg)
+[Xem thêm hình ảnh về bệnh leishmaniasis](https://dermnetnz-org.translate.goog/topics/leishmaniasis-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp) .
+
+---
+
+## Ai mắc bệnh leishmaniasis?
+
+Người dân ở mọi lứa tuổi, sinh sống hoặc đi qua những khu vực có ruồi cát và loài Leishmania lưu hành đều có nguy cơ nhiễm bệnh Leishmaniasis. Sống ở vùng nông thôn và dành thời gian trên hoặc gần mặt đất làm tăng nguy cơ mắc bệnh.
+
+---
+
+## Phân loại và nguyên nhân gây bệnh leishmaniasis
+
+Có hơn 20 loài ký sinh trùng Leishmania có thể lây nhiễm cho người; lây truyền qua vết cắn của ruồi cát phlebotomine. Ruồi cát là loài côn trùng nhỏ (1,5–3 mm) tích cực hút máu vào lúc bình minh và hoàng hôn. Ruồi cát sống trong các vết nứt tường, hang động vật và lớp lá mục ở các vùng nhiệt đới và cận nhiệt đới. Vết cắn của chúng không có triệu chứng và thường ở những vị trí hở.
+Bệnh Leishmaniasis có nhiều dạng lâm sàng đã được công nhận, và biểu hiện của chúng phụ thuộc vào loài được tiêm chủng và phản ứng miễn dịch của vật chủ. Sự khác biệt quan trọng nhất là giữa loài Leishmania ở châu Mỹ và không phải châu Mỹ , vì phân loài Viannia được tìm thấy ở châu Mỹ có thể gây ra bệnh Leishmaniasis niêm mạc da .
+
+### Bệnh leishmaniasis da
+Bệnh leishmaniasis da thường xảy ra tại vị trí tiêm chủng. Biểu hiện và tiên lượng sẽ khác nhau tùy thuộc vào loài liên quan.
+Bệnh leishmaniasis ngoài da không phải ở Mỹ (Thế giới cũ):
+- Trung Đông, Bắc Phi, Châu Á
+- L trưởng, L nhiệt đới, L infantum, L donovani
+- Từ đồng nghĩa: mụn nhọt phương Đông, mụn nhọt Baghdad, mụn nhọt Dehli, saldana, nút Aleppo, u hạt địa phương.
+Bệnh leishmaniasis da ở Mỹ (Tân Thế giới):
+- Trung và Nam Mỹ
+- L mexicana, L Braziliensis, L amazonensis
+- Từ đồng nghĩa: loét chiclero , uta, loéta de Bauru, ngáp rừng, pian boi, bejuco.
+
+### Bệnh leishmaniasis niêm mạc da
+Bệnh leishmaniasis niêm mạc là dạng bệnh leishmaniasis phá hoại, chỉ thấy ở loài Leishmania ở Mỹ ( phân loài Viannia ).
+Bệnh leishmaniasis niêm mạc da ở Mỹ:
+- Trung và Nam Mỹ
+- L Braziliensis, L Guyanensis, L panamensis
+- Từ đồng nghĩa: espundia.
+
+### Bệnh leishmaniasis lan tỏa trên da
+Bệnh leishmaniasis lan tỏa trên da là một biểu hiện hiếm gặp do phản ứng miễn dịch của vật chủ với ký sinh trùng .
+Bệnh leishmaniasis lan tỏa ngoài da không phải ở Mỹ:
+- Ethiopia, Kenya
+- L aethiopica.
+Bệnh leishmaniasis lan tỏa ở da của Mỹ:
+- Nam Mỹ
+- L. amazonensis.
+
+### Bệnh leishmaniasis nội tạng
+Bệnh leishmaniasis nội tạng là bệnh nhiễm trùng các cơ quan nội tạng và thường gây tử vong nếu không được điều trị. Bệnh này còn được gọi là sốt Kala-azar hoặc sốt Dumdum.
+Bệnh leishmaniasis nội tạng không phải của người Mỹ:
+- Ấn Độ, Nam Âu, Trung Quốc, Bắc Phi, Kenya
+- L donovani, L infantum, L nhiệt đới.
+Bệnh leishmaniasis nội tạng ở Mỹ:
+- Trung và Nam Mỹ
+- L chagasi .
+
+### Bệnh leishmaniasis da sau kala-azar
+Bệnh leishmaniasis da sau kala-azar là một dạng bệnh leishmaniasis da có thể xảy ra sau nhiều tháng đến nhiều năm điều trị bệnh leishmaniasis nội tạng.
+Bệnh leishmaniasis da sau Kala-azar không phải ở Mỹ:
+- Sudan, Ấn Độ
+- L donovani, L infantum, L nhiệt đới.
+Bệnh leishmaniasis da sau Kala-Azar ở Mỹ:
+- Trung và Nam Mỹ
+- L chagasi.
+
+### Bệnh Leishmaniasis tái phát
+Leishmaniasis recidivans là một dạng leishmaniasis da hiếm gặp, xảy ra ở những bệnh nhân có đáp ứng miễn dịch tế bào tốt . Bệnh này còn được gọi là leishmaniasis dạng lupus.
+Những người tái nhiễm leishmaniasis không phải người Mỹ:
+- Trung Đông, Ấn Độ, Nam Âu
+- L. tropica.
+Người tái nhiễm bệnh leishmaniasis ở Mỹ:
+- Trung và Nam Mỹ
+- L. braziliensis.
+
+---
+
+## Đặc điểm lâm sàng của bệnh leishmaniasis là gì?
+
+
+### Bệnh leishmaniasis da
+- Bệnh leishmaniasis da là dạng phổ biến nhất của bệnh leishmaniasis
+- Các tổn thương đơn độc là điển hình, nhưng có thể xảy ra nhiều tổn thương
+- Tổn thương ban đầu là một nốt sần nhỏ màu đỏ , dần dần mở rộng đến 2 cm đường kính
+- Loét trung tâm là điển hình
+- Loét có thể ẩm và chảy mủ hoặc khô với vảy đóng vảy
+- Các vết loét thường xuất hiện ở những vùng da hở, đặc biệt là mặt và tứ chi
+- Thời gian ủ bệnh giữa vết cắn của ruồi cát bị nhiễm bệnh và sự phát triển của tổn thương dao động từ 2 tuần đến 6 tháng
+- Các tổn thương thường không đau và hầu hết tự khỏi, thường để lại sẹo teo.
+- Thời gian giải quyết thay đổi từ 2 tháng đến hơn một năm
+- Có thể xảy ra sự lan truyền của Sporotrichoid với các nốt sần ở da bạch huyết
+- Bệnh mãn tính có thể xảy ra và có nguy cơ lây lan ở những bệnh nhân suy giảm miễn dịch
+
+### Bệnh leishmaniasis niêm mạc da
+- Bệnh leishmaniasis niêm mạc da thường xảy ra sau khi tự khỏi hoặc điều trị tại chỗ tổn thương da nguyên phát
+- Có thể phát triển trong vòng vài tháng hoặc sau nhiều năm
+- Nguy cơ mắc bệnh leishmaniasis niêm mạc da suốt đời sau tổn thương da do L braziliensis gây ra là khoảng 5%.
+- Các tổn thương thường ảnh hưởng đến niêm mạc mũi và miệng, nhưng bề mặt niêm mạc mắt và đường sinh dục cũng có thể bị ảnh hưởng.
+- Nếu không được điều trị, tình trạng loét bề mặt niêm mạc và phá hủy mô bên dưới có thể xảy ra
+- Tổn thương niêm mạc thường gây đau và bị nhiễm trùng thứ phát, đôi khi dẫn đến nhiễm trùng huyết
+- Có thể dẫn đến biến dạng nghiêm trọng
+![Không có caption](https://dermnetnz.org/assets/Uploads/cutaneous-leishmaniasis-07-v3.jpg)
+
+### Bệnh leishmaniasis lan tỏa trên da
+- Bệnh leishmaniasis da lan tỏa là một thực thể bệnh cụ thể; đôi khi thuật ngữ này được sử dụng không chính xác để mô tả bệnh leishmaniasis da lan tỏa hoặc nhiều vùng.
+- Kết quả từ phản ứng dị ứng với nhiễm trùng do giảm miễn dịch qua trung gian tế bào
+- Sau tổn thương leishmaniasis da nguyên phát, các nốt sần và mảng bám không loét phát triển
+- Các tổn thương có thể nhiều và có thể lan rộng khắp cơ thể
+- Theo một quá trình tái phát mãn tính hoặc tiến triển
+- Thường khó điều trị
+
+### Bệnh leishmaniasis nội tạng
+- Bệnh leishmaniasis nội tạng ảnh hưởng đến các cơ quan nội tạng bao gồm lá lách, gan và hạch bạch huyết
+- Các dấu hiệu và triệu chứng bao gồm sốt, sụt cân, hạch to , gan to và lách to
+- Xét nghiệm trong phòng thí nghiệm có thể cho thấy tình trạng giảm toàn thể huyết cầu và tăng gammaglobulin máu
+- Các biến chứng bao gồm chảy máu đường tiêu hóa, phù ngoại biên , suy thận cấp và nhiễm trùng thứ phát do vi khuẩn
+- Tăng sắc tố toàn thân là một triệu chứng muộn của bệnh leishmaniasis nội tạng; tên gọi khác của bệnh này là kala-azar, bắt nguồn từ tiếng Hindi có nghĩa là 'sốt đen'.
+- Bệnh leishmaniasis nội tạng có thể có nhiều dạng khác nhau, từ bệnh tự khỏi không có triệu chứng đến bệnh bùng phát và đe dọa tính mạng.
+
+### Bệnh leishmaniasis da sau kala-azar
+- Bệnh hậu kala-azar là một dạng bệnh leishmaniasis ngoài da, là biến chứng của bệnh leishmaniasis nội tạng.
+- Nó xảy ra từ vài tháng đến vài năm sau khi điều trị bệnh leishmaniasis nội tạng
+- Phần lớn các trường hợp xảy ra ở Sudan (lên đến 50%) và Ấn Độ (lên đến 10%)
+- Tổn thương có thể là các nốt sần và nốt sần cứng hoặc các vùng giảm sắc tố dạng chấm
+- Thường ảnh hưởng nhất đến mặt, thân và tứ chi
+- Niêm mạc miệng và vùng sinh dục cũng có thể bị ảnh hưởng
+- Tiên lượng và điều trị thay đổi tùy theo vị trí: ở hơn 80% bệnh nhân Sudan, các tổn thương leishmaniasis da sau kala-azar sẽ tự khỏi trong vòng một năm, trong khi ở Ấn Độ, tỷ lệ tự khỏi thấp hơn nhiều, do đó liệu pháp toàn thân được sử dụng sớm hơn.
+
+### Bệnh Leishmaniasis tái phát
+- Bệnh Leishmaniasis tái phát xảy ra ở những bệnh nhân có phản ứng miễn dịch tế bào tốt
+- Sự tự phục hồi của tổn thương da nguyên phát được theo sau bởi sự phát triển của các tổn thương mới xung quanh rìa của vết sẹo nguyên phát
+- Các tổn thương thường loét rồi lành lại
+- Chu kỳ tiếp tục với một quá trình tái phát mãn tính , thường kéo dài trong nhiều thập kỷ
+
+### Bệnh leishmaniasis da ở Sri Lanka
+![Không có caption](https://dermnetnz.org/assets/Uploads/arthropods/leishmaniasis4.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/arthropods/leishmaniasis6.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/arthropods/leishmaniasis7.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/arthropods/leishmaniasis2.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/arthropods/leishmaniasis5.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/arthropods/leishmaniasis1.jpg)
+
+---
+
+## Bệnh leishmaniasis ở da được chẩn đoán như thế nào?
+
+Chẩn đoán bệnh leishmaniasis da thường dựa trên tiền sử và biểu hiện lâm sàng của tổn thương. Tiền sử di chuyển toàn diện, bao gồm cả lịch sử di chuyển do thời gian ủ bệnh dài, rất quan trọng ở những vùng không lưu hành bệnh. Chẩn đoán có thể được xác nhận bằng cách xác định ký sinh trùng trên sinh thiết hoặc phết da. Nuôi cấy và PCR cũng có thể được sử dụng để xác nhận chẩn đoán và xác định loài Leishmaniasis, điều này rất quan trọng khi có nguy cơ mắc bệnh leishmaniasis niêm mạc da.
+Huyết thanh học được sử dụng để xác nhận chẩn đoán bệnh leishmaniasis nội tạng.
+Trong hơn 70% trường hợp, [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) toàn bộ có thể phát hiện ký sinh trùng. [Mô bệnh học](https://dermnetnz.org/topics/leishmaniasis-pathology) cũng được sử dụng để xác định bệnh leishmaniasis niêm mạc da và bệnh leishmaniasis nội tạng. Công thức máu toàn phần và xét nghiệm chức năng gan cũng nên được thực hiện trong trường hợp bệnh leishmaniasis nội tạng.
+
+### Bệnh leishmaniasis Tân Thế giới
+![Loét](https://dermnetnz.org/assets/Uploads/arthropods/leishmaniasis8.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/leishmaniasis10.jpg)
+![Loét](https://dermnetnz.org/assets/Uploads/arthropods/leishmaniasis9.jpg)
+
+---
+
+## Chẩn đoán phân biệt bệnh leishmaniasis là gì?
+
+Sự đa dạng của các biểu hiện lâm sàng của bệnh leishmaniasis da dẫn đến nhiều chẩn đoán phân biệt khác nhau:
+- [Côn trùng cắn](https://dermnetnz.org/topics/arthropod-bites-and-stings)
+- [Viêm da chondrodermatitis nodularis helicis](https://dermnetnz.org/topics/chondrodermatitis-nodularis)
+- [Ung thư biểu mô tế bào đáy](https://dermnetnz.org/topics/basal-cell-carcinoma)
+- [Ung thư biểu mô tế bào vảy](https://dermnetnz.org/topics/cutaneous-squamous-cell-carcinoma)
+- [U hạt vòng](https://dermnetnz.org/topics/granuloma-annulare)
+- [Nhiễm trùng mycobacteria không điển hình](https://dermnetnz.org/topics/atypical-mycobacterial-infection)
+- [Bệnh lupus ban đỏ](https://dermnetnz.org/topics/cutaneous-tuberculosis)
+- [Bệnh phong](https://dermnetnz.org/topics/leprosy)
+- [Bệnh Actinomyces](https://dermnetnz.org/topics/actinomycosis)
+- [Bệnh tularemia](https://dermnetnz.org/topics/tularaemia)
+- [Bệnh melioidosis](https://dermnetnz.org/topics/melioidosis)
+- [Nhiễm trùng nấm sâu](https://dermnetnz.org/topics/skin-manifestations-of-systemic-mycoses)
+- [Bệnh nấm Sporotrichosis](https://dermnetnz.org/topics/sporotrichosis)
+- Bệnh than [da](https://dermnetnz.org/topics/anthrax)
+- [Viêm da hoại tử.](https://dermnetnz.org/topics/ecthyma-gangrenosum)
+
+---
+
+## Phương pháp điều trị bệnh leishmaniasis là gì?
+
+Đối với bệnh leishmaniasis ở da, các phương án điều trị sẽ khác nhau tùy thuộc vào việc tổn thương được coi là đơn giản hay phức tạp.
+Ở bệnh leishmaniasis ngoài da không phải ở Mỹ, các tổn thương được coi là phức tạp nếu chúng lớn hơn 4 cm, nhiều, liên quan đến sự lan truyền theo đường bạch huyết, dai dẳng (> 6 tháng), ở những người bị suy giảm miễn dịch , nằm trên khớp hoặc ở những vùng nhạy cảm về mặt thẩm mỹ.
+Tất cả các trường hợp mắc bệnh leishmaniasis ở Mỹ đều phải được coi là phức tạp vì có nguy cơ mắc bệnh leishmaniasis niêm mạc da ở phân loài Viannia .
+Các phương án điều trị tổn thương do bệnh leishmaniasis ở da bao gồm:
+- Tự chữa lành (chỉ những tổn thương đơn giản)
+- Các phương pháp điều trị tại chỗ không chứa antimon [Liệu pháp lạnh](https://dermnetnz.org/topics/cryotherapy) Liệu pháp nhiệt [Liệu pháp quang động](https://dermnetnz.org/topics/photodynamic-therapy) [Imiquimod](https://dermnetnz.org/topics/imiquimod) Paromomycin bôi ngoài da (còn gọi là aminosidine)
+- [Liệu pháp lạnh](https://dermnetnz.org/topics/cryotherapy)
+- Liệu pháp nhiệt
+- [Liệu pháp quang động](https://dermnetnz.org/topics/photodynamic-therapy)
+- [Imiquimod](https://dermnetnz.org/topics/imiquimod)
+- Paromomycin bôi ngoài da (còn gọi là aminosidine)
+- Thuốc chống nấm nội tổn thương Natri stibogluconat Meglumine antimoniate
+- Natri stibogluconat
+- Meglumine antimoniate
+- Liệu pháp toàn thân không kháng sinh Amphotericin B Miltefosine Pentamidine [Thuốc chống nấm](https://dermnetnz.org/topics/oral-antifungal-medication) nhóm azole : [itraconazole](https://dermnetnz.org/topics/itraconazole) , [fluconazole](https://dermnetnz.org/topics/fluconazole) , [ketoconazole](https://dermnetnz.org/topics/ketoconazole) Paromomycin Kẽm sunfat Allopurinol
+- Amphotericin B
+- Miltefosine
+- Pentamidine
+- [Thuốc chống nấm](https://dermnetnz.org/topics/oral-antifungal-medication) nhóm azole : [itraconazole](https://dermnetnz.org/topics/itraconazole) , [fluconazole](https://dermnetnz.org/topics/fluconazole) , [ketoconazole](https://dermnetnz.org/topics/ketoconazole)
+- Paromomycin
+- Kẽm sunfat
+- Allopurinol
+- Thuốc kháng nấm toàn thân (tiêm tĩnh mạch hoặc tiêm bắp ) Natri stibogluconat Meglumine antimoniat.
+- Natri stibogluconat
+- Meglumine antimoniat.
+Hầu hết các trường hợp bệnh leishmaniasis da đơn giản sẽ tự khỏi mà không cần điều trị, nhưng có thể mất nhiều tháng và có thể để lại sẹo.
+Thuốc kháng sinh toàn thân là phương pháp điều trị chính cho các tổn thương Leishmaniasis phức tạp ở da, Leishmaniasis niêm mạc và Leishmaniasis nội tạng. Thuốc không thể dùng đường uống, và thời gian điều trị có thể lên đến 28 ngày đối với các tổn thương niêm mạc. Điều trị đòi hỏi phải nhập viện và có nguy cơ gây ra các tác dụng phụ, bao gồm độc tính trên tim.
+[Nhiễm trùng vết thương](https://dermnetnz.org/topics/wound-infections) thứ phát cần được điều trị bằng liệu pháp kháng khuẩn thích hợp .
+Các phương pháp điều trị phẫu thuật và điều trị bằng tia laser bốc hơi cũng được sử dụng cho các tổn thương thích hợp.
+Tham khảo hướng dẫn về cách quản lý bệnh leishmaniasis do Hiệp hội Bệnh truyền nhiễm Hoa Kỳ (IDSA) và Hiệp hội Y học Nhiệt đới và Vệ sinh Hoa Kỳ (ASTMH) công bố (tháng 12 năm 2016).
+
+---
+
+## Phòng ngừa côn trùng cắn
+
+Có thể phòng ngừa nhiễm trùng bằng cách tránh bị ruồi cát cắn. Vì hiện tại chưa có vắc-xin hoặc thuốc phòng ngừa nhiễm trùng, du khách đến những khu vực đang lưu hành bệnh leishmaniasis nên giảm nguy cơ bị cắn bằng cách tuân thủ các biện pháp phòng ngừa sau.
+- Tránh các hoạt động ngoài trời, đặc biệt là lúc chạng vạng và bình minh khi ruồi cát hoạt động mạnh nhất.
+- Mặc áo sơ mi dài tay, quần dài và tất — bỏ áo vào quần.
+- Thoa [thuốc chống côn trùng](https://dermnetnz.org/topics/insect-repellent) lên vùng da hở , dưới ống tay áo và ống quần. Thuốc chống côn trùng hiệu quả nhất là loại có chứa hóa chất DEET (N, N-diethyl-meta toluamide).
+- Xịt [thuốc trừ sâu](https://dermnetnz.org/topics/insecticides-and-the-skin) có chứa permethrin vào quần áo, khu vực sinh hoạt và ngủ (bao gồm cả màn ngủ) .

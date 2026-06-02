@@ -1,0 +1,121 @@
+# Viêm da tiếp xúc mí mắt — thông tin bổ sung
+
+Thể loại:
+
+Phản ứng
+
+SNOMED CT:
+
+68670009, 402249007
+
+**[Phản ứng](https://dermnetnz.org/topics/topics?category=Reactions)**
+
+
+# **Viêm da tiếp xúc mí mắt**
+
+Tác giả: Tiến sĩ Emily Ryder, Chuyên gia da liễu, Bệnh viện Addenbrooke, Cambridge, Vương quốc Anh; Tổng biên tập: Tiến sĩ Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand; Biên tập viên, Clare Morrison, tháng 5 năm 2014.
+
+---
+
+## Viêm da tiếp xúc mí mắt là gì?
+
+Viêm da tiếp xúc mí mắt là phản ứng viêm liên quan đến da mí mắt do tiếp xúc với chất kích thích. Nguyên nhân có thể là do dị ứng ( [viêm da tiếp xúc dị ứng](https://dermnetnz.org/topics/allergic-contact-dermatitis) ) hoặc kích ứng ( [viêm da tiếp xúc kích ứng](https://dermnetnz.org/topics/irritant-contact-dermatitis) ). Viêm da mí mắt còn được gọi là chàm mí mắt.
+[Viêm da tiếp xúc](https://dermnetnz.org/topics/contact-dermatitis) có thể ảnh hưởng đến mí mắt trên, dưới hoặc cả hai bên . Bệnh nhân có thể bị ngứa, châm chích hoặc nóng rát, mí mắt đỏ và đóng vảy. Chúng có thể sưng lên. Khi tình trạng viêm da kéo dài , mí mắt trở nên dày lên với nhiều vết hằn trên da ( lichen hóa ). Viền mí mắt có thể bị ảnh hưởng ( [viêm bờ mi](https://dermnetnz.org/topics/blepharitis) ). Biểu hiện thường tương tự nhau, bất kể nguyên nhân là gì.
+Da mỏng ở mí mắt đặc biệt nhạy cảm với các chất kích ứng và dị ứng , do đó dễ bị viêm da tiếp xúc. Việc tiếp xúc với cùng một tác nhân gây dị ứng có thể không gây phát ban ở các vùng da khác.
+![Viêm da mí mắt mãn tính nhẹ](https://dermnetnz.org/assets/Uploads/dermatitis/w/eyelid-dermatitis-01.jpg)
+![Viêm da mí mắt mãn tính nghiêm trọng](https://dermnetnz.org/assets/Uploads/dermatitis/w/eyelid-dermatitis-02.jpg)
+![Viêm da mí mắt cấp tính nghiêm trọng](https://dermnetnz.org/assets/Uploads/dermatitis/s/eyelid-dermatitis-03.jpg)
+[Xem thêm hình ảnh về viêm da tiếp xúc mí mắt](https://dermnetnz-org.translate.goog/topics/eyelid-dermatitis-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp) .
+
+---
+
+## Viêm da tiếp xúc kích ứng mí mắt
+
+
+### Viêm da tiếp xúc kích ứng mí mắt xảy ra như thế nào?
+[Viêm da tiếp xúc kích ứng](https://dermnetnz.org/topics/irritant-contact-dermatitis) là một phản ứng viêm bẩm sinh do tổn thương da. Không giống như [viêm da tiếp xúc dị ứng](https://dermnetnz.org/topics/allergic-contact-dermatitis) , viêm da tiếp xúc kích ứng không liên quan đến kháng thể đặc hiệu ( globulin miễn dịch ) hoặc tế bào miễn dịch đặc hiệu ( tế bào T nhớ ).
+
+### Nguyên nhân nào gây ra viêm da tiếp xúc kích ứng mí mắt?
+Viêm da tiếp xúc kích ứng có thể xảy ra do tiếp xúc với các chất gây kích ứng và/hoặc các tác nhân vật lý.
+Các chất gây kích ứng có thể gây viêm da tiếp xúc kích ứng ở mí mắt bao gồm:
+- [Xà phòng và chất tẩy rửa](https://dermnetnz.org/topics/soaps-and-cleansers)
+- Axit và kiềm
+- Hóa chất như clo dưới kính bảo hộ khi bơi
+- Các hạt bụi
+- Các chất kỵ nước (gồm các phân tử đẩy nước, tức là chất làm khô)
+- Mỹ phẩm như bút kẻ mắt, phấn mắt, mascara và [kem chống nắng](https://dermnetnz.org/topics/topical-sunscreen-agents) .
+Những chất này có thể chạm trực tiếp vào mí mắt hoặc dính vào ngón tay (có thể không bị ảnh hưởng bởi bệnh viêm da).
+Các tác nhân vật lý có thể gây ra viêm da tiếp xúc kích ứng bao gồm:
+- Nhiệt độ cực đoan (nóng hoặc lạnh)
+- Độ ẩm cực độ (khô hoặc ẩm)
+- Cơ học (cọ xát hoặc cào xước).
+
+### Ai bị viêm da tiếp xúc kích ứng mí mắt?
+Viêm da tiếp xúc kích ứng mí mắt có thể xảy ra ở bất kỳ ai. Tuy nhiên, tình trạng này phổ biến hơn ở những người có [làn da nhạy cảm](https://dermnetnz.org/topics/sensitive-skin) . Những người có tiền sử [bệnh chàm](https://dermnetnz.org/topics/atopic-dermatitis) , hen suyễn và sốt cỏ khô (' [atopy'](https://dermnetnz.org/topics/atopy) ) có nguy cơ bị viêm da tiếp xúc kích ứng cao hơn những người không có tiền sử này.
+Bất kỳ tình trạng viêm da nào có từ trước đều có thể làm suy yếu "hàng rào" chống thấm nước của da và khiến da dễ bị viêm da tiếp xúc kích ứng hơn. Chức năng hàng rào này cũng có thể bị suy giảm do yếu tố di truyền .
+
+### Chẩn đoán viêm da tiếp xúc kích ứng mí mắt được thực hiện như thế nào?
+Chẩn đoán viêm da tiếp xúc kích ứng mí mắt được thực hiện bằng cách xác định các đặc điểm đặc trưng của bệnh:
+- Phát ban ngứa ảnh hưởng đến một hoặc cả hai mí mắt, có thể xảy ra liên tục hoặc không liên tục
+- Nghi ngờ rằng tình trạng này đã được gây ra hoặc trở nên trầm trọng hơn do tiếp xúc với chất gây kích ứng (xem danh sách ở trên)
+- Thông thường, [da nhạy cảm](https://dermnetnz.org/topics/sensitive-skin) hoặc [bệnh chàm dị ứng đã có từ trước](https://dermnetnz.org/topics/atopic-dermatitis)
+- [Xét nghiệm miếng dán](https://dermnetnz.org/topics/patch-tests) đối với [chất gây dị ứng tiếp xúc](https://dermnetnz.org/topics/contact-allergens) nghi ngờ đều cho kết quả âm tính.
+Có thể khó xác định được nguyên nhân chính xác.
+
+---
+
+## Viêm da tiếp xúc dị ứng mí mắt
+
+
+### Viêm da tiếp xúc dị ứng ở mí mắt xảy ra như thế nào?
+[Viêm da tiếp xúc dị ứng](https://dermnetnz.org/topics/allergic-contact-dermatitis) là do phản ứng miễn dịch với tác nhân gây dị ứng; được gọi là dị nguyên. Đây thường là một chất mà bệnh nhân đã tiếp xúc nhiều lần trước đó mà không có vấn đề gì. Phát ban thường xuất hiện từ một đến vài ngày sau khi tiếp xúc với dị nguyên. Điều này có thể gây khó khăn cho việc xác định nguyên nhân gây viêm da. Viêm da tiếp xúc dị ứng liên quan đến phản ứng quá mẫn muộn (còn gọi là quá mẫn loại IV) và liên quan đến các tế bào ghi nhớ miễn dịch.
+
+### Nguyên nhân nào gây ra viêm da tiếp xúc dị ứng ở mí mắt?
+Viêm da tiếp xúc mí mắt xảy ra sau khi tiếp xúc trực tiếp với [chất gây dị ứng](https://dermnetnz.org/topics/contact-allergens) .
+[Dị ứng với mỹ phẩm](https://dermnetnz.org/topics/contact-reactions-to-cosmetics) có thể là do tiếp xúc với chất gây dị ứng trong:
+- [Chất làm mềm và chất dưỡng ẩm](https://dermnetnz.org/topics/emollients-and-moisturisers)
+- Kem dưỡng mắt
+- [Kem chống nắng](https://dermnetnz.org/topics/sunscreen-allergy)
+- Trang điểm
+- [Chất tẩy rửa](https://dermnetnz.org/topics/soaps-and-cleansers)
+- [Hương thơm](https://dermnetnz.org/topics/fragrance-mix-allergy) và [tinh dầu](https://dermnetnz.org/topics/allergic-contact-dermatitis-to-essential-oils)
+- [Đồ trang sức](https://dermnetnz.org/topics/jewellery-allergy) có chứa [niken](https://dermnetnz.org/topics/nickel-allergy) và vàng.
+Các chất gây dị ứng tiềm ẩn khác được tìm thấy trong:
+- Dụng cụ uốn mi hoặc nhíp ( [niken](https://dermnetnz.org/topics/nickel-allergy) )
+- Lông mi giả (thành phần hoặc thường xuyên hơn là chất kết dính)
+- Thuốc nhỏ mắt ( [chất bảo quản](https://dermnetnz.org/topics/contact-allergy-to-preservatives) và [chất sát trùng](https://dermnetnz.org/topics/antiseptic) )
+- Dung dịch rửa kính áp tròng
+- [](https://dermnetnz.org/topics/allergy-to-rubber-accelerators) Kính bảo hộ [cao su](https://dermnetnz.org/topics/allergy-to-rubber-accelerators)
+- Gọng kính.
+Viêm da tiếp xúc mí mắt cũng có thể xảy ra sau khi tiếp xúc gián tiếp với chất gây dị ứng, do một lượng nhỏ chất này từ tay tiếp xúc (thông qua việc chà xát hoặc chạm vào mí mắt). Các chất gây dị ứng này có thể bao gồm:
+- [Niken](https://dermnetnz.org/topics/nickel-allergy) từ đồng xu kim loại hoặc móc quần áo
+- [Hương thơm](https://dermnetnz.org/topics/fragrance-mix-allergy)
+- [Mỹ phẩm làm móng](https://dermnetnz.org/topics/nail-cosmetics-allergy) (sơn móng và móng giả )
+- Thuốc nhuộm tóc , tức là [dị ứng với paraphenylenediamine](https://dermnetnz.org/topics/allergy-to-paraphenylenediamine) .
+Viêm da tiếp xúc mí mắt đôi khi do các chất gây dị ứng trong không khí, chẳng hạn như [mạt bụi](https://dermnetnz.org/topics/house-dust-mite) và phấn hoa thực vật, gây ra. [Dị ứng phấn hoa](https://dermnetnz.org/topics/compositae-allergy) là một ví dụ về chất gây dị ứng trong không khí gây viêm da mí mắt.
+
+### Ai bị viêm da tiếp xúc dị ứng ở mí mắt?
+Viêm da tiếp xúc dị ứng mí mắt có thể xảy ra ở bất kỳ ai. Nguy cơ mắc bệnh này ở những người có [làn da nhạy cảm](https://dermnetnz.org/topics/sensitive-skin) hoặc [bị chàm thể tạng](https://dermnetnz.org/topics/atopic-dermatitis) không cao hơn so với những người trước đây không bị bệnh về da.
+Dị ứng tiếp xúc thường phát triển sau nhiều lần tiếp xúc trước đó với chất gây dị ứng, do đó không nhất thiết phải có chất mới gây ra dị ứng.
+
+### Chẩn đoán viêm da tiếp xúc dị ứng mí mắt được thực hiện như thế nào?
+Chẩn đoán viêm da tiếp xúc dị ứng mí mắt được thực hiện bằng cách xác định các đặc điểm đặc trưng của bệnh:
+- Phát ban ngứa ảnh hưởng đến một hoặc cả hai mí mắt
+- Điều này rất có thể xảy ra không liên tục trong khoảng thời gian từ vài ngày đến vài năm
+- Nghi ngờ rằng tình trạng này đã được gây ra hoặc trở nên trầm trọng hơn do tiếp xúc với chất gây dị ứng (xem danh sách ở trên)
+- [Xét nghiệm vá](https://dermnetnz.org/topics/patch-tests) đối với một hoặc nhiều [chất gây dị ứng tiếp xúc](https://dermnetnz.org/topics/contact-allergens) nghi ngờ đều cho kết quả dương tính.
+Việc nắm rõ chi tiết tất cả các chất mà da có thể đã tiếp xúc trong quá trình chăm sóc da, sở thích và công việc là một phần quan trọng trong quá trình điều tra nguyên nhân gây viêm da mí mắt. Cần thực hiện [xét nghiệm áp da](https://dermnetnz.org/topics/patch-tests) để xác định hoặc xác nhận tác nhân gây dị ứng.
+
+---
+
+## Phương pháp điều trị viêm da tiếp xúc mí mắt là gì?
+
+Điều quan trọng là phải tránh tiếp xúc với các chất gây kích ứng và các chất gây dị ứng đã biết hoặc có khả năng gây dị ứng để đảm bảo làn da khỏe mạnh và có khả năng hình thành lớp màng chống thấm nước.
+- Tránh chà xát và gãi.
+- Chỉ chạm vào mí mắt bằng tay sạch và đã rửa sạch.
+- Rửa mí mắt bằng nước sạch hoặc sử dụng kem rửa mặt dành cho da nhạy cảm.
+- Tránh mọi tiếp xúc với chất gây dị ứng được phát hiện qua [xét nghiệm áp da](https://dermnetnz.org/topics/patch-tests) – điều này cần thiết suốt đời.
+- Tránh sử dụng mỹ phẩm cho mí mắt khi bệnh viêm da đang diễn biến.
+- Đeo kính bảo vệ mắt khi tiếp xúc với lạnh, gió, bụi, v.v. Kính cũng có thể giúp bạn tránh gãi và chà xát mí mắt.
+Có thể cần dùng liệu trình ngắn [corticosteroid tại chỗ](https://dermnetnz.org/topics/topical-steroid) nhẹ (ví dụ: kem hoặc thuốc mỡ hydrocortisone 1% ) hoặc [thuốc ức chế calcineurin](https://dermnetnz.org/topics/calcineurin-inhibitors) (ví dụ: kem [pimecrolimus 1%) để điều trị](https://dermnetnz.org/topics/pimecrolimus) tình trạng viêm đang hoạt động. Viêm da tiếp xúc nặng ở mí mắt thường được điều trị bằng liệu trình ngắn [corticosteroid đường uống](https://dermnetnz.org/topics/systemic-steroids) .
+Viêm da mí mắt có thể dẫn đến [tăng sắc tố sau viêm](https://dermnetnz.org/topics/postinflammatory-hyperpigmentation) , một trong những nguyên nhân gây ra [quầng thâm](https://dermnetnz.org/topics/dark-circles-under-the-eyes) dưới mắt.

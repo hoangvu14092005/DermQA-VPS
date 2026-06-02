@@ -1,0 +1,87 @@
+# Viêm tắc tĩnh mạch nông — thông tin bổ sung
+
+Thể loại:
+
+Các vấn đề về mạch máu
+
+SNOMED CT:
+
+2477008, 308136002, 429434005, 95451004, 275517008
+
+**[Các vấn đề về mạch máu](https://dermnetnz.org/topics/topics?category=Blood+vessel+problems)**
+
+
+# **Viêm tắc tĩnh mạch nông**
+
+Tác giả: Vanessa Ngân, Nhân viên viết, 2013. Sửa đổi nhỏ, ngày 22 tháng 2 năm 2014.
+
+---
+
+## Viêm tắc tĩnh mạch nông là gì?
+
+Viêm tắc tĩnh mạch nông là tình trạng viêm tĩnh mạch nông do cục máu đông và nằm ngay dưới da. Tình trạng này thường ảnh hưởng đến các tĩnh mạch ở chân nhưng cũng có thể xảy ra ở các tĩnh mạch khác trên cơ thể, ví dụ như ở cánh tay, dương vật và ngực.
+
+---
+
+## Nguyên nhân nào gây ra bệnh huyết khối tĩnh mạch nông?
+
+Nguyên nhân gây ra huyết khối tĩnh mạch nông vẫn chưa hoàn toàn rõ ràng, nhưng người ta tin rằng nó liên quan đến sự thay đổi cân bằng động của quá trình cầm máu. Năm 1846, nhà nghiên cứu bệnh học người Đức Virchow đã chứng minh rằng tổn thương thành mạch máu , lưu lượng máu bất thường, hoặc thay đổi thành phần máu gây ra tình trạng đông máu bất thường, có thể dẫn đến viêm hoặc hình thành cục máu đông trong tĩnh mạch.
+
+---
+
+## Ai có thể mắc bệnh huyết khối tĩnh mạch nông?
+
+Viêm tắc tĩnh mạch nông có thể xảy ra tự phát và không có lý do rõ ràng.
+
+### Các yếu tố nguy cơ gây huyết khối tĩnh mạch nông
+- Tiền sử viêm tĩnh mạch nông, huyết khối tĩnh mạch sâu và thuyên tắc phổi
+- Suy giãn tĩnh mạch – những người bị [suy giãn tĩnh mạch](https://dermnetnz.org/topics/varicose-veins) dễ bị tổn thương nhẹ ở mạch máu , có thể dẫn đến viêm.
+- Vị trí tiêm hoặc truyền tĩnh mạch — viêm tắc tĩnh mạch nông ở vùng cánh tay hoặc cổ có thể xảy ra tại vị trí truyền hoặc vị trí chấn thương.
+- Bất thường về đông máu — có nhiều tình trạng hoặc loại thuốc có thể khiến máu đông dễ dàng hơn và gây ra tình trạng huyết khối tĩnh mạch nông: [Mang thai](https://dermnetnz.org/topics/skin-changes-in-pregnancy) — trong suốt hầu hết thai kỳ và khoảng 6 tuần sau khi sinh. Viêm tắc tĩnh mạch đặc biệt đáng lo ngại ở phụ nữ mang thai mang đột biến gen prothrombin G20210A hoặc yếu tố V Leiden, vì họ có khuynh hướng đông máu. [Thuốc tránh thai uống](https://dermnetnz.org/topics/oral-contraceptive) và liệu pháp thay thế hormone — điều trị bằng estrogen liều cao có thể làm tăng nguy cơ huyết khối lên 3–12 lần. Các bệnh liên quan đến [viêm mạch](https://dermnetnz.org/topics/cutaneous-vasculitis) , chẳng hạn như [bệnh Buerger](https://dermnetnz.org/topics/thromboangiitis-obliterans) và [viêm đa động mạch dạng nút](https://dermnetnz.org/topics/cutaneous-polyarteritis-nodosa) [Hút thuốc](https://dermnetnz.org/topics/smoking-and-its-effects-on-the-skin) Ung thư tiềm ẩn
+- [Mang thai](https://dermnetnz.org/topics/skin-changes-in-pregnancy) — trong suốt hầu hết thai kỳ và khoảng 6 tuần sau khi sinh. Viêm tắc tĩnh mạch đặc biệt đáng lo ngại ở phụ nữ mang thai mang đột biến gen prothrombin G20210A hoặc yếu tố V Leiden, vì họ có khuynh hướng đông máu.
+- [Thuốc tránh thai uống](https://dermnetnz.org/topics/oral-contraceptive) và liệu pháp thay thế hormone — điều trị bằng estrogen liều cao có thể làm tăng nguy cơ huyết khối lên 3–12 lần.
+- Các bệnh liên quan đến [viêm mạch](https://dermnetnz.org/topics/cutaneous-vasculitis) , chẳng hạn như [bệnh Buerger](https://dermnetnz.org/topics/thromboangiitis-obliterans) và [viêm đa động mạch dạng nút](https://dermnetnz.org/topics/cutaneous-polyarteritis-nodosa)
+- [Hút thuốc](https://dermnetnz.org/topics/smoking-and-its-effects-on-the-skin)
+- Ung thư tiềm ẩn
+- Lưu lượng máu giảm ( ứ trệ ) — tình trạng này có thể xảy ra ở tĩnh mạch của những người trong các chuyến bay dài, những người bất động hoặc vừa trải qua phẫu thuật lớn.
+
+---
+
+## Dấu hiệu và triệu chứng của bệnh huyết khối tĩnh mạch nông là gì?
+
+Các dấu hiệu và triệu chứng đặc trưng của bệnh huyết khối tĩnh mạch nông bao gồm:
+- Sưng nhẹ, đỏ và đau dọc theo một phần của tĩnh mạch bị ảnh hưởng
+- Tĩnh mạch ở bàn chân, mắt cá chân và vùng ngay sau đầu gối bị sưng và nổi lên
+- Các tĩnh mạch khác ở vùng bị ảnh hưởng có thể xuất hiện màu xanh
+- Nếu cục máu đông hình thành, tĩnh mạch có thể cảm thấy cứng hoặc nổi cục
+- Nếu tình trạng này đã kéo dài một thời gian và tình trạng sưng tấy đã hết, da có thể bị ố vàng hoặc sẫm màu.
+![Viêm tắc tĩnh mạch nông](https://dermnetnz.org/assets/Uploads/vascular/thrombophlebitis.jpg)
+![Viêm tắc tĩnh mạch nông](https://dermnetnz.org/assets/Uploads/vascular/thrombophlebitis2.jpg)
+
+---
+
+## Viêm tắc tĩnh mạch nông được chẩn đoán như thế nào?
+
+Các đặc điểm hình ảnh của viêm tắc tĩnh mạch nông không đủ để xác nhận chẩn đoán vì một số bệnh lý khác cũng có triệu chứng tương tự. Việc khai thác tiền sử bệnh và khám sức khỏe toàn diện là điều cần thiết.
+Nếu tình trạng này thường xuyên tái phát hoặc có khả năng xảy ra biến chứng, bác sĩ có thể thực hiện các xét nghiệm khác, chẳng hạn như xét nghiệm máu, siêu âm và chụp X-quang.
+
+---
+
+## Phương pháp điều trị bệnh huyết khối tĩnh mạch nông là gì?
+
+Các trường hợp viêm tắc tĩnh mạch nông nhẹ có thể không cần điều trị. Thông thường, các triệu chứng sẽ hết trong vòng 3–4 tuần. Bạn nên cố gắng duy trì thói quen sinh hoạt bình thường và duy trì vận động.
+Trong những trường hợp nghiêm trọng hơn, có thể áp dụng các phương pháp điều trị sau.
+- Nâng chân lên và chườm ấm. Có thể dùng khăn nóng đắp lên tĩnh mạch hoặc dùng chăn và túi chườm nước nóng. Cẩn thận đừng để bị bỏng.
+- Đai đàn hồi hoặc [vớ nén](https://dermnetnz.org/topics/compression-therapy) có thể giúp giảm sưng trong khi tình trạng viêm thuyên giảm.
+- Thuốc giảm đau — paracetamol, aspirin hoặc thuốc chống viêm không steroid như ibuprofen. Luôn tham khảo ý kiến ​​bác sĩ hoặc dược sĩ trước khi dùng bất kỳ loại thuốc nào.
+- Gel hoặc kem chống viêm như gel ibuprofen có thể hữu ích trong những trường hợp nhẹ.
+- Thuốc heparin trọng lượng phân tử thấp (LMWH), ví dụ như enoxaparin, có thể giúp giảm sưng và đau, đồng thời làm giảm nguy cơ cục máu đông di chuyển lên tĩnh mạch và gây ra DVT.
+- [](https://dermnetnz.org/topics/antibiotics) Cần phải dùng [thuốc kháng sinh nếu bị](https://dermnetnz.org/topics/antibiotics) nhiễm trùng .
+- Chọc hút và dẫn lưu — thủ thuật này giúp giảm nhanh và giải quyết cục máu đông sờ thấy được gây đau dữ dội. Thủ thuật này bao gồm việc chích kim và dẫn lưu cục máu đông sau khi gây tê tại chỗ.
+- Phẫu thuật [cắt bỏ](https://dermnetnz.org/topics/excision-of-skin-lesions) và thắt tĩnh mạch — bệnh nhân bị viêm tắc tĩnh mạch nhiễm trùng cần được cắt bỏ tĩnh mạch khẩn cấp để ngăn chặn sự lây lan của [vi khuẩn](https://dermnetnz.org/topics/bacterial-skin-infections) . Phẫu thuật này được thực hiện bằng cách cắt trực tiếp tĩnh mạch và loại bỏ đoạn bị nhiễm trùng cùng với bất kỳ mô nhiễm trùng hoặc hoại tử xung quanh . Thủ thuật này cũng có thể có lợi cho những bệnh nhân bị viêm tắc tĩnh mạch nông tái phát không đáp ứng với bất kỳ phương pháp điều trị nào khác. [](https://dermnetnz.org/topics/bacterial-skin-infections)
+
+---
+
+## Hậu quả sau viêm tắc tĩnh mạch nông là gì?
+
+Viêm tắc tĩnh mạch nông thường không phải là một tình trạng nghiêm trọng và thường tự khỏi trong vòng 2–6 tuần. Tuy nhiên, tình trạng này có thể tái phát và dai dẳng , gây đau đớn và bất động đáng kể. Ngoài ra, các biến chứng có thể xảy ra nếu các tĩnh mạch bị ảnh hưởng bị nhiễm trùng hoặc cục máu đông di chuyển lên cao hơn, đến nơi các tĩnh mạch nông và tĩnh mạch sâu gặp nhau; dẫn đến một tình trạng nghiêm trọng hơn gọi là huyết khối tĩnh mạch sâu (DVT).

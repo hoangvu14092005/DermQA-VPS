@@ -1,0 +1,107 @@
+# Ung thư hậu môn và ung thư ống hậu môn — thông tin bổ sung
+
+Thể loại:
+
+Tổn thương (ung thư)
+
+SNOMED CT:
+
+363352004, 722713005, 722542000, 276821000, 92531006, 449416001, 92537005, 723265000, 447712006, 723281005, 22543005, 403947009, 447886005, 423607006, 93676009, 236811000119101, 21709000
+
+**[Tổn thương (ung thư)](https://dermnetnz.org/topics/topics?category=Lesions+(cancerous))**
+
+
+# **Ung thư hậu môn và ung thư ống hậu môn**
+
+Tác giả: Giáo sư danh dự Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand, tháng 11 năm 2014.
+
+---
+
+## Ung thư hậu môn là gì?
+
+Ung thư hậu môn là một khối u ác tính hiếm gặp phát triển trong hoặc xung quanh hậu môn. Hầu hết các loại ung thư hậu môn phát triển bên trong niêm mạc ống hậu môn, nằm giữa trực tràng và rìa hậu môn. Các loại ung thư quanh hậu môn khác phát triển trên da bên ngoài rìa hậu môn.
+Hầu hết các loại ung thư hậu môn được phân loại là ung thư biểu mô tế bào vảy (SCC). Có hai loại:
+- SCC sừng hóa hoặc SCC dạng đáy — loại này phát triển bên ngoài ống hậu môn
+- SCC không sừng hóa hoặc SCC tạo lỗ thông — loại này phát triển bên trong ống hậu môn
+Ung thư tuyến hậu môn là một dạng ung thư hậu môn hiếm gặp. Ung thư này phát triển từ các tế bào tuyến ở điểm giao giữa ống hậu môn và trực tràng - vùng chuyển tiếp. Các dạng ung thư hậu môn khác bao gồm [ung thư biểu mô tế bào đáy](https://dermnetnz.org/topics/basal-cell-carcinoma) , u lympho , sarcoma , [u hắc tố niêm mạc](https://dermnetnz.org/topics/mucosal-melanoma) và [bệnh Paget ngoài vú](https://dermnetnz.org/topics/extramammary-paget-disease) .
+
+---
+
+## Ai mắc bệnh ung thư tế bào vảy hậu môn?
+
+Ung thư tế bào vảy hậu môn xảy ra ở cả nam và nữ. Bệnh phổ biến hơn ở nữ giới một chút so với nam giới, nhưng hiếm gặp ở cả hai giới, với tỷ lệ mắc hàng năm là 1/100.000 người. Bệnh thường xảy ra ở người lớn trên 45 tuổi (80% trên 60 tuổi), nhưng hiếm khi được chẩn đoán ở người trẻ tuổi.
+Nguy cơ ung thư hậu môn cao hơn ở những nhóm bệnh nhân sau:
+- Những người mắc bệnh tân sinh biểu mô hậu môn (AIN) — một tổn thương tiền thân
+- Đàn ông và phụ nữ có quan hệ tình dục qua đường hậu môn
+- Nam và nữ nhiễm [virus gây suy giảm miễn dịch ở người (HIV)](https://dermnetnz.org/topics/acute-human-immunodeficiency-virus-infection-syndrome) . Ung thư hậu môn phổ biến hơn ở những bệnh nhân mắc bệnh giai đoạn tiến triển, hội chứng suy giảm miễn dịch mắc phải (AIDS), với tỷ lệ mắc bệnh là 137/100.000.
+- Những người đàn ông đã quan hệ tình dục với đàn ông
+- Bệnh nhân bị suy giảm miễn dịch , ví dụ, người nhận ghép tạng
+- Người sử dụng ma túy tiêm tĩnh mạch
+- Những người có số lượng bạn tình cao trong suốt cuộc đời
+- [Người hút](https://dermnetnz.org/topics/smoking-and-its-effects-on-the-skin) thuốc lá có nguy cơ mắc ung thư hậu môn cao gấp 4 lần so với người không hút thuốc
+- Những người bị tổn thương niêm mạc hậu môn , chẳng hạn như rò hậu môn trong bệnh viêm ruột hoặc chấn thương hậu môn
+- Phụ nữ, và ít gặp hơn là nam giới, mắc [bệnh xơ cứng lichen](https://dermnetnz.org/topics/lichen-sclerosus)
+- Những người có tiền sử mắc [bệnh mụn cóc sinh dục](https://dermnetnz.org/topics/anogenital-warts)
+- Phụ nữ có tiền sử ung thư cổ tử cung , xét nghiệm tế bào cổ tử cung bất thường (CIN), [ung thư âm hộ](https://dermnetnz.org/topics/vulval-cancer) , [ung thư biểu mô âm hộ (VIN)](https://dermnetnz.org/topics/vulval-intraepithelial-neoplasia) hoặc nam giới bị ung thư dương vật hoặc [ung thư biểu mô dương vật (PIN)](https://dermnetnz.org/topics/penile-intraepithelial-neoplasia) .
+Ở những người đã mắc nhiều hơn một loại ung thư do [vi-rút u nhú ở người (HPV)](https://dermnetnz.org/topics/sexually-acquired-human-papillomavirus) [](https://dermnetnz.org/topics/non-sexually-acquired-human-papillomavirus-infection) Nhiễm trùng , ung thư hậu môn có thể xảy ra đồng thời, sau hoặc trước các bệnh ung thư ở các bộ phận sinh dục khác ( cổ tử cung , [âm hộ](https://dermnetnz.org/topics/vulval-cancer) , âm đạo và ở nam giới là dương vật).
+Bệnh nhân ung thư hậu môn (ví dụ như ung thư biểu mô tuyến) không bị nhiễm HPV thường lớn tuổi hơn bệnh nhân dương tính với HPV.
+
+---
+
+## Nguyên nhân nào gây ra ung thư hậu môn?
+
+Hầu hết (90%) ung thư hậu môn là do nhiễm [HPV](https://dermnetnz.org/topics/sexually-acquired-human-papillomavirus) dai dẳng , nguyên nhân gây ra [mụn cóc sinh dục](https://dermnetnz.org/topics/anogenital-warts) . Một số chủng HPV được biết là gây ung thư, đặc biệt là các loại HPV 16 và 18, và hai loại nhiễm trùng này gây ra hơn 90% ung thư hậu môn. Hiếm khi, việc phân nhóm HPV đã phát hiện ra các chủng nguy cơ thấp như HPV 6 hoặc nhiều chủng HPV liên quan đến ung thư hậu môn. Nhiễm HPV là do quan hệ tình dục, nhưng không nhất thiết phải quan hệ tình dục qua đường hậu môn thì HPV mới đến được ống hậu môn. HPV cũng phổ biến được phát hiện ở hậu môn như ở cổ tử cung, mặc dù ung thư hậu môn không phổ biến bằng ung thư cổ tử cung. [](https://dermnetnz.org/topics/sexually-acquired-human-papillomavirus) [](https://dermnetnz.org/topics/anogenital-warts)
+Ở Úc và New Zealand, tỷ lệ ung thư hậu môn đang gia tăng liên quan đến sự gia tăng được ghi nhận về tình trạng nhiễm HPV.
+
+---
+
+## Các triệu chứng và dấu hiệu của ung thư hậu môn là gì?
+
+Ung thư hậu môn có thể biểu hiện bằng:
+- Chảy máu từ hậu môn
+- Một khối u đang phát triển bên trong hoặc bên ngoài hậu môn
+- Ngứa hoặc đau hậu môn
+- Chất nhầy hoặc chất dịch giống như thạch chảy ra từ hậu môn
+- Táo bón, đầy hơi, tiêu chảy hoặc đại tiện không tự chủ (rò rỉ), có thể gây [viêm da liên quan đến chứng tiểu không tự chủ](https://dermnetnz.org/topics/incontinence-associated-dermatitis) .
+Các triệu chứng ban đầu thường được cho là do bệnh trĩ, polyp hoặc u da.
+[Xem hình ảnh ung thư hậu môn](https://dermnetnz-org.translate.goog/topics/anal-cancer-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp) .
+
+---
+
+## Ung thư hậu môn được chẩn đoán như thế nào?
+
+Ung thư hậu môn có thể được nghi ngờ thông qua hình dạng tổn thương, là một nốt sần bất thường trên bề mặt da hoặc trong ống hậu môn và dễ chảy máu khi tiếp xúc. Ung thư hậu môn có thể được phát hiện bằng cách khám hậu môn bằng ngón tay, nội soi hậu môn (sử dụng dụng cụ chuyên dụng để kiểm tra hậu môn), nội soi trực tràng/sigma (kiểm tra trực tràng) hoặc nội soi đại tràng (kiểm tra toàn bộ đại tràng hoặc ruột già).
+Bệnh nhân có nguy cơ cao (ví dụ: người nhiễm HIV hoặc suy giảm miễn dịch sau ghép tạng) có thể được chỉ định làm phết tế bào hậu môn để phát hiện [các tổn thương biểu mô vảy](https://dermnetnz.org/topics/squamous-intraepithelial-lesion) mức độ cao , tương tự như phương pháp sàng lọc ung thư cổ tử cung. Một tăm bông được đưa vào trực tràng dưới và lăn quanh ống hậu môn khi rút ra. Tăm bông được xử lý trong phòng thí nghiệm và kiểm tra để phát hiện các tế bào bất thường. Các mẫu phết nghi ngờ sẽ được nội soi hậu môn độ phân giải cao.
+Sau đó, tiến hành [sinh](https://dermnetnz.org/topics/skin-biopsy) thiết da hoặc niêm mạc để xác nhận chẩn đoán bằng xét nghiệm mô bệnh học. [](https://dermnetnz.org/topics/skin-biopsy)
+Chụp hình ảnh thường được thực hiện trước khi điều trị để xác định mức độ ung thư và liệu nó đã di căn đến các tuyến bạch huyết tại chỗ hay nơi khác trong cơ thể hay chưa. Các xét nghiệm có thể bao gồm:
+- Siêu âm
+- Chụp CT
+- Quét MRI
+- Chụp X-quang ngực
+- Xét nghiệm máu.
+
+---
+
+## Ung thư hậu môn được điều trị như thế nào?
+
+Ung thư hậu môn thường được điều trị bằng sự kết hợp của:
+- Phẫu thuật cắt bỏ các tổn thương nhỏ, bên ngoài
+- Xạ trị
+- Hóa trị.
+Xạ trị và hóa trị không phẫu thuật giúp bảo tồn cơ thắt hậu môn để bệnh nhân có thể tiếp tục đi tiêu bình thường và giảm nguy cơ đại tiện không tự chủ.
+Phẫu thuật cắt bỏ hậu môn trực tràng kèm theo hậu môn nhân tạo thường không cần thiết, nhưng có thể được thực hiện nếu điều trị ban đầu không thành công. Thủ thuật này bao gồm cắt bỏ hậu môn, trực tràng và một phần đại tràng, phẫu thuật đóng trực tràng và chuyển hướng đại tràng để mở ra thành bụng.
+
+---
+
+## Triển vọng sau khi điều trị ung thư hậu môn là gì?
+
+Tỷ lệ chữa khỏi phụ thuộc vào độ dày của khối u và liệu ung thư đã di căn đến các vị trí khác tại thời điểm chẩn đoán hay chưa. Nhìn chung, tỷ lệ sống sót sau 5 năm là 60% ở nam giới và 70% ở nữ giới.
+Điều trị có thể dẫn đến tình trạng đại tiện không tự chủ.
+Theo dõi lâu dài có thể phát hiện sự lan rộng thứ phát của ung thư ( di căn ) đến các tuyến bạch huyết tại chỗ hoặc nơi khác. Những di căn này rất khó điều trị. Có thể cần xạ trị hoặc hóa trị bổ sung.
+
+---
+
+## Có thể phòng ngừa ung thư hậu môn không?
+
+[Tiêm vắc-xin HPV](https://dermnetnz.org/topics/vaccines-against-human-papillomavirus) được kỳ vọng sẽ làm giảm tỷ lệ mắc ung thư hậu môn trong tương lai. Tại Úc, cả bé trai và bé gái đều được tiêm vắc-xin HPV tứ giá (Gardisil™), bảo vệ các em khỏi HPV 16, 18, 6 và 11. Tại New Zealand, vắc-xin 9 giá được cung cấp cho cả bé trai và bé gái đến 26 tuổi. Chương trình tiêm chủng khác nhau tùy theo quốc gia.
+Hầu hết nam giới và phụ nữ có hoạt động tình dục sẽ mắc ít nhất một phân nhóm HPV sinh dục, phần lớn trong vòng 5 năm đầu sau khi bắt đầu hoạt động tình dục. Để đạt hiệu quả tối đa , cần tiêm vắc-xin trước khi bắt đầu hoạt động tình dục. Tỷ lệ nhiễm HPV có thể giảm bằng cách sử dụng bao cao su khi quan hệ tình dục và hạn chế số lượng bạn tình.

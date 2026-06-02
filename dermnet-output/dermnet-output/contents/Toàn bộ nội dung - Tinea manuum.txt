@@ -1,0 +1,95 @@
+# Tinea manuum – thông tin bổ sung
+
+Thể loại:
+
+Nhiễm trùng
+
+SNOMED CT:
+
+48971001, 403050005, 403049005, 27771001
+
+**[Nhiễm trùng](https://dermnetnz.org/topics/topics?category=Infections)**
+
+
+# **Nấm da tay**
+
+Được tạo ra năm 2003.
+
+---
+
+## Bệnh nấm da tay là gì?
+
+Nấm bàn tay là một bệnh nhiễm [nấm da](https://dermnetnz.org/topics/mycology-of-dermatophyte-infections) ở một hoặc cả hai bàn tay. Bệnh này ít phổ biến hơn nhiều so với [nấm bàn chân](https://dermnetnz.org/topics/tinea-pedis) (nấm bàn chân). [](https://dermnetnz.org/topics/tinea-pedis)
+![Nấm da tay](https://dermnetnz.org/assets/Uploads/fungal/tmgyp.jpg)
+![Nấm da tay](https://dermnetnz.org/assets/Uploads/fungal/tmsca.jpg)
+![Nấm da tay](https://dermnetnz.org/assets/Uploads/fungal/tmtm.jpg)
+
+---
+
+## Ai bị bệnh nấm tay?
+
+Nấm da tay là kết quả của:
+- Tiếp xúc với vị trí nhiễm trùng khác, đặc biệt là bàn chân ( [bệnh nấm da chân](https://dermnetnz.org/topics/tinea-pedis) ) hoặc bẹn ( [bệnh nấm da đùi](https://dermnetnz.org/topics/tinea-cruris) )
+- Tiếp xúc với người khác bị bệnh nấm da
+- Tiếp xúc trực tiếp với động vật hoặc đất bị nhiễm bệnh
+- Tiếp xúc với vật bị nhiễm bẩn như khăn tắm hoặc dụng cụ làm vườn.
+Bệnh này thường gặp ở những người làm công việc thủ công, đổ mồ hôi nhiều ( [tăng tiết mồ hôi](https://dermnetnz.org/topics/hyperhidrosis) ) hoặc những người đã bị [viêm da tay](https://dermnetnz.org/topics/hand-dermatitis) .
+
+---
+
+## Nguyên nhân nào gây ra bệnh nấm da tay?
+
+Nấm da ưa động vật và ưa đất:
+- Trichophyton erinacei — từ một con nhím
+- T. verrucosum — từ gia súc
+- Microsporum canis — từ mèo hoặc chó
+- Nannizzia gypsea — từ đất.
+Nấm da ưa người:
+- T. rubrum
+- T. interdigitale
+- Nấm Epidermophyton floccosum.
+
+---
+
+## Các đặc điểm lâm sàng của bệnh lang ben là gì?
+
+Nấm da tay có thể xuất hiện dưới dạng phát ban viêm cấp tính giống như [nấm da thân](https://dermnetnz.org/topics/tinea-corporis) . Thường có viền nổi và khoảng trống ở giữa (bệnh hắc lào). Trường hợp này thường xảy ra khi nguyên nhân là do nấm ưa động vật hoặc ưa đất. [](https://dermnetnz.org/topics/tinea-corporis)
+Thường gặp hơn, nấm bàn tay gây ra một vùng da bong tróc, khô và ngứa nhẹ lan rộng dần ở lòng bàn tay (nấm tăng sừng). Các vết loét trên da có thể tăng lên. Nhìn chung, cả hai bàn chân trông giống nhau ("hội chứng một tay, hai chân"). Nguyên nhân thường gặp là do một loại nấm ưa người (ở người):
+Những loại nấm này cũng có thể gây phát ban phồng rộp ở rìa ngón tay hoặc lòng bàn tay. Các mụn nước xuất hiện thành từng đám và chứa dịch trong suốt dính. Chúng có thể có mép bong tróc. Dạng nấm da tay này gây ngứa và bỏng rát.
+Bệnh lang ben ở bàn tay có thể phân biệt được trên lâm sàng với [bệnh viêm da bàn tay](https://dermnetnz.org/topics/hand-dermatitis) .
+- Trong hầu hết các trường hợp bệnh lang ben ở bàn tay, chỉ có một bàn tay bị ảnh hưởng.
+- Nếu cả hai tay bị ảnh hưởng, tình trạng sẽ không đối xứng.
+- Có thể thấy các vết loang lổ trên da trong bệnh viêm da , nhưng trong bệnh lang ben mãn tính , chúng có màu trắng do có vảy trên bề mặt.
+- Sự tham gia của cả lòng bàn tay và mu bàn tay một cách liền kề.
+- Phát ban có thể có viền nổi cao.
+- Móng tay gần đó cũng có thể bị nhiễm trùng ( [bệnh nấm móng](https://dermnetnz.org/topics/fungal-nail-infections) ). Tuy nhiên, các bệnh ngoài da khác cũng có thể ảnh hưởng đến móng tay.
+
+---
+
+## Bệnh lang ben ở bàn tay có những biến chứng gì?
+
+- Lây lan nhiễm trùng nấm sang các vùng da khác
+- Lây lan bệnh nhiễm nấm sang người khác
+
+---
+
+## Bệnh nấm da manuum được chẩn đoán như thế nào?
+
+Bệnh lang ben ở tay là chẩn đoán lâm sàng được xác nhận bằng kính hiển vi và nuôi cấy mẫu da (xem [Xét nghiệm trong phòng thí nghiệm để tìm nhiễm trùng nấm](https://dermnetnz.org/topics/laboratory-tests-for-fungal-infection) ).
+
+---
+
+## Chẩn đoán phân biệt bệnh nấm da bàn tay là gì?
+
+- Viêm da tay [Viêm da tiếp xúc](https://dermnetnz.org/topics/contact-dermatitis) Viêm da dị ứng ở tay [Viêm da nghề nghiệp](https://dermnetnz.org/topics/occupational-skin-disease)
+- [Viêm da tiếp xúc](https://dermnetnz.org/topics/contact-dermatitis)
+- Viêm da dị ứng ở tay
+- [Viêm da nghề nghiệp](https://dermnetnz.org/topics/occupational-skin-disease)
+- [Bệnh vẩy nến](https://dermnetnz.org/topics/psoriasis-of-the-palms-and-soles) ở tay
+- [Keratolysis exfoliativa](https://dermnetnz.org/topics/keratolysis-exfoliativa)
+
+---
+
+## Điều trị bệnh lang ben tay như thế nào?
+
+Bệnh lang ben nhẹ có thể được điều trị bằng [thuốc chống nấm tại chỗ](https://dermnetnz.org/topics/topical-antifungal-medication) , nhưng nếu điều trị không thành công, có thể cân nhắc dùng [thuốc chống nấm đường uống , bao gồm](https://dermnetnz.org/topics/oral-antifungal-medication) [terbinafine](https://dermnetnz.org/topics/terbinafine) và [itraconazole](https://dermnetnz.org/topics/itraconazole) .

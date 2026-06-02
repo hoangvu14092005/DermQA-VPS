@@ -1,0 +1,130 @@
+# Tĩnh mạch giãn — thông tin bổ sung
+
+Thể loại:
+
+Các vấn đề về mạch máu
+
+SNOMED CT:
+
+128060009, 72866009, 275700003, 195448005, 195447000, 308133005, 717285003, 304026004, 366362000, 35498005, 410016009, 762536003
+
+**[Các vấn đề về mạch máu](https://dermnetnz.org/topics/topics?category=Blood+vessel+problems)**
+
+
+# **Tĩnh mạch giãn**
+
+Tác giả: Bác sĩ Ramez Barsoum, Bác sĩ Nội trú, Bệnh viện Princess Alexandra, Brisbane, QLD, Úc. Tổng biên tập DermNet: Phó Giáo sư, Bác sĩ Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand. Biên tập bởi Gus Mitchell/Maria McGivern. Tháng 4 năm 2019.
+
+---
+
+## Tĩnh mạch giãn là gì?
+
+Tĩnh mạch giãn là tĩnh mạch bị ứ đọng, ngoằn ngoèo, có màu xanh lá cây, xanh lam hoặc tím, thường xuất hiện ở cẳng chân và bàn chân.
+Tĩnh mạch giãn còn được gọi là giãn tĩnh mạch hoặc giãn tĩnh mạch.
+![Tĩnh mạch giãn](https://dermnetnz.org/assets/Uploads/varicose-veins-01.jpg)
+![Tĩnh mạch giãn](https://dermnetnz.org/assets/Uploads/varicose-veins-02.jpg)
+![Tĩnh mạch giãn](https://dermnetnz.org/assets/Uploads/varicose-veins-03.jpg)
+
+---
+
+## Ai bị giãn tĩnh mạch?
+
+Khoảng một phần ba nam giới và phụ nữ trong độ tuổi từ 18 đến 64 bị giãn tĩnh mạch [1]. Bệnh này phổ biến hơn ở phụ nữ và những người có tiền sử gia đình mắc bệnh tĩnh mạch .
+
+---
+
+## Nguyên nhân nào gây ra bệnh giãn tĩnh mạch?
+
+Ở tĩnh mạch chân bình thường, các van một chiều dẫn dòng máu tĩnh mạch từ các tiểu tĩnh mạch nông đến các tĩnh mạch nông lớn hơn, sau đó đến các tĩnh mạch sâu và cuối cùng đến tim. Sự co cơ tạo ra một lực bơm để hỗ trợ dòng máu về tim (được gọi là hồi lưu tĩnh mạch). Ở chân, giãn tĩnh mạch là biểu hiện của [suy tĩnh mạch](https://dermnetnz.org/topics/venous-insufficiency) .
+
+### Các yếu tố nguy cơ gây giãn tĩnh mạch
+Các yếu tố nguy cơ gây giãn tĩnh mạch bao gồm:
+- Béo phì — béo phì làm tăng trào ngược tĩnh mạch và áp lực tĩnh mạch do áp lực trong ổ bụng tăng cao [2]
+- Tuổi tác — giãn tĩnh mạch ngày càng phổ biến theo tuổi tác [3]
+- [Mang thai](https://dermnetnz.org/topics/skin-changes-in-pregnancy) — tử cung to ra gây tăng áp lực trong ổ bụng và áp lực trực tiếp lên các tĩnh mạch chậu; những thay đổi về nội tiết tố cũng khiến các van và mạch máu trở nên mềm dẻo hơn trong thời kỳ mang thai [4]
+- Đứng lâu — áp lực kéo dài theo thời gian có thể gây giãn tĩnh mạch và suy van [3]
+- Tiền sử gia đình — suy van tim nguyên phát là do di truyền và chứng giãn tĩnh mạch có thể ảnh hưởng đến cả hai trẻ sinh đôi giống hệt nhau trong 75% trường hợp [5].
+
+---
+
+## Các đặc điểm lâm sàng của bệnh giãn tĩnh mạch là gì?
+
+Bệnh nhân bị giãn tĩnh mạch đến khám vì chúng trông mất thẩm mỹ và gây cảm giác khó chịu, nặng nề, ngứa ngáy hoặc đau âm ỉ. Bệnh nhân cũng có thể gặp các biến chứng như [chảy máu](https://dermnetnz.org/topics/bleeding-and-bruising) , [loét](https://dermnetnz.org/topics/stasis-ulcer) và [viêm tắc tĩnh mạch](https://dermnetnz.org/topics/superficial-thrombophlebitis) .
+
+---
+
+## Biến chứng của bệnh giãn tĩnh mạch là gì?
+
+
+### Chảy máu
+Các tĩnh mạch nông dễ bị chấn thương và có thể chảy máu, có khả năng đe dọa đến tính mạng [6,7].
+
+### Loét
+Áp lực tăng lên trong tĩnh mạch giãn khiến các protein , hormone và các phân tử gây viêm lưu thông rò rỉ ra khỏi tĩnh mạch và vào không gian ngoài mạch, dẫn đến tình trạng viêm tại chỗ và hình thành [loét chân tĩnh mạch](https://dermnetnz.org/topics/stasis-ulcer) mãn tính . [](https://dermnetnz.org/topics/stasis-ulcer)
+
+### Viêm tắc tĩnh mạch
+Viêm tĩnh mạch là tình trạng viêm tĩnh mạch kèm theo ban đỏ và cứng lại gây đau. Tình trạng này thường liên quan đến cục máu đông ( huyết khối ) phát sinh do tuần hoàn máu kém và các yếu tố làm tăng đông máu. Viêm tĩnh mạch có thể là nông (tức là [viêm tắc tĩnh mạch nông](https://dermnetnz.org/topics/superficial-thrombophlebitis) ) hoặc sâu (tức là huyết khối tĩnh mạch sâu) [6].
+
+### Viêm da ứ trệ tĩnh mạch
+[Viêm da ứ trệ tĩnh mạch](https://dermnetnz.org/topics/venous-eczema) có liên quan đến tăng áp lực tĩnh mạch và các phân tử gây viêm . Bệnh nhân có biểu hiện đổi màu nâu, ngứa và [chàm hình đĩa](https://dermnetnz.org/topics/discoid-eczema) hoặc hình tròn , cấp tính hoặc mãn tính ở phần xa của chi dưới [7].
+
+### Xơ vữa động mạch
+[Xơ hóa mỡ da](https://dermnetnz.org/topics/lipodermatosclerosis) là một dạng viêm [mô mỡ](https://dermnetnz.org/topics/panniculitis) dày lên do sự hiện diện của các phân tử tiền viêm, lưu thông máu kém và tăng huyết áp. Phần cẳng chân bị đỏ trong xơ hóa mỡ da cấp tính và cứng lại trong xơ hóa mỡ da mãn tính.
+![Sự lắng đọng Haemosiderin](https://dermnetnz.org/assets/Uploads/varicose-veins-04.jpg)
+![Chàm giãn tĩnh mạch](https://dermnetnz.org/assets/Uploads/varicose-veins-05.jpg)
+![Chàm ứ trệ](https://dermnetnz.org/assets/Uploads/varicose-veins-06.jpg)
+
+---
+
+## Làm thế nào để chẩn đoán bệnh giãn tĩnh mạch?
+
+Suy tĩnh mạch được chẩn đoán lâm sàng. Khám lâm sàng nên bao gồm toàn bộ hệ thống tĩnh mạch và thường được thực hiện khi bệnh nhân nằm và đứng.
+Viện Quốc gia về Sức khỏe và Chăm sóc Sức khỏe Xuất sắc (NICE) của Vương quốc Anh sử dụng phân loại bệnh giãn tĩnh mạch theo Lâm sàng-Nguyên nhân- Giải phẫu -Bệnh lý (CEAP).
+
+### Phân loại CEAP
+Các loại phân loại CEAP như sau:
+- C0 — Không có dấu hiệu rõ ràng hoặc sờ thấy của bệnh tĩnh mạch
+- C1 — [Giãn mạch](https://dermnetnz.org/topics/telangiectasia) hoặc tĩnh mạch lưới
+- C2 — Tĩnh mạch giãn; đường kính > 3 mm
+- C3 — Phù nề
+- C4 — Những thay đổi ở da và mô dưới da , bao gồm [sắc tố](https://dermnetnz.org/topics/pigmentation-disorders) , [bệnh chàm](https://dermnetnz.org/topics/dermatitis) , [xơ cứng da mỡ](https://dermnetnz.org/topics/lipodermatosclerosis) hoặc [teo da](https://dermnetnz.org/topics/atrophie-blanche)
+- C5 — [Loét tĩnh mạch đã lành](https://dermnetnz.org/topics/stasis-ulcer)
+- C6 — Loét tĩnh mạch đang hoạt động [8].
+Đánh giá siêu âm Doppler Duplex nên được thực hiện để xác định mức độ bệnh và mức độ trào ngược thân (suy một trong ba tĩnh mạch thân chính) và để lập kế hoạch điều trị [8].
+
+---
+
+## Chẩn đoán phân biệt bệnh giãn tĩnh mạch là gì?
+
+Tĩnh mạch giãn lớn hơn [tĩnh mạch giãn](https://dermnetnz.org/topics/telangiectasia) (tĩnh mạch nhỏ màu đỏ, đường kính < 1 mm) và tĩnh mạch giãn (mạch lưới màu xanh, đường kính 1–3 mm). Những tĩnh mạch này không được phát hiện trên siêu âm doppler.
+
+---
+
+## Phương pháp điều trị bệnh giãn tĩnh mạch là gì?
+
+Nên khuyến khích bệnh nhân bị giãn tĩnh mạch giảm cân (nếu thừa cân) và vận động thể chất vừa phải để giảm nguy cơ biến chứng. Nên sử dụng [vớ y khoa](https://dermnetnz.org/topics/compression-therapy) để giảm khó chịu và sưng tấy, đặc biệt là khi đi lại.
+Điều trị giãn tĩnh mạch có thể được thực hiện tại dịch vụ mạch máu . Các lựa chọn điều trị được liệt kê dưới đây.
+
+### Phá hủy nhiệt nội tĩnh mạch
+Phá hủy nhiệt nội tĩnh mạch , sử dụng thiết bị laser hoặc tần số vô tuyến, gây ra tổn thương nhiệt không hồi phục ở thành tĩnh mạch, dẫn đến sẹo và hấp thụ mô trong nhiều tháng. Tỷ lệ thành công của cả hai phương pháp phá hủy là 95% [9,10].
+
+### Tiêm xơ
+[Liệu pháp xơ hóa](https://dermnetnz.org/topics/sclerotherapy) bao gồm việc tiêm dung dịch xơ hóa vào tĩnh mạch dưới sự hướng dẫn của siêu âm để gây viêm mạch máu và cuối cùng làm xẹp mạng lưới giãn tĩnh mạch. Các tĩnh mạch bề mặt nhỏ hơn có thể được tiêm bằng liệu pháp xơ hóa vi điểm, sử dụng kim tiêm nhỏ hơn với lượng chất xơ hóa ít hơn [11].
+
+### Phá hủy dính nội tĩnh mạch
+Kỹ thuật cắt bỏ dính nội tĩnh mạch, hay còn gọi là "keo tĩnh mạch", bao gồm việc tiêm keo cyanoacrylate dùng trong y tế qua ống thông. Hiện chưa có dữ liệu về tính an toàn và hiệu quả lâu dài của thủ thuật này [12].
+
+### Phá hủy cơ hóa học nội tĩnh mạch (ClariVein ® )
+ClariVein là một ống thông tắc nghẽn xoay tròn , có tác dụng cơ học làm rung động lớp lót tĩnh mạch đồng thời phun chất làm xơ hóa dạng lỏng. Nó có thể gây tổn thương nội mô nhưng chưa có dữ liệu dài hạn về việc sử dụng [13].
+
+### Ca phẫu thuật
+Các phẫu thuật như thắt cao (buộc tĩnh mạch), tước tĩnh mạch và cắt bỏ (xé tĩnh mạch bằng phẫu thuật) ít được sử dụng để điều trị giãn tĩnh mạch hơn so với trước đây do tỷ lệ mắc bệnh sau phẫu thuật , tỷ lệ tái phát và rủi ro liên quan đến gây mê và nhập viện [10].
+
+### Tia laser
+Giãn mạch máu và giãn tĩnh mạch có thể được điều trị bằng tia laser mạch máu bước sóng dài , nhưng loại tia laser này không phù hợp với các tĩnh mạch giãn lớn hơn [14].
+
+---
+
+## Kết quả của việc điều trị giãn tĩnh mạch là gì?
+
+Bất kể lựa chọn điều trị nào được sử dụng, bệnh giãn tĩnh mạch có thể tái phát và thường có thể được điều trị lại. [14].

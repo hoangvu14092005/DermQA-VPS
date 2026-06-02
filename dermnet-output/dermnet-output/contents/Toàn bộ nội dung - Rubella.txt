@@ -1,0 +1,104 @@
+# Bệnh sởi Đức — thông tin bổ sung
+
+Thể loại:
+
+Nhiễm trùng, phát ban
+
+SNOMED CT:
+
+36653000, 5210005, 1857005, 49882001, 5862001
+
+**[Nhiễm trùng, phát ban](https://dermnetnz.org/topics/topics?category=Infections)**
+
+
+# **Bệnh sởi Đức**
+
+Tác giả: Giáo sư danh dự Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand, 2002. Cập nhật bởi Tiến sĩ Jannet Gomez, tháng 8 năm 2016.
+
+---
+
+## Bệnh rubella là gì?
+
+Rubella là một bệnh do virus gây ra, đặc trưng bởi phát ban , sưng hạch và sốt. Bệnh thường nhẹ và không đáng kể, trừ khi bạn đang mang thai. Nhiễm trùng ở phụ nữ mang thai ( hội chứng rubella bẩm sinh ) thường dẫn đến sảy thai, thai chết lưu hoặc sinh ra trẻ sơ sinh bị dị tật bẩm sinh nghiêm trọng.
+Bệnh rubella còn được gọi là bệnh sởi Đức hoặc bệnh sởi ba ngày.
+
+---
+
+## Nguyên nhân gây ra bệnh rubella là gì?
+
+Bệnh rubella do virus rubella thuộc chi Rubivirus gây ra.
+
+---
+
+## Bệnh rubella phổ biến như thế nào?
+
+Rubella hiện nay hiếm gặp ở những quốc gia có chương trình tiêm chủng thường xuyên. Ở những quốc gia không có chương trình tiêm chủng, rubella vẫn là một bệnh nhẹ ở trẻ em, thậm chí có thể không được phát hiện. Gánh nặng lớn nhất là hội chứng rubella bẩm sinh và những ảnh hưởng tàn phá của nó đối với thai nhi.
+
+---
+
+## Bệnh rubella lây lan như thế nào?
+
+Rubella lây lan từ người sang người thông qua tiếp xúc trực tiếp với dịch tiết mũi hoặc họng của người nhiễm bệnh. Người nhiễm bệnh có thể lây nhiễm từ 7 ngày trước khi phát ban cho đến 7 ngày sau đó. Bệnh nhân dễ lây nhiễm nhất khi phát ban đang bùng phát. Trẻ em và người lớn mắc rubella nên tránh đến nhà trẻ, trường học, nơi làm việc hoặc các nơi công cộng khác trong thời gian lây nhiễm. Nhiễm rubella cấp tính hầu như luôn mang lại miễn dịch suốt đời.
+
+---
+
+## Dấu hiệu và triệu chứng của bệnh rubella là gì?
+
+Trong 25-50% trường hợp mắc rubella, bệnh thường nhẹ đến mức có thể không có hoặc có rất ít dấu hiệu hoặc triệu chứng. Trong các trường hợp điển hình, thời gian ủ bệnh là từ 12-23 ngày, hầu hết mọi người đều xuất hiện triệu chứng trong vòng 16-18 ngày sau khi tiếp xúc. Các triệu chứng phổ biến bao gồm:
+- Sốt nhẹ, đau họng, sổ mũi và khó chịu (có thể xảy ra trước khi phát ban, thường gặp ở người lớn hơn trẻ em).
+- Hạch sưng hoặc đau gần như luôn đi kèm với bệnh rubella, thường gặp nhất là ở sau tai ( hạch sau tai ) và sau cổ ( hạch chẩm và hạch cổ sau ). Bệnh lý hạch bạch huyết có thể xảy ra ở những bệnh nhân mắc bệnh rubella không phát ban.
+- Tổn thương niêm mạc gây ra dấu hiệu Forchheimer , trong đó các chấm xuất huyết nhỏ hoặc lớn xuất hiện trên vòm miệng mềm và lưỡi gà trong giai đoạn tiền triệu của bệnh rubella.
+- Phát ban bắt đầu ở mặt rồi lan xuống cổ, thân và tứ chi. Xuất hiện dưới dạng các đốm màu hồng hoặc đỏ nhạt có kích thước khoảng 2–3 mm. Có thể kéo dài đến 5 ngày (trung bình là 3 ngày). Có thể ngứa hoặc không. Khi phát ban qua đi, vùng da bị ảnh hưởng có thể bong ra thành từng mảng. Thông thường không lan rộng như bệnh sởi.
+- Xuất hiện dưới dạng các đốm màu hồng hoặc đỏ nhạt có kích thước khoảng 2–3 mm.
+- Có thể kéo dài đến 5 ngày (trung bình là 3 ngày).
+- Có thể ngứa hoặc không.
+- Khi phát ban qua đi, vùng da bị ảnh hưởng có thể bong ra thành từng mảng.
+- Thông thường không lan rộng như bệnh sởi.
+Các triệu chứng khác bao gồm đau và sưng khớp ( đau khớp và viêm khớp ). Tình trạng này phổ biến hơn ở người lớn, đặc biệt là phụ nữ, và có thể kéo dài hơn 2 tuần. Viêm khớp có thể trở thành mãn tính và kéo dài trong nhiều tháng hoặc nhiều năm.
+![Phát ban rubella](https://dermnetnz.org/assets/Uploads/viral/rubella3.jpg)
+![Phát ban rubella](https://dermnetnz.org/assets/Uploads/viral/rubella2.jpg)
+![Phát ban rubella](https://dermnetnz.org/assets/Uploads/viral/rubella1.jpg)
+
+---
+
+## Bệnh rubella được chẩn đoán như thế nào?
+
+Vì bệnh rubella thường nhẹ và tự khỏi nên việc chẩn đoán ở trẻ em khỏe mạnh dựa trên tiền sử bệnh và khám sức khỏe đặc trưng.
+Chẩn đoán rubella ở người lớn, đặc biệt là phụ nữ trong độ tuổi sinh đẻ, cần được xác nhận bằng xét nghiệm trong phòng thí nghiệm, vì xét nghiệm chỉ dựa trên biểu hiện lâm sàng là không đáng tin cậy. Xét nghiệm phổ biến nhất là huyết thanh IgG và IgM . Virus rubella có thể được phân lập từ dịch phết họng, máu, nước tiểu và dịch não tủy bằng xét nghiệm phản ứng chuỗi polymerase ( PCR ) và phân loại phân tử .
+Các xét nghiệm khác bao gồm CBC để phát hiện tình trạng giảm tiểu cầu và giảm bạch cầu , và LFT để phát hiện viêm gan siêu vi.
+
+---
+
+## Phương pháp điều trị bệnh rubella là gì?
+
+Không có phương pháp điều trị đặc hiệu cho bệnh rubella. Bệnh thường nhẹ và tự khỏi. Thông thường, chỉ cần nghỉ ngơi, uống đủ nước và có thể dùng paracetamol để hạ sốt, giảm khó chịu hoặc đau khớp.
+
+---
+
+## Bệnh rubella có những biến chứng gì?
+
+Biến chứng của bệnh rubella rất hiếm gặp ở trẻ sơ sinh và người lớn khỏe mạnh. Các biến chứng có thể bao gồm:
+- Đau khớp hoặc viêm khớp ở người lớn
+- Ban xuất huyết giảm tiểu cầu
+- Viêm tai giữa
+- Viêm não.
+
+### Bệnh rubella bẩm sinh
+Rubella là một phần của [phức hợp TORCH](https://dermnetnz.org/topics/torch-infections) . Nhiễm trùng trong ba tháng đầu thai kỳ có nguy cơ 50% trẻ sơ sinh bị ảnh hưởng theo một cách nào đó, bao gồm sảy thai, thai chết lưu/thai chết lưu và hội chứng rubella bẩm sinh. Các đặc điểm của hội chứng rubella bẩm sinh bao gồm:
+- Mất thính lực thần kinh cảm giác
+- Bất thường về mắt ( đục thủy tinh thể , tăng nhãn áp , thay đổi sắc tố )
+- Bệnh tim bẩm sinh (ống động mạch còn hở).
+- khuyết tật trí tuệ
+- Viêm màng não
+- Vàng da (viêm gan)
+- Bệnh tiểu đường
+- Rối loạn chức năng tuyến giáp.
+Bệnh rubella bẩm sinh là một trong những nguyên nhân gây ra [hội chứng bánh nướng xốp việt quất](https://dermnetnz.org/topics/blueberry-muffin-syndrome) , biểu hiện bằng nhiều nốt sần , sẩn và cục u màu xanh hoặc tím.
+
+---
+
+## Cách phòng ngừa bệnh rubella hoặc hội chứng rubella bẩm sinh
+
+Bệnh rubella và hội chứng rubella bẩm sinh có thể được phòng ngừa bằng cách tiêm vắc-xin rubella sống. Vắc-xin phối hợp [sởi](https://dermnetnz.org/topics/measles) , quai bị và rubella (MMR) hiện đang được đưa vào chương trình tiêm chủng thường quy ở hầu hết các nước công nghiệp phát triển, bao gồm cả New Zealand.
+Vắc-xin rubella tạo ra miễn dịch lâu dài (có thể là suốt đời) ở hầu hết mọi người. Lịch tiêm chủng khuyến nghị tiêm hai liều, liều đầu tiên lúc 12-15 tháng tuổi, liều thứ hai lúc 4-6 tuổi.
+Phụ nữ trong độ tuổi sinh đẻ nên xét nghiệm máu để xác định tình trạng miễn dịch trước khi thụ thai. Nếu chưa có kháng thể với virus rubella, nên tiêm vắc-xin phòng rubella, sau đó nên chờ ít nhất 3 tháng trước khi thụ thai.

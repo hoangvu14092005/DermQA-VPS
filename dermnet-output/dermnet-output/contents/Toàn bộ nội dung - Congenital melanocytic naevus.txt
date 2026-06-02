@@ -1,0 +1,223 @@
+# Bớt sắc tố bẩm sinh — thông tin bổ sung
+
+Thể loại:
+
+Tổn thương (lành tính)
+
+SNOMED CT:
+
+398696001, 398943008, 75931002, 10291008, 128881008
+
+**[Tổn thương (lành tính)](https://dermnetnz.org/topics/topics?category=Lesions+(benign))**
+
+
+# **Bớt sắc tố bẩm sinh**
+
+Tác giả: Tiến sĩ Amanda Oakley,Bác sĩ da liễu, Hamilton, New Zealand,2001. Cập nhật bởi Giri Raj, Bác sĩ da liễu, New Plymouth; Tiến sĩ Amanda Oakley, tháng 6 năm 2014;với bản cập nhật nhỏ vào tháng 9 năm 2024.
+
+---
+
+## Bớt sắc tố bẩm sinh là gì?
+
+Nốt ruồi hắc tố bẩm sinh (tiếng Mỹ: nevus ) là sự tăng sinh của các tế bào hắc tố lành tính , xuất hiện khi sinh hoặc phát triển ngay sau khi sinh. Dạng nốt ruồi bẩm sinh này còn được gọi là vết bớt nâu.
+Các nốt ruồi tương tự hoặc [nốt ruồi](https://dermnetnz.org/topics/melanocytic-naevus) không có khi sinh ra thường được gọi là nốt ruồi 'giống nốt ruồi hắc tố bẩm sinh', nốt ruồi 'bẩm sinh' hoặc nốt ruồi 'muộn'.
+[Naevi](https://dermnetnz.org/topics/congenital-naevi) cũng có thể hình thành từ các tế bào da khác (ví dụ, naevi mạch máu , hình thành từ các mạch máu ). Một số trong số này cũng là bẩm sinh (có từ khi sinh ra) và được mô tả trên các trang khác của DermNet.
+
+---
+
+## Phân loại nốt ruồi hắc tố bẩm sinh
+
+Nốt ruồi hắc tố bẩm sinh thường được phân loại theo kích thước ở người trưởng thành. Có một số phân loại khác nhau.
+- Nốt ruồi hắc tố bẩm sinh nhỏ có đường kính < 1,5 cm.
+- Nốt ruồi hắc tố bẩm sinh trung bình có kích thước từ 1,5–19,9 cm.
+- Nốt ruồi hắc tố bẩm sinh lớn hoặc khổng lồ có đường kính ≥ 20 cm.
+Một số trung tâm sử dụng những sửa đổi của các tiêu chí trên nhằm tăng độ chính xác của việc phân loại.
+- Nốt ruồi hắc tố bẩm sinh nhỏ có đường kính < 1,5 cm.
+- Nốt ruồi bẩm sinh trung bình có kích thước từ 1,5–10 cm.
+- Nốt ruồi bẩm sinh lớn có kích thước từ 11–20 cm.
+- Nốt ruồi bẩm sinh khổng lồ có đường kính >20cm và được chia nhỏ thành: G1 (21–30 cm) G2 (31–40 cm) G3 (> 40 cm).
+- G1 (21–30 cm)
+- G2 (31–40 cm)
+- G3 (> 40 cm).
+
+### Phân loại nốt ruồi hắc tố bẩm sinh năm 2013
+Năm 2013, một phân loại mới về nốt ruồi hắc tố bẩm sinh sử dụng kích thước dự đoán khi trưởng thành đã được đề xuất:
+- Nhỏ (< 1,5 cm)
+- Trung bình (M1: 1,5–10 cm, M2: > 10–20 cm)
+- Lớn (L1: > 20–30 cm, L2: > 30–40 cm)
+- Khổng lồ (G1: > 40–60 cm, G2: > 60 cm)
+- Điểm vệ tinh: không có, 1–20, > 20–50 và > 50 vệ tinh.
+Nốt ruồi hắc tố bẩm sinh phải được mô tả theo vị trí trên cơ thể, màu sắc, đặc điểm bề mặt và có [chứng rậm lông](https://dermnetnz.org/topics/hypertrichosis) hay không .
+
+### Tiến triển theo thời gian
+Nốt ruồi hắc tố bẩm sinh thường phát triển theo tỷ lệ thuận với trẻ. Để tham khảo, kích thước nốt ruồi bẩm sinh ở người trưởng thành có thể được tính như sau:
+- Chi dưới: kích thước khi trưởng thành gấp 3,3 lần kích thước khi mới sinh
+- Chi trên/thân: kích thước khi trưởng thành gấp 2,8 lần kích thước khi mới sinh
+- Đầu: kích thước khi trưởng thành gấp 1,7 lần kích thước khi mới sinh.
+
+### Tên mô tả của một số nốt ruồi bẩm sinh
+Một số nốt ruồi bẩm sinh được đặt tên mô tả cụ thể. Một số được liệt kê ở đây.
+[Nốt ruồi có đốm](https://dermnetnz.org/topics/cafe-au-lait-macule)
+- Còn gọi là nốt ruồi spilus
+- Những đốm đen trên nền rám nắng phẳng
+- Số lượng điểm có thể tăng hoặc giảm theo thời gian
+Tổn thương vệ tinh
+- Tìm thấy ở ngoại vi của nốt ruồi bẩm sinh trung tâm hoặc ở nơi khác trên cơ thể
+- Các nốt ruồi melanocytic nhỏ hơn có hình dạng tương tự như
+- Có mặt ở > 70% bệnh nhân có nốt ruồi hắc tố bẩm sinh lớn
+Nốt ruồi muộn
+- Nốt ruồi hắc tố xuất hiện sau khi sinh
+- Tăng trưởng chậm hơn và tổng hợp ít melanin hơn so với nốt ruồi bẩm sinh
+- Bệnh lý mô học tương tự như nốt ruồi hắc tố bẩm sinh thực sự
+Nốt ruồi trên quần áo
+- Tên gọi này liên quan đến vị trí giải phẫu của nốt ruồi
+- Nốt ruồi tắm liên quan đến các vùng trung tâm thường được che phủ bởi đồ tắm, ví dụ như mông
+- Nốt ruồi ở tay áo ảnh hưởng đến toàn bộ cánh tay và vai gần
+[Hạch quầng](https://dermnetnz.org/topics/halo-naevus)
+- Ảnh hưởng đến một số nốt ruồi hắc tố bẩm sinh và muộn
+- Da xung quanh trở nên sáng hơn hoặc trắng hơn
+- Tổn thương ở trung tâm cũng có thể trở nên nhẹ hơn và nhỏ hơn và có thể biến mất
+- Do sự phá hủy miễn dịch của tế bào hắc tố
+![Nốt ruồi bẩm sinh](https://dermnetnz.org/assets/Uploads/hair-nails-sweat/naevoid-ht2.jpg)
+![Nốt ruồi bẩm sinh](https://dermnetnz.org/assets/Uploads/lesions/cong-naevus1.jpg)
+![Nốt ruồi bẩm sinh](https://dermnetnz.org/assets/Uploads/lesions/s/cong-naevus6.jpg)
+![Nốt ruồi bẩm sinh](https://dermnetnz.org/assets/Uploads/lesions/cong-naevus2.jpg)
+![Nốt ruồi bẩm sinh](https://dermnetnz.org/assets/Uploads/lesions/calm.jpg)
+![Nốt ruồi bẩm sinh](https://dermnetnz.org/assets/Uploads/lesions/speckled.jpg)
+
+---
+
+## Nốt ruồi hắc tố bẩm sinh phổ biến như thế nào?
+
+- Nốt ruồi bẩm sinh nhỏ xảy ra ở 1/100 ca sinh
+- Nốt ruồi bẩm sinh trung bình xảy ra ở 1/1000 ca sinh
+- Nốt ruồi hắc tố bẩm sinh khổng lồ hiếm gặp hơn nhiều (1 trên 20.000 trẻ sinh sống)
+Bệnh này xảy ra ở mọi chủng tộc và dân tộc, nam giới và nữ giới đều có nguy cơ như nhau.
+
+---
+
+## Nốt ruồi hắc tố bẩm sinh trông như thế nào?
+
+Nốt ruồi hắc tố bẩm sinh biểu hiện dưới dạng các mảng sắc tố đơn sắc hoặc đa sắc, hình tròn hoặc hình bầu dục . Chúng có thể có lông mọc nhiều ( chứng rậm lông ). Bề mặt có thể hơi sần sùi hoặc gồ ghề.
+Nốt ruồi bẩm sinh thường to dần theo sự phát triển của trẻ, nhưng đôi khi chúng có thể nhỏ lại và mờ dần theo thời gian. Một số ít trường hợp thậm chí có thể biến mất. Tuy nhiên, chúng cũng có thể sẫm màu hơn, nổi lên, sần sùi và có lông, đặc biệt là vào giai đoạn dậy thì .
+
+---
+
+## Nốt ruồi hắc tố bẩm sinh có gây ra triệu chứng nào không?
+
+Nốt ruồi hắc tố bẩm sinh thường không có triệu chứng , tuy nhiên, một số có thể gây ngứa, đặc biệt là các tổn thương lớn. Người ta cho rằng có thể do suy giảm chức năng của tuyến bã nhờn (dầu) và tuyến mồ hôi ( eccrine ) , dẫn đến khô da và tăng cảm giác ngứa.
+Lớp da bên trên có thể trở nên mỏng manh, dễ bị bào mòn hoặc loét. Các ổ tế bào hắc tố nằm sâu trong lớp hạ bì có thể làm suy yếu liên kết giữa lớp biểu bì và lớp hạ bì, gây ra tình trạng da mỏng manh .
+Nốt ruồi hắc tố bẩm sinh thường kém thẩm mỹ, đặc biệt là khi lan rộng, tức là nốt ruồi hắc tố bẩm sinh lớn hoặc khổng lồ. Do đó, chúng có thể gây lo lắng và làm giảm hình ảnh bản thân, đặc biệt là khi tổn thương nằm ở những vùng dễ thấy.
+Nốt ruồi khổng lồ và ở mức độ thấp hơn là các tổn thương nhỏ có liên quan đến nguy cơ phát triển bệnh u hắc tố da , u hắc tố thần kinh da và hiếm khi là các khối u khác (xem bên dưới).
+
+---
+
+## Nguyên nhân nào gây ra bệnh nốt ruồi hắc tố bẩm sinh?
+
+Nốt ruồi hắc tố bẩm sinh là do bất thường di truyền khu trú dẫn đến sự tăng sinh của tế bào hắc tố; đây là những tế bào da chịu trách nhiệm cho màu da bình thường. Sự tăng sinh bất thường này được cho là xảy ra trong khoảng từ tuần thứ 5 đến tuần thứ 24 của thai kỳ. Nếu sự tăng sinh bắt đầu sớm trong quá trình phát triển , các nốt ruồi hắc tố bẩm sinh kích thước lớn và trung bình sẽ được hình thành. Các nốt ruồi hắc tố bẩm sinh nhỏ hơn được hình thành sau đó trong quá trình phát triển, sau khi các nguyên bào hắc tố (tế bào hắc tố chưa trưởng thành) di chuyển từ mào thần kinh đến da.
+Trong một số trường hợp, còn có sự phát triển quá mức của các tế bào tạo lông và lớp biểu bì, tạo thành [nốt ruồi dạng cơ quan](https://dermnetnz.org/topics/sebaceous-naevus) .
+Nốt ruồi bẩm sinh xuất hiện rất sớm trước khi mí mắt trên và dưới tách ra sẽ dẫn đến nốt ruồi hôn, tức là một phần của nốt ruồi nằm ở mí mắt trên và phần còn lại nằm ở mí mắt dưới.
+![Nốt ruồi hôn](https://dermnetnz.org/assets/Uploads/kissing-naevus-1.jpg)
+![Nốt ruồi hôn](https://dermnetnz.org/assets/Uploads/kissing-naevus-2.jpg)
+
+### Những thay đổi về phân tử
+Các proto- oncogene c-met và c-kit có vai trò quan trọng trong sự phát triển của tế bào hắc tố. Yếu tố tăng trưởng tế bào gan , một cytokine ( protein thông tin ) điều hòa sự tăng sinh và di chuyển của tế bào hắc tố, cũng có thể đóng vai trò quan trọng trong sự phát triển của nốt ruồi hắc tố bẩm sinh.
+
+### Bệnh hắc tố da thần kinh
+[Bệnh hắc tố da thần kinh](https://dermnetnz.org/topics/neurocutaneous-melanosis) là một hội chứng hiếm gặp , đặc trưng bởi sự tăng sinh tế bào hắc tố trong hệ thần kinh trung ương (não và tủy sống ) và sự xuất hiện của nốt ruồi hắc tố bẩm sinh. Phần lớn các trường hợp đều liên quan đến nốt ruồi hắc tố bẩm sinh khổng lồ và các tổn thương vệ tinh.
+Nguy cơ mắc NCM ước tính ở những người có nốt ruồi hắc tố bẩm sinh (CMN) lớn và khổng lồ là 10–33%. Tuy nhiên, nhiều khả năng phần lớn các trường hợp không có triệu chứng, và tỷ lệ mắc bệnh thực sự vẫn chưa được biết rõ. Các tế bào hắc tố trong não và tủy sống thường có thể được phát hiện bằng chụp MRI .
+Bệnh tăng sắc tố da thần kinh có thể biểu hiện bằng các triệu chứng tăng áp lực nội sọ , chẳng hạn như:
+- Đau đầu
+- Nôn mửa
+- Sự cáu kỉnh
+- Dấu hiệu thần kinh sọ não khu trú
+- Động kinh
+- Não úng thủy
+- Sự phát triển bị chậm lại.
+
+---
+
+## Chẩn đoán bệnh nốt ruồi hắc tố bẩm sinh được thực hiện như thế nào?
+
+Chẩn đoán nốt ruồi hắc tố bẩm sinh thường dựa trên biểu hiện lâm sàng. Nếu có bất kỳ nghi ngờ nào, việc kiểm tra tổn thương bằng phương pháp soi da hoặc lấy mẫu tổn thương để [xét nghiệm mô học](https://dermnetnz.org/topics/congenital-melanocytic-naevus-pathology) ( [sinh thiết](https://dermnetnz.org/topics/skin-biopsy) ) có thể cho thấy [các đặc điểm vi thể đặc trưng](https://dermnetnz.org/topics/congenital-melanocytic-naevus-pathology) .
+
+### soi da
+Đánh giá nốt ruồi hắc tố bẩm sinh bằng [phương pháp soi da](https://dermnetnz.org/topics/dermoscopy) sẽ cho thấy kiểu hình sắc tố và tính đối xứng hoặc không đối xứng của nó. Kiểu hình toàn thể phổ biến nhất của nốt ruồi hắc tố bẩm sinh hoặc muộn là hình cầu , nhưng cũng có thể xuất hiện dạng lưới, không có cấu trúc và hỗn hợp. Nốt ruồi có thể có cấu trúc khác nhau trên toàn bộ tổn thương, đôi khi dẫn đến sự bất đối xứng tổng thể của cấu trúc.
+
+### Bệnh lý học
+Nốt ruồi hắc tố bẩm sinh thường lớn hơn nốt ruồi mắc phải (là nốt ruồi hắc tố xuất hiện sau 2 tuổi), và các tế bào nốt ruồi thường lan sâu hơn vào lớp hạ bì, lớp mỡ và các cấu trúc sâu hơn. Các tế bào nốt ruồi đặc trưng tập trung xung quanh các mạch máu, nang lông , tuyến bã nhờn và tuyến ngoại tiết , và các cấu trúc da khác. Các tế bào nốt ruồi bẩm sinh có xu hướng liên quan đến các bó collagen ở các lớp sâu hơn của da nhiều hơn so với nốt ruồi mắc phải.
+
+### Nguy cơ phát triển khối u ác tính trong nốt ruồi hắc tố bẩm sinh
+Các đặc điểm sau đây của nốt ruồi bẩm sinh có liên quan đến nguy cơ phát triển [bệnh u hắc tố](https://dermnetnz.org/topics/melanoma) (một loại [ung thư da](https://dermnetnz.org/topics/skin-cancer) ).
+- Kích thước lớn hoặc khổng lồ
+- Vị trí trục hoặc cạnh đốt sống (đi ngang qua cột sống)
+- Nhiều nốt ruồi vệ tinh bẩm sinh
+- Bệnh hắc tố da thần kinh.
+Nguy cơ mắc bệnh ung thư hắc tố chủ yếu liên quan đến kích thước của nốt ruồi hắc tố bẩm sinh. Các nốt ruồi hắc tố bẩm sinh nhỏ và vừa có nguy cơ rất nhỏ, dưới 1%. Ung thư hắc tố có nhiều khả năng phát triển ở nốt ruồi bẩm sinh khổng lồ (ước tính suốt đời là 5–10% nhưng có thể ước tính cao hơn). Một đánh giá của 27 nghiên cứu bao gồm hơn 11.000 bệnh nhân có nốt ruồi bẩm sinh, tỷ lệ mắc bệnh ung thư hắc tố là 1,84% nói chung và 2,73% ở những người có nốt ruồi bẩm sinh lớn. Ung thư hắc tố có thể bắt đầu sâu bên trong nốt ruồi hoặc trong bất kỳ bệnh lý thần kinh hắc tố nào được tìm thấy trong não và tủy sống. Rất hiếm khi, các mô khác chứa tế bào hắc tố cũng có thể là nguồn gốc của ung thư hắc tố như niêm mạc đường tiêu hóa. Trong 24% trường hợp, không thể xác định được nguồn gốc của ung thư hắc tố.
+U hắc tố liên quan đến nốt ruồi bẩm sinh khổng lồ hoặc bệnh u hắc tố thần kinh có thể rất khó phát hiện và điều trị.
+Nguy cơ phát triển bệnh ung thư hắc tố cao hơn ở thời thơ ấu; 70% bệnh ung thư hắc tố liên quan đến nốt ruồi hắc tố bẩm sinh khổng lồ được chẩn đoán trước mười tuổi.
+Hiếm khi, các loại khối u khác có thể phát triển trong nốt ruồi hắc tố bẩm sinh khổng lồ bao gồm khối u lành tính ( [u mỡ](https://dermnetnz.org/topics/lipoma-and-liposarcoma) , u schwann) và các khối u ác tính khác (bao gồm cả khối u mô liên kết ).
+U hắc tố cũng có thể phát triển bên trong một nốt ruồi hắc tố bẩm sinh nhỏ. Tình trạng này hiếm gặp và có thể xảy ra ở vùng ngoại vi của nốt ruồi khi trưởng thành.
+
+### Có nên theo dõi thường xuyên không?
+- Có thể hữu ích khi chụp cận cảnh nốt ruồi bẩm sinh cùng thước kẻ bên cạnh để đánh giá sự thay đổi về kích thước.
+- Giám sát kỹ thuật số bằng hình ảnh soi da ( [lập bản đồ nốt ruồi](https://dermnetnz.org/topics/photographic-skin-surveillance) ) cũng có thể hữu ích để phát hiện những thay đổi về cấu trúc. Tuy nhiên, những thay đổi như vậy là bình thường ở trẻ em và thường không đáng lo ngại.
+- Nên tiếp tục theo dõi sự phát triển thần kinh ở những người có nguy cơ mắc bệnh hắc tố da thần kinh.
+
+### Tiên lượng của bệnh u hắc tố liên quan đến nốt ruồi hắc tố bẩm sinh
+Thật không may, khi một khối u ác tính hiếm gặp xuất hiện trong một nốt ruồi hắc tố bẩm sinh khổng lồ, tiên lượng thường không thuận lợi. Điều này là do khối u có nguồn gốc sâu hơn khiến việc phát hiện bệnh trên lâm sàng khó khăn hơn, dẫn đến việc phát hiện bệnh ở giai đoạn muộn hơn. Vị trí sâu hơn cũng tạo điều kiện cho sự lây lan sớm hơn qua mạch máu và mạch bạch huyết . Trong 24% trường hợp, khối u ác tính đã di căn đến các vị trí khác ( di căn ) tại thời điểm chẩn đoán ban đầu.
+
+---
+
+## Điều trị nốt ruồi hắc tố bẩm sinh
+
+Việc điều trị nốt ruồi hắc tố bẩm sinh phải tính đến độ tuổi của bệnh nhân, kích thước tổn thương, vị trí và độ sâu, cũng như nguy cơ phát triển thành thay đổi ác tính bên trong tổn thương.
+
+### Nốt ruồi hắc tố bẩm sinh khổng lồ
+Chỉ định phẫu thuật duy nhất cho nốt ruồi hắc tố bẩm sinh khổng lồ là khi khối u ác tính phát triển bên trong nốt ruồi.
+
+### Nốt ruồi bẩm sinh nhỏ
+Nếu một nốt ruồi bẩm sinh nhỏ phát triển cùng tốc độ với trẻ và không thay đổi theo bất kỳ cách nào khác, phương pháp thông thường là không cắt bỏ nó cho đến khi trẻ đủ lớn để hợp tác với việc tiêm thuốc gây tê tại chỗ , thường là khoảng 10 đến 12 tuổi. Ngay cả khi đó, việc cắt bỏ cũng không phải là điều cần thiết.
+Những lý do để cân nhắc phẫu thuật cắt bỏ có thể bao gồm:
+- Ngoại hình xấu xí
+- Khó khăn trong việc quan sát nốt ruồi (ví dụ: da đầu, lưng)
+- Một thay đổi gần đây ở tổn thương (sạm da, nổi cục, kích thước tăng lên)
+- Có hình dạng giống khối u ác tính (hình dạng không đều, màu sắc loang lổ).
+
+### Phẫu thuật cắt bỏ nốt ruồi dự phòng
+Những yếu tố sau đây cần được xem xét trước khi phẫu thuật cắt bỏ nốt ruồi để phòng ngừa .
+- Việc cắt bỏ dự phòng một tổn thương nhỏ có thể được trì hoãn cho đến khi bệnh nhân đủ lớn để đưa ra lựa chọn sáng suốt.
+- Các nốt ruồi hắc tố bẩm sinh có kích thước nhỏ hoặc trung bình có nguy cơ phát triển thành ung thư thấp.
+- Các tổn thương không đều, cục hoặc dày hoặc các tổn thương khó đánh giá lâm sàng có thể có ngưỡng thấp hơn để cân nhắc cắt bỏ bằng phẫu thuật, để không bỏ sót u ác tính.
+- 50% trường hợp u hắc tố được chẩn đoán ở những người có nốt ruồi hắc tố bẩm sinh khổng lồ xảy ra ở một vị trí khác trên cơ thể, chẳng hạn như trong hệ thần kinh trung ương. Do đó, phẫu thuật cắt bỏ tổn thương có thể không loại bỏ hoàn toàn nguy cơ mắc u hắc tố.
+- Các tổn thương hắc tố lớn hoặc khổng lồ có thể quá lớn để cắt bỏ hoàn toàn.
+- [Những tổn thương lớn có thể cần phải dùng vạt](https://dermnetnz.org/topics/flaps) da hoặc [ghép da](https://dermnetnz.org/topics/skin-grafting) để đóng vết thương sau phẫu thuật.
+
+### Biến chứng của phẫu thuật
+Các biến chứng có thể xảy ra sau phẫu thuật bao gồm:
+- Ghép hoặc vạt thất bại
+- Sự nhiễm trùng
+- Sự cố vết thương
+- Chảy máu hoặc tụ máu
+- [Sẹo phì đại hoặc sẹo lồi](https://dermnetnz.org/topics/keloid-and-hypertrophic-scar)
+- Sẹo gây kích ứng hoặc ngứa.
+
+---
+
+## Các lựa chọn điều trị khác cho nốt ruồi hắc tố bẩm sinh
+
+
+### Mài mòn da
+[Phương pháp mài da](https://dermnetnz.org/topics/dermabrasion) có thể loại bỏ một phần nốt ruồi bẩm sinh lớn; các tế bào nốt ruồi sâu hơn có thể vẫn còn. Phương pháp mài da có thể làm nhạt màu nốt ruồi nhưng không thể làm giảm sự phát triển của lông bên trong. Phương pháp này có thể để lại sẹo.
+
+### Cắt bỏ tiếp tuyến (cạo)
+Phương pháp cắt tiếp tuyến hoặc cạo sử dụng lưỡi dao để loại bỏ các lớp trên cùng của da (biểu bì và trung bì). Phương pháp này có thể làm giảm sắc tố nhưng tổn thương có thể không được loại bỏ hoàn toàn. Cắt bỏ cạo có thể để lại sẹo đáng kể.
+
+### Lột da bằng hóa chất
+[Lột da bằng hóa chất](https://dermnetnz.org/topics/chemical-peels) sử dụng axit trichloroacetic hoặc phenol có thể làm sáng sắc tố của nốt ruồi bẩm sinh nông (bề mặt) nằm ở các lớp trên cùng của da.
+
+### Phá hủy bằng tia laser
+[Điều trị bằng laser](https://dermnetnz.org/topics/lasers-in-dermatology) được cân nhắc nếu không thể can thiệp phẫu thuật. Phương pháp này có thể làm sáng tổn thương. Các thiết bị phù hợp bao gồm:
+- [Laser Ruby Q-switched](https://dermnetnz.org/topics/ruby-laser-treatment)
+- [Laser tái tạo bề mặt](https://dermnetnz.org/topics/laser-resurfacing) carbon dioxide [](https://dermnetnz.org/topics/laser-resurfacing)
+Các kỹ thuật chỉ cắt bỏ một phần nốt ruồi bẩm sinh có thể khiến tổn thương khó đánh giá hơn trong quá trình theo dõi lâu dài.

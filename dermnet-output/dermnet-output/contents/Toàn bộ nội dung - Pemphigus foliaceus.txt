@@ -1,0 +1,83 @@
+# Pemphigus foliaceus — thông tin bổ sung
+
+Thể loại:
+
+Tự miễn/tự viêm
+
+SNOMED CT:
+
+35154004, 36739006, 403631009, 46459009, 402717008, 402718003, 771145006
+
+**[Tự miễn/tự viêm](https://dermnetnz.org/topics/topics?category=Autoimmune/autoinflammatory)**
+
+
+# **Pemphigus lá**
+
+Tác giả: Vanessa Ngan, Biên tập viên, 2003. Cập nhật: Tiến sĩ Musfira Shakeel, Salford Royal Foundation Trust, Vương quốc Anh. Tháng 5 năm 2022.
+
+---
+
+## Bệnh pemphigus vảy lá là gì?
+
+Họ Pemphigus là những bệnh mụn [nước tự miễn](https://dermnetnz.org/topics/autoimmune-diseases-in-dermatology) hiếm gặp , ảnh hưởng đến da và niêm mạc. Pemphigus vảy lá là một dạng pemphigus tương đối lành tính, hiếm gặp . Ở New Zealand, pemphigus vảy lá thường gặp hơn [pemphigus thông thường, một họ](https://dermnetnz.org/topics/pemphigus-vulgaris) hàng nghiêm trọng hơn của nó , mặc dù pemphigus thông thường phổ biến hơn trên toàn thế giới. Pemphigus vảy lá đặc trưng bởi các tổn thương mụn nước trên vùng da trông có vẻ khỏe mạnh. Mụn nước có xu hướng hình thành khi da bị cọ xát ( [dấu hiệu Nikolsky)](https://dermnetnz.org/topics/nikolskys-sign) . Hiện có sáu phân nhóm:
+- Bệnh pemphigus ban đỏ
+- Pemphigus dạng herpes
+- Bệnh pemphigus lá địa phương
+- Bệnh pemphigus vảy lá IgA
+- Bệnh pemphigus vảy lá cận ung thư
+- Bệnh pemphigus vảy lá do thuốc.
+
+---
+
+## Ai mắc bệnh pemphigus vảy lá?
+
+Bệnh Pemphigus vảy lá ảnh hưởng đến mọi người thuộc mọi chủng tộc, lứa tuổi và giới tính. Bệnh thường xuất hiện ở độ tuổi từ 50-60.
+
+---
+
+## Nguyên nhân gây ra bệnh pemphigus vảy lá là gì?
+
+Pemphigus foliaceus là một [chứng rối loạn tự miễn dịch](https://dermnetnz.org/topics/autoimmune-diseases-in-dermatology) , về cơ bản có nghĩa là hệ thống miễn dịch của một cá nhân bắt đầu phản ứng chống lại mô của người đó.
+Các tế bào khối xây dựng của lớp biểu bì được gọi là tế bào sừng. Những tế bào này được gắn kết với nhau tại các điểm dính đặc biệt gọi là desmosome. Trong bệnh pemphigus vảy lá, các tự kháng thể liên kết với một protein gọi là desmoglein -1, được tìm thấy trong desmosome của các tế bào sừng gần đỉnh của lớp biểu bì. Kết quả là các tế bào sừng trên bề mặt tách rời nhau và được thay thế bằng dịch: mụn nước. Vì mụn nước nằm rất gần bề mặt da, các mụn nước dễ vỡ. Trong hầu hết các trường hợp, các tự kháng thể là immunoglobulin loại G ( IgG ), nhưng trong [bệnh pemphigus IgA](https://dermnetnz.org/topics/iga-pemphigus) , các tự kháng thể là loại A (IgA).
+Bệnh Pemphigus foliaceus đôi khi xuất hiện do tiếp xúc với ánh nắng mặt trời.
+Bệnh pemphigus foliaceus đặc hữu xảy ra ở Nam Mỹ, nơi nó thường được gọi là [Fogo selvagem](https://dermnetnz.org/topics/fogo-selvagem) . Bệnh này dường như được gây ra bởi một loại vi-rút lây truyền qua vết côn trùng cắn.
+Penicillamine, nifedipine, captopril, enalapril hoặc thuốc kháng viêm không steroid thường gây ra bệnh pemphigus vảy lá do thuốc. Nếu ngừng thuốc, khả năng bệnh pemphigus vảy lá khỏi là 50%.
+
+---
+
+## Các đặc điểm lâm sàng của bệnh pemphigus vảy lá là gì?
+
+Pemphigus vảy lá gây ra các mụn nước nông giới hạn trên da, không ảnh hưởng đến niêm mạc. Điều này trái ngược với [pemphigus thông thường](https://dermnetnz.org/topics/pemphigus-vulgaris) , trong đó niêm mạc có thể bị ảnh hưởng rộng rãi (miệng, [mí mắt,](https://dermnetnz.org/topics/eyelid-skin-problems) v.v.).
+Bệnh nhân bị pemphigus vảy lá thường có sức khỏe tốt. Ban đầu, các mụn nước nhỏ chứa dịch hình thành trên thân mình. Do nằm nông trong lớp biểu bì trên, chúng rất dễ vỡ và chỉ có thể nhìn thấy vết trợt . Trên mặt, da đầu và thân mình phía trên, các tổn thương thường có vảy và đóng vảy trên nền đỏ và viêm. Có thể cảm thấy nóng rát hoặc đau tại chỗ .
+
+### Pemphigus ban đỏ (hội chứng Senear-Usher)
+Pemphigus ban đỏ (hay hội chứng Senear-Usher ) là một biến thể của pemphigus vảy lá có chung các đặc điểm lâm sàng, bệnh lý mô học và huyết thanh học với [bệnh lupus ban đỏ hệ thống (SLE)](https://dermnetnz.org/topics/systemic-lupus-erythematosus) ; chúng hiếm khi cùng tồn tại.
+Hội chứng này chiếm 10% các trường hợp mắc bệnh pemphigus. Về mặt lâm sàng và miễn dịch học, hội chứng Senear-Usher có các đặc điểm tương đồng với SLE như sự xuất hiện của các mảng đỏ , vảy và đóng vảy ở vùng gò má và mũi. Ngoài ra, bệnh có thể trở nặng hơn khi tiếp xúc với ánh sáng mặt trời như trong SLE. [Miễn dịch huỳnh quang](https://dermnetnz.org/topics/direct-immunofluorescence) cho thấy sự hiện diện của IgG và C3 tại ranh giới thượng bì - hạ bì (một đặc điểm phân biệt với pemphigus vảy lá) bên cạnh IgG nội bì . Sự hiện diện của kháng thể kháng desmoglein (anti-dsg) 1 được phát hiện ở 30-80% bệnh nhân; nồng độ ANA tăng cao cũng được ghi nhận. [](https://dermnetnz.org/topics/direct-immunofluorescence)
+Nguyên tắc điều trị cũng giống như các dạng pemphigus khác, tuy nhiên có thể điều trị bằng liều steroid thấp hơn.
+![Pemphigus lá](https://dermnetnz.org/assets/Uploads/immune/pfol1.jpg)
+![Pemphigus lá](https://dermnetnz.org/assets/Uploads/immune/pfol2.jpg)
+![Pemphigus lá](https://dermnetnz.org/assets/Uploads/immune/pfol3.jpg)
+![Pemphigus lá](https://dermnetnz.org/assets/Uploads/immune/pfol4.jpg)
+![Pemphigus lá](https://dermnetnz.org/assets/Uploads/immune/pfol5.jpg)
+![Pemphigus lá](https://dermnetnz.org/assets/Uploads/immune/s/pfol6.jpg)
+
+---
+
+## Bệnh pemphigus vảy lá được chẩn đoán như thế nào?
+
+Chẩn đoán thường đòi hỏi phải [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) , cho thấy các đặc điểm điển hình của các tế bào sừng phân tách tròn (gọi là tế bào gai ) bên trong các mụn nước ở các lớp trên của lớp biểu bì.
+Bệnh Pemphigus foliaceus được xác nhận bằng [phương pháp nhuộm miễn dịch huỳnh quang trực tiếp](https://dermnetnz.org/topics/direct-immunofluorescence) các phần da để phát hiện kháng thể.
+Trong một số trường hợp, kháng thể lưu hành có thể được phát hiện bằng xét nghiệm máu ( [xét nghiệm miễn dịch huỳnh quang gián tiếp](https://dermnetnz.org/topics/indirect-immunofluorescence) ).
+
+---
+
+## Phương pháp điều trị bệnh pemphigus vảy lá là gì?
+
+Mục đích chính của việc điều trị là ngăn ngừa các vùng mới phát triển nhiễm trùng do vi khuẩn và thúc đẩy quá trình chữa lành các vùng bị ảnh hưởng.
+Điều trị tại chỗ bằng [corticosteroid](https://dermnetnz.org/topics/topical-steroid) thường là tất cả những gì cần thiết cho bệnh pemphigus vảy lá thể nhẹ. Đối với các trường hợp nặng hơn, việc điều trị tương tự như điều trị [pemphigus thông thường.](https://dermnetnz.org/topics/pemphigus-vulgaris) [Thuốc kháng sinh](https://dermnetnz.org/topics/antibiotics) đường uống có thể được kê đơn để điều trị [nhiễm trùng thứ phát do vi khuẩn](https://dermnetnz.org/topics/wound-infections) .
+
+---
+
+## Hậu quả của bệnh pemphigus vảy lá là gì?
+
+Bệnh có thể tự thuyên giảm ở một số bệnh nhân trong khi ở những bệnh nhân khác, tình trạng này có thể kéo dài trong nhiều năm.

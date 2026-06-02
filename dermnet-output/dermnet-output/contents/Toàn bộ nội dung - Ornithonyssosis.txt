@@ -1,0 +1,109 @@
+# Nhiễm ve chim — thông tin bổ sung
+
+Thể loại:
+
+Nhiễm trùng
+
+SNOMED CT:
+
+240903001, 9595005, 35128007, 14005005, 71278001, 42309003
+
+**[Nhiễm trùng](https://dermnetnz.org/topics/topics?category=Infestations)**
+
+
+# **Nhiễm ve chim**
+
+Tác giả: Bác sĩ Cheng Huang, Chuyên viên Đăng ký Da liễu, Bệnh viện Waikato, Hamilton, New Zealand. Tổng biên tập DermNet: Phó Giáo sư Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand. Biên tập bởi Joanne Petrie/Gus Mitchell/Maria McGivern. Tháng 9 năm 2018.
+
+---
+
+## Ve chim là gì?
+
+Ve chim là loài hình nhện nhỏ (dài < 1 mm), hình bầu dục, có tám chân. Có một số loài ve chim. Loài phổ biến nhất ảnh hưởng đến con người ở Úc là ve sáo đá nhà, Ornithonyssus bursa , thuộc họ Macronyssidae, và ve đỏ gia cầm, Dermanyssus gallinae , thuộc họ Dermanyssidae.
+
+### Nhiễm ve gia cầm
+![Cắn](https://dermnetnz.org/assets/Uploads/bird-mite-1.jpg)
+![Dermanyssus gallinae](https://dermnetnz.org/assets/Uploads/bird-mite-2.jpg)
+
+---
+
+## Người ta có thể tìm thấy ve chim ở đâu?
+
+Ve chim thường được tìm thấy ở nơi có chim, chẳng hạn như gia cầm, chim sẻ, sáo đá hoặc bồ câu, và tổ của chúng. Ve chim ưa điều kiện sống ấm áp và ẩm ướt , hoạt động mạnh nhất vào mùa xuân và đầu mùa hè.
+
+---
+
+## Nhiễm ve chim là gì?
+
+Ve chim thường hút máu chim. Sau khi chim non rời tổ, chúng có thể gặp người trong quá trình tìm kiếm vật chủ mới. Ve chim có thể cắn bất cứ nơi nào trên cơ thể người, nhưng thường gặp nhất là ở vùng da hở.
+Mặc dù có thể hút máu người, nhưng ve chim không thể hoàn thành vòng đời của chúng trên cơ thể người và chúng không đào hang dưới da.
+
+---
+
+## Ai bị nhiễm mạt chim?
+
+Những người có nguy cơ cao bị nhiễm mạt chim bao gồm người chăn nuôi gia cầm; người sống gần tổ chim; người nuôi chim theo sở thích (ví dụ: người đua chim bồ câu, người nhân giống, người nuôi thú cưng , v.v.); bác sĩ thú y và nhân viên sở thú. Việc tiếp xúc với mạt chim cũng có thể xảy ra khi sử dụng đồ nội thất cũ, hoặc khi làm việc/sống trong các tòa nhà đã bị mạt chim xâm nhập .
+
+---
+
+## Những đặc điểm lâm sàng của bệnh nhiễm ve chim là gì?
+
+Nhiễm ve chim biểu hiện bằng [những vết cắn](https://dermnetnz.org/topics/arthropod-bites-and-stings) ngứa .
+- Vùng bị [cắn ngứa](https://dermnetnz.org/topics/pruritus) dữ dội , đặc biệt là vào ban đêm hoặc sáng sớm.
+- Các triệu chứng đôi khi được mô tả bao gồm cảm giác "bò" do ve tiêm nước bọt khi hút máu.
+- Có thể có nhiều [nốt sần và mụn nước nhỏ màu đỏ (phản ứng do cắn)](https://dermnetnz.org/topics/papular-urticaria) .
+
+---
+
+## Những biến chứng của bệnh nhiễm ve chim là gì?
+
+Các biến chứng của bệnh nhiễm ve chim có thể bao gồm:
+- [Nhiễm trùng thứ](https://dermnetnz.org/topics/wound-infections) phát do gãi
+- Rối loạn giấc ngủ do [ngứa dữ dội](https://dermnetnz.org/topics/pruritus)
+- [Trầm cảm hoặc lo âu](https://dermnetnz.org/topics/psychosocial-factors-in-dermatology) .
+
+---
+
+## Làm thế nào để chẩn đoán tình trạng nhiễm mạt chim?
+
+Cần nghi ngờ nhiễm mạt chim khi bệnh nhân có các triệu chứng và đặc điểm lâm sàng của [bệnh ghẻ](https://dermnetnz.org/topics/scabies) nhưng không đáp ứng với phương pháp điều trị phù hợp. Cần khai thác bệnh sử chi tiết, bao gồm cả việc xem xét mùa và thời gian trong ngày khi các triệu chứng xuất hiện, nghề nghiệp, sở thích và điều kiện sống của bệnh nhân.
+Ve chim quá nhỏ để có thể nhìn thấy nếu không có kính lúp. Chúng có thể được thu thập bằng băng dính trong suốt và kiểm tra bằng kính hiển vi. Việc xác định loài có thể cần tham khảo ý kiến ​​của một nhà côn trùng học chuyên ngành (một nhà khoa học nghiên cứu về côn trùng và nhện).
+
+---
+
+## Chẩn đoán phân biệt đối với bệnh nhiễm ve chim là gì?
+
+Nhiễm ve chim có thể khó phân biệt về mặt lâm sàng với các loại ve và côn trùng khác, chẳng hạn như [ghẻ](https://dermnetnz.org/topics/scabies) , [bọ chét](https://dermnetnz.org/topics/flea-bite) [,](https://dermnetnz.org/topics/body-lice) rận , muỗi, ruồi cát, ruồi trâu [,](https://dermnetnz.org/topics/spider-bite) nhện, [rết, rệp giường](https://dermnetnz.org/topics/bed-bugs) , [ve](https://dermnetnz.org/topics/tick-bite) , muỗi vằn và ve thu hoạch. Không giống như ve ghẻ, ve chim không tạo [hang trên da](https://dermnetnz.org/topics/scabies) .
+
+---
+
+## Phương pháp điều trị nhiễm ve chim là gì?
+
+Điều trị bao gồm xác định và diệt trừ ve. Cần làm sạch da để loại bỏ ve.
+- Có thể dùng miếng bọt biển để chà xát da khi tắm.
+- [](https://dermnetnz.org/topics/emollients-and-moisturisers) Có thể thêm [chất làm mềm vào bồn tắm hoặc vòi hoa sen để giảm ngứa.](https://dermnetnz.org/topics/emollients-and-moisturisers)
+- [Các sản phẩm từ nhựa than đá](https://dermnetnz.org/topics/coal-tar) có thể được sử dụng làm dầu gội và sữa tắm một hoặc hai lần mỗi ngày.
+- [](https://dermnetnz.org/topics/bleach-baths-in-patients-with-skin-infections) Có thể sử dụng [dung dịch thuốc tẩy pha loãng khi tắm vòi sen hoặc bồn tắm để giảm](https://dermnetnz.org/topics/bleach-baths-in-patients-with-skin-infections) nhiễm trùng (thuốc tẩy cũng được dùng để vệ sinh phòng tắm).
+
+### Các phương pháp điều trị được kê đơn
+- [Thuốc steroid bôi ngoài da](https://dermnetnz.org/topics/topical-steroid) được bôi vào vết cắn để giảm viêm.
+- [Thuốc kháng histamine](https://dermnetnz.org/topics/antihistamines) đường uống có thể làm giảm viêm và ngứa.
+- [Thuốc kháng sinh](https://dermnetnz.org/topics/antibiotics) được chỉ định nếu có [nhiễm trùng thứ phát do vi khuẩn](https://dermnetnz.org/topics/wound-infections) .
+
+---
+
+## Làm thế nào để ngăn ngừa sự xâm nhập của mạt chim?
+
+Có thể ngăn ngừa sự xâm nhập của mạt chim bằng cách loại bỏ các tổ chim gần khu vực sinh hoạt và làm việc.
+- Mặc quần áo bảo hộ đầy đủ trong quá trình này để ngăn ngừa việc lây truyền ve chim sang người.
+- Nếu có sự xâm nhập của mạt chim trong một tòa nhà, bạn có thể cần phải tham khảo ý kiến ​​của chuyên gia kiểm soát dịch hại có trình độ .
+- Để diệt trừ ve chim, hãy xử lý khu vực bằng thuốc xịt [diệt côn trùng](https://dermnetnz.org/topics/insecticides-and-the-skin) bề mặt hoặc bột diệt côn trùng đã được phê duyệt.
+- Đồ nội thất bị nhiễm mọt nặng có thể cần phải bị phá hủy và thay thế.
+- Thảm cần được hút bụi hàng ngày hoặc trong trường hợp thảm bị nhiễm khuẩn nặng, có thể cần phải thay thế.
+- Nên thay và giặt khăn trải giường hoặc quần áo thường xuyên bằng nước nóng.
+
+---
+
+## Hậu quả của sự xâm nhập của ve chim là gì?
+
+Các vết cắn sẽ biến mất sau khi loại bỏ hoàn toàn mạt chim.

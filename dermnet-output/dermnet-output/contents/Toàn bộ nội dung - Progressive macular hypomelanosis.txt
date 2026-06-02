@@ -1,0 +1,64 @@
+# Bệnh giảm sắc tố hoàng điểm tiến triển — thông tin bổ sung
+
+Thể loại:
+
+Rối loạn sắc tố
+
+SNOMED CT:
+
+403276003, 18655006, 23006000, 398656003
+
+**[Rối loạn sắc tố](https://dermnetnz.org/topics/topics?category=Pigmentary+disorders)**
+
+
+# **Bệnh giảm sắc tố điểm vàng tiến triển**
+
+Tác giả: Bác sĩ Lydia Chan, Chuyên viên Đăng ký Y khoa, Bệnh viện Waikato, Hamilton. Tổng biên tập: Bác sĩ Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand, tháng 12 năm 2014.
+
+---
+
+## Bệnh giảm sắc tố da hoàng điểm tiến triển là gì?
+
+Giảm sắc tố da dạng dát tiến triển là một tình trạng da phổ biến biểu hiện bằng các vùng da nhợt nhạt hình tròn ( giảm sắc tố ), chủ yếu ở thân mình.
+
+---
+
+## Ai mắc bệnh giảm sắc tố da hoàng điểm tiến triển?
+
+Bệnh giảm sắc tố da dát tiến triển ảnh hưởng đến thanh thiếu niên và người lớn trên toàn thế giới. Bệnh phổ biến hơn ở những người có làn da sẫm màu hơn là da sáng màu, và có thể phổ biến hơn ở phụ nữ so với nam giới.
+
+---
+
+## Các đặc điểm lâm sàng của bệnh giảm sắc tố da hoàng điểm tiến triển là gì?
+
+Giảm sắc tố da dạng dát tiến triển chủ yếu ảnh hưởng đến thân mình, hiếm khi lan đến tay, chân và/hoặc cổ. Có nhiều đốm tròn, nhạt màu, không có vảy, mờ nhạt, không rõ ranh giới , hợp nhất với nhau.
+Các mảng này không có vảy, không giống như [lang ben](https://dermnetnz.org/topics/pityriasis-versicolor) giảm sắc tố , cũng có thể gây ra các mảng nhạt màu trên thân. Chúng không có tình trạng viêm trước đó , không giống như tình trạng giảm sắc tố sau viêm sau [bệnh chàm đồng tiền](https://dermnetnz.org/topics/discoid-eczema) hoặc [bệnh vẩy nến](https://dermnetnz.org/topics/psoriasis) . [](https://dermnetnz.org/topics/pityriasis-versicolor) [](https://dermnetnz.org/topics/discoid-eczema) [](https://dermnetnz.org/topics/psoriasis)
+Tiến trình của chứng giảm sắc tố da hoàng điểm tiến triển được báo cáo là khác nhau. Một số trường hợp có thể tự khỏi trong vòng 3–5 năm. Một số khác vẫn ổn định, nhưng cũng có những trường hợp tiến triển trong nhiều thập kỷ và có thể tự khỏi ở tuổi trung niên.
+![Bệnh giảm sắc tố điểm vàng tiến triển](https://dermnetnz.org/assets/Uploads/colour/w/progressive-hypomelanosis-1.jpg)
+![Bệnh giảm sắc tố điểm vàng tiến triển](https://dermnetnz.org/assets/Uploads/colour/w/progressive-hypomelanosis-2.jpg)
+
+---
+
+## Nguyên nhân gây ra bệnh giảm sắc tố da hoàng điểm tiến triển là gì?
+
+Nguyên nhân gây ra chứng giảm sắc tố da dạng dát tiến triển vẫn chưa được biết rõ. [Vi khuẩn gây mụn](https://dermnetnz.org/topics/bacteria-in-acne) , Cutibacterium acnes , đã được tìm thấy trong nang lông ở những vùng da bị giảm sắc tố và có thể gây mất màu. Tuy nhiên, vi khuẩn này không được tìm thấy ở tất cả bệnh nhân bị chứng giảm sắc tố da dạng dát tiến triển. Yếu tố di truyền cũng được cho là có vai trò quan trọng.
+
+---
+
+## Chẩn đoán bệnh giảm sắc tố da hoàng điểm tiến triển được thực hiện như thế nào?
+
+Giảm sắc tố da dạng dát tiến triển thường được chẩn đoán dựa trên nghi ngờ lâm sàng và được hỗ trợ bởi sự hiện diện của huỳnh quang trên [đèn Wood](https://dermnetnz.org/topics/wood-lamp-skin-examination) . Các nang lông phát huỳnh quang với ánh sáng đỏ, cho thấy chúng bị nhiễm khuẩn P. acnes.
+[Soi da cho thấy](https://dermnetnz.org/topics/dermoscopy) các mảng trắng không rõ nét với sắc tố lưới mờ . Các mảng này thường không có vảy nhưng đôi khi có thể thấy vảy khu trú .
+Kiểm tra dưới kính hiển vi sinh thiết [da](https://dermnetnz.org/topics/skin-biopsy) cho thấy sự giảm melanin ở vùng da bị ảnh hưởng, với số lượng tế bào hắc tố (tế bào chuyên biệt sản xuất melanin) bình thường. Trên kính hiển vi điện tử của vùng bị ảnh hưởng, các melanosome ( các hạt lưu trữ melanin trong tế bào) nhỏ hơn và tập trung hơn so với vùng da xung quanh.
+
+---
+
+## Bệnh giảm sắc tố da hoàng điểm tiến triển được điều trị như thế nào?
+
+Các phương pháp điều trị bệnh giảm sắc tố da hoàng điểm tiến triển bao gồm:
+- [Liệu pháp quang trị liệu UVB dải hẹp](https://dermnetnz.org/topics/uvb-phototherapy)
+- [Tetracycline uống](https://dermnetnz.org/topics/tetracycline)
+- [Các chế phẩm chống mụn tại chỗ](https://dermnetnz.org/topics/antibiotics-for-acne) như [clindamycin](https://dermnetnz.org/topics/clindamycin) và [benzoyl peroxide](https://dermnetnz.org/topics/benzoyl-peroxide)
+- Phương pháp điều trị kết hợp.
+[Isotretinoin](https://dermnetnz.org/topics/isotretinoin) có hiệu quả trong một trường hợp được báo cáo.
+Tình trạng này có thể tái phát sau khi điều trị.

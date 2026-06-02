@@ -1,0 +1,56 @@
+# Bệnh sừng hóa dạng mụn cóc ở Hopf — thông tin bổ sung
+
+Thể loại:
+
+Di truyền
+
+SNOMED CT:
+
+400085009
+
+**[Di truyền](https://dermnetnz.org/topics/topics?category=Genetic)**
+
+
+# **Bệnh sừng hóa dạng mụn cóc ở Hopf**
+
+Tác giả: Tiến sĩ Georgina Harvey, Chuyên gia da liễu, Bệnh viện Waikato, Hamilton, New Zealand; Tổng biên tập: Tiến sĩ Amanda Oakley, Bác sĩ da liễu, Hamilton, New Zealand, tháng 10 năm 2015.
+
+---
+
+## Bệnh sừng hóa dạng mụn cóc ở Hopf là gì?
+
+Bệnh sừng hóa dạng mụn cóc Hopf là một bệnh da liễu hiếm gặp được phân loại là rối loạn sừng hóa. Bệnh thường được coi là một biến thể của bệnh Darier. Bệnh được phát hiện lần đầu tiên vào năm 1931 bởi Tiến sĩ Gustav Hopf, một bác sĩ da liễu người Đức.
+
+---
+
+## Nguyên nhân gây ra bệnh sừng hóa dạng mụn cóc ở Hopf là gì?
+
+Bệnh sừng hóa dạng mụn cóc Hopf là do gen ATP2A2 bất thường . Bệnh di truyền trội trên nhiễm sắc thể thường , nghĩa là chỉ cần di truyền một bản sao của gen bị ảnh hưởng là có thể phát triển bệnh. Nếu một trong hai cha mẹ bị ảnh hưởng, nguy cơ con mắc bệnh sừng hóa dạng mụn cóc Hopf là 1/2 (50%).
+Đột biến ở ATP2A2 cũng gây ra [bệnh Darier](https://dermnetnz.org/topics/darier-disease) . Gen này mã hóa bơm canxi ATPase 2 của lưới cơ tương, kiểm soát canxi nội bào . Người ta đưa ra giả thuyết rằng sự suy giảm chức năng của bơm này làm thay đổi khả năng liên kết các tế bào sừng với nhau của desmosome .
+
+---
+
+## Đặc điểm lâm sàng của bệnh sừng hóa dạng mụn cóc ở Hopf là gì?
+
+Bệnh sừng hóa dạng mụn cóc Hopf đặc trưng bởi nhiều tổn thương sừng hóa , phẳng, đối xứng , cùng màu da ở mu bàn tay và bàn chân. Những tổn thương này thường xuất hiện từ khi sinh ra hoặc thời thơ ấu, nhưng đôi khi xuất hiện ở tuổi trưởng thành. Các đặc điểm khác có thể bao gồm:
+- Các nốt sần tập trung hoặc riêng lẻ ở đầu gối, khuỷu tay và cẳng tay
+- Rãnh ở lòng bàn tay và lòng bàn chân
+- Bệnh teo móng : móng tay màu trắng ngọc trai hoặc móng tay có gờ dọc và vết khía ở mép móng
+Những thay đổi trên da trong bệnh sừng hóa dạng mụn cóc ở Hopf không có triệu chứng và hiếm khi dẫn đến bất kỳ biến chứng nào.
+![Bệnh sừng hóa dạng mụn cóc ở Hopf](https://dermnetnz.org/assets/Uploads/scaly/w/hopf-1.jpg)
+![Bệnh sừng hóa dạng mụn cóc ở Hopf](https://dermnetnz.org/assets/Uploads/scaly/w/hopf-2.jpg)
+![Bệnh sừng hóa dạng mụn cóc ở Hopf](https://dermnetnz.org/assets/Uploads/scaly/w/hopf-3.jpg)
+![Bệnh sừng hóa dạng mụn cóc ở Hopf](https://dermnetnz.org/assets/Uploads/scaly/w/hopf-4.jpg)
+
+---
+
+## Bệnh sừng hóa dạng mụn cóc ở Hopf được chẩn đoán như thế nào?
+
+Bệnh sừng hóa dạng mụn cóc Hopf được chẩn đoán lâm sàng. Việc chẩn đoán sẽ dễ dàng hơn nếu có thành viên trong gia đình có các triệu chứng da tương tự. Đôi khi, [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) được thực hiện để hỗ trợ chẩn đoán.
+Các đặc điểm chính trên mô học là tăng sừng, tăng sinh gai, u nhú và lớp hạt dày lên. Hiếm khi thấy hiện tượng bong gai. Các gờ nổi giới hạn trên biểu bì, được gọi là "chóp nhà thờ", là một dấu hiệu đặc trưng. Xem [bệnh lý học bệnh Darier](https://dermnetnz.org/topics/darier-disease-pathology) .
+
+---
+
+## Phương pháp điều trị bệnh sừng hóa dạng mụn cóc ở Hopf là gì?
+
+Vì bệnh sừng hóa dạng mụn cóc Hopf không có triệu chứng và khu trú nên không cần điều trị. Nếu bệnh nhân muốn điều trị vì lý do thẩm mỹ, có thể phá hủy các sẩn bằng [liệu pháp lạnh](https://dermnetnz.org/topics/cryotherapy) hoặc [laser](https://dermnetnz.org/topics/lasers-in-dermatology) phá hủy . [Tretinoin bôi ngoài da](https://dermnetnz.org/topics/topical-retinoids) cũng đã được sử dụng để làm giảm độ dày của sẩn.

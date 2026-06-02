@@ -1,0 +1,232 @@
+# Bệnh nấm mycosis fungoides — thông tin bổ sung
+
+Thể loại:
+
+Tổn thương (ung thư)
+
+SNOMED CT:
+
+118618005, 765328000, 404107008, 404108003, 404113004, 404109006, 404110001, 404119000, 277796003, 404116007
+
+**[Tổn thương (ung thư)](https://dermnetnz.org/topics/topics?category=Lesions+(cancerous))**
+
+
+# **Bệnh nấm mycosis fungoides**
+
+Tác giả: Vanessa Ngan, Biên tập viên, 2006Bản cập nhật DermNet, tháng 5 năm 2021. Biên tập bởi Gus Mitchell.
+
+---
+
+## Bệnh nấm mycosis fungoides là gì?
+
+U nấm mycosis là loại [u lympho tế bào T nguyên phát ở da phổ biến](https://dermnetnz.org/topics/cutaneous-t-cell-lymphoma) nhất , một dạng [u lympho](https://dermnetnz.org/topics/lymphoma) không Hodgkin đặc trưng về mặt lâm sàng là tiến triển từ các mảng thành mảng bám rồi thành khối u và, về mặt mô học , là thâm nhiễm biểu bì của các tế bào T CD4+ ( tế bào lympho ) có kích thước nhỏ đến trung bình . [](https://dermnetnz.org/topics/cutaneous-t-cell-lymphoma) [](https://dermnetnz.org/topics/lymphoma)
+![Các mảng và mảng bám của bệnh nấm mycosis fungoides](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/s/ctcl6.jpg)
+![Giai đoạn mảng bám mycosis fungoides](https://dermnetnz.org/assets/Uploads/mycosis-fungoides-plaque-05.jpg)
+![Mô học bệnh nấm mycosis fungoides](https://dermnetnz.org/assets/Uploads/z9-mf.jpg)
+
+---
+
+## Ai mắc bệnh nấm mycosis fungoides?
+
+U nấm mycosis (MF) chiếm 50% tổng số u lympho da nguyên phát và 60-70% tổng số u lympho tế bào T da (CTCL). Tuy nhiên, đây là một bệnh lý hiếm gặp với tỷ lệ mắc ước tính trên toàn thế giới là 6,4 trên một triệu người.
+Bệnh thường khởi phát ở giai đoạn cuối tuổi trưởng thành ( tuổi trung bình 55–60) với tỷ lệ nam giới chiếm ưu thế (2:1) ở bệnh nhân da trắng. Tỷ lệ chẩn đoán ở bệnh nhân dưới 30 tuổi cao nhất ở người châu Á, người dân đảo Thái Bình Dương và người Mỹ da đen.
+
+---
+
+## Nguyên nhân gây ra bệnh nấm mycosis fungoides là gì?
+
+Nguyên nhân gây bệnh của mycosis fungoides vẫn chưa được biết rõ. Các giả thuyết bao gồm kích thích kháng nguyên mạn tính , yếu tố di truyền (ví dụ, loại HLA ), hoặc phơi nhiễm hóa chất (ví dụ, thuốc). Sự tập trung các ca bệnh theo vùng địa lý và tình trạng MF ảnh hưởng đến các thành viên trong gia đình gợi ý các yếu tố kích hoạt từ môi trường. Không giống như một số dạng CTCL, hiện tại không có bằng chứng nào về nguyên nhân do virus.
+
+---
+
+## Các đặc điểm lâm sàng của bệnh nấm mycosis fungoides là gì?
+
+Bệnh nấm mycosis fungoides có thể biểu hiện dưới dạng ngứa mãn tính, ngay cả trước khi có dấu hiệu lâm sàng của bệnh. Bệnh nấm mycosis cổ điển tiến triển chậm qua nhiều năm, từ các mảng thành mảng và cuối cùng có thể hình thành khối u. Hầu hết bệnh nhân được chẩn đoán mắc bệnh ở giai đoạn sớm.
+
+### Giai đoạn vá lỗi
+- Các mảng đỏ không rõ ràng, không đều, có vảy mịn , kích thước thay đổi thường có da teo (mỏng, nhăn nheo)
+- Xảy ra chủ yếu ở những vùng được che chắn bởi ánh nắng mặt trời, đặc biệt là phần thân dưới, đùi và ở phụ nữ là ngực
+- Thường không có triệu chứng
+- Biến thể giảm sắc tố : các mảng da nhợt nhạt, có vảy mịn không bị teo ở trẻ em và loại da Fitzpatrick IV-VI
+- Poikiloderma atrophicans vasculare là giai đoạn mảng teo MF biểu hiện bằng da mỏng đi, thay đổi sắc tố và giãn mao mạch ( giãn mao mạch ).
+
+### Bệnh nấm giai đoạn vá
+![Bệnh nấm giai đoạn vá](https://dermnetnz.org/assets/Uploads/mycosis-fungoides-2.jpg)
+![Bệnh nấm giai đoạn vá](https://dermnetnz.org/assets/Uploads/mycosis-fungoides-3.jpg)
+![Bệnh nấm mycosis fungoides](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/ctcl8.jpg)
+
+### Giai đoạn mảng bám
+- Tổn thương dày ngứa hình khuyên hoặc hình cung có ranh giới rõ ràng
+- Màu sắc thường là đỏ, tím hoặc nâu, đôi khi có vảy
+- Các mảng bám riêng lẻ có thể trở nên khá lớn với sự thoái triển trung tâm
+- Có thể phát triển từ các mảng hoặc de novo
+- Ban đầu liên quan đến ít hơn 10% diện tích bề mặt cơ thể (BSA), sau đó lan rộng
+
+### Giai đoạn mảng bám mycosis fungoides
+![Giai đoạn mảng bám mycosis fungoides](https://dermnetnz.org/assets/Uploads/mycosis-fungoides-plaque-19.jpg)
+![](https://dermnetnz.org/assets/Uploads/mycosis-fungoides-plaque-08.jpg)
+![Giai đoạn mảng bám mycosis fungoides](https://dermnetnz.org/assets/Uploads/mycosis-fungoides-12.jpg)
+
+### Giai đoạn khối u
+- Các khối u lớn không đều (>1 cm) phát triển từ các mảng bám
+- Màu đỏ đậm đến tím, bề mặt thường sáng bóng
+
+### Giai đoạn khối u mycosis fungoides
+![Giai đoạn khối u mycosis fungoides](https://dermnetnz.org/assets/Uploads/mycosis-fungoides-11.jpg)
+![Giai đoạn khối u mycosis fungoides](https://dermnetnz.org/assets/Uploads/mycosis-fungoides-15.jpg)
+![Bệnh nấm mycosis fungoides](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/s/ctcl7.jpg)
+
+### Các biểu hiện lâm sàng không điển hình của bệnh nấm mycosis fungoides
+Có nhiều biểu hiện lâm sàng không giống bệnh mycosis fungoides cổ điển nhưng có cùng tiến trình tự nhiên bao gồm:
+- Thuốc hướng tâm nhĩ MF
+- MF bóng nước
+- MF đơn độc
+- MF mủ
+- [Bệnh nấm nấm palmaris và plantaris](https://dermnetnz.org/topics/mycosis-fungoides-palmaris-et-plantaris)
+- Các hình thức giống như (trong số những hình thức khác): [Phát ban xuất huyết sắc tố](https://dermnetnz.org/topics/capillaritis) (viêm mao mạch) [U hạt vòng](https://dermnetnz.org/topics/granuloma-annulare) [Bệnh gai đen](https://dermnetnz.org/topics/acanthosis-nigricans) [Viêm da mủ hoại thư](https://dermnetnz.org/topics/pyoderma-gangrenosum) [Bệnh bạch biến](https://dermnetnz.org/topics/vitiligo) [Bệnh vảy cá](https://dermnetnz.org/topics/ichthyosis) [Bệnh vẩy nến](https://dermnetnz.org/topics/psoriasis)
+- [Phát ban xuất huyết sắc tố](https://dermnetnz.org/topics/capillaritis) (viêm mao mạch)
+- [U hạt vòng](https://dermnetnz.org/topics/granuloma-annulare)
+- [Bệnh gai đen](https://dermnetnz.org/topics/acanthosis-nigricans)
+- [Viêm da mủ hoại thư](https://dermnetnz.org/topics/pyoderma-gangrenosum)
+- [Bệnh bạch biến](https://dermnetnz.org/topics/vitiligo)
+- [Bệnh vảy cá](https://dermnetnz.org/topics/ichthyosis)
+- [Bệnh vẩy nến](https://dermnetnz.org/topics/psoriasis)
+
+### Các biến thể lâm sàng được định nghĩa trong phân loại WHO-EORTC
+- Bệnh nấm nang lông ( u lympho tế bào T nang lông , u xơ tuyến tiền liệt, bệnh nhầy liên quan đến u xơ tuyến tiền liệt ) Biến thể không điển hình phổ biến nhất ở người lớn Các sẩn ngứa tập trung thành từng nhóm có thể giống với bệnh dày sừng nang lông hoặc mụn trứng cá, mảng bám hoặc khối u xung quanh nang lông Thường là vùng đầu và cổ Thường liên quan đến chứng rụng tóc do thay đổi u lympho xung quanh nang tóc Có thể kèm theo chảy dịch nhầy, tổn thương móng .
+- Biến thể không điển hình phổ biến nhất ở người lớn
+- Các sẩn ngứa tập trung thành từng nhóm có thể giống với bệnh dày sừng nang lông hoặc mụn trứng cá, mảng bám hoặc khối u xung quanh nang lông
+- Thường là vùng đầu và cổ
+- Thường liên quan đến chứng rụng tóc do thay đổi u lympho xung quanh nang tóc
+- Có thể kèm theo chảy dịch nhầy, tổn thương móng .
+- Bệnh lưới Pagetoid (bệnh Woringer-Kolopp) Biến thể hiếm Mảng vảy đơn độc phát triển chậm hoặc mảng mụn cóc Thường nằm ở các chi xa .
+- Biến thể hiếm
+- Mảng vảy đơn độc phát triển chậm hoặc mảng mụn cóc
+- Thường nằm ở các chi xa .
+- Da chùng nhão dạng hạt Biến thể rất hiếm Các nếp gấp da chảy xệ trong các mảng ban đỏ Nách và bẹn là những vị trí thường bị ảnh hưởng.
+- Biến thể rất hiếm
+- Các nếp gấp da chảy xệ trong các mảng ban đỏ
+- Nách và bẹn là những vị trí thường bị ảnh hưởng.
+
+### Các biểu hiện lâm sàng khác của bệnh nấm mycosis fungoides
+![Bệnh nấm nang lông](https://dermnetnz.org/assets/Uploads/mycosis-fungoides-5.jpg)
+![Bệnh lưới Pagetoid](https://dermnetnz.org/assets/Uploads/mycosis-fungoides-14.jpg)
+![Mycosis fungoides palmaris](https://dermnetnz.org/assets/Uploads/MF-palms.jpg)
+
+### Các đặc điểm lâm sàng khác của bệnh nấm mycosis fungoides
+- [U nang biểu bì](https://dermnetnz.org/topics/epidermoid-cyst)
+- Các triệu chứng điển hình của nhóm 'B' — sốt , sụt cân.
+
+### Bệnh nấm mycosis fungoides ở trẻ em
+U lympho nấm mycosis là bệnh u lympho da nguyên phát phổ biến nhất (65%) ở trẻ em, nhưng chẩn đoán thường bị trì hoãn (2–5 năm). Độ tuổi trung bình khi chẩn đoán là 10 tuổi, và tỷ lệ mắc bệnh ở cả hai giới gần như ngang nhau. Hầu hết trẻ em mắc các biến thể không điển hình và thường có nhiều biến thể. Hơn 50% trẻ em mắc biến thể giảm sắc tố của bệnh MF; MF điển hình ảnh hưởng đến 40%, và MF nang lông ảnh hưởng đến một phần ba.
+
+---
+
+## Các đặc điểm lâm sàng khác nhau ở các loại da khác nhau như thế nào?
+
+Bệnh nấm mycosis fungoides ở da màu thường biểu hiện dưới dạng các sẩn và mảng giảm sắc tố mà không có teo biểu bì . Một loạt ca bệnh lớn từ Đại học Johns Hopkins đã báo cáo rằng nam giới người Mỹ gốc Phi có biểu hiện bệnh ở giai đoạn muộn và tổn thương da nhiều hơn người Mỹ da trắng; phụ nữ Mỹ gốc Phi có bệnh khởi phát sớm và tiến triển nhanh. Bệnh nhân có tổn thương giảm sắc tố có nhiều khả năng mắc bệnh ở giai đoạn sớm và khả năng sống sót cao hơn so với những người mắc bệnh ở giai đoạn tiến triển trong một loạt ca bệnh khác tại Hoa Kỳ.
+
+### Nội soi da bệnh nấm mycosis fungoides
+
+#### Giai đoạn vá cổ điển của bệnh nấm mycosis fungoides
+- Tàu thuyền Tuyến tính ngắn tốt Cấu trúc mạch máu của tinh trùng - rất đặc hiệu
+- Tuyến tính ngắn tốt
+- Cấu trúc mạch máu của tinh trùng - rất đặc hiệu
+- Vảy - trắng
+- Màu sắc - vàng cam
+- Thay đổi nang lông - không thấy
+
+#### Bệnh nấm nấm Poikilodermatous
+- Cấu trúc đa giác - các tiểu thùy có vệt trắng hình thoi và các chấm đỏ mịn hoặc mạch máu hình kẹp tóc
+- Vách ngăn lưới màu nâu - các chấm sắc tố phân bố không đều hoặc không liên tục
+- Mạch máu chấm và mạch máu cầu thận
+- Những vết bẩn màu đỏ-vàng, nền màu hồng-trắng
+
+#### Bệnh nấm nang lông
+- Thay đổi sớm - quầng trắng quanh nang lông có kích thước khác nhau
+- Thay đổi muộn - mở đầu giống như mụn trứng cá
+
+#### Nấm mycosis giảm sắc tố
+- Các mạch máu ngắn giống như tinh trùng
+- Thang trắng tiêu điểm
+- Cấu trúc màu nâu vàng
+- Mạng lưới sắc tố bị hỏng
+- Nền trắng
+
+#### Nấm da đỏ toàn thân
+- Các mạch máu chấm, tuyến tính không đều và tinh trùng
+- Các khu vực không có cấu trúc màu nâu
+- Các vòng tròn màu thịt quanh nang lông, các mạch máu hướng tâm hoặc hướng tâm
+- Trichoscopy - cũng có vảy trắng giữa các nang lông, nhiều chấm xám
+
+---
+
+## Biến chứng của bệnh nấm mycosis là gì?
+
+- Loét mảng bám và khối u, kèm nhiễm trùng thứ phát do vi khuẩn
+- Lan truyền ngoài da – đến các hạch bạch huyết và hiếm khi đến các cơ quan nội tạng bao gồm phổi, vòm họng , xương và hệ thần kinh trung ương
+- Bệnh nấm da đỏ toàn thân — không giống như [hội chứng Sézary,](https://dermnetnz.org/topics/sezary-syndrome) không có/có ít 'tế bào Sézary' lưu hành trong máu ngoại vi
+- Hội chứng Sézary đôi khi có thể xảy ra trước bệnh nấm mycosis fungoides
+- Chuyển đổi thành u lympho tế bào lớn
+- Các dạng khác của u lympho, ung thư da và khối u ác tính bên trong
+- Tác động đến chất lượng cuộc sống — lo lắng và trầm cảm do không chắc chắn về tiến triển của bệnh và gánh nặng kinh tế của bệnh mãn tính
+
+---
+
+## Bệnh mycosis fungoides được chẩn đoán như thế nào?
+
+Chẩn đoán bệnh nấm mycosis fungoides cần phải có sự đối chiếu lâm sàng và bệnh lý cẩn thận . Soi da có thể giúp phân biệt MF với bệnh viêm da , các nguyên nhân khác gây [đỏ da](https://dermnetnz.org/topics/erythroderma) và bệnh phong (xem [phần Soi da bệnh phong](https://dermnetnz.org/topics/dermoscopy-of-leprosy) ). [](https://dermnetnz.org/topics/erythroderma) [](https://dermnetnz.org/topics/dermoscopy-of-leprosy)
+[Thường cần sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) nhiều lần theo thời gian để xác nhận chẩn đoán, đặc biệt là trong giai đoạn đầu. Mô bệnh học đặc trưng bởi thâm nhiễm tế bào T CD4+ ác tính (xem [Bệnh học Mycosis fungoides](https://dermnetnz.org/topics/mycosis-fungoides-pathology) ).
+Các xét nghiệm sâu hơn được thực hiện trên mẫu sinh thiết da có thể bao gồm:
+- [Miễn dịch mô hóa học](https://dermnetnz.org/topics/immunohistochemistry-stains)
+- Kính hiển vi điện tử
+- Lai tạo tại chỗ
+- Phản ứng chuỗi polymerase ( PCR )
+- Lai tạo huỳnh quang tại chỗ (FISH) (xem [Xét nghiệm di truyền tế bào](https://dermnetnz.org/topics/cytogenetic-testing) )
+- Nghiên cứu gen thụ thể tế bào T (TCR) .
+Xét nghiệm máu, sinh thiết hạch bạch huyết và chụp ảnh (ví dụ: chụp CT / PET ) có thể cần thiết nếu lo ngại các tổn thương da là thứ phát sau u lympho toàn thân , ở giai đoạn tiến triển (tức là lan ra ngoài da) hoặc để phân loại TNMB.
+Phân loại giai đoạn da của bệnh nấm mycosis: T1, các mảng/lĩnh vực giới hạn (<10% BSA); T2, các mảng/lĩnh vực lan rộng (>10% BSA); T3, khối u; T4, ban đỏ toàn thân.
+
+### Chẩn đoán bệnh nấm mycosis fungoides
+![Mycosis fungoides, mô học](https://dermnetnz.org/assets/Uploads/mycosis-fungoides-figure-5.jpg)
+![Nhuộm CD4 miễn dịch mô học dương tính](https://dermnetnz.org/assets/Uploads/transformed-mf-cd4x200.jpg)
+
+---
+
+## Chẩn đoán phân biệt bệnh nấm mycosis fungoides là gì?
+
+- Các mảng da — [viêm da](https://dermnetnz.org/topics/dermatitis) , [bệnh vẩy nến](https://dermnetnz.org/topics/psoriasis) và các bệnh viêm da khác
+- Mảng bám và khối u — các bệnh ác tính bao gồm các u lympho da khác
+
+---
+
+## Phương pháp điều trị bệnh nấm mycosis fungoides là gì?
+
+Bệnh nấm mycosis fungoides có thể điều trị được, nhưng không thể chữa khỏi hoàn toàn. Hiện chưa có hướng dẫn điều trị nào được chấp nhận trên toàn cầu. Việc điều trị nên dựa trên nguyện vọng của bệnh nhân, giai đoạn bệnh, khả năng tiếp cận các phương pháp điều trị và chuyên môn tại địa phương. Bệnh thường tái phát sau hầu hết các lần điều trị. Có thể cân nhắc phương pháp chờ đợi và theo dõi đối với các trường hợp bệnh ở giai đoạn sớm, giới hạn ở mức độ nhẹ.
+
+### Điều trị tại chỗ
+- [Steroid tại chỗ](https://dermnetnz.org/topics/topical-steroid)
+- Hóa trị tại chỗ ví dụ như [mù tạt nitơ](https://dermnetnz.org/topics/topical-nitrogen-mustard) , carmustine
+- [Bexarotene](https://dermnetnz.org/topics/bexarotene) tại chỗ [](https://dermnetnz.org/topics/bexarotene)
+
+### Điều trị theo thủ tục
+- [Liệu pháp quang học](https://dermnetnz.org/topics/phototherapy) — [PUVA](https://dermnetnz.org/topics/puva-photochemotherapy) , [UVB dải hẹp](https://dermnetnz.org/topics/uvb-phototherapy)
+- [Xạ trị và](https://dermnetnz.org/topics/radiotherapy-for-malignant-skin-diseases) [liệu pháp chùm tia điện tử](https://dermnetnz.org/topics/electron-beam-radiation-for-cutaneous-lymphoma) toàn thân [](https://dermnetnz.org/topics/electron-beam-radiation-for-cutaneous-lymphoma)
+- [Quang phân ngoài cơ thể](https://dermnetnz.org/topics/extracorporeal-photopheresis)
+
+### Điều trị toàn thân
+- Hóa trị — mycosis fungoides tương đối kháng với hóa chất
+- Liệu pháp miễn dịch — interferon-alpha
+- [Retinoid](https://dermnetnz.org/topics/oral-retinoids) và rexinoid đường uống (ví dụ, [bexarotene](https://dermnetnz.org/topics/bexarotene) )
+- Các liệu pháp khác — bao gồm denileukin diftitox, kháng thể đơn dòng , chất ức chế histone deacetylase
+Chỉ có brentuximab vedotin (dành cho bệnh nhân mắc bệnh MF CD30+) và ghép tế bào gốc tạo máu đồng loại mới có thể thay đổi diễn biến tự nhiên của bệnh.
+
+---
+
+## Hậu quả của bệnh nấm mycosis fungoides là gì?
+
+Bệnh nấm mycosis fungoides thường diễn biến âm thầm trong nhiều năm, với tỷ lệ sống sót sau 5 năm ước tính là 87%. Thời gian sống sót ở giai đoạn sớm ước tính khoảng 18 năm. Mặc dù tỷ lệ sống sót được cải thiện ở bệnh nhân MF đã được chứng minh, nhưng điều này có thể là do chẩn đoán sớm hơn chứ không phải do những tiến bộ trong điều trị.
+Đôi khi, các tổn thương riêng lẻ có thể tự khỏi .
+Tuổi tác, giai đoạn da và sự hiện diện/vắng mặt của bệnh ngoài da là những yếu tố dự báo chính về khả năng sống sót. Bệnh ở giai đoạn da T1 (các mảng/mảng giới hạn) không làm thay đổi tuổi thọ, mặc dù khoảng một phần ba số bệnh nhân mắc bệnh ở giai đoạn da T1 tiến triển đến giai đoạn nặng hơn.
+Các biến thể giảm sắc tố và poikilodermatous có tiến triển bệnh chậm hơn và khả năng sống sót theo bệnh tốt hơn so với MF cổ điển trong khi MF nang lông, mụn mủ và u hạt được coi là các biến thể hung hãn hơn.
+Nguyên nhân gây tử vong phổ biến nhất là u lympho không Hodgkin (NHL), thường là u nấm mycosis nhưng có thể là NHL thứ hai, trong đó bệnh ác tính không phải NHL là loại phổ biến thứ hai.

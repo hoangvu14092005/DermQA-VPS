@@ -1,0 +1,68 @@
+# Bệnh giả porphyria — thông tin bổ sung
+
+Thể loại:
+
+Phát ban
+
+SNOMED CT:
+
+95565000, 403732009, 239000007, 403717002
+
+**[Phát ban](https://dermnetnz.org/topics/topics?category=Rashes)**
+
+
+# **Bệnh giả porphyria**
+
+Tác giả: Tiến sĩ Mark Duffill, Hamilton, New Zealand, 2008.
+
+---
+
+## Bệnh giả porphyria là gì?
+
+Giả porphyria là tình trạng rất giống với bệnh porphyria da thực sự ( [porphyria cutanea tarda](https://dermnetnz.org/topics/porphyria-cutanea-tarda) , [porphyria variegate](https://dermnetnz.org/topics/variegate-porphyria) ) nhưng xét nghiệm porphyrin lại bình thường. [](https://dermnetnz.org/topics/porphyria-cutanea-tarda) [](https://dermnetnz.org/topics/variegate-porphyria)
+
+---
+
+## Triệu chứng của bệnh giả porphyria là gì?
+
+Các dấu hiệu trên da bao gồm da mỏng manh và [nhạy cảm với ánh sáng](https://dermnetnz.org/topics/photosensitivity) . Các mụn nước căng hình thành tại vị trí chấn thương nhẹ trên vùng da tiếp xúc với ánh nắng mặt trời , vỡ sớm để lại vảy và vết trợt. Các mụn nước thường xuất hiện nhiều nhất ở tay và chân. Đôi khi chúng lành lại và để lại sẹo cùng [các nang](https://dermnetnz.org/topics/cutaneous-cysts-and-pseudocysts) nhỏ màu trắng dưới da ( [mụn kê](https://dermnetnz.org/topics/milium) ).
+Cũng có thể xảy ra phát ban giống như [cháy nắng .](https://dermnetnz.org/topics/sunburn)
+![Không có caption](https://dermnetnz.org/assets/Uploads/reactions/pseudoporphyria1.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/reactions/pseudoporphyria3.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/reactions/pseudoporphyria4.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/reactions/pseudoporphyria5.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/reactions/pseudoporphyria2.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/reactions/pseudoporphyria6.jpg)
+
+---
+
+## Nguyên nhân gây ra bệnh giả porphyria là gì?
+
+Bệnh giả porphyria thường do thuốc hoặc các tác nhân khác tương tác với ánh sáng mặt trời gây ra phản ứng quang độc trên da. Các tác nhân này bao gồm:
+- [Thuốc chống viêm không steroid](https://dermnetnz.org/topics/non-steroidal-anti-inflammatory-drugs-and-their-skin-side-effects) như naproxen
+- Thuốc kháng sinh – [doxycyline](https://dermnetnz.org/topics/tetracycline) , axit nalidixic
+- Thuốc lợi tiểu – chlorthalidone, bumetanide, furosemide (frusemide) và hydrochlorthiazide / triamterene
+- Retinoid – [isotretinoin](https://dermnetnz.org/topics/isotretinoin) , etretinate, [acitretin](https://dermnetnz.org/topics/acitretin)
+- Thuốc tránh thai đường uống
+- Thẩm tách thận
+- Các nguyên nhân hiếm gặp khác (báo cáo trường hợp đơn lẻ)
+Nó có thể bị kích động bởi:
+- [Liệu pháp quang học](https://dermnetnz.org/topics/phototherapy) (điều trị bằng tia cực tím)
+- [Giường tắm nắng và phòng tắm nắng](https://dermnetnz.org/topics/sunbeds-and-solaria)
+- Tiếp xúc quá nhiều với ánh nắng mặt trời
+
+---
+
+## Điều tra
+
+Nếu có nghi ngờ lâm sàng, các xét nghiệm sinh hóa sẽ được thực hiện để loại trừ bệnh porphyria da thực sự. Các xét nghiệm này có thể bao gồm mẫu máu, nước tiểu và phân.
+Có thể lấy mẫu sinh thiết da từ vết phồng rộp [.](https://dermnetnz.org/topics/skin-biopsy)
+[](https://dermnetnz.org/topics/phototesting) Có thể tiến hành [thử nghiệm bằng ánh sáng để xác nhận tác dụng gây độc của tác nhân nghi ngờ.](https://dermnetnz.org/topics/phototesting)
+
+---
+
+## Sự quản lý
+
+Điều quan trọng là phải loại bỏ tác nhân nghi ngờ nếu có thể và tránh tiếp xúc không cần thiết với ánh sáng mạnh.
+[Các biện pháp bảo vệ khỏi ánh nắng mặt trời có thể bao gồm](https://dermnetnz.org/topics/sun-protection) [kem chống nắng](https://dermnetnz.org/topics/topical-sunscreen-agents) ngăn chặn tia UVB và tia UVA .
+Các triệu chứng thường sẽ hết trong vòng vài tuần nhưng đôi khi vẫn dai dẳng.

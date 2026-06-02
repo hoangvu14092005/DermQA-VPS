@@ -1,0 +1,124 @@
+# Pachyonychia congenita – thông tin thêm
+
+Thể loại:
+
+Di truyền
+
+SNOMED CT:
+
+39427000
+
+**[Di truyền](https://dermnetnz.org/topics/topics?category=Genetic)**
+
+
+# **Pachyonychia congenita**
+
+Tác giả: Tiến sĩ Sharnika Abeyakirthi, Chuyên viên Đăng ký Da liễu, Bệnh viện Waikato, Hamilton, New Zealand, 2014. Cập nhật bởi Tiến sĩ Fen-Lan Cherry Chang, Cán bộ Nội trú, Bệnh viện Middlemore, Auckland, New Zealand. Tổng Biên tập DermNet: Phó Giáo sư Amanda Oakley, Bác sĩ Da liễu, Hamilton, New Zealand. Tháng 6 năm 2020.
+
+---
+
+## Pachyonychia congenita là gì?
+
+Pachyonychia congenita là tên gọi của một nhóm các rối loạn di truyền hiếm gặp về quá trình sừng hóa — quá trình keratin được hình thành và lắng đọng ở lớp ngoài cùng của da.
+Pachyonychia congenita đặc trưng bởi da lòng bàn tay và lòng bàn chân dày lên, móng tay dày lên và các mảng trắng trên niêm mạc. Các đặc điểm cụ thể phụ thuộc vào gen keratin bị ảnh hưởng.
+![Sừng hóa gan bàn chân](https://dermnetnz.org/assets/Uploads/pachyonychia-congenita-08.jpg)
+![Pachyonychia congenita](https://dermnetnz.org/assets/Uploads/pachyonychia-congenita-07.jpg)
+![Pachyonychia congenita](https://dermnetnz.org/assets/Uploads/pachyonychia-congenita-10.jpg)
+
+---
+
+## Ai mắc phải bệnh này và nguyên nhân gây ra bệnh pachyonychia congenita là gì?
+
+Số lượng bệnh nhân trên toàn thế giới mắc chứng pachyonychia congenita ước tính vào khoảng từ 1.000 đến 10.000 [1]. Sổ đăng ký nghiên cứu pachyonychia congenita quốc tế (IPCRR) đã báo cáo 977 cá nhân được xác nhận mắc chứng pachyonychia congenita về mặt di truyền vào tháng 1 năm 2020 [1].
+Pachyonychia congenita (vảy móng tay bẩm sinh) là do đột biến ở các gen mã hóa keratin, K6a, K16, K17, K6b và K6c (được liệt kê theo tần suất giảm dần). Cho đến nay, 115 đột biến đã được IPCRR mô tả.
+Pachyonychia congenita là bệnh di truyền trội trên nhiễm sắc thể thường . Điều này có nghĩa là gen khiếm khuyết xuất phát từ một trong hai cha mẹ. Một người mắc bệnh này có 50% khả năng truyền bệnh cho con cái trong mỗi lần mang thai. Bệnh này gặp ở tất cả các nhóm dân tộc và với tỷ lệ ngang nhau ở cả hai giới.
+Bệnh Pachyonychia congenita thường xảy ra do đột biến ngẫu nhiên trong quá trình thụ thai khi bệnh nhân không khai báo tiền sử gia đình.
+
+---
+
+## Đặc điểm lâm sàng của bệnh pachyonychia congenita là gì?
+
+Các đặc điểm lâm sàng của bệnh pachyonychia congenita phụ thuộc vào gen keratin nào có liên quan.
+Lòng bàn tay và lòng bàn chân
+- Lòng bàn tay, lòng bàn chân dày hoặc chai sạn ( sừng hóa lòng bàn tay, bàn chân hoặc [dày sừng](https://dermnetnz.org/topics/palmoplantar-keratoderma) , đặc biệt là [dày sừng khu trú lòng bàn tay, bàn chân](https://dermnetnz.org/topics/hereditary-focal-palmoplantar-keratoderma) ) gây khó khăn khi đi lại. [](https://dermnetnz.org/topics/palmoplantar-keratoderma) [](https://dermnetnz.org/topics/hereditary-focal-palmoplantar-keratoderma)
+- Vùng gan bàn chân ảnh hưởng đến 95% bệnh nhân mắc bệnh pachyonychia congenita; nó có thể có thành phần bệnh lý thần kinh [3].
+- Cơn đau có thể liên tục và dữ dội, đặc biệt ở những bệnh nhân có đột biến K6a và K16.
+- Sừng hóa lòng bàn tay và bàn chân có thể là đặc điểm duy nhất của bệnh dày móng bẩm sinh ở những bệnh nhân có đột biến K6c.
+- [Tăng tiết mồ hôi](https://dermnetnz.org/topics/hyperhidrosis) (đổ mồ hôi quá nhiều) có thể đi kèm với bệnh sừng hóa da.
+- Phồng rộp có thể xuất hiện do ma sát và thời tiết ấm áp.
+![Pachyonychia congenita](https://dermnetnz.org/assets/Uploads/scaly/pachyonychia2.jpg)
+![Pachyonychia congenita](https://dermnetnz.org/assets/Uploads/scaly/pachyonychia5.jpg)
+Móng tay
+- Những thay đổi ở móng tay nghiêm trọng nhất là đột biến K6a và K16.
+- Móng tay dày lên có thể thấy rõ từ khi còn nhỏ - do đó có tên là pachyonychia congenita.
+- Móng tay thường có màu nâu.
+- Tất cả các móng tay đều thường bị ảnh hưởng; móng chân ít bị ảnh hưởng hơn.
+- Một số đột biến K16 cụ thể không ảnh hưởng đến móng tay.
+![Pachyonychia](https://dermnetnz.org/assets/Uploads/doctors/principles/images/pachy.jpg)
+![Pachyonychia congenita](https://dermnetnz.org/assets/Uploads/scaly/pachyonychia1.jpg)
+![Pachyonychia congenita](https://dermnetnz.org/assets/Uploads/scaly/pachyonychia4.jpg)
+U nang
+- [U nang bã nhờn](https://dermnetnz.org/topics/steatocystoma-multiplex) và [u nang](https://dermnetnz.org/topics/cutaneous-cysts-and-pseudocysts) tuyến bã nhờn là phổ biến. [](https://dermnetnz.org/topics/cutaneous-cysts-and-pseudocysts)
+- Hầu hết bệnh nhân có đột biến K17 đều mắc bệnh u mỡ đa ổ.
+- U nang có thể gây đau hoặc không.
+Da khô
+- Các vị trí ma sát như đầu gối và khuỷu tay có thể bị khô do tình trạng tăng sừng nang lông .
+- Bệnh tăng sừng nang lông có xu hướng ít rõ ràng hơn ở người trưởng thành.
+![Da khô ở khuỷu tay](https://dermnetnz.org/assets/Uploads/pachyonychia-congenita-09-v2.jpg)
+Miệng
+- Các mảng trắng ảnh hưởng đến lưỡi và bên trong má (bệnh bạch sừng hóa).
+- Răng bẩm sinh hoặc răng trước khi sinh không phổ biến và thường là đặc điểm của đột biến K17.
+- Hội chứng cắn lần đầu — trẻ em bị đột biến K6a có thể bị đau dữ dội khi mới bắt đầu ăn.
+- Trẻ em có thể bị viêm [khóe môi](https://dermnetnz.org/topics/angular-cheilitis) .
+![Bệnh bạch cầu sừng hóa miệng](https://dermnetnz.org/assets/Uploads/scaly/pachyonychia3.jpg)
+Thanh quản
+- Sự liên quan đến thanh quản có thể thay đổi từ khàn giọng đến tắc nghẽn đường thở [4].
+
+---
+
+## Phân loại pachyonychia congenita
+
+Pachyonychia congenita theo truyền thống được phân loại thành Loại 1 và Loại 2, dựa trên các đặc điểm lâm sàng. Phân loại hiện nay phụ thuộc vào gen keratin nào có đột biến cụ thể [2].
+![](/assets/Resources/pachyonychia-congenita.jpg)
+* [pachyonychia.org/pc-data](https://translate.google.com/website) [2]
+
+---
+
+## Pachyonychia congenita được chẩn đoán như thế nào?
+
+Bệnh Pachyonychia congenita thường được chẩn đoán dựa vào biểu hiện lâm sàng.
+[Sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) ở các mô bị ảnh hưởng sẽ chỉ cho thấy những thay đổi không đặc hiệu.
+Các nghiên cứu di truyền phân tử có thể được thực hiện bởi các phòng thí nghiệm chuyên khoa để phát hiện đột biến trong các gen keratin bị ảnh hưởng. Chuyên gia tư vấn di truyền có thể tư vấn xem xét nghiệm này có sẵn tại khu vực của bạn hay không. Xét nghiệm này được cung cấp miễn phí thông qua Dự án Pachyonychia Congenita.
+Xét nghiệm trước sinh đôi khi được cung cấp cho phụ nữ mang thai khi họ hoặc bạn đời bị viêm móng bẩm sinh. Chẩn đoán trước khi làm tổ của phôi 'ống nghiệm' cũng đã được báo cáo.
+
+---
+
+## Chẩn đoán phân biệt bệnh pachyonychia congenita là gì?
+
+Trước khi xét nghiệm di truyền, một số bệnh nhân được chẩn đoán mắc bệnh pachyonychia congenita nhưng thực tế không mắc chứng rối loạn này. Đột biến ở các gen keratin khác có thể dẫn đến các tình trạng da tương tự.
+- Các hội chứng di truyền khác có đặc điểm tương tự bao gồm hội chứng Clouston, hội chứng Olmsted và bệnh dày sừng lòng bàn tay và bàn chân.
+- [U nang mỡ đa ổ](https://dermnetnz.org/topics/steatocystoma-multiplex)
+- [Bệnh nấm miệng](https://dermnetnz.org/topics/oral-candidiasis)
+- Các rối loạn móng khác như [bệnh vẩy nến móng](https://dermnetnz.org/topics/nail-psoriasis) hoặc [bệnh nấm móng](https://dermnetnz.org/topics/fungal-nail-infections)
+
+---
+
+## Phương pháp điều trị bệnh pachyonychia congenita là gì?
+
+Hiện vẫn chưa có phương pháp chữa khỏi bệnh pachyonychia congenita. Hiệu quả điều trị phụ thuộc vào mức độ nghiêm trọng của từng bệnh.
+Điều trị bệnh sừng hóa có thể bao gồm:
+- Cắt lọc cơ học — cắt tỉa thường xuyên các vết chai có thể làm giảm đau
+- Chăm sóc bàn chân: móng nên được cắt tỉa đến độ dài phù hợp để giảm nguy cơ nhiễm trùng. Ngâm móng trước có thể làm mềm da/móng, giúp việc cắt tỉa dễ dàng hơn.
+- [Thuốc mỡ làm mềm da](https://dermnetnz.org/topics/emollients-and-moisturisers)
+- Thuốc làm bong lớp sừng , chẳng hạn như thuốc mỡ [axit salicylic](https://dermnetnz.org/topics/salicylic-acid) , [kem urê](https://dermnetnz.org/topics/urea) hoặc các dạng thuốc bôi gót chân khác [](https://dermnetnz.org/topics/urea)
+- [Tắm thuốc tẩy](https://dermnetnz.org/topics/bleach-baths-in-patients-with-skin-infections) để giảm nhiễm trùng
+- Giày đệm và chỉnh hình
+- Giảm đau.
+[Retinoid đường uống](https://dermnetnz.org/topics/oral-retinoids) như [acitretin](https://dermnetnz.org/topics/acitretin) làm mỏng vết chai nhưng đã được chứng minh là làm tăng đau
+Các phương pháp điều trị thử nghiệm đang được cung cấp cho một số bệnh nhân mắc bệnh pachyonychia congenita như một phần của các thử nghiệm lâm sàng về các tác nhân mới như chất ức chế mTOR (ví dụ: [sirolimus](https://dermnetnz.org/topics/sirolimus) ).
+
+---
+
+## Hậu quả của bệnh pachyonychia congenita là gì?
+
+Pachyonychia congenita không ảnh hưởng đến tuổi thọ nhưng lại có tác động đáng kể đến chất lượng cuộc sống của mỗi cá nhân do rối loạn này gây ra những hạn chế về chức năng và ảnh hưởng về mặt tâm lý.

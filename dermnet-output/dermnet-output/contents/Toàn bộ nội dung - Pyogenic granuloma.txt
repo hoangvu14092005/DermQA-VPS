@@ -1,0 +1,120 @@
+# U hạt sinh mủ — thông tin bổ sung
+
+Thể loại:
+
+Tổn thương (lành tính)
+
+SNOMED CT:
+
+200722003, 39629007, 403961004, 235002009, 76813008, 713249002
+
+**[Tổn thương (lành tính)](https://dermnetnz.org/topics/topics?category=Lesions+(benign))**
+
+
+# **U hạt sinh mủ**
+
+Tác giả: Vanessa Ngan, Biên tập viên, 2003. Cập nhật bởi Tiến sĩ Malini Sivasaththivel, RMO, Eastern Health, Box Hill, Úc; Tiến sĩ Smriti Tandon, Chuyên viên Đăng ký Da liễu, Eastern Health, Box Hill, Úc; Tiến sĩ Lena Ly, Bác sĩ Da liễu, Eastern Health, Box Hill, Úc. Biên tập bởi Gus Mitchell. Tháng 1 năm 2021.
+
+---
+
+## U hạt mủ là gì?
+
+U hạt sinh mủ là tình trạng tăng sinh lành tính mắc phải của các mạch máu mao mạch ở da và khoang miệng. Tên gọi này không chính xác vì nó là một dạng u máu mao mạch thùy , không phải do nhiễm trùng. U hạt sinh mủ có nhiều từ đồng nghĩa, bao gồm u hạt thai kỳ hoặc u thai kỳ khi xảy ra trong [thai kỳ](https://dermnetnz.org/topics/skin-changes-in-pregnancy) . [](https://dermnetnz.org/topics/skin-changes-in-pregnancy)
+![U hạt sinh mủ](https://dermnetnz.org/assets/Uploads/doctors/lesions/images/pg1.jpg)
+![U hạt sinh mủ](https://dermnetnz.org/assets/Uploads/doctors/lesions/images/pg2.jpg)
+![U hạt sinh mủ](https://dermnetnz.org/assets/Uploads/doctors/lesions/images/pg4.jpg)
+
+---
+
+## Ai mắc bệnh u hạt mủ?
+
+U hạt sinh mủ thường xảy ra ở trẻ em khoảng 6 tuổi và trong giai đoạn thiếu niên và thanh niên. Nhìn chung, nam giới chiếm ưu thế (3:2) ngoại trừ các tổn thương ở miệng do liên quan đến thai kỳ và sử dụng [thuốc tránh thai đường uống](https://dermnetnz.org/topics/oral-contraceptive) . Không có sự khác biệt về chủng tộc.
+
+---
+
+## Nguyên nhân gây ra bệnh u hạt mủ là gì?
+
+Các yếu tố liên quan đến sự phát triển của u hạt mủ có thể bao gồm:
+- Chấn thương — chấn thương nhỏ gần đây chiếm 7% các trường hợp, và trong khoang miệng, kích ứng nhẹ mạn tính được cho là tác nhân phổ biến. Xỏ khuyên mũi được báo cáo có liên quan đến u hạt mủ trong mũi.
+- Ảnh hưởng của hormone — có thể xảy ra khi sử dụng thuốc tránh thai đường uống và ở 5% trường hợp mang thai.
+- Thuốc — [retinoid uống](https://dermnetnz.org/topics/oral-retinoids) , thuốc ức chế protease (dùng trong điều trị [HIV/AIDS](https://dermnetnz.org/topics/skin-conditions-relating-to-hiv-infection) ), [liệu pháp điều trị ung thư đích](https://dermnetnz.org/topics/targeted-cancer-therapies) và [ức chế miễn dịch.](https://dermnetnz.org/topics/drug-induced-immunosuppression) [](https://dermnetnz.org/topics/skin-conditions-relating-to-hiv-infection) [](https://dermnetnz.org/topics/targeted-cancer-therapies) [](https://dermnetnz.org/topics/drug-induced-immunosuppression)
+- Nhiễm trùng — Tụ cầu vàng thường được phát hiện. Trong khoang miệng, vệ sinh răng miệng kém là một yếu tố liên quan phổ biến. Không có bằng chứng nào cho thấy nguyên nhân do virus.
+
+---
+
+## Đặc điểm lâm sàng của u hạt mủ là gì?
+
+U hạt sinh mủ ở da biểu hiện là một nốt sần thịt màu đỏ không đau , thường có đường kính 5-10mm, phát triển nhanh chóng trong vài tuần. Bề mặt ban đầu nhẵn nhưng có thể loét, đóng vảy hoặc sùi. U hạt sinh mủ thường đơn độc, nhưng có thể xuất hiện nhiều nốt sần và tổn thương vệ tinh. Vị trí thường gặp nhất là ngón tay và mặt. U hạt sinh mủ dễ chảy máu khi bị chấn thương nhẹ.
+U hạt sinh mủ niêm mạc miệng thường phát triển trên môi và nướu ( lợi ) dưới dạng các sẩn đỏ không đau , có cuống hoặc không cuống , phát triển chậm , kích thước từ vài mm đến vài cm. Bề mặt có thể bị loét với bề mặt tơ huyết màu vàng và dễ chảy máu. Theo thời gian, tổn thương chuyển sang màu hồng nhạt hơn. Các vị trí niêm mạc khác có thể bị ảnh hưởng bao gồm kết mạc và niêm mạc mũi.
+![Không có caption](https://dermnetnz.org/assets/Uploads/vascular/pyo-gran1.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/vascular/pyo-gran3.jpg)
+![Không có caption](https://dermnetnz.org/assets/Uploads/vascular/pyo-gran2.jpg)
+![Tổn thương mới](https://dermnetnz.org/assets/Uploads/vascular/pyogenic-granuloma-2.jpg)
+![2 tuần sau](https://dermnetnz.org/assets/Uploads/vascular/pyogenic-granuloma-3.jpg)
+![4 tuần sau bức ảnh đầu tiên](https://dermnetnz.org/assets/Uploads/vascular/pyogenic-granuloma-1.jpg)
+
+---
+
+## Đặc điểm da liễu của u hạt mủ là gì?
+
+U hạt sinh mủ có viền sừng hóa rõ rệt, tạo thành một mảng cổ áo màu trắng. Thường có cấu trúc mạch máu và có các vùng đồng nhất màu đỏ , không có hoa văn ổ khuyết rõ ràng. Các "đường kẻ" tuyến tính màu trắng là một đặc điểm quan trọng.
+![Nội soi da u hạt sinh mủ](https://dermnetnz.org/assets/Uploads/doctors/dermoscopy-course/images/pyogenic-granuloma.jpg)
+![Các cục máu đỏ được ngăn cách bởi các đường trắng trong u hạt mủ](https://dermnetnz.org/assets/Uploads/doctors/dermoscopy-course/images/clods40.jpg)
+
+---
+
+## Biến chứng của bệnh u hạt mủ là gì?
+
+U hạt sinh mủ có thể chảy máu nhiều và thường xuyên khi bị chấn thương nhẹ, dẫn đến thiếu máu.
+U hạt mủ miệng hiếm khi có thể gây mất xương đáng kể.
+
+---
+
+## Bệnh u hạt mủ được chẩn đoán như thế nào?
+
+U hạt sinh mủ thường là chẩn đoán lâm sàng. Tuy nhiên, mô có thể được gửi đi xét nghiệm mô học sau khi phẫu thuật điều trị tổn thương hoặc khi có nghi ngờ về chẩn đoán.
+Mô học của u hạt sinh mủ cho thấy sự sắp xếp mao mạch thùy nổi bật ở lớp hạ bì. Lớp biểu bì bên trên có thể mỏng hoặc loét, và lớp cổ áo ngoại vi được hình thành bởi các gờ lưới và ống dẫn eccrine kéo dài . Các thay đổi viêm và dấu hiệu xuất huyết là thứ phát.
+![Sự sắp xếp tiểu thùy của mao mạch ở da](https://dermnetnz.org/assets/Uploads/doctors/dermoscopy-course/images/clods41.jpg)
+Có hai loại mô học riêng biệt của u hạt mủ miệng. Ngoài dạng u máu mao mạch thùy, loại thứ hai biểu hiện sự tăng sinh mạch máu giống mô hạt riêng biệt , được cho là có nguyên nhân và tiến triển khác nhau.
+
+---
+
+## Chẩn đoán phân biệt bệnh u hạt mủ là gì?
+
+Chẩn đoán phân biệt lâm sàng của u hạt mủ da bao gồm:
+- [U hắc tố không có sắc tố](https://dermnetnz.org/topics/amelanotic-melanoma)
+- [Ung thư Kaposi](https://dermnetnz.org/topics/kaposi-sarcoma)
+- [Bệnh u mạch trực khuẩn](https://dermnetnz.org/topics/bacillary-angiomatosis) .
+U hắc tố không có sắc tố hoặc giảm sắc tố là chẩn đoán phân biệt quan trọng nhất ngay cả khi soi da vì có nhiều đặc điểm chung.
+Chẩn đoán phân biệt u hạt mủ khoang miệng bao gồm các chẩn đoán trên, cũng như [u hạt tế bào khổng lồ ngoại vi](https://dermnetnz.org/topics/epulis) tại vị trí cụ thể và [u xơ hóa ngoại vi](https://dermnetnz.org/topics/peripheral-ossifying-fibroma) .
+Chẩn đoán phân biệt về mô học bao gồm [u mạch anh đào](https://dermnetnz.org/topics/cherry-angioma) và u mạch trực khuẩn.
+
+---
+
+## Phương pháp điều trị bệnh u hạt mủ là gì?
+
+
+### Các biện pháp chung
+Việc điều trị hoặc loại bỏ các yếu tố kích hoạt là rất quan trọng để giảm thiểu nguy cơ tái phát. Điều này có thể bao gồm:
+- Ngừng sử dụng các chất kích thích gây nghiện
+- Vệ sinh răng miệng cẩn thận
+- Điều trị chấn thương răng miệng do răng gây ra
+- Tháo bỏ các lỗ xỏ khuyên liền kề .
+
+### Điều trị tại chỗ u hạt mủ
+- [](https://dermnetnz.org/topics/imiquimod) Kem [Imiquimod](https://dermnetnz.org/topics/imiquimod) 5%
+- Gel Timolol 0,5% và [các thuốc chẹn beta](https://dermnetnz.org/topics/beta-blockers) tại chỗ (hoặc uống) khác [](https://dermnetnz.org/topics/beta-blockers)
+- [Tiêm steroid vào tổn thương](https://dermnetnz.org/topics/intralesional-steroid-injection)
+- [Liệu pháp lạnh](https://dermnetnz.org/topics/cryotherapy)
+- Liệu pháp muối ăn — muối ăn được bôi dưới lớp băng che phủ sau khi bảo vệ vùng da xung quanh bằng parafin mềm màu vàng.
+
+### Điều trị thủ thuật u hạt mủ
+- [Nạo và đốt](https://dermnetnz.org/topics/curettage-and-cautery)
+- [Cắt bỏ phẫu thuật](https://dermnetnz.org/topics/excision-of-skin-lesions)
+- [Laser](https://dermnetnz.org/topics/lasers-in-dermatology) mạch máu và laser phá hủy [](https://dermnetnz.org/topics/lasers-in-dermatology)
+
+---
+
+## Hậu quả của bệnh u hạt mủ là gì?
+
+U hạt sinh mủ hiếm khi tự khỏi, ngoại trừ các tổn thương liên quan đến thai kỳ sau sinh. Bệnh thường tái phát, đặc biệt là tổn thương nướu , sau khi điều trị không đầy đủ hoặc do các yếu tố nguyên nhân dai dẳng .

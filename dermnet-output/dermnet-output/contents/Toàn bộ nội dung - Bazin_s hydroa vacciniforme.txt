@@ -1,0 +1,71 @@
+# Hydroa vacciniforme – thông tin bổ sung
+
+Thể loại:
+
+Phản ứng
+
+SNOMED CT:
+
+200837006
+
+**[Phản ứng](https://dermnetnz.org/topics/topics?category=Reactions)**
+
+
+# **Hydroa vacciniforme**
+
+Tác giả: Vanessa Ngan, Biên tập viên, 2006.
+
+---
+
+## Hydroa vacciniforme là gì?
+
+Hydroa vacciniforme là một trong những dạng bệnh da [nhạy cảm với ánh sáng hiếm gặp nhất](https://dermnetnz.org/topics/photosensitivity) . Bệnh ảnh hưởng đến vùng da tiếp xúc với ánh nắng mặt trời và đặc trưng bởi các mụn nước chứa dịch tái phát ('hydroa') lành lại để lại sẹo giống [đậu mùa](https://dermnetnz.org/topics/smallpox) ('vacciniform').
+![Hydroa vacciniforme](https://dermnetnz.org/assets/Uploads/reactions/hydroa4.jpg)
+![Hydroa vacciniforme](https://dermnetnz.org/assets/Uploads/reactions/hydroa5.jpg)
+![Hydroa vacciniforme](https://dermnetnz.org/assets/Uploads/reactions/hydroa6.jpg)
+![Hydroa vacciniforme](https://dermnetnz.org/assets/Uploads/reactions/hydroa1.jpg)
+![Hydroa vacciniforme](https://dermnetnz.org/assets/Uploads/reactions/hydroa2.jpg)
+![Hydroa vacciniforme](https://dermnetnz.org/assets/Uploads/reactions/hydroa3.jpg)
+
+---
+
+## Ai có thể mắc bệnh hydroa vacciniforme?
+
+Bệnh thủy đậu chủ yếu ảnh hưởng đến trẻ em từ 3–15 tuổi. Bệnh thường được chẩn đoán ở nữ nhiều hơn nam. Bệnh có xu hướng khởi phát muộn hơn và diễn biến kéo dài hơn ở nam giới.
+
+---
+
+## Nguyên nhân gây ra bệnh thủy đậu là gì?
+
+Nguyên nhân gây ra bệnh thủy đậu thường không rõ. Tia cực tím bước sóng dài (UVA) thường được cho là nguyên nhân chính.
+Trong một số trường hợp, thủy đậu có liên quan đến nhiễm [virus Epstein-Barr](https://dermnetnz.org/topics/epstein-barr-virus) (EBV) , thường dẫn đến [bệnh bạch cầu đơn nhân nhiễm trùng](https://dermnetnz.org/topics/infectious-mononucleosis) ( sốt tuyến). Trong những trường hợp này, tổn thương thủy đậu có thể lan sang những vùng không tiếp xúc với ánh nắng mặt trời. [](https://dermnetnz.org/topics/infectious-mononucleosis)
+
+---
+
+## Đặc điểm lâm sàng của bệnh thủy đậu là gì?
+
+Các vùng da tiếp xúc với ánh nắng mặt trời bị ảnh hưởng nhiều nhất, bao gồm mặt, tai, tay và chi dưới. Trong hầu hết các trường hợp, các dấu hiệu và triệu chứng thường bắt đầu xuất hiện khoảng 30 phút đến 2 giờ sau khi tiếp xúc với ánh nắng mặt trời và biểu hiện như sau:
+- Cảm giác nóng rát, ngứa hoặc châm chích nhẹ
+- Phát triển các nốt sưng, căng ( sẩn ) và mụn nước ( mụn nước ); có thể bị sưng mặt
+- Chúng chuyển thành các nốt sần lõm, giống như hố với vảy đen ( hoại tử ) trên nền đỏ và bị viêm.
+- Các tổn thương lành lại tạo thành sẹo lõm nhạt màu
+Phát ban thường xuất hiện lần đầu vào mùa xuân và tái phát trong suốt những tháng mùa hè.
+Một số bệnh nhân có thể có các triệu chứng khác, bao gồm viêm mắt nhẹ (viêm giác mạc kết mạc và sợ ánh sáng ), nhấc móng tay và móng chân ( [chứng bong móng](https://dermnetnz.org/topics/onycholysis) do ánh sáng ) và hiếm khi sốt và khó chịu. Phản ứng quá mức với [vết côn trùng cắn](https://dermnetnz.org/topics/papular-urticaria) thường xảy ra và có thể dẫn đến hoại tử và loét da.
+[Nhiễm trùng EBV](https://dermnetnz.org/topics/infectious-mononucleosis) nghiêm trọng liên quan đến chứng thủy đậu đã dẫn đến [các rối loạn tăng sinh lympho (](https://dermnetnz.org/topics/epsteinbarr-virus-associated-lymphoproliferative-disorders) u lympho không Hodgkin tế bào NK hoặc bệnh bạch cầu ) và có thể dẫn đến tử vong.
+
+---
+
+## Bệnh sán lợn được chẩn đoán như thế nào?
+
+Có thể nghi ngờ bệnh thủy đậu dạng vắc-xin trên lâm sàng. Sinh thiết da có thể cho thấy [các đặc điểm bệnh lý đặc trưng của bệnh thủy đậu dạng vắc-xin](https://dermnetnz.org/topics/hydroa-vacciniforme-pathology) .
+Tình trạng của EBV cần được đánh giá.
+
+---
+
+## Phương pháp điều trị bệnh thủy đậu là gì?
+
+Ở hầu hết bệnh nhân, tình trạng này sẽ biến mất khi họ đến tuổi dậy thì, mặc dù sẹo sẽ tồn tại vĩnh viễn. Bệnh nhân bị thủy đậu dạng vắc-xin cần thực hiện các biện pháp tránh tiếp xúc với ánh nắng mặt trời bằng cách tuân thủ các biện pháp [bảo vệ da](https://dermnetnz.org/topics/sun-protection) . ​​Điều này bao gồm thoa kem chống nắng SPF 50+ có chứa chất chống tia UVA và mặc [quần áo bảo hộ](https://dermnetnz.org/topics/sun-protective-clothing) . Điều này có thể ngăn ngừa hoặc giảm số lần tái phát của bệnh.
+Thuốc uống có thể hữu ích trong việc giảm các đợt bùng phát nhưng không có hiệu quả ngăn ngừa tổn thương dạng thủy đậu.
+- [Thuốc chống sốt rét](https://dermnetnz.org/topics/antimalarial) đường uống như [hydroxychloroquine](https://dermnetnz.org/topics/hydroxychloroquine) là loại thuốc được sử dụng phổ biến nhất .
+- [Chất chống oxy hóa đường uống](https://dermnetnz.org/topics/antioxidant-photoprotective-agents) như beta-carotene cũng có thể có tác dụng.
+[Liệu pháp quang trị liệu](https://dermnetnz.org/topics/phototherapy) với [UVB dải hẹp](https://dermnetnz.org/topics/uvb-phototherapy) hoặc [quang hóa trị liệu](https://dermnetnz.org/topics/puva-photochemotherapy) (PUVA) cũng được sử dụng để mang lại khả năng bảo vệ tương đối và giảm nhạy cảm với ánh sáng.

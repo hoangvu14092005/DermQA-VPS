@@ -1,0 +1,73 @@
+# Bệnh vẩy nến thể uốn cong — thông tin bổ sung
+
+Thể loại:
+
+Tự miễn/tự viêm
+
+SNOMED CT:
+
+238600001, 721538000, 402314003, 402315002, 402316001
+
+**[Tự miễn/tự viêm](https://dermnetnz.org/topics/topics?category=Autoimmune/autoinflammatory)**
+
+
+# **Bệnh vẩy nến ở nếp gấp**
+
+Tác giả: Tiến sĩ Amy Stanway, Bác sĩ da liễu, Bệnh viện Waikato, Hamilton, New Zealand, 2004.
+
+---
+
+## Bệnh vẩy nến ở nếp gấp là gì?
+
+[Vảy nến](https://dermnetnz.org/topics/psoriasis) là một tình trạng da vảy phổ biến , gây ra các mảng da đỏ, dày và đóng vảy. Vảy nến thể gấp đôi đôi khi được gọi là vẩy nến đảo ngược, mô tả tình trạng vẩy nến khu trú ở các nếp gấp da và [bộ phận sinh dục](https://dermnetnz.org/topics/genital-psoriasis) . Các vị trí thường gặp của vẩy nến thể gấp là:
+- Nách
+- háng
+- Dưới bầu ngực
+- Rốn (rốn)
+- Dương vật
+- Âm môn
+- Khe hở tử cung (giữa mông)
+- Xung quanh hậu môn
+Nhiều bệnh nhân bị bệnh vẩy nến ảnh hưởng đến các vị trí khác, đặc biệt là bên trong ống tai, sau tai, qua [da đầu](https://dermnetnz.org/topics/scalp-psoriasis) và ở khuỷu tay và đầu gối.
+![Bệnh vẩy nến ở nếp gấp](https://dermnetnz.org/assets/Uploads/scaly/ps12.jpg)
+![Bệnh vẩy nến ở nếp gấp](https://dermnetnz.org/assets/Uploads/scaly/a/flexural-psoriasis.jpg)
+![Bệnh vẩy nến ở nếp gấp](https://dermnetnz.org/assets/Uploads/scaly/ps13.jpg)
+- [Xem thêm hình ảnh về bệnh vẩy nến ở nếp gấp](https://dermnetnz-org.translate.goog/topics/flexural-psoriasis-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp) .
+- [Xem thêm hình ảnh về bệnh vẩy nến sinh dục](https://dermnetnz-org.translate.goog/topics/genital-psoriasis-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp) .
+
+---
+
+## Các đặc điểm lâm sàng của bệnh vẩy nến ở nếp gấp là gì?
+
+Do đặc tính ẩm ướt của các nếp gấp da, biểu hiện của bệnh vẩy nến có đôi chút khác biệt. Bệnh thường không có vảy bạc , mà bóng và mịn. Có thể có một vết nứt ở sâu trong nếp gấp da. Màu đỏ sẫm và đường viền rõ nét đặc trưng của bệnh vẩy nến vẫn có thể nhìn thấy rõ.
+Tuy nhiên, đôi khi có thể xuất hiện các mảng vảy , đặc biệt là ở dương vật đã cắt bao quy đầu.
+Vảy nến thể gấp có thể khó phân biệt với viêm da tiết bã , hoặc có thể cùng tồn tại. Viêm da tiết bã ở nếp gấp da thường biểu hiện dưới dạng các mảng mỏng màu hồng cam, ít rõ nét hơn bệnh vẩy nến. Nếu có bất kỳ nghi ngờ nào về nguyên nhân, hoặc nghi ngờ có sự chồng chéo giữa hai tình trạng này, có thể sử dụng thuật ngữ ["vẩy nến tiết bã" .](https://dermnetnz.org/topics/sebopsoriasis) [](https://dermnetnz.org/topics/sebopsoriasis)
+Các biến chứng của bệnh vẩy nến ở nếp gấp bao gồm:
+- Sự cọ xát và kích ứng do nhiệt và mồ hôi
+- Nhiễm nấm thứ phát đặc biệt là Candida albicans (tưa miệng)
+- Lichen hóa (một loại bệnh chàm ) do cọ xát và gãi – đây là vấn đề đặc biệt xung quanh hậu môn, nơi chất thải từ phân gây kích ứng và làm tăng cảm giác ngứa.
+- Khó khăn về tình dục vì xấu hổ và khó chịu
+- Da mỏng đi do sử dụng quá nhiều kem bôi steroid mạnh trong thời gian dài
+
+---
+
+## Phương pháp điều trị bệnh vẩy nến ở nếp gấp là gì?
+
+Bệnh vẩy nến ở nếp gấp đáp ứng khá tốt với phương pháp điều trị tại chỗ nhưng thường tái phát.
+
+#### Steroid tại chỗ
+[Steroid bôi ngoài da](https://dermnetnz.org/topics/topical-steroid) yếu (thường kết hợp với thuốc kháng nấm để chống [tưa miệng](https://dermnetnz.org/topics/candidiasis-of-skin-folds) ) có thể làm sạch vảy nến thể gấp nhưng bệnh thường tái phát sau khi ngừng điều trị. Steroid bôi ngoài da mạnh hơn cần được sử dụng thận trọng và chỉ trong vài ngày, bôi mỏng và chính xác lên vùng da bị vảy nến. Nếu vảy nến đã khỏi, hãy ngừng sử dụng kem steroid. Có thể sử dụng lại kem steroid trong thời gian ngắn khi bệnh tái phát.
+Sử dụng quá nhiều steroid tại chỗ ở các nếp gấp da mỏng trên cơ thể có thể gây ra [vết rạn da](https://dermnetnz.org/topics/stretch-marks-striae) , làm da mỏng đi đáng kể và có thể làm trầm trọng thêm bệnh vẩy nến trong thời gian dài (tachyphylaxis).
+
+#### Các hợp chất giống vitamin D
+[Kem Calcipotriol](https://dermnetnz.org/topics/calcipotriol) là một phương pháp điều trị hiệu quả và an toàn cho bệnh vẩy nến ở các nếp gấp và nên được bôi hai lần mỗi ngày. Nếu bị kích ứng, có thể bôi một lần mỗi ngày và bôi kem hydrocortisone sau đó 12 giờ.
+
+#### Thuốc ức chế calcineurin tại chỗ
+[Thuốc ức chế calcineurin](https://dermnetnz.org/topics/calcineurin-inhibitors) tại chỗ , [thuốc mỡ tacrolimus](https://dermnetnz.org/topics/tacrolimus) và [kem pimecrolimus](https://dermnetnz.org/topics/pimecrolimus) có thể có hiệu quả và không gây mỏng da.
+Có thể kết hợp các phương pháp điều trị được liệt kê ở trên với thuốc làm mềm da. [Thuốc sát trùng](https://dermnetnz.org/topics/antiseptic) và [thuốc chống nấm tại chỗ](https://dermnetnz.org/topics/topical-antifungal-medication) thường được khuyến nghị vì bệnh vẩy nến thể gấp có thể phức tạp hơn do vi khuẩn và nấm men, bao gồm [Candida albicans](https://dermnetnz.org/topics/candida) và [Malassezia](https://dermnetnz.org/topics/malassezia-infections) .
+
+#### Các tác nhân tại chỗ mạnh
+Các phương pháp điều trị có thể dung nạp ở các vị trí khác thường quá kích ứng để sử dụng ở nếp gấp da, ví dụ như [dithranol](https://dermnetnz.org/topics/dithranol) , [axit salicylic](https://dermnetnz.org/topics/salicylic-acid) và [hắc ín than đá](https://dermnetnz.org/topics/coal-tar) . Tuy nhiên, bạn có thể sử dụng chúng bằng cách pha loãng với chất làm mềm da, hoặc bôi trong thời gian ngắn rồi rửa sạch.
+Thuốc ức chế phosphodiesterase-4 tại chỗ , [roflumilast](https://dermnetnz.org/topics/roflumilast) , được chấp thuận để điều trị [bệnh vẩy nến mảng bám](https://dermnetnz.org/topics/chronic-plaque-psoriasis) (2022). Việc sử dụng ngoài chỉ định của một chất ức chế phosphodiesterase-4 tại chỗ khác là [crisaborole](https://dermnetnz.org/topics/crisaborole) đã được chứng minh là có hiệu quả đối với bệnh vẩy nến thể gấp.
+[Thuốc toàn thân](https://dermnetnz.org/topics/systemic-therapy) hiếm khi cần thiết cho bệnh vẩy nến giới hạn ở nếp gấp.
+[Liệu pháp quang học](https://dermnetnz.org/topics/phototherapy) không hiệu quả lắm vì các nếp gấp không tiếp xúc với ánh sáng.

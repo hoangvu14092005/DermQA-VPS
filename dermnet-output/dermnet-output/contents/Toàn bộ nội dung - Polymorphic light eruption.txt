@@ -1,0 +1,147 @@
+# Sự phun trào ánh sáng đa hình — thông tin bổ sung
+
+Thể loại:
+
+Phản ứng
+
+SNOMED CT:
+
+238525001, 79372000, 238525001, 6618004, 54116000, 84036008, 51048002
+
+**[Phản ứng](https://dermnetnz.org/topics/topics?category=Reactions)**
+
+
+# **Sự phun trào ánh sáng đa hình**
+
+Tác giả: Bác sĩ Prudence Gramp, Khoa Da liễu, Bệnh viện Đại học Gold Coast, Úc. Biên tập bởi Gus Mitchell. Tháng 5 năm 2022
+
+---
+
+## Hiện tượng phun trào ánh sáng đa hình là gì?
+
+Phát ban đa hình do ánh sáng (PMLE) là [bệnh da liễu do ánh sáng theo mùa, mắc phải và](https://dermnetnz.org/topics/photosensitivity) tự phát xảy ra vào mùa xuân và đầu mùa hè. [](https://dermnetnz.org/topics/photosensitivity)
+Bệnh này còn được gọi là phát ban đa dạng do ánh sáng, dị ứng ánh nắng , ngộ độc ánh nắng, prurigo aestivalis, phát ban/ngứa mùa hè, hoặc eczema solare. Phát ban mùa xuân ở trẻ em là một biến thể của PMLE.
+![Phát ban đa hình dạng mảng và sẩn lan rộng](https://dermnetnz.org/assets/collection/Polymorphic-light-eruption/polymorphic-light-eruption-0005.jpg)
+![Phát ban đa hình dạng mục tiêu trên da cánh tay mới tiếp xúc](https://dermnetnz.org/assets/collection/Polymorphic-light-eruption/polymorphic-light-eruption-0004.jpg)
+[Nhấp vào đây để xem thêm hình ảnh](https://dermnetnz-org.translate.goog/images/polymorphic-light-eruption-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+
+---
+
+## Ai sẽ bị hiện tượng phun trào ánh sáng đa hình?
+
+- Bệnh thường xuất hiện ở độ tuổi từ 20 đến 40.
+- Phụ nữ mắc bệnh này nhiều gấp 4 lần so với nam giới.
+- Xuất hiện ở vùng khí hậu ôn đới và phổ biến hơn ở những nơi ít tiếp xúc với ánh nắng mặt trời.
+- Tỷ lệ mắc bệnh đã được chứng minh là có mối quan hệ nghịch đảo với vĩ độ (cao nhất ở Scandinavia, Vương quốc Anh và miền bắc Hoa Kỳ; thấp nhất ở Úc).
+- Ở Bắc Âu, căn bệnh này có thể ảnh hưởng đến 20–40% phụ nữ đi nghỉ ở khu vực Địa Trung Hải, trong khi ở các khu vực Úc và Châu Đại Dương, ước tính chỉ ảnh hưởng đến 1–5% số người.
+- Được báo cáo là phổ biến hơn ở những vùng có độ cao lớn hơn so với vùng mực nước biển.
+- Ảnh hưởng đến mọi chủng tộc và mọi [loại da](https://dermnetnz.org/topics/skin-phototype) nhưng tỷ lệ mắc bệnh cao hơn ở loại da Fitzpatrick 1.
+Bệnh nhân mắc PMLE có thể phát triển tình trạng dung nạp thuốc vào những tháng mùa hè.
+
+---
+
+## Nguyên nhân nào gây ra hiện tượng phun trào ánh sáng đa hình?
+
+Có 15–46% trường hợp có tiền sử gia đình mắc bệnh có yếu tố di truyền .
+PMLE là phản ứng quá mẫn chậm ở da với các kháng nguyên nội sinh chưa rõ nguồn gốc do ánh sáng gây ra . Phản ứng bất thường này với [tia cực tím (UV)](https://dermnetnz.org/topics/ultraviolet-radiation-and-human-health) đồng nghĩa với việc bệnh nhân bị ảnh hưởng phát triển phản ứng viêm với kháng nguyên nội sinh do ánh sáng gây ra . Cần xem xét các yếu tố sau đây khi xác định cơ chế bệnh sinh và khi áp dụng các biện pháp bảo vệ: [](https://dermnetnz.org/topics/ultraviolet-radiation-and-human-health)
+- Nguyên nhân chủ yếu là do tia UVA (75–90%) hoặc tia UVB đơn thuần hoặc do cả tia UVA và UVB cùng lúc.
+- Nó hiếm khi được gây ra bởi ánh sáng nhìn thấy được
+- Tia UVA có thể xuyên qua kính cửa sổ và một số [loại kem chống nắng](https://dermnetnz.org/topics/topical-sunscreen-agents) không bảo vệ được nó
+- Một số bệnh nhân đã báo cáo về phản ứng với tia UVC từ hồ quang hàn.
+Tia UV thường gây ra phản ứng ức chế miễn dịch trên da, tuy nhiên, bệnh nhân mắc PMLE có thể bị giảm phản ứng bình thường này. Ở bệnh nhân PMLE, tia UV làm tăng số lượng tế bào lympho T CD4 và CD8 , đồng thời làm tăng phản ứng viêm ở lớp biểu bì và trung bì. Hiện tại, kháng nguyên quang học kích hoạt phản ứng này vẫn chưa được biết rõ.
+Một số bệnh nhân bị PMLE trong quá trình [điều trị bằng liệu pháp quang trị liệu](https://dermnetnz.org/topics/phototherapy) , được sử dụng để điều trị các bệnh về da như [bệnh vẩy nến](https://dermnetnz.org/topics/psoriasis) và [viêm da](https://dermnetnz.org/topics/dermatitis) .
+Vì PMLE phổ biến ở phụ nữ hơn nam giới, nên người ta cho rằng có yếu tố nội tiết tố trong cơ chế bệnh sinh của nó. Estradiol có thể hoạt động như một chất ức chế miễn dịch do tia UV , vốn thường giúp giảm các phản ứng quá mẫn.
+
+---
+
+## Đặc điểm lâm sàng của bệnh phát ban đa hình do ánh sáng là gì?
+
+- Theo mùa, xảy ra vào mùa xuân và đầu mùa hè và thường biến mất hoàn toàn vào mùa đông. Hiện tượng này xảy ra vào mùa đông có thể là do đi tắm nắng hoặc đi nghỉ ở nơi có khí hậu nắng hơn.
+- Hiện tượng này xảy ra vào mùa đông có thể là do đi tắm nắng hoặc đi nghỉ ở nơi có khí hậu nắng hơn.
+- Khởi phát: xảy ra trong vòng vài giờ đến 1–2 ngày sau khi tiếp xúc với ánh sáng mặt trời và thường không liên tục.
+- Thời gian: có thể kéo dài từ vài ngày đến vài tuần và sẽ nhanh khỏi hơn nếu tránh tiếp xúc với ánh nắng mặt trời.
+- Tái phát : khả năng tái phát giảm dần khi mùa hè kéo dài do da “cứng lại” (xem bên dưới).
+Đúng như tên gọi, các đặc điểm lâm sàng có thể khác nhau — poly nghĩa là "nhiều", morphic nghĩa là "hình thái". Hình thái có thể bao gồm các đợt phát ban :
+- Sẩn
+- [Chàm (các mảng và](https://dermnetnz.org/topics/dermatitis) mảng đỏ khô )
+- Sẩn mụn nước (mụn nước nhỏ)
+- [Nổi mề đay](https://dermnetnz.org/topics/urticaria-an-overview)
+- [Ban đỏ đa dạng](https://dermnetnz.org/topics/erythema-multiforme) ( tổn thương hình bia bắn ).
+Tuy nhiên, hình thái luôn giống nhau ở mỗi bệnh nhân.
+Phân bố có thể bao gồm các vùng tiếp xúc với ánh nắng mặt trời như cánh tay, cẳng chân, vùng cổ và ngực. Mặt sau bàn tay và mặt là những vị trí ít gặp của PMLE, có thể do tiếp xúc lâu dài với ánh nắng mặt trời và làm cứng da. Phát ban thường phân bố đối xứng theo từng mảng và thường không ảnh hưởng đến toàn bộ vùng da tiếp xúc. Nó có thể gây ngứa nhẹ đến rất nặng và có thể gây khó chịu toàn thân , đau đầu, sốt và buồn nôn trong một số trường hợp hiếm gặp.
+PMLE kéo dài trong vài ngày và có thể trở nặng hơn nếu vùng da bị ảnh hưởng tiếp xúc với ánh nắng mặt trời trước khi vết phát ban trước đó biến mất. Bệnh sẽ tự khỏi mà không để lại sẹo.
+
+### Hiệu ứng làm cứng da
+Có một hiện tượng gọi là hiệu ứng làm cứng da, trong đó việc tiếp xúc lâu dài với ánh nắng mặt trời dẫn đến những thay đổi về da, bao gồm tăng melanin và làm dày lớp sừng. Những thay đổi này được cho là giúp phục hồi phản ứng ức chế miễn dịch bình thường của da với tia UV, từ đó làm giảm hoặc giải quyết PMLE theo thời gian. Điều này có thể giải thích tại sao PMLE ít gặp ở vùng mặt hoặc tay do tiếp xúc lâu dài với ánh nắng mặt trời so với các vùng khác trên cơ thể.
+[Nhấp vào đây để xem hình ảnh](https://dermnetnz-org.translate.goog/images/polymorphic-light-eruption-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+
+---
+
+## Các đặc điểm lâm sàng khác nhau như thế nào ở các loại da khác nhau?
+
+PMLE có thể gặp ở mọi chủng tộc và mọi loại da. Bệnh phổ biến hơn ở những người có làn da sáng màu. Ở những người có làn da sẫm màu, hình thái phổ biến nhất là các sẩn nhỏ như đầu kim, tập trung thành từng nhóm .
+
+---
+
+## Biến chứng của bệnh phát ban đa hình do ánh sáng là gì?
+
+- Đau khổ về mặt cảm xúc
+- Lo lắng và trầm cảm
+- Tránh các hoạt động vì lo ngại bùng phát khi tiếp xúc với ánh nắng mặt trời
+- Nếu tránh nắng, có nguy cơ thiếu hụt [vitamin D](https://dermnetnz.org/topics/vitamin-d)
+
+---
+
+## Bệnh phát ban đa hình do ánh sáng được chẩn đoán như thế nào?
+
+Chẩn đoán lâm sàng phát ban đa hình do ánh sáng có thể được thực hiện dựa trên tiền sử phát ban ngứa xảy ra sau khi tiếp xúc với ánh nắng mặt trời và các đợt phát ban trước đó vào mùa xuân hoặc mùa hè. Chẩn đoán chính xác dựa trên việc loại trừ các tình trạng nhạy cảm với ánh sáng khác .
+Để loại trừ các tình trạng nhạy cảm với ánh sáng khác, có thể cân nhắc [sinh thiết da .](https://dermnetnz.org/topics/skin-biopsy) Mô bệnh học của PMLE không đặc hiệu, thay đổi và có thể bao gồm:
+- Bệnh xốp biểu bì
+- Thâm nhiễm lymphohistiocytic quanh mạch máu và quanh phần phụ nông và sâu , thường có bạch cầu ái toan và bạch cầu trung tính rải rác.
+- Phù nề nhú bì đáng kể thường gặp ở những trường hợp bệnh tiến triển nặng hơn.
+[Miễn dịch huỳnh quang trực tiếp](https://dermnetnz.org/topics/direct-immunofluorescence) cho kết quả âm tính với PMLE.
+Các xét nghiệm phù hợp để xác định loại trừ [bệnh lupus ban đỏ da](https://dermnetnz.org/topics/cutaneous-lupus-erythematosus) bao gồm công thức máu toàn phần; kháng thể kháng nhân lưu hành (ANA); kháng nguyên hạt nhân có thể chiết xuất (ENA); và miễn dịch huỳnh quang trực tiếp trên mô bệnh học.
+[Có thể cân nhắc xét nghiệm bằng ảnh](https://dermnetnz.org/topics/phototesting) nhưng không thực hiện ở tất cả bệnh nhân mắc PMLE.
+- Một xét nghiệm kích thích trong đó sử dụng tia UV để xác nhận chẩn đoán.
+- 60% bệnh nhân có kết quả phát ban dương tính có biểu hiện lâm sàng và mô bệnh học phù hợp với PMLE.
+- Bệnh nhân lý tưởng nhất là được tiếp xúc với tia UVA (hoặc tia UVB) hàng ngày trong 3–5 ngày trên một vùng da nhỏ (như cẳng tay hoặc cổ), gây ra tình trạng phát ban.
+
+---
+
+## Chẩn đoán phân biệt cho bệnh phát ban đa hình do ánh sáng là gì?
+
+- [Bệnh lupus ban đỏ](https://dermnetnz.org/topics/cutaneous-lupus-erythematosus)
+- [Bệnh porphyria](https://dermnetnz.org/topics/porphyria-cutanea-tarda)
+- [Mề đay do ánh nắng mặt trời](https://dermnetnz.org/topics/solar-urticaria)
+- [thâm nhiễm lympho bào Jessner](https://dermnetnz.org/topics/jessner-lymphocytic-infiltrate)
+- [Viêm da dị ứng do ánh sáng](https://dermnetnz.org/topics/atopic-dermatitis)
+- [Nhạy cảm với ánh sáng do thuốc](https://dermnetnz.org/topics/drug-induced-photosensitivity)
+- [Viêm da tiết bã nhờn](https://dermnetnz.org/topics/seborrhoeic-dermatitis)
+
+---
+
+## Phương pháp điều trị bệnh phát ban đa dạng do ánh sáng là gì?
+
+
+### Các biện pháp chung
+- [Kem chống nắng](https://dermnetnz.org/topics/topical-sunscreen-agents) phổ rộng SPF 50+ UVA/UVB [](https://dermnetnz.org/topics/topical-sunscreen-agents)
+- [Quần áo chống nắng](https://dermnetnz.org/topics/sun-protective-clothing)
+- Tránh ánh nắng mặt trời, chọn nơi râm mát nếu ở ngoài trời và ngồi xa cửa sổ
+
+### Các biện pháp cụ thể
+- [Corticosteroid tại chỗ](https://dermnetnz.org/topics/topical-steroid) mạnh như thuốc mỡ betamethasone dipropionate 0,05% hoặc mometasone 0,1% dùng cho cơ thể và corticosteroid tại chỗ yếu hơn dùng cho mặt như thuốc mỡ hydrocortisone 1%.
+- Liệu trình ngắn ngày dùng [corticosteroid đường uống](https://dermnetnz.org/topics/systemic-steroids) — prednisolone đường uống 0,5–1mg/kg trong 1–2 tuần trong thời gian bùng phát hoặc trong kỳ nghỉ khi tiếp xúc nhiều với ánh nắng mặt trời.
+- [Liệu pháp quang học](https://dermnetnz.org/topics/phototherapy) — UVB hoặc UVA vào đầu mùa xuân để gây “xơ cứng”, có thể cần dùng steroid tại chỗ hoặc uống trước để ngăn ngừa bùng phát.
+- [Uống hydroxychloroquine](https://dermnetnz.org/topics/hydroxychloroquine) 200mg mỗi ngày hoặc hai lần mỗi ngày trong suốt mùa xuân và mùa hè.
+- [Calcipotriol](https://dermnetnz.org/topics/calcipotriol) bôi ngoài da có thể có tác dụng phòng ngừa trước khi tiếp xúc với ánh nắng mặt trời.
+- [Afamelanotide](https://dermnetnz.org/topics/afamelanotide)
+- [Nicotinamide](https://dermnetnz.org/topics/nicotinamide) — thường được dùng 2–4 tuần trước thời điểm thường xảy ra PMLE trong năm; liều dùng 1–3 gam mỗi ngày (chia làm nhiều lần).
+- Nếu nghiêm trọng, thuốc ức chế miễn dịch toàn thân như [azathioprine](https://dermnetnz.org/topics/azathioprine-and-mercaptopurine) hoặc [ciclosporin](https://dermnetnz.org/topics/ciclosporin) (cyclosporine)
+
+---
+
+## Kết quả của hiện tượng phun trào ánh sáng đa hình là gì?
+
+PMLE có thể kéo dài suốt đời mặc dù 60% số người thấy cải thiện hoặc khỏi bệnh sau 15 năm và 75% số người thấy cải thiện hoặc khỏi bệnh sau 30 năm.
+Phát ban có thể xuất hiện trong vòng vài giờ sau khi tiếp xúc với ánh nắng mặt trời và kéo dài nhiều ngày. Tình trạng có thể trở nên tồi tệ hơn khi tiếp xúc nhiều lần với ánh nắng mặt trời trước khi phát ban biến mất. Người ta nhận thấy rằng PMLE dường như ít xảy ra và ít nghiêm trọng hơn ở phụ nữ sau mãn kinh.
+[Nhấp vào đây để xem hình ảnh](https://dermnetnz-org.translate.goog/images/polymorphic-light-eruption-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)

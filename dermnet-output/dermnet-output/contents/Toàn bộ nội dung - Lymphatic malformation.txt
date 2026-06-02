@@ -1,0 +1,74 @@
+# Dị dạng bạch huyết — thông tin bổ sung
+
+Thể loại:
+
+Tổn thương (lành tính)
+
+SNOMED CT:
+
+234095009, 399882002, 254793001, 238799002
+
+**[Tổn thương (lành tính)](https://dermnetnz.org/topics/topics?category=Lesions+(benign))**
+
+
+# **Dị dạng bạch huyết**
+
+Tác giả: Vanessa Ngân, Cán bộ biên tập, 2003. Tiến sĩ Amanda Oakley cập nhật, 2004.
+
+---
+
+## Dị dạng bạch huyết là gì?
+
+Dị dạng bạch huyết là một loại nốt ruồi hoặc [vết bớt mạch](https://dermnetnz.org/topics/congenital-naevi) máu do các mạch bạch huyết bị dị dạng và giãn nở. [](https://dermnetnz.org/topics/congenital-naevi)
+![U lympho chu vi](https://dermnetnz.org/assets/Uploads/lymphangioma-circumscriptum_2.jpg)
+![U lympho chu vi](https://dermnetnz.org/assets/Uploads/lymphangioma_circumscriptum_3.jpg)
+![U lympho mạch máu](https://dermnetnz.org/assets/Uploads/lymphangioma-cirumscriptum_1.jpg)
+
+---
+
+## Nguyên nhân gây ra dị dạng bạch huyết là gì?
+
+Nguyên nhân gây ra tình trạng giãn mạch bạch huyết bất thường vẫn chưa được hiểu rõ. Vì một lý do nào đó, các túi bạch huyết phôi thai không kết nối chính xác với hệ bạch huyết. Chúng không phải là ung thư.
+
+---
+
+## Ai mắc phải dị dạng bạch huyết?
+
+Không có chủng tộc hay giới tính nào có nguy cơ cao hơn.
+
+---
+
+## Đặc điểm lâm sàng của dị dạng bạch huyết là gì?
+
+Dị dạng bạch huyết luôn xuất hiện ngay từ khi sinh, mặc dù có thể bị bỏ sót; chúng thường trở nên rõ ràng hơn trong giai đoạn sơ sinh và thời thơ ấu. Chúng có thể có kích thước khác nhau, từ một chấm nhỏ đến đôi khi ảnh hưởng đến toàn bộ chi. Mặc dù bạch huyết là một chất lỏng trong suốt, dị dạng bạch huyết thường có màu đỏ hoặc xanh do liên quan đến các mạch máu lân cận .
+
+---
+
+## Phân loại dị dạng bạch huyết
+
+Có ba loại dị dạng bạch huyết chính:
+- U nang bạch huyết
+- U mạch bạch huyết dạng hang
+- U lympho chu vi
+
+### U nang bạch huyết
+U nang bạch huyết (còn gọi là 'u nang bạch huyết' và 'u nang bạch huyết nang') là một dị dạng bạch huyết ' đại bào ', bao gồm các khoang chứa dịch lớn. U nang xuất hiện dưới dạng một khối sưng tấy màu da, đỏ hoặc xanh, hơi trong suốt, nằm dưới da. U nang bạch huyết thường ảnh hưởng đến cổ, nách hoặc bẹn. Các tổn thương rất lớn có thể ảnh hưởng đến cằm và mặt, đôi khi gây khó khăn cho việc ăn uống hoặc thở. Chúng có thể bị nhiễm trùng, có thể đe dọa tính mạng nếu bị ảnh hưởng đến cổ.
+U nang bạch huyết phổ biến hơn ở một số rối loạn bẩm sinh bao gồm hội chứng Turner , phù thai nhi, [hội chứng Down](https://dermnetnz.org/topics/dermatological-manifestations-of-down-syndrome) và hội chứng rượu bào thai. Vì vậy, trẻ sơ sinh mắc loại dị tật bạch huyết này nên được thực hiện phân tích nhiễm sắc thể .
+Siêu âm thường được thực hiện để xác định mức độ bất thường. Đặc trưng là các khoảng tròn chắc chắn được phát hiện. U nang bạch huyết được phân biệt với [dị dạng tĩnh mạch](https://dermnetnz.org/topics/venous-malformation) và [u máu](https://dermnetnz.org/topics/infantile-haemangioma-definition-and-pathogenesis) bằng sự xuất hiện và không có dòng chảy của dịch.
+Trong những trường hợp phức tạp hơn, có thể cần phải chụp cộng hưởng từ ( MRI ) hoặc chụp mạch để giúp lập kế hoạch điều trị.
+
+### U mạch bạch huyết dạng hang
+U mạch bạch huyết thể hang có thể ảnh hưởng đến bất kỳ vị trí nào trên cơ thể, bao gồm cả lưỡi. Bệnh biểu hiện bằng một khối sưng tấy màu da, đỏ hoặc xanh, dai như cao su dưới da. Đôi khi u phát triển nhanh trong giai đoạn đầu đời của trẻ. Hiếm khi u có thể loét. Bệnh được phân biệt với các u mạch máu khác bằng sự hiện diện của dịch trong suốt bên trong các khối u và các dấu hiệu trên siêu âm.
+
+### U lympho chu vi
+U lympho circumscriptum là một dị dạng bạch huyết ' vi nang ' (xem [mô học u lympho circumscriptum](https://dermnetnz.org/topics/lymphangioma-circumscriptum-pathology) ). Nó xuất hiện dưới dạng một cụm mụn nước nhỏ, chắc chứa đầy dịch bạch huyết, trông giống như trứng ếch. Chúng có màu sắc từ trong suốt đến hồng, đỏ sẫm, nâu hoặc đen và có thể trở thành mụn cóc , đặc biệt là khi ảnh hưởng đến lòng bàn tay hoặc lòng bàn chân. U lympho circumscriptum thường gặp nhất ở vai, cổ, vùng dưới cánh tay, chân tay và trong miệng, đặc biệt là lưỡi. Các mảng này có thể trở nên rõ rệt hơn ở [tuổi dậy thì](https://dermnetnz.org/topics/skin-changes-at-puberty) và có thể rỉ dịch hoặc chảy máu. Đôi khi chúng bị nhiễm trùng.
+![U lympho mạch máu](https://dermnetnz.org/assets/Uploads/vascular/lymph1.jpg)
+![U lympho mạch máu](https://dermnetnz.org/assets/Uploads/vascular/lymph2.jpg)
+![U lympho mạch máu](https://dermnetnz.org/assets/Uploads/vascular/lymph3.jpg)
+
+---
+
+## Có những phương pháp điều trị nào cho bệnh dị dạng bạch huyết?
+
+U nang bạch huyết và u mạch bạch huyết thể hang thường được loại bỏ bằng phẫu thuật. Đáng tiếc là các tổn thương sâu hơn rất khó loại bỏ hoàn toàn và đôi khi tái phát. [Sirolimus](https://dermnetnz.org/topics/sirolimus) đường uống (ức chế sự hình thành mạch máu) và sildenafil (gây giãn mạch máu) đang được nghiên cứu như một phương pháp điều trị y tế tiềm năng cho các dị dạng bạch huyết nghiêm trọng nhưng có thể có tác dụng phụ đáng kể [2,3].
+U lympho chu vi là u lành tính (không phải ung thư) và thường không cần điều trị. Có thể dùng kháng sinh nếu xảy ra nhiễm trùng thứ phát (hiếm gặp). Nếu cần thiết, có thể loại bỏ u bằng phẫu thuật, [mài da](https://dermnetnz.org/topics/dermabrasion) hoặc laser. U lympho chu vi có xu hướng tái phát sau khi điều trị.

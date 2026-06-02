@@ -1,0 +1,60 @@
+# Elastosis perforans serpiginosa — thông tin bổ sung
+
+Thể loại:
+
+Bệnh mô liên kết
+
+SNOMED CT:
+
+49428008
+
+**[Bệnh mô liên kết](https://dermnetnz.org/topics/topics?category=Connective+tissue+diseases)**
+
+
+# **Elastosis perforans serpiginosa**
+
+Tác giả: Vanessa Ngan, Biên tập viên, 2003.
+
+---
+
+## Elastosis perforans serpiginosa là gì?
+
+Bệnh Elastosis perforans serpiginosa (EPS) là một rối loạn da hiếm gặp, trong đó sợi mô đàn hồi bất thường di chuyển từ lớp trung bì nhú (lớp trong của da) lên lớp biểu bì (lớp ngoài của da), được mô tả là sự đào thải xuyên biểu mô. Bệnh biểu hiện dưới dạng một nhóm các nốt sần nhỏ màu đỏ.
+Ba dạng bệnh elastosis perforans serpiginosa đã được xác định:
+- Bệnh elastosis perforans serpiginosa tự phát : nguyên nhân chưa rõ, có thể do di truyền
+- Bệnh elastosis phản ứng perforans serpiginosa : liên quan đến các rối loạn di truyền khác như [hội chứng Down](https://dermnetnz.org/topics/dermatological-manifestations-of-down-syndrome) , [hội chứng Ehlers Danlos](https://dermnetnz.org/topics/ehlers-danlos-syndrome) và [hội chứng Marfan](https://dermnetnz.org/topics/marfan-syndrome)
+- Bệnh elastosis perforans serpiginosa do thuốc : ảnh hưởng đến 1% số người được điều trị bằng D-penicillamine
+
+---
+
+## Ai mắc bệnh elastosis perforans serpiginosa?
+
+Bệnh Elastosis perforans serpiginosa thường xuất hiện ở giai đoạn đầu tuổi trưởng thành (20–30 tuổi) nhưng cũng có thể xuất hiện ở trẻ nhỏ hoặc cuối đời. Bệnh này dường như phổ biến hơn ở nam giới so với nữ giới (tỷ lệ 4:1).
+
+---
+
+## Nguyên nhân gây ra bệnh elastosis perforans serpiginosa là gì?
+
+Bệnh Elastosis perforans serpiginosa xảy ra do lớp biểu bì (lớp ngoài cùng của da) coi mô đàn hồi bất thường là vật lạ, do đó phản ứng bằng cách gây viêm . Nguyên nhân gây ra mô đàn hồi bất thường vẫn chưa được biết rõ, nhưng có thể do đột biến gen hoặc các yếu tố bên ngoài như penicillamine.
+
+---
+
+## Những dấu hiệu và triệu chứng của bệnh elastosis perforans serpiginosa là gì?
+
+Bệnh Elastosis perforans serpiginosa biểu hiện dưới dạng một cụm các nốt sần nhỏ màu đỏ, đường kính 2-5 mm, thường tập trung theo hình dạng tuyến tính , hình tròn hoặc hình rắn . Mỗi tổn thương có thể có một hố ở giữa , đôi khi được lấp đầy bởi một nút đóng vảy hoặc đóng vảy . Thông thường, bệnh không có triệu chứng, nhưng đôi khi bệnh elastosis perforans serpiginosa gây ngứa.
+Bệnh Elastosis perforans serpiginosa thường xuất hiện ở gáy (70%) và ít gặp hơn ở một hoặc cả hai cánh tay (20%), mặt (11%), chân (6%) và thân mình (3%).
+![Elastosis perforans serpiginosa](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/eps1.jpg)
+![Elastosis perforans serpiginosa](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/eps2.jpg)
+![Elastosis perforans serpiginosa](https://dermnetnz.org/assets/Uploads/dermal-infiltrative/eps3.jpg)
+
+---
+
+## Chẩn đoán bệnh elastosis perforans serpiginosa được thực hiện như thế nào?
+
+Chẩn đoán bệnh elastosis perforans serpiginosa được thực hiện dựa trên biểu hiện lâm sàng và đặc [điểm mô học của bệnh elastosis perforans serpiginosa](https://dermnetnz.org/topics/elastosis-perforans-serpiginosa-pathology) thấy trên [sinh thiết da](https://dermnetnz.org/topics/skin-biopsy) , cho thấy sự loại bỏ mô đàn hồi qua biểu bì (và không phải là [bệnh elastosis](https://dermnetnz.org/topics/elastosis) ).
+
+---
+
+## Có phương pháp điều trị nào cho bệnh elastosis perforans serpiginosa?
+
+Không có cách chữa khỏi bệnh elastosis perforans serpiginosa. Thông thường, bệnh sẽ tự khỏi mà không có biến chứng sau vài năm.

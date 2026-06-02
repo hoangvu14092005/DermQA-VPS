@@ -1,0 +1,79 @@
+# Bệnh Cryoglobulinemia — thông tin bổ sung
+
+Thể loại:
+
+Bệnh hệ thống
+
+SNOMED CT:
+
+30911005, 11352009, 28807005, 128971000119101
+
+**[Bệnh hệ thống](https://dermnetnz.org/topics/topics?category=Systemic+diseases)**
+
+
+# **Bệnh Cryoglobulinemia**
+
+Tác giả: Vanessa Ngan, Biên tập viên, 2006.
+
+---
+
+## Bệnh cryoglobulinemia là gì?
+
+Bệnh cryoglobulinemia là một rối loạn hiếm gặp đặc trưng bởi sự xuất hiện của các protein immunoglobulin bất thường trong máu có thể kết tủa vào các mô ở nhiệt độ thấp và gây viêm và tổn thương.
+Immunoglobulin là nhóm protein tạo ra kháng thể để đáp ứng với các chất lạ ( kháng nguyên ) xâm nhập vào cơ thể. Trong trường hợp cryoglobulinemia, các immunoglobulin bất thường tạo thành phức hợp ( cryoglobulin ) và kết tủa (rò rỉ) ra khỏi máu ở nhiệt độ lạnh. Điều này gây hạn chế lưu lượng máu mô và viêm toàn thân , dẫn đến nhiều dấu hiệu và triệu chứng lâm sàng bao gồm tổn thương da , đau khớp , viêm khớp , [ban xuất huyết mạch máu](https://dermnetnz.org/topics/purpura) (vết da tím), [xuất huyết vân vân](https://dermnetnz.org/topics/livedo-reticularis) (kiểu vân đá cẩm thạch) và các tình trạng chảy máu.
+Cryoglobulinemia thường xảy ra kết hợp với các bệnh lý khác, đặc biệt là các bệnh tự miễn hoặc bệnh lý truyền nhiễm (được gọi là cryoglobulinemia thứ phát). Khi tình trạng này xảy ra mà không có bệnh lý đi kèm, nó được gọi là cryoglobulinemia vô căn hoặc vô căn.
+
+---
+
+## Các loại bệnh cryoglobulinemia
+
+Cryoglobulinemia được phân loại thành 3 loại chính dựa trên thành phần của phức hợp cryoglobulin . Mỗi loại được phát hiện có liên quan đến một số bệnh nhất định.
+Loại Cryoglobulin Thành phần immunoglobulin Các bệnh liên quan Loại I: kháng thể đơn dòng Chủ yếu là IgM Ít gặp hơn là IgG và IgA Bệnh macroglobulinemia Waldenström Bệnh bạch cầu lymphocytic mạn tính U tủy đa hạch Bệnh bạch cầu tế bào lông Loại II: kháng thể hỗn hợp với yếu tố dạng thấp đơn dòng (thường là IgG hoặc IgM) IgM-IgG IgG-IgG IgA- IgG [Bệnh macroglobulinemia Waldenström](https://dermnetnz.org/topics/waldenstroem-macroglobulinaemia) Bệnh bạch cầu lymphocytic mãn tính Bệnh đa u tủy Bệnh cryoglobulinemia hỗn hợp thiết yếu Loại III: kháng thể hỗn hợp với yếu tố dạng thấp đa dòng IgM-IgG IgG-IgG-IgA [Lupus ban đỏ hệ thống Hội](https://dermnetnz.org/topics/systemic-lupus-erythematosus) [chứng Sjögren](https://dermnetnz.org/topics/sjoegren-syndrome) [Viêm khớp dạng thấp](https://dermnetnz.org/topics/rheumatoid-arthritis-and-the-skin) [Viêm gan A, B hoặc C Xơ](https://dermnetnz.org/topics/viral-hepatitis) [cứng hệ thống Viêm](https://dermnetnz.org/topics/systemic-sclerosis) [mạch](https://dermnetnz.org/topics/cutaneous-vasculitis) Viêm cầu thận
+
+---
+
+## Ai mắc bệnh cryoglobulinemia?
+
+Cryoglobulinemia được cho là hiếm gặp. Cryoglobulinemia hỗn hợp nguyên phát xảy ra ở khoảng 1/100.000 người. Hầu hết các trường hợp cryoglobulinemia đều có nguyên nhân tiềm ẩn. Loại cryoglobulinemia được tìm thấy ở bệnh nhân là khoảng 25% loại I, 25% loại II và 50% loại III.
+Bệnh này có xu hướng phát triển ở độ tuổi từ 40-60 và ảnh hưởng đến phụ nữ nhiều hơn nam giới theo tỷ lệ 3:1.
+
+---
+
+## Các đặc điểm lâm sàng của bệnh cryoglobulinemia là gì?
+
+Các đặc điểm lâm sàng của bệnh cryoglobulinemia khác nhau giữa các loại như thể hiện trong bảng dưới đây.
+Đặc điểm của bệnh cryoglobulinemia loại I Đặc điểm của bệnh cryoglobulinemia loại II và III [Bệnh tím tái đầu chi](https://dermnetnz.org/topics/acrocyanosis) (tay chân tím tái do lạnh) [Hội chứng ngón chân xanh](https://dermnetnz.org/topics/blue-toe-syndrome) Xuất huyết võng mạc (chảy máu) [Hiện tượng Raynaud](https://dermnetnz.org/topics/raynaud-phenomenon) nghiêm trọng [](https://dermnetnz.org/topics/raynaud-phenomenon) Huyết khối động mạch [Hoại tử](https://dermnetnz.org/topics/dry-gangrene) Đau khớp và viêm khớp ở các khớp PIP và MCP (khớp ngón tay, bàn tay và ngón chân), đầu gối và mắt cá chân Mệt mỏi Đau cơ (đau cơ) Bệnh phức hợp miễn dịch thận [Viêm mạch da](https://dermnetnz.org/topics/cutaneous-vasculitis) Bệnh lý thần kinh ngoại biên (tê tay, tê chân)
+
+---
+
+## Biểu hiện trên da của bệnh cryoglobulinemia
+
+Các vấn đề về da hầu như luôn xuất hiện ở những bệnh nhân mắc bệnh cryoglobulinemia.
+Vấn đề về da Loại I (%) Loại II và III (%) Hoại tử do thiếu máu cục bộ (tổn thương da và mô do thiếu lưu lượng máu) 40 0-20 [Ban xuất huyết sờ thấy được](https://dermnetnz.org/topics/purpura) 15 80 [Bệnh lý mạch máu dạng sống](https://dermnetnz.org/topics/livedoid-vasculopathy) 1 14 (ở loại III) [Mề đay do lạnh](https://dermnetnz.org/topics/cold-urticaria) 15 10 (ở loại III) Sẹo ở chóp mũi, vành tai, đầu ngón tay và ngón chân Bất thường mao mạch ở nếp gấp móng tay
+![Bệnh Cryoglobulinemia](https://dermnetnz.org/assets/Uploads/vascular/cryoglob1.jpg)
+![Bệnh Cryoglobulinemia](https://dermnetnz.org/assets/Uploads/vascular/cryoglob2.jpg)
+![Bệnh Cryoglobulinemia](https://dermnetnz.org/assets/Uploads/vascular/cryoglob3.jpg)
+![Bệnh Cryoglobulinemia](https://dermnetnz.org/assets/Uploads/vascular/cryoglob4.jpg)
+![Bệnh Cryoglobulinemia](https://dermnetnz.org/assets/Uploads/vascular/cryoglob5.jpg)
+![Hiện tượng Raynaud](https://dermnetnz.org/assets/Uploads/immune/s/raynaud.jpg)
+
+---
+
+## Các biểu hiện khác của bệnh cryoglobulinemia
+
+Nhiều cơ quan có thể bị ảnh hưởng bởi bệnh cryoglobulin huyết.
+Cơ quan bị ảnh hưởng Dấu hiệu và triệu chứng Phổi Ho, khó thở, có dịch trong phổi Tiêu hóa Đau dạ dày, chảy máu, gan to và/hoặc lách to Thận Tăng huyết áp (huyết áp cao), viêm cầu thận, hội chứng thận hư Hệ thần kinh Rối loạn thị giác, bệnh lý thần kinh ngoại biên
+Sốt cũng có thể xảy ra.
+
+---
+
+## Phương pháp điều trị bệnh cryoglobulinemia là gì?
+
+Mục tiêu chính của liệu pháp là tìm và điều trị nguyên nhân cơ bản, đồng thời hạn chế sự kết tủa cryoglobulin và tình trạng viêm do đó gây ra. Bệnh nhân bị cryoglobulin huyết nên được khuyên tránh môi trường lạnh để ngăn ngừa sự kết tủa cryoglobulin.
+Điều trị triệu chứng bao gồm:
+- Thuốc chống viêm không steroid dùng cho bệnh đau khớp và mệt mỏi.
+- Thuốc ức chế miễn dịch (ví dụ, [corticosteroid](https://dermnetnz.org/topics/systemic-steroids) , [cyclophosphamide](https://dermnetnz.org/topics/cyclophosphamide) , [azathioprine](https://dermnetnz.org/topics/azathioprine-and-mercaptopurine) ) khi có tình trạng liên quan đến các cơ quan như viêm mạch , bệnh thận, các triệu chứng thần kinh tiến triển và các bệnh lý da nghiêm trọng gây tàn tật.
+- Phương pháp lọc huyết tương được sử dụng cho các biến chứng nghiêm trọng hoặc đe dọa tính mạng
+- Liệu pháp kháng vi-rút có hiệu quả ở những bệnh nhân mắc bệnh cryoglobulinemia liên quan đến [viêm gan C.](https://dermnetnz.org/topics/viral-hepatitis)
+- Kháng thể đơn dòng Anti-CD20 [rituximab](https://dermnetnz.org/topics/rituximab) được báo cáo là có hiệu quả trong điều trị viêm mạch do bệnh cryoglobulin huyết hỗn hợp loại II và bệnh cryoglobulin huyết liên quan đến viêm gan C.
+Việc xác định và điều trị các triệu chứng sớm như tổn thương da, mệt mỏi hoặc đau khớp do bệnh cryoglobulinemia sẽ ngăn ngừa tổn thương cơ quan thêm và cải thiện kết quả điều trị cho bệnh nhân.

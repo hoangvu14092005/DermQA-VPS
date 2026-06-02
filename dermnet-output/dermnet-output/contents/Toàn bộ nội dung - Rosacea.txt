@@ -1,0 +1,246 @@
+# Bệnh trứng cá đỏ — thông tin bổ sung
+
+Thể loại:
+
+Viêm
+
+SNOMED CT:
+
+398909004, 200933006, 95244005, 238750001, 724848006, 403366003, 231800009, 19877001, 257006, 75867005, 397845003, 10128002, 371097007
+
+**[Viêm](https://dermnetnz.org/topics/topics?category=Inflammation)**
+
+
+# **Bệnh trứng cá đỏ**
+
+Tác giả: Tiến sĩ Olivia Kuo, Bệnh viện Addenbrookes, Cambridge, Vương quốc Anh, tháng 3 năm 2022; cập nhật nhỏ vào tháng 9 năm 2024.Những người đóng góp trước đây: Phó giáo sư Amanda Oakley, Bác sĩ da liễu; Vanessa Ngan, Biên tập viên, New Zealand, 2014. Biên tập bởi Gus Mitchell.
+
+---
+
+## Bệnh trứng cá đỏ là gì?
+
+Bệnh trứng cá đỏ là tình trạng viêm da mãn tính , chủ yếu ảnh hưởng đến vùng trung tâm khuôn mặt và thường bắt đầu ở độ tuổi từ 30 đến 60.
+Rosacea là bệnh phổ biến và đặc trưng bởi tình trạng đỏ da mặt dai dẳng . Bệnh thường tái phát và thuyên giảm, với các triệu chứng được kiểm soát bằng các biện pháp thay đổi lối sống, chăm sóc da tổng quát, thuốc men và các biện pháp can thiệp thủ thuật.
+![Bệnh trứng cá đỏ dạng sẩn mủ ở má](https://dermnetnz.org/assets/collection/Rosacea/rosacea-0004.jpg)
+![Bệnh trứng cá đỏ có giãn mạch và sẩn mủ ở má](https://dermnetnz.org/assets/collection/Rosacea/rosacea-0022.jpg)
+![Bệnh trứng cá đỏ dạng sẩn trên má](https://dermnetnz.org/assets/collection/Rosacea/rosacea-0003.jpg)
+![Các mạch máu giãn mạch trong u nang biểu hiện trên da liễu](https://dermnetnz.org/assets/collection/Rosacea/rosacea-0018.jpg)
+![Rhinophyma và bệnh rosacea sẩn ở cằm](https://dermnetnz.org/assets/collection/Rosacea/rosacea-0010.jpg)
+![Bệnh trứng cá đỏ dạng sẩn mủ và mắt](https://dermnetnz.org/assets/collection/Rosacea/rosacea-0001.jpg)
+[Nhấp vào đây để xem thêm hình ảnh về bệnh trứng cá đỏ](https://dermnetnz-org.translate.goog/images/rosacea-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+
+---
+
+## Ai bị bệnh trứng cá đỏ?
+
+Bệnh trứng cá đỏ (rosacea) ước tính ảnh hưởng đến khoảng 5% người trưởng thành trên toàn thế giới. Mặc dù bệnh này thường được cho là ảnh hưởng đến phụ nữ nhiều hơn nam giới, các nghiên cứu đã chỉ ra rằng tỷ lệ mắc bệnh giữa hai giới gần như ngang nhau .
+Rosacea thường xuất hiện sau 30 tuổi và trở nên phổ biến hơn theo tuổi tác. Tuy nhiên, nó có thể xảy ra ở mọi lứa tuổi và đôi khi xuất hiện ở trẻ em. Mặc dù rosacea có thể ảnh hưởng đến bất kỳ ai, nhưng nó phổ biến hơn ở những người có làn da trắng, mắt xanh và người gốc Celtic hoặc Bắc Âu. Bệnh có thể khó phát hiện hơn và ít được nhận biết ở những bệnh nhân da màu.
+Bệnh trứng cá đỏ có liên quan đến chứng trầm cảm, tăng huyết áp , bệnh tim mạch, rối loạn lo âu, rối loạn lipid máu, đái tháo đường, chứng đau nửa đầu, viêm khớp dạng thấp , nhiễm vi khuẩn Helicobacter pylori , viêm loét đại tràng và chứng mất trí nhớ.
+
+---
+
+## Nguyên nhân gây ra bệnh trứng cá đỏ là gì?
+
+Cơ chế sinh bệnh của bệnh trứng cá đỏ được cho là có nhiều yếu tố và bao gồm:
+- Tính nhạy cảm di truyền Liên kết với các đa hình nucleotide đơn liên quan đến phức hợp tương hợp mô chính loại II.
+- Liên kết với các đa hình nucleotide đơn liên quan đến phức hợp tương hợp mô chính loại II.
+- Hệ vi sinh vật trên da và ruột bị thay đổi Sự phát triển quá mức của vi khuẩn ở ruột non, nhiễm trùng Helicobacter pylori và mật độ Demodex folliculorum và Staphylococcus epidermidis tăng cao trên da có thể đóng vai trò gây viêm da. Sự rối loạn của phản ứng miễn dịch có thể dẫn đến tình trạng viêm quá mức, giãn mạch , giãn bạch huyết và hình thành mạch máu mới.
+- Sự phát triển quá mức của vi khuẩn ở ruột non, nhiễm trùng Helicobacter pylori và mật độ Demodex folliculorum và Staphylococcus epidermidis tăng cao trên da có thể đóng vai trò gây viêm da.
+- Sự rối loạn của phản ứng miễn dịch có thể dẫn đến tình trạng viêm quá mức, giãn mạch , giãn bạch huyết và hình thành mạch máu mới.
+- Cơ chế thần kinh da Các tác nhân kích thích bao gồm tia cực tím ( UV ), thay đổi nhiệt độ, tập thể dục, thức ăn cay, rượu bia, căng thẳng tâm lý, ô nhiễm không khí và hút thuốc lá. Peptide liên quan đến gen calcitonin (CGRP) có thể đóng vai trò trong việc gây đỏ bừng mặt và ban đỏ.
+- Các tác nhân kích thích bao gồm tia cực tím ( UV ), thay đổi nhiệt độ, tập thể dục, thức ăn cay, rượu bia, căng thẳng tâm lý, ô nhiễm không khí và hút thuốc lá. Peptide liên quan đến gen calcitonin (CGRP) có thể đóng vai trò trong việc gây đỏ bừng mặt và ban đỏ.
+- Hàng rào bảo vệ da bị suy yếu Vùng da bị ảnh hưởng có các biểu hiện cho thấy hàng rào bảo vệ da bị suy yếu, tạo điều kiện cho vi khuẩn xâm nhập và gây viêm.
+- Vùng da bị ảnh hưởng có các biểu hiện cho thấy hàng rào bảo vệ da bị suy yếu, tạo điều kiện cho vi khuẩn xâm nhập và gây viêm.
+[Miễn dịch bẩm sinh](https://dermnetnz.org/topics/skin-immune-system)
+- Trên da của bệnh nhân bị bệnh trứng cá đỏ, có sự gia tăng biểu hiện và hoạt động của thụ thể giống toll 2, cathelicidin, kallikrein 5 và tế bào mast.
+- Hơn nữa, cathelicidin LL-37 làm tăng độ nhạy cảm của da với ánh nắng mặt trời.
+- Kết quả là phản ứng miễn dịch bẩm sinh quá mức đối với tác nhân gây bệnh ban đầu.
+[Miễn dịch thích ứng](https://dermnetnz.org/topics/skin-immune-system)
+- Biểu hiện gen T-helper (Th)1/Th17 chiếm ưu thế trong mọi đặc điểm của bệnh trứng cá đỏ.
+- Sự gia tăng biểu hiện Th17 có thể làm tăng mức độ cathelicidin LL-37 trong tế bào sừng và thúc đẩy tình trạng viêm thêm.
+Tác nhân môi trường quan trọng nhất là tia UV; làn da bị ảnh hưởng sẽ nhạy cảm hơn với ánh nắng. Tia UV có thể làm tổn thương lớp hạ bì và làm tăng tình trạng viêm da.
+
+---
+
+## Các đặc điểm lâm sàng của bệnh trứng cá đỏ là gì?
+
+Các đặc điểm trên da bao gồm:
+- Ban đỏ tái phát thoáng qua , tức là [đỏ bừng](https://dermnetnz.org/topics/flushing)
+- [Ban đỏ dai dẳng ở mặt](https://dermnetnz.org/topics/facial-skin-problems)
+- [Giãn mạch](https://dermnetnz.org/topics/telangiectasia) Da mặt ngoài vùng cánh mũi Giãn mao mạch bờ mí mắt Cùng nhau thường được gọi là bệnh trứng cá đỏ lan rộng
+- Da mặt ngoài vùng cánh mũi
+- Giãn mao mạch bờ mí mắt
+- Cùng nhau thường được gọi là bệnh trứng cá đỏ lan rộng
+- Sẩn viêm và mụn mủ (papulopustular)
+- Thay đổi sẩn phù Da dày lên do [tăng sản/xơ hóa tuyến bã nhờn](https://dermnetnz.org/topics/sebaceous-hyperplasia) ở mặt Vùng bị ảnh hưởng phổ biến nhất là mũi (gọi là [bệnh mũi sư tử](https://dermnetnz.org/topics/rhinophyma) ) Thường gặp hơn ở nam giới.
+- Da dày lên do [tăng sản/xơ hóa tuyến bã nhờn](https://dermnetnz.org/topics/sebaceous-hyperplasia) ở mặt
+- Vùng bị ảnh hưởng phổ biến nhất là mũi (gọi là [bệnh mũi sư tử](https://dermnetnz.org/topics/rhinophyma) )
+- Thường gặp hơn ở nam giới.
+![Rhinophyma](https://dermnetnz.org/assets/collection/Rosacea/rosacea-0002.jpg)
+![Viêm mũi sư tử có biểu hiện sưng và lỗ mở tuyến bã nhờn](https://dermnetnz.org/assets/collection/Rosacea/rosacea-0009.jpg)
+![Bệnh trứng cá đỏ dạng sẩn mủ do steroid gây ra](https://dermnetnz.org/assets/collection/Steroid-rosacea/steroid-rosacea-0001.jpg)
+![Bệnh trứng cá đỏ do steroid gây ra ở trán](https://dermnetnz.org/assets/collection/Steroid-rosacea/steroid-rosacea-0002.jpg)
+![Bệnh trứng cá đỏ trên mặt do steroid](https://dermnetnz.org/assets/collection/Steroid-rosacea/steroid-rosacea-0016.jpg)
+![Bệnh trứng cá đỏ sẩn do steroid](https://dermnetnz.org/assets/collection/Steroid-rosacea/steroid-rosacea-0014.jpg)
+![Sưng tấy và mụn mủ ở bệnh trứng cá đỏ do steroid](https://dermnetnz.org/assets/collection/Steroid-rosacea/steroid-rosacea-0013.jpg)
+Đôi khi, bệnh trứng cá đỏ gây ra phù bạch huyết ở mặt (bệnh Morbihan), gây đỏ và sưng mặt và mí mắt.
+Đau mặt và nóng rát kèm theo đỏ và ửng đỏ ( bệnh trứng cá đỏ thần kinh ) là một biến thể hiếm gặp của bệnh trứng cá đỏ.
+![Phù bạch huyết mí mắt và sưng vùng giữa hai lông mày trong bệnh Morbihan](https://dermnetnz.org/assets/collection/Morbihan-disease/morbihan-disease-0006.jpg)
+![Sưng phù mi dưới trong bệnh Morbihan](https://dermnetnz.org/assets/collection/Morbihan-disease/morbihan-disease-0007.jpg)
+Các đặc điểm về mắt không liên quan đến da (ảnh hưởng đến hơn 50% bệnh nhân mắc bệnh trứng cá đỏ):
+- Khô
+- Cảm giác có vật lạ
+- Sợ ánh sáng
+- Viêm kết mạc
+- Viêm bờ mi
+- Viêm giác mạc — có thể dẫn đến suy giảm thị lực lâu dài.
+[Nhấp vào đây để xem hình ảnh bệnh trứng cá đỏ](https://dermnetnz-org.translate.goog/images/rosacea-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
+
+---
+
+## Các đặc điểm lâm sàng khác nhau như thế nào ở các loại da khác nhau?
+
+Bệnh trứng cá đỏ thường được chẩn đoán ở những bệnh nhân da trắng có nguồn gốc Celtic và Bắc Âu.
+Việc xác định các đặc điểm chính của bệnh trứng cá đỏ ở những bệnh nhân da màu có thể khó khăn hơn. Những đặc điểm này có thể chưa được nhận biết đầy đủ và bệnh trứng cá đỏ có thể chưa được chẩn đoán đầy đủ ở những bệnh nhân này.
+
+---
+
+## Biến chứng của bệnh trứng cá đỏ là gì?
+
+Các biến chứng của bệnh trứng cá đỏ bao gồm:
+- Bệnh trứng cá đỏ
+- Biến chứng viêm mắt, ví dụ như viêm kết mạc giác mạc, viêm củng mạc giác mạc
+- Khó chịu về thể chất, ví dụ, từ các triệu chứng về mắt
+- Những tác động tiêu cực về mặt tâm lý xã hội như lo lắng gia tăng, trầm cảm, lòng tự trọng thấp và cô lập xã hội
+- Tránh tác nhân gây bệnh dẫn đến hạn chế lối sống.
+
+---
+
+## Bệnh trứng cá đỏ được chẩn đoán như thế nào?
+
+Phần lớn các trường hợp, bệnh trứng cá đỏ được chẩn đoán lâm sàng. Chẩn đoán được thực hiện dựa trên các tiêu chuẩn chẩn đoán và tiêu chuẩn chính được khuyến nghị bởi Hội đồng Đồng thuận ROSacea toàn cầu (ROSCO) năm 2017. Điều này yêu cầu đáp ứng một hoặc hai tiêu chuẩn chẩn đoán chính.
+Ở những bệnh nhân có kiểu hình ảnh tối hơn, khi tình trạng ban đỏ và giãn mạch ( mạch máu có thể nhìn thấy ) khó quan sát hơn, có thể tập trung nhiều hơn vào các đặc điểm chính và phụ khác.
+
+### Tiêu chuẩn chẩn đoán
+- Ban đỏ trung tâm mặt dai dẳng liên quan đến sự tăng cường định kỳ bởi các yếu tố kích hoạt tiềm ẩn
+- Thay đổi phymatous.
+
+### Tiêu chuẩn chính (phải xuất hiện ở vùng trung tâm mặt)
+- Đỏ bừng/ban đỏ thoáng qua ở trung tâm mặt
+- Sẩn viêm và mụn mủ
+- Giãn mạch máu — các mạch máu có thể nhìn thấy (trừ giãn mạch cánh mũi , thường gặp ở người lớn)
+- [Bệnh rosacea ở mắt](https://dermnetnz.org/topics/ocular-rosacea) (giãn mao mạch rìa mí mắt, viêm bờ mi, viêm giác mạc/viêm kết mạc/viêm xơ cứng/ viêm màng bồ đào trước ).
+
+### Các tính năng nhỏ
+- Cảm giác nóng rát ở da
+- Cảm giác châm chích trên da
+- Phù nề
+- Cảm giác khô da.
+Trong trường hợp chẩn đoán không chắc chắn, có thể cân nhắc sinh [thiết da](https://dermnetnz.org/topics/skin-biopsy) .
+
+---
+
+## Chẩn đoán phân biệt bệnh trứng cá đỏ là gì?
+
+Các tình trạng khác có thể biểu hiện các đặc điểm tương tự trên da bao gồm:
+- [Mụn trứng cá thông thường](https://dermnetnz.org/topics/acne-vulgaris)
+- [Carcinoid](https://dermnetnz.org/topics/carcinoid-syndrome)
+- [Viêm nang lông do Demodex](https://dermnetnz.org/topics/demodex)
+- [Viêm da cơ](https://dermnetnz.org/topics/adult-onset-dermatomyositis)
+- [Phản ứng thuốc](https://dermnetnz.org/topics/drug-eruptions)
+- [Bệnh chàm](https://dermnetnz.org/topics/dermatitis)
+- [U hạt vô khuẩn ở mặt tự phát](https://dermnetnz.org/topics/idiopathic-facial-aseptic-granuloma)
+- [Viêm da quanh mắt](https://dermnetnz.org/topics/periorificial-dermatitis) hoặc [viêm da quanh mắt](https://dermnetnz.org/topics/periocular-dermatitis)
+- [Da bị tổn thương do ánh sáng](https://dermnetnz.org/topics/photosensitivity)
+- [Viêm da mủ ở mặt](https://dermnetnz.org/topics/pyoderma-faciale)
+- [Viêm da tiết bã nhờn](https://dermnetnz.org/topics/seborrhoeic-dermatitis)
+- [Mụn trứng cá do steroid gây ra](https://dermnetnz.org/topics/steroid-acne)
+- [Bệnh trứng cá đỏ do steroid](https://dermnetnz.org/topics/steroid-rosacea)
+- [Bệnh lupus ban đỏ hệ thống](https://dermnetnz.org/topics/systemic-lupus-erythematosus) .
+
+---
+
+## Phương pháp điều trị bệnh trứng cá đỏ là gì?
+
+Mặc dù không có cách chữa khỏi bệnh trứng cá đỏ, nhưng các triệu chứng có thể được kiểm soát bằng các biện pháp thay đổi lối sống, can thiệp y tế và thủ thuật sau đây.
+
+### Các biện pháp chung
+Tất cả bệnh nhân mắc bệnh trứng cá đỏ nên được giáo dục về các biện pháp chăm sóc da và lối sống nói chung.
+
+#### Lời khuyên về lối sống
+- Khuyến khích bệnh nhân ghi lại nhật ký triệu chứng để hỗ trợ xác định nguyên nhân gây bệnh: Các tác nhân gây bệnh phổ biến bao gồm thức ăn cay, nhiệt độ nóng/lạnh (tắm nước nóng), tập thể dục, tiếp xúc với ánh nắng mặt trời, mỹ phẩm, thuốc (thuốc gây giãn mạch), rượu, trái cây và rau quả, sữa, sản phẩm thịt ướp
+- Các tác nhân gây bệnh phổ biến bao gồm thức ăn cay, nhiệt độ nóng/lạnh (tắm nước nóng), tập thể dục, tiếp xúc với ánh nắng mặt trời, mỹ phẩm, thuốc (thuốc gây giãn mạch), rượu, trái cây và rau quả, sữa, sản phẩm thịt ướp
+- Tránh các tác nhân gây dị ứng đã xác định.
+
+#### Lời khuyên chung về chăm sóc da
+- [Dưỡng ẩm](https://dermnetnz.org/topics/emollients-and-moisturisers) thường xuyên
+- [Sử dụng chất tẩy rửa](https://dermnetnz.org/topics/soaps-and-cleansers) nhẹ không cần kê đơn [](https://dermnetnz.org/topics/soaps-and-cleansers) Chất tẩy rửa nhẹ, có nguồn gốc tổng hợp thay vì xà phòng truyền thống vì có nguy cơ gây kích ứng
+- Chất tẩy rửa nhẹ, có nguồn gốc tổng hợp thay vì xà phòng truyền thống vì có nguy cơ gây kích ứng
+- Sử dụng [kem chống nắng vật lý](https://dermnetnz.org/topics/topical-sunscreen-agents) (ví dụ: oxit kẽm/oxit titan) có SPF ≥ 30 Cung cấp khả năng bảo vệ khỏi bức xạ UV phổ rộng và ánh sáng khả kiến Có thể được dung nạp tốt hơn so với kem chống nắng hóa học
+- Cung cấp khả năng bảo vệ khỏi bức xạ UV phổ rộng và ánh sáng khả kiến
+- Có thể được dung nạp tốt hơn so với kem chống nắng hóa học
+- Tránh chất tẩy tế bào chết
+- Tránh các sản phẩm bôi ngoài da có chứa cồn
+- Tránh sử dụng steroid tại chỗ vì chúng có thể làm trầm trọng thêm tình trạng bệnh
+- Mỹ phẩm có tông màu xanh lá cây có tác dụng làm giảm tình trạng mẩn đỏ.
+
+#### Những cân nhắc về mặt tâm lý xã hội
+- Đánh giá gánh nặng tâm lý xã hội của bệnh nhân và cân nhắc việc giới thiệu bệnh nhân đi hỗ trợ tâm lý khi cần thiết.
+
+### Các biện pháp cụ thể
+Các phương pháp điều trị hiện có cho bệnh trứng cá đỏ có thể rất hiệu quả — tuy nhiên, chúng thường chỉ nhắm vào một triệu chứng. Điều này có nghĩa là cần kết hợp nhiều liệu pháp khi bệnh nhân có nhiều triệu chứng và ở mức độ nghiêm trọng.
+Nhiều phương pháp điều trị sau đây là liệu pháp điều trị đầu tay được hội đồng ROSCO năm 2019 khuyến nghị:
+
+#### Ban đỏ thoáng qua (đỏ bừng)
+- Thuốc chủ vận alpha-adrenergic ( [brimonidine](https://dermnetnz.org/topics/brimonidine) bôi ngoài da , oxymetazoline bôi ngoài da) — chúng thường chỉ được sử dụng không thường xuyên trong những dịp đặc biệt, vì sử dụng liên tục có thể dẫn đến đỏ bừng mặt khi ngừng thuốc
+- [Thuốc chẹn beta đường uống (carvedilol)](https://dermnetnz.org/topics/beta-blockers)
+- Clonidin uống có thể làm giảm đỏ bừng mặt
+- Thuốc đối kháng CGRP (erenumab)
+- [Gabapentin](https://dermnetnz.org/topics/gabapentin)
+
+#### Ban đỏ dai dẳng
+- Thuốc chủ vận alpha-adrenergic (brimonidine bôi ngoài da, oxymetazoline bôi ngoài da, như trên)
+- [Liệu pháp ánh sáng xung cường độ cao](https://dermnetnz.org/topics/intense-pulsed-light-therapy)
+- [Laser mạch máu](https://dermnetnz.org/topics/lasers-in-dermatology)
+
+#### Sẩn/mụn mủ viêm
+- [Axit azelaic](https://dermnetnz.org/topics/azelaic-acid) bôi ngoài da (chỉ dùng cho trường hợp nhẹ/trung bình)
+- [Ivermectin](https://dermnetnz.org/topics/ivermectin) bôi ngoài da [](https://dermnetnz.org/topics/ivermectin)
+- [Metronidazole](https://dermnetnz.org/topics/metronidazole) bôi ngoài da (chỉ dùng cho trường hợp nhẹ/trung bình)
+- [Erythromycin](https://dermnetnz.org/topics/erythromycin) bôi ngoài da [](https://dermnetnz.org/topics/erythromycin)
+- [Tetracycline uống](https://dermnetnz.org/topics/tetracycline) (oxytetracycline, lymecycline, doxycycline)
+- Macrolide uống ( [erythromycin](https://dermnetnz.org/topics/erythromycin) , azithromycin)
+- [Metronidazole](https://dermnetnz.org/topics/metronidazole) uống [](https://dermnetnz.org/topics/metronidazole)
+- [Isotretinoin](https://dermnetnz.org/topics/isotretinoin) uống thường ở liều thấp (chỉ dùng cho bệnh khó chữa )
+
+#### Giãn mạch
+- [Sấy khô bằng điện](https://dermnetnz.org/topics/electrosurgery)
+- Liệu pháp ánh sáng xung cường độ cao
+- Laser mạch máu
+
+#### Bệnh trứng cá đỏ thần kinh
+- Gabapentin
+- Amitriptylin
+- Thuốc chẹn beta-adrenergic đường uống
+- Cân nhắc phẫu thuật cắt dây thần kinh giao cảm nội soi
+
+#### Phyma
+- Nếu bị viêm lâm sàng: doxycycline, isotretinoin
+- Nếu không bị viêm về mặt lâm sàng: các phương pháp vật lý để loại bỏ mô thừa và định hình lại cấu trúc (ví dụ, [tia laser CO2 phá hủy](https://dermnetnz.org/topics/carbon-dioxide-laser-treatment) , [tia laser erbium](https://dermnetnz.org/topics/eryag-laser-treatment) , tần số vô tuyến, phẫu thuật cắt bỏ khối u).
+
+#### Bệnh trứng cá đỏ ở mắt
+- Quản lý chung Tăng cường hấp thụ axit béo omega-3 trong chế độ ăn uống Chườm ấm Làm sạch lông mi/mí mắt nhẹ nhàng để loại bỏ bã nhờn bị mắc kẹt trong tuyến meibomian
+- Tăng cường hấp thụ axit béo omega-3 trong chế độ ăn uống
+- Chườm ấm
+- Làm sạch lông mi/mí mắt nhẹ nhàng để loại bỏ bã nhờn bị mắc kẹt trong tuyến meibomian
+- Quản lý y tế tuyến đầu Nếu nhẹ-trung bình: azithromycin bôi ngoài da/ [thuốc ức chế calcineurin bôi ngoài da](https://dermnetnz.org/topics/calcineurin-inhibitors) Nếu nặng: azithromycin, doxycycline.
+- Nếu nhẹ-trung bình: azithromycin bôi ngoài da/ [thuốc ức chế calcineurin bôi ngoài da](https://dermnetnz.org/topics/calcineurin-inhibitors)
+- Nếu nặng: azithromycin, doxycycline.
+Để biết thêm thông tin, hãy xem [Bệnh trứng cá đỏ ở mắt](https://dermnetnz.org/topics/ocular-rosacea) .
+
+---
+
+## Hậu quả của bệnh trứng cá đỏ là gì?
+
+Mặc dù bệnh trứng cá đỏ không phải là một tình trạng đe dọa tính mạng, nhưng đây là một bệnh mãn tính đòi hỏi phải kiểm soát lâu dài các triệu chứng tái phát và thuyên giảm. Việc giải quyết hoàn toàn các triệu chứng lâm sàng đã được chứng minh là kéo dài thời gian tái phát triệu chứng và có tác động tích cực hơn đến chất lượng cuộc sống so với việc giải quyết không hoàn toàn.
+[Nhấp vào đây để xem hình ảnh bệnh trứng cá đỏ](https://dermnetnz-org.translate.goog/images/rosacea-images?_x_tr_sl=en&_x_tr_tl=vi&_x_tr_hl=vi&_x_tr_pto=wapp)
