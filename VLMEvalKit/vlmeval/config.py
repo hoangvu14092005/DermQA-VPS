@@ -948,6 +948,7 @@ minicpm_series = {
         vlm.MiniCPM_Llama3_V, model_path="openbmb/MiniCPM-Llama3-V-2_5"
     ),
     "MiniCPM-V-2_6": partial(vlm.MiniCPM_V_2_6, model_path="openbmb/MiniCPM-V-2_6"),
+    "MiniCPM-V-2_6-int4": partial(vlm.MiniCPM_V_2_6, model_path="openbmb/MiniCPM-V-2_6-int4"),
     "MiniCPM-o-2_6": partial(vlm.MiniCPM_o_2_6, model_path="openbmb/MiniCPM-o-2_6"),
     "MiniCPM-V-4": partial(vlm.MiniCPM_V_4, model_path="openbmb/MiniCPM-V-4"),
     "MiniCPM-V-4_5": partial(vlm.MiniCPM_V_4_5, model_path="openbmb/MiniCPM-V-4_5"),
@@ -2005,8 +2006,8 @@ qwen2vl_series = {
     "Qwen2.5-VL-7B-Instruct": partial(
         vlm.Qwen2VLChat,
         model_path="Qwen/Qwen2.5-VL-7B-Instruct",
-        min_pixels=1280 * 28 * 28,
-        max_pixels=16384 * 28 * 28,
+        min_pixels=256 * 28 * 28,
+        max_pixels=1024 * 28 * 28,
         use_custom_prompt=False,
     ),
     "Qwen2.5-VL-7B-Instruct-ForVideo": partial(
@@ -2020,8 +2021,8 @@ qwen2vl_series = {
     "Qwen2.5-VL-7B-Instruct-AWQ": partial(
         vlm.Qwen2VLChat,
         model_path="Qwen/Qwen2.5-VL-7B-Instruct-AWQ",
-        min_pixels=1280 * 28 * 28,
-        max_pixels=16384 * 28 * 28,
+        min_pixels=256 * 28 * 28,
+        max_pixels=1024 * 28 * 28,
         use_custom_prompt=False,
     ),
     "Qwen2.5-VL-32B-Instruct": partial(
