@@ -1,8 +1,3 @@
-# Monkeypatch for transformers compatibility with older PyTorch versions
-import torch
-if not hasattr(torch, "float8_e8m0fnu"):
-    setattr(torch, "float8_e8m0fnu", torch.float32)
-
 import argparse
 import asyncio
 import copy as cp
@@ -53,10 +48,14 @@ if LOCAL_WORLD_SIZE > 1 and len(GPU_LIST):
     print(
         f'RANK: {RANK}, LOCAL_RANK: {LOCAL_RANK}, WORLD_SIZE: {WORLD_SIZE},'
         f'LOCAL_WORLD_SIZE: {LOCAL_WORLD_SIZE}, CUDA_VISIBLE_DEVICES: {CUDA_VISIBLE_DEVICES}'
-    )
 
+# Monkeypatch for transformers compatibility with older PyTorch versions
+import torch
+if not hasattr(torch, "float8_e8m0fnu"):
+    setattr(torch, "float8_e8m0fnu", torch.float32)
 
 from vlmeval.api import LMDeployAPI
+
 from vlmeval.config import supported_VLM
 from vlmeval.dataset import build_dataset
 from vlmeval.dataset.video_dataset_config import supported_video_datasets
