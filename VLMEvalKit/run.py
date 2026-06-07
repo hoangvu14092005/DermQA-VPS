@@ -1,3 +1,8 @@
+# Monkeypatch for transformers compatibility with older PyTorch versions
+import torch
+if not hasattr(torch, "float8_e8m0fnu"):
+    setattr(torch, "float8_e8m0fnu", torch.float32)
+
 import argparse
 import asyncio
 import copy as cp
