@@ -48,6 +48,7 @@ if LOCAL_WORLD_SIZE > 1 and len(GPU_LIST):
     print(
         f'RANK: {RANK}, LOCAL_RANK: {LOCAL_RANK}, WORLD_SIZE: {WORLD_SIZE},'
         f'LOCAL_WORLD_SIZE: {LOCAL_WORLD_SIZE}, CUDA_VISIBLE_DEVICES: {CUDA_VISIBLE_DEVICES}'
+    )
 
 # Monkeypatch for transformers compatibility with older PyTorch versions
 import torch
