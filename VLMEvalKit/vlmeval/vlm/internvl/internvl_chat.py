@@ -118,14 +118,18 @@ class InternVLChat(BaseModel):
 
         # Patch for transformers compatibility issue with InternVL models
         import torch.nn as nn
-        if not hasattr(nn.Module, 'all_tied_weights_keys'):
-            def get_keys(self):
-                if hasattr(self, '_all_tied_weights_keys_val'):
-                    return self._all_tied_weights_keys_val
-                return getattr(self, '_tied_weights_keys', [])
-            def set_keys(self, value):
-                self._all_tied_weights_keys_val = value
-            nn.Module.all_tied_weights_keys = property(get_keys, set_keys)
+        import transformers
+        def get_keys(self):
+            if hasattr(self, '_all_tied_weights_keys_val'):
+                return self._all_tied_weights_keys_val
+            return getattr(self, '_tied_weights_keys', [])
+        def set_keys(self, value):
+            self._all_tied_weights_keys_val = value
+        nn.Module.all_tied_weights_keys = property(get_keys, set_keys)
+        if hasattr(transformers, 'PreTrainedModel'):
+            transformers.PreTrainedModel.all_tied_weights_keys = property(get_keys, set_keys)
+        if hasattr(transformers.modeling_utils, 'PreTrainedModel'):
+            transformers.modeling_utils.PreTrainedModel.all_tied_weights_keys = property(get_keys, set_keys)
 
         self.use_lmdeploy = use_lmdeploy
         self.cot_prompt_version = cot_prompt_version
