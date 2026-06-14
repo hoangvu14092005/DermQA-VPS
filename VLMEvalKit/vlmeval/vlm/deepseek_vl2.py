@@ -21,7 +21,7 @@ class DeepSeekVL2(BaseModel):
                 'Please first install deepseek_vl2 from source codes in: https://github.com/deepseek-ai/DeepSeek-VL2')
             raise e
 
-    def __init__(self, model_path='deepseek-ai/deepseek-vl2-tiny', **kwargs):
+    def __init__(self, model_path='deepseek-ai/deepseek-vl2-tiny', load_in_4bit=False, load_in_8bit=False, **kwargs):
         self.check_install()
         assert model_path is not None
         self.model_path = model_path
@@ -30,10 +30,27 @@ class DeepSeekVL2(BaseModel):
         self.vl_chat_processor = DeepseekVLV2Processor.from_pretrained(model_path)
         self.tokenizer = self.vl_chat_processor.tokenizer
 
-        model: DeepseekVLV2ForCausalLM = AutoModelForCausalLM.from_pretrained(model_path,
-                                                                              trust_remote_code=True,
-                                                                              torch_dtype=torch.bfloat16)
-        self.model = model.cuda().eval()
+        model_kwargs = {
+            "trust_remote_code": True,
+            "torch_dtype": torch.bfloat16
+        }
+        if load_in_4bit:
+            from transformers import BitsAndBytesConfig
+            model_kwargs["quantization_config"] = BitsAndBytesConfig(
+                load_in_4bit=True,
+                bnb_4bit_compute_dtype=torch.bfloat16,
+                bnb_4bit_use_double_quant=True,
+                bnb_4bit_quant_type="nf4"
+            )
+            model_kwargs["device_map"] = "auto"
+        elif load_in_8bit:
+            model_kwargs["load_in_8bit"] = True
+            model_kwargs["device_map"] = "auto"
+
+        model: DeepseekVLV2ForCausalLM = AutoModelForCausalLM.from_pretrained(model_path, **model_kwargs)
+        if not (load_in_4bit or load_in_8bit):
+            model = model.cuda()
+        self.model = model.eval()
 
         torch.cuda.empty_cache()
         default_kwargs = dict(max_new_tokens=128, repetition_penalty=1.1, do_sample=False, use_cache=True)

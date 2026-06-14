@@ -1757,6 +1757,12 @@ deepseekvl2_series = {
         vlm.DeepSeekVL2, model_path="deepseek-ai/deepseek-vl2-small"
     ),
     "deepseek_vl2": partial(vlm.DeepSeekVL2, model_path="deepseek-ai/deepseek-vl2"),
+    "deepseek_vl2_int8": partial(
+        vlm.DeepSeekVL2, model_path="deepseek-ai/deepseek-vl2", load_in_8bit=True
+    ),
+    "deepseek_vl2_int4": partial(
+        vlm.DeepSeekVL2, model_path="deepseek-ai/deepseek-vl2", load_in_4bit=True
+    ),
 }
 
 deepseekocr_series = {
