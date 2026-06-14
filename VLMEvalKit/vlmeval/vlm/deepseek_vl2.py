@@ -21,6 +21,37 @@ except ImportError:
                 return False
 transformers.modeling_utils.is_flash_attn_2_available = is_flash_attn_2_available
 
+# Monkeypatch to fix RuntimeError: "baddbmm_cuda" not implemented for 'Char' when running in 8-bit/4-bit mode
+_orig_matmul = torch.matmul
+def patched_matmul(input, other, *, out=None):
+    if isinstance(input, torch.Tensor) and input.dtype == torch.int8:
+        if isinstance(other, torch.Tensor):
+            input = input.to(other.dtype)
+        else:
+            input = input.to(torch.bfloat16)
+    if isinstance(other, torch.Tensor) and other.dtype == torch.int8:
+        if isinstance(input, torch.Tensor):
+            other = other.to(input.dtype)
+        else:
+            other = other.to(torch.bfloat16)
+    return _orig_matmul(input, other, out=out)
+torch.matmul = patched_matmul
+
+_orig_bmm = torch.bmm
+def patched_bmm(input, mat2, *, out=None):
+    if isinstance(input, torch.Tensor) and input.dtype == torch.int8:
+        if isinstance(mat2, torch.Tensor):
+            input = input.to(mat2.dtype)
+        else:
+            input = input.to(torch.bfloat16)
+    if isinstance(mat2, torch.Tensor) and mat2.dtype == torch.int8:
+        if isinstance(input, torch.Tensor):
+            mat2 = mat2.to(input.dtype)
+        else:
+            mat2 = mat2.to(torch.bfloat16)
+    return _orig_bmm(input, mat2, out=out)
+torch.bmm = patched_bmm
+
 from .base import BaseModel
 
 
