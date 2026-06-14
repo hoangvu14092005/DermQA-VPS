@@ -124,6 +124,40 @@ def dequantize_and_replace_kv_b_proj(model):
     logging.info(f"Permanently dequantized and replaced {count} kv_b_proj layers with standard bfloat16 Linear layers.")
 
 
+def get_custom_instruction(question_text):
+    import re
+    # Check if it is a Multiple Choice question (contains options like A., B., C., D.)
+    has_mcq_options = (
+        ("A." in question_text and "B." in question_text) or
+        ("A. " in question_text and "B. " in question_text) or
+        bool(re.search(r'\b[A-D]\.', question_text))
+    )
+    if has_mcq_options:
+        return (
+            "\nTrả lời bằng cách chỉ ghi ra (các) chữ cái đại diện cho đáp án đúng (ví dụ: A, B, hoặc AD). "
+            "KHÔNG viết thêm bất kỳ giải thích hay từ ngữ nào khác."
+        )
+        
+    # Check if it is a Judgement (Yes/No) question
+    is_judgement = (
+        "không?" in question_text or 
+        "phải là" in question_text or
+        "đúng không" in question_text
+    )
+    if is_judgement:
+        return (
+            "\nTrả lời bằng 'Có' hoặc 'Không' một cách trực tiếp. "
+            "KHÔNG viết thêm bất kỳ giải thích hay từ ngữ nào khác."
+        )
+        
+    # Default for short answers, fill-in-the-blank, and open-ended descriptions
+    return (
+        "\nTrả lời một cách trực tiếp, đầy đủ và ngắn gọn bằng tiếng Việt (không quá 2 câu, dưới 40 từ). "
+        "KHÔNG viết các câu dẫn dắt mở đầu như 'Trong hình ảnh...' hoặc 'Dựa vào hình ảnh...'. "
+        "KHÔNG chia danh sách hay dùng gạch đầu dòng."
+    )
+
+
 from .base import BaseModel
 
 
@@ -240,12 +274,17 @@ class DeepSeekVL2(BaseModel):
             conversation = []
             if 'role' not in message[0]:
                 content, images = prepare_itlist(message)
+                instruction = get_custom_instruction(content)
+                content += instruction
                 conversation.append(dict(role='<|User|>', content=content, images=images))
             else:
                 role_map = {'user': '<|User|>', 'assistant': '<|Assistant|>'}
-                for msgs in message:
+                for i, msgs in enumerate(message):
                     role = role_map[msgs['role']]
                     content, images = prepare_itlist(msgs['content'])
+                    if i == len(message) - 1 and role == '<|User|>':
+                        instruction = get_custom_instruction(content)
+                        content += instruction
                     conversation.append(dict(role=role, content=content, images=images))
             conversation.append(dict(role='<|Assistant|>', content=''))
 
