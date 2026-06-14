@@ -109,7 +109,7 @@ def wrap_attn_forward(attn_class):
                                 
                     if dequantized_weight is not None:
                         orig_weight = self.kv_b_proj.weight
-                        self.kv_b_proj.weight = dequantized_weight
+                        self.kv_b_proj.weight = torch.nn.Parameter(dequantized_weight, requires_grad=False)
                 except Exception as e:
                     import warnings
                     warnings.warn(f"Failed to dequantize kv_b_proj.weight: {e}")
