@@ -21,12 +21,68 @@ except ImportError:
                 return False
 transformers.modeling_utils.is_flash_attn_2_available = is_flash_attn_2_available
 
-def wrap_attn_forward(attn_class):
-    _orig_forward = attn_class.forward
-    def patched_forward(self, *args, **kwargs):
-        orig_weight = None
-        if hasattr(self, "kv_b_proj") and hasattr(self.kv_b_proj, "weight"):
-            weight_param = self.kv_b_proj.weight
+def dequantize_weight_param(weight_param):
+    dequantized_weight = None
+    
+    # 1. Try peft helper with custom BNBState
+    try:
+        from peft.utils.integrations import dequantize_bnb_weight
+        class BNBState:
+            def __init__(self):
+                self.SCB = None
+        state = BNBState()
+        try:
+            dequantized_weight = dequantize_bnb_weight(weight_param, state=state, dtype=torch.bfloat16)
+        except TypeError:
+            dequantized_weight = dequantize_bnb_weight(weight_param, state=state)
+    except Exception:
+        pass
+
+    # 2. Try transformers helper with custom BNBState
+    if dequantized_weight is None:
+        try:
+            from transformers.integrations.bitsandbytes import dequantize_bnb_weight
+            class BNBState:
+                def __init__(self):
+                    self.SCB = None
+            state = BNBState()
+            try:
+                dequantized_weight = dequantize_bnb_weight(weight_param, state=state, dtype=torch.bfloat16)
+            except TypeError:
+                dequantized_weight = dequantize_bnb_weight(weight_param, state=state)
+        except Exception:
+            pass
+            
+    # 3. Manual Fallback
+    if dequantized_weight is None:
+        if type(weight_param).__name__ in ("Int8Params", "Params8bit") or weight_param.dtype == torch.int8:
+            if hasattr(weight_param, "SCB") and weight_param.SCB is not None:
+                try:
+                    import bitsandbytes.functional as F
+                    if hasattr(F, "int8_vectorwise_dequant"):
+                        dequantized_weight = F.int8_vectorwise_dequant(weight_param.data, weight_param.SCB).to(torch.bfloat16)
+                except Exception:
+                    pass
+                if dequantized_weight is None:
+                    SCB = weight_param.SCB
+                    dequantized_weight = (weight_param.data.to(torch.float32) * SCB.to(torch.float32).view(-1, 1)) * 7.874015718698502e-3
+                    dequantized_weight = dequantized_weight.to(torch.bfloat16)
+        elif type(weight_param).__name__ == "Params4bit":
+            state = getattr(weight_param, "quant_state", None) or getattr(weight_param, "state", None)
+            if state is not None:
+                import bitsandbytes.functional as F
+                dequantized_weight = F.dequantize_4bit(weight_param.data, state).to(torch.bfloat16)
+                
+    return dequantized_weight
+
+
+def dequantize_and_replace_kv_b_proj(model):
+    import torch.nn as nn
+    count = 0
+    for name, module in model.named_modules():
+        if hasattr(module, "kv_b_proj") and module.kv_b_proj is not None:
+            kv_b_proj = module.kv_b_proj
+            weight_param = kv_b_proj.weight
             
             # Check if weight is quantized using class name or dtype
             is_quantized = False
@@ -36,8 +92,7 @@ def wrap_attn_forward(attn_class):
                 
             if is_quantized:
                 try:
-                    # bitsandbytes lazily initializes CB/SCB/state during the first forward pass.
-                    # If they are None, we force initialization via a dummy forward pass.
+                    # Force bitsandbytes initialization if needed
                     needs_init = False
                     if type(weight_param).__name__ in ("Int8Params", "Params8bit"):
                         if not hasattr(weight_param, "SCB") or weight_param.SCB is None:
@@ -49,76 +104,24 @@ def wrap_attn_forward(attn_class):
                             
                     if needs_init:
                         try:
-                            dummy_input = torch.zeros(1, self.kv_b_proj.in_features, device=weight_param.device, dtype=torch.bfloat16)
-                            self.kv_b_proj(dummy_input)
-                            # Re-fetch weight parameter after initialization
-                            weight_param = self.kv_b_proj.weight
-                        except Exception:
-                            pass
-
-                    dequantized_weight = None
-                    
-                    # 1. Try peft helper with custom BNBState
-                    try:
-                        from peft.utils.integrations import dequantize_bnb_weight
-                        class BNBState:
-                            def __init__(self):
-                                self.SCB = None
-                        state = BNBState()
-                        try:
-                            dequantized_weight = dequantize_bnb_weight(weight_param, state=state, dtype=torch.bfloat16)
-                        except TypeError:
-                            dequantized_weight = dequantize_bnb_weight(weight_param, state=state)
-                    except Exception:
-                        pass
-
-                    # 2. Try transformers helper with custom BNBState
-                    if dequantized_weight is None:
-                        try:
-                            from transformers.integrations.bitsandbytes import dequantize_bnb_weight
-                            class BNBState:
-                                def __init__(self):
-                                    self.SCB = None
-                            state = BNBState()
-                            try:
-                                dequantized_weight = dequantize_bnb_weight(weight_param, state=state, dtype=torch.bfloat16)
-                            except TypeError:
-                                dequantized_weight = dequantize_bnb_weight(weight_param, state=state)
+                            dummy_input = torch.zeros(1, kv_b_proj.in_features, device=weight_param.device, dtype=torch.bfloat16)
+                            kv_b_proj(dummy_input)
+                            weight_param = kv_b_proj.weight
                         except Exception:
                             pass
                             
-                    # 3. Manual Fallback
-                    if dequantized_weight is None:
-                        if type(weight_param).__name__ in ("Int8Params", "Params8bit") or weight_param.dtype == torch.int8:
-                            if hasattr(weight_param, "SCB") and weight_param.SCB is not None:
-                                try:
-                                    import bitsandbytes.functional as F
-                                    if hasattr(F, "int8_vectorwise_dequant"):
-                                        dequantized_weight = F.int8_vectorwise_dequant(weight_param.data, weight_param.SCB).to(torch.bfloat16)
-                                except Exception:
-                                    pass
-                                if dequantized_weight is None:
-                                    SCB = weight_param.SCB
-                                    dequantized_weight = (weight_param.data.to(torch.float32) * SCB.to(torch.float32).view(-1, 1)) * 7.874015718698502e-3
-                                    dequantized_weight = dequantized_weight.to(torch.bfloat16)
-                        elif type(weight_param).__name__ == "Params4bit":
-                            state = getattr(weight_param, "quant_state", None) or getattr(weight_param, "state", None)
-                            if state is not None:
-                                import bitsandbytes.functional as F
-                                dequantized_weight = F.dequantize_4bit(weight_param.data, state).to(torch.bfloat16)
-                                
-                    if dequantized_weight is not None:
-                        orig_weight = self.kv_b_proj.weight
-                        self.kv_b_proj.weight = torch.nn.Parameter(dequantized_weight, requires_grad=False)
+                    # Dequantize the weight
+                    dequantized = dequantize_weight_param(weight_param)
+                    if dequantized is not None:
+                        new_linear = nn.Linear(kv_b_proj.in_features, kv_b_proj.out_features, bias=False)
+                        new_linear.weight = nn.Parameter(dequantized.to(torch.bfloat16), requires_grad=False)
+                        new_linear = new_linear.to(weight_param.device)
+                        module.kv_b_proj = new_linear
+                        count += 1
                 except Exception as e:
-                    import warnings
-                    warnings.warn(f"Failed to dequantize kv_b_proj.weight: {e}")
-        try:
-            return _orig_forward(self, *args, **kwargs)
-        finally:
-            if orig_weight is not None:
-                self.kv_b_proj.weight = orig_weight
-    attn_class.forward = patched_forward
+                    warnings.warn(f"Failed to permanently dequantize and replace {name}.kv_b_proj: {e}")
+                    
+    logging.info(f"Permanently dequantized and replaced {count} kv_b_proj layers with standard bfloat16 Linear layers.")
 
 
 from .base import BaseModel
@@ -140,16 +143,7 @@ class DeepSeekVL2(BaseModel):
     def __init__(self, model_path='deepseek-ai/deepseek-vl2-tiny', load_in_4bit=False, load_in_8bit=False, **kwargs):
         self.check_install()
 
-        # Dynamically patch DeepseekV2Attention classes to dequantize kv_b_proj.weight on the fly when quantized
-        if load_in_4bit or load_in_8bit:
-            try:
-                import deepseek_vl2.models.modeling_deepseek as modeling_deepseek
-                for name in dir(modeling_deepseek):
-                    obj = getattr(modeling_deepseek, name)
-                    if isinstance(obj, type) and ("Attention" in name) and hasattr(obj, "forward"):
-                        wrap_attn_forward(obj)
-            except Exception as e:
-                warnings.warn(f"Failed to apply DeepseekV2Attention monkeypatches: {e}")
+        pass
 
         assert model_path is not None
         self.model_path = model_path
@@ -179,6 +173,9 @@ class DeepSeekVL2(BaseModel):
         if not (load_in_4bit or load_in_8bit):
             model = model.cuda()
         self.model = model.eval()
+        
+        if load_in_4bit or load_in_8bit:
+            dequantize_and_replace_kv_b_proj(self.model)
 
         torch.cuda.empty_cache()
         default_kwargs = dict(max_new_tokens=128, repetition_penalty=1.1, do_sample=False, use_cache=True)
