@@ -42,10 +42,10 @@ class DeepSeekVL2(BaseModel):
                 bnb_4bit_use_double_quant=True,
                 bnb_4bit_quant_type="nf4"
             )
-            model_kwargs["device_map"] = "auto"
+            model_kwargs["device_map"] = {"": torch.cuda.current_device()}
         elif load_in_8bit:
             model_kwargs["load_in_8bit"] = True
-            model_kwargs["device_map"] = "auto"
+            model_kwargs["device_map"] = {"": torch.cuda.current_device()}
 
         model: DeepseekVLV2ForCausalLM = AutoModelForCausalLM.from_pretrained(model_path, **model_kwargs)
         if not (load_in_4bit or load_in_8bit):
