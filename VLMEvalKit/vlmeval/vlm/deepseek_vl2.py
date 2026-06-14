@@ -40,12 +40,18 @@ def wrap_attn_forward(attn_class):
                     # 1. Try peft helper
                     try:
                         from peft.utils.integrations import dequantize_bnb_weight
-                        dequantized_weight = dequantize_bnb_weight(weight_param)
+                        try:
+                            dequantized_weight = dequantize_bnb_weight(weight_param, dtype=torch.bfloat16)
+                        except TypeError:
+                            dequantized_weight = dequantize_bnb_weight(weight_param)
                     except ImportError:
                         # 2. Try transformers helper
                         try:
                             from transformers.integrations.bitsandbytes import dequantize_bnb_weight
-                            dequantized_weight = dequantize_bnb_weight(weight_param)
+                            try:
+                                dequantized_weight = dequantize_bnb_weight(weight_param, dtype=torch.bfloat16)
+                            except TypeError:
+                                dequantized_weight = dequantize_bnb_weight(weight_param)
                         except ImportError:
                             pass
                             
