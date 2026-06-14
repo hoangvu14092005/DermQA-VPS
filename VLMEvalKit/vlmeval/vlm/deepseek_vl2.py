@@ -21,36 +21,27 @@ except ImportError:
                 return False
 transformers.modeling_utils.is_flash_attn_2_available = is_flash_attn_2_available
 
-# Monkeypatch to fix RuntimeError: "baddbmm_cuda" not implemented for 'Char' when running in 8-bit/4-bit mode
-_orig_matmul = torch.matmul
-def patched_matmul(input, other, *, out=None):
-    if isinstance(input, torch.Tensor) and input.dtype == torch.int8:
-        if isinstance(other, torch.Tensor):
-            input = input.to(other.dtype)
-        else:
-            input = input.to(torch.bfloat16)
-    if isinstance(other, torch.Tensor) and other.dtype == torch.int8:
-        if isinstance(input, torch.Tensor):
-            other = other.to(input.dtype)
-        else:
-            other = other.to(torch.bfloat16)
-    return _orig_matmul(input, other, out=out)
-torch.matmul = patched_matmul
+def wrap_attn_forward(attn_class):
+    _orig_forward = attn_class.forward
+    def patched_forward(self, *args, **kwargs):
+        orig_weight = None
+        if hasattr(self, "kv_b_proj") and hasattr(self.kv_b_proj, "weight"):
+            weight_param = self.kv_b_proj.weight
+            if hasattr(weight_param, "dequantize"):
+                try:
+                    # Dequantize weight properly using bitsandbytes internal method
+                    dequantized_weight = weight_param.dequantize().to(torch.bfloat16)
+                    orig_weight = self.kv_b_proj.weight
+                    self.kv_b_proj.weight = dequantized_weight
+                except Exception as e:
+                    pass
+        try:
+            return _orig_forward(self, *args, **kwargs)
+        finally:
+            if orig_weight is not None:
+                self.kv_b_proj.weight = orig_weight
+    attn_class.forward = patched_forward
 
-_orig_bmm = torch.bmm
-def patched_bmm(input, mat2, *, out=None):
-    if isinstance(input, torch.Tensor) and input.dtype == torch.int8:
-        if isinstance(mat2, torch.Tensor):
-            input = input.to(mat2.dtype)
-        else:
-            input = input.to(torch.bfloat16)
-    if isinstance(mat2, torch.Tensor) and mat2.dtype == torch.int8:
-        if isinstance(input, torch.Tensor):
-            mat2 = mat2.to(input.dtype)
-        else:
-            mat2 = mat2.to(torch.bfloat16)
-    return _orig_bmm(input, mat2, out=out)
-torch.bmm = patched_bmm
 
 from .base import BaseModel
 
@@ -70,6 +61,18 @@ class DeepSeekVL2(BaseModel):
 
     def __init__(self, model_path='deepseek-ai/deepseek-vl2-tiny', load_in_4bit=False, load_in_8bit=False, **kwargs):
         self.check_install()
+
+        # Dynamically patch DeepseekV2Attention classes to dequantize kv_b_proj.weight on the fly when quantized
+        if load_in_4bit or load_in_8bit:
+            try:
+                import deepseek_vl2.models.modeling_deepseek as modeling_deepseek
+                for name in dir(modeling_deepseek):
+                    obj = getattr(modeling_deepseek, name)
+                    if isinstance(obj, type) and ("Attention" in name) and hasattr(obj, "forward"):
+                        wrap_attn_forward(obj)
+            except Exception as e:
+                warnings.warn(f"Failed to apply DeepseekV2Attention monkeypatches: {e}")
+
         assert model_path is not None
         self.model_path = model_path
         from deepseek_vl2.models import DeepseekVLV2ForCausalLM, DeepseekVLV2Processor
