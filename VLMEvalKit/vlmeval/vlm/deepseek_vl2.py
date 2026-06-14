@@ -27,14 +27,47 @@ def wrap_attn_forward(attn_class):
         orig_weight = None
         if hasattr(self, "kv_b_proj") and hasattr(self.kv_b_proj, "weight"):
             weight_param = self.kv_b_proj.weight
-            if hasattr(weight_param, "dequantize"):
+            
+            # Check if weight is quantized using class name or dtype
+            is_quantized = False
+            if (weight_param.dtype == torch.int8 or 
+                type(weight_param).__name__ in ("Int8Params", "Params8bit", "Params4bit")):
+                is_quantized = True
+                
+            if is_quantized:
                 try:
-                    # Dequantize weight properly using bitsandbytes internal method
-                    dequantized_weight = weight_param.dequantize().to(torch.bfloat16)
-                    orig_weight = self.kv_b_proj.weight
-                    self.kv_b_proj.weight = dequantized_weight
+                    dequantized_weight = None
+                    # 1. Try peft helper
+                    try:
+                        from peft.utils.integrations import dequantize_bnb_weight
+                        dequantized_weight = dequantize_bnb_weight(weight_param)
+                    except ImportError:
+                        # 2. Try transformers helper
+                        try:
+                            from transformers.integrations.bitsandbytes import dequantize_bnb_weight
+                            dequantized_weight = dequantize_bnb_weight(weight_param)
+                        except ImportError:
+                            pass
+                            
+                    # 3. Manual Fallback
+                    if dequantized_weight is None:
+                        if hasattr(weight_param, "CB") and hasattr(weight_param, "SCB"):
+                            CB = weight_param.CB
+                            SCB = weight_param.SCB
+                            dequantized_weight = (CB.to(torch.float32) * SCB.to(torch.float32).view(-1, 1)) / 127
+                            dequantized_weight = dequantized_weight.to(torch.bfloat16)
+                        elif hasattr(weight_param, "quant_state") or hasattr(weight_param, "state"):
+                            state = getattr(weight_param, "quant_state", None) or getattr(weight_param, "state", None)
+                            if state is not None:
+                                import bitsandbytes.functional as F
+                                dequantized_weight = F.dequantize_4bit(weight_param.data, state).to(torch.bfloat16)
+                                
+                    if dequantized_weight is not None:
+                        orig_weight = self.kv_b_proj.weight
+                        self.kv_b_proj.weight = dequantized_weight
                 except Exception as e:
-                    pass
+                    import warnings
+                    warnings.warn(f"Failed to dequantize kv_b_proj.weight: {e}")
         try:
             return _orig_forward(self, *args, **kwargs)
         finally:
