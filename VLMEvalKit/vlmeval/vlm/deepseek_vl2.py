@@ -36,33 +36,72 @@ def wrap_attn_forward(attn_class):
                 
             if is_quantized:
                 try:
+                    # bitsandbytes lazily initializes CB/SCB/state during the first forward pass.
+                    # If they are None, we force initialization via a dummy forward pass.
+                    needs_init = False
+                    if type(weight_param).__name__ in ("Int8Params", "Params8bit"):
+                        if not hasattr(weight_param, "SCB") or weight_param.SCB is None:
+                            needs_init = True
+                    elif type(weight_param).__name__ == "Params4bit":
+                        state = getattr(weight_param, "quant_state", None) or getattr(weight_param, "state", None)
+                        if state is None:
+                            needs_init = True
+                            
+                    if needs_init:
+                        try:
+                            dummy_input = torch.zeros(1, self.kv_b_proj.in_features, device=weight_param.device, dtype=torch.bfloat16)
+                            self.kv_b_proj(dummy_input)
+                            # Re-fetch weight parameter after initialization
+                            weight_param = self.kv_b_proj.weight
+                        except Exception:
+                            pass
+
                     dequantized_weight = None
-                    # 1. Try peft helper
+                    
+                    # 1. Try peft helper with custom BNBState
                     try:
                         from peft.utils.integrations import dequantize_bnb_weight
+                        class BNBState:
+                            def __init__(self):
+                                self.SCB = None
+                        state = BNBState()
                         try:
-                            dequantized_weight = dequantize_bnb_weight(weight_param, dtype=torch.bfloat16)
+                            dequantized_weight = dequantize_bnb_weight(weight_param, state=state, dtype=torch.bfloat16)
                         except TypeError:
-                            dequantized_weight = dequantize_bnb_weight(weight_param)
-                    except ImportError:
-                        # 2. Try transformers helper
+                            dequantized_weight = dequantize_bnb_weight(weight_param, state=state)
+                    except Exception:
+                        pass
+
+                    # 2. Try transformers helper with custom BNBState
+                    if dequantized_weight is None:
                         try:
                             from transformers.integrations.bitsandbytes import dequantize_bnb_weight
+                            class BNBState:
+                                def __init__(self):
+                                    self.SCB = None
+                            state = BNBState()
                             try:
-                                dequantized_weight = dequantize_bnb_weight(weight_param, dtype=torch.bfloat16)
+                                dequantized_weight = dequantize_bnb_weight(weight_param, state=state, dtype=torch.bfloat16)
                             except TypeError:
-                                dequantized_weight = dequantize_bnb_weight(weight_param)
-                        except ImportError:
+                                dequantized_weight = dequantize_bnb_weight(weight_param, state=state)
+                        except Exception:
                             pass
                             
                     # 3. Manual Fallback
                     if dequantized_weight is None:
-                        if hasattr(weight_param, "CB") and hasattr(weight_param, "SCB"):
-                            CB = weight_param.CB
-                            SCB = weight_param.SCB
-                            dequantized_weight = (CB.to(torch.float32) * SCB.to(torch.float32).view(-1, 1)) / 127
-                            dequantized_weight = dequantized_weight.to(torch.bfloat16)
-                        elif hasattr(weight_param, "quant_state") or hasattr(weight_param, "state"):
+                        if type(weight_param).__name__ in ("Int8Params", "Params8bit") or weight_param.dtype == torch.int8:
+                            if hasattr(weight_param, "SCB") and weight_param.SCB is not None:
+                                try:
+                                    import bitsandbytes.functional as F
+                                    if hasattr(F, "int8_vectorwise_dequant"):
+                                        dequantized_weight = F.int8_vectorwise_dequant(weight_param.data, weight_param.SCB).to(torch.bfloat16)
+                                except Exception:
+                                    pass
+                                if dequantized_weight is None:
+                                    SCB = weight_param.SCB
+                                    dequantized_weight = (weight_param.data.to(torch.float32) * SCB.to(torch.float32).view(-1, 1)) * 7.874015718698502e-3
+                                    dequantized_weight = dequantized_weight.to(torch.bfloat16)
+                        elif type(weight_param).__name__ == "Params4bit":
                             state = getattr(weight_param, "quant_state", None) or getattr(weight_param, "state", None)
                             if state is not None:
                                 import bitsandbytes.functional as F
