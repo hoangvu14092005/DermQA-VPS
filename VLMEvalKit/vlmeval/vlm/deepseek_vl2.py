@@ -5,6 +5,22 @@ import torch
 from PIL import Image
 from transformers import AutoModelForCausalLM
 
+# Monkeypatch to fix ImportError: cannot import name 'is_flash_attn_2_available' from 'transformers.modeling_utils' in newer transformers versions
+import transformers.modeling_utils
+try:
+    from transformers.utils import is_flash_attn_2_available
+except ImportError:
+    try:
+        from transformers.utils.import_utils import is_flash_attn_2_available
+    except ImportError:
+        def is_flash_attn_2_available():
+            try:
+                import flash_attn
+                return True
+            except ImportError:
+                return False
+transformers.modeling_utils.is_flash_attn_2_available = is_flash_attn_2_available
+
 from .base import BaseModel
 
 
