@@ -265,7 +265,15 @@ class DeepSeekVL2(BaseModel):
             conversations=conversation,
             images=pil_images,
             force_batchify=True,
-            system_prompt=""
+            system_prompt=(
+                "You are a professional medical assistant specialized in dermatology. "
+                "Answer the user's question about the skin lesion image in a direct, complete, and concise manner in the same language as the question. "
+                "Follow these strict rules:\n"
+                "1. Provide a complete, grammatically correct answer (do NOT output only keywords or a few words).\n"
+                "2. Start answering directly. Do NOT write introductory sentences, conversational filler, or greetings.\n"
+                "3. Write the answer as a single, coherent paragraph. Do NOT use bullet points or list formats.\n"
+                "4. Keep the entire answer to 1 to 3 sentences (under 50 words) so that it is complete yet concise."
+            )
         )
         prepare_inputs = prepare_inputs.to(self.model.device)
         inputs_embeds = self.model.prepare_inputs_embeds(**prepare_inputs)
