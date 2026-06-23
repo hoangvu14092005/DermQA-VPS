@@ -33,7 +33,7 @@ def main():
         return
         
     mask = df_dataset['category'].str.lower().str.contains(category_pattern, na=False)
-    target_indices = set(df_dataset[mask]['index'].astype(str).tolist())
+    target_indices = set(df_dataset[mask]['index'].astype(float).tolist())
     
     logger.info(f"Found {len(target_indices)} questions belonging to category matching '{category_pattern}' out of {len(df_dataset)} total questions.")
     if len(target_indices) == 0:
@@ -82,16 +82,16 @@ def main():
             continue
 
         # Count how many target rows exist in this prediction file
-        df_pred['index_str'] = df_pred['index'].astype(str)
-        matching_rows = df_pred[df_pred['index_str'].isin(target_indices)]
+        df_pred['index_float'] = pd.to_numeric(df_pred['index'], errors='coerce')
+        matching_rows = df_pred[df_pred['index_float'].isin(target_indices)]
         num_to_remove = len(matching_rows)
         
         if num_to_remove == 0:
             logger.info(f"No cached predictions found for target category in {pred_file}. Skipping edits.")
         else:
             # Filter out the matching rows
-            df_filtered = df_pred[~df_pred['index_str'].isin(target_indices)]
-            df_filtered = df_filtered.drop(columns=['index_str'])
+            df_filtered = df_pred[~df_pred['index_float'].isin(target_indices)]
+            df_filtered = df_filtered.drop(columns=['index_float'], errors='ignore')
             
             # Save the file back
             try:
